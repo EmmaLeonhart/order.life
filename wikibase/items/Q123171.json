@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Osbern FitzOsbern"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123171$D5E671B1-CDD8-4518-9E2F-BE9CC07FFBD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123171$A867C21C-804A-40B0-8151-E5A8C3015168",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123171$7A597935-E249-4E95-B4F1-8EC2E5AF16F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120181",
+              "numeric-id": 120181
+            }
+          },
+          "hash": "235a39dc19a63e8bf627d0f3d6e295b31deec511",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123171$88538517-788F-4207-B9FF-7866AA3E9ECC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123171$601AD4D6-4CCE-4611-A5ED-BB4486E14B22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1032-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "76166697eab15d61bc1f67cae5bb22246ddbbded",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123171$8DCB2FA8-847A-4115-BFEC-DE91EBE33623",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1103-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fc75502b88516c1f27d33f1c139eff61a0b727a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123171$088DA880-971F-4B2E-8CC7-2E74981F1D8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2044913"
+          },
+          "hash": "64a30cd00a2cfb109db64bdbbc6c587b4a419a07",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123171$A098C41B-874D-4BAC-850E-1B8CF355D27B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Osbern FitzOsbern Arms.svg"
+          },
+          "hash": "973e1dd6beeaf3154b7fe3a75ea7189323a43961",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "offeiriad Catholig (1032-1103)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Exeter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Exeter"
+    }
+  },
+  "id": "Q123171",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوسبرين فيتز اوسبرين"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Osbern Fitzosbern"
+    },
+    "de": {
+      "language": "de",
+      "value": "Osbern FitzOsbern"
+    },
+    "en": {
+      "language": "en",
+      "value": "Osbern FitzOsbern"
+    },
+    "es": {
+      "language": "es",
+      "value": "Osbern FitzOsbern"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Osbern Fitz Osbern"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Osbern FitzOsbern"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Osbern FitzOsbern"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Osbern FitzOsbern"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Osbern FitzOsbern"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧斯本·菲茲奧斯本"
+    }
+  },
+  "lastrevid": 17536352,
+  "modified": "2025-09-17T06:55:16Z",
+  "ns": 860,
+  "pageid": 148654,
+  "sitelinks": {},
+  "title": "Item:Q123171",
+  "type": "item"
+}

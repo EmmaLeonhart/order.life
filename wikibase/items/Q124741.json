@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Constance of Aragon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124741$5E08BE6E-9280-406F-9E32-6466AD6B0B80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00549907"
+          },
+          "hash": "d9aeaf4e7cdff9a78320c82f6fbe9421630aca17",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124741$2CB5222A-0F60-4E21-A663-316AE1A08B79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "De_Aragón-56"
+          },
+          "hash": "c03a7a0fe17cde5811edc1707c7936bbb51c48b3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124741$BBFB96BF-4AE5-440A-ADA6-3F76CED34E70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124741$0D2B58F1-82C1-4A73-85BE-9138DEA887CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124741$8CCCC699-A30C-4F64-A129-15B801071517",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Constança_d'Aragó_(1)"
+          },
+          "hash": "8022797e8b1aee8dcc4b677a2872419cfdc4785a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124741$420189D1-D256-40B7-B232-802819CBA51B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119455",
+              "numeric-id": 119455
+            }
+          },
+          "hash": "07160c0c7fb6b9bff3b4023d23cfa09f0a7bcae7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124741$E00E2C05-413B-4C00-903A-B35A5212FBDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124741$5A48C50C-8401-4199-89CB-41F40469B93E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1205-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "08a0256f43dba8b5892f8fb1346b6e504ee8ea58",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124741$D58C33BD-634B-41C6-84B5-55894567A6E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1252-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1182bab7388335761421df0a2ab9f014292772ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124741$9B6ACE7B-1C26-47D2-84CC-BBDD1F6DFE28",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11926635"
+          },
+          "hash": "52634e418d2f47982f44ec699ab2536648f7f4da",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124741$96B4435E-1E83-419E-AA01-3ABF6F6611B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=constanza;n=de aragon;oc=5"
+          },
+          "hash": "54060003f96ef7a8c1c37900db740d0dd0aa1dff",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124741$802C3ACC-67CA-4B89-B74B-CD533ADB9FA7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Constance of Aragon Arms.svg"
+          },
+          "hash": "cce6bbb7fc384571578058b29d42a6b83f25d01f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "infanta d'Aragó"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "aragonská infantka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aragonese infanta"
+    },
+    "es": {
+      "language": "es",
+      "value": "infanta de Aragón"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "infanta de Aragón"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "баронесса Айтоны"
+    }
+  },
+  "id": "Q124741",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كونستانس الأرغونية"
+    },
+    "be": {
+      "language": "be",
+      "value": "Канстанцыя Арагонская"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Constança d'Aragó"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Konstancie Aragonská"
+    },
+    "en": {
+      "language": "en",
+      "value": "Constance of Aragon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Constanza de Aragón"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Costanza de Aragón"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Infanta Constança d'Aragó"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Констанция Арагонская"
+    }
+  },
+  "lastrevid": 17537880,
+  "modified": "2025-09-17T07:16:30Z",
+  "ns": 860,
+  "pageid": 150753,
+  "sitelinks": {},
+  "title": "Item:Q124741",
+  "type": "item"
+}

@@ -1,0 +1,292 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hermann"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q122365$CCD911C2-649C-410B-A149-F3FC741D5B13",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Billung-46"
+          },
+          "hash": "a2febdfc7e6bbe5f1113e1b32fbb5f27140f5b84",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122365$FD2161A1-E96D-47BE-84B9-194FF3C5E5BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122365$71F382F1-D7B8-4847-8294-573F0CB3BEEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122365$E18C2A86-835D-4FAA-A675-41D640AFCC51",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hermann_von_Sachsen_(1)"
+          },
+          "hash": "06fab71986a925eace4fd2c0a0a540cb21db58ac",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122365$E1BA10F0-1B77-4800-BD94-8570E6B63246",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122361",
+              "numeric-id": 122361
+            }
+          },
+          "hash": "3e5be3b4dde8b80b1b94c9c9c0578056bd926561",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122365$4AF9152B-4944-4CBB-B2B7-C765731ED6FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122363",
+              "numeric-id": 122363
+            }
+          },
+          "hash": "21dacdbcc69cf1414663f52ddd0c5d903e596d69",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122365$FFB7E232-86BB-4AAC-AEDB-FF20B006AC3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122365$B0393480-DA80-48B7-9C0D-F2D320431AA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122365$B1E95A68-B080-4990-BF84-D7AA2E93D341",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1086-05-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bd2823b6a963f44891031961a8ce2c9abceee555",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122365$8D97BD02-2F6C-44F7-8ED6-1D84EA1CB7AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19960317"
+          },
+          "hash": "c0bb7d04fbaddffabc2190974ef72c638ffde194",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q122365$3BECE9E8-E697-4668-9CEA-F1AD6405395C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.7973"
+          },
+          "hash": "1ca20b26a03fc7f1430da5d7f71f737ed40cf072",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122365$11528DFF-4F66-4B2E-8691-3FED786D0643",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hermann Arms.svg"
+          },
+          "hash": "6be69f87f7737d68102c6da10ab070e04ee00d34",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf im Bardengau"
+    },
+    "en": {
+      "language": "en",
+      "value": "1030 - 31 May 1086"
+    }
+  },
+  "id": "Q122365",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Herman Saský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hermann"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hermann"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hermann de Saxe"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hermann av Sachsen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hermann"
+    }
+  },
+  "lastrevid": 17535554,
+  "modified": "2025-09-17T06:44:39Z",
+  "ns": 860,
+  "pageid": 147576,
+  "sitelinks": {},
+  "title": "Item:Q122365",
+  "type": "item"
+}

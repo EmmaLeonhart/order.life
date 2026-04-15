@@ -1,0 +1,198 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q122772$562B3DD8-29FA-4254-AC9B-8032FA9DB209",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122772$90138E93-2AF3-4543-B4F9-EEFC0ECB906E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122772$5396AC17-0154-4FCA-9175-A5FCC4FF7EA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Helie_de_Périgord_(4)"
+          },
+          "hash": "e3bee80a1c521bcff62d4b26ebc631bcdcfe0bf0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122772$D35D77B0-0F04-4390-B2B5-46360B1304C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117868",
+              "numeric-id": 117868
+            }
+          },
+          "hash": "b025d78a64ef26ba213a9a9fa80e67c235f1742f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122772$3BA081ED-06C9-4B56-866C-3B23779CF841",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122772$2F27C2FD-EADC-42C9-B98A-6F6AFD48D2A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1131-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "949091bccbe56c72cfcfd54de38322731d66c13c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122772$F21420B8-BE82-4C7A-9072-D13CDAEC589B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30887539"
+          },
+          "hash": "34dbabd4fd7e41dd073bf4a7a4c306857e0243f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122772$729CE7E9-84B5-46E5-A3B9-6F2165058936",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=helie;n=de talleyrand"
+          },
+          "hash": "3eb47abc56d2b64839e8479a7eef4e72f179287a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122772$0924EF28-E375-4F56-BD91-FCA83BD4060E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eli IV Arms.svg"
+          },
+          "hash": "81820f24c40cb6677a6c45fdd7d3b77fe27ffbc1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q122772",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Eli IV"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эли IV"
+    }
+  },
+  "lastrevid": 17535958,
+  "modified": "2025-09-17T06:50:04Z",
+  "ns": 860,
+  "pageid": 148121,
+  "sitelinks": {},
+  "title": "Item:Q122772",
+  "type": "item"
+}

@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guillaume de Bourgogne"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q123285$75B3F7DF-B698-48D6-A405-3E459D6D7239",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "De_Chalon-4"
+          },
+          "hash": "01490bab35119dce2e543f1cc4f37937cc1f6772",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123285$39C8330D-AEC5-4D7C-AB0E-D8E716ECBA36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123285$D332A843-9F26-4DFE-9EF0-CD852D95414D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q123285$D069A7ED-FEBA-4BAC-B29A-D2AEC2F8707B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11528.htm#i115274"
+          },
+          "hash": "a58917aa46bce15e9ab5cf96ceec72b4a5b78748",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123285$C4C934B9-8061-4E5A-951B-7D17FC84FFEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118150",
+              "numeric-id": 118150
+            }
+          },
+          "hash": "13bc542daca3cbe47f9771b5e7ada1a91b1c189e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123285$6B9995DF-2C7A-4D6F-96E8-03415BB2CD6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123285$F9431D4E-EF69-450F-B58E-3A302E157D2D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123285$34D4C49B-AC2B-47C8-AEE1-0E5EE2BC6E79",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1206-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1c8175e122f214e21a7d1b090721d244ded902f2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123285$61505357-4337-444C-AA14-3A2417C6D579",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75395041"
+          },
+          "hash": "7c90b07f354a301e50d1c67523b54bf868634642",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123285$FDD75D85-E03D-4936-A8E1-AA62090A914A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guillaume;n=de bourgogne"
+          },
+          "hash": "937bf73371dfb246431393526f2103dc0cdc3ea6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123285$F47D637C-313C-4DD7-860F-821F07A12C60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume de Bourgogne Arms.svg"
+          },
+          "hash": "d05ef038e660fc7933b01752cf05d6d5d9cc4616",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=115274"
+    }
+  },
+  "id": "Q123285",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Guillaume de Bourgogne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guillaume de Bourgogne"
+    }
+  },
+  "lastrevid": 17536466,
+  "modified": "2025-09-17T06:56:46Z",
+  "ns": 860,
+  "pageid": 148806,
+  "sitelinks": {},
+  "title": "Item:Q123285",
+  "type": "item"
+}

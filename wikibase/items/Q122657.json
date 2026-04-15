@@ -1,0 +1,797 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry the Courageous"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122657$195F35FA-AE75-4542-BA39-2A8A25594044",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "10147"
+          },
+          "hash": "f99aa18232c7c30efb98968af1dd3bb080539657",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q122657$E8BA440A-5350-4C50-9793-A96F794BC17F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00012282"
+          },
+          "hash": "4f8c495eb807f275cb5c10d54d8fdc51871ccda2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q122657$11FFF4D9-E3FE-4497-8BA6-54A9B7D898C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128833",
+              "numeric-id": 128833
+            }
+          },
+          "hash": "085714c40365b50ea4ba5e0bf78bde3f292865ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122657$CB7A3A5E-FF64-4EA8-9E95-6B071F6D3E2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128915",
+              "numeric-id": 128915
+            }
+          },
+          "hash": "4d751e195243c563a434e4b6c9f7511e0f15e5e6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122657$E86E76DF-B749-4AA7-AD15-9D8A7B4F1DC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129005",
+              "numeric-id": 129005
+            }
+          },
+          "hash": "712f25f1661045ed8bbf968cbb7062f5dcec3de0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122657$685EDDB8-4320-43BB-BD3C-CB428AAAC709",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129011",
+              "numeric-id": 129011
+            }
+          },
+          "hash": "2c31a0db45ea5a9fe9432283086b9f05be892d2b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122657$6D9C1A8A-3EBA-4F38-BBDF-8E5DE6F35F0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129009",
+              "numeric-id": 129009
+            }
+          },
+          "hash": "1ad975f05f7b4d2a42257e4d358c4d52ac68aa10",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122657$09E611C5-B0DC-46B9-8A51-15588990A55F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129007",
+              "numeric-id": 129007
+            }
+          },
+          "hash": "b49c47efa3d6088c12b470c4459cc42ba34f6a20",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122657$DAD7603A-5442-47B8-82B0-5AF937C5FA1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128995",
+              "numeric-id": 128995
+            }
+          },
+          "hash": "1aa3095a9598ba6b8cf146136558ca12ddf1ed2e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122657$6856B640-F27F-449E-814A-F7B6F608C9DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129013",
+              "numeric-id": 129013
+            }
+          },
+          "hash": "be570315f19fb0f0969b878b48da955feffb971d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q122657$A45CE2BF-C735-4E71-9AEF-C403840D349E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Brabant-6"
+          },
+          "hash": "5e6f93fa7af4fdfdd39f88d468e74c1f6507dd88",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q122657$B6FDEB52-F129-4A65-A906-B2ADF0FA0D09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I3111"
+          },
+          "hash": "8b58082d2563097ab45f81e5ddb0f1337b33f419",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122657$A65BE411-6126-4415-87AF-8F22BDDA4E29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122657$DDCC8DC0-65BE-4BA4-911A-5DFA8C937574",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122657$A87DBA7A-FF99-4FCE-903B-7E2B6B9D8710",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henri_I,_Duc_de_Brabant_(1)"
+          },
+          "hash": "ee57df105310874fb4eb815916618922a8b9a5a5",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122657$EC73A41F-FDDE-4C4A-8CBF-BEC6A5E61483",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128365",
+              "numeric-id": 128365
+            }
+          },
+          "hash": "d8550cc4b0d1ab672cc6e284579fb0ed2d3ee9f5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122657$0240A90E-7058-4518-B013-D3D406F57284",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128593",
+              "numeric-id": 128593
+            }
+          },
+          "hash": "331b0ca7af6ff1707c2c1634d3d31ace23505c9b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q122657$EAB98C8B-623C-443F-9B2B-0A0BCB97322C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10678.htm#i106773"
+          },
+          "hash": "aa44c0e31b380d47eaa30d5d6e3299f6edd9aee6",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122657$DE70ECF5-7925-4C24-A9AD-27EA97BA0167",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122655",
+              "numeric-id": 122655
+            }
+          },
+          "hash": "8cd4e3e6ef62df6462f3d4e566a4bb457f9ec3fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122657$5A646A87-5905-42FB-9879-E5DB52BEF65E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117774",
+              "numeric-id": 117774
+            }
+          },
+          "hash": "67132de7b258a650105d3860b7c1a54cad0bd327",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q122657$8BA4133E-E87C-4F4F-9EA9-21765DA8A6F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8113"
+          },
+          "hash": "ed84b95f2de28bb2ce05d89f2fc64bd00eba9765",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122657$8D134487-B9A4-4783-B3AB-89FD7BBE6C84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122657$85D62035-05FE-4F36-9A9B-E2D06B6B3422",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1165-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7f0683403d6b47362f4151748670891c6cf059f3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122657$C7E356F4-ABD8-476C-AB1E-2267F5E241D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1235-09-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "25f889557aca4cb139f457c542c4332cd12909ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122657$8AEE6260-90F9-4AED-8DE7-772E5A0A50A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q461045"
+          },
+          "hash": "b95fac471c89f5d0c930ebe9a94e8611590f1ce4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q122657$D1BD6CF8-4827-47E6-AB64-3E32DB0DC6C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002903773792"
+          },
+          "hash": "ee5f6f1043e77c6007267960a136609ec17fa197",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122657$E23F2914-C73C-44F8-8713-4DCDE1AED732",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hendrik;n=van brabant"
+          },
+          "hash": "6a91e6b455a3b70a3396c557c38c59c0ba50238c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q122657$30B07EE9-B504-4490-9675-61737E1440EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.8033"
+          },
+          "hash": "1e5ab7c620db41a6e08283f3d701548840724e57",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122657$15FBB591-EADD-4B6C-A1C0-950AFEF67A9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry the Courageous Arms.svg"
+          },
+          "hash": "db9ef092770a4b12b0bf0210aae3c23df7fc1623",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "(~1165 -1235) governant centreeuropeu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "dolnolotrinský vévoda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Brabant"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke of Brabant (from 1183) and Duke of Lower Lotharingia (from 1190)"
+    },
+    "es": {
+      "language": "es",
+      "value": "I Duque de Brabante"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "duc de Brabant (1165-1235)"
+    },
+    "he": {
+      "language": "he",
+      "value": "דוכס בראבנט"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "brabanti herceg"
+    },
+    "it": {
+      "language": "it",
+      "value": "primo duca del Brabante e duca di Lorena e Lovanio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hertog van Brabant (vanaf 1183) en hertog van Neder-Lotharingen (vanaf 1190)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "герцог Брабанта и Нижней Лотарингии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "vojvoda Brabanta (od leta 1183) in vojvoda Spodnje Lotaringije (od leta 1190)"
+    }
+  },
+  "id": "Q122657",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هنري الأول، دوق برابانت"
+    },
+    "be": {
+      "language": "be",
+      "value": "Генрых I (герцаг Брабанта)"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хендрик I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Enric el Brau"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich I. Brabantský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Henrik 1., hertug af Brabant"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος Α΄ της Βραβάντης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry the Courageous"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Henriko la 1-a de Brabanto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enrique I de Brabante"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri Ier de Brabant"
+    },
+    "he": {
+      "language": "he",
+      "value": "הנדריק הראשון, דוכס בראבנט"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Henrik I., vojvoda Brabanta"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Henrik brabanti herceg"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hendrik I dari Brabant"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico I di Brabante"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンリ1世"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Генрих I"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "گەنرىيح I"
+    },
+    "kk-cn": {
+      "language": "kk-cn",
+      "value": "گەنرىيح I"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Генрих Ы"
+    },
+    "kk-kz": {
+      "language": "kk-kz",
+      "value": "Генрих Ы"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Genrïx I"
+    },
+    "kk-tr": {
+      "language": "kk-tr",
+      "value": "Genrïx I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik I van Brabant"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Henryk I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Henrique I de Brabante"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Henrique I de Brabante"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Henric I de Brabant"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих I"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Henrik I. Brabantski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хенри I, војвода Брабанта"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Henrik I av Brabant"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "I Һендрик"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Генріх I (герцог Брабанту)"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Hendrik I van Broabant"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亨利一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "亨利一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "亨利一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "亨利一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "亨利一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "亨利一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "亨利一世"
+    }
+  },
+  "lastrevid": 17535844,
+  "modified": "2025-09-17T06:48:33Z",
+  "ns": 860,
+  "pageid": 147967,
+  "sitelinks": {},
+  "title": "Item:Q122657",
+  "type": "item"
+}

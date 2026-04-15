@@ -1,0 +1,384 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abu al-Qasim Muhammad ibn Abbad"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124936$1666AFE7-A8F3-4B85-B29E-C2633184DABA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "81226"
+          },
+          "hash": "7a55d3f8e37e3d933951625ad8c2eba979cc58ec",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124936$EFC5C7B0-1F3F-4414-B0F3-98D3CDB6CC2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119599",
+              "numeric-id": 119599
+            }
+          },
+          "hash": "4ca6d9bf56260981fceec0dfa158cab469904b98",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124936$DCA93D4C-57D2-4EF8-8A85-6B7947AA4F32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Abbadid-1"
+          },
+          "hash": "264a67ff5eb88f014903951b9c4cb5c9fc658f43",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124936$044CB242-DC27-4EB6-B622-CFB50E134E3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124936$0C917531-C982-449F-AF6A-9A1C9173FFF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124936$2B6A59AC-8CF5-4113-BFB6-C26D16A2A518",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Abu_al-Qasim_Muhammad_ibn_Abbad_(1)"
+          },
+          "hash": "b36ae59d75277702fd6e3aaf2ed1592daf89afa0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124936$CDBA49A2-DF6A-4251-BF74-34FD75B8FDDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124936$50E0A0E3-31A5-456A-BB83-F6D4F14445E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0984-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b08b120e36a25e12952fe3ee80499604ef3cb057",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124936$1F2A71E7-0F42-4A1B-A13F-53788E9EA95B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1042-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b44f35bbe88b4c65e46efe261b893fcae967afab",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124936$FC030FE6-BB17-4E97-A51B-641A23828C56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q305795"
+          },
+          "hash": "9afebdba67a55afa6f6e890dc50c6e4a91105ed6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q124936$F90DEF3C-64B4-4BAE-978B-A06002F34EC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003937199515"
+          },
+          "hash": "a75ce886da2610093cdf07f19dc89aa4dd610ca8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124936$DFB48C76-78DA-42C3-8EE5-DC8CE13F4803",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abu al-Qasim Muhammad ibn Abbad Arms.svg"
+          },
+          "hash": "c1d3d4aabc188189d030c3e2765cf8df44a1c553",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مؤسس سلالة بني عباد، التي أقامت دولة في جنوب الأندلس"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herrscher des Taifa-Reiches Sevilla"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abbadid dynasty ruler of Seville from 1023 to 1042"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Émir de Séville"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano arabo"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "władca muzułmańskiej Sewilli, założyciel dynastii Abbadytów"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "эмир Севильи"
+    }
+  },
+  "id": "Q124936",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أبو القاسم بن عباد"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ابو القاسم بن عباد"
+    },
+    "as": {
+      "language": "as",
+      "value": "আবু আল কাছিম বিন আব্বাদ"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আবু আল কাসিম বিন আববাদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Abu-l-Qàssim Muhàmmad ibn Abbad"
+    },
+    "de": {
+      "language": "de",
+      "value": "Abbad I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Abu al-Qasim Muhammad ibn Abbad"
+    },
+    "es": {
+      "language": "es",
+      "value": "Abú al-Qasim"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ابوالقاسم ابن عباد"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Abbad Ier"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "अबू अल-कासिम बिन अब्बाद"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Abad I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Abú al-Qasim"
+    },
+    "id": {
+      "language": "id",
+      "value": "Abu al-Qasim Muhammad bin Abbad"
+    },
+    "it": {
+      "language": "it",
+      "value": "Abu al-Qasim Muhammad ibn Abbad"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Abu al-Qasim Muhammad ibn Abbad"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Abbad I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Abad I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Abad I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аббад I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Abad I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Абад I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Abbad"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аббад I (емір Севільї)"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ابو القاسم بن عباد"
+    }
+  },
+  "lastrevid": 17538076,
+  "modified": "2025-09-17T07:19:12Z",
+  "ns": 860,
+  "pageid": 151014,
+  "sitelinks": {},
+  "title": "Item:Q124936",
+  "type": "item"
+}

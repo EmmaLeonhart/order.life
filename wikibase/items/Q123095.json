@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Unfredo di Montescaglioso"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123095$071A67CA-2AA0-42A3-9F85-6604BFB0482D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00421121"
+          },
+          "hash": "8572c1439e56a3ebb9fa2ecb72e61ef137b91c26",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123095$42A19503-CF98-45C5-A1E7-83FD2896A651",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118028",
+              "numeric-id": 118028
+            }
+          },
+          "hash": "b3209a4f83c9e42985bfad1ae91a98227a1e969b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123095$622C4DDE-F208-456C-A274-E3525146082B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123095$55D59747-0782-4347-A531-BBB2509ED8CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123095$B3754FB3-2A41-4944-A6B9-DAFA19CC61CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120265",
+              "numeric-id": 120265
+            }
+          },
+          "hash": "576a2246643a7e7749f5ba72a9c3137a07d304f9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123095$A39BDA09-FB19-41B1-9C67-D0EC21DD09EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123095$102CCC8D-1F88-4306-8EC8-BEC0EA06CF59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1045-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "52d283e1af1d7d9df00134379e705ab6f7748805",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123095$8BCED672-FB1A-494A-B7A5-E74898D55187",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1095-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1ef51ba0623e831eaa6befe89bdc6c220337e064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123095$2F553049-893C-484B-8761-8F8C26D6A725",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18420644"
+          },
+          "hash": "c3453c00159eb814379b26e4a68d92d5ef2763a1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123095$A98136AE-8940-47F1-B69F-8B4CA9B5E3E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=unfredo;n=di montescaglioso"
+          },
+          "hash": "313da9fbabfe07f39accacec75136512b5d5d738",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123095$7886F6BD-C1D7-4F8C-B2A2-129D62B01111",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Unfredo di Montescaglioso Arms.svg"
+          },
+          "hash": "d1ba6a963658371d8f3ad93b04b186bb94cf6152",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q123095",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Unfredo di Montescaglioso"
+    },
+    "en": {
+      "language": "en",
+      "value": "Unfredo di Montescaglioso"
+    },
+    "it": {
+      "language": "it",
+      "value": "Unfredo di Montescaglioso"
+    }
+  },
+  "lastrevid": 17536276,
+  "modified": "2025-09-17T06:54:16Z",
+  "ns": 860,
+  "pageid": 148552,
+  "sitelinks": {},
+  "title": "Item:Q123095",
+  "type": "item"
+}

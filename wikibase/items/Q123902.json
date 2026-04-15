@@ -1,0 +1,405 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Al-Mustarshid"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123902$84557759-6889-4EF1-8957-5F8A1E3463C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "641551"
+          },
+          "hash": "020606308c0a93469c1741ac18d7a38aca8a2545",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123902$1BBFA57C-7FB2-493B-9E5F-0E5DCF04DC2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123902$D2EBE902-4968-4417-9EC2-6CB577DB9C15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123902$C36C7961-52FD-45A6-839C-D82DADEEDBD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118776",
+              "numeric-id": 118776
+            }
+          },
+          "hash": "a5fa36b373596c3619f034746d7ad12313295436",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123902$05BC1C6A-20B1-4CAA-81C0-A7F0EA058B86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123902$970D1088-3B9E-4D39-A111-DD316693CB1C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1092-04-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9e260f4fb9840968d2fc4ae9916f03b05e21cdb2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123902$9B5E8CE3-63DD-46F5-B598-4BAE7653DAF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1135-08-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "52271070175d1520558c217272dd0e4b9775533f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123902$B5DA4331-7136-4145-B923-90A5008E5293",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q293621"
+          },
+          "hash": "fc9905146b74548a78b029dcf0f8c7e29334e251",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123902$D588F5D4-9BF7-4FAB-9BF2-D311CD6E8EE8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Al-Mustarshid Arms.svg"
+          },
+          "hash": "713e8bb49417b23f3680421baf4aaf787c8bcd82",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "الخليفة العبَّاسي التاسع والعشرون (حكم 512 – 529هـ / 1118 – 1135م)"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "خليفه المسلمين من العباسيين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Califa iraquín (1092–1135)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "califa abbàssida"
+    },
+    "de": {
+      "language": "de",
+      "value": "29. Kalif der Abbasiden (1118–1135)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abbasid caliph in Baghdad (r. 1118–1135)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "calife de Bagdad"
+    },
+    "it": {
+      "language": "it",
+      "value": "califfo arabo della dinastia abbaside"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アッバース朝のカリフ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "kalief uit Irak (1092-1135)"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "نهه ويشتم عباسي خليفه چې په بغداد کې له (۱۱۱۸-۱۱۳۵ زېږديز) واکمن وو"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Багдадский халиф из династии Аббасидов, правивший 1118 по 1135 год."
+    },
+    "tr": {
+      "language": "tr",
+      "value": "29. Abbasi halifesi"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "خلافت عباسیہ کا اُنتیسواں خلیفہ جس نے 1118ء سے 1135ء تک حکومت کی۔"
+    }
+  },
+  "id": "Q123902",
+  "labels": {
+    "aeb-arab": {
+      "language": "aeb-arab",
+      "value": "الفضل المسترشد بالله"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "الفضل المسترشد بالله"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الفضل المسترشد بالله"
+    },
+    "as": {
+      "language": "as",
+      "value": "ঈশ্বৰৰ দ্বাৰা পৰিচালিত ক্ৰেডিট"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "مسترشد"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ক্রেডিট ঈশ্বর দ্বারা পরিচালিত"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Al-Mústarxid"
+    },
+    "de": {
+      "language": "de",
+      "value": "Al-Mustarschid"
+    },
+    "el": {
+      "language": "el",
+      "value": "αλ-Μουσταρσίντ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Al-Mustarshid"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Al-Mustarŝid"
+    },
+    "es": {
+      "language": "es",
+      "value": "Al-Mustarshid"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ابومنصور فضل مسترشد"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Al-Mustarchid"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Al-Mustarshid"
+    },
+    "he": {
+      "language": "he",
+      "value": "אל-מסתרשד"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "भगवान द्वारा निर्देशित श्रेय"
+    },
+    "id": {
+      "language": "id",
+      "value": "Al-Mustarsyid"
+    },
+    "it": {
+      "language": "it",
+      "value": "Al-Mustarshid"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ムスタルシド"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ალ-მუსთარშიდი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "알무스타르시드"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Al-Mustarshid"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "مسترشد"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "ابو منصور فضل مسترشد"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Al-Mustarshid"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Al-Mustarshid"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аль-Мустаршид"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Al-Mustaršid"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "المسترشد باللہ"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Al-Mustarshid"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Müsterşid"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аль-Мустаршид Біллах"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "المسترشد باللہ"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Al-Mustarshid"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "穆斯塔爾希德"
+    }
+  },
+  "lastrevid": 17537064,
+  "modified": "2025-09-17T07:04:48Z",
+  "ns": 860,
+  "pageid": 149626,
+  "sitelinks": {},
+  "title": "Item:Q123902",
+  "type": "item"
+}

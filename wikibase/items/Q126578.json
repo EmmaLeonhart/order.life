@@ -1,0 +1,389 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eckard II, Margrave of Meissen"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q126578$BFD6E2CE-5912-4AD5-9626-4C86406FA309",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "VanMeissen-1"
+          },
+          "hash": "a40a93c702e78100f109feb4a1096c4dff904264",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126578$E9C6334F-5E50-4BEE-9646-FF543C9CA43A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126578$C95D5814-1F6B-4270-A23B-58DF901DBE87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126578$EBFB2BCD-E584-407E-B79B-D1A31B3EC7C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eckard_Unknown_(2)"
+          },
+          "hash": "3b0182328b5c9f015572765be95c8fba6bc2eb20",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126578$E76F8B44-CB41-40D8-A660-D592DBD09C4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120946",
+              "numeric-id": 120946
+            }
+          },
+          "hash": "ef689f77e0caf0ed4bde4faa4fa21c618554907e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126578$302E7732-07B5-47EB-AFEF-6B7E839136A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126851",
+              "numeric-id": 126851
+            }
+          },
+          "hash": "cb7fcff0f66dbacffd6125866b6104c290c67e94",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126578$E55E493A-AF16-4238-AB26-CD82D845D9DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126578$8A45AE86-798F-49F6-99E8-095298F9455D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0985-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0fbbc019df193a634f657eb1696262a07e7ec0fb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126578$A0CFDF5D-A646-40E1-9BD9-B7BEC9D901C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1046-01-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2bcaff7dce0f2cf44ee96abca003685aaf2b9bc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126578$5F416FC8-95F4-4C59-9B29-71D90588E3A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65011"
+          },
+          "hash": "eed17447ee10a786e262dba7b67578095aa790bb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126578$229AEC1E-0B06-464D-8B2E-0220A52F7DF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ekkehard;n=von meissen;oc=1"
+          },
+          "hash": "9e65eaff9a522e275f41f77ece77967787ff085d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q126578$4BE4E8C5-C346-4513-A8D0-E303666ABE22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.91"
+          },
+          "hash": "81ad44f80c3ec2fc20200b1161dbc8c4ba16f0d1",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126578$C1B9E4CE-CE50-40BC-B387-C9416095CD6D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eckard II, Margrave of Meissen Arms.svg"
+          },
+          "hash": "f26f66a352ee781843c0c462643642d20a3cc80c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "نبيل ألماني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "gobernante alemán (985–1046)"
+    },
+    "be": {
+      "language": "be",
+      "value": "маркграф Майсена (1038—1046)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "míšeňský markrabě"
+    },
+    "de": {
+      "language": "de",
+      "value": "Markgraf von Meißen"
+    },
+    "en": {
+      "language": "en",
+      "value": "German noble"
+    },
+    "it": {
+      "language": "it",
+      "value": "margravio di Meissen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits heerser (985-1046)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "quý tộc Đức"
+    }
+  },
+  "id": "Q126578",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ايكارد التانى مارجريف ميسن"
+    },
+    "be": {
+      "language": "be",
+      "value": "Экегард II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Екехард II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ekkehard II de Misnie"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ekkehard II. Míšeňský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ekkehard II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Έκαρντ Β΄ του Μάισεν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eckard II, Margrave of Meissen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ecardo II de Meissen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ekkehard II de Misnie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eccardo II di Meissen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エッケハルト2世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ekhard II van Meißen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ekkehard II"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Eckard al II-lea de Meissen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эккехард II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Eckard II, Margrave of Meissen"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Eckard II, Margrave of Meissen"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Eckard II, Margrave của Meissen"
+    }
+  },
+  "lastrevid": 17539678,
+  "modified": "2025-09-17T07:41:03Z",
+  "ns": 860,
+  "pageid": 153215,
+  "sitelinks": {},
+  "title": "Item:Q126578",
+  "type": "item"
+}

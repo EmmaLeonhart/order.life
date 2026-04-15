@@ -1,0 +1,681 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guy of Lusignan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123341$314BE461-6183-4FC3-A210-D06221433485",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "472715"
+          },
+          "hash": "68956e27e023df6778f525151db06cc00c1aead1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q123341$0882346D-AA5E-4C9D-B345-62BDC38A893B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00076125"
+          },
+          "hash": "3b783d16dadffb3351fc7bfcd26780e84fe43444",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123341$2A89027D-42DE-4079-A5AE-23433C19EE05",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lusignan-100"
+          },
+          "hash": "f58d642102156f61445aa7821fb742746352511e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123341$F6066EF9-7B9D-430C-9BE3-0C393C60454A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123341$BA2E0CCC-D8B5-43EF-8997-8B3703BEAF36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123341$BA81F8AD-6FA5-4458-94F6-9C6F13BDFF35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Guy_of_Lusignan_(1)"
+          },
+          "hash": "975d0d47f46e4507a1d945ce81b8fa60e9ae1707",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123341$9F57F117-4309-4650-8D99-E98DCBC1DC61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121568",
+              "numeric-id": 121568
+            }
+          },
+          "hash": "d417eb0043b7c64c3a3a5bdf668cdd2723da8921",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q123341$C4C33AAB-751C-48FF-9127-4E94B690344A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p824.htm#i8232"
+          },
+          "hash": "66c8d5ef3ae786bf21c4f772bd2afa32f2ebc193",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123341$79F1648D-A5C9-43D9-A904-B903D7C89CDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118190",
+              "numeric-id": 118190
+            }
+          },
+          "hash": "738dd709f6c18ecc599f079bffdb2f6d6bfcd4fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123341$2A1FFC39-5CB7-45E5-89BF-8768A6EF9E50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123333",
+              "numeric-id": 123333
+            }
+          },
+          "hash": "aa6c4b78e7b7a7ef20fa0a8d74269093e2112082",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123341$73CCC6A4-C9CC-408D-A852-F950E4259532",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123341$7AAC9E05-7354-4F0E-BB15-7074049DBC20",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123341$4EFFFDE5-DBB6-41B0-B7DB-454745EF16BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1194-07-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2f649a9b39f5af9b4792b3d7b9a2446befbbbc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123341$F0C20A4D-6B14-4A2C-8CA1-403CB30B7F4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q294192"
+          },
+          "hash": "f974f2a25220b8190636b5c74ed2232838986bf7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q123341$BD159C54-1031-4AC9-A42E-2DF218F5E192",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002135022680"
+          },
+          "hash": "4c556e25f020814b3b46f0af5d18c5c8028d9168",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123341$71062067-B9C5-4FAF-9D2B-CEA26D245EBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guy;n=de lusignan;oc=4"
+          },
+          "hash": "e65e187ba673e846426d4fcd350919a930c9d77a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123341$D1666012-2C57-40E0-949F-139EFFB4DCE3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guy of Lusignan Arms.svg"
+          },
+          "hash": "525a01068afc37a5f52d086ea6a4ea6f04a52f3d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "br": {
+      "language": "br",
+      "value": "skrivagner gallek"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de Jerusalem s.XII"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "král jeruzalémský a kyperský"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Jaffa und Askalon, König von Jerusalem, König von Zypern"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλέας της Ιερουσαλήμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "French Poitevin knight and King of Jerusalem by right of marriage (c.1150–1194) (r. 1186–1192)"
+    },
+    "es": {
+      "language": "es",
+      "value": "octavo rey del Reino de Jerusalén"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jerusalemin kuningas (1186–1192)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Jérusalem"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ממלכת ירושלים הצלבנית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "francia nemes, keresztes lovag, jeruzsálemi király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "հայ գրող"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Gerusalemme (r. 1186-1192) e signore di Cipro (r. 1192-1194)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エルサレム王"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "fransk ridder og konge av Jerusalem"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans schrijver (1150–1194)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Jerozolimy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ex-rei Consorte de Jerusalém"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ex-rei do Chipre"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "француски витез"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız yazar (1150-1194)"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "耶路撒冷国王"
+    }
+  },
+  "id": "Q123341",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غي دي لوزينيان"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جى دى لوزينيان"
+    },
+    "az": {
+      "language": "az",
+      "value": "Luzuinyalı Qay"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قی لوزینیان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гі дэ Лузіньян"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Гі дэ Люзыньян"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ги дьо Лузинян"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Guiu de Lusignan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kvido z Lusignanu"
+    },
+    "da": {
+      "language": "da",
+      "value": "Guy af Lusignan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Guido von Lusignan"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Guido von Lusignan"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκι του Λουζινιάν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guy of Lusignan"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Guy of Lusignan"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Guy of Lusignan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Guy de Lusignan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guido de Lusignan"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Guy Lusignangoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گی لوزینیان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Guy de Lusignan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guy de Lusignan"
+    },
+    "he": {
+      "language": "he",
+      "value": "גי דה ליזיניאן"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gvido Lizinjanski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Guidó jeruzsálemi király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գի դը Լուզինյան"
+    },
+    "id": {
+      "language": "id",
+      "value": "Guy dari Lusignan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guido di Lusignano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギー・ド・リュジニャン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გი დე ლუზინიანი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "기 드 뤼지냥"
+    },
+    "la": {
+      "language": "la",
+      "value": "Guido de Leziniaco"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Guy de Lusignan"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Guy dari Lusignan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Guy av Lusignan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guy de Lusignan"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Guy av Lusignan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gwidon de Lusignan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Guy de Lusignan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Guido de Lusinhão"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Guy de Lusignan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ги де Лузиньян"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Guy od Lusignana"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Guy de Lusignan"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ги Лизињан"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ги Лизињан"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Gi Lizinjan"
+    },
+    "su": {
+      "language": "su",
+      "value": "Guy ti Lusignan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Guy av Lusignan"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้ากีแห่งลูซิญญอง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Guy de Lusignan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гі де Лузіньян"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "吕西尼昂的居伊"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "吕西尼昂的居伊"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "吕西尼昂的居伊"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "呂西尼昂的居伊"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "呂西尼昂的居伊"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "吕西尼昂的居伊"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "呂西尼昂的居伊"
+    }
+  },
+  "lastrevid": 17536522,
+  "modified": "2025-09-17T06:57:29Z",
+  "ns": 860,
+  "pageid": 148881,
+  "sitelinks": {},
+  "title": "Item:Q123341",
+  "type": "item"
+}

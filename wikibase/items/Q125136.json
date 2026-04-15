@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Urraca Alfonso de León"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q125136$3E869F44-ACDB-40E0-AE22-1E8548607F0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "706771"
+          },
+          "hash": "67aff340e8571b6c7b32a75a5c50c4e868211cb7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q125136$7FA8034F-10A9-4A49-B3F4-B43F5124D7A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00515079"
+          },
+          "hash": "c820cd1a5101861d9a35aacd53dc3022d4cf3988",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125136$E44C5342-936D-4447-8C41-CF9890D7621C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125136$D4B15723-C2B5-4E45-A4E0-FDFCCCEB0CB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125136$089664AC-2A65-445D-8103-E9EACE30D160",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124317",
+              "numeric-id": 124317
+            }
+          },
+          "hash": "88eae272ad33081e1eb730acaccf833c3b954d3d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125136$7028CFF9-3FC3-40A4-949D-932BE0C08318",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q105951",
+              "numeric-id": 105951
+            }
+          },
+          "hash": "43561ca67cdaf4a9130e3addfdd6ec7e64bbe501",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125136$DB8A1759-035F-4790-B862-4D733ABE4463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125146",
+              "numeric-id": 125146
+            }
+          },
+          "hash": "4ec34c3cf527bce2a54ab39dd8555cee2b55af3c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125136$CF209BC0-76FB-415A-B2B0-52F1DAA15E2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125136$A9886332-7531-4C80-8569-61CD9F054719",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1228-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "087fe31354ce90ef230a5c574c55f22bfae2a636",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125136$E2CBCCAC-F27E-4A36-BF7A-96AAA28C6B23",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6158064"
+          },
+          "hash": "906427ee54bbb60fb830cd5fb343187324152822",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125136$62AE53CD-C614-43C6-A10C-B7EF3511B5F3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Urraca Alfonso de León Arms.svg"
+          },
+          "hash": "5e5840133afabe1cabe3d7fc90b4c06aca7ce58e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "es": {
+      "language": "es",
+      "value": "hija ilegítima de Alfonso IX de León"
+    }
+  },
+  "id": "Q125136",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Urraca Alfonso de León"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Urraca Alfonso de León"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ουρράκα Αλφόνσο δε Λεόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Urraca Alfonso de León"
+    },
+    "es": {
+      "language": "es",
+      "value": "Urraca Alfonso de León"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Orraca Afonso de León"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Urraca Alfonso de León"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уррака Альфонсо Леонская"
+    }
+  },
+  "lastrevid": 17538272,
+  "modified": "2025-09-17T07:21:48Z",
+  "ns": 860,
+  "pageid": 151282,
+  "sitelinks": {},
+  "title": "Item:Q125136",
+  "type": "item"
+}

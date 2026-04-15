@@ -1,0 +1,417 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice of Armenia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123008$D2041388-FAC2-45B2-A99F-C4EB599DE4D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "967336|473646"
+          },
+          "hash": "cb3cdde865957e533a1c00f3c6c0556c6ba7297b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q123008$B4DB7E44-8FE9-4259-A4AD-B7D1A0185E63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00295179"
+          },
+          "hash": "3487a97eebacea94c439566975886e04d2759e00",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123008$87F3E4F9-B4D3-488A-A2FE-C66335C27FF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123010",
+              "numeric-id": 123010
+            }
+          },
+          "hash": "fe5ae7aa1104106ba3293866e32de6910161a30c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123008$209D00F8-2EF5-41A3-BE00-F1457B665BFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123008$8B2900B7-F184-41FF-9575-F29CBE892283",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123008$45AEE7ED-F426-4C6A-BBB1-F1FF639D985B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice_of_Armenia_(1)"
+          },
+          "hash": "1bc30fa17a424241d53ffec1bea556d6095ffeca",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123008$12094052-4E8C-45DA-B526-767615C69B7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117958",
+              "numeric-id": 117958
+            }
+          },
+          "hash": "78c79065985bdac683ffc57f4b6ace6d6045aebb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123008$3FD9A031-8D2A-4406-B854-E8068BF4212C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123008$1923CD52-9ADC-48DF-8C91-E889E217F6F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1182-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d42257cf8d04cf0ed9e64b4bbdc2192ba61ea927",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123008$74422498-AC6E-41E5-B6D2-2C2083FC98B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "85e790af0df6de3464957d154a2818a921d6c29f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123008$B45D8197-EB4F-4267-B8C3-415761349A08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q517232"
+          },
+          "hash": "71464e0f2ad7b900fa3d61b75f901228c877bea8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123008$8AE11435-C666-45B4-AC21-99BE9636F6E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alix;n=of armenia"
+          },
+          "hash": "04df3a4dd90aa1a90e3344083f14a68c92838ea4",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123008$DA1C29E7-DD79-451D-B677-CE98188E0E49",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice of Armenia Arms.svg"
+          },
+          "hash": "ee91a1f8c9568514629ecbe87c95e750ccf00b76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prinzessin von Kleinarmenien, Gattin des Prinzen von Antiochia, Herrin von Toron, Titularherrin von Oultrejordain"
+    },
+    "en": {
+      "language": "en",
+      "value": "politician"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "femme politique"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "la": {
+      "language": "la",
+      "value": "politica"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичарка"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "política"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "política"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikane"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політична діячка"
+    }
+  },
+  "id": "Q123008",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Аліса Армянская"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Аліса Армянская"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alícia d'Armènia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alice von Armenien"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Alice von Armenien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλίκη της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alice of Armenia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Alice of Armenia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Alice of Armenia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alicia de Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آلیس ارمنستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alice d'Arménie"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ալիծ Ռուբինյան"
+    },
+    "id": {
+      "language": "id",
+      "value": "Alice dari Armenia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alicia de Armenia"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ალისა რუბენიანი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alice of Armenia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Алиса Армянская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alice av Armenien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ermenistanlı Alice"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аліса Вірменська"
+    }
+  },
+  "lastrevid": 17536192,
+  "modified": "2025-09-17T06:53:09Z",
+  "ns": 860,
+  "pageid": 148437,
+  "sitelinks": {},
+  "title": "Item:Q123008",
+  "type": "item"
+}

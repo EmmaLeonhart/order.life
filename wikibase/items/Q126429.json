@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maud le Meschin"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q126429$047DE148-A35E-4CC3-B086-1CF061150021",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Meschin-10"
+          },
+          "hash": "0d3ed92320370e1ab40dd753036226a6e811d818",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126429$DE45A39A-B003-4602-A9E3-F517A63E145F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126429$1EB0097A-2B48-4B05-8DCB-B1402CA4F126",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126429$4D672D5B-ED71-4659-BFDD-A93753E983D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146775",
+              "numeric-id": 146775
+            }
+          },
+          "hash": "7675eea9ce4491db433555058743bfbc93ad3aab",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q126429$96434799-1B91-478A-A684-E44E4995BA6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p4885.htm#i48848"
+          },
+          "hash": "a59cd38045de654c06cdaf223df292f5166db56e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126429$233B51E9-C66E-45E0-BC32-0EE74CE1BC16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120840",
+              "numeric-id": 120840
+            }
+          },
+          "hash": "5543dc1704b100dee9f4cbf27332a7bab1591191",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126429$6B9057F0-D86C-438D-84AA-9E4EFFD1B518",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126423",
+              "numeric-id": 126423
+            }
+          },
+          "hash": "a6d4d522a325fdf6585cf9ec00d7432810e4e0ef",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126429$567814C1-8C8F-4C97-B66F-31602CE337E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126429$134E4854-C507-444A-8980-4606F6461D50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1069-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b34fa51926fb9c6ba52f11d917a5ff23ca418c1d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126429$E192F89B-7933-49A7-BB24-668C5E3387D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75301455"
+          },
+          "hash": "ca2fbebb2f96f7c1109e43e386e15750281615be",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126429$CE04F61B-ADC8-492C-ABD7-C3E07FC5716F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maud le Meschin Arms.svg"
+          },
+          "hash": "df79cb355bedc98d997eace28a052a9c9a15464b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=48848"
+    }
+  },
+  "id": "Q126429",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maud le Meschin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maud le Meschin"
+    }
+  },
+  "lastrevid": 17539534,
+  "modified": "2025-09-17T07:39:10Z",
+  "ns": 860,
+  "pageid": 153015,
+  "sitelinks": {},
+  "title": "Item:Q126429",
+  "type": "item"
+}

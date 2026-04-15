@@ -1,0 +1,351 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Glappa of Bernicia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123762$CB9BDBEA-44D0-4EF6-B191-BEDD884F9088",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "374483"
+          },
+          "hash": "7c9b5fb5e49fa2c22322916a5c2de9a55313ad26",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123762$C80C38F1-C7DC-4B94-BB7A-F261485E0601",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123762$92F128E4-06D8-4FA3-B0C8-DE9D4EAB4603",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123762$FEC66997-AF0D-4F82-92EB-44B1784B5144",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Glappa_of_Bernicia_(1)"
+          },
+          "hash": "7b4e056de2224d9000a7da9726b1a8a5da5aac2e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q123762$FDCB6A39-966E-486C-9C23-687831C6C364",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15028.htm#i150278"
+          },
+          "hash": "cd3a677800d356e49736fc8c3f492b9af135985a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123762$8D4D53CB-B263-4FE4-BD38-C377CC3DD33C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118634",
+              "numeric-id": 118634
+            }
+          },
+          "hash": "74cccdb889a96fb8c217aa2ac189ed096459d285",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123762$6ACFFD65-AB3E-4E29-B1CF-D238D334E0A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123762$CA5CF7F1-99F6-4F27-9D6E-39EC0BCC5FA9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123762$4C38563E-F9EE-482D-A5CF-146E0C9D86BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0560-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "39f2212344efd981b0b4f0bbba8e5b9f7f3e29dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123762$8763CE84-46D2-40F6-930A-B8965A692785",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q739164"
+          },
+          "hash": "a761e16f08680dc2bf4410619e76aba5734f8f51",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123762$A367CF7C-8E01-4F9C-B94E-13A7F6034AAC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Glappa of Bernicia Arms.svg"
+          },
+          "hash": "773bfbab82ddc5a73125ad9010f544496e940a07",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "král anglosaského království Bernicie"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Bernicia"
+    },
+    "en": {
+      "language": "en",
+      "value": "6th-century English monarch"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Bernicie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ברניקיה, שנת 559 לאחר הספירה"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Берниции"
+    }
+  },
+  "id": "Q123762",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جلابا من بيرنيسيا"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Glappa nin Bernicia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Glappa de Bernícia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Glappa Bernicijský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Glappa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκλάππα της Βερνικίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Glappa of Bernicia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Glappa de Bernicia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Glappa"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Glappa fan Bernicia"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Glappa de Bernicia"
+    },
+    "he": {
+      "language": "he",
+      "value": "גלאפה, מלך ברניקיה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Glappa dari Bernicia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Glappa di Bernicia"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Glapa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Glappa of Bernicia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Glappa z Bernicji"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Glappa da Bernícia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Glappa da Bernícia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Глаппа"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Glappa od Bernicije"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Глаппа"
+    }
+  },
+  "lastrevid": 17536922,
+  "modified": "2025-09-17T07:02:56Z",
+  "ns": 860,
+  "pageid": 149438,
+  "sitelinks": {},
+  "title": "Item:Q123762",
+  "type": "item"
+}

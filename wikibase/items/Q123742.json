@@ -1,0 +1,371 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wuffa of East Anglia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123742$29BCF9D4-4FF0-409F-B2D7-ED8AE2562267",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "950565"
+          },
+          "hash": "684facfa2fb7371d3cd06f3c4e27392e5aa7b3a1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123742$654F7250-5900-4C62-8C5A-03DD5BF32DDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118610",
+              "numeric-id": 118610
+            }
+          },
+          "hash": "b84d6d4815b2ed25dd2df4dd2cb9f6877e9d9975",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123742$8D2805FE-135A-43F3-8747-2B8DEC86FA69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123742$7F4890BB-4B2B-49FC-99E4-8C283A703C4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123742$2DC5AFA4-5196-4F4E-9838-55AE0B92358D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wuffa_of_East_Anglia_(1)"
+          },
+          "hash": "50b6b5214b0b9810286e202f9c72571ba5f99bd6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123742$11DC115B-32B5-4FB2-B739-B4FF9939BA91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135315",
+              "numeric-id": 135315
+            }
+          },
+          "hash": "b91b4180cda78503387f40eab83840afe719cfca",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123742$C4C8650A-3B05-4FC4-B173-9263B23BFFF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123742$9503A5BF-3816-4909-A5D0-5FEDC9B76B29",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123742$285DF3A8-7BC1-4D8D-8891-B563E4F13006",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0578-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cc5e099dc9434c527e7645505ed23014eb3771c8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123742$E6ACDD32-371E-45A7-BA4A-2D2616448B5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q743121"
+          },
+          "hash": "56262672d272654d3fbe16e2a4a5280a235713a7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123742$D3A7E331-A109-434C-90E7-C10B7071B96E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wuffa of East Anglia Arms.svg"
+          },
+          "hash": "acb8469754d07c821aae8d21c95108414fa7bc2b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ang": {
+      "language": "ang",
+      "value": "Eastengla cyning"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des angelsächsischen Königreichs East Anglia"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of the East Angles"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi légendaire des Angles de l'Est"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך מזרח אנגליה"
+    },
+    "it": {
+      "language": "it",
+      "value": "re anglosassone"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "первый король Восточной Англии"
+    }
+  },
+  "id": "Q123742",
+  "labels": {
+    "ang": {
+      "language": "ang",
+      "value": "Wuffa"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "وفا من شرق انجليا"
+    },
+    "br": {
+      "language": "br",
+      "value": "Wuffa East-Anglia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Wuffa d'Ànglia de l'Est"
+    },
+    "da": {
+      "language": "da",
+      "value": "Wuffa af East Anglia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wuffa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wuffa of East Anglia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wuffa de Estanglia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Wuffa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wuffa"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Wuffa de Anglia Oriental"
+    },
+    "he": {
+      "language": "he",
+      "value": "ואפה, מלך מזרח אנגליה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Wuffa dari Anglia Timur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wuffa dell'Anglia orientale"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Vufa"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Uffa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wuffa"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Uffa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wuffa z Anglii Wschodniej"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Wuffa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Wuffa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вуффа"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Wuffa od Istočne Anglije"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вуффа"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "烏法"
+    }
+  },
+  "lastrevid": 17536904,
+  "modified": "2025-09-17T07:02:41Z",
+  "ns": 860,
+  "pageid": 149411,
+  "sitelinks": {},
+  "title": "Item:Q123742",
+  "type": "item"
+}

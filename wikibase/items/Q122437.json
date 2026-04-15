@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Diederik van Aalst"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122437$ED413583-F4C9-4D43-85B9-8906BC50495D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "12943"
+          },
+          "hash": "ea89ca968fe0f1f9fafbde7233e62c35621580e3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q122437$3598BE18-4B10-419F-82CE-04E9D7E151FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00026317"
+          },
+          "hash": "0bb874038827fb6ef21aa0bff13b139c0712240f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122437$1D7B958B-D09D-42BA-A232-2336C411C73D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122437$A85472A6-F3FD-48DA-93E9-38B04E2A74EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122437$27E381BE-49CB-40E8-B308-7B0D3ACCB6C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117678",
+              "numeric-id": 117678
+            }
+          },
+          "hash": "fe412e8acdb02c84307899a44cea3ce8b9be1d51",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122437$A34B8615-ED08-4BFD-836A-1D3EC95A53E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122392",
+              "numeric-id": 122392
+            }
+          },
+          "hash": "294373f2ac3c2cfa9d3e429bb585246c442954b6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122437$49925E57-8D37-4C18-8BC6-FF244FD4E883",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122437$A0772CBA-9E0F-40D3-8C90-2184ECEE28BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1144-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "33417ae0f86a9ed5a784e61b97290772bf7e6f7b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122437$1612195F-213C-4C58-A456-1E1425874504",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1166-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "35d8b502aaca20ee45ab202336efe5d9f66c6db3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122437$AF400825-9B90-4DFF-A807-B80210410230",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2207966"
+          },
+          "hash": "9084ceb2c6513286bdf96c08a65a867769db95e8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122437$21F2BC81-1889-4772-A717-3EC65FCE5AED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=thierry;n=d aalst"
+          },
+          "hash": "7fe90759d01cd781b6c186db26bd55e73ff9f001",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122437$D23A8779-FA6F-4F03-B636-7BB2C1BD92CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Diederik van Aalst Arms.svg"
+          },
+          "hash": "c75cd9c769b0a7f582bd0527699404f1c74f8382",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Last count of Aalst (died 1166)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "de laatste heer van Aalst"
+    }
+  },
+  "id": "Q122437",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Diederik van Aalst"
+    },
+    "en": {
+      "language": "en",
+      "value": "Diederik van Aalst"
+    },
+    "es": {
+      "language": "es",
+      "value": "Diederik van Aalst"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Diederik van Aalst"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Diederik van Aalst"
+    }
+  },
+  "lastrevid": 17535626,
+  "modified": "2025-09-17T06:45:36Z",
+  "ns": 860,
+  "pageid": 147673,
+  "sitelinks": {},
+  "title": "Item:Q122437",
+  "type": "item"
+}

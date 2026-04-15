@@ -1,0 +1,378 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adèle de Breteuil"
+      },
+      {
+        "language": "en",
+        "value": "Adele de Breteuil"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Adèle de Breteuil"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126001$979A64A1-B249-43F0-9F28-CB34284FC274",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "184960"
+          },
+          "hash": "0b46bb69b512145ce6a23f03d3e763496c9eac3a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q126001$AF425657-34F2-4A40-8707-7AFDFC5B5546",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139715"
+          },
+          "hash": "78ee356b0dd6a3cdcca3a5478fc40d8fe132eead",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126001$5AC18070-7381-4677-9C6B-57D519C9046B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120440",
+              "numeric-id": 120440
+            }
+          },
+          "hash": "ea2a2520be8167aa100626bf7e2c986a24506d18",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126001$2540FA06-4350-4482-A4B6-228E8E47F7F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Breteuil-1"
+          },
+          "hash": "2f2fe5add785eb51b47e312d9dea68ec897c7014",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126001$96A933CE-5076-4ACE-BF23-F2D808D7E6B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126001$7CD175BC-D491-4269-BFB4-FE9FA0499A5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126001$AD968DEB-3385-4B22-A5BB-89977F2041C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Adela_de_Breteuil_(1)"
+          },
+          "hash": "7795122ce855974ab4fecea095e6bc3ca9cbe35e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126001$AF2FE61D-F86F-4C25-8125-7998F5CB0DEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121209",
+              "numeric-id": 121209
+            }
+          },
+          "hash": "7d4d90fc1af2a688e5cba123f9d13f75d0273d3d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126001$7B90BE2B-82D2-4708-933D-53E558B56ECE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141155",
+              "numeric-id": 141155
+            }
+          },
+          "hash": "106b5e9aa6a7ed9c3b15bc7af6f71b1dd92a783e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126001$11DB7776-E595-40E1-89CD-11BB48E6657B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141156",
+              "numeric-id": 141156
+            }
+          },
+          "hash": "418f7356e0d03241dda30681848ba85a7e434831",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126001$EA17D34C-619F-48B6-8BE9-2BF2618BAAAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126001$A092FD77-781E-48A6-BE40-09341B3B7C81",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1000-01-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "46ae7bb85088b222e34596e53276e41d547ca19f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126001$06A4DC74-2EAE-45FE-9E78-6C57C89A33FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1051-09-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d1ae35d5ac31d6c2bf323540260fc98bd56eadc4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126001$7237672E-E787-4F02-A3CA-77A478D9B2D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111453001"
+          },
+          "hash": "67714ac7012b00b557cf9fefaad2fa960cfac1d4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126001$8AEDE361-E169-428E-B1D6-082F3EF43E31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adele;n=de breteuil"
+          },
+          "hash": "f00ac1e663a408bedb45ebaaf902a13b753ef052",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126001$07A72093-FDF8-45FA-B4E4-F98CB9F75B01",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adèle de Breteuil Arms.svg"
+          },
+          "hash": "87c65f4f6edfb73e0d61788b44563325df859a57",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Lady of Nanteuil-Le-Haudouin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dame de Nanteuil-Le-Haudouin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "французская аристократка"
+    }
+  },
+  "id": "Q126001",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Adèle de Breteuil"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Adèle de Nanteuil-Le-Haudouin"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Adèle de Nanteuil-Le-Haudouin"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Adèle de Nanteuil"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Адель де Бретёйль"
+    }
+  },
+  "lastrevid": 17539112,
+  "modified": "2025-09-17T07:33:01Z",
+  "ns": 860,
+  "pageid": 152440,
+  "sitelinks": {},
+  "title": "Item:Q126001",
+  "type": "item"
+}

@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theodebert of Madrie"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q123827$A33015E7-51E5-4FD1-890C-108E8F882BD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124052",
+              "numeric-id": 124052
+            }
+          },
+          "hash": "aa7e6cf1ee24735c0f3c4a0b18ad25d2fecc6493",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123827$B12B5ADC-D067-4E2D-89FC-61013E613413",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118957",
+              "numeric-id": 118957
+            }
+          },
+          "hash": "8f9cb6a521481a9a4c52350306eff5c26a78b501",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123827$33B75DDD-9E80-4EB4-A6FC-D08082D4D722",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Madrie-1"
+          },
+          "hash": "a82986e292d9c7c97718d313f6beb1fb2174ed7b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123827$96938C87-77ED-4DC0-98A7-AC238F088EF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123827$2AA74880-D241-40D0-AF49-1B118317EB05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123827$CDAC197C-21EC-432C-B3C1-B13A95E85E8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodebert_de_Madrie_(1)"
+          },
+          "hash": "4c3faa2b3622d05360773fb1679de070227fff17",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123827$9E0ACDE2-4FEB-45C5-87E7-013F41A6AA60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118718",
+              "numeric-id": 118718
+            }
+          },
+          "hash": "894c265ddfd34f2e0916d714adf4f99d6c04597a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123827$6FD8D82F-BD47-42C1-BC45-51E25375A4F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123827$94CC8BCA-FA1E-4C13-8F84-D68FC98EFCFF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0775-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b3a49700b87fb1c871fc13214755a61ac848d74e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123827$D4E73EA9-754D-470F-83DC-E402A2A83E0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3523649"
+          },
+          "hash": "4cce8fa02e4e822374e79147828bbdf096f0d88b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123827$EF71A44B-12EB-489F-B1D2-6DF8D529B2CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=theodebert;n=.|p=theodebert;n=de herstal"
+          },
+          "hash": "f88b9a41ba3d06cf388f8a55ef76cf6daedf0917",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q123827$BE525E7C-01D9-4A16-99EE-907E52570EBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.7804"
+          },
+          "hash": "cb4cefeeab08efd8b0f2d8f267e6f7d330774f5f",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123827$D3D28CD5-ABD6-4DB0-A7A4-DB9D9BA34102",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodebert of Madrie Arms.svg"
+          },
+          "hash": "116719cc303a754899db4289682eb52c2a890e1f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "775-810"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Madrie"
+    }
+  },
+  "id": "Q123827",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Teodebert de Madrie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theodebert of Madrie"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Theodebert"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theodebert of Madrie"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tiberto, Conde de Madrie"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tiberto, Conde de Madrie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Теодеберт"
+    }
+  },
+  "lastrevid": 17536988,
+  "modified": "2025-09-17T07:03:48Z",
+  "ns": 860,
+  "pageid": 149524,
+  "sitelinks": {},
+  "title": "Item:Q123827",
+  "type": "item"
+}

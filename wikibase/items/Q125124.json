@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pedro Alfonso de León"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q125124$05A52873-BBD4-468D-84AC-EDCFB7E730D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "750604"
+          },
+          "hash": "bf995290a1b57c68ded4732bb0d776836e38f106",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125124$F5C1DD72-EC7D-48B3-A2CA-094FB223AE47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125124$49EBEE97-1F9C-4724-A255-B1A8060FE222",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125124$0BA7268D-0B64-464A-A18B-390795C1980D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q105951",
+              "numeric-id": 105951
+            }
+          },
+          "hash": "43561ca67cdaf4a9130e3addfdd6ec7e64bbe501",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125124$7F2994CC-BEC6-4E34-9159-363E8809972C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125124$E4D8D377-3B23-4079-91A0-BA1C4659815A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1196-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "64824f28a9aa43191174826abc4626989f95030b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125124$5F39F3E7-A190-472E-A1D3-FC5CE2236B3B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1226-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5df2ccb97e34254e15da47fef79ae4affe7dc79b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125124$6BEC430A-3196-4119-847D-FE603B9D1A42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7159434"
+          },
+          "hash": "ab0250396c37197fbe5c3c3af6335dfb070d872c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125124$6319111A-4A49-4F94-9FB2-E8BAE1025125",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pedro Alfonso de León Arms.svg"
+          },
+          "hash": "f73d4966673932fb1c25d0a05e4b8b9f8c186a60",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Spanish noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "maestre de la Orden de Santiago"
+    }
+  },
+  "id": "Q125124",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pedro Alfonso de León"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pedro Alfonso de León"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pedro Alfonso de León"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πέδρο Αλφόνσο δε Λεόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pedro Alfonso de León"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pedro Alfonso de León"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pedro Alfonso de León"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pedro Alfonso de León"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Педро Альфонсо Леонский"
+    }
+  },
+  "lastrevid": 17538260,
+  "modified": "2025-09-17T07:21:39Z",
+  "ns": 860,
+  "pageid": 151266,
+  "sitelinks": {},
+  "title": "Item:Q125124",
+  "type": "item"
+}

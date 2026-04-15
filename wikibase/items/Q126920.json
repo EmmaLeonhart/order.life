@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guy de Faucigny"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126920$3E2BA213-C2AA-42B5-AABD-72EA5E1727E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126920$A692AD7B-228A-40DA-99EC-5A161946488C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126920$A77846FE-91BB-46B7-A4C0-B78A7B8BE7FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146722",
+              "numeric-id": 146722
+            }
+          },
+          "hash": "87ee474d50821873cbfb40ce9baefcf5fdc90e94",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126920$9AB7D4C4-D177-47EA-BCDD-F83B4D135AA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126918",
+              "numeric-id": 126918
+            }
+          },
+          "hash": "56c40a5b3309e74032d7f7a375a4fc37f2abc75d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126920$11CF90BF-6F55-467E-8EEE-71276F9DE632",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126920$5E2A0AA5-4F14-4A99-B83D-1DC6EA64DA2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126920$D4D1B6B2-E9C1-48E6-8B66-3F589ACBADCA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1119-11-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "58164097ac58d4d3ae0231b378a4458ee516df89",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126920$8EEE82CA-0EF5-4C67-B4A2-588CE42F4338",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1557618"
+          },
+          "hash": "248073131566093e8900395f8c6191ca297fee04",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126920$032E295B-F183-41E3-B10D-CA1BC379BE18",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guy de Faucigny Arms.svg"
+          },
+          "hash": "35f35b60d060e68a3a8ff0cc123e5547bce7a687",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bischof von Genf"
+    },
+    "en": {
+      "language": "en",
+      "value": "roman catholic bishop"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique"
+    }
+  },
+  "id": "Q126920",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Guy de Faucigny"
+    },
+    "de": {
+      "language": "de",
+      "value": "Guy de Faucigny"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guy de Faucigny"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guy de Faucigny"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guy de Faucigny"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Guy de Faucigny"
+    }
+  },
+  "lastrevid": 17540017,
+  "modified": "2025-09-17T07:46:13Z",
+  "ns": 860,
+  "pageid": 153673,
+  "sitelinks": {},
+  "title": "Item:Q126920",
+  "type": "item"
+}

@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wichmann the Younger"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q125556$B0444651-C990-479F-9F03-658F23E8B902",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "517937"
+          },
+          "hash": "9c95e7f46005e8a6469743da639ad3b7381cbad3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125556$1B0F2D91-7859-4D13-875B-B5AC62C31B69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125556$DB0E9265-FE3B-495F-9421-2D177E808616",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q125556$7C46D2C6-65E3-4742-85AA-0C72CB7082FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wichmann_the_Younger_(1)"
+          },
+          "hash": "5ff8831db2e772a6f75d565cfdcf12d16db5e871",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125556$7F946634-8C65-432A-AC58-F1E864CD70E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120062",
+              "numeric-id": 120062
+            }
+          },
+          "hash": "5f6fb961e2f504e564c1acd4660dc0d181e7e60f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125556$83743421-4460-47AD-B5C0-DF5D77FC7177",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125556$C64F1B1F-261D-4676-ACFA-0ACA37FBFD60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0930-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71a3bc9c9c114da072fac2268519b979cb3b863a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125556$889F2DE1-8817-4681-82BF-1D52F18F043B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0967-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "792bc507c9a68b2a45ea50c73040c80be015597b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125556$69F365C9-13E9-4FEA-8C02-E1BC36534BCD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q77572"
+          },
+          "hash": "aaa652a82fe4ec5e2e000839614b306c5f28069d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125556$4F6E5FEC-A3A4-430A-8810-E44A53BBD5A9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wichmann the Younger Arms.svg"
+          },
+          "hash": "0eec856eb749a107cd1f8997bc6d1e71b1c447c4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "نبيل ألماني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata alemán (930–967)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata alemany"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "člen německé dynastie Billungů. známý se stal díky povstání, které vedl proti Otovi I."
+    },
+    "de": {
+      "language": "de",
+      "value": "sächsischer Graf; Rebell des Ottonen-Reiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saxon noble (c.930–967)"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata alemán"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata alemaniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate allemand"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata alemán"
+    },
+    "it": {
+      "language": "it",
+      "value": "aristocratico tedesco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits aristocraat (-967)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "saski hrabia i banita"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata alemão"
+    }
+  },
+  "id": "Q125556",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ويشمان الاصغر"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Вихман II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Wichmann II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Wichmann II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Wichmann II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βίχμαν ο Νεότερος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wichmann the Younger"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wichmann the Younger"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wichmann II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wichmann II il Giovane"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Wichmann II den yngre"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wichmann the Younger"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wichman Młodszy"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Wichmann cel Tânăr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вихман II Младший"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Wichmann Mlađi"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Wichmann the Younger"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Wichmann the Younger"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小魏赫曼"
+    }
+  },
+  "lastrevid": 17538668,
+  "modified": "2025-09-17T07:27:09Z",
+  "ns": 860,
+  "pageid": 151845,
+  "sitelinks": {},
+  "title": "Item:Q125556",
+  "type": "item"
+}

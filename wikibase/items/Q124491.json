@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alberic I de Dammartin"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124491$224E09D0-1DC0-48DD-81D3-204E651D70A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "907449"
+          },
+          "hash": "378b2ee87bbd80de4e3ec9ec5aef210642cbd53b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124491$9F044B23-6A87-4918-8E85-101E356058CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124491$0DAE1139-5EED-4D27-A86A-AA3DB30FEB29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124491$0E24EDA8-3CC8-46B5-AF30-71E8FB76637B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119348",
+              "numeric-id": 119348
+            }
+          },
+          "hash": "292deeabd104b4f83a26fa7fd6440e9b98c2e626",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124491$8DA7490F-BCFA-454A-8826-FB83CAF135B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124491$91BF1873-AC58-4432-9102-70C05D4109E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1110-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16108bca3d827327f819ad4a236f1d5cbe2133cb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124491$23C89B75-BDED-4B76-86AD-3B5786167EC1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1134-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e0deb017a358dcec0db98bb4b0963e880084f60d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124491$545BD76F-F391-4553-AE97-1370A2637133",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2830864"
+          },
+          "hash": "0666d794f9939401eff0b3964d44c45b51ece78a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124491$FE618C70-017F-442C-8170-86E10CF33E5F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alberic I de Dammartin Arms.svg"
+          },
+          "hash": "d4dc0f24fda78648739fb78a3bf1aba4b9821fd6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q124491",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Alberic I de Dammartin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alberic I de Dammartin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alberic I de Dammartin"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alberic I de Dammartin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alberic I de Dammartin"
+    }
+  },
+  "lastrevid": 17537638,
+  "modified": "2025-09-17T07:13:19Z",
+  "ns": 860,
+  "pageid": 150416,
+  "sitelinks": {},
+  "title": "Item:Q124491",
+  "type": "item"
+}

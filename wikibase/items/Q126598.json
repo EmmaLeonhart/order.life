@@ -1,0 +1,264 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bruno of Bretten"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126598$55CD8318-54F1-4B12-9AAF-58187F3F3E9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126598$1CC21F7D-35BC-4E1E-A1BC-4BD59BA7C2A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126598$A7E7B71F-0916-45E1-8AE2-42BAF5906AAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126594",
+              "numeric-id": 126594
+            }
+          },
+          "hash": "abcec2f3d79e608ea34b7326d598e101c0b0f41b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126598$DE6BB451-D428-4FA0-B604-E91B2005AE12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126598$05541930-6BAE-40CE-B2FF-219D9C0C8BE9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1045-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "52d283e1af1d7d9df00134379e705ab6f7748805",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126598$74D812D1-3B6C-49CD-B7DA-45E11189AABD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1124-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3e005898913b0aa7bbb1c66c3613ecafbdd7b681",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126598$BF7F6549-9E70-41F9-9A15-1E47397066E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q993987"
+          },
+          "hash": "d57fe4fe75a2f7b07d3d0c6fae6bb2d10fbc7659",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126598$97E02C3D-76F2-445B-84CF-3EA7EA3C6114",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bruno of Bretten Arms.svg"
+          },
+          "hash": "27985e08bc40ab3a2edb13ccb096a8f2af5251f5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك من اليكتورات اوف ترير"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erzbischof von Trier"
+    },
+    "en": {
+      "language": "en",
+      "value": "archbishop of Trier"
+    },
+    "es": {
+      "language": "es",
+      "value": "arzobispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "archevêque de Cologne"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "archiepiscopus catholicus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Äerzbëschof vun Tréier (1102-1124)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aartsbisschop van Trier"
+    }
+  },
+  "id": "Q126598",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "برونو بريتن"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Bruno von Bretten"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Бруно фон Лауфен"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bruno von Bretten"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bruno of Bretten"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bruno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bruno de Bretten"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Bruno vu Lauffen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bruno van Bretten"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bruno of Bretten"
+    }
+  },
+  "lastrevid": 17539698,
+  "modified": "2025-09-17T07:41:18Z",
+  "ns": 860,
+  "pageid": 153241,
+  "sitelinks": {},
+  "title": "Item:Q126598",
+  "type": "item"
+}

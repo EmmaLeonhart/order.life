@@ -1,0 +1,299 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adela of Milan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126301$E8F5D69B-7DFF-41DE-BD0B-48AAD3F038EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "135983"
+          },
+          "hash": "520aec4376e4b981fac48311826d66b5666fd32d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q126301$93162E61-56A3-49D1-AAC6-45058CB193DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020674"
+          },
+          "hash": "66212582783fa3ea4c000015b109725477e8c115",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126301$E976F079-287C-4D1F-9852-888CDB5D56D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126805",
+              "numeric-id": 126805
+            }
+          },
+          "hash": "c707cd550eb4740c2aee7058db91f8c831631f1d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126301$C36D489F-8E5D-4200-AF4B-E1BE65A78D8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120724",
+              "numeric-id": 120724
+            }
+          },
+          "hash": "d8cdea72c2bf4f4fb4625b1699c7265e6e29d1bf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126301$383DC33F-8C6C-452E-A23B-E468E67B7C1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126301$B572FA19-D264-474D-BCB1-105E05EE0F4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126301$99F62EDF-98E6-4D48-A1B5-6E20A6D9D5F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121125",
+              "numeric-id": 121125
+            }
+          },
+          "hash": "e47b26277e5f1fd594854b22e226f8ce2321fb75",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126301$2B86F6F6-F6A6-45DE-8ECD-049800589B88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126301$947CCC8D-09DC-447E-9280-7693D9B82B0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126301$99942EC5-6ABC-47BA-8E38-4A4C90EC9736",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q56275579"
+          },
+          "hash": "7c123bf165a65cae9a545929e60903f7a5526a64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126301$A72DC474-D024-4989-9E70-7D55E61A5132",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=artopergue;n=n"
+          },
+          "hash": "e4d7ae2bd50d215963732be296986d47ae50f5bb",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126301$46079B74-7E3A-4201-93C7-7CCA5FD1ADDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adela of Milan Arms.svg"
+          },
+          "hash": "091cb047ea31e3c2921a34d38d57922a4641a023",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "northern Italian noblewoman"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble italiana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "итальянская аристократка"
+    }
+  },
+  "id": "Q126301",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Adela of Milan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Adéla Milánská"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αδέλα του Μιλάνου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adela of Milan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adela de Milán"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adela of Milan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Адела Миланская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Adela av Milano"
+    }
+  },
+  "lastrevid": 17539406,
+  "modified": "2025-09-17T07:37:29Z",
+  "ns": 860,
+  "pageid": 152843,
+  "sitelinks": {},
+  "title": "Item:Q126301",
+  "type": "item"
+}

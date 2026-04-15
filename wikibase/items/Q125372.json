@@ -1,0 +1,325 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lothair Udo I, Count of Stade"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q125372$0F227E82-2ABB-48F0-B7AB-618494AC8B52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1276635"
+          },
+          "hash": "23a30724c2a54f4a12ca0932e5fb27f6b6eb8e6c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125372$0686B5C9-4DA9-4973-96B0-89E327C206DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143257",
+              "numeric-id": 143257
+            }
+          },
+          "hash": "e9637e39c968c86e66e5a9db18e413fb50b28d97",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125372$ECF47746-F87D-4710-8E9D-FA29345EA6FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125372$C9412EF5-72B2-4D9C-AAEA-49CFF630871A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q125372$9FD6C9F8-3318-4E36-8D10-F49FD5D97470",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lothar-Udo_von_Stade_(1)"
+          },
+          "hash": "48acc67fc7bd5ddc9faa469bd3a260e1b9037c5b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125372$CD38FA42-C284-4772-9104-AC832F93A8B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125366",
+              "numeric-id": 125366
+            }
+          },
+          "hash": "85591c6981ca57a8ff5a608bd90d40a4b2f665a3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125372$15CBCA8A-C2DF-4A5F-A786-2519814A4066",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119874",
+              "numeric-id": 119874
+            }
+          },
+          "hash": "d92dc9bd4bebc0b15b44398ce5c1a19f9b4e65f3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125372$C7FE9AD4-2A86-47A6-BF18-00DE07CF92D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125372$90E2EA25-E692-4758-9AA0-666DFDE019A3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0950-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a6ea71785f421b08a2bf3a7819089bf23697f54c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125372$75ED9F61-3C21-4B9D-A1A8-95874351B1BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0994-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e7cf9285c887171098bae0909bccc200ba6896dd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125372$3925FB74-4AE4-40CD-A10A-C4ED2689C0C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20498306"
+          },
+          "hash": "52cf646a500c419c8ce7b956fefc390fb2e77979",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125372$7F1A1630-56A6-4F6B-850D-3FFFE4A5AD42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=lothar udo;n=von stade;oc=1"
+          },
+          "hash": "8577bc78b0980049fe1d101a48f02c0e455148d6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125372$A2F41395-FE48-4627-A6D0-E8BC5E228E39",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lothair Udo I, Count of Stade Arms.svg"
+          },
+          "hash": "70b56d114e84a5f5ef3a52032f42c22c917b252d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf in Harsefeld"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Stade (950–994)"
+    },
+    "it": {
+      "language": "it",
+      "value": "conte di Stade"
+    }
+  },
+  "id": "Q125372",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "لوثر اودو الاول كونت ستاد"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Lothair Udo I, Count of Stade"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лотар Удо I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Udo"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λοθάριος Ούδο Α΄ του Στάντε"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lothair Udo I, Count of Stade"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lotario Udo I di Stade"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Udo"
+    }
+  },
+  "lastrevid": 17538488,
+  "modified": "2025-09-17T07:24:37Z",
+  "ns": 860,
+  "pageid": 151599,
+  "sitelinks": {},
+  "title": "Item:Q125372",
+  "type": "item"
+}

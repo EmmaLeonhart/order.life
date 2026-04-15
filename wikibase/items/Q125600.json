@@ -1,0 +1,399 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry III, Duke of Bavaria"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q125600$9D8F33EA-3392-4DD0-AA88-4C4C6F584D82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bayern-65"
+          },
+          "hash": "2c715585253f5d1ba7936e107ddc2ac1ad485906",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125600$75673680-1F82-41B4-96B8-F54E08DED7B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125600$CF8F5C16-4A9A-4CA2-A782-61B560104F95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q125600$B9AC9D2F-25BB-473B-A63D-56C371DCD57C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15060.htm#i150598"
+          },
+          "hash": "0efa05b0e507c87032f04ef31e91f836d3f820f5",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125600$A24C1F71-32DE-4B48-9FDE-586B182420D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120107",
+              "numeric-id": 120107
+            }
+          },
+          "hash": "6dd102b045e009e4ef40249670de9f3ea5bfa82f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125600$7C1FC4EB-FFC7-4F6E-AB83-C0B78CEFFA44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125600$ED303985-3058-4F8E-98E1-F7258DA8442D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0940-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "409475b1a380f7e9337f21cfe8f2acc1d2eb57b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125600$9CAA4981-9BCD-4ADC-9660-9200CB6BACF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0989-10-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0cb967da37bce9e0a04eda6f7e0a7a09b2049896",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125600$363D41DC-BA44-4E99-A46D-DCB7DF7370CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q697382"
+          },
+          "hash": "3ac9aa5fa9d4bef426a4469af2d2aa4b8f725151",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125600$B5BC0C27-FC79-4D12-8407-A8FF5AA3B7EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry III, Duke of Bavaria Arms.svg"
+          },
+          "hash": "d9f9af8e6eb8ee88638079a41bb6dbc3934ef796",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q125600$8AA05C88-C79F-4969-A60E-EAC4877A5C44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/142498d6-5913-4a5f-97ee-bb915a04679c"
+          },
+          "hash": "a3308e2691220d15c09cf114e21586a421a7f11d",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu alemán (940–989)"
+    },
+    "be": {
+      "language": "be",
+      "value": "герцаг Карынтыі (976—978, 985—989) і Баварыі (983—985)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "korutanský a bavorský vévoda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Kärnten und Bayern"
+    },
+    "en": {
+      "language": "en",
+      "value": "first Duke of Carinthia from 976 to 978, Duke of Bavaria from 983 to 985"
+    },
+    "he": {
+      "language": "he",
+      "value": "דוכס בוואריה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Bajorország hercege"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile tedesco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits soevereine (940-989)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "primul duce al Carintiei (976-978), duce al Bavariei (983-985)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "герцог Каринтии (976—978, 985—989) и Баварии (983—985, под именем Генрих III)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "hertig av Bayern"
+    }
+  },
+  "id": "Q125600",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أوتو الأول دوق كارينثيا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هنرى التالت دوق بافاريا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Генрых I Малодшы"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Enric III de Baviera"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich III. Bavorský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Heinrich III."
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος Γ΄ της Βαυαρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry III, Duke of Bavaria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enrique III, duque de Baviera"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Heinrich III."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri III de Bavière"
+    },
+    "he": {
+      "language": "he",
+      "value": "היינריך השלישי, דוכס בוואריה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Henrik bajor herceg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico III, duca di Baviera"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハインリヒ3世 (バイエルン公)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Heinrich III."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik III van Beieren"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Henryk III Młodszy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Henrique III, Duque da Baviera"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Henrique III, Duque da Baviera"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Henric al III-lea de Bavaria"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих I"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Henrik III. Bavarski"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Henrik III av Bayern"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Генріх I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亨利三世"
+    }
+  },
+  "lastrevid": 17538712,
+  "modified": "2025-09-17T07:27:44Z",
+  "ns": 860,
+  "pageid": 151905,
+  "sitelinks": {},
+  "title": "Item:Q125600",
+  "type": "item"
+}

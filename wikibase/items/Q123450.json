@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ponç III de Cabrera"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123450$F4CD3C8E-4001-42B7-BBA8-87003AF43B4F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00126914"
+          },
+          "hash": "386174e3bb24e61d34defa46f7cdb22235188e82",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123450$E955F740-9E22-4778-B403-51CE00A85A63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124325",
+              "numeric-id": 124325
+            }
+          },
+          "hash": "d4f13fa1f4cb719d0e14f005c03e0863e55e324a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123450$E237C1ED-5C7D-4BDD-A8D7-7C6B4BDF979F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123450$9CFA5162-71E1-483B-906A-699294943867",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123450$B1550EEF-6037-4491-B1C6-7FFEE8B70B12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123407",
+              "numeric-id": 123407
+            }
+          },
+          "hash": "403ddf733b8681e11d921bd02a46a3ac699bdf0a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123450$14966543-03BB-4E9D-8EA5-3DE53F2D2F43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123444",
+              "numeric-id": 123444
+            }
+          },
+          "hash": "ad6ec5d970f3fe483e883fc7a7e798168278d7d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123450$19874FB6-DB10-4D49-9925-1403600E4094",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123448",
+              "numeric-id": 123448
+            }
+          },
+          "hash": "2224abdca95a129d84d213c7d5ab2fd0f5f87121",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123450$54BDAD75-0494-48B7-BED7-B5B2BF2EE94C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123450$BA5D9D7B-700D-42BC-83B3-2EE3842898BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1199-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d26b8c49f9480664ce28d97af16d6316801cea36",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123450$ACA203E1-D0A9-4B18-B394-D619648C2039",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11942358"
+          },
+          "hash": "635c7e70bb1e9d507af1b1c5efdc2d76997dde67",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123450$F368EC4E-4099-4A8F-8E49-EEB8FED660F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ponce;n=de cabrera"
+          },
+          "hash": "cd818beca8b8ef449a55484467ddb473f6092c95",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123450$9E307573-D0D5-42E0-84BF-AA4E2115C07D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ponc III de Cabrera Arms.svg"
+          },
+          "hash": "d307a18625a946558534d8a4c2a73a1dfc37ce63",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "noble català"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble catalán (f. 1199), vizconde de Cabrera y de Gerona"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "виконт Кабрера, граф Урхеля"
+    }
+  },
+  "id": "Q123450",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Ponç III de Cabrera"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ponc III de Cabrera"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ponce III de Cabrera"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ponç III de Cabrera"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ponç III de Cabrera"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Понс III де Кабрера"
+    }
+  },
+  "lastrevid": 17536634,
+  "modified": "2025-09-17T06:58:56Z",
+  "ns": 860,
+  "pageid": 149027,
+  "sitelinks": {},
+  "title": "Item:Q123450",
+  "type": "item"
+}

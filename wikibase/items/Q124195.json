@@ -1,0 +1,427 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Conrad of Constance"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124195$83EC085E-456D-40B8-BA1E-410FFCA24E3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020465"
+          },
+          "hash": "6c9e79e143e7bedcc2ab4164a272afad0382b75d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124195$B3301849-69DD-4531-A471-5275288EA09E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124195$53833E08-29B6-4B13-8FB4-820F4EA5AE6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q124195$48D75EA4-95B7-4D8D-AE08-2A0E97C95BCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p886.htm#i8851"
+          },
+          "hash": "e0c2e54d39e96afbbc149fa411a2229c60ce0336",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124195$21FB1AE4-4ADE-439D-BA83-1D72F49A44FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119151",
+              "numeric-id": 119151
+            }
+          },
+          "hash": "29de95b8d88e04cd36c82e4d6eabaf36c9b8b792",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124195$F03493A3-9141-4A65-8720-508B8080B54C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124193",
+              "numeric-id": 124193
+            }
+          },
+          "hash": "55f9e3a0e6c7a8f244a69ea09eadfa9e41d813c2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124195$9AE93400-B1A8-45E0-8089-640282343794",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124195$8CCED42D-0AF5-4533-81A1-66F219907C19",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0900-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60d5bc23e17e0855bd82578012de7e757942c956",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124195$7E5A210E-95CD-4BC5-9B7E-77BF5A63E656",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0975-11-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "056adafdcab058f07dcdecb7b7e8ec686ecb6f0c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124195$E2F44E43-BE44-411F-95D5-B9E96F1A4586",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q705868"
+          },
+          "hash": "471800a6905d69c8c8feb7c71dac6ad3f15b1625",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124195$8E1CF072-DFAD-4D9B-A1B0-35774CF21075",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Conrad of Constance Arms.svg"
+          },
+          "hash": "dcfff977ba33042d57f1300ffe46c53804f4db83",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "قس ألماني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "قديس كاثوليكى من المانيا"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "kostnický biskup a světec"
+    },
+    "da": {
+      "language": "da",
+      "value": "tysk præst"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heiliger des Bistums und der Bischofsstadt Konstanz"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop and saint"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش آلمانی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "relixioso cristián"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo tedesco"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus Constantiensis"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "tysk prest"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits priester (900-975)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "tysk prest"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "bispo e santo alemão"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "tysk präst"
+    }
+  },
+  "id": "Q124195",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كونراد كونستانس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Konrad von Altdorf"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Conrad de Constance"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Konrád Kostnický"
+    },
+    "da": {
+      "language": "da",
+      "value": "Konrad von Konstanz"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konrad von Konstanz"
+    },
+    "en": {
+      "language": "en",
+      "value": "Conrad of Constance"
+    },
+    "es": {
+      "language": "es",
+      "value": "Conrad of Constance"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Konrad von Konstanz"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Conrad de Constance"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Conrado de Constanza"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Konstanzi Szent Konrád"
+    },
+    "id": {
+      "language": "id",
+      "value": "Konrad dari Konstanz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Corrado di Costanza"
+    },
+    "la": {
+      "language": "la",
+      "value": "Conradus"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "കോൺറാഡ്"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Konrad von Konstanz"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koenraad van Konstanz"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Konrad av Konstanz"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Konrad z Konstancji"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "São Conrado de Constança"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Conrado de Constança"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Конрад Констанцский"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Conrad of Constance"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Conrad of Constance"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Konrad von Konstanz"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Konradi wa Konstanz"
+    }
+  },
+  "lastrevid": 17537346,
+  "modified": "2025-09-17T07:09:17Z",
+  "ns": 860,
+  "pageid": 150019,
+  "sitelinks": {},
+  "title": "Item:Q124195",
+  "type": "item"
+}

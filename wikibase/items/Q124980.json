@@ -1,0 +1,753 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert of Courtenay, Lord of Champignelles"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124980$79CF600C-CDAE-413A-8ACD-1DEF86741F4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "464163"
+          },
+          "hash": "687e12f2c39e1936f0d8b82f726fcb70f8be897b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q124980$FF76DE89-617B-4DF3-8F67-6351FEA313C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00013815"
+          },
+          "hash": "b3f0249bb309fee154a0f8e623495cf20870583c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124980$675DB1CD-344E-4EC5-94FB-5D4E873CAC1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147376",
+              "numeric-id": 147376
+            }
+          },
+          "hash": "3a9ec53b05639c345d857b6d3d88e282fadcefe2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124980$604218A6-59B3-4195-AE9C-692A6E1A402F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147371",
+              "numeric-id": 147371
+            }
+          },
+          "hash": "fddfbe946e30276f875c4f023318ea34b1650cb2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124980$06C5742D-2E6B-4517-A2EB-FF44FC469CB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147369",
+              "numeric-id": 147369
+            }
+          },
+          "hash": "4e9eacb213229426a265fc1f08ec3003f9255bb0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124980$F7559E20-ED71-41FB-9071-F48C2E7DC765",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147370",
+              "numeric-id": 147370
+            }
+          },
+          "hash": "bbcf0ec0a8db1b68827c746acc74666a9f412dcd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124980$4B888EEE-69FF-40EC-89D4-A335856A65BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147372",
+              "numeric-id": 147372
+            }
+          },
+          "hash": "5d25c194a7443eb32424d320ee91e860cf8db62e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124980$E54D1434-4021-40BD-87E8-572F07221EA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147373",
+              "numeric-id": 147373
+            }
+          },
+          "hash": "380f87ddb32f1bfc6ac9e87e107cbdc7d88508cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124980$90304BF1-C67F-4B64-9A98-2250DC7D3439",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147374",
+              "numeric-id": 147374
+            }
+          },
+          "hash": "2524e777822b9c6bf37f8157e485bfcea001991c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124980$2C746328-D2F3-45E3-A89B-AB3ECDB07F8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147375",
+              "numeric-id": 147375
+            }
+          },
+          "hash": "caf43e9d85d33efd9e065272b8002072eefd8c5a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124980$4B11FAD5-22EE-4E97-A7F4-28D63D264CBF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Courtenay-687"
+          },
+          "hash": "843b9566e1b6532d34b178640151efb903dceb5b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124980$2D09ED8C-DBAC-4FA5-B1DA-17D4ABDBB717",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124980$1F763BA9-F826-4445-AB72-A859152BC0FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124980$928E4A83-7BAB-4A82-9464-6965D2DF342A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert_De_Courtenay_(3)"
+          },
+          "hash": "1c64171d57bd0a96e4a79b852844d5b0ba196a15",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124980$42DA75B8-30AD-447F-ADDE-2868AF70DD1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147367",
+              "numeric-id": 147367
+            }
+          },
+          "hash": "d468f53ae449fa5c2c30322f3994940e080a4b2b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124980$4ACAC076-96A1-4165-84A7-04B38D0C5497",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147368",
+              "numeric-id": 147368
+            }
+          },
+          "hash": "cecd97eece28c1700a3b265d3ff0a4dca84e5c85",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q124980$D41ACC48-19FE-478E-993A-03FBBA21D6B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p24826.htm#i248257"
+          },
+          "hash": "253193b81b745acc5e4b2bf2dda0c0bb0b6d238e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124980$C328C2C8-41E3-486D-866B-0528F1EA0F7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119638",
+              "numeric-id": 119638
+            }
+          },
+          "hash": "75d69cb00c2223215599c552322073e0f85493be",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124980$1FB4260E-3FAA-4888-A3A2-C189B104C464",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124974",
+              "numeric-id": 124974
+            }
+          },
+          "hash": "05940228fe9a78d8ee567c37cbbbde3f75de3d5f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124980$1B78DF32-EFDC-4E81-97FF-CAB9B8C10B1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124980$A49714C5-CF84-4928-99E3-C7950E9BAFF7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1168-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94d893866317bd85bdb808239bcbe5e72c50f776",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124980$3FE5B729-ECC5-4A1B-9327-00EE67002C26",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1239-10-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b72976e37de6d553705284910a43071e8a0fd46",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124980$1083ED16-3DF6-45A5-9C16-257B78B1EE76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q645953"
+          },
+          "hash": "c25fa851af8c04d7e32770cf54b4ccc25bee1f37",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124980$EA168391-551B-4F8D-B5B5-48FB697C21FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=de courtenay;oc=11"
+          },
+          "hash": "be05bdef8f8883b775b75b5a5c2ac475a78e0531",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124980$D18D0380-E043-4F3E-BE90-84D91F883C85",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert of Courtenay, Lord of Champignelles Arms.svg"
+          },
+          "hash": "bf48445f8a49a89fe4a7183867fa84805c9ea54a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي فرنسي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu francés (1168–1239)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ফরাসি রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític francès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "francouzský politik"
+    },
+    "da": {
+      "language": "da",
+      "value": "fransk politiker"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herr von Champignelles"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάλλος πολιτικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "French politician"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "franca polikisto"
+    },
+    "es": {
+      "language": "es",
+      "value": "político francés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Prantsusmaa poliitik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari frantziarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار فرانسوی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ranskalainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique français"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir Francach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político francés"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי צרפתי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "francuski političar"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "francia politikus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "ֆրանսիացի քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico francese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フランスの政治家"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프랑스 정치인"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans politicus (1168-1239)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "fransk politikar"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko franses"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "polityk francuski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político francês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician francez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "французский политик"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan francez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fransk politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız siyasetçi (1168 – 1239)"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "французький політик"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "chính trị gia người Pháp"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "法國政治人物"
+    }
+  },
+  "id": "Q124980",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Robert z Courtenay"
+    },
+    "da": {
+      "language": "da",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "de": {
+      "language": "de",
+      "value": "Robert von Courtenay"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ροβέρτος Α΄ του Κουρτεναί-Σαμπινέλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert of Courtenay, Lord of Champignelles"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "it": {
+      "language": "it",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "la": {
+      "language": "la",
+      "value": "Robertus de Cortiniaco"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert van Courtenay-Champignelles"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роберт де Куртене"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Robert Ier de Courtenay-Champignelles"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Robert de Courtenay-Champignelles"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "庫特奈的羅貝爾"
+    }
+  },
+  "lastrevid": 17538120,
+  "modified": "2025-09-17T07:19:48Z",
+  "ns": 860,
+  "pageid": 151073,
+  "sitelinks": {},
+  "title": "Item:Q124980",
+  "type": "item"
+}

@@ -1,0 +1,419 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peter Delyan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126720$36DED67E-6BB9-4A8D-810A-D721AD5C48AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "447554"
+          },
+          "hash": "7f06588ce14bc7d428220533b7ac44039507062c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q126720$E044A6CF-1E0F-4633-840F-B9185959524B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00744415"
+          },
+          "hash": "c146de68d90c7546d58c062a76a507806bc310ef",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126720$1D4242F3-D77E-48EF-B394-21D7B2E8E306",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126720$A959E23F-1395-4CCC-96B3-CA00EC06906A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126720$2596F6A3-4FFB-4BE9-B997-D45AE07660DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Peter_Delyan_(1)"
+          },
+          "hash": "3abc1bf163c8f6d6394ab801c7cea32ef6953354",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126720$D1E02D23-CA32-4A2F-8264-AE753FA46C23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126718",
+              "numeric-id": 126718
+            }
+          },
+          "hash": "a0b94897da34bd4e0b3214f107b14496e8788b73",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126720$F069AF46-AB0E-4C1B-AF39-70FC8663594A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126720$2FBBDF85-0EBE-4B3A-BDDF-FDC900B63DA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3227ad0fbe13b40f06cb84da99a9c8ea769bcd23",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126720$CA298303-D046-49EC-965A-F61E6B878AD1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1041-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f1c5b4f99b8a77ef02daa0cc69b9be992d4d4ccf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126720$52CBFF84-DA28-42DD-B7EB-8E9609238A0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q616841"
+          },
+          "hash": "5d4ebd640149759c821bb4a2e44be783cee17f08",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126720$54C325AD-688B-438B-A2E5-71263A42632B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peter Delyan Arms.svg"
+          },
+          "hash": "5813d2e5ba8247cf2baab2c894e67931dfe941a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور بلغاري"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "български цар"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bulharský car"
+    },
+    "de": {
+      "language": "de",
+      "value": "bulgarischer Zar und Rebell gegen den byzantinischen Kaiser Michael IV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βουλγαρικός τσάρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bulgarian emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vigésimo octavo Zar del Primer Imperio búlgaro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tsar bulgare"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Bulgária uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano bulgaro"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "țar bulgar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "болгарский царь"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "vodca bulharskej vzbury proti Byzantskej ríši za vlády cisára Michala IV. v rokoch 1040 – 1041"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "бугарски цар"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "保加利亚沙皇"
+    }
+  },
+  "id": "Q126720",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بيتر ديليان"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Pyotr"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Петър Делян"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Petr Deljan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Peter Deljan"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πέτρος Δελεάνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peter Delyan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pedro Delyan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pierre Deljan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Péter Delján"
+    },
+    "id": {
+      "language": "id",
+      "value": "Petŭr II Delyan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Peter Deljan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペタル・デリャン"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Петар Делјан"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Peter Delyan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Piotr Delian"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pedro II Delian da Bulgária"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pedro II Delian da Bulgária"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Petru Delian"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пётр II Делян"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Peter Deljan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Peter Deljan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Peter Delyan"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Петар Дељан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Peter II av Bulgarien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Peter Delyan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Петро II Делян"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "彼得·德尔坚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "彼得·德尔坚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "彼得·德爾堅"
+    }
+  },
+  "lastrevid": 17539818,
+  "modified": "2025-09-17T07:42:54Z",
+  "ns": 860,
+  "pageid": 153405,
+  "sitelinks": {},
+  "title": "Item:Q126720",
+  "type": "item"
+}

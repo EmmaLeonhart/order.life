@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry, Count of Monte Sant'Angelo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q125202$F5F61927-5299-4049-B569-65667E723737",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125202$56081FAC-4D59-43B6-8D0A-76A1B1242600",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q125202$F95299D2-0720-4325-B7D7-15C8C7988871",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry_of_Monte_Sant'Angelo_(1)"
+          },
+          "hash": "c21687b1b4195768a1d6281e0a9a5a7fe417fbf3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125202$AE0692E4-7139-4403-AE65-EBCF48375214",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119766",
+              "numeric-id": 119766
+            }
+          },
+          "hash": "7cbde44cd05f8c6b1d47c4de803138aa22994658",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125202$52EAE9D0-A8A2-4232-9220-DF4BC4B7628E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125791",
+              "numeric-id": 125791
+            }
+          },
+          "hash": "1bb7224b4f1398c97d0ad43c4d9ea4848064e68b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125202$91AD4569-34CD-4C5B-B414-F64D8C24A0D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118210",
+              "numeric-id": 118210
+            }
+          },
+          "hash": "758a4cca72d35329bdb02f40f0592951addb22e4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125202$705EF6E4-5369-474D-B131-938526B0CDF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125202$BB091B5D-F96F-4A87-9530-0CE45E98B300",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3227ad0fbe13b40f06cb84da99a9c8ea769bcd23",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125202$CD8B6878-C4C0-4959-869D-FED8CE44CD64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1102-12-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de9ef5d6a1311f335866f35ffbc9b6bd3f8c6f56",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125202$8EB9D670-A3DD-4192-B0C5-49142F5FD097",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1392757"
+          },
+          "hash": "1951c5d60a5702d47e2b0703b450409e868fd98c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125202$4470A86E-F28B-4BBF-8FEF-A98F2304C085",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=henri;n=de monte sant angelo"
+          },
+          "hash": "b312b9597ee32b0a44f495b7466c0b37af714037",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125202$4996E094-2A03-4E0C-A3CB-90BE3754A0A8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry, Count of Monte Sant'Angelo Arms.svg"
+          },
+          "hash": "fde5a5ce6a5e2a458acaad3eba78a251241ae4c1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Italo-Norman noble"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile normanno"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q125202",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هنري كونت مونتي سانتانجلو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هنرى كونت مونتى سانتانجلو"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry, Count of Monte Sant'Angelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri de Monte Sant'Angelo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico di Monte Sant'Angelo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "モンテ・サンタンジェロ伯エンリーコ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Henry, Count of Monte Sant'Angelo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Henric de Monte Sant'Angelo"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Henry, Count of Monte Sant'Angelo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亨利"
+    }
+  },
+  "lastrevid": 17538336,
+  "modified": "2025-09-17T07:22:38Z",
+  "ns": 860,
+  "pageid": 151371,
+  "sitelinks": {},
+  "title": "Item:Q125202",
+  "type": "item"
+}

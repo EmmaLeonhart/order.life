@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ethelward (?)"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q125386$2F0DD991-4087-4EEE-BA1E-BED335EDA68A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125386$2C8952F0-50F0-4ED9-B28C-B03C3A6F47D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q125386$F4B5849F-4B14-44AF-9697-2BA0FD7DD6CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p16132.htm#i161318"
+          },
+          "hash": "cb746c3cb684db6d8ed2906324abb760f666aab6",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125386$65EC0445-8C7D-4E9A-90CA-E4DA1E50BE0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119880",
+              "numeric-id": 119880
+            }
+          },
+          "hash": "a630c9d2c9da22d8d60e30af001a33ad0ed57e38",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125386$EA6EE64F-9848-4929-A1CB-2CF927BE47B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125386$E4F18BE6-4256-4161-83D7-7A8E4D20EAC4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0905-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d3ef8feff0f6ea8728a7162ef816f4925717f556",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125386$6C57E7CD-6231-4310-A666-269169232AB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75468899"
+          },
+          "hash": "e124e454d821687dab5b8def1c57e79f33b74b52",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125386$CA3CD9FC-B829-4EF8-8E14-1420653AEA40",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ethelward (?) Arms.svg"
+          },
+          "hash": "20a6001fa7c187bd92ce31c5b2195e26eae49f79",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=161318"
+    }
+  },
+  "id": "Q125386",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Ethelward (?)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ethelward (?)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ethelward (?)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ethelward"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ethelward (?)"
+    }
+  },
+  "lastrevid": 17538502,
+  "modified": "2025-09-17T07:24:48Z",
+  "ns": 860,
+  "pageid": 151618,
+  "sitelinks": {},
+  "title": "Item:Q125386",
+  "type": "item"
+}

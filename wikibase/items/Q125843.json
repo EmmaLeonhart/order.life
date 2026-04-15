@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adelicia de Brionne"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q125843$3932CEEF-19CF-4CAC-A7AD-D448D3E723EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "De_Brionne-15"
+          },
+          "hash": "2e7d205d2785e4513e79804b10c06d6544723cec",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125843$1547E574-6AA6-43F2-9912-824DC563B2B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125843$58488D6B-1892-49A6-9C98-266F3C94C5F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125843$2E21A1CF-ABCB-455A-A0E2-6441DD39FC9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120318",
+              "numeric-id": 120318
+            }
+          },
+          "hash": "30a5020a5d339a75253915e1a9623d66a1e8b5cf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125843$79789933-6DCB-475F-9319-604C704DDCAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125843$581FC89A-E771-482E-AC35-17B718CD9846",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1142-08-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1c07ce5dbc2006455ddfb68666a67951bc765d00",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125843$6A16417D-5AA7-44D6-80CE-1E76BDFDC04F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104849342"
+          },
+          "hash": "6fc871b11d404d971461ba584a4d7cf0c459cf06",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125843$D15738B8-2910-4471-8DB6-A517FE24BCAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adelise;n=de brionne"
+          },
+          "hash": "a907e1e69c62b55fec2f55c7fe1b4e03bf88cb2f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125843$3CEE0872-4527-44B9-BF02-45D530F768B3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelicia de Brionne Arms.svg"
+          },
+          "hash": "8d5186408c7baf45941ce9912951940dd3da475b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "24 Aug 1142"
+    }
+  },
+  "id": "Q125843",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Adelicia de Brionne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Адела де Мёле"
+    }
+  },
+  "lastrevid": 17538954,
+  "modified": "2025-09-17T07:30:55Z",
+  "ns": 860,
+  "pageid": 152228,
+  "sitelinks": {},
+  "title": "Item:Q125843",
+  "type": "item"
+}

@@ -1,0 +1,480 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Louis I, Count of Blois"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122873$DD315868-F955-4B3C-9C96-4109CDE04808",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "100493"
+          },
+          "hash": "2eb5d7f26e329e7828b5ad1eef6b92a901bddf63",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q122873$840B9BF6-6576-44C7-BDB1-A3B91C80F805",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129283",
+              "numeric-id": 129283
+            }
+          },
+          "hash": "6e605015b633fb857dbae9eae8a68489e0d9bdbe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122873$DB8FA582-D737-4E9F-ABEF-05AEB282C1F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122873$B990A3AF-74AF-4C36-B001-6994FD452F85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122873$B91A2200-8089-4889-B7AF-34A6C901CABE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124509",
+              "numeric-id": 124509
+            }
+          },
+          "hash": "95562e6c61ea92264e871523288d70ad0e078b66",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122873$48D99ED8-82FE-4252-9822-50F7B6A8F6C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122871",
+              "numeric-id": 122871
+            }
+          },
+          "hash": "841c40634e4c58ec9948d78eb4ef1fa7a99962da",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122873$25256D48-AE4C-47FC-B9C2-F867E5A4DB4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117914",
+              "numeric-id": 117914
+            }
+          },
+          "hash": "0240f4d43949c2339a1c6e47f3be213356e6f62e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122873$C3D0D36E-8AD0-4B99-9856-58A76F5554BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122873$6FB4DFC9-C0BC-473F-B99F-0C44B8D67E6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1172-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2cabdcc92bb9779b5da858dc3fe190617bd010ba",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122873$582F83E3-D0A2-439A-BDBF-F0C874C921A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1205-04-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81f029c2b99ade40162aeadc737780c1c7e63d49",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122873$0FC61EF6-6785-4BA7-A090-1ED794B05618",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112607"
+          },
+          "hash": "26ea7ca6d0a0a197719ab747c6518c258e443e45",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122873$20FC43B7-664A-4F79-86A0-298847E6942A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Walter Kohl Arms.svg"
+          },
+          "hash": "7f74f5df968d8827c2722cc1e22c701a3ed0d88b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مقاول ألماني، ابن هلموت كول"
+    },
+    "de": {
+      "language": "de",
+      "value": "deutscher Unternehmer und Autor"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "German entrepreneur, son of Helmut Kohl"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اقتصاددان و نویسنده آلمانی"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Ongernämmer un Bööscherschriever"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits econoom"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "немецкий предприниматель"
+    }
+  },
+  "id": "Q122873",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فالتر كول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فالتر كول"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Walter Kohl"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Walter Kohl"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Walter Kohl"
+    },
+    "da": {
+      "language": "da",
+      "value": "Walter Kohl"
+    },
+    "de": {
+      "language": "de",
+      "value": "Walter Kohl"
+    },
+    "en": {
+      "language": "en",
+      "value": "Walter Kohl"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Walter Kohl"
+    },
+    "es": {
+      "language": "es",
+      "value": "Walter Kohl"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Walter Kohl"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Walter Kohl"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Walter Kohl"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Walter Kohl"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Walter Kohl"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Walter Kohl"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Walter Kohl"
+    },
+    "he": {
+      "language": "he",
+      "value": "וולטר קוהל"
+    },
+    "hrx": {
+      "language": "hrx",
+      "value": "Walter Kohl"
+    },
+    "it": {
+      "language": "it",
+      "value": "Walter Kohl"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "발터 콜"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Walter Kohl"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Walter Kohl"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Walter Kohl"
+    },
+    "li": {
+      "language": "li",
+      "value": "Walter Kohl"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Walter Kohl"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Walter Kohl"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Walter Kohl"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Walter Kohl"
+    },
+    "pdc": {
+      "language": "pdc",
+      "value": "Walter Kohl"
+    },
+    "pdt": {
+      "language": "pdt",
+      "value": "Walter Kohl"
+    },
+    "pfl": {
+      "language": "pfl",
+      "value": "Walter Kohl"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Walter Kohl"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Walter Kohl"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Walter Kohl"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вальтер Коль"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Walter Kohl"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Walter Kohl"
+    },
+    "sli": {
+      "language": "sli",
+      "value": "Walter Kohl"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Walter Kohl"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Walter Kohl"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Walter Kohl"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вальтер Коль"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Walter Kohl"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Walter Kohl"
+    }
+  },
+  "lastrevid": 17536058,
+  "modified": "2025-09-17T06:51:23Z",
+  "ns": 860,
+  "pageid": 148256,
+  "sitelinks": {},
+  "title": "Item:Q122873",
+  "type": "item"
+}

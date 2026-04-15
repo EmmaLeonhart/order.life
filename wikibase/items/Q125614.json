@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Burchard I of Halberstadt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125614$11B1864C-FFE1-453B-BB4A-F00F85A4C6B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00080262"
+          },
+          "hash": "8fb462b1f74895ba3158da89e3632f90e92d5307",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q125614$932C8EFA-75B7-4B4A-B05F-D2AF0A7327B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Von_Schweinfurt-3"
+          },
+          "hash": "a96f8cc24d8a21449af829fcf85058ae5da6866d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125614$C9DDD50F-A7E5-4773-9C93-2A7187A9241F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125614$10B6B7E2-2FC8-4341-9510-6815699D33FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q125614$9DF40197-6E7D-435F-8CF0-5B1A95746BAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Burchard_of_Veltheim_(1)"
+          },
+          "hash": "6f13302cb9e3a0f8cb1397d6d06670f4b9c1dfea",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125614$A50FC02C-2BD2-4344-8E23-9A9F0A93D2EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120117",
+              "numeric-id": 120117
+            }
+          },
+          "hash": "7a5c5ceff6a5682f1fb931379f82b173a71d21c8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125614$9661458B-D941-469F-AC1A-E28173C0BC70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122317",
+              "numeric-id": 122317
+            }
+          },
+          "hash": "db123f83f1d409e75a850c20558df4dce260e60c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125614$B70EE5C3-80FA-4151-B7F5-962BECBFDB81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125614$3A6F01FB-DCEB-49D1-8F70-0A9A3961525C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1000-10-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0bfdfe78f0a6669d0e523f78899e14d1e77aee53",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125614$E478015B-8B14-4468-847C-C6655C96B363",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1059-10-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3439e3a91839a039f8835151dfca967de9855d50",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125614$F640B3AD-C27F-4CDE-8676-F57837F5F374",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1010323"
+          },
+          "hash": "7311edd4be3779e315fe986c0a21370aaa4a2a21",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125614$7196C2BD-C3A9-429F-87F1-63F32AB7B844",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Burchard I of Halberstadt Arms.svg"
+          },
+          "hash": "53cbaa7ec22a734278afd229c1802582fa5c1666",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "halberstadtský biskup"
+    },
+    "de": {
+      "language": "de",
+      "value": "deutscher Kleriker und Politiker, Bischof von Halberstadt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Halberstadt"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "político alemão"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "episcop de Halberstadt"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політик (1000-1059)"
+    }
+  },
+  "id": "Q125614",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Бурхард I фон Халберщат"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Burchard I. von Halberstadt"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Burchard I. Halberstadtský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Burchard I. von Halberstadt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Burchard I of Halberstadt"
+    },
+    "es": {
+      "language": "es",
+      "value": "Burchard I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Burchard Ier d'Halberstadt"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Burchard I"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Burchard I von Halberstadt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Burchard I. von Halberstadt"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Burchard I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Burcardo I de Halberstadt"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Burchard I de Halberstadt"
+    }
+  },
+  "lastrevid": 17538726,
+  "modified": "2025-09-17T07:27:55Z",
+  "ns": 860,
+  "pageid": 151924,
+  "sitelinks": {},
+  "title": "Item:Q125614",
+  "type": "item"
+}

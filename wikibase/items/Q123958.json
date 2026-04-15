@@ -1,0 +1,305 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jalal al-Din Hassan III"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123958$A8532CAB-E99D-4AD4-9C32-0512BEAB4A14",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00303291"
+          },
+          "hash": "203ec15a715e348f40c7ec7270944f03543cdd26",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123958$1F2A2DC3-756C-422E-BBA7-CBF63E9101C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123958$FB1B819F-5D60-4699-8595-FDA4771A9308",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123958$4BFB8E99-D697-46B7-87AC-3810807F952C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118850",
+              "numeric-id": 118850
+            }
+          },
+          "hash": "31b281dfc744171297f25e4dc57491dc4a432742",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123958$BFF73020-0CEE-478B-8B86-E03CE91383B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123958$305364B4-EFF5-4199-983B-5EFD6EF2C8AD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1187-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9e0e02205474941ad314baa486995cd81dd9ea5c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123958$F99190D7-CA6C-48CE-A86B-6F7E2F377D83",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1221-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8aa7dd569a08e04c3e3c17ef0ee85f17911a8120",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123958$5E7DB416-F0A1-4031-8FC9-61BD5E4FB4B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q404069"
+          },
+          "hash": "85492b53d240237de05f02405b3aa6e9b3c11350",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123958$3473F02D-4F52-4798-879C-3F495489449A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jalal al-Din Hassan III Arms.svg"
+          },
+          "hash": "0c814a5915f7351d644d63811f7c734d4bf5a968",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمام ألموت النزاري"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person des ismailitischen schiitischen Islam, Imam der Ismailiten"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nizari Imam of Alamut"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ششمین رهبر اسماعیلیهای ایران"
+    },
+    "he": {
+      "language": "he",
+      "value": "אימאם אסמאעילי במאה ה-12"
+    },
+    "la": {
+      "language": "la",
+      "value": "magister Assassinorum"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "25-й имам исмаилитов-низаритов"
+    }
+  },
+  "id": "Q123958",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جلال الدين حسن"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جلال الدين حسن بن اعلى محمد"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আলামুতের তৃতীয় হাসান"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hassan III d' Alamut"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dschalal ad-Din Hassan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jalal al-Din Hassan III"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jalaluddin Hasan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "جلالالدین حسن"
+    },
+    "he": {
+      "language": "he",
+      "value": "ג'לאל א-דין חסן"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハサン3世 (ニザール派)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hasanus III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jalaluddin Hasan"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "جلال الدین حسن سوم"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хасан III Аламутский"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jalal al-Din Hassan III"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Celal’ed-Dîn Hasan-ı Sâlis"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Джалал ад-Дін Хасан"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Jaloliddin Hasan III"
+    }
+  },
+  "lastrevid": 17537116,
+  "modified": "2025-09-17T07:06:09Z",
+  "ns": 860,
+  "pageid": 149701,
+  "sitelinks": {},
+  "title": "Item:Q123958",
+  "type": "item"
+}

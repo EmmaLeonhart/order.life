@@ -1,0 +1,219 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marie of Armagnac"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123125$16A7C55D-2C79-49FE-B004-E1FBBCF3B525",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00472374"
+          },
+          "hash": "6b15ec4cce968f0648ff7ffed067086c101d4069",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123125$D49D0989-BE3B-463C-A2F1-F791D459EBA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123125$9408E9C2-2E45-4E85-96DD-3FBD15E403CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123125$F059B4BA-C196-41A7-8CB7-FD17820D14F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118044",
+              "numeric-id": 118044
+            }
+          },
+          "hash": "608c928799518e2547135a406a1c2e155888d052",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123125$8C778CAB-BB1C-4E42-BFDE-2695037DAE46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123119",
+              "numeric-id": 123119
+            }
+          },
+          "hash": "44c02c48750a2edefa5e1d7381d5e5e4d3162234",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123125$41327DE4-0F2C-409C-A97B-0577E425EE99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123125$24F8138C-A33F-4DA3-A670-AEB4817CBFC4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21139578"
+          },
+          "hash": "00afc6a84153c32a08a43e9ee6be6580c430bc23",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123125$6B1B103D-69E7-41BE-A002-1A3724D02E5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=marie;n=d armagnac;oc=4"
+          },
+          "hash": "99bf65a11f1d64e9b371c43485013d783a378046",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123125$35355CE0-A59E-4D81-BE15-DE6EB5440100",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marie of Armagnac Arms.svg"
+          },
+          "hash": "241fe2c0b7ee9460441c9fd6aca7dc9897ca9549",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "nun at Sainte-Marie de Carrizo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "nonne à Sainte-Marie de Carrizo"
+    }
+  },
+  "id": "Q123125",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Marie of Armagnac"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marie d'Armagnac"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marie of Armagnac"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marie of Armagnac"
+    }
+  },
+  "lastrevid": 17536306,
+  "modified": "2025-09-17T06:54:40Z",
+  "ns": 860,
+  "pageid": 148593,
+  "sitelinks": {},
+  "title": "Item:Q123125",
+  "type": "item"
+}

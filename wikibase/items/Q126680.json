@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Friedrich von Kastl"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126680$D2534576-ED03-4D85-BC44-D080E6BF42F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00496753"
+          },
+          "hash": "fa61dcf3cc36c646558833534085b4464ffd543a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126680$998B0443-FC1F-4AFB-83D6-DDCC92EA2099",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Count_of_Kastl-3"
+          },
+          "hash": "42dfaa0d3da1cb76732bd8e6f74046e34669bb23",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126680$6C18F2C0-D349-422F-B16E-B8DE29608F60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126680$3872E8C2-75DA-4A7A-995E-F7CFC34B2F72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126680$107EF786-B42E-4B54-BA2F-6E36A0A34CAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121013",
+              "numeric-id": 121013
+            }
+          },
+          "hash": "be3b6b2ae7cf2632998e8751e2bb5f136c976d32",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126680$864CB6E6-7938-4B3B-82F3-978737E8C08C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122105",
+              "numeric-id": 122105
+            }
+          },
+          "hash": "405ef1009225aa0768117a16dd2b84723b61b244",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126680$00300B36-7179-4CBD-B27E-5E62C649B3DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122107",
+              "numeric-id": 122107
+            }
+          },
+          "hash": "cb9d6feb5122452796a7b8d31164609c56765caf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126680$0E2AEC10-1A27-4618-99B4-6D921404355F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126680$3BB87C31-AEFE-4603-A2A5-0C2270C7605A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1041-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "879d4c899749ae457536d9af3730087d96982a6b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126680$30C57E2F-8582-4B70-8956-33260D2CC043",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1103-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fc75502b88516c1f27d33f1c139eff61a0b727a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126680$140B392B-0472-4D5D-A659-C73FB1BBBCCA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q119702747"
+          },
+          "hash": "b388c38b394671a83bb0d73956593962bced266b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126680$0CBDFF87-B246-4E06-AFE5-3E730D02F42E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Friedrich von Kastl Arms.svg"
+          },
+          "hash": "cf799ec2f6392e6b3f349d099306eb23956af79e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1041 - 1103"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1041-1103)"
+    }
+  },
+  "id": "Q126680",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Фридрих I фон Кастъл"
+    },
+    "en": {
+      "language": "en",
+      "value": "Friedrich von Kastl"
+    }
+  },
+  "lastrevid": 17539780,
+  "modified": "2025-09-17T07:42:24Z",
+  "ns": 860,
+  "pageid": 153351,
+  "sitelinks": {},
+  "title": "Item:Q126680",
+  "type": "item"
+}

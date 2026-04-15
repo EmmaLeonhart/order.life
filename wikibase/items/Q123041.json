@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jacques of Botron"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123041$1427E7C9-8501-4BC8-BB8D-36353768C919",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123041$07BACBC0-E462-4678-8790-18B058DA70C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123041$59C0BEDF-8412-46F7-BAE6-72F21547D132",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117972",
+              "numeric-id": 117972
+            }
+          },
+          "hash": "2d0ecd848f5d5b7441301382fbcd14f3f3edbf4f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123041$11094AB9-83FB-424C-9221-3C25C9C3117E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123041$7425434A-446F-4C6E-B127-878E150FD02A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123041$077187BA-4DE6-468C-A96D-3222F9D2BF58",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1277-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "298d9674edcd88b391c5c213313e54cdd90553af",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123041$8B3C0507-5DB6-4538-AAB5-F407DF406EFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1679456"
+          },
+          "hash": "e900ce0621951f4db13e4db4f60eb509be41be5f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123041$F637C306-D7D5-47DD-A957-99CC7EA145D0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jacques of Botron Arms.svg"
+          },
+          "hash": "29a667b8d08a6c8fd18c33c76a2d0bef48bdcb9d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Adliger in der Grafschaft Tripolis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "chevalier croisé français"
+    }
+  },
+  "id": "Q123041",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Jakob von Batrun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jacques of Botron"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jacobo de Botron"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jacques de Boutron"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jakob von Batrun"
+    }
+  },
+  "lastrevid": 17536224,
+  "modified": "2025-09-17T06:53:34Z",
+  "ns": 860,
+  "pageid": 148480,
+  "sitelinks": {},
+  "title": "Item:Q123041",
+  "type": "item"
+}

@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Margaret of Thouars"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q122824$47AF3FFB-17BE-4EA6-9A97-8F6A3C6C1CDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122824$6D35C846-3602-45B1-9EA7-4C2E37072798",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122824$365E2282-1F00-416A-876D-8B23F4B1333A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129227",
+              "numeric-id": 129227
+            }
+          },
+          "hash": "ac48f06fecc387d808478d000f43aa849df6d0aa",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122824$208F8AD6-E891-42D7-924D-3FB8CFD32897",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117896",
+              "numeric-id": 117896
+            }
+          },
+          "hash": "e1ecf5a9124ca8f16e968f9f552349d0a677c1e8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122824$38F67678-5D89-4244-A766-FA8564AFA5EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122816",
+              "numeric-id": 122816
+            }
+          },
+          "hash": "1a28d33fb7db6805d69f84d5c96de06b21ef53fe",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122824$C3DA98DD-B059-453B-9EFE-6AB100B54192",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122824$D3611C62-FD40-4B69-9330-3837C570848C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44ba8602f685cbd68acb321f4ca16da5b03d339c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122824$7174087D-AEEC-4F3F-B6F5-02FA1D348C6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q105425613"
+          },
+          "hash": "5c35f3a983190bd7c11cc92f59d4086504052c82",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122824$333B7604-8D16-45EF-983D-E41B6E87184D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Margaret of Thouars Arms.svg"
+          },
+          "hash": "124c84cd94f47e08d5793e27e9902eb321b0ae33",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "dag": {
+      "language": "dag",
+      "value": "Paɣa ŋun nyɛ pukpara"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vizegräfin von Rohan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Viscountess of Rohan b. 1201"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vizcondesa de Rohan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "vicomtesse de Rohan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "feodaal uit Hertogdom Bretagne"
+    }
+  },
+  "id": "Q122824",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Margarete von Thouars"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαργαρίτα του Τουάρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Margaret of Thouars"
+    },
+    "es": {
+      "language": "es",
+      "value": "Margarita de Thouars"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marguerite de Thouars"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Margarida de Thouars"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Margaret of Thouars"
+    }
+  },
+  "lastrevid": 17536010,
+  "modified": "2025-09-17T06:50:45Z",
+  "ns": 860,
+  "pageid": 148191,
+  "sitelinks": {},
+  "title": "Item:Q122824",
+  "type": "item"
+}

@@ -1,0 +1,617 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elisabeth de Courtenay"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124974$BCB72F18-C4FF-4B07-B5D4-388365AC3D67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "12895"
+          },
+          "hash": "d7fa913f2d275d8ef23f0d82fb17342b96a8105c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q124974$A79B0368-C84C-4FFC-A15C-F3CFA93BE945",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00013800"
+          },
+          "hash": "95803d9684e020a1ca220cf5ebceb6559d8e1c51",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124974$C7C85F58-DC19-4697-B516-A4CBFADD2458",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124992",
+              "numeric-id": 124992
+            }
+          },
+          "hash": "47be0b69c4cf43e7832124047dab14cb9dd9d3b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$D4960096-A84F-4B76-96B0-C23C5340101E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124988",
+              "numeric-id": 124988
+            }
+          },
+          "hash": "4dfc4c42ff5856d7abb805e1740025fc61179dba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$8AE9AA3D-B571-4186-96C5-EA0E0BF979F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124990",
+              "numeric-id": 124990
+            }
+          },
+          "hash": "9aaf252b05aef25cb36cc23d5be6608f9aef95af",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$0241864E-6945-4E32-B3AD-FF461952C063",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124994",
+              "numeric-id": 124994
+            }
+          },
+          "hash": "ca1316a4b4a21d1b41f2cf27d744b222ba33b1f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$B7504FF3-B687-4E63-B812-D97A30F6AB63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124976",
+              "numeric-id": 124976
+            }
+          },
+          "hash": "2ed8e40c6053db446e464221d71d1b61869fe5dd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$73FD4006-0588-4842-B842-A40EFBA66D4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124978",
+              "numeric-id": 124978
+            }
+          },
+          "hash": "8f12bc96728dd36286431acc79284d46dfba6862",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$27E850CE-F690-437B-A60A-B3C09BB780F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124980",
+              "numeric-id": 124980
+            }
+          },
+          "hash": "d5ccf800d8591aa02276b11e1703021298d37aea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$88A48E9B-425F-4384-B5F5-AE3CDFEF8307",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124982",
+              "numeric-id": 124982
+            }
+          },
+          "hash": "b953ce3d887ad620357a7a00c43f45d0db93dea0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$36703EC2-C3FA-4BE4-97F9-32626A382ADF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124984",
+              "numeric-id": 124984
+            }
+          },
+          "hash": "093e0d71586c1f06d9018fa29f43e53a3a011ffb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$CF6FF0C8-F269-416F-859F-38481283C700",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124986",
+              "numeric-id": 124986
+            }
+          },
+          "hash": "78f8b2f1a984e24935230f912e11bed0550f7503",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124974$7D668471-40DB-41DE-A83C-48BBDB1CDE8B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Courtenay-679"
+          },
+          "hash": "90f4a7416677daecb3636f6d977e1ded79b7311f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124974$A87F800E-FFE3-4370-A1E6-9FF349A7972A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124974$BD2F61BB-55CB-4DB7-BFF5-1676B07DD2CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124974$3EFEE923-7824-43B1-9157-F5E2500D9CC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Elisabeth_de_Courtenay_(2)"
+          },
+          "hash": "f052583004e7b588af9cca7d9d99b0ac72f12026",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124974$49F18E68-2C3B-41A9-A8BB-315124F43AF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119638",
+              "numeric-id": 119638
+            }
+          },
+          "hash": "892369698fab43b87cb05316ba27da624b018197",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q124974$05CAB3E2-72BE-474B-9388-B7FC946F2344",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11360.htm#i113593"
+          },
+          "hash": "df233504f367f559d973393ebc26a23abdb602ed",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124974$E3EF9847-C40D-4615-8912-00B32E0A3F84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126543",
+              "numeric-id": 126543
+            }
+          },
+          "hash": "fec2b24db8cc9884e2e97168079582e96bd10e47",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124974$7782C920-D684-4A93-B3C4-E55E0F38177E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147300",
+              "numeric-id": 147300
+            }
+          },
+          "hash": "a22b7e5cbbffb647d78e466ceb099e83142718c5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124974$33CC15BC-84B7-4480-AA61-4D592B1B2DBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124974$077BAAE6-086B-41B9-AC9B-D33F94DEE320",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1140-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b77a02bf3d1b65e76819a0e6802e2ee8ff68bae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124974$F60A2D64-BBB8-4196-A596-235DCCD2FFC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1205-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e81e369c8516608ea50b01725e1bd48cfed1ee9b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124974$D2040377-B96E-474A-83AA-A7B036780A7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3587931"
+          },
+          "hash": "dfa22087f4af2ee42c92e282f655579bd02f1d81",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124974$BE15AA15-B061-4E74-859A-80A5466B3041",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=elisabeth;n=de courtenay"
+          },
+          "hash": "7d5105759c0668e165ad163a1788dc8ec65cd2c3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q124974$3E1B839A-15A2-43A8-9075-71D3A7E84E8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sw.214286"
+          },
+          "hash": "392a85094181a612a5d0087649d40d0aba891ed0",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124974$00ADC460-F286-43EF-8694-4C76ED2E855E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elisabeth de Courtenay Arms.svg"
+          },
+          "hash": "dc2f5f471ddd1e275013af60c6c2359af2cbb06e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1127-1205)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1127-1205)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1127-1205)"
+    }
+  },
+  "id": "Q124974",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Лізавета дэ Куртэнэ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alžběta z Courtenay"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Elisabeth de Courtenay"
+    },
+    "de": {
+      "language": "de",
+      "value": "Elisabeth de Courtenay"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελιζαμπέτ ντε Κουρτεναί"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elisabeth de Courtenay"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Élisabeth de Courtenay"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elisabetta di Courtenay"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イザベラ・ド・クルトネー"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elisabeth van Courtenay"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Елизавета де Куртене"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Elisabeth av Courtenay"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊丽莎白，考特尼女领主"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "伊丽莎白，考特尼女领主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "伊丽莎白，考特尼女领主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "伊麗莎白，考特尼女領主"
+    }
+  },
+  "lastrevid": 17538114,
+  "modified": "2025-09-17T07:19:44Z",
+  "ns": 860,
+  "pageid": 151065,
+  "sitelinks": {},
+  "title": "Item:Q124974",
+  "type": "item"
+}

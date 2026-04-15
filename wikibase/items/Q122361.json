@@ -1,0 +1,668 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bernard II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122361$76780DE4-CE8F-4D57-8FFA-CECDE6AE5422",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "134846"
+          },
+          "hash": "acf83bc30da852bc0fc084e05d68d783a232d8d2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q122361$D6DCE6CC-3749-4F2B-B82D-200DEB064A0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020361"
+          },
+          "hash": "ebf0c646a997893e31112ec5a2f0922089ecb5f7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q122361$2936201A-381E-4801-A5E2-1A38FBF803E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128221",
+              "numeric-id": 128221
+            }
+          },
+          "hash": "09c2cff810efd34a3e057ee69099dee243bc1805",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122361$F7B928DA-8139-46E0-817B-170666B359CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120460",
+              "numeric-id": 120460
+            }
+          },
+          "hash": "1962fd17a1a2848aabbe9da12f6d439059c21353",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122361$7CCEAA86-F42D-4738-A7A1-EF6E74348499",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122365",
+              "numeric-id": 122365
+            }
+          },
+          "hash": "3cbc2336b8c4f8575747ac3a965f6843b786bdd2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122361$AF42C6B9-35A3-4964-B3A8-E0FF1290748A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117648",
+              "numeric-id": 117648
+            }
+          },
+          "hash": "4ac75fbf648fdf1ca0927e3f547bb9bf838b13de",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122361$D2395ED2-82B3-4447-BE82-2BA8BADF4B4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121055",
+              "numeric-id": 121055
+            }
+          },
+          "hash": "97d61d8896e3450ca50425448ca928c1645d1e52",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q122361$1C2CD6F8-B8D9-417F-9959-91F0E36303E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Billung-7"
+          },
+          "hash": "5f4df6fc11209a43497e8171137edfd2c12f9f8d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122361$EB9A61A2-1A73-46C6-A7F6-5157AB607D9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122361$EFAC7278-07D8-449E-9736-7FDD20116897",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122361$28D7C465-660A-4090-8C5A-BE3933FFD10E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bernard_II,_Duke_of_Saxony_(1)"
+          },
+          "hash": "93a3d4f02d06d527f49ca1fd00f5297e2e31aaaf",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122361$0D37953E-DE48-46E0-907C-C66A472B87DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122363",
+              "numeric-id": 122363
+            }
+          },
+          "hash": "ff2921ce7ee0621c8924903477268c5f97d13c83",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q122361$E0E6E8F8-2058-43DD-A3AE-8E22004FD9BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p4211.htm#i42108"
+          },
+          "hash": "815e6d86e85df9bf227f8c4565318eed11f896f2",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122361$5AF76177-F719-4FC3-9EA1-6771299BCCD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120668",
+              "numeric-id": 120668
+            }
+          },
+          "hash": "9fcf9109d7bcb6fad52e6944a54d59004c876029",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122361$A95984E2-D17B-4994-8A34-9A844F2DD410",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126259",
+              "numeric-id": 126259
+            }
+          },
+          "hash": "888fe74b6787b247c6bc7b897e5c7874490e874c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122361$FEE2C23F-B2CD-4182-BBE2-22B8B823D9AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122361$B82D72F2-3BBC-4243-85CE-ECAB84A98C28",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0995-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ddf9650eee01b438c477cc2273ff13d156f25a3c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122361$7A978824-5DC4-4E20-B296-98A12CAEE0F2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1059-06-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6ff2233d80bf9c4654f00ff0336310aa9eabb0b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122361$7C479737-76E5-4153-9364-E24C8D748682",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q435137"
+          },
+          "hash": "f1007bbce06f003cc28017e5c419c2b61c7a67f0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q122361$81F75C29-21C5-4AD8-B91F-829713B2C80F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010218558380"
+          },
+          "hash": "6f02963a4b97ae5fa9a539fc9531417d29043f08",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122361$920E07E1-5FCD-424E-B848-46DED78DCB2E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=bernhard;n=von sachsen;oc=3"
+          },
+          "hash": "d9d6d81c3f29a1798646b86e84e44f074770eb8f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q122361$1E596A34-C333-41C3-BE47-027954E2F92B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.7972"
+          },
+          "hash": "3e405973d8bb89e138b8b2c9c3a89c9f48d00b9d",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122361$3E9CF8D1-5815-41E5-AA6E-205BCD1F6859",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bernard II Arms.svg"
+          },
+          "hash": "85b98b10fd6047559aaa62720de799399be4ab5f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q122361$A5424227-55C4-4BCA-9E30-A82A6A815612",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/b60c61eb-d5dd-49f7-ad6e-6c1d869fd096"
+          },
+          "hash": "c2d0e88eb664dbe57907e9a9060c0f544eea7aae",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata alemán (995–1059)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "duc de Saxònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "saský vévoda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Sachsen"
+    },
+    "el": {
+      "language": "el",
+      "value": "δούκας της Σαξονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke of Saxony"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata alemán"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata alemaniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "duc de Saxe"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata alemán"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szász herceg"
+    },
+    "it": {
+      "language": "it",
+      "value": "duca di Sassonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits aristocraat (995-1059)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata alemão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "герцог Саксонии"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "герцог Саксонії"
+    }
+  },
+  "id": "Q122361",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "برنارد التانى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Бернгард II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Бернхард II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Bernat II de Saxònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bernard II. Saský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Bernhard 2. af Sachsen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bernhard II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βερνάρδος Β΄ της Σαξονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bernard II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bernardo II de Sajonia"
+    },
+    "et": {
+      "language": "et",
+      "value": "Bernhard II (Saksi)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bernhard II."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bernard II de Saxe"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Bernardo II de Saxonia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Bernát szász herceg"
+    },
+    "id": {
+      "language": "id",
+      "value": "Bernard II, Adipati Sachsen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bernardo II di Sassonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベルンハルト2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბერნჰარდ II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Bernhard II av Sachsen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bernhard II van Saksen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Bernard II z Saksonii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Bernardo II da Saxónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Bernardo II da Saxónia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Bernard al II-lea de Saxonia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бернхард II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Bernard II, Duke of Saxony"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bernard II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Bernhard II av Sachsen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Бернхард II (герцог Саксонії)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "比隆公爵貝恩哈德二世"
+    }
+  },
+  "lastrevid": 17535550,
+  "modified": "2025-09-17T06:44:36Z",
+  "ns": 860,
+  "pageid": 147571,
+  "sitelinks": {},
+  "title": "Item:Q122361",
+  "type": "item"
+}

@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto II. von Konstanz"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q125927$BA1E1BEF-9855-482B-B2B6-E8C573EB33C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "488256"
+          },
+          "hash": "87291372e7ccc981015adccb3f551ffcf667104a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q125927$84374D0E-40AA-4978-96C2-104D650DD0F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00371474"
+          },
+          "hash": "ff4eebb88a872230e1259f59045bb3e7d10947bf",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125927$E97D0776-A6AA-4260-B8CA-E4BA7EA16FCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125927$131B71D5-FCE7-4ECA-9A00-D3A4C0832AAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125927$D0D3A676-83FE-4333-9D21-7555D3C5C60F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120390",
+              "numeric-id": 120390
+            }
+          },
+          "hash": "12ead2cf11d3b815cc0443d05c61ae6255302839",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125927$068F40C9-E245-4EA9-B223-D14FCB421468",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125927$1B199E39-0A43-4D4E-AA8B-B9A15A479E46",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125927$0CA412C6-82A8-465A-8A70-4DA74409EAA9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1174-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "627a5a5e78368cb8901d5a746891805a919b07f3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125927$4A13ADE5-0AB4-4C12-964A-41A120DEF4CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1462084"
+          },
+          "hash": "7d58a1abd2fd0365a2fb3391a4bd62f5559172d9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125927$6B54ACC2-F399-407E-9BB0-EBA872965BD7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto II. von Konstanz Arms.svg"
+          },
+          "hash": "3dd29ecea72abcdb2f0a6a5ceb54132894f45f6e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Konstanz"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Catholic bishop"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կաթոլիկ եկեղեցու եպիսկոպոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "katholiek bisschop"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римо-католицький єпископ"
+    }
+  },
+  "id": "Q125927",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Otto II. von Konstanz"
+    },
+    "de": {
+      "language": "de",
+      "value": "Otto II. von Konstanz"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otto II. von Konstanz"
+    },
+    "es": {
+      "language": "es",
+      "value": "Otto von Habsburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Otto II. von Konstanz"
+    }
+  },
+  "lastrevid": 17539038,
+  "modified": "2025-09-17T07:32:03Z",
+  "ns": 860,
+  "pageid": 152341,
+  "sitelinks": {},
+  "title": "Item:Q125927",
+  "type": "item"
+}

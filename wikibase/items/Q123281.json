@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ulric de Vaudémont, seigneur de Deuilly"
+      },
+      {
+        "language": "en",
+        "value": "Ulric de Vaudemont, seigneur de Deuilly"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123281$45274DD8-9C18-4919-BC7C-0EA15E801847",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123281$7F71B307-F954-4A3B-ADC1-59AF9D45B1BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123281$53910616-A08D-491F-9BAE-146CA0407361",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146609",
+              "numeric-id": 146609
+            }
+          },
+          "hash": "c273be2553fc4353aa14a30f479e02413640daeb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123281$804D82AD-8394-44A7-B6AD-D34D9F8DC6E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122311",
+              "numeric-id": 122311
+            }
+          },
+          "hash": "ddd66a801e0bb41e76daec20b3389b6062052426",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123281$BC0AE98D-5F63-4867-87BD-CB2480205F95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118144",
+              "numeric-id": 118144
+            }
+          },
+          "hash": "4520330e70784326194b9cf2349de58212f00309",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123281$B7BDDAE1-979E-48AE-9A60-B80D2F49EEC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123281$E4BCEF80-0E9E-41EA-B0BF-C667CFA4905C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q114040207"
+          },
+          "hash": "47abd69b0049a1ccc53b696876d7a1afb568b8af",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q123281$C4EC66D3-61E6-4C9F-A7B5-AABE1D636C70",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulric de Vaudémont, seigneur de Deuilly"
+          },
+          "hash": "8b5af0f2056e7a0f94a4c5fe93c5b786b8dafea4",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123281$4269864D-E2CD-4980-BC47-CB9CFD84AC34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ulric;n=de vaudemont;oc=1"
+          },
+          "hash": "71e57c90f423659b9781b3ee349e99cda4059971",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123281$CDE8407C-4D4E-47B1-A56B-23EB9B5E9F14",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulric de Vaudémont, seigneur de Deuilly Arms.svg"
+          },
+          "hash": "b107789c0ca196976f842adddbd51e78c4c45af2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q123281",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ulric de Vaudémont, seigneur de Deuilly"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ulric de Vaudémont, seigneur de Deuilly"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ulric de Vaudémont, seigneur de Deuilly"
+    }
+  },
+  "lastrevid": 17536462,
+  "modified": "2025-09-17T06:56:43Z",
+  "ns": 860,
+  "pageid": 148801,
+  "sitelinks": {},
+  "title": "Item:Q123281",
+  "type": "item"
+}

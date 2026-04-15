@@ -1,0 +1,179 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto I von Everstein"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q125188$2A723C9D-664B-433E-8FC2-5AAF05C434AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125188$BB674C18-2E07-4424-A3C8-B951238284CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125188$2D9F69BD-8AE7-4091-99C8-D0DA3961C5A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119754",
+              "numeric-id": 119754
+            }
+          },
+          "hash": "f14be3faf8920e218e82caa0ae211015d99a6c7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125188$95E4D61A-1AD3-4A77-B39C-8B8696EDD1D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125188$2D438270-0D1C-4C54-8B07-AF3A92994F6E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125188$5A5AD227-E2C4-4FEB-991D-D408D51281A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q55100858"
+          },
+          "hash": "2183f3295e7de39e108117922217237ec2d9c086",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125188$03CE8E59-EAAA-4AA7-A6FE-71D8A48FB3BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto I von Everstein Arms.svg"
+          },
+          "hash": "b9eefd7a91abbdf3e4bdb1a721de37f3913425fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q125188",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Ото I фон Еверщайн"
+    },
+    "de": {
+      "language": "de",
+      "value": "Otto I von Everstein"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otto I von Everstein"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Otto I van Everstein"
+    }
+  },
+  "lastrevid": 17538322,
+  "modified": "2025-09-17T07:22:27Z",
+  "ns": 860,
+  "pageid": 151352,
+  "sitelinks": {},
+  "title": "Item:Q125188",
+  "type": "item"
+}

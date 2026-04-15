@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Walter Devereux"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125348$4766C5BE-E565-460B-9829-A05B8A424EF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00709690"
+          },
+          "hash": "a7d46a5c978361519f9f16624cc8e2ced8a6657e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125348$B20A29D9-2925-4455-8E18-B17C57B5115E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143417",
+              "numeric-id": 143417
+            }
+          },
+          "hash": "1414362b3022b840eff7d081c8088a7ef71d4a27",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125348$BC3BFA4A-786B-4DC2-BAF3-4638EA12E6BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143418",
+              "numeric-id": 143418
+            }
+          },
+          "hash": "528cdfb27f6b6a6620123658eb52108851a5d8ae",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125348$46383E8D-A3EC-4A38-AE1F-7C8CDA0C6DD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143419",
+              "numeric-id": 143419
+            }
+          },
+          "hash": "fdc2b6b8e9e053c5c22c68452f93c58b09bea671",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125348$E4FD62A0-B100-40A0-8B31-FBC53F29C743",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125348$C4AD0CA4-C3AD-492E-860E-0E5875EB358A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125348$CA06B5D3-BF21-4FEA-8107-576978716AAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119854",
+              "numeric-id": 119854
+            }
+          },
+          "hash": "e93f3990a8d38aa2b77ccaf66cb0baf0d0405d26",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125348$8F47B754-4CEE-48A8-813C-48D01E989AA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125348$CAEEDDA1-9E22-4AB9-BFA5-F161D6D90E06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1173-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "58be713945bd7f3347027b0f2ab5226067c4af1a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125348$9E412DBE-C3F2-4A13-9147-D44489E40D69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1190-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e6b055307b7a1d5c23a3c148db6363f6c841a780",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125348$280EA61D-9289-4C92-A9E7-C409F090EC7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18159895"
+          },
+          "hash": "504c3ae55894dc7dfa02ee41c639e7e5b6b9b946",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125348$0167D9DB-B28F-48CA-8388-D40F3EEF470D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Walter Devereux Arms.svg"
+          },
+          "hash": "b26f60033064f3875c20da82f3beb2f1107ab146",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "person milwrol (1173-1190)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Son of John Devereux"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "английский земледелец XII века"
+    }
+  },
+  "id": "Q125348",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Walter Devereux"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Walter Devereux"
+    },
+    "en": {
+      "language": "en",
+      "value": "Walter Devereux"
+    },
+    "es": {
+      "language": "es",
+      "value": "Walter Devereux"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уолтер Деверё"
+    }
+  },
+  "lastrevid": 17538464,
+  "modified": "2025-09-17T07:24:19Z",
+  "ns": 860,
+  "pageid": 151567,
+  "sitelinks": {},
+  "title": "Item:Q125348",
+  "type": "item"
+}

@@ -1,0 +1,226 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peter II Bishop of Nice"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123984$D189132E-ACDB-43A9-A0CD-632B4DB6FF26",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1421314"
+          },
+          "hash": "fe69aef979a2092fe7db392e26244fc1c27a70da",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123984$9049B39F-1A88-4150-A7A5-06FF77E4BDF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123984$B0044C3C-B1FC-4104-9589-BC465D3A22C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123984$42FA3E63-2ECD-4FB5-83C6-BA88C1773AAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118878",
+              "numeric-id": 118878
+            }
+          },
+          "hash": "197953a1270898ed2bf548022b318021abe63096",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123984$498F6695-E15B-43FC-9780-E8FE373A92F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123984$2B0B2F66-1E0C-4F5C-88B5-7132631C2EB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1103-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "45bcf5b30b86ea55356cb9f38f1114eafff7b5d6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123984$39F1B5E8-1248-4BDF-A7CD-57AB1861FDEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3385510"
+          },
+          "hash": "cf704f636caee0eb3e5fc09a3527ca3b485e537f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123984$3E1097A4-510E-4FBB-ADEB-9A8BC7B00EE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=pierre;n=de nice;oc=1"
+          },
+          "hash": "df124e241009b925d3e4dfd68318ad50dbea1c9a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123984$3E5E51B8-2DF4-4348-BD9E-4242B77269DD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peter II Bishop of Nice Arms.svg"
+          },
+          "hash": "1815ab35991e9f90740eb0d0580bc8947bd4aa3d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique"
+    }
+  },
+  "id": "Q123984",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Peter II Bishop of Nice"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pierre II de Nice"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pierre II de Nice"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pietro II Vescovo di Nizza"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pierre II de Nice"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Peter 2nd Bishop of Nice"
+    }
+  },
+  "lastrevid": 17537140,
+  "modified": "2025-09-17T07:06:27Z",
+  "ns": 860,
+  "pageid": 149735,
+  "sitelinks": {},
+  "title": "Item:Q123984",
+  "type": "item"
+}

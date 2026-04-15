@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sicardis de Montsoriu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123441$C1A0B362-651D-4850-A64B-E50CFA562ACC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123441$6EF46479-38C9-4DDC-8918-0B8CEC177DCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123441$947DA2B9-5758-4194-93E8-F071DC3AE528",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123440",
+              "numeric-id": 123440
+            }
+          },
+          "hash": "e438005399dc646dca9d846883b0e2a6d6e9b93d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123441$DE124F0C-2C55-4538-BC6D-63156462A9C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123441$F66774EC-F9B6-478C-86E6-C73D6660B9E8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1103-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fc75502b88516c1f27d33f1c139eff61a0b727a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123441$F9CCDA81-80C8-4E98-B501-3A93F7178D9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26806218"
+          },
+          "hash": "7d536fcd1189ebfc856c3ed37eb615423754a111",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123441$D51DAC97-3760-4DE6-AEDE-623838653668",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sicardis de Montsoriu Arms.svg"
+          },
+          "hash": "622a692611403fc3318dc10dfd3334a499f3d9fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "senyora de Lloret de Mar"
+    }
+  },
+  "id": "Q123441",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sicardis de Montsoriu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sicardis de Montsoriu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sicardis de Montsoriu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sicardis de Montsoriu"
+    }
+  },
+  "lastrevid": 17536622,
+  "modified": "2025-09-17T06:58:47Z",
+  "ns": 860,
+  "pageid": 149014,
+  "sitelinks": {},
+  "title": "Item:Q123441",
+  "type": "item"
+}

@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice de Bethsan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123006$0AB2284F-7D69-45CA-BA58-E154460F00E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106152"
+          },
+          "hash": "68e4130e8ec26d506e733fa561b689cfbb00d648",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123006$9EA849B2-4EC0-493A-AD44-0D5347A8D8A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123006$27EE2838-3AE7-48D8-99A6-5CEE9396F2EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123006$CB267878-2C99-46FE-BEBB-4F02FCAA2F66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123004",
+              "numeric-id": 123004
+            }
+          },
+          "hash": "b0a5f56a7de7b9c68de460c33e17b1074d28bbaa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123006$BF14C0DC-1267-40CB-9450-AEE50549D456",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117954",
+              "numeric-id": 117954
+            }
+          },
+          "hash": "eba6e1e672f3d8477230a7509b5020f4dce01745",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123006$78FB3D17-3228-470F-81BE-27B90B386C8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123006$0AF2F618-2D18-4844-9D31-6451762D26C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q113954994"
+          },
+          "hash": "ad1f4476fce3c6dff308eddb5b97407957939c01",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123006$30B28F25-1728-4487-9D0C-5F507E5003CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alice;n=de bessan"
+          },
+          "hash": "eb040ba378b0362b6e140ffc40aa8e4c5b98b37a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123006$40A36AAA-3F5E-49E6-8208-5BFFC1C96575",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice de Bethsan Arms.svg"
+          },
+          "hash": "cf63307eb1934b863d24c64533b54d51c9a0fb69",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q123006",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Alice Bethsanská"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alice de Bethsan"
+    }
+  },
+  "lastrevid": 17536190,
+  "modified": "2025-09-17T06:53:07Z",
+  "ns": 860,
+  "pageid": 148434,
+  "sitelinks": {},
+  "title": "Item:Q123006",
+  "type": "item"
+}

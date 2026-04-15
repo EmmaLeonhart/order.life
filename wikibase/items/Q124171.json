@@ -1,0 +1,358 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rudolf I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124171$51AA777C-C652-4F72-B49C-DA79217C8F86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1276629"
+          },
+          "hash": "e3d0c132bddabc33e33d72e0674c7a47b73a9ad4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q124171$2FB062E4-C730-48C7-B83D-6C873453C185",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00409805"
+          },
+          "hash": "71f0e8fd8279887ed021d2eca47a9c6695466f37",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124171$195FC264-C02E-484B-9720-594C4E7C98FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lahngau-7"
+          },
+          "hash": "b5918e3117bd1f184f4eb4cb9daca280d64a6852",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124171$A565852D-BA2A-46CD-B9D6-5EC40E6F4A3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124171$C16CC66D-9777-4D9E-B093-8B805B709288",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124171$CCCAA734-EDB3-4B75-B7EB-094AD25C5B7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Rudolf_of_Neustria_(1)"
+          },
+          "hash": "ec99af56f44ba0a68bb80bb94fb8f53c68be4eae",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q124171$C97FABDF-C99A-4BB7-B760-52C6083A357E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p67176.htm#i671758"
+          },
+          "hash": "667df3d695da0c79334fb517a748ba43eb0acb43",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124171$F4192AF6-23CB-49D1-9090-FC70E8291249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119099",
+              "numeric-id": 119099
+            }
+          },
+          "hash": "f6edd54e2440b8bdda5fef22b63e43cbea8fa466",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124171$8379FF49-D28E-427C-B68B-A67F2601DA54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124171$310F24F6-42FF-4AF5-B44E-40C48252E159",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124171$E9800216-ADC4-408D-8899-952EE12D1E12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0908-08-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c5ee31ebd1fd232aa2e44760af93535feded94a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124171$505003EC-4D99-4232-B09E-8F7BA092D7AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q319960"
+          },
+          "hash": "877f395ab6eb2b6dd351f80ee49e57c5043f11f5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124171$AF5941D9-D0BD-4AB7-95FA-B69A6C6D9A9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=rudolf;n=konradiner"
+          },
+          "hash": "944bd6b31566d2f676ffa2202eda08344c28a63c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124171$0B8D040A-E333-4E0A-8E3B-AF083E4107DD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rudolf I Arms.svg"
+          },
+          "hash": "90cbb6db13f9ef8c6867d91ee63732eea69a54e6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bischof von Würzburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "German bishop"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo de Wurzburgo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "епископ Вюрцбурга"
+    }
+  },
+  "id": "Q124171",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Рудолф I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rudolf I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ροδόλφος επίσκοπος του Βίρτσμπουργκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rudolf I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rodolfo I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rudolf Ier de Wurtzbourg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Rodolfo I di Würzburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rudolf I van Würzburg"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rudolf I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rudolf I"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Rudolf I de Würzburg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рудольф I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Rudolf I"
+    }
+  },
+  "lastrevid": 17537322,
+  "modified": "2025-09-17T07:08:58Z",
+  "ns": 860,
+  "pageid": 149987,
+  "sitelinks": {},
+  "title": "Item:Q124171",
+  "type": "item"
+}

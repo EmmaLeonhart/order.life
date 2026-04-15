@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Frédol d'Anduze"
+      },
+      {
+        "language": "en",
+        "value": "Fredol d'Anduze"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123203$85363AE8-47DD-419A-9B38-916FC113B45A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123203$F21DE019-7D85-4E56-B79D-8669DFC7694C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123203$2472A665-F9AF-42F1-A463-454BA98A6AF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118114",
+              "numeric-id": 118114
+            }
+          },
+          "hash": "36433653305e63850bb1ad8754424ba93a010c45",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123203$26D14B6D-24E4-432F-B58D-4F506E6BA7CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123201",
+              "numeric-id": 123201
+            }
+          },
+          "hash": "7925fcc5592d9fb01b9b4d44448db53d474e8bd0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123203$D4B382E3-2325-48BC-8361-A40D272894D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123203$6E990DDE-1696-4747-A269-29AD1792D418",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1029-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "79e0c24a9865b8d1753f6a7a9616805c486b7a96",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123203$1549F061-517E-4C7C-9EEE-A532926ED7BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3089513"
+          },
+          "hash": "fe541c740d9620cae3dba8d9ed03d237a58ca54f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123203$6C9C56EA-15D6-4739-A7E2-4C977D7D290D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Frédol d'Anduze Arms.svg"
+          },
+          "hash": "5a899fc60d03c4a9d8f709ed5ae8f8178ebe3414",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman catholic bishop (Puy)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique (Puy)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "prelaat"
+    }
+  },
+  "id": "Q123203",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Frèdol d'Andusa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Frédol d'Anduze"
+    },
+    "es": {
+      "language": "es",
+      "value": "Frédol d'Anduze"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Frédol d'Anduze"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frédol d'Anduze"
+    }
+  },
+  "lastrevid": 17536384,
+  "modified": "2025-09-17T06:55:41Z",
+  "ns": 860,
+  "pageid": 148697,
+  "sitelinks": {},
+  "title": "Item:Q123203",
+  "type": "item"
+}

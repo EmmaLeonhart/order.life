@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William of Ypres"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126049$03FB56A9-BCD2-479A-81C5-223AA571D26B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "905170"
+          },
+          "hash": "b35162d64271ad4c56d573c58426e197a90b9a2f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126049$5BF6F354-FB66-467A-926D-31BA3185A6A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126049$69292885-88BA-4815-BE8F-F89F74474CFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126049$3F16360F-833F-407E-B973-F57D3633B200",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "William_of_Ypres_(1)"
+          },
+          "hash": "b1b3e0df052c2befd17ffc0dde906f174453deec",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126049$15786868-D47C-4289-B79A-F6629407235D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120464",
+              "numeric-id": 120464
+            }
+          },
+          "hash": "4cd1147002e9dbc29bc63adf2f5126626842da0d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126049$7124A994-E434-4D3C-B585-ED88A5D50CA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126049$9C72B36A-7950-4DCD-87B9-0589B69C9F80",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1090-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94b17f56dd7e53642af9aedc8c2d6f0cfed5870a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126049$20A85DE5-EF3E-4955-A228-35CD81510861",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1164-01-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "456052e4a020daf162a6bd29a12b9fe4b29ed127",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126049$768C52A8-7B60-4016-9F16-83923C1BCD4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1394458"
+          },
+          "hash": "7800a32c4c8c1f4da545b9a9e82d4a84ea00e21e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126049$5447323F-353C-425B-B383-C768D8DA20F1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William of Ypres Arms.svg"
+          },
+          "hash": "9618381e0b9d24cbe27d14f9f7e555a3a2519f1a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي من المملكة المتحدة"
+    },
+    "de": {
+      "language": "de",
+      "value": "uneheliche Sohn von Philipp von Ypern und seiner Geliebten, der „Dame von Lo“"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόμης της Φλάνδρας, υποστηρικτής του βασιλιά Στεφάνου της Αγγλίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Flanders, supporter of King Stephen of England (1104-1164)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brits politicus"
+    }
+  },
+  "id": "Q126049",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "وليام ايبرس"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wilhelm von Ypern, 1. Earl of Kent"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γουλιέλμος της Υπρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "William of Ypres"
+    },
+    "es": {
+      "language": "es",
+      "value": "William of Ypres"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume d'Ypres"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "William of Ypres"
+    },
+    "it": {
+      "language": "it",
+      "value": "William di Ypres"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウィレム・ファン・イーペル"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Willem van Ieper"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вильгельм Ипрский"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "William"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Willem van Yper"
+    }
+  },
+  "lastrevid": 17539160,
+  "modified": "2025-09-17T07:33:39Z",
+  "ns": 860,
+  "pageid": 152505,
+  "sitelinks": {},
+  "title": "Item:Q126049",
+  "type": "item"
+}

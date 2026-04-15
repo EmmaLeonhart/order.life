@@ -1,0 +1,306 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eberhard I of Hildrizhausen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126676$1D6F9CB3-7F53-4E9F-9E2F-104D4D26A7F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126676$DC6F58A5-6365-4A90-A0F3-D9F9E00E763E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126676$A695D235-99F6-4DBC-995A-99BB8315ABCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126672",
+              "numeric-id": 126672
+            }
+          },
+          "hash": "c87fd73fb6ff9fc6a52c0f2b2e4a526f9fc8afc4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126676$CDC44625-68AE-4B5D-8D0E-614EC95D21C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121011",
+              "numeric-id": 121011
+            }
+          },
+          "hash": "eb1fce2a5056c813528b0e27098395fc9c3e602a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126676$812A0E4D-827F-4DEF-A6F1-A57338EFBD65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126676$3D0155BD-60C2-4F09-A047-87CE72C700E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126676$D9F2CF60-838A-4BD4-A046-722D7C624BAD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1112-01-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1007a4df51dfc5bcb68b893f1985d85efbbe81e9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126676$920AE607-9242-4956-BAC3-170793473EEE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1279091"
+          },
+          "hash": "8c9bdefd09f7614223d3481492e518d03b68b498",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126676$F75F7F38-ED62-4D98-8313-0C8871234C25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=eberhard;n=von hildrizhausen"
+          },
+          "hash": "7bbddf128eeb4982779ab7e74de687889f3f8266",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126676$F85A3596-BF74-424B-817B-31D286B64ABC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eberhard I of Hildrizhausen Arms.svg"
+          },
+          "hash": "065c56fad230bfa0d15a293549486c8aa7c7dae8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "граф, господар на замък Шварценбург"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürstbischof von Eichstätt"
+    },
+    "en": {
+      "language": "en",
+      "value": "prince-bishop of Eichstätt"
+    }
+  },
+  "id": "Q126676",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Еберхард I фон Хилдрицхаузен"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eberhard I of Hildrizhausen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eberhard I van Hildrizhausen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Eberhard I. von Hildrizhausen"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Eberhard I of Hildrizhausen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eberhard I. von Hildrizhausen"
+    }
+  },
+  "lastrevid": 17539776,
+  "modified": "2025-09-17T07:42:20Z",
+  "ns": 860,
+  "pageid": 153346,
+  "sitelinks": {},
+  "title": "Item:Q126676",
+  "type": "item"
+}

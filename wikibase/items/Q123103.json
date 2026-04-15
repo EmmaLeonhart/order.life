@@ -1,0 +1,562 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William II, Count of Nevers"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123103$BF474254-1EED-4F9C-A944-B1A3E64C905C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "426425"
+          },
+          "hash": "9aad8e16c10cdf38317b3dfe0e699bb9a7a3fa74",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q123103$D8E0FE8F-F4D8-46F1-BAE8-0E244BFB5C92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00029105"
+          },
+          "hash": "8777f422e29b98caa70ca09a640a7e252b7bcdb9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123103$B1759936-74B3-4D49-B790-CDDBD333FA38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118034",
+              "numeric-id": 118034
+            }
+          },
+          "hash": "0707a4116d4cd89824ba00591a5a32b5116316e8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123103$983691FD-17A4-4D18-8651-C7226B7D5564",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146918",
+              "numeric-id": 146918
+            }
+          },
+          "hash": "7569ffbc9d32211f49abfd04c5452bde22e871c3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123103$A7A61303-0EFB-4375-AD6A-9606E9F2EBE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146919",
+              "numeric-id": 146919
+            }
+          },
+          "hash": "470325b54a0461be3ea2526df70ea7023da3bd16",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123103$2C220413-E476-45B0-8125-08214D2FBC5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146920",
+              "numeric-id": 146920
+            }
+          },
+          "hash": "fb7269246a2e2a05c8dc652f0a29014f939a60d7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123103$6BA6A718-793C-4B08-83DA-E18362A1AA93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Nevers-56"
+          },
+          "hash": "920984520202cbe005849867f4bc9d591a01b2de",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123103$FD999146-46FA-4319-A109-7A7D3B04BED6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123103$3298A24B-3BF9-45D7-AE3A-A4CFACAF5BCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123103$B54C59A1-C476-4065-B0D0-B9D76A1DB52B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume_II_de_Nevers_(1)"
+          },
+          "hash": "175a6b2a9ae6de34d24eeaeaefeb2eb52846c29e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123103$844C167F-FBE1-4AD1-9AFD-55E97CC9C3B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123105",
+              "numeric-id": 123105
+            }
+          },
+          "hash": "b9ce422acfee44960f23aaf25d66193f9dd0fed5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q123103$28874625-E04B-4CF0-8D5B-427BF089D171",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p48332.htm#i483316"
+          },
+          "hash": "4f79c1d180c9605f663b10a038ba0eca4077a1f4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123103$6E6CA76C-5420-486E-9072-8CA09D89C84B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120422",
+              "numeric-id": 120422
+            }
+          },
+          "hash": "fbe4713780678362a348702cf03fa5bed65ca5b0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123103$AEA6744F-506E-4AA7-B0FC-01F050FBE1B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122754",
+              "numeric-id": 122754
+            }
+          },
+          "hash": "bf2a817ddc9f22cc5eb428497a6df462f4ee192b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123103$1A1D8E21-625F-4E32-A65D-158E6A8AB270",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123103$EF6B02DB-0091-46A5-8303-F11E12BF17CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1083-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a182f5c450ebca20223b005037dd20322d64aaca",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123103$76936CC0-14BD-493E-BC5A-3BAED4B4D197",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1148-08-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "560fca340cdba74882092c2a3281aa9603f882dd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123103$68F10AAF-8A0A-4D49-A4C1-A82CFB254E5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q178174"
+          },
+          "hash": "22bb719f3870bb8f640ee04d8cc076b5a3fe6efa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123103$E6565F4D-D8FA-40C2-87D2-C1D048613AFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guillaume;n=de nevers;oc=2"
+          },
+          "hash": "934014bbaa263508a865389ff0dfae115df3eb7d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123103$28AAEE9B-2342-41A0-AEC0-AD4DF7D601E4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William II, Count of Nevers Arms.svg"
+          },
+          "hash": "edcd726bb8556a84c29996a3f623605376e16763",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "militar francés (1080–1148)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "militar francès"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Nevers, Graf von Auxerre, Graf von Tonnerre"
+    },
+    "en": {
+      "language": "en",
+      "value": "French military personnel"
+    },
+    "es": {
+      "language": "es",
+      "value": "militar francés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "gudari frantziarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Nevers, mort en 1148"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "militar francés"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile e militare francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans militair (1080-1148)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "militar franses"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "militar francês"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız asker (1083 – 1148)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "французький військовик"
+    }
+  },
+  "id": "Q123103",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "وليام التانى كونت نيفيرس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Guillem II de Nevers"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vilém II. z Nevers"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wilhelm II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Γουλιέλμος Β΄ του Νεβέρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "William II, Count of Nevers"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guillermo II de Nevers"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume II de Nevers"
+    },
+    "he": {
+      "language": "he",
+      "value": "גיום השני מנוור"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Guillaume II de Nevers"
+    },
+    "id": {
+      "language": "id",
+      "value": "William II dari Nevers"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guglielmo II di Nevers"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギヨーム2世 (ヌヴェール伯)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Willem II van Nevers"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Guilherme II Nevers"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Guilherme II Nevers"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Guilherme II Nevers"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Guillaume al II-lea de Nevers"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гильом II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Guillaume II de Nevers"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Вилијам II од Невера"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Guillaume de Nevers"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гільйом II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尼維爾的威廉二世"
+    }
+  },
+  "lastrevid": 17536284,
+  "modified": "2025-09-17T06:54:23Z",
+  "ns": 860,
+  "pageid": 148563,
+  "sitelinks": {},
+  "title": "Item:Q123103",
+  "type": "item"
+}

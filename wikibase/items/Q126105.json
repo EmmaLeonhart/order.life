@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ralph de Bayeux"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126105$BACCDE32-2A1D-4A7C-B17F-21851FE2AD16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126105$0C5A36AB-BBEE-4CB6-81F5-D5EA751856F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126105$250203D7-0E5B-45EA-B555-1BEA17B425D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120540",
+              "numeric-id": 120540
+            }
+          },
+          "hash": "3f2e2f3182de5e2a467a1be4fa92cabae422d689",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126105$0C54CFD4-B932-4227-A81C-63B0D035D666",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126105$61B7B473-5026-4EEA-9EC7-1A70A56A9251",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0890-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ee3c56d5b83f72e44db5bb2ba147193d567fbed1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126105$69616A9F-E734-492B-84D4-845AFBB662D7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "62b51de947e783ebe55497897b9399df46c6ca97",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126105$7FFCF93B-8D89-4A81-A26D-42D91ADD7278",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131363925"
+          },
+          "hash": "f3ab7c452bf182f8f0a7a67a12923c07eb9ee60a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126105$BE385D6F-F53D-4888-A3DA-521625966830",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ralph de Bayeux Arms.svg"
+          },
+          "hash": "4ecbd5f5f45a23c22a08b6dc1ed3f2b604474d7a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "es": {
+      "language": "es",
+      "value": "jarl vikingo"
+    }
+  },
+  "id": "Q126105",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ralph de Bayeux"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ralph de Bayeux"
+    }
+  },
+  "lastrevid": 17539212,
+  "modified": "2025-09-17T07:34:58Z",
+  "ns": 860,
+  "pageid": 152580,
+  "sitelinks": {},
+  "title": "Item:Q126105",
+  "type": "item"
+}

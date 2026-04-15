@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Q20047936"
+      },
+      {
+        "language": "en",
+        "value": "Beatrice de Champlite"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126323$1FF601C7-1A2E-4960-92F9-8E91B81B8304",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126323$7744AFBB-7165-4954-ADF9-E26EDBEF2E1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126323$614E10C4-F9EF-425B-B999-9338FA6B9B04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123325",
+              "numeric-id": 123325
+            }
+          },
+          "hash": "3622c0529eeaac8e94d9cd8e1d457abe3224d2ee",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126323$89F90D5B-23E3-44BC-93E1-1F0FB6559860",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120734",
+              "numeric-id": 120734
+            }
+          },
+          "hash": "01eb88d7cc051b44f1c99dd250e659c0c83d1c57",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126323$48D4B119-CEF8-42AA-8384-B2EB8239D613",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126323$4A4227C9-380C-47A4-985D-DD9CD819B9AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1165-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1767f7dd1b17980e2887fe81e7e60332f5d63c33",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126323$B2CC707F-AA54-481B-B2D2-0E3F5F4D3BEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20047936"
+          },
+          "hash": "e8bd1b65bf07e870f94e63e41089e5421935fdaa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126323$58AA7985-6939-45D6-AA98-E3B2A24582D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=beatrix;n=de champlitte"
+          },
+          "hash": "7e63eb85e75839356efe5e9248c90fe855bbfbc5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126323$C32CEC55-0F58-4913-AF04-8EBCDEF21DD4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Beatriz de Champlite Arms.svg"
+          },
+          "hash": "554a6798dde1555329e8c07cb1d52e4013636275",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "francouzská šlechtična"
+    }
+  },
+  "id": "Q126323",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Beatriz de Champlite"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Beatrix ze Champlitte"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βεατρίκη του Σαμπλίτ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Beatriz de Champlite"
+    },
+    "es": {
+      "language": "es",
+      "value": "Beatriz de Champlite"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Beatriz de Champlite"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Beatriz de Champlite"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Beatriz de Champlite"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Беатрис де Шамплит"
+    }
+  },
+  "lastrevid": 17539428,
+  "modified": "2025-09-17T07:37:46Z",
+  "ns": 860,
+  "pageid": 152873,
+  "sitelinks": {},
+  "title": "Item:Q126323",
+  "type": "item"
+}

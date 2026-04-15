@@ -1,0 +1,464 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pacorus II"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123542$94BD13E3-5232-449E-A004-0B95BECC4A9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717512"
+          },
+          "hash": "9375e8d41a64663b736d899ce54900b2ba6a7f29",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123542$297E0043-0626-4723-93F5-27E59CA5ACB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118382",
+              "numeric-id": 118382
+            }
+          },
+          "hash": "368f52c5babba4840633f41719f58657be5f2934",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123542$6021C723-0AFA-4AB5-95E4-F304A4656108",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139781",
+              "numeric-id": 139781
+            }
+          },
+          "hash": "cbdd9dfc735fa7552a463645b0a38eb2c5471f99",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123542$639FBA03-E8BD-4A4E-8601-60280B13D3D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139780",
+              "numeric-id": 139780
+            }
+          },
+          "hash": "8be5a413d43578b36ec0a521176350f9d291d994",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123542$495E383C-5AF3-4899-B916-AE470CEB380E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123542$BBD394C6-E31E-4562-BA4F-00E9554A948E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123542$61A5B68A-FC58-4D82-A7A0-A14C5ADECAAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137732",
+              "numeric-id": 137732
+            }
+          },
+          "hash": "d24c2b22a9f8e443abaa20bdc8df03d8da42c322",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123542$7A2B6C20-6AA2-456B-B5B1-E4B8EE411670",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123542$9E4C47F3-D776-4C01-B8B7-40D7045B5899",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123542$5AED97C6-256A-49C3-A4AF-15EDED132380",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0105-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db4737ab9352cf2db6ca590845b72feee9ae7b60",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123542$E0D0BAB6-7B43-45C3-81F5-4D83EB74D893",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q163721"
+          },
+          "hash": "979a84a283efd973d25acdbab92f424544d6356a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123542$28C65CB3-8511-445F-AC8E-2629451714AD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pacorus II Arms.svg"
+          },
+          "hash": "6fbd361e82fdce0862f6fbafa3782c3967305713",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "parthský velkokrál"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herrscher des Partherreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "Parthian king"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "grand roi arsacide (78-110)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "pártus király"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero partico (r. 78-105)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Characene (-105)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Парфии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Part kralı"
+    }
+  },
+  "id": "Q123542",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Pakorus II van Partië"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "باكورس التانى"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی پاکور"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пакор II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pacoros II de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pakoros"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pakoros"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Pakoros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πακώρος Β’ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pacorus II"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pacorus II of Parthia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pacorus II of Parthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pacoro II de Partia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pakorus II.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پاکور دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pakoros II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pacorus II"
+    },
+    "he": {
+      "language": "he",
+      "value": "פקורוס השני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pakor II. Partski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XXV. Arsak pártus király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բակուր Բ Պարթև"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pakur II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pacoro II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パコルス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პაკორ II"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "پاکور دوم"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pacorus II av Parthia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pacorus II"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Pacorus II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pakorus II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pácoro II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pácoro II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пакор II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pakor II od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pakor II."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pacorus II"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Покури II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Pakorus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пакор II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Pacorus II của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "帕科魯斯二世"
+    }
+  },
+  "lastrevid": 17536718,
+  "modified": "2025-09-17T07:00:03Z",
+  "ns": 860,
+  "pageid": 149148,
+  "sitelinks": {},
+  "title": "Item:Q123542",
+  "type": "item"
+}

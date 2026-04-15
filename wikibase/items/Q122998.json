@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ursion I de Château-Landon, Châtelain de Nemours"
+      },
+      {
+        "language": "en",
+        "value": "Ursion I de Chateau-Landon, Chatelain de Nemours"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122998$7764AC4F-47B2-43DC-90FF-7E3B2256D5CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "932589"
+          },
+          "hash": "64c7c3f196e566981685e2bc58068a025418c8ff",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122998$9CE1F627-AFCA-4023-8CD6-92E248FD12A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122998$1C93BA20-3C57-4397-9C10-91707FF12079",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122998$D8F94401-E0A4-4439-8DB4-F678F2E4DD59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117948",
+              "numeric-id": 117948
+            }
+          },
+          "hash": "702a42527fca16f0485e1b116a196a6d937fcee7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q122998$E087B867-B86C-4E8B-9F1A-3DAD2C152703",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p70905.htm#i709044"
+          },
+          "hash": "766906c5d725b1784db359e3fa9a97e0be371edc",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122998$3671F000-D2BB-4CC2-91F5-962AC5A89EE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122998$47C57C9A-508C-4F53-8043-6C97AFC1785E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1148-01-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "564759ec73efebb367e3a4f7a414c056ca6f1b28",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122998$2E708166-0698-486F-85E9-E345589A2572",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76356027"
+          },
+          "hash": "c49463dc2ac276f8ddc96d0de6d7e0081040a4f1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q122998$F03B31FD-CC07-4A07-9ACE-EE5C1EE88E86",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Urson de Château-Landon"
+          },
+          "hash": "6bb020faa46c85bb1656c35c100b8d2f34c7d49c",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122998$699858C0-75A8-4BFD-A007-76424C719F68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=urson;n=de chateau landon"
+          },
+          "hash": "5f2e179621acd06c8509c4d3965b4d01158e9503",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122998$A1FA6AC9-D7A1-48DD-8A14-2DF59EFDA14D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ursion I de Château-Landon, Châtelain de Nemours Arms.svg"
+          },
+          "hash": "fc7b885fda9837e040c8e549fcc4862e79af5101",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=709044"
+    }
+  },
+  "id": "Q122998",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ursion I de Château-Landon, Châtelain de Nemours"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ursion I de Château-Landon, Châtelain de Nemours"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Urson de Château-Landon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ursion I de Château-Landon, Châtelain de Nemours"
+    }
+  },
+  "lastrevid": 17536182,
+  "modified": "2025-09-17T06:53:00Z",
+  "ns": 860,
+  "pageid": 148423,
+  "sitelinks": {},
+  "title": "Item:Q122998",
+  "type": "item"
+}

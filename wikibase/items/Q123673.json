@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "lffld of Whitby"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Ælfflæd of Whitby"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q112016$37C08793-7FEA-452A-A25F-B8D8EB1D76CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112016$4DDCF9B1-1BC8-4A96-9B6E-BA9F0A934C4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q112016$D9305236-713D-4191-9E7E-FB61485242B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112014",
+              "numeric-id": 112014
+            }
+          },
+          "hash": "8dc6a4222fafff9b0e81632d9cbd840e1ee9210c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q112016$D35631E6-3C61-49E7-B48B-F2DCBA676285",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111241",
+              "numeric-id": 111241
+            }
+          },
+          "hash": "40df3fe5c5f5e6c65530594ce39b04654edb0b54",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q112016$BEB5051F-CEC9-4435-BE01-24DC58359BD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q112016$2AC5FE54-5DE8-4A34-86B6-7E426C1DD42A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2480751"
+          },
+          "hash": "bfc530ef1f511cd6b2f1b8c224dac92e02c6bb50",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q112016$C53E42C9-0044-4F39-A211-54510F054BAF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ælfflæd of Whitby Arms.svg"
+          },
+          "hash": "95c41c14a6c1faa8590e3da5deb5b4aa865edee4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "abatyše ve Whitbyjském klášteře"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abbess of Whitby"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse de Northumbrie, abbesse, sainte"
+    },
+    "it": {
+      "language": "it",
+      "value": "monaca e santa inglese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "kloosterzuster uit Koninkrijk Northumbria (654-713)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "аббатиса Уитби; дочь Освиу"
+    }
+  },
+  "id": "Q112016",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Alfleda"
+    },
+    "br": {
+      "language": "br",
+      "value": "Ælfflæd Whitby"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alfleda"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ælfflæd z Whitby"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ælfflæd of Whitby"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aelflaed"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alfleda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ælfflæd de Whitby"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Alfleda"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elfleda di Whitby"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Ælfflæd Seko Whitby"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aelffled"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ælfflæd van Whitby"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Elfleda z Nortumbrii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alfleda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alfleda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эльфледа из Уитби"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ælfflæd of Whitby"
+    }
+  },
+  "lastrevid": 17523737,
+  "modified": "2025-09-17T03:51:34Z",
+  "ns": 860,
+  "pageid": 133699,
+  "sitelinks": {},
+  "title": "Item:Q112016",
+  "type": "item"
+}

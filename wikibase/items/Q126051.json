@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peter, Count of Dammartin"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q126051$19BC057A-4A08-4CBB-9F19-5F313887E6C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dammartin-50"
+          },
+          "hash": "50b2238894a43edc7c2cc7b538187aaa7b253034",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126051$AB0285B0-1209-4A2B-B368-FF67F860BA48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126051$5125737A-0A1D-43CA-B500-A52C125F106C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126051$790E66CA-6879-4A64-BA74-1C8EFD07A315",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120470",
+              "numeric-id": 120470
+            }
+          },
+          "hash": "6c09faa0dba289463204d5d9649a28aa5a9ead90",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126051$7245581A-D39F-4A5D-B7D9-26720E44A4C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126051$D613248E-53BE-4F3F-81BC-3FBC6A85777C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1106-09-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3bc42d7b8aa316c1967f3b6c4d3f611bfb6e00c2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126051$55DF7A74-4D44-4A3E-BC53-F2E2A68893E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2016088"
+          },
+          "hash": "ab7c687c6286bd4421ba10a3b59ef9778fd81cad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126051$7671EBF9-8BFA-49F9-8B9C-10A5230099F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=pierre;n=de dammartin"
+          },
+          "hash": "cbffa78199fa27c06c018f31ba7a337ecf81d3cf",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126051$0F4FECC0-2C14-48D5-AA3A-1721F2F38057",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peter, Count of Dammartin Arms.svg"
+          },
+          "hash": "fa2fe431df66374d8a602ea5121874b3f4da2d18",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the last of the Counts of Dammartin from the bloodline of his grandfather Manasses"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Dammartin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "van 1103 tot aan zijn dood graaf van Dammartin"
+    }
+  },
+  "id": "Q126051",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Peter van Dammartin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peter, Count of Dammartin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Peter van Dammartin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pierre de Dammartin"
+    },
+    "it": {
+      "language": "it",
+      "value": "Peter van Dammartin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Peter van Dammartin"
+    }
+  },
+  "lastrevid": 17539162,
+  "modified": "2025-09-17T07:33:41Z",
+  "ns": 860,
+  "pageid": 152508,
+  "sitelinks": {},
+  "title": "Item:Q126051",
+  "type": "item"
+}

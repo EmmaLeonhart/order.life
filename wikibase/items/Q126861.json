@@ -1,0 +1,278 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wulfric Spot"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q126861$65386671-E889-48DF-9F53-7C1F808733DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mercia-259"
+          },
+          "hash": "25ba49ae64832d548f75b5cf702a3fee775b987c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126861$00DB290E-AAEC-4D3E-BD8F-FD16BE2A6D86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126861$48D96B8A-D73D-403F-A515-B4C654AE6159",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126861$80DF431D-040F-44EC-B60B-CAF82E67CE07",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wulfric_Unknown_(1)"
+          },
+          "hash": "d123cd139ef28f5dc8313047093a9ee2c7ac55a0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126861$2A010EB3-DAB7-47E1-A8D5-869F8518CF76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126859",
+              "numeric-id": 126859
+            }
+          },
+          "hash": "97e5e69d096c16ddf8ef77d467adef52b0ce9608",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126861$D09FEEA5-33B7-4A84-BD6E-F2B1154219AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126861$DE5C10A2-246A-47C7-85E7-D65BBE122B0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0901-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ecc0589780bacef8dcf758b68be1b8fcb380dd2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126861$AB8138A2-8AA9-447C-B707-BCE0D27C41E6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1004-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "29abe13eddb6446b2fd97250d28b23fb231e3cb0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126861$0292819E-B1CB-41A5-8836-57258967FA9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8039181"
+          },
+          "hash": "6b1e26e7cd4f3c4389949023b13a571642cff574",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126861$B6F8D943-91EC-4FAC-AFD7-A33CBB007CCD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wulfric Spot Arms.svg"
+          },
+          "hash": "d9f20cca166e7f8185e59e1c4171816aa35f8309",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "ealdorman Eingl-Sacsonaidd"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anglo-Saxon ealdorman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble anglo-saxon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "представитель англосаксонской знати"
+    }
+  },
+  "id": "Q126861",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wulfric Spot"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Wulfric Spot"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wulfric Spot"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wulfric Spot"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Will Wulfric Spot"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wulfric Spot"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wulfric Spot"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウルフリック・スポット"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вульфрик Спот"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Wulfric Spot"
+    }
+  },
+  "lastrevid": 17539960,
+  "modified": "2025-09-17T07:44:46Z",
+  "ns": 860,
+  "pageid": 153594,
+  "sitelinks": {},
+  "title": "Item:Q126861",
+  "type": "item"
+}

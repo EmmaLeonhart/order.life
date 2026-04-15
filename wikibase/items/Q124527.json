@@ -1,0 +1,405 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Walter de Clare"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124527$7061CC84-CAD6-47CD-8355-155A27A85670",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00478462"
+          },
+          "hash": "7a2a32ed6fa19a0ca79984c217ba7fd76ff707ca",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124527$71E2B633-3A23-4DAA-A6F5-7D9829C6F62C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124527$F2051D96-C5AB-4723-A127-D5FB7424BC6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124527$144FBFA2-79EC-41FA-ADF3-788151469F5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120316",
+              "numeric-id": 120316
+            }
+          },
+          "hash": "6cee25d1a1b922530135253bde341c3c441326c7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124527$4D025714-C7BD-4DBD-9D0A-4C4D1EFF986B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124527$58891B2D-7F91-4869-997B-AE0A0EDAD2D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124527$0C5C4E8F-0289-4502-A434-731EEC58E00B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1138-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "800be86e90998e06e64e155c62549dc529030f2f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124527$0D1B41DA-BCB9-4660-85BB-C7F5C02DFE2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q14947565"
+          },
+          "hash": "85840474d03f89702039ef62612aedc0d892326c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124527$9D50C5ED-C2E0-438A-BB2D-CCB5E5F08B18",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Walter de Clare Arms.svg"
+          },
+          "hash": "b01c2453168df3afa6d0d502c4bd23e978e2d03e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "normanský šlechtic"
+    },
+    "de": {
+      "language": "de",
+      "value": "anglonormannischer Adliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Baron of Chepstow"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "барон Чепстоу"
+    }
+  },
+  "id": "Q124527",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Walter de Clare"
+    },
+    "an": {
+      "language": "an",
+      "value": "Walter de Clare"
+    },
+    "br": {
+      "language": "br",
+      "value": "Walter de Clare"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Walter de Clare"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Walter de Clare"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Walter de Clare"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Walter de Clare"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Walter de Clare"
+    },
+    "da": {
+      "language": "da",
+      "value": "Walter de Clare"
+    },
+    "de": {
+      "language": "de",
+      "value": "Walter de Clare"
+    },
+    "en": {
+      "language": "en",
+      "value": "Walter de Clare"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Walter de Clare"
+    },
+    "es": {
+      "language": "es",
+      "value": "Walter de Clare"
+    },
+    "et": {
+      "language": "et",
+      "value": "Walter de Clare"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Walter de Clare"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Walter de Clare"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gautier de Clare"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Walter de Clare"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Walter de Clare"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Walter de Clare"
+    },
+    "he": {
+      "language": "he",
+      "value": "ולטר דה קלר"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Walter de Clare"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Walter de Clare"
+    },
+    "is": {
+      "language": "is",
+      "value": "Walter de Clare"
+    },
+    "it": {
+      "language": "it",
+      "value": "Walter de Clare"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Walter de Clare"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Walter de Clare"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Walter de Clare"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Walter de Clare"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Walter de Clare"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Walter de Clare"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Walter de Clare"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Walter de Clare"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Walter de Clare"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Walter de Clare"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Walter de Clare"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Walter de Clare"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Walter de Clare"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уолтер Фиц-Ричард"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Walter de Clare"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Walter de Clare"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Walter de Clare"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Walter de Clare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Walter de Clare"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Walter de Clare"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Walter de Clare"
+    }
+  },
+  "lastrevid": 17537674,
+  "modified": "2025-09-17T07:13:48Z",
+  "ns": 860,
+  "pageid": 150465,
+  "sitelinks": {},
+  "title": "Item:Q124527",
+  "type": "item"
+}

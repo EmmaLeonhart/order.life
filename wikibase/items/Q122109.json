@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ulrich of Windberg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122109$D9AFA56E-ECC3-4AF4-A9B0-75285D900B21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00619353"
+          },
+          "hash": "6dd4df326b979ccb80ef9cc2b50d39897f1fedf8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122109$CCFB523E-FA4D-48DD-8AC8-28ECBDF2CF11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122109$F5C9D6D0-D982-4E5A-A9B8-C2EEEAFE2D5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122109$E32B7E31-625E-48BF-8A0C-040D64F86D40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117508",
+              "numeric-id": 117508
+            }
+          },
+          "hash": "d5473452c3dc774b23f4c1633b972fbf6ce4a6ae",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122109$E195457E-12ED-41BB-A9A3-585876E3912F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122115",
+              "numeric-id": 122115
+            }
+          },
+          "hash": "96ab4b6cc89b45ef6c41913eb0bdac5be8864348",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122109$DC8EC237-C3C5-4397-8334-B0EC6909ABBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122109$DB01A3F9-3959-4085-9922-82B2DE0DC229",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122109$45E1F0E2-EE6B-45FF-8A76-E11F1AF98BE6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1097-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ebab154afe68f63803416a1228664384388bbaa8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122109$9C77BF74-1771-4D47-B359-A856D4FADA4A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q60617531"
+          },
+          "hash": "0fd73fed16afdc5d9453f3073e144c0143f08f75",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122109$4E6E384B-7B97-43F6-8159-6D92D86A6337",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulrich of Windberg Arms.svg"
+          },
+          "hash": "ec72622917eab41c7d754b73021aff88e366fd6c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "граф на Рателберг-Виндберг в Долна Бавария"
+    },
+    "de": {
+      "language": "de",
+      "value": "Adliger, Graf von Windberg, Vogt von Stift Göttweig, gest. 11./12. Jahrhundert"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nobleman, Count of Windberg, church advocate of the monastery Göttweig, 11th / 12th century"
+    }
+  },
+  "id": "Q122109",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Улрих III фон Рателберг-Виндберг"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ulrich von Windberg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ulrich of Windberg"
+    }
+  },
+  "lastrevid": 17535298,
+  "modified": "2025-09-17T06:41:12Z",
+  "ns": 860,
+  "pageid": 147232,
+  "sitelinks": {},
+  "title": "Item:Q122109",
+  "type": "item"
+}

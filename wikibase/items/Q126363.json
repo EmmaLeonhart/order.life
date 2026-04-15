@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hildegarde"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126363$E801FDC2-CEE6-476C-A176-49CFC4E0D5F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00195710"
+          },
+          "hash": "67c3a4a741fe86c0e4844c223b312c0d31c4c5cb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126363$4DF3A40D-A8A1-463F-A1FF-70EECEB5BFEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120762",
+              "numeric-id": 120762
+            }
+          },
+          "hash": "eb339e57aec96d030fb66cb13dcacc9c6bb054d1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126363$C1EA4FFF-A55F-40CB-B927-103660C5A5F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126363$0ACD160F-2E00-45C2-B101-B744FD73DA57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126363$50565D83-664C-4B5D-89B1-C35C7A25EFF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126361",
+              "numeric-id": 126361
+            }
+          },
+          "hash": "a1739234d0ace822ab1dcd0195c5231c550d972b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126363$C1802670-F00F-4148-833D-45DB2FCF14FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126363$E9C2391E-9CC2-4BCF-8D7C-161D59FEB892",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110578316"
+          },
+          "hash": "1d471b56ee4b52bda630d6b154db16de10a0959d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q126363$B9B2E267-DA2D-4EC2-A39C-4F5BD8E858EB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Hildegarde"
+          },
+          "hash": "bcfd7e66451afe9b3cf564421ab786b14672b2cd",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126363$4DA7BB14-370B-4CCB-B245-5733CEB6DE80",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hildegarde Arms.svg"
+          },
+          "hash": "a2abfc427844d65571052907ab76fd1e20f37972",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q126363",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hildegarde"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Hildegarde"
+    }
+  },
+  "lastrevid": 17539468,
+  "modified": "2025-09-17T07:38:18Z",
+  "ns": 860,
+  "pageid": 152927,
+  "sitelinks": {},
+  "title": "Item:Q126363",
+  "type": "item"
+}

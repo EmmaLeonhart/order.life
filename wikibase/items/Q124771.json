@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dadone di Pombia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124771$87036309-382E-4AEB-851F-FD2FC45B9E70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1192361"
+          },
+          "hash": "42bdd5b8389e52dd86670c6766d83acf7c6a637a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124771$3E29BD60-593C-4C0D-8CF9-3C66E3EC559B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119489",
+              "numeric-id": 119489
+            }
+          },
+          "hash": "3c554f0adca6d7c745d5bf9825b0e76cf891641c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124771$126442BE-DF92-4794-97B9-E5C50F29EE1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124771$2265FDA4-D614-40E4-8EE3-06D4F238905B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124771$CD7D9D74-3802-4BE1-9026-353D38433BB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dado,_Count_of_Pombia_(1)"
+          },
+          "hash": "fdbd1df08bf72310253711487420007fda22ff61",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124771$32F9D37A-FC81-4851-BFBE-FF55E83DC813",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120512",
+              "numeric-id": 120512
+            }
+          },
+          "hash": "a43c83908a07203f710f411eef9b6ed916edb90d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124771$8F0A373B-8556-4F93-93AB-18F7361BBB83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124771$11CE3C0C-D881-4068-847C-26CD3D553C67",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124771$FCF4B550-B21A-4B46-B409-20E8774D7A84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0998-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "02785a25e1dd20da2bd0c839720e2b7e32f25c1f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124771$CB7894A4-27A2-41B8-9936-0BDA42978B93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3700776"
+          },
+          "hash": "1894be1cc03dbea7966f5e4fb7aacca46ab2e554",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124771$3E646E97-B290-4133-88A5-C779F19992EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=dadone;n=di pombia"
+          },
+          "hash": "5cf7bf0bb82ea1bf0d49050048ab52404ba6ad44",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124771$954E3146-7669-4060-8B8A-B8A9BAE2C770",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dadone di Pombia Arms.svg"
+          },
+          "hash": "a168eebff0853f3cc45b18360e6f14edd354c90d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Italian noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Pombia du Xe siècle"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Помбиа"
+    }
+  },
+  "id": "Q124771",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "دادون دى بومبيا"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dadone di Pombia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ντάντο της Πόμπια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dadone di Pombia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dadon de Pombia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Dadone di Pombia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dadone di Pombia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дадон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Dado od Pombije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Dadone di Pombia"
+    }
+  },
+  "lastrevid": 17537910,
+  "modified": "2025-09-17T07:16:54Z",
+  "ns": 860,
+  "pageid": 150793,
+  "sitelinks": {},
+  "title": "Item:Q124771",
+  "type": "item"
+}

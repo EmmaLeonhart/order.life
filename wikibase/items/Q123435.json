@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guillema I de Pallars Sobirà"
+      },
+      {
+        "language": "en",
+        "value": "Guillema I de Pallars Sobira"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123435$EC3306E8-F98A-4440-80A5-99994E984810",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1239206"
+          },
+          "hash": "f17aa8e13bfc9f9e16e7536798b1057c534f7682",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q123435$10310AD4-C7B6-4C37-8F97-526E643EA366",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00269298"
+          },
+          "hash": "4a1a58e6fd8776cc10d3f0475b04fd0a77777fdd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123435$88CB99BE-FE65-497C-9A28-4F24C81FB7C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123435$E9A5F2D0-2A8E-4C2F-869C-E53D3D30C3A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123435$6B3891C7-5392-4DF7-AE4B-119E207BDE2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillelma_Unknown_(1)"
+          },
+          "hash": "c005c5f276a1dc176f234ae656c4051c102fc753",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123435$391E9322-43DA-41B7-B4A2-C151601B82D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125042",
+              "numeric-id": 125042
+            }
+          },
+          "hash": "7999306316cb0f886e1d1d5d6d59f1712a1efe58",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123435$7CFD5210-47C1-4538-B17E-8CB3524A005E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118279",
+              "numeric-id": 118279
+            }
+          },
+          "hash": "259ca062ec0ebbf8f11ba1e1579d388494f215c2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123435$6750BE6A-B711-477C-9679-6D0C2C9B7D12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123435$80A37409-2CEC-44B7-B544-6F71BB2B05B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9cd3a3f007c2aaee8f4809bbb4ad610298d9d56",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123435$6FD76DB9-478F-4129-8750-70A7C2648269",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17300691"
+          },
+          "hash": "539709ea11f999421fdabdc527b8790504a665c5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123435$8321CFC3-3A72-4605-9F13-BBB1224650A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guillelma;n=de pallars"
+          },
+          "hash": "a4a8008726435099b4e972a6b4d66df04ea23cf4",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123435$D5619F1D-1BF2-4172-96AD-274F9755E904",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillema I de Pallars Sobirà Arms.svg"
+          },
+          "hash": "7c02d9e62e441bd967ee76e717c13b57ce1e8b7d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Comtessa de Pallars Sobirà s. XII"
+    }
+  },
+  "id": "Q123435",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Guillema I de Pallars Sobirà"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Guillema I de Pallars Sobirà"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guillema I de Pallars Sobirà"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillema I de Pallars Sobirà"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guglielma I di Pallars Sobirà"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гильельма (графиня Верхнего Пальярса)"
+    }
+  },
+  "lastrevid": 17536612,
+  "modified": "2025-09-17T06:58:40Z",
+  "ns": 860,
+  "pageid": 149005,
+  "sitelinks": {},
+  "title": "Item:Q123435",
+  "type": "item"
+}

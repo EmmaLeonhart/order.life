@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "unknown daughter von Heinsberg-Valkenburg"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q122357$C69048AC-3738-44B6-87B9-BEA23111E79A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Van_Wassenberg-1"
+          },
+          "hash": "270cd7d9c5f43ee5e25ccaf79bf7a6db9b444e0a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122357$208199BD-1A6A-42F6-A221-66608F875B27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122357$618CD99F-CFEB-4DA6-881C-9431A475FAED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q122357$B17A8BEB-B157-4789-9631-67B2002186E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128471",
+              "numeric-id": 128471
+            }
+          },
+          "hash": "7818c6583914dcd49d3d57209f7961ba838c79ae",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q122357$095DC194-F3FC-4A53-AF57-66BEE8A726C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p59354.htm#i593532"
+          },
+          "hash": "760a200cc188838add7798a0d3d6da70bc9f588e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122357$7A8B8064-E09D-4F4F-A42C-82CB019703F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117642",
+              "numeric-id": 117642
+            }
+          },
+          "hash": "17c5a05d22e6dbc758fb677ce0d6d625de7a53bf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122357$6AE59AF5-27AC-4A55-956A-81175EDD08DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121374",
+              "numeric-id": 121374
+            }
+          },
+          "hash": "054ce5ccff6b810fbb0713c1cf6a622c50648d48",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122357$CB3A2E47-A4E2-4F40-9C9A-DFE3EFC8B250",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122357$A5DC6286-82F7-4616-A7C9-7869341EC353",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1111-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f7c9c54994bba857f199134a050fbf375f4e854",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122357$D73BEB6A-4E0F-4DAC-97B7-0F86837A653C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76191574"
+          },
+          "hash": "e1041ef24582c3c85e4cee4051e3925352d9fd2b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122357$83012167-9955-4A8A-9ECF-B85BB3EEB1E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "unknown daughter von Heinsberg-Valkenburg Arms.svg"
+          },
+          "hash": "97037368bc805517ac838cbd511f3778c9950b4e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=593532"
+    }
+  },
+  "id": "Q122357",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "unknown daughter von Heinsberg-Valkenburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "unknown daughter von Heinsberg-Valkenburg"
+    }
+  },
+  "lastrevid": 17535546,
+  "modified": "2025-09-17T06:44:33Z",
+  "ns": 860,
+  "pageid": 147566,
+  "sitelinks": {},
+  "title": "Item:Q122357",
+  "type": "item"
+}

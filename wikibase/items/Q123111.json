@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William IX of Auvergne"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123111$F83718D1-64A1-4159-958F-E07B78CB7B19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "906284"
+          },
+          "hash": "8f5f2d2067d152dcf199d90e2ff947c85b80fab9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q123111$6141A5D7-D860-42FA-B896-2757CC50997D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00164889"
+          },
+          "hash": "52b9d74017f9f4f6b545de2b7f7676fcb514df17",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123111$B9651B85-5756-4D26-9F6D-23DADDB13513",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123111$B9E48668-4197-404B-B2CE-5B7D614227D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123111$BD7AEE83-83C0-491F-A0DE-A7B9775E5361",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118036",
+              "numeric-id": 118036
+            }
+          },
+          "hash": "50211b3719f18df35fc7be7e720f39ead08aca6d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123111$E75432D1-8586-466D-A60B-0F5EB7B95AED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123107",
+              "numeric-id": 123107
+            }
+          },
+          "hash": "9a20d1b850b64fbf9cff4822ffc44f4c47f31616",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123111$EA87589B-F298-40EF-B82E-059CF84C8DF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123111$2E92DA17-944A-46AB-A5A2-70C50BBFA49B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123111$FA10C19E-6D7E-490D-A8A2-5CEC8205E80F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1197-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "12622958b6d1815c428953ddee86474bf0f1326a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123111$21F90501-F27C-4514-94F4-2F936CE07A3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2469769"
+          },
+          "hash": "9146e3b0f88a7227e6fc8a2feb934651af8f47a5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123111$9D2F50BE-604D-4BBC-B71A-D8914A742346",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William IX of Auvergne Arms.svg"
+          },
+          "hash": "d1d4e4d1002ba1d5de70fd21f14d2f4efad587b2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "count of Auvergne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Оверни"
+    }
+  },
+  "id": "Q123111",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Guillem X d'Alvèrnia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vilém IX. z Auvergne"
+    },
+    "en": {
+      "language": "en",
+      "value": "William IX of Auvergne"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume IX d'Auvergne"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guglielmo IX d'Alvernia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Willem IX van Auvergne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гильом IX"
+    }
+  },
+  "lastrevid": 17536292,
+  "modified": "2025-09-17T06:54:30Z",
+  "ns": 860,
+  "pageid": 148574,
+  "sitelinks": {},
+  "title": "Item:Q123111",
+  "type": "item"
+}

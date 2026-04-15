@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Érard III"
+      },
+      {
+        "language": "en",
+        "value": "Erard III"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126181$016D7328-2DBF-4E64-8A24-0AC8DD4E6FCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00028247"
+          },
+          "hash": "a0756becff189f69ed64f0bc158b1f7848491222",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126181$41FB88D9-4270-43A3-B431-2C6B6FDA1C03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126183",
+              "numeric-id": 126183
+            }
+          },
+          "hash": "df1a4373e0fb01cbf156e6913a981053aec1810a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126181$AA678257-C85C-4546-A3B6-A555BCF9C9C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Breteuil-13"
+          },
+          "hash": "78697caa2f88adc5a7c7eb21b504cd476a79e2ba",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126181$8722ED3F-9510-4734-BB63-C3B5067D11D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126181$EB887547-1194-4C3C-B454-4F4B98BB7893",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126181$8CAEB2D0-96E9-4796-83D9-6F3F07F5EFF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120598",
+              "numeric-id": 120598
+            }
+          },
+          "hash": "b974bf00606fca7d2486a9b4fed077a651868a61",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126181$7A19E15B-BDD7-4719-B196-2CF47E20A2DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126181$B02040E2-7B60-4F96-9366-55C9674C7085",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126181$99B1578D-B07A-4178-9CB5-C4E50B57DAFB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1148-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2a87d400653ed557f99e78fe011048a69cdd1765",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126181$54253266-7897-44ED-91A0-1EC5D5BD4EFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q287666"
+          },
+          "hash": "995f60e41d03875beb73bb14dc81f4496599a4eb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126181$F55C17E6-4E5C-4CEA-8A31-CC984CF42518",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=evrard;n=de breteuil"
+          },
+          "hash": "780658fe62d4191ff115e680cb461f9552e2017e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126181$42387BE2-8A6B-4BAE-9802-A372F2D35801",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Érard III Arms.svg"
+          },
+          "hash": "573e502452bd77502ae7671cd31ff049125d68ca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Breteuil"
+    },
+    "en": {
+      "language": "en",
+      "value": "1124 - 1 Jan 1148"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q126181",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Érard III."
+    },
+    "de": {
+      "language": "de",
+      "value": "Érard III."
+    },
+    "en": {
+      "language": "en",
+      "value": "Érard III"
+    },
+    "es": {
+      "language": "es",
+      "value": "Érard III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Érard III."
+    }
+  },
+  "lastrevid": 17539286,
+  "modified": "2025-09-17T07:35:55Z",
+  "ns": 860,
+  "pageid": 152682,
+  "sitelinks": {},
+  "title": "Item:Q126181",
+  "type": "item"
+}

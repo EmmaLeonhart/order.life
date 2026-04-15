@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Osorio Martínez"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q124227$D38711E8-7B78-4B12-8435-2575D2A14B1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124227$50E272F8-758B-465E-AEC5-7D4B57308FF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124227$01E32150-874D-4849-BB3A-287EF3D0B43E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119177",
+              "numeric-id": 119177
+            }
+          },
+          "hash": "438ad47f06f3920436bb2490097c3905cc1faa4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124227$4FEE5339-8202-4328-BCB1-9BC240867664",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124227$EF4D1115-F5B6-40BD-99A6-C0145ECF43F4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c36d5616da0c0b2cf4662248a5d88a9c7efc1ab5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124227$847D085F-73CA-45AD-A20B-B8FE9598B823",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1160-03-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d080f5695cef969cd7b44027f65995bc70b82a70",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124227$8C00B22B-3792-4848-A654-45356FBBD283",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7107317"
+          },
+          "hash": "f78be190f6f312120e5a15f568577431a2b09aef",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q124227$22B444BD-25BE-458D-A9F6-9AD89CD10A00",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Osorio Martínez"
+          },
+          "hash": "4ab25d3ef1f43cbd5a21c4cf67c2a1b3a63bdd4f",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124227$55EDB931-3326-4FD4-9CC9-3A80884D1352",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Osorio Martínez Arms.svg"
+          },
+          "hash": "b366b50b94484e83a97e2af48aa53a3fa471b725",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Count of Spain"
+    }
+  },
+  "id": "Q124227",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوسوريو مارتينيز"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Osorio Martínez"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Osorio Martínez"
+    },
+    "de": {
+      "language": "de",
+      "value": "Osorio Martínez"
+    },
+    "en": {
+      "language": "en",
+      "value": "Osorio Martínez"
+    },
+    "es": {
+      "language": "es",
+      "value": "Osorio Martínez"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オソリオ・マルティネス"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Osorio Martínez"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Osorio Martínez"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Osório Martínez"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Osório Martínez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Осорио Мартинес"
+    }
+  },
+  "lastrevid": 17537378,
+  "modified": "2025-09-17T07:09:44Z",
+  "ns": 860,
+  "pageid": 150062,
+  "sitelinks": {},
+  "title": "Item:Q124227",
+  "type": "item"
+}

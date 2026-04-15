@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Melisende, Vicomtesse de Châteaudun"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124421$A8C8750B-DE58-4265-AD29-647778516B4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00635421"
+          },
+          "hash": "cc43224cca419b2d49f71e1c73d8e33c264184c4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124421$BA70F5AA-6570-4E4E-B765-8ED465B7B7AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119296",
+              "numeric-id": 119296
+            }
+          },
+          "hash": "1609961d0df8f635df76ffa0245dd9faa3cd16de",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124421$96B4D638-8827-4365-8C36-DAB776FDDCFE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Châteaudun-5"
+          },
+          "hash": "c1c1107edb6d49e6b370f82aa4f9172a2c43f2e3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124421$2F94550B-D7C3-4B25-8485-6BA07911335F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124421$3865B1A0-FAE6-4345-8762-3D206AACEB0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124421$72CD85AC-22C3-4C66-8A12-FC3D211BF497",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124419",
+              "numeric-id": 124419
+            }
+          },
+          "hash": "725eea49ace77f14e204f7badecbc0f9c776c0e4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124421$A5E5F3E4-6BC2-4DE8-87D7-348D86062515",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124421$6DBA14E8-2425-4415-9C9A-2A2A3CECDFA2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1005-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fa3c01c4323f769092fce98173734eca0378f14e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124421$0E2F1E70-80E3-4B1E-8CD5-BC713060271C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1031-12-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05575ed3acbc49a3bb305d24de7cdf60d48b9a6b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124421$15B04082-48AD-4D40-B266-5323DE11478B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q100326669"
+          },
+          "hash": "de739713c025f1cfafb8616d78d3322ba0bdacd1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124421$AD1E107B-1AEF-4BDD-880A-3CDF4E6AD55F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ne;n=n;oc=10540"
+          },
+          "hash": "73abe0409331d2e877f64086cab3701374811882",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124421$1B34750E-6831-4807-AF91-15A7199CE6BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Melisende, Vicomtesse de Châteaudun Arms.svg"
+          },
+          "hash": "7de0d7da7ebd45b6be34f5f19fc4d3974608c0e1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1005-1031)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "виконтесса де Шатодён"
+    }
+  },
+  "id": "Q124421",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Melisende, Vicomtesse de Châteaudun"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mélisende de Châteaudun"
+    },
+    "it": {
+      "language": "it",
+      "value": "Melisenda di Chateaudun"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Melisende, Vicomtesse de Châteaudun"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мелисенда"
+    }
+  },
+  "lastrevid": 17537568,
+  "modified": "2025-09-17T07:12:25Z",
+  "ns": 860,
+  "pageid": 150322,
+  "sitelinks": {},
+  "title": "Item:Q124421",
+  "type": "item"
+}

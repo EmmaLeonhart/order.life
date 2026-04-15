@@ -1,0 +1,615 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adèle of Dreux"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q124433$B6AB929B-5FCE-4478-88BB-185194DCE1F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "485965"
+          },
+          "hash": "2b0ac086fd89453d82f2aa89712f1e78c43000da",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q124433$63F42E9F-B67B-4EAD-8AAB-F3F8B34859C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00027533"
+          },
+          "hash": "75218edf03380ef6916cf82ae66df904a2ae5b9b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124433$81510B8D-FB7B-4FFB-868F-A1B8F43FBFF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128609",
+              "numeric-id": 128609
+            }
+          },
+          "hash": "43db09996252bdcbaee7118bbab1aef5d87123e2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$5650E0FF-A92A-4448-96B7-36406920F5FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147352",
+              "numeric-id": 147352
+            }
+          },
+          "hash": "dd709f25843abb8b53f13b0983700cf0dc3c3c00",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$23465CCA-81FC-4611-923B-F6CEF02B0B6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147353",
+              "numeric-id": 147353
+            }
+          },
+          "hash": "0d244ab2fff3b10c231ebb85be15ca79637a9188",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$530AE871-42B4-4B4C-922D-BC578E99DEB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147351",
+              "numeric-id": 147351
+            }
+          },
+          "hash": "df220e87027e26aa74608c2fe128157e137ff3ac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$C9985AB5-3DB8-4AF0-817E-2D403205F2E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147354",
+              "numeric-id": 147354
+            }
+          },
+          "hash": "eaa27e233607c558b7d708d3325945cef3e8158b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$0AB06192-CD3C-45BD-B3AE-B14A610F398E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128659",
+              "numeric-id": 128659
+            }
+          },
+          "hash": "bcf520853c165b7be34542870dd7f54d3a6145de",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$D47053F2-DCFB-4198-B511-968E8467F731",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147355",
+              "numeric-id": 147355
+            }
+          },
+          "hash": "0efa2e3f4efe15726768b49c48e23543b776d145",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$87E98071-F51D-4D28-9055-379D1DB78303",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147356",
+              "numeric-id": 147356
+            }
+          },
+          "hash": "c5fcae2c663a9ecfd2634d88bd34505980d897f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q124433$AA6D764C-8062-4794-BD15-041FBB3DAAA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dreux-25"
+          },
+          "hash": "bf426bc022ee31125342a2cd130903b8574b3551",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124433$7944BD8E-68FA-458C-832E-A13B5078CE22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$B8F348F7-2D57-4752-A04C-68946DB44DEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124433$E8F1D0C0-5313-49A7-A37E-38EC6E86603E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Adèle_of_Dreux_(1)"
+          },
+          "hash": "a3968e1b84736ff12551bc7ec37be5aba5ad2c60",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124433$93BD551B-1F7A-45B0-8019-2EAFDA2C8770",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124397",
+              "numeric-id": 124397
+            }
+          },
+          "hash": "d6f69c3f0d207222a0e660669e95ca300bdc3a6d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$11D3CE23-0B1C-4C90-A44D-8FF5C5666E2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128729",
+              "numeric-id": 128729
+            }
+          },
+          "hash": "05e32d19bff19845ec8ea4d170ae6188b0b4a728",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$64DC8749-651D-4BE8-8FB9-28A289D327E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126183",
+              "numeric-id": 126183
+            }
+          },
+          "hash": "b7942f50da0442c75de3f9f23be4cc68635d911d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124433$87A1682B-D6C8-43BB-90E9-C98FB40AB04A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147350",
+              "numeric-id": 147350
+            }
+          },
+          "hash": "fbea7be96810f52aec430be20328dffb8e3d4566",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q124433$31D9F0CC-E93A-4D23-97DE-932628FEA6AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p70903.htm#i709027|p38147.htm#i381470"
+          },
+          "hash": "176e0230771c15fcebd39ef81187882baba906d4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124433$3E39D10C-377F-499A-A290-4CB38F0E3F63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119632",
+              "numeric-id": 119632
+            }
+          },
+          "hash": "b04b706fc3a0a19c1b1cde0534249d2ab20d6b6c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124433$B98AF679-A027-4D4C-B53E-7D0296CB8C95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119300",
+              "numeric-id": 119300
+            }
+          },
+          "hash": "383188dd9fbac5666a5e708f74805b7c0e65df6b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124433$9479341C-B866-4863-9346-2F83A0B6992C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124433$BC8360A1-58BA-4F36-92AB-6416C7B44A03",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1145-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f4fa2f46359f65744b111bb9a33235935dead80",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124433$2CB14298-FBDA-4724-AEDD-E4DAD78E426F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1201-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7f1797dc1119dc9fc44c0b5bd9679f57e4750477",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124433$F8A47345-AC5D-4B32-9DC4-6C9840AF5A35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4686977"
+          },
+          "hash": "321aa47154c063310499f8dda75f35bfae6aa844",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124433$9F2B04FC-1E18-4669-A657-555A0296A954",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alix;n=de dreux;oc=1"
+          },
+          "hash": "9fa104e0177c8b7ffe0370b7d3e630d2d40419dd",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124433$415BC325-1AB7-4AB0-80E0-E1B3559AEB5C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adèle of Dreux Arms.svg"
+          },
+          "hash": "17b55a0db099fb2e4b23d225ab19a3a184ba9943",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble française du XIIe-XIIIe siècle, fille de Robert Ier, comte de Dreux, et de Harvise d'Évreux"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дворянка"
+    }
+  },
+  "id": "Q124433",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اديل درو"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Adéla z Dreux"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αδέλα του Ντρε"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adèle of Dreux"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Adèle of Dreux"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Adèle of Dreux"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adèle of Dreux"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alix de Dreux"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Adela od Dreuxa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アデル・ド・ドルー"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adèle of Dreux"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Adèle de Dreux"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Adèle de Dreux"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Адель де Дрё"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Adele of Dreux"
+    }
+  },
+  "lastrevid": 17537580,
+  "modified": "2025-09-17T07:12:34Z",
+  "ns": 860,
+  "pageid": 150338,
+  "sitelinks": {},
+  "title": "Item:Q124433",
+  "type": "item"
+}

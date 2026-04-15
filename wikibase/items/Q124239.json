@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elvira Gonzalez de Toroño"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124239$EB86BF3E-8A5F-4A01-9B05-39B07D25134F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00515030"
+          },
+          "hash": "94a068985192ce24320c4c0c45953d5dacfdfa23",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124239$E4BB8DCB-2E2A-4C92-8A8D-56D580421EA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124239$35EED48B-1B73-40CB-AE29-543DC2E7DCCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124239$51189EE3-59FB-4073-A50E-245633489342",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124267",
+              "numeric-id": 124267
+            }
+          },
+          "hash": "f75e05876ee11ebf09a1065461e453604e5abb36",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124239$F4220E1C-B8BE-4F9E-B5B3-FECD2503AC55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124237",
+              "numeric-id": 124237
+            }
+          },
+          "hash": "34157b8ca5b8c0a433b24100c6ad8679e71e22e0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124239$A0E81680-66A6-4202-85F8-D210B448BA82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119181",
+              "numeric-id": 119181
+            }
+          },
+          "hash": "aae8bf9857972ab3302577f5b111a88379d3972c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124239$1B0858A0-2B9E-4321-A242-3A7AA9B09D33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124239$E6D001CD-5F49-47CB-85D7-7062B9F75898",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1180-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e2c5bd4a3ab345c6657a482303c50f29aeb36a68",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124239$1E46DCBB-1F0A-4424-B2C7-1FD379E4B0E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1245-02-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6f83f5bcb3b6274ba0d501210c27cca317068f5b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124239$24520348-58A4-4EBD-8ABC-4059A58780C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q57245031"
+          },
+          "hash": "39ebf594d1d0ab3256432aded31cb5ceebe65a38",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124239$AA238A53-DB5B-4BDD-89EB-9F1EEBF0CE62",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elvira Gonzalez de Toroño Arms.svg"
+          },
+          "hash": "c3bdfe07b9593c7aa1bd7c8f2193880d12360ee4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Lady of Sousa"
+    }
+  },
+  "id": "Q124239",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elvira Gonzalez de Toroño"
+    },
+    "es": {
+      "language": "es",
+      "value": "Elvira González de Toroño"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elvira Gonzalez de Toroño"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Elvira Gonçalves de Toronho"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Elvira Gonçalves de Toronho"
+    }
+  },
+  "lastrevid": 17537390,
+  "modified": "2025-09-17T07:09:53Z",
+  "ns": 860,
+  "pageid": 150078,
+  "sitelinks": {},
+  "title": "Item:Q124239",
+  "type": "item"
+}

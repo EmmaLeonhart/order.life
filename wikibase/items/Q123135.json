@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Navarra de Dax"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123135$5601A309-862D-40EC-B807-7AE36F48AA61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139433"
+          },
+          "hash": "f3ee0f1dbff57bacfe056086f2c0a954048bc114",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q123135$03FABE1F-DA3A-49CE-88AA-4F6A0DC9773D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dax-98"
+          },
+          "hash": "ca136d8e01c1c4835b074c7da5a255c24c679ede",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123135$97221F34-7A1C-45AC-820E-7B78C4B71A76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123135$8AA76050-E225-406B-B154-5ADE174D7340",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123135$E9BD399C-FB4F-4CF4-8834-0E87E00A742A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118050",
+              "numeric-id": 118050
+            }
+          },
+          "hash": "fb95c227bfb9fa70a21ce792c5f84b97d7baf1c2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123135$BC15BBA2-7928-49BC-88EE-BE790DF67281",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123135$6F0581E0-8E88-4180-99BC-5CB19BFEEF0B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1163-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da76a5a19349103810fc41687fcd7ee63e0ece1d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123135$D83FDEBD-684F-4485-AF2A-F9D72D0C357B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1234-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "311672fd0c26a107dd91706ab0c8cde9da1647f8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123135$318DA0D9-4CAB-4020-A744-C8B55FE86B46",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110578395"
+          },
+          "hash": "2c8ad91bd4c6a2340c04d5a5bb02181a4d9c2220",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123135$3A8779A6-8CBC-4F03-868F-1CBBF631EC2F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=navarrine;n=de+dax;"
+          },
+          "hash": "db6666e17b00fea611724c2f73a3f98b1fd5c5cb",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123135$202D9C0D-CCF2-4C7B-86B1-542177B18980",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Navarra de Dax Arms.svg"
+          },
+          "hash": "9eaa1985d25812652d11ffb177549869c507bb6f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "est. 1177 -"
+    }
+  },
+  "id": "Q123135",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Navarra de Dax"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Navarrine de Dax"
+    }
+  },
+  "lastrevid": 17536316,
+  "modified": "2025-09-17T06:54:48Z",
+  "ns": 860,
+  "pageid": 148606,
+  "sitelinks": {},
+  "title": "Item:Q123135",
+  "type": "item"
+}

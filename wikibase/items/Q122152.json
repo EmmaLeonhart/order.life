@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sancho V Sanchez of Gascony"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Sancho V Sánchez of Gascony"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q110500$F0B4B315-F260-4F29-9DF4-F2B85406E10B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q110500$E9B11229-DC6D-4838-912B-65D04EAB586B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q110500$BCBD9330-1EE3-45F0-9EAB-57055B5FC884",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110498",
+              "numeric-id": 110498
+            }
+          },
+          "hash": "14a86dcd24ceaca53f30e10d8ec4f2430f554f00",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q110500$656659C7-062D-417B-B7A0-6DE9601A712C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q110500$32C57E37-EDA4-4998-AD82-97F6F390D8AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2085892"
+          },
+          "hash": "8543d012fb6e2edf4c2e642712ce4d48758d5dd6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q110500$40613BE4-6031-4517-8BE4-31B192C68A95",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sancho V Sánchez of Gascony Arms.svg"
+          },
+          "hash": "fbf95b1142a6fc402f7821ccad2390e14831d33d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "961"
+    },
+    "es": {
+      "language": "es",
+      "value": "duque de Vasconia"
+    }
+  },
+  "id": "Q110500",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Sancho V Gwaskogn"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sancho V de Vasconia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σάντσο Ε΄ Σάντσεθ της Γασκώνης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sancho V Sánchez of Gascony"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Sanĉo la 5a de Gaskonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sancho V de Vasconia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antso V.a Santxitz Gaskoiniakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sanche V de Gascogne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sancho V de Vasconia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sancho V di Guascogna"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sancho V van Gascogne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Санш V Санше"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sancho V Sanchez of Gascony"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Санш V"
+    }
+  },
+  "lastrevid": 17522275,
+  "modified": "2025-09-17T03:30:41Z",
+  "ns": 860,
+  "pageid": 131663,
+  "sitelinks": {},
+  "title": "Item:Q110500",
+  "type": "item"
+}

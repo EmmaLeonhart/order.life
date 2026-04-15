@@ -1,0 +1,337 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Heinrich von Hildrizhausen"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Генрих фон Хильдрицхаузен"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126672$E35249CD-7B24-41A2-B325-FFAD2C3C4F4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00444564"
+          },
+          "hash": "56ceb85d07857250f0460b7593f77e7f6f877df2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126672$F3E46EB5-8088-468D-B19B-245F240A81FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126674",
+              "numeric-id": 126674
+            }
+          },
+          "hash": "0c8ce5281333759e9ad33dc768c2d799f3770f36",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126672$69F020FA-BBE8-413E-8975-0A0D6B1B0AD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126676",
+              "numeric-id": 126676
+            }
+          },
+          "hash": "a707ae5d9307e6069f0bdc4bddf1e1d0c3a948a6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126672$C1DE4600-0BF8-4470-9A33-DB8CE98EE327",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hildrizhausen-2"
+          },
+          "hash": "e8e37a2df2ca95a1cc53547cf83fd139891691fc",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126672$6A36ABDA-884A-4D0E-BEDA-9D07338E160E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126672$A831B479-D7A2-40F9-B335-270F1B91290D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126672$6472C796-831D-41BC-853D-7716BB56A106",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121011",
+              "numeric-id": 121011
+            }
+          },
+          "hash": "96beb11df852fb67be9117466c2da078c7d58e04",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126672$07D3D8FB-3BC8-4522-81C5-88CC8B784445",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126672$949E9F96-65A7-43C2-BA2D-BAFA7DBF58F4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1030-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fdd58ab83d3ae2ef80e1cc1b2ff8ce5e65290bb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126672$ABCAE1C5-2207-4354-BE8E-27F85E0DDD47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1078-08-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3b58899514917f1ad03e22a3c2b800ed9cd45da6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126672$688F50CC-3815-41C2-985A-8A11FC91D500",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q55910581"
+          },
+          "hash": "1a865d43acc1b7b35d93f283ad1e94d1bb73b12d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126672$F3824461-3D76-4F06-87CC-59B7A882F2CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=heinrich;n=von hildrizhausen"
+          },
+          "hash": "d24d8565d69cceb75f9b3d5dc5ea9333c2b34e34",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126672$577BF6DA-F589-4F5B-B7E3-E0DA56A8EACE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heinrich von Hildrizhausen Arms.svg"
+          },
+          "hash": "16cf97fe50c64f1cf2a7940bbfcc0966febb8b21",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "count of Hildrizhausen"
+    }
+  },
+  "id": "Q126672",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "von Hildrizhausen Heinrich"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих II фон Хилдрицхаузен"
+    },
+    "de": {
+      "language": "de",
+      "value": "von Hildrizhausen Heinrich"
+    },
+    "en": {
+      "language": "en",
+      "value": "Heinrich von Hildrizhausen"
+    },
+    "es": {
+      "language": "es",
+      "value": "von Hildrizhausen Heinrich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "von Hildrizhausen Heinrich"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "von Hildrizhausen Heinrich"
+    },
+    "it": {
+      "language": "it",
+      "value": "von Hildrizhausen Heinrich"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "von Hildrizhausen Heinrich"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "von Hildrizhausen Heinrich"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "von Hildrizhausen Heinrich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих фон Гильдрицгаузен"
+    }
+  },
+  "lastrevid": 17539772,
+  "modified": "2025-09-17T07:42:17Z",
+  "ns": 860,
+  "pageid": 153340,
+  "sitelinks": {},
+  "title": "Item:Q126672",
+  "type": "item"
+}

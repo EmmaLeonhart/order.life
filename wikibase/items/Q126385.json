@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adélaïde de Béziers"
+      },
+      {
+        "language": "en",
+        "value": "Adelaide de Beziers"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126385$8B73272B-E7F1-426D-AA94-C60B7A417BE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00269289"
+          },
+          "hash": "945d302ede4f420fd4ac800d411fdaac70b7d767",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126385$5CC8DE2F-A06C-4DF5-8355-B64BA43C6BBF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Trencavel-9"
+          },
+          "hash": "2f3fb638e54b602bbebc81102a464662b3a56efa",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126385$1AE2AD1B-06BC-41B5-94A9-8EA6BEA5401B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126385$1F773592-2403-4513-90E8-73CD899D3811",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126385$1B9AEB97-2E05-44BB-BE52-F77D5A497A82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelais_de_Béziers_(1)"
+          },
+          "hash": "6901a97fd9e407d4d5c5e910ca8c0b8689b737ca",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126385$DDDDA53F-EC80-4E62-B36E-A8B1B1CCA5DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120784",
+              "numeric-id": 120784
+            }
+          },
+          "hash": "eeea2ab6d699d4f6fa245aa2446ccebd284625c0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126385$DBA0AABF-B418-4B31-B694-DE3F0A9D4D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126379",
+              "numeric-id": 126379
+            }
+          },
+          "hash": "508184fcf332107efebbd14afa1b51155139a73e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126385$BF0B9E7B-F604-4E4F-A66B-EE7595997CD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126385$1B7716EA-FE51-44F6-BB99-5D29D9979DB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1135-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "13b7e8c07884bc4a4a23e3b6d555c39b00d92c81",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126385$57FF5E24-9149-40F8-8BBA-9B4D0C618D4F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111269393"
+          },
+          "hash": "ac5143a7440e63ae29d62859e649aa0a440b5d94",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q126385$3E40D78F-3BC1-4B4B-BA2D-97BC986C5F56",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Adélaïde de Béziers"
+          },
+          "hash": "9fe554608664a382b6f699542d8b3265fe8c37af",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126385$304830CF-D50D-4446-A0E6-0D39EA01724A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adelaide;n=trencavel;oc=1"
+          },
+          "hash": "05abf630d5448b67198ca3c08dbd0095f2470dd6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126385$6DA2679A-580F-4BC3-8DB1-E99F18683085",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adélaïde de Béziers Arms.svg"
+          },
+          "hash": "5ffbab0bfb3dff2ae377e7831f79ed8ab3d612a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1135 -"
+    }
+  },
+  "id": "Q126385",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Adélaïde de Béziers"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adélaïde de Béziers"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Adélaïde de Béziers"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Adélaïde de Béziers"
+    }
+  },
+  "lastrevid": 17539490,
+  "modified": "2025-09-17T07:38:35Z",
+  "ns": 860,
+  "pageid": 152956,
+  "sitelinks": {},
+  "title": "Item:Q126385",
+  "type": "item"
+}

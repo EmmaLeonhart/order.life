@@ -1,0 +1,290 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guido I, Embriaco"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123033$4B933C59-4E9A-45A5-B710-1B5B4F433C3B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00092028"
+          },
+          "hash": "fa6a51017c7e1c6603564fbf5e048366fe18f345",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123033$A5DEC4CD-0E57-42C2-89A5-6E1F5CB459A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123035",
+              "numeric-id": 123035
+            }
+          },
+          "hash": "2fd372be1e7c134da632429111ec62dc19374929",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123033$75466AFB-5D2C-47DF-9BF2-FAD77FF56A08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123037",
+              "numeric-id": 123037
+            }
+          },
+          "hash": "99b742c16a275d7cff604e1769c9d20360fe4809",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123033$3F15D1C4-403F-4B6F-9CB3-DE87A714FA53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123033$4E6B3165-1184-4F93-B173-D4CD2C33968B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123033$A8B1DE95-2FEF-4057-8295-35F5551CF4AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117968",
+              "numeric-id": 117968
+            }
+          },
+          "hash": "ce19ec533e8de9ce160a1b67fb47581def0bd6c0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123033$581EE236-D522-4016-8E2E-9DE2326DE3ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123033$541CD850-B096-42DA-A58A-098FDFCE24FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1180-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9dff9634722d33196cf9c3fcacc41128beca84b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123033$3CB261A7-B299-4362-B048-934CB03CC917",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1201-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7f1797dc1119dc9fc44c0b5bd9679f57e4750477",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123033$BF7B51DB-B95F-483A-8061-076254C9FFBE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1553577"
+          },
+          "hash": "ac210d6e43a86997f3421d0ba0a7cfbe07d1250c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123033$17FA03DA-52D7-48FD-AF81-2D1ECA9F3299",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guy;n=embriaco;oc=1"
+          },
+          "hash": "27d631f0d85127c007319537239b56f306a699cb",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123033$11196441-610F-4E6A-89F9-A3531CD0F710",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guido I, Embriaco Arms.svg"
+          },
+          "hash": "0dcac3483cab04320737724d5c27906d14f8aaf5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herr von Gibelet"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur du Gibelet"
+    }
+  },
+  "id": "Q123033",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Guido I. Embriaco"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guido I, Embriaco"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guido I Embriaco"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guy Ier Embriaco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guido I, Embriaco"
+    }
+  },
+  "lastrevid": 17536216,
+  "modified": "2025-09-17T06:53:28Z",
+  "ns": 860,
+  "pageid": 148469,
+  "sitelinks": {},
+  "title": "Item:Q123033",
+  "type": "item"
+}

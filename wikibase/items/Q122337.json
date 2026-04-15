@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto II van Rheineck"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122337$E9C735DD-4516-4010-9649-4A3AAA4213B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00104726"
+          },
+          "hash": "1c0e3ba66c247ca571d4d0f302e62f60964e987d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q122337$F3F117EF-8C35-4E72-A315-BA2ACB403323",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Rheineck-4"
+          },
+          "hash": "d65e82a837c496f5b3a7044f269035dbd6ab936c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122337$45C3CC31-F10B-4B0B-BC6C-9CFFEC0995B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122337$AE6764FE-04EE-4732-BAFA-3DF22F05346B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122337$270509C5-3077-4B46-9032-760B2F6118E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto_Unknown_(31)"
+          },
+          "hash": "a982df48feaccf2cf73a9502182b4c886bdff4c7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122337$E609B844-641D-4A2D-B534-C34C97D129B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117632",
+              "numeric-id": 117632
+            }
+          },
+          "hash": "994667d6c4a718d0ae704e4b4af6cbb463aba1ce",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122337$C4F19BC4-7BD1-46D5-A7B0-ECBB81CD6AE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122337$F0F74928-C69C-4150-8328-5DB59C9F41FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1115-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f697a4278819401c444f9e8032b952ab46dbf799",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122337$7796A59F-8EF2-4865-B8C5-8C14E1BA6DF9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1149-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9498b8f5e8ba87f8d0dc4bc87b1adff5ed100616",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122337$EFA67A59-F9E3-418D-9CE8-A64C006CF26C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2728849"
+          },
+          "hash": "25387377e1ef358c52bf14d2e37348276184a602",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122337$14522978-4830-4F99-91E9-95D746CEBA3A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto II van Rheineck Arms.svg"
+          },
+          "hash": "25908a1a72c206bb98f510067a18da15a5dd6b8b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1115-1149)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1115-1149)"
+    }
+  },
+  "id": "Q122337",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Ото II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ota II. ze Salmu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otto II van Rheineck"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Otto II de Salm"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Otto II van Rheineck"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Оттон II фон Райнек"
+    }
+  },
+  "lastrevid": 17535526,
+  "modified": "2025-09-17T06:44:16Z",
+  "ns": 860,
+  "pageid": 147539,
+  "sitelinks": {},
+  "title": "Item:Q122337",
+  "type": "item"
+}

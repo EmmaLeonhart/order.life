@@ -1,0 +1,275 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Selvaggia of Staufen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q125256$ABD3738F-02F7-4D3B-811C-D45B7EAE42CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "723273"
+          },
+          "hash": "6eae74b1775ca78d6794977dc013ebe70e191750",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q125256$0E961861-4257-4F90-A5E1-D36E4B02B4FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00348860"
+          },
+          "hash": "3a0afa80249a88a558a76277464f6f2a4610b43d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125256$42CECCF7-E338-4620-A23C-85E25675DDD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125256$53497EEB-36E7-41B2-BA97-9BD9728AC47F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125256$0EFD3BB4-99AD-4004-A048-8AC6ED2F7D38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55723",
+              "numeric-id": 55723
+            }
+          },
+          "hash": "740d4849844a9e4be83a16c67aa437baf31e9180",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125256$8BE41C78-D2CF-4926-B41B-7E1636899846",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125256$B168F895-0187-466C-800A-C9CB04CCD1F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1225-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "039d8458914fbbd9e5ed9475034d3b3aa38977f5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125256$4F9ABD58-4F76-455B-8AFB-32BD646CFA70",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1245-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a6827db4fd2daf5a57e8689036476cefa908d5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125256$FB00DA2B-DD58-4FAA-A72D-3C54FD4FF445",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3954952"
+          },
+          "hash": "865a949540df0c68b9c7e53cc2b3b138f637c60b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125256$C18FBB81-7C69-4433-9D21-788A683455D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=selvaggia;n=von hohenstaufen"
+          },
+          "hash": "d11c786850e1615096d54f3e5cb00abe8f795851",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125256$2D08A4F0-6120-4D3F-B084-AD74CE8527C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Selvaggia of Staufen Arms.svg"
+          },
+          "hash": "dd7bc8a27f86d93c176f840a1077f8f3c5d7c6bf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "lady of the Trevisan March, consort of Ezzelino III da Romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dame de la marche trévisane"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna italiana, signora della Marca Trevigiana e consorte di Ezzelino III da Romano"
+    }
+  },
+  "id": "Q125256",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Selvaggia di Staufen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Selvaggia von Staufen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Selvaggia of Staufen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Selvaggia de Staufen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Selvaggia di Staufen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Selvaggia van Staufen"
+    }
+  },
+  "lastrevid": 17538374,
+  "modified": "2025-09-17T07:23:08Z",
+  "ns": 860,
+  "pageid": 151443,
+  "sitelinks": {},
+  "title": "Item:Q125256",
+  "type": "item"
+}

@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mstislav Sviatopolkovich"
+      },
+      {
+        "language": "en",
+        "value": "Mstislav Svyatopolkovich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122073$3FD5C1AE-69F0-4EDD-8E4E-F0C3056E7C00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "177"
+          },
+          "hash": "9fbd474de8dddbc34dafd97489992785927cff6a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q122073$B664183B-578F-4AD2-8941-FC1878A2F552",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00330319"
+          },
+          "hash": "6cf7dbd423e9b7edec010cce7f65b12c2b63470e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q122073$78989BA0-724F-4FAB-9034-9EDC7644D3E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Рюрикович-34"
+          },
+          "hash": "28ff93e9810996d841d88e03dca9816e84bfd8be",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122073$9C9B2D9A-BDB3-4D13-9B82-D882086769D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122073$5EFDF04A-6DB4-448D-995D-3DF22BF072D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122073$2C10E194-7843-4637-9C37-3C289BDD3BE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117471",
+              "numeric-id": 117471
+            }
+          },
+          "hash": "f38cd5f7fbe1ca071941543e764768ab7ad5fd3e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122073$4C9D75CE-E35D-4178-A905-8061079A8A9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122073$E35E3911-1C89-4A5F-A84B-AC308F7176BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122073$795AA0E4-770C-475B-86A6-0313614C0FEA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1099-06-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f98d94122e309e2656221683e67e0b1f64cd7276",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122073$E88E4AA5-A3BA-4F32-95F2-4F8A6E62B3F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4305603"
+          },
+          "hash": "44a98d6fb890b103fdd6995de49480ce850cc683",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122073$1D252DB2-3D1C-4530-91D8-362FFE6E214A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=mstislav;n=rurikides;oc=6"
+          },
+          "hash": "09f1b6272782bcf1cbfb0f614aab29b0df1f604e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122073$84FA5D37-9C8B-478E-B283-0020826A5CB8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mstislav Svjatopolkovic Arms.svg"
+          },
+          "hash": "9d88995651a7da642f9ec8ed23cbd3a7df53f3fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1099"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe di Volinia"
+    }
+  },
+  "id": "Q122073",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Мсціслаў Святаполкавіч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mstislav Svjatopolkovič"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μπριατσισλάβ Σβιατοπόλκοβιτς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mstislav Svjatopolkovic"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mstislav Svjatopolkovič"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ムスチスラフ・スヴャトポルコヴィチ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mstislaus Sventopolci filius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mstislav Svjatopolkovitj"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мстислав Святополкович"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mstislav Svjatopolkovitj"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мстислав Святополкович"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "姆斯季斯拉夫·斯维亚托波尔科维奇"
+    }
+  },
+  "lastrevid": 17535262,
+  "modified": "2025-09-17T06:40:43Z",
+  "ns": 860,
+  "pageid": 147184,
+  "sitelinks": {},
+  "title": "Item:Q122073",
+  "type": "item"
+}

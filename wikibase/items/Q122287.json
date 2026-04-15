@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bruno von Calw"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q122287$C48BD30B-3F0A-473C-8B4C-D2A293581B66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Calw-5"
+          },
+          "hash": "4533b5f4302761167aba92b42e574dce86ccbe89",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122287$0B310A68-AF28-4CE3-B328-7766DCE8D6E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122287$38FB9854-FF8F-44C0-BFF5-8DAC5AF4B115",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122287$3391ACE3-1D25-4DF6-9A22-04CD7177D41C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122283",
+              "numeric-id": 122283
+            }
+          },
+          "hash": "4c20c4973db50686935d59933d72ecbadcd904cd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122287$AD5683D4-E1B1-47A0-99AA-88DAB3F51E99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122285",
+              "numeric-id": 122285
+            }
+          },
+          "hash": "c1529f1fe558a796aabddc7dd5cb89f51c16f4b3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122287$5EF2BA70-1881-4436-8C5E-2B94C8B69934",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122287$DFFE1B01-4C92-4C7F-A367-7FD6C1A945B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122287$01B0C57E-B765-4D9E-A9AE-535A17A2C743",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1109-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a13a9520ab6ab1f19b1a6586e52ce5bf13a7658",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122287$AACB8B10-7188-4155-BC5E-70293F1E89E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15638730"
+          },
+          "hash": "44be58930b2dd3b6bdc02cd641ec0ca95a02dc64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122287$B87C731E-1EBB-44B6-8CB3-284758D2FB29",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bruno von Calw Arms.svg"
+          },
+          "hash": "8c0e10dda68eb3032674415df4629e3df965b546",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bischof von Metz"
+    },
+    "en": {
+      "language": "en",
+      "value": "1024 - 1109"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1024-1109)"
+    }
+  },
+  "id": "Q122287",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Bruno von Calw"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Бруно фон Калв"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bruno von Calw"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bruno von Calw"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bruno von Calw"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bruno von Calw"
+    }
+  },
+  "lastrevid": 17535476,
+  "modified": "2025-09-17T06:43:36Z",
+  "ns": 860,
+  "pageid": 147471,
+  "sitelinks": {},
+  "title": "Item:Q122287",
+  "type": "item"
+}

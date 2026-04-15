@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adelaide of Poland"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q122043$A07D7000-E7A4-482E-939A-0E727FBCEA49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Poland-80"
+          },
+          "hash": "1167b742a5b97760d0941e760786670e09274d0d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122043$C6C1CF82-988D-40AF-9042-9B57B44C9B5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122043$8E9E9ED7-A569-4311-B0F4-06563446213D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122043$68C86233-4288-4170-B823-9C888DB76E40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelaide_of_Poland_(1)"
+          },
+          "hash": "8a04a3d11f590b0547ac86fbcb33025aee447364",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122043$77B13B33-563A-42CD-B29E-902D6BFE2D02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117447",
+              "numeric-id": 117447
+            }
+          },
+          "hash": "0a89643d35f953e3352e560d83202b1aa37fc244",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122043$94AD2988-400F-493C-B531-0450E679CDC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122039",
+              "numeric-id": 122039
+            }
+          },
+          "hash": "a0320a2633b93b5f6a2c29bc31fb06047c81b6ea",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122043$C024EE9C-5541-4CC4-BB95-A32CCBF3D65C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122043$D3CBD0FC-38A9-4F6D-8BE5-D6179403FF6F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec722479c752f99ddc531564cc0d81140c8fcbc3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122043$9D0A3B75-AA58-4F7F-B3E5-9194D6DBF0C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1211-12-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "53317f52f54acbf30e4127550ed3a0da7bc607bf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122043$8B7764FB-9C7D-49F3-97D7-2B14FDCCED4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4681828"
+          },
+          "hash": "458833fcef1d355b126f4d47ccbb09728b52cea7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q122043$7C038C25-2C96-4F6A-8A05-D5369070EE40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sw.981141"
+          },
+          "hash": "a5063f89b56ebe8856a97aeec9af3ddc9f7f2233",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122043$440C373B-66AC-4A5B-8AD1-88E6A1BDD03B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelaide of Poland Arms.svg"
+          },
+          "hash": "3eb51269b64a1d4b43f7c13b1560a835edca17d6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "Polsk prinsesse"
+    },
+    "de": {
+      "language": "de",
+      "value": "polnische Prinzessin und Stifterin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Polish Piast dynasty princess (died 1211)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "księżniczka małopolska z dynastii Piastów"
+    }
+  },
+  "id": "Q122043",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Adelajda Kazimierzówna"
+    },
+    "da": {
+      "language": "da",
+      "value": "Adelaide af Polen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Adelajda von Kleinpolen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αδελαΐδα της Πολωνίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adelaide of Poland"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Adelajda de Pollando"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adelaida de Polonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Adélaïde de Pologne"
+    },
+    "he": {
+      "language": "he",
+      "value": "אדליידה מפולין"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adelaide of Poland"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Adelajda Kazimierzówna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аделаида Польская"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Аделаида Пољска"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аделаїда Казимирівна"
+    }
+  },
+  "lastrevid": 17535232,
+  "modified": "2025-09-17T06:40:19Z",
+  "ns": 860,
+  "pageid": 147144,
+  "sitelinks": {},
+  "title": "Item:Q122043",
+  "type": "item"
+}

@@ -1,0 +1,385 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guy II of Montlhéry"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q126193$04B8E615-DB0E-434C-AD56-0001A063B5E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122719",
+              "numeric-id": 122719
+            }
+          },
+          "hash": "4b75ecd0e534e2485f3fc8e1101045d519eabef3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126193$EC21E641-A22D-4701-B988-A0E378ECF751",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126193$63682515-7F59-47D1-93DF-501C18060B7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126193$5CF3E00D-642F-4817-A6B6-ACED948E1D41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Guy_II_of_Montlhéry_(1)"
+          },
+          "hash": "33442ba0bd90f485e1eadc66bf18cde4fff4668d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q126193$2111B6EC-5C52-4A9A-AF7E-7C700D3FAE6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11359.htm#i113588"
+          },
+          "hash": "7bb248ed6bb7c02fdbbc7231e066e23f58ee1f52",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126193$1FF00104-D968-47D1-8824-8CD001836A1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120606",
+              "numeric-id": 120606
+            }
+          },
+          "hash": "24cb346fe4546ad54fe7d64999f4b395c0f6c080",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126193$C3844C49-0B06-4F68-96DD-4B7281E3B9B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126191",
+              "numeric-id": 126191
+            }
+          },
+          "hash": "8d5c8f67542ea2244d7d9123e27a2119bb8377df",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126193$A9262DEC-C725-4954-965A-34CE458EA5A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126193$F63A53C4-3905-45F3-85B5-9982032BCCD4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126193$D8337BC1-5126-4726-B18C-C9623690CDF1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1109-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a13a9520ab6ab1f19b1a6586e52ce5bf13a7658",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126193$B32F0F9F-AE15-4F34-A0E8-6DADF78BEBB8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q249371"
+          },
+          "hash": "90ca5227341385a8933b15fa8dea7d34ec45d77e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126193$194B87A2-3E41-4A00-90E5-0D5F06022C54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gui;n=de montlhery"
+          },
+          "hash": "cc68060644ed30f0969595cd2b63275403663b63",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126193$DD83EE8D-66CD-46D9-BDE8-E324E186C9BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guy II of Montlhéry Arms.svg"
+          },
+          "hash": "bf19792d597f3035304ca8677dfe8476ba1d4efa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "militar francés (1100–1109)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "militar francès"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herr von Montlhéry"
+    },
+    "en": {
+      "language": "en",
+      "value": "French noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "militar francés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "gudari frantziarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire français"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "militar francés"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans militair (-1109)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "militar franses"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "militar francês"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız soylu (10.. – 1109)"
+    }
+  },
+  "id": "Q126193",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Gui II de Montlhéry"
+    },
+    "de": {
+      "language": "de",
+      "value": "Guido II. von Montlhéry"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guy II of Montlhéry"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guy II of Montlhéry"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gui II de Montlhéry"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gui II de Montlhéry"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギー2世・ド・モンレリ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guy II of Montlhéry"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Guy II of Montlhéry"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Guy al II-lea de Montlhéry"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gui II de Montlhéry"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Guy II of Montlhery"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gui de Montlhéry"
+    }
+  },
+  "lastrevid": 17539298,
+  "modified": "2025-09-17T07:36:05Z",
+  "ns": 860,
+  "pageid": 152698,
+  "sitelinks": {},
+  "title": "Item:Q126193",
+  "type": "item"
+}

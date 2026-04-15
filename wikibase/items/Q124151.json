@@ -1,0 +1,397 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hugh II, Margrave of Tuscany"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124151$FF6AD515-C614-4064-921A-49553C3D2BB3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00295862"
+          },
+          "hash": "763dab50f17b8a2285297eab09bd99b057ab1474",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q124151$F629AA93-0D34-4F0B-9B8B-D94814CD2130",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119493",
+              "numeric-id": 119493
+            }
+          },
+          "hash": "5a1da1a2086449aedfecc413198c0d95829f7de5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124151$C0208756-EA11-441F-8457-6AC594003E04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124151$C5899021-CA55-46B7-9615-7A200859A2E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q124151$EAC695C7-BF3F-4F00-8E99-010788E11B96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugh,_Margrave_of_Tuscany_(1)"
+          },
+          "hash": "2849729790d2feac0bafb79b2689ac30b3f74bbc",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124151$E2F67E00-1363-496C-A927-CB0DE1F913EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120139",
+              "numeric-id": 120139
+            }
+          },
+          "hash": "ecac28d8d6d75d5cfbe2dd64db3814dc4fbf2deb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124151$95540E34-C439-4B93-9D3C-44E2A66EB494",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119059",
+              "numeric-id": 119059
+            }
+          },
+          "hash": "0f81d68fdf6a1417eff3050fc4579eb381ce02df",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124151$FB15F572-FEE3-47C3-B2B6-47D72C07B676",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124151$E34072BC-2650-4DA9-B2C7-6B186F9C4310",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124151$8BA730E8-3AD0-41A7-8637-154FF8DAF7CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1001-12-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "419d34327ed0031b5b4972879708b55842f946d1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124151$5785BAC7-5348-4D62-88C1-C2610E87D03C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q59588"
+          },
+          "hash": "3bcb791d96d7d845c1dea3fd45baa8e7bdf3471a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q124151$75725A5F-2C05-41D3-8B83-55D3EB6DBAF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hugo;n=d arles"
+          },
+          "hash": "6312b5379d9f2c89dfa0f313077b6f4de0940fc5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124151$06324B50-18ED-4DE6-A9B6-5C6213DD3A60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugh II, Margrave of Tuscany Arms.svg"
+          },
+          "hash": "c75fa2ce84f05a9777ff82487e946891045d93f9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "toskánský markrabě"
+    },
+    "de": {
+      "language": "de",
+      "value": "Markgraf von Tuszien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Margrave of Tuscany"
+    },
+    "es": {
+      "language": "es",
+      "value": "marqués de Toscana y duque de Spoleto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble toscan"
+    },
+    "it": {
+      "language": "it",
+      "value": "marchese di Toscana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маркграф Тосканы"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "italiensk monark"
+    }
+  },
+  "id": "Q124151",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "هيو مارجريف توسكانا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хуго"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hug I de Spoleto"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hugo Toskánský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hugo von Tuszien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ούγος της Τοσκάνης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hugh II, Margrave of Tuscany"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Hugh, Margrave of Tuscany"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Hugh, Margrave of Tuscany"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hugo I de Toscana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hugues II de Toscane"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hugó toszkánai őrgróf"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ugo II di Toscana"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウーゴ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hugo van Toscane"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ugo de Toscana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уго I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ugo od Toskane"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hugo av Toscana"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гуго Тосканський"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托斯卡纳的雨果"
+    }
+  },
+  "lastrevid": 17537302,
+  "modified": "2025-09-17T07:08:43Z",
+  "ns": 860,
+  "pageid": 149960,
+  "sitelinks": {},
+  "title": "Item:Q124151",
+  "type": "item"
+}

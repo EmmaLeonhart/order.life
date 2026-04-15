@@ -1,0 +1,490 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Craon"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q125985$322EFF30-60AD-4091-9924-46E5348CA001",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "472709"
+          },
+          "hash": "8d30c042ac2c700929a6878d141b57fe398adc79",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q125985$B5CA0E26-86C3-4226-A96E-3AAF05DDD6ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00559499"
+          },
+          "hash": "a870cbbf61d83ca95f2a77a3cf82495d962b209e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q125985$4778FA36-D9FC-4C66-BE54-14647BB14684",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Craon-35"
+          },
+          "hash": "e7c407644ad30ba6724deb2ff450312fc44778d8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125985$9972E7A5-E10D-4432-9B74-4BD01C876C9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125985$E9AD2A35-51A5-4DF3-A800-D9DE79679778",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125985$33C18990-435A-48E9-99BC-05A9DC202B5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146925",
+              "numeric-id": 146925
+            }
+          },
+          "hash": "1b95ae8d7f85b75f75aa2d4aa3d1efa3c2e7121f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125985$1BBD99E7-6FDD-4B24-A0D1-B375C22954C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120434",
+              "numeric-id": 120434
+            }
+          },
+          "hash": "87fe808452e390086ccf2082ac93ace24b8070c9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125985$A6B30247-FDF2-42D8-83AD-C49D3DFD466C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125985$3334325A-990F-4EB3-BF12-DEF168C08B10",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125985$8EDB8467-90F5-49DC-863A-68A6DE525299",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1149-01-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "50d3ba14401aa77d196d55d8a4f86fadaefd4f4e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125985$EBE0709F-7B5D-4F81-AAD1-1D6AB96CC8A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q357306"
+          },
+          "hash": "a6ea0d68ed9a866a70f9452ecbb53631a5186ac7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q125985$090EB04A-461F-4492-8075-4277FC101D5B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Craon"
+          },
+          "hash": "aebffb7fe2cd0d3cb8236b5fb6c542004657a071",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125985$432662AB-60C0-4C9F-B05E-38B98436241C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=de craon"
+          },
+          "hash": "db9ac2c869f97ca99f89a19da236c90ee73430ed",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125985$87DA6429-C014-48E3-8A0D-B1A713D7FC4B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Craon Arms.svg"
+          },
+          "hash": "7a8dee66416bc42ef9bbae7506164422be663fc4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Großmeister des Templerordens"
+    },
+    "en": {
+      "language": "en",
+      "value": "Grand Master of the Knights Templar"
+    },
+    "es": {
+      "language": "es",
+      "value": "militar y religioso francés"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "temppeliherrain ritarikunnan suurmestari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "2e Grand maître de l'Ordre du Temple"
+    },
+    "he": {
+      "language": "he",
+      "value": "המפקד השני של מסדר הטמפלארים"
+    },
+    "id": {
+      "language": "id",
+      "value": "Master Ksatria Templar"
+    },
+    "it": {
+      "language": "it",
+      "value": "2º Gran maestro dei cavalieri Templari"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "segundo Grão-Mestre dos Cavaleiros Templários"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Grão-mestre dos Cavaleiros Templários"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tapınak Şövalyeleri büyük üstadı"
+    }
+  },
+  "id": "Q125985",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Robert de Craon"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Робер дьо Краон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Robert de Craon"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Robert z Craonu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Robert de Craon"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Robert de Craon"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρομπέρ ντε Κραόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert de Craon"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Robert de Craon"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Robert de Craon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert de Craon"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "رابرت دو کراون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Robert de Craon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert de Craon"
+    },
+    "he": {
+      "language": "he",
+      "value": "רוברט מקראון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Robert de Craon"
+    },
+    "id": {
+      "language": "id",
+      "value": "Robert de Craon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Robert de Craon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロベール・ド・クラオン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "რობერ დე კრაონი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "크라온의 로베르"
+    },
+    "la": {
+      "language": "la",
+      "value": "Robertus Burgundio"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Roberts de Kraons"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Робер де Краон"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Robert de Craon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert de Craon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Robert de Craon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Robert de Craon"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Robert de Craon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Робер де Краон"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Robert de Craon"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Robert de Craon"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Rober de Kraon"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Робер де Краон"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Rober de Kraon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Robert de Craon"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Робер де Краон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "羅伯特·德·克雷昂"
+    }
+  },
+  "lastrevid": 17539096,
+  "modified": "2025-09-17T07:32:48Z",
+  "ns": 860,
+  "pageid": 152419,
+  "sitelinks": {},
+  "title": "Item:Q125985",
+  "type": "item"
+}

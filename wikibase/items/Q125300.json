@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guillaume Ier de Forez"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q125300$A3AFE342-780F-4159-B7D3-DD70C818797C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Forez-15"
+          },
+          "hash": "970e969ceeff6d7d702ca90eb30f13f0f8e21a2b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125300$7CCB9062-F0EB-4B70-B62A-86997EB8795E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125300$0FDC6F79-2FAD-477A-B24A-8D8FB6CDBFAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q125300$C80B848E-7350-4575-BD1E-C7AF9E4286B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume_Forez_(3)"
+          },
+          "hash": "ce4d86e6dc47d2fc7e4360f7f4490e96a8629a8b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125300$912589E1-04C9-445D-97E3-1C75739ECABE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119834",
+              "numeric-id": 119834
+            }
+          },
+          "hash": "3028c1b2b8c5220c3e0e9cf86b3de423592578c6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q125300$C53A0788-C7B9-431F-AE10-19A656446135",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125298",
+              "numeric-id": 125298
+            }
+          },
+          "hash": "430a2bf560d2868523140ed1cfb82b4b9d7ba8ab",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125300$2986DB8A-9CFF-44BF-ACAE-13A5DB811656",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125300$DB767BCE-DBEE-46D6-AEE3-768CBBB7B5BA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3227ad0fbe13b40f06cb84da99a9c8ea769bcd23",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125300$2089ADCC-81B8-4813-A010-00BD0E943A7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1097-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ebab154afe68f63803416a1228664384388bbaa8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125300$7BE9EF7C-8F3F-4D62-A588-853FFC99DB7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2573382"
+          },
+          "hash": "c1a66a0906507336bd1de0bc22f20362e28eb01f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125300$7ECDE634-6528-447F-94A2-7FF5036F639E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guillaume;n=de forez;oc=1"
+          },
+          "hash": "6c0bf9f149f0b0b91f970faf4cc1a96388151b39",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125300$E3B7D58C-0275-4739-BF97-955EB0BA2232",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume Ier de Forez Arms.svg"
+          },
+          "hash": "f4be45fcbfa672a15003226d6f73e62674001899",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Lyon und Forez"
+    },
+    "en": {
+      "language": "en",
+      "value": "1057 -"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Lyon et de Forez, mort en 1097"
+    }
+  },
+  "id": "Q125300",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wilhelm III."
+    },
+    "en": {
+      "language": "en",
+      "value": "Guillaume Ier de Forez"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume Ier de Forez"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guillaume Ier de Forez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гильом I де Форе"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Guillaume Ier de Forez"
+    }
+  },
+  "lastrevid": 17538416,
+  "modified": "2025-09-17T07:23:41Z",
+  "ns": 860,
+  "pageid": 151503,
+  "sitelinks": {},
+  "title": "Item:Q125300",
+  "type": "item"
+}

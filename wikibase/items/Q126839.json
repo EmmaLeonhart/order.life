@@ -1,0 +1,393 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Czcibor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126839$FDCA2F8B-9062-43E2-A2A8-BC2BCF31176D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "146381"
+          },
+          "hash": "862d18f933b33056e3945d4fd7912bc04d28ce7e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126839$3C799B7E-8283-4E56-8303-B9D4E0D0238E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Piast-120"
+          },
+          "hash": "1c3f37f5a39efafbd67238430682d575fcc02ec6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126839$CCB78D34-691E-4907-B8FB-AFEA1664AE5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126839$B7E746EF-5ECB-451A-810A-60981F69E69A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126839$457C4E28-B51A-4A9A-AE18-1CD035663D5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince_Czcibor_(1)"
+          },
+          "hash": "b6a1c04d59f0319a1f0c5896111e6bd27a8d8388",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126839$B5858B45-2BBE-415D-AB2E-9D608C3C5322",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126835",
+              "numeric-id": 126835
+            }
+          },
+          "hash": "9507f7ecbad1aa28894304e7dd0bd9b70b44d160",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126839$D5E93712-DE74-4C1A-8C4B-A39386EADC19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126839$A96F7C94-13B2-423D-ABDD-AF96AC0B1EBB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1000-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bfaeffd93c9ae612a427a0a168b2db21b0ead38e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126839$EC1A908E-4559-40B3-8DF5-790D77451ABD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0972-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6cd348497043ea6ad4173f693dc69997e4b438b1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126839$51AB1327-94CB-4607-BAA9-371B34850B6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q326712"
+          },
+          "hash": "cc8bdf5a9557e4601dab4fd9362c614c15d2e8c6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126839$B2E507E5-B6DF-41FB-A2FF-F18DA62D6197",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=czcibor;n=piast"
+          },
+          "hash": "b8b672528d16307aeb28769ee7e59437289a939d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q126839$3BC3BA78-803A-4252-A85A-F0AEB579C81D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.5"
+          },
+          "hash": "afe5880f82bea8ecd83a32e3fad4ca9e55b69522",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126839$09E4F418-359F-4F6B-9940-372F6BED5A14",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Czcibor Arms.svg"
+          },
+          "hash": "40e2a63910f61f827aea64411e920f383edb2b37",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "polský princ (10. století)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des polanischen Fürsten Siemomysl"
+    },
+    "en": {
+      "language": "en",
+      "value": "10th-century member of the Piast dynasty"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "filo de la polana duko Siemomysl"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "brat Mieszka I"
+    }
+  },
+  "id": "Q126839",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "تشسيبور"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Czcibor"
+    },
+    "be": {
+      "language": "be",
+      "value": "Чцібар"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Чцібар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cidebur"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ctibor"
+    },
+    "da": {
+      "language": "da",
+      "value": "Czcibor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Czcibor"
+    },
+    "el": {
+      "language": "el",
+      "value": "Στσίμπορ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Czcibor"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Czcibor"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Czcibor"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Cidebur"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cidebur"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cidebur"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Czcibor"
+    },
+    "id": {
+      "language": "id",
+      "value": "Cidebur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cidebur"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Czcibor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cidebur"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Czcibor"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Czcibor"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Czcibor"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Czcibor"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Cidebur"
+    }
+  },
+  "lastrevid": 17539938,
+  "modified": "2025-09-17T07:44:28Z",
+  "ns": 860,
+  "pageid": 153564,
+  "sitelinks": {},
+  "title": "Item:Q126839",
+  "type": "item"
+}

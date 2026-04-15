@@ -1,0 +1,348 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eble II of Ventadorn"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q125817$7E10DFDA-4C98-4B85-B23E-EB22427146C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00196971"
+          },
+          "hash": "749df4dc0804a6e399fa0bb7e50db7ef2cb82520",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q125817$C26A716C-8C89-4542-B5C9-964FCCC1A4A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123087",
+              "numeric-id": 123087
+            }
+          },
+          "hash": "ad9c3a613e442a10774d770d62c53b7c0170795f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125817$64603590-A336-424C-8BFC-44DC336F22E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125817$85047411-E299-4BA8-B25A-FE4208B9F878",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q125817$94BD95E0-E1BA-4112-88E6-8270F32F4C53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eble_II_of_Ventadorn_(1)"
+          },
+          "hash": "67bf594bb80b1b34cb748ef8ffd76bec42addda3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125817$5B2065C5-8174-4667-9D5B-DFD0A306B843",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120306",
+              "numeric-id": 120306
+            }
+          },
+          "hash": "cba009173cc56161b39bb7b3d763887f220f39d3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125817$66676E15-3F84-4D1E-B985-D98A6F0665D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q125817$1BE6445B-B626-4B81-B21C-D0F56E541332",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1086-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "746edfd4a4c44958d6180aa157d7ee0b0c33c6c6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125817$6F7DA562-365F-4AFA-B9F6-EEDA8114AEEF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1155-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e4e5bbdc8179ac10f733fb556fa727b7e344476a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125817$2984AEBA-C521-46D7-AA39-1202756A192C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3717867"
+          },
+          "hash": "ac56492d7d3f148d198dd1bccb34775bf6af0cb5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q125817$79B72936-0D56-496D-B205-238555A02BE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ebles;n=de ventadour;oc=2"
+          },
+          "hash": "df02ba23a954b797cc0c7f8e0a7423b4861c3a51",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125817$4A6AE547-C649-4882-867E-4E3F5AB1CA7D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eble II of Ventadorn Arms.svg"
+          },
+          "hash": "c9323009e4ccf5efb6c0cfccdae160ae0ff4f47f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "trovador francés (1086–1155)"
+    },
+    "da": {
+      "language": "da",
+      "value": "fransk sanger"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "French yiliyiina ŋun nyɛ doo"
+    },
+    "en": {
+      "language": "en",
+      "value": "French Viscount"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "خواننده فرانسوی"
+    },
+    "it": {
+      "language": "it",
+      "value": "trovatore francese"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "fransk sanger"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans zanger (?-)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "fransk songar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fransk sångare"
+    }
+  },
+  "id": "Q125817",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Eble II de Ventadorn"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eble II of Ventadorn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eble II of Ventadorn"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eble II of Ventadorn"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eble II of Ventadorn"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eble II of Ventadorn"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ebolo II di Ventadorn"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Eble II of Ventadorn"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eble II of Ventadorn"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Eble II de Ventadorn"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Eble II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eble II of Ventadorn"
+    }
+  },
+  "lastrevid": 17538928,
+  "modified": "2025-09-17T07:30:35Z",
+  "ns": 860,
+  "pageid": 152192,
+  "sitelinks": {},
+  "title": "Item:Q125817",
+  "type": "item"
+}

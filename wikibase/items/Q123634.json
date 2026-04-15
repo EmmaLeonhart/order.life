@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Laeta"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q123634$16326C92-748A-4898-B150-B887FA35357C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00248960"
+          },
+          "hash": "d9bc339741cd5c51e2dc4a256908be0f04842ec3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123634$83A5BB75-5C64-44F9-9C4E-2374467EBAF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123634$80838722-40EE-4730-8BA3-504D48FFB716",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q123634$F587C753-86F7-412F-B9A7-1903BDCB0540",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118474",
+              "numeric-id": 118474
+            }
+          },
+          "hash": "6d313809268cded9fe06b95921b4bda528659931",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123634$0F53DB3C-18AB-4105-80AA-ACF9015D8183",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123634$B46AF696-AEFB-4E5A-BA93-99B4BC1F0001",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123634$8F7A9A1B-6B95-4BCC-A498-22FF19D462E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1411139"
+          },
+          "hash": "0595b29615e0313f7ea106f26be00438ab20fadf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123634$F51EB377-1B00-40F2-8A15-856EF1237490",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Laeta Arms.svg"
+          },
+          "hash": "ad1690b588b5c57346d700cace9c9f0885355170",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman empress, wife of Gratian"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana consorte"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Graziano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римская императрица"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римська імператорка"
+    }
+  },
+  "id": "Q123634",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Leta"
+    },
+    "de": {
+      "language": "de",
+      "value": "Laeta"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λαέτα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Laeta"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Laeta"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Laeta"
+    },
+    "es": {
+      "language": "es",
+      "value": "Leta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Laeta"
+    },
+    "it": {
+      "language": "it",
+      "value": "Leta"
+    },
+    "la": {
+      "language": "la",
+      "value": "Laeta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Laeta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Leta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Leta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лета"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Лаета"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Laeta"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лета (імператорка)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "莱塔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "莱塔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "萊塔"
+    }
+  },
+  "lastrevid": 17536800,
+  "modified": "2025-09-17T07:01:08Z",
+  "ns": 860,
+  "pageid": 149270,
+  "sitelinks": {},
+  "title": "Item:Q123634",
+  "type": "item"
+}

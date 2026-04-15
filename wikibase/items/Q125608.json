@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arnold III of Sundgau"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q125608$E85CF5E8-3ACE-4234-8AB8-32EF0605134F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126660",
+              "numeric-id": 126660
+            }
+          },
+          "hash": "1ee041d7ac34d09aa71bd116ecc07bd50202c83d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125608$15F11B9E-44A5-48AE-A063-1BC99E5AE9DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147058",
+              "numeric-id": 147058
+            }
+          },
+          "hash": "223b8b5ff4c62f37c4a12ef206cdff228a1c3eff",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q125608$B480D8C1-FB68-4252-84E3-A31973D765C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q125608$70BF8993-D606-4511-8517-0E7485226E65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q125608$330A18F0-2D67-43F5-A486-9DE872BCCC8B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arnold_of_Sundgau_(1)"
+          },
+          "hash": "511c6afa3ed2435724543fff129711b08b9834f8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q125608$D41B9115-D073-4763-AC2F-B09C83E81E24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147057",
+              "numeric-id": 147057
+            }
+          },
+          "hash": "97ecd7d7a9ce17fa87e5f14ced2b2a07a516771a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q125608$364DB9C4-499C-4F43-985C-6E93D44AA8B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120113",
+              "numeric-id": 120113
+            }
+          },
+          "hash": "ea2387686afa602285bf36d29f165551c73f3afa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q125608$D5C1113C-A51A-47FF-A8E4-9473484FA999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q125608$07A1B983-386E-4827-A726-89EA163296EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1010-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60065a8a71f11e325eb4b95178ff7d2a82483a98",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q125608$7823B0B7-A52B-45A4-A8E5-641023E706BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2982691"
+          },
+          "hash": "79b3409ee5303d12bd2f1b7651c2e0ca602dd53c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q125608$DF10631E-6452-48E5-8EB3-70A9FFADD998",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arnold III of Sundgau Arms.svg"
+          },
+          "hash": "8065cc8603ad58309865cf1e4df647ee77d0b02a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "de stamvader van het huis Andechs"
+    }
+  },
+  "id": "Q125608",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Arnold III of Sundgau"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arnold III van Sundgau"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arnold III van Sundgau"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арнольд III"
+    }
+  },
+  "lastrevid": 17538720,
+  "modified": "2025-09-17T07:27:51Z",
+  "ns": 860,
+  "pageid": 151915,
+  "sitelinks": {},
+  "title": "Item:Q125608",
+  "type": "item"
+}

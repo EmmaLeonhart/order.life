@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iaroslav Iaropolkovich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122488$C61828D6-DF9B-413C-9BFE-A60D1FDDE12E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "144"
+          },
+          "hash": "65fdef7d73c41c85fc9a481005c798aafd1c3dc5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q122488$FCA119F6-1CF3-42C6-A1B3-000FD747D7F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00330353"
+          },
+          "hash": "9411d5a506148ed2dacdfc919effa396766b8d1a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122488$F33D629F-3FE7-497A-A0E8-B29DC76B7B54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122488$A4A2134E-EE8B-4373-BABD-DD591367B0B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122488$147D1033-7957-4A78-8E73-050331E49B10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121249",
+              "numeric-id": 121249
+            }
+          },
+          "hash": "2e9d25f14a293d3663f72f160bb994d8a45afbd0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122488$4D7351C8-1B9D-4352-B8C6-AD4E61A3E262",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117694",
+              "numeric-id": 117694
+            }
+          },
+          "hash": "3e39924cf9a6e186bb575c07e83fb7dab00331f0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122488$1B8C3EF6-35DC-4BA6-AB9A-67F75EE833E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122488$8271A874-1396-4ECB-A219-C75F928AA2DC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1075-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "994b508a4295f84a9fcfa952d15812452d9a58f6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122488$F9877A5A-A7FD-42B6-A89D-8054754F10CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1103-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "45bcf5b30b86ea55356cb9f38f1114eafff7b5d6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122488$CD4D2854-CBC5-4EE9-9A94-029855DB44D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4538783"
+          },
+          "hash": "f48a6711d2cd6e6a4f2ca65068f1681a86639da4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122488$B4995929-9C88-4B91-9321-089109D0F8FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=iaroslav;n=rurikides;oc=1"
+          },
+          "hash": "2384b9144f40c7edec77ffbd0ea7929879f66535",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122488$5EB9D4E2-3F0D-42F9-8A39-EC897CBBE786",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iaroslav Iaropolkovich Arms.svg"
+          },
+          "hash": "0e982631fa65577d22d2d4d341dd85c049eae6c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "князь берасьцейскі"
+    }
+  },
+  "id": "Q122488",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Яраслаў Яраполчыч"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Яраслаў Яраполчыч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jaroslav Turovský"
+    },
+    "en": {
+      "language": "en",
+      "value": "Iaroslav Iaropolkovich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Iaroslav Iaropoltchitch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヤロスラフ・ヤロポルコヴィチ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ярослав Ярополчич"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ярослав Ярополкович"
+    }
+  },
+  "lastrevid": 17535676,
+  "modified": "2025-09-17T06:46:16Z",
+  "ns": 860,
+  "pageid": 147741,
+  "sitelinks": {},
+  "title": "Item:Q122488",
+  "type": "item"
+}

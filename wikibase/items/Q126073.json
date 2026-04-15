@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Damásio II de Brioude"
+      },
+      {
+        "language": "en",
+        "value": "Damasio II de Brioude"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q126073$FE3853E2-48BC-4477-940C-3DAA5E6D49C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126073$F0038E5B-BE8E-48C4-A592-D50926A58B1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126073$C4A5815B-3A0D-48B0-9D17-454F7B976F3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dalmas_Unknown_(1)"
+          },
+          "hash": "d11e2d97c40718dc6c32eea1a95df0d061af0fb6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126073$13373C61-2C24-42ED-B330-F4B36D9C1F2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126071",
+              "numeric-id": 126071
+            }
+          },
+          "hash": "d366572ffaad0dcde75051418dd833a5c9c4db0e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126073$5C8591EA-3376-4540-AE34-E4521BEE674E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126073$CA268C76-F6A3-4C5A-97C1-E5F45DFD88D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0955-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "88d3d91067c5473cb67ce737265dfa07ab11c12e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126073$7EC59FC3-5C22-42BF-A36D-E330839D404F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10263833"
+          },
+          "hash": "504eca1ca88f1f8065adedc5d21c3c05df8beb27",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126073$D3A1228C-883A-41A3-A907-4AB901510F77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=dalmatius;n=dalmatii"
+          },
+          "hash": "b841ebb8c40989d6484013aca25c0ee8d685704a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126073$CBF740EB-778D-4F14-8156-512E67B3748F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Damásio II de Brioude Arms.svg"
+          },
+          "hash": "1a2d3bec5760d90a161daf7d087e0304f0241bdc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q126073",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Damásio II de Brioude"
+    },
+    "en": {
+      "language": "en",
+      "value": "Damásio II de Brioude"
+    },
+    "es": {
+      "language": "es",
+      "value": "Damásio II de Brioude"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ブリウド副伯ダルマス2世"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Damásio II de Brioude"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Damásio II de Brioude"
+    }
+  },
+  "lastrevid": 17539184,
+  "modified": "2025-09-17T07:34:36Z",
+  "ns": 860,
+  "pageid": 152537,
+  "sitelinks": {},
+  "title": "Item:Q126073",
+  "type": "item"
+}

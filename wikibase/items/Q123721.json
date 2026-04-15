@@ -1,0 +1,281 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Swæfred of Essex"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q123721$F112B3B4-776D-4F21-93BF-DC52DCE458A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123721$426F7A0C-B0A6-413A-B964-728D94974485",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q123721$011A1FBF-16FE-41CE-AD75-6686451F2F6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Swæfred_Unknown_(1)"
+          },
+          "hash": "5c1b360addd24d905886f40655a47d6437975a70",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123721$132398EB-F198-4157-BC7B-6D42B5A0E94B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118594",
+              "numeric-id": 118594
+            }
+          },
+          "hash": "930beaa491c915f0915d6c8bd7d730b067c84f83",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123721$C8BDFFC1-CB1F-413D-BDB1-8FDEE14A1F6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123721$DC4807F6-04D9-43B0-8547-D87B1CE3F966",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0700-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1df0d1f7be99978f9e1ad4f177d09a6b95941413",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123721$53FBC6B9-0C04-4DA6-8C3B-CBD245BCE0B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888573"
+          },
+          "hash": "55745a0458fba511f8a8fe3b43ae260d0f4b3df6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123721$54F7D386-67D9-4F38-8210-E8E93B8C8E9F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Swæfred of Essex Arms.svg"
+          },
+          "hash": "8f1b832ee103f2bbb1043b430693fd7fc8888e98",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Rei d'Essex"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "essexský král (694-709)"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Essex"
+    },
+    "en": {
+      "language": "en",
+      "value": "Joint king of Essex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Essex"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano anglosassone"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "король Ессексу"
+    }
+  },
+  "id": "Q123721",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Свефрэд"
+    },
+    "br": {
+      "language": "br",
+      "value": "Swaefred Essex"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Swæfred"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Swaefred"
+    },
+    "de": {
+      "language": "de",
+      "value": "Swaefred"
+    },
+    "en": {
+      "language": "en",
+      "value": "Swæfred of Essex"
+    },
+    "es": {
+      "language": "es",
+      "value": "Swæfred of Essex"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Swæfred"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Swæfred"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Swaefred de Essex"
+    },
+    "id": {
+      "language": "id",
+      "value": "Swæfred dari Essex"
+    },
+    "it": {
+      "language": "it",
+      "value": "Swaefred dell'Essex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Swæfred of Essex"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Swaefred z Essex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Свефред"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Swaefred od Essexa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Свефред"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "萨瓦夫瑞德"
+    }
+  },
+  "lastrevid": 17536886,
+  "modified": "2025-09-17T07:02:15Z",
+  "ns": 860,
+  "pageid": 149384,
+  "sitelinks": {},
+  "title": "Item:Q123721",
+  "type": "item"
+}

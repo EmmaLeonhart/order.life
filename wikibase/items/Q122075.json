@@ -1,0 +1,333 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bryachislav Sviatopolkovich"
+      },
+      {
+        "language": "en",
+        "value": "Bryachislav Svyatopolkovich"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q122075$45C47140-CDEC-4827-A26F-861E8FEA4700",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00330324"
+          },
+          "hash": "0f3c462afcdbd28cb23ba71f6ecf388749d345f0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q122075$484D0C7F-1EC7-4DDC-9500-61386517AD5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Рюрикович-36"
+          },
+          "hash": "dcc6d0ae09dbb52204808456e77cb3ad66938c08",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122075$6AC0FF6F-7D5C-4058-BCC0-32E2042AB329",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122075$5123A415-7C46-4EEF-8881-AB396CCF5AC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122075$4DFF0AFE-17B5-4A10-9E26-AA7649511A0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bryacheslav_Unknown_(1)"
+          },
+          "hash": "7fb9e8c294f11281f5c2ad41e0fb1a8849ec7197",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122075$4C2F97B5-DFB1-45E3-BA63-6FC85E288645",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117471",
+              "numeric-id": 117471
+            }
+          },
+          "hash": "f38cd5f7fbe1ca071941543e764768ab7ad5fd3e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122075$FA9347D3-20E8-4CD3-82EB-F84493EFF745",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122069",
+              "numeric-id": 122069
+            }
+          },
+          "hash": "a9272669124eb61f662e53a1fe511e3b501681a9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122075$4667038D-0259-4EC4-B2EC-18860FEBE143",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122075$4636F64C-E8F9-46C7-AB08-EF1025C185E6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1104-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f325849f0502555e4554c1eb62570bb24ca2381e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122075$3B7C385D-5BEF-49E9-8476-AA2F534C34B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1127-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b05cd98e18437765ed75e1173ec094a5b36a4ec2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122075$297E9396-E42B-433E-B27B-CCC19E7E90D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20096905"
+          },
+          "hash": "17739f80278d9aee6d74a8c3764150b25943a713",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q122075$FB480CF7-7E0C-4A82-A1A1-58E021A985EC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=briatcheslav;n=rurikides"
+          },
+          "hash": "26aecea189a07f745c054df8d350681a6badcbc7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122075$F2A1DD97-D1F7-4DAA-B904-6C33D2ABAC5B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Brjacislav Svjatopolkovic Arms.svg"
+          },
+          "hash": "b193700ba3e004b93834f29412fea578df5750b0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1104-1127)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь-изгой, младший сын Святополка Изяславича от дочери половецкого хана Тугурохана"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1104-1127)"
+    }
+  },
+  "id": "Q122075",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Брачыслаў Святаполкавіч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Brjačislav Svjatopolkovič"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μπριατσισλάβ Σβιατοπόλκοβιτς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Brjacislav Svjatopolkovic"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ブリャチスラフ・スヴャトポルコヴィチ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Brecislaus Sventopolci filius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Brjatjislav Svjatopolkovitj"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Брячислав Святополкович"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Brjatjislav Svjatopolkovitj"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Брячислав Святополкович"
+    }
+  },
+  "lastrevid": 17535264,
+  "modified": "2025-09-17T06:40:44Z",
+  "ns": 860,
+  "pageid": 147187,
+  "sitelinks": {},
+  "title": "Item:Q122075",
+  "type": "item"
+}

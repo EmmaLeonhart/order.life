@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guglielmo I de Cardona"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123427$6EF0A147-12CE-49BD-A29B-F0537053935E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1292420"
+          },
+          "hash": "bb90a48774d9e90f38701e2aacc2de54c7cdc418",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q123427$8573A905-5A96-48BB-ABF0-1C89276D7071",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00433841"
+          },
+          "hash": "7a7643a1bcc042e9cd87bb54a66f9a6c7e604da5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123427$9958F622-83FB-44E6-8400-06F48E7DBE79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123427$C74DBEEF-1A2F-4DA2-8A65-B23090A7B0D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123427$7FB70D23-6837-402D-8F9C-E644DE069B59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118256",
+              "numeric-id": 118256
+            }
+          },
+          "hash": "ee1086b2eaa48450dee4e0589a7ea679207efbe7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q123427$CDF8DD5D-5630-4AC8-85D5-3523BF78A1AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119232",
+              "numeric-id": 119232
+            }
+          },
+          "hash": "14d09a8aa0eb4ecc37800ceceba43dedf0ff72c8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123427$56CB9376-868D-4E29-BE57-167620155934",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123427$6F75FB2F-9A82-46D5-8204-E0C662D2A74B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1156-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9d949dc83bb709f644ea6c77b9b6b7d532d2b8ae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123427$323065F1-DAA4-4949-BA57-1CC75A5851AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1225-07-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c5a132119bdbdebb8b969cde1d1de465d7b0f2d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123427$D6557CC5-AEFE-4787-BB2A-9C7D914436AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3778952"
+          },
+          "hash": "b95fe4211f22673c481c6305ab55d3a4553aed1a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q123427$FCBF9C8C-6C36-4DEA-A91D-2751CDC01AC2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guillem folch;n=de cardona"
+          },
+          "hash": "7240871d287d9e4c87383b53515b387d4044ce35",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123427$923187AB-7195-49FC-B98D-078FB2669086",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guglielmo I de Cardona Arms.svg"
+          },
+          "hash": "5764f2801b04597057b910b91ce7f953ce62ce23",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Vescomte de Cardona s.XII-XIII"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q123427",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Guillem I de Cardona"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guglielmo I de Cardona"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guillem I de Cardona"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guglielmo I de Cardona"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guglielmo I de Cardona"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Guillem de Cardona"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гиллем де Кардона"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Guglielmo I de Cardona"
+    }
+  },
+  "lastrevid": 17536606,
+  "modified": "2025-09-17T06:58:35Z",
+  "ns": 860,
+  "pageid": 148995,
+  "sitelinks": {},
+  "title": "Item:Q123427",
+  "type": "item"
+}

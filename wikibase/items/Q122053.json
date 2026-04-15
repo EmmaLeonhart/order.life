@@ -1,0 +1,379 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ottokar IV, Duke of Styria"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q122053$35184EA2-A566-4909-930A-9FB9C2F26DA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1002471"
+          },
+          "hash": "52591e944da594b02b3d79e892396e4d46f0c803",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q122053$C89BF10C-2DDD-4922-A384-D0727F5AE655",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q122053$D29D98FE-2FB1-4FC2-90B1-B86184098E9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q122053$25E61FE3-0573-4EDD-AFB4-7B9D8AEC1E5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ottokar_IV,_Duke_of_Styria_(1)"
+          },
+          "hash": "e8a7fe7222a4a721c7e0af7659dcb294fcc4437f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q122053$E493AB11-88E8-483E-ABEF-0A8703B93A29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122051",
+              "numeric-id": 122051
+            }
+          },
+          "hash": "716233d8109128c76c5e58e51b7cc60412924e61",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q122053$67F4D3BC-57F9-481B-AF97-CD68A7901A47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117461",
+              "numeric-id": 117461
+            }
+          },
+          "hash": "a0de3d9e85d0ed8f6382b3690fc327d03c9531a5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q122053$7A083EF7-92FF-44BA-94DB-21ED5DEF88C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q122053$E261E697-3FA9-4AC8-B58A-3019038A0B45",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1163-08-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f59bc5a0fbba495da3e63a63e90639212faad84e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q122053$0F6571D5-40E3-4B0E-9CB9-97CD3B9B5ED0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1192-05-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de1f767272ef06e18626e652473e9d77e8a50365",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q122053$DB155B35-664F-44C2-A77A-45893A35EEA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q701617"
+          },
+          "hash": "428c08774420e1c8f7b6634aacb38985bde59c70",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q122053$65A52DE8-A454-41FF-AF58-8B2ED9E6ABE4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ottokar IV, Duke of Styria Arms.svg"
+          },
+          "hash": "045f7b0de331865c79a0e920b6333ecc9bc6eb55",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "feudatariu austriacu (1163–1192)"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "маркграф и херцог Щирия след 1180 г"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "marcgravi d'Estíria el 1164 i després duc, a partir de 1180 fins a la seva mort"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "štýrský markrabě a vévoda"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Austrian siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "ab 1164 Markgraf, ab 1180 Herzog der Steiermark"
+    },
+    "en": {
+      "language": "en",
+      "value": "Margrave of Styria from 1164 and Duke from 1180, when Styria, previously a margraviate subordinated to the stem duchy of Bavaria, was raised to the status of an independent duchy"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "van 1164 tot 1192 markgraaf en vanaf 1180 hertog van Stiermarken"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "fiul markgrafului Ottokar al III-lea de Stiria și ultimul membru al dinastiei Otakarilor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сыном Отакара III, маркграфа Штирии, и Кунигунды Фобургской"
+    }
+  },
+  "id": "Q122053",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Отокар IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ottokar IV d'Estíria"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Otakar IV. Štýrský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ottokar IV."
+    },
+    "de": {
+      "language": "de",
+      "value": "Ottokar IV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ότοκαρ Δ΄ της Στυρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ottokar IV, Duke of Styria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ottokar IV d'Estíria"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ottokar IV."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ottokar IV de Styrie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ottocaro IV di Stiria"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オットカール4世 (シュタイアーマルク公)"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ოტოკარ IV"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ottokar IV."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ottokar IV van Stiermarken"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ottokar IV."
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ottokar IV."
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ottokar al IV-lea de Stiria"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Отакар IV"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Otokar IV."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ottokar IV."
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奥托卡四世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "奥托卡四世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "奧托卡四世"
+    }
+  },
+  "lastrevid": 17535242,
+  "modified": "2025-09-17T06:40:27Z",
+  "ns": 860,
+  "pageid": 147157,
+  "sitelinks": {},
+  "title": "Item:Q122053",
+  "type": "item"
+}

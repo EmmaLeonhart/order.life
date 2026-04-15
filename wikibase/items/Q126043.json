@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ne de Gand"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q126043$8F51FA98-D661-4CEC-8DC9-F3610C4F1235",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gant-267"
+          },
+          "hash": "521fb6c4f716372cdcd98e80134dc2a4fbad01b1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126043$25BB2AA5-C978-4B42-AF25-68C5147E7659",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126043$36A66933-17A2-4E4E-9BED-416309080FB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126043$6F23C508-67CE-45A6-AD4C-4960D8414442",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Felia_De_Gaunt_(1)|Unknown_de_Gant_(1)"
+          },
+          "hash": "eb7270f5c3562ed08fa7ad5be46ced0361453e6f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126043$52D39CD7-74BA-483E-A67D-D31116E9324B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143415",
+              "numeric-id": 143415
+            }
+          },
+          "hash": "2fb929fb41d1e260b0473a083a23afc7c7dde837",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126043$CE8E4024-5524-42CC-89B4-F169779470DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120458",
+              "numeric-id": 120458
+            }
+          },
+          "hash": "af555b8a4d322401bde6a1d963a9b959d54a6b2f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126043$E3C38B2F-D767-4F7A-BA73-82FDB7CFEB9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126033",
+              "numeric-id": 126033
+            }
+          },
+          "hash": "f6627088a1e17dadadcc757fcfa9a2a55c728c92",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126043$C18772FA-0DA6-44CF-BEFB-A308AF17D0F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126043$84CD1C11-7907-412A-A7AD-0B192D1552A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1066-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e89efd62fadceddafebba010dfd5929c154fd494",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126043$8B90133F-A17D-446A-9E3B-60A459289773",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c80c1f95dd634ed0661f17b0c6c8d16c806a155d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126043$833EE593-50F1-4195-9215-9313721E6551",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q122677387"
+          },
+          "hash": "256ab98ebf76ad51625062b82bc69d98197a7345",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126043$E4F7AE31-2F0B-41F3-BB23-E8D117CEA323",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ne;n=de gand"
+          },
+          "hash": "e01646308f1f427037d22858e9ccbe4440d56adf",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126043$85E474A4-D758-4845-BC64-457BA5C89DC2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ne de Gand Arms.svg"
+          },
+          "hash": "7a787a69c44a1e52562fc305bfd767818eb8069f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1066 - 1150"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1066-1150)"
+    }
+  },
+  "id": "Q126043",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ne de Gand"
+    }
+  },
+  "lastrevid": 17539154,
+  "modified": "2025-09-17T07:33:34Z",
+  "ns": 860,
+  "pageid": 152497,
+  "sitelinks": {},
+  "title": "Item:Q126043",
+  "type": "item"
+}

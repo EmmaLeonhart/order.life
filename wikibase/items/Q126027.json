@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Geoffroy de Ferté-Ancoul"
+      },
+      {
+        "language": "en",
+        "value": "Geoffroy de Ferte-Ancoul"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q126027$00EDCD75-5F04-47BA-9FAF-01E102492BEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00174688"
+          },
+          "hash": "bef6d5663c19e27d0a2b596b2fea328da2297fe8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126027$58CF92E2-7204-402F-A702-A671177B7E67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126029",
+              "numeric-id": 126029
+            }
+          },
+          "hash": "4254835e588f55c92dc734991888bb09142b56a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126027$7FECBB79-ED57-44F9-8F45-DA6D5E80FD48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferté-Ancoul-2"
+          },
+          "hash": "31bf8e98102ec331e2cb3f6facd065f2d70d37f2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126027$B1C76C4A-0BEE-496C-8419-26AFC44EA1D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126027$1CEC3A83-FBD7-4B41-9865-D189E3C7C94C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126027$9757513D-DE3A-479B-A820-16E8CB7332FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Godefroi_De_Laferte-Gaucher_(1)"
+          },
+          "hash": "30c1b9fc55b8d53132ebf22b906568cf10f10abd",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126027$8F64FA38-623E-4B45-AF6A-4AAA6F1E9541",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120450",
+              "numeric-id": 120450
+            }
+          },
+          "hash": "1462723b3ecb9555708f0f3eb15eb49ff51794a5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126027$7DF854A5-9686-4FAF-99F5-91197A08A2CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126027$E5A7FA9D-BF91-4D91-BAB6-94E7765C8B4D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a954f8337ff1f1c2cc1debff495005b13d8e64a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126027$4BB72947-6A5F-44F3-8A3F-A49CB4877584",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q107361351"
+          },
+          "hash": "2d3a0cb0fb7cae9ab661bd26259b28a342e2c3ae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126027$103821B4-BD0A-4D9C-8D5F-77DD1376BCC4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=geoffroy;n=de la ferte ancoul"
+          },
+          "hash": "07f529edfae64da61b20e345d31a635731c29624",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126027$918D30C2-43DE-4AA4-9050-41928C0DE0D4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Geoffroy de Ferté-Ancoul Arms.svg"
+          },
+          "hash": "0f9802b7ec2e88d57c54f675653f6bf3b451f93f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1080-1132)"
+    }
+  },
+  "id": "Q126027",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Geoffroy de Ferté-Ancoul"
+    },
+    "es": {
+      "language": "es",
+      "value": "Geoffroy de Ferté-Ancoul"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Geoffroy de Ferté-Ancoul"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Годфруа де Ла Ферте-Гоше"
+    }
+  },
+  "lastrevid": 17539138,
+  "modified": "2025-09-17T07:33:21Z",
+  "ns": 860,
+  "pageid": 152475,
+  "sitelinks": {},
+  "title": "Item:Q126027",
+  "type": "item"
+}

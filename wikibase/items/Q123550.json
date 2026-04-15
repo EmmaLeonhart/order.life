@@ -1,0 +1,322 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberius Julius Cotys III"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q123550$0417A4BA-400B-4FE7-9857-7B068E6F3E89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "401201"
+          },
+          "hash": "6cc03d9f48bfdc7a66dce7ed9b6694bea3dbf340",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q123550$D343F24E-3D5E-4DE3-BB92-F8F89350CD93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736390"
+          },
+          "hash": "46dc645d7312169ba063bca9dd7c3119acabdc5d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q123550$037559D5-6EAA-4E72-8201-52CA5E4F5C8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151674",
+              "numeric-id": 151674
+            }
+          },
+          "hash": "e1fe3bac01e2adc4abcbe43e800a9208a1d327a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123550$A8423736-4EAE-4583-A1EF-83000DE49C36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151673",
+              "numeric-id": 151673
+            }
+          },
+          "hash": "66b1036cc3914bbe97fdb296b73b0e13e55268a9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q123550$11D1203E-5A72-48CB-BC26-0DBFE4C0149A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q123550$A59BFE65-5159-4478-881A-8CCF2BA0354A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q123550$2F3CB474-CE4C-4A21-BCCB-2AF45D8B627B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118386",
+              "numeric-id": 118386
+            }
+          },
+          "hash": "739efb99c5225b92f67630b7236f0c21cb4e1a5f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q123550$DF381DF8-3218-4BB7-9861-9E78D34A24B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q123550$C4931459-F862-4D96-B7FC-36DB03756A7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "368dc1e752474150a1da591be3284477af436fc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q123550$24336A6A-65C0-418C-A7A4-1D0141FA6705",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0235-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f5b71ffcaade8d68faa951b3430d1f2c064f4a46",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q123550$759934E0-CE7D-46E4-BD00-8F2A4A631094",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2998633"
+          },
+          "hash": "f3a0303239b7c9527b8fa57bf859cd641b89d219",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q123550$5F82067B-F796-4FE5-B128-F91640786FE4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberius Julius Cotys III Arms.svg"
+          },
+          "hash": "79505365305148492b57f522db80fcf605da04f3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Roman client state Bosporus from 228 to 234"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi du Bosphore"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Oude Rome (-235)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Bosporu"
+    }
+  },
+  "id": "Q123550",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Тиберий Юлий Котис III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cotis III del Bòsfor"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιβέριος Ιούλιος Κότυς Γ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberius Julius Cotys III"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cotis III del Bósforo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cotys III du Bosphore"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tiberius Julius Cotys III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kotys III"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Котис III"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tiberius Julius Cotys III"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Котіс III"
+    }
+  },
+  "lastrevid": 17536726,
+  "modified": "2025-09-17T07:00:10Z",
+  "ns": 860,
+  "pageid": 149159,
+  "sitelinks": {},
+  "title": "Item:Q123550",
+  "type": "item"
+}
