@@ -1,0 +1,401 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Andriscus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135943$3C32C92A-5352-47CB-95C2-4CA662604139",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00799524"
+          },
+          "hash": "3fb9054cc027b337be2d93036531f917d1f09b70",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135943$2056B85D-BD17-42D7-A1DD-7D67666EE986",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135943$436AD993-CDD8-44C3-BD06-5969F4FAE5C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135943$71DC876E-E356-4D89-840F-8A5F7D6EE8FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136186",
+              "numeric-id": 136186
+            }
+          },
+          "hash": "2fee39aa0341d98d94aa1dc16b5b77bad602ae0c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135943$4991ABE7-6D63-4796-8BAA-6210DFD347AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135943$59382C00-5796-4014-A006-D09F6071AEB4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0185-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "90c4c945418a11858ddc6e927b83515b7aa61285",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135943$3231AB82-1F58-4D6E-81DD-C83A3D7D94C3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0146-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dc00aa703869a5e5d8455d12e23a852ac2f689a5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135943$9928D429-1292-4D16-9DB1-F88EAEF36C1E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q362068"
+          },
+          "hash": "1b1ae3d850eb2d03432bb0d8044e0e1d43ace029",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135943$16721B2E-EE24-44C4-84C9-2FE1DC05E828",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andriscus Arms.svg"
+          },
+          "hash": "7b644498eb30798a9f9d53cca35e4485ab123680",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "pretendent del tron de Macedònia"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Makedonien"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century BCE Macedonian pretender"
+    },
+    "es": {
+      "language": "es",
+      "value": "aventurero griego conocido también como Filipo VI de Macedonia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "makedonialainen sotapäällikkö"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prétendant macédonien"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero greco antico"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "último rei da Macedônia (149-148 a.C.)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політик"
+    }
+  },
+  "id": "Q135943",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أندريسكوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Андриск"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Andrisc"
+    },
+    "da": {
+      "language": "da",
+      "value": "Andriskos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Andriskos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ανδρίσκος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andriscus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Andrisco"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Andriskos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Andriscos"
+    },
+    "id": {
+      "language": "id",
+      "value": "Andriskos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Andrisco"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンドリスコス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안드리스쿠스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Andriscus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Андриск"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Andriskos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Andriskos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Andrisco"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Andrisco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андриск"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Andrisk"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Андриск"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Andriskos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Андріск"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安德里斯库斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安德里斯库斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安德里斯库斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安德里斯庫斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安德里斯庫斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安德里斯库斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安德里斯庫斯"
+    }
+  },
+  "lastrevid": 17552333,
+  "modified": "2025-09-17T10:36:03Z",
+  "ns": 860,
+  "pageid": 164328,
+  "sitelinks": {},
+  "title": "Item:Q135943",
+  "type": "item"
+}

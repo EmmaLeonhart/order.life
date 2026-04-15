@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Archagathus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135596$6F803BFA-B4E1-46AF-8046-1B55AB3209B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1261204"
+          },
+          "hash": "89d9ceb70710cb4d601b041b27e7f97152e00c6a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135596$A2A814CD-3708-4E37-BED7-A5F1BBDB0CCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135744",
+              "numeric-id": 135744
+            }
+          },
+          "hash": "1e5bc82e833af630f1a9c1898fe5a83d7150244f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135596$700AAAA0-3E18-4217-9A06-B2255E79D4F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135596$BBB35C49-9644-4FC8-9DF5-40B7A69AEC48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135596$29DCF4F9-F99D-40AC-8E48-F27EA4721AB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135453",
+              "numeric-id": 135453
+            }
+          },
+          "hash": "3f31b3e19d9f5c97958115375cf47b45b49bacb4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135596$6E159647-1BB8-42B0-AF7A-077AB16F0B87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135595",
+              "numeric-id": 135595
+            }
+          },
+          "hash": "ae97aeb0fd7c6af104303b8d3ebed763449e8123",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135596$1093801C-DC70-45A0-83FD-0633E9EE192D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135596$32E0F7D0-CA05-448C-A33A-E8FE70857071",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135596$D31C26A0-1EF5-4CE4-8716-0F8A2D09387F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135596$9AA125A7-49C2-416C-8EE5-2C703814342F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2050698"
+          },
+          "hash": "ed9adcf2cdaa061762a602411f071bb34cc2f946",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135596$3C209C31-065C-42D9-BCC0-49483C3F61FF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Archagathus Arms.svg"
+          },
+          "hash": "12658a24f0c62a96927f9bf1065aa507a536e6e1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "γιος του Αγαθοκλή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Syracusan Greek Prince"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe siracusano, hijo de Agatocles y una mujer desconocida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince syracusain, fils d'Agathocle de Syracuse et d'une mère inconnue"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Agatocle di Siracusa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сиракузкий аристократ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "сіракузький аристократ"
+    }
+  },
+  "id": "Q135596",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Arcàgat"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρχάγαθος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Archagathus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Archagathus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Archagathus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arcagato"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Arkagato Sirakusakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Archagathos"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀρχάγαθος"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arcagato"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Archagathus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Архагат"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Archagathus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Архагат"
+    }
+  },
+  "lastrevid": 17551829,
+  "modified": "2025-09-17T10:28:48Z",
+  "ns": 860,
+  "pageid": 163981,
+  "sitelinks": {},
+  "title": "Item:Q135596",
+  "type": "item"
+}

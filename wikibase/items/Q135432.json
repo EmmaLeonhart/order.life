@@ -1,0 +1,728 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Λεωνίδας"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Leonidas I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135432$078B1A23-7E67-469D-8281-021ECAA3A07A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "695214"
+          },
+          "hash": "660d6a272bac0e3648575472121bcab78e7f9762",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135432$72D900E6-D732-4A7A-BFA7-564FC8ADE250",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135581",
+              "numeric-id": 135581
+            }
+          },
+          "hash": "21355a38e73b272b9d296538f4423b1fc3561e29",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135432$B5EE9CDB-0355-4902-A0A5-5280AC0094E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167038",
+              "numeric-id": 167038
+            }
+          },
+          "hash": "709009f9f62893bcb9723194bb6bac2731da2809",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135432$3D4389F3-F8D3-4F5E-B689-6549B927F6FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135432$2B617F42-6D13-4241-9832-AD62F2BFA8C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135432$C59950E8-9B1B-4B6F-8FE8-6F71597C5079",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135580",
+              "numeric-id": 135580
+            }
+          },
+          "hash": "b532f198f96c4808eba0d2b55279593d7b53c004",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135432$1FA4878E-97F9-4B1B-9E18-094B71512080",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167037",
+              "numeric-id": 167037
+            }
+          },
+          "hash": "2af7443fc78b3d28d4e4c2ab0b15b2f21301e751",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135432$8B17A0B1-361B-40DA-B603-2A317F653389",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135318",
+              "numeric-id": 135318
+            }
+          },
+          "hash": "d5466e7e7d40559b50bdd513a1b663bb984b3b75",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135432$0B6F5B85-B159-4FEC-9021-2D7EBBD041FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167003",
+              "numeric-id": 167003
+            }
+          },
+          "hash": "a30e373802025d52cd260b558ab3f94d18d5d3f1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135432$EC2362CF-4BDC-4040-8877-3E2A3F1F203F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167021",
+              "numeric-id": 167021
+            }
+          },
+          "hash": "eecd289dc4951cd6299f3b3271e47b6dabad8203",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135432$71695BF3-4E36-4CBA-848E-6B8FFDB27E5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135432$014C1966-93FA-40C1-A0DE-1ADB4AEBC6A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0480-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e10f0f13dbe5b8d590a556a5b722576a4a48cfe2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135432$8EF0DA9C-18EB-48AC-83EE-CD50B9308185",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q44228"
+          },
+          "hash": "f8138db23871386dec617c45854a58786799837d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135432$D1170689-F29A-470E-ABAA-5E9B67187127",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010659776193"
+          },
+          "hash": "45a22954794e4aabe2ab77d579074c2e6fc82fb7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135432$5A5EA37F-4DA7-4BBE-8CAE-CDCD4744BFE4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Leonidas I Arms.svg"
+          },
+          "hash": "61dc1c641d290edd4884f97110338b0ce8ced2c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أحد ملوك اسبرطة"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rei d'Esparta que va dirigir les forces gregues a una última estada a la Batalla de Termòpilea (480 aC)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "spartský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Sparta"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Sparta from c. 489 BC to 480 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Esparta"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Spartan kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ספרטה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "id": {
+      "language": "id",
+      "value": "raja Sparta ke-17"
+    },
+    "io": {
+      "language": "io",
+      "value": "Rejo di Sparta"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スパルタの王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스파르타 아기아다이 왕조의 17대 왕"
+    },
+    "la": {
+      "language": "la",
+      "value": "rex Spartae"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "斯巴達王，以勇士三百，力敵波斯大軍三十萬"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Sparta (-480v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Sparty"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "rege al Spartei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Спарты"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "spartansk kung"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sparta kralı ve Sparta Komutanı"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vua Sparta từ khoảng năm 489 TCN đến 480 TCN"
+    }
+  },
+  "id": "Q135432",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Leonidas I"
+    },
+    "an": {
+      "language": "an",
+      "value": "Leonidas I"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ليونيداس الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ليونيداس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Leónides I"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Leonid"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "لئونیداس"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Leonidas"
+    },
+    "be": {
+      "language": "be",
+      "value": "Леанід I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Леонид I"
+    },
+    "br": {
+      "language": "br",
+      "value": "Leonidas"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Leonida I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Leònides I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Leónidás I."
+    },
+    "da": {
+      "language": "da",
+      "value": "Leonidas 1."
+    },
+    "de": {
+      "language": "de",
+      "value": "Leonidas I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεωνίδας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Leonidas I"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Leonidaso la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Leónidas I"
+    },
+    "et": {
+      "language": "et",
+      "value": "Leonidas I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Leonidas I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لئونیداس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Leonidas I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Léonidas Ier de Sparte"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Leónidas I"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Λεωνίδας"
+    },
+    "he": {
+      "language": "he",
+      "value": "לאונידס הראשון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Leonida I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Leónidasz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լեոնիդաս I"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Leonidas"
+    },
+    "id": {
+      "language": "id",
+      "value": "Leonidas I"
+    },
+    "io": {
+      "language": "io",
+      "value": "Leonidas la 1ma"
+    },
+    "is": {
+      "language": "is",
+      "value": "Leónídas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Leonida I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "レオニダス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლეონიდასი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Леонид I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "레오니다스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Leonidas I"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Leonidas"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Leonidas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Leonids I"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "列奧尼達一世"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "I Леонидас"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Leonidas I"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Leonidas I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Leonidas I van Sparta"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Leonidas I"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Leonidàs Ièr"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Leonidas I"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Leonida I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Leónidas I de Esparta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Leônidas I de Esparta"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Leonidas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Леонид I"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Leonidas I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Leonida I"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Leónidas I."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Leonidas"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Leonidha I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Леонида I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Leonidas I av Sparta"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "முதலாம் லியோனிடாசு"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าลีออนิดัสที่ 1"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Leonidas I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Leonidas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Леонід I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لیونائداس اول"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Leonid"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Leonida I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Leonidas I"
+    },
+    "war": {
+      "language": "war",
+      "value": "Leonidas I"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "列奥尼达一世"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "列奧尼達一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "列奥尼达一世"
+    }
+  },
+  "lastrevid": 17551552,
+  "modified": "2025-09-17T10:24:48Z",
+  "ns": 860,
+  "pageid": 163817,
+  "sitelinks": {},
+  "title": "Item:Q135432",
+  "type": "item"
+}

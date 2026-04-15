@@ -1,0 +1,311 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Calydonian Boar"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q132795$F5392A4A-82E7-48F7-AE09-1A1E43CCF4A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132795$E1DDEDFE-F80F-40A0-9071-92577DAE72E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132795$55E7D055-DEDD-41B0-8E44-720411633413",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131622",
+              "numeric-id": 131622
+            }
+          },
+          "hash": "6a1741e37561e0885f0b37a694d43c9bc2320905",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132795$F10EFBD7-9A63-473D-B60D-C1BEC9F4054B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q654379"
+          },
+          "hash": "f81e1b880e9e333f29fd56b94c2e15b53f05193c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132795$025278EE-FAC4-4AC3-BDA3-383DC0A409C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Calydonian Boar Arms.svg"
+          },
+          "hash": "594367e9c3cbd0ce210cda0ac95bfe92de36876e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "mythisches Geschöpf"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythical creature"
+    },
+    "es": {
+      "language": "es",
+      "value": "criatura del mito griego"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "créature fantastique de la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "xabaril mitolóxico, obxecto dunha cacería épica"
+    },
+    "it": {
+      "language": "it",
+      "value": "creatura dell'antica mitologia greca"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の怪物"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "ogromen merjasec v grški mitologiji"
+    }
+  },
+  "id": "Q132795",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Kalidon ovu"
+    },
+    "be": {
+      "language": "be",
+      "value": "Калідонскае паляванне"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Калидонски глиган"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hoc'h-gouez Kalidon"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "senglar de Calidó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kalydonischer Eber"
+    },
+    "el": {
+      "language": "el",
+      "value": "Καλυδώνιος Κάπρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Calydonian Boar"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jabalí de Calidón"
+    },
+    "et": {
+      "language": "et",
+      "value": "Kalydoni metssiga"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گراز کالیدونیان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kalydonin metsäkarju"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sanglier de Calydon"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xabaril de Calidón"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kalüdóni vadkan"
+    },
+    "id": {
+      "language": "id",
+      "value": "Babi Kalidon"
+    },
+    "io": {
+      "language": "io",
+      "value": "Kalidonan apro"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cinghiale calidonio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カリュドーンの猪"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "칼리돈의 멧돼지"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aper Calydonius"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Béier vu Kalydon"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Kalidono šernas"
+    },
+    "my": {
+      "language": "my",
+      "value": "ကာလီဒိုးနီယန် တောဝက်"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Det kalydonske villsvin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Calydonische jacht"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dzik kalidoński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Javali calidônio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Калидонский вепрь"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kalidonski vepar"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kalidonski merjasec"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Калидонски вепар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kalydoniska vildsvinet"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kalidonya Yaban Domuzu Avı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Калідонський вепр"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cuộc săn lợn rừng Calydon"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡呂冬狩獵"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卡吕冬狩猎"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "卡呂冬狩獵"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "卡呂冬狩獵"
+    }
+  },
+  "lastrevid": 17546533,
+  "modified": "2025-09-17T09:13:38Z",
+  "ns": 860,
+  "pageid": 161180,
+  "sitelinks": {},
+  "title": "Item:Q132795",
+  "type": "item"
+}

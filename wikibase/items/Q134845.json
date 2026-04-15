@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mempricius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q134845$1D898516-1C18-4820-9B38-1F291649D3CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134883",
+              "numeric-id": 134883
+            }
+          },
+          "hash": "eabbcd60e52092842c9fa482943f0afc1f9a40a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134845$E561145A-F5D1-4F77-A7B0-DF91E9880D2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134845$AF892EF5-EB72-4F6E-AA1B-A3AC1CE3F838",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134845$1A45995C-01CE-4573-8620-4BDE48D0E5C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134757",
+              "numeric-id": 134757
+            }
+          },
+          "hash": "a3bfa6c8f4e7e791dda3327422effd80e2030c72",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134845$B7659913-8430-43BD-AAE7-C3BD016BE91A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q134845$47636CE2-5E7A-4831-950A-3901F6978E1B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1045-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cbcc949dff69f0b9d4f68ed396aad1713ce6b464",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134845$6E99628D-D845-4C54-8080-15471EDA4ADD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2052042"
+          },
+          "hash": "750be8812db61e3ce14ea7f1b677d816bb255c04",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134845$00B0B4A1-69F6-4110-9FD3-3532F8CD4FAC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mempricius Arms.svg"
+          },
+          "hash": "db145f9b0ef6c38127c5e067e0093c1bbf07895e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu inglés"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary king of the Britons"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi légendaire de l'île de Bretagne"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ブリトン人の伝説的王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Engeland (?-1045v Chr)"
+    }
+  },
+  "id": "Q134845",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Mempricius"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Meynbir"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mempricius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mempricius"
+    },
+    "et": {
+      "language": "et",
+      "value": "Mempricius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mempricius"
+    },
+    "he": {
+      "language": "he",
+      "value": "ממפריקיוס"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "メンプリキウス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "멤프리키우스"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mempricius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mempricius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мемприк"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mempricius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мемпрік"
+    }
+  },
+  "lastrevid": 17550502,
+  "modified": "2025-09-17T10:09:49Z",
+  "ns": 860,
+  "pageid": 163230,
+  "sitelinks": {},
+  "title": "Item:Q134845",
+  "type": "item"
+}

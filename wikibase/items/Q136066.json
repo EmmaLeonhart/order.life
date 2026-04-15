@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Melor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136066$76A79D6B-ACEE-4701-A885-7D661A093DAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "413629"
+          },
+          "hash": "6d59277cc08ab269c97611c7a7b354bd5fbf0f91",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136066$7069EA47-82AB-4FF8-B059-C488F421D880",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136066$79758A16-D765-42B2-BB41-EF6A85C59550",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136066$25CAD69C-B2D1-4F99-8BE7-1715B42E466F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135839",
+              "numeric-id": 135839
+            }
+          },
+          "hash": "8c6c0f48878c657fe7e980e42f888e262e34573b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136066$0B42B086-5988-4C14-9090-CC17AAB75B0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136066$E24B723A-67F0-426F-9B72-43380B3660A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0524-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0f060284a8338edd4b6d60206e8f869077de8b00",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136066$3CDA7D6D-8849-42F3-8EA4-7C2A2C74C703",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0544-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d9835fa50db05ee136c61cdcbc61e48ddce3ed63",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136066$257A2950-13F1-4637-A1BE-7977CEE8EA6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3463997"
+          },
+          "hash": "478d43d932aac5a52537350ccd1374ddb93f1f54",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136066$55D8EC04-6538-4B2A-B67A-839B7CAD14FC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Melor Arms.svg"
+          },
+          "hash": "94865260c5b9e9e6742c95537ec9e869217642c8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Breton saint"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "saint breton"
+    },
+    "la": {
+      "language": "la",
+      "value": "martyr in Britannia Armorica"
+    }
+  },
+  "id": "Q136066",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Melar"
+    },
+    "en": {
+      "language": "en",
+      "value": "Melor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Melor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Saint Méloir"
+    },
+    "la": {
+      "language": "la",
+      "value": "Melorus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Melor"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Méloir"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Méloir"
+    }
+  },
+  "lastrevid": 17552531,
+  "modified": "2025-09-17T10:38:54Z",
+  "ns": 860,
+  "pageid": 164451,
+  "sitelinks": {},
+  "title": "Item:Q136066",
+  "type": "item"
+}

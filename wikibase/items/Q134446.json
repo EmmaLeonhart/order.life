@@ -1,0 +1,760 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Medon"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q134446$58208954-9440-4A43-8937-DF397388519C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134446$AE0D0916-4164-4387-A455-4F25607366BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134446$A4B7519F-68C6-4969-A462-7F74F055E20E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133788",
+              "numeric-id": 133788
+            }
+          },
+          "hash": "2644005ec5b0bb1c0ccf1041c2c1e8dea394870b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134446$BEFDCE64-C54F-4F96-A386-5DB02E999597",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134446$7F0FC0C5-063D-4D89-B6E0-C8F6D829A418",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4810"
+          },
+          "hash": "117720003bece8b39a5bd2e80dd31d4d17f0857f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134446$2340B7AF-58EF-4390-AD19-CE1B0FA2172A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "150 BC Arms.svg"
+          },
+          "hash": "1242eb02b6fed1b44cfe5752472e4b85c9545328",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "jaar"
+    },
+    "an": {
+      "language": "an",
+      "value": "anyo"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سنة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سنه قبل الميلاد"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "añu"
+    },
+    "az": {
+      "language": "az",
+      "value": "İl"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "година"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "বছর"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "any"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "rok"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Çулталăк"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "blwyddyn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jahr"
+    },
+    "el": {
+      "language": "el",
+      "value": "έτος"
+    },
+    "en": {
+      "language": "en",
+      "value": "year"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "jaro de la 2-a jarcento antaŭ nia erao"
+    },
+    "es": {
+      "language": "es",
+      "value": "año"
+    },
+    "et": {
+      "language": "et",
+      "value": "aasta"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "vuosi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "année"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "bliain"
+    },
+    "gcr": {
+      "language": "gcr",
+      "value": "lannen"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "bliadhna"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "blein"
+    },
+    "he": {
+      "language": "he",
+      "value": "שנה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "év"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "տարեթիվ"
+    },
+    "id": {
+      "language": "id",
+      "value": "tahun kalender"
+    },
+    "io": {
+      "language": "io",
+      "value": "yaro"
+    },
+    "it": {
+      "language": "it",
+      "value": "anno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "年"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "연도"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Joer"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "ànno"
+    },
+    "mi": {
+      "language": "mi",
+      "value": "tau"
+    },
+    "min": {
+      "language": "min",
+      "value": "tahun"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "वर्ष"
+    },
+    "my": {
+      "language": "my",
+      "value": "သက္ကရာဇ်"
+    },
+    "myv": {
+      "language": "myv",
+      "value": "Ие"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "वर्ष"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "jaar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rok kalendarzowy w II wieku przed naszą erą"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "ano"
+    },
+    "rmy": {
+      "language": "rmy",
+      "value": "bersh"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "год II века до н. э."
+    },
+    "rw": {
+      "language": "rw",
+      "value": "umwaka"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "year"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "leto pred našim štetjem"
+    },
+    "te": {
+      "language": "te",
+      "value": "సంవత్సరం"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "taon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "yıl"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "рік"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "năm"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "anêye"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "年"
+    }
+  },
+  "id": "Q134446",
+  "labels": {
+    "ab": {
+      "language": "ab",
+      "value": "Ҳ. ҟ. 150"
+    },
+    "af": {
+      "language": "af",
+      "value": "150 v.C."
+    },
+    "ar": {
+      "language": "ar",
+      "value": "150 ق م"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "150 ق م"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "150 e.C."
+    },
+    "az": {
+      "language": "az",
+      "value": "E.ə. 150"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "150 v. Kr."
+    },
+    "be": {
+      "language": "be",
+      "value": "150 да н.э."
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "150 да н. э."
+    },
+    "bg": {
+      "language": "bg",
+      "value": "150 г. пр.н.е."
+    },
+    "bn": {
+      "language": "bn",
+      "value": "খ্রিষ্টপূর্ব ১৫০"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "150 p.n.e."
+    },
+    "ca": {
+      "language": "ca",
+      "value": "150 aC"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Sèng 150 nièng"
+    },
+    "crh": {
+      "language": "crh",
+      "value": "150 (m.e.)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "150 př. n. l."
+    },
+    "cv": {
+      "language": "cv",
+      "value": "П. эрч. 150"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "150 CC"
+    },
+    "da": {
+      "language": "da",
+      "value": "150 f.Kr."
+    },
+    "de": {
+      "language": "de",
+      "value": "150 v. Chr."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "150 v. Chr."
+    },
+    "el": {
+      "language": "el",
+      "value": "150 π.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "150 BC"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "150 BC"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "150 BC"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "-150"
+    },
+    "es": {
+      "language": "es",
+      "value": "150 a. C."
+    },
+    "et": {
+      "language": "et",
+      "value": "150 eKr"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "K. a. 150"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "۱۵۰"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "150 eaa."
+    },
+    "fo": {
+      "language": "fo",
+      "value": "150 f.Kr."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "150 av. J.-C."
+    },
+    "fy": {
+      "language": "fy",
+      "value": "150 f.Kr."
+    },
+    "ga": {
+      "language": "ga",
+      "value": "150 RC"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "-150"
+    },
+    "he": {
+      "language": "he",
+      "value": "150 לפני הספירה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "१५० ईसा पूर्व"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "150. pr. Kr."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. e. 150"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մ.թ.ա. 150"
+    },
+    "id": {
+      "language": "id",
+      "value": "150 SM"
+    },
+    "io": {
+      "language": "io",
+      "value": "150 aK"
+    },
+    "it": {
+      "language": "it",
+      "value": "150 a.C."
+    },
+    "ja": {
+      "language": "ja",
+      "value": "紀元前150年"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ძვ. წ. 150"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Б. з. д. 150 жыл"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "기원전 150년"
+    },
+    "la": {
+      "language": "la",
+      "value": "150 a.C.n."
+    },
+    "lb": {
+      "language": "lb",
+      "value": "150 v. Chr."
+    },
+    "lij": {
+      "language": "lij",
+      "value": "150 a.C."
+    },
+    "lt": {
+      "language": "lt",
+      "value": "150 m. pr. m. e."
+    },
+    "mg": {
+      "language": "mg",
+      "value": "-150"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "150 п.н.е."
+    },
+    "ml": {
+      "language": "ml",
+      "value": "150 ബി.സി."
+    },
+    "mr": {
+      "language": "mr",
+      "value": "इ.स.पू. १५०"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "150 SM"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kí-goân-chêng 150 nî"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "150 AC"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "150 f.Kr."
+    },
+    "nds": {
+      "language": "nds",
+      "value": "150 v. Chr."
+    },
+    "ne": {
+      "language": "ne",
+      "value": "ई.पू. १५०"
+    },
+    "new": {
+      "language": "new",
+      "value": "इ॰ पू॰ १५०"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "150 v.Chr."
+    },
+    "nn": {
+      "language": "nn",
+      "value": "-150"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "-150"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "150 p.n.e."
+    },
+    "pt": {
+      "language": "pt",
+      "value": "150 a.C."
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "150 a.C."
+    },
+    "qu": {
+      "language": "qu",
+      "value": "150 kñ"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "150 î.Hr."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "150 год до н. э."
+    },
+    "rue": {
+      "language": "rue",
+      "value": "150 до н. е."
+    },
+    "sh": {
+      "language": "sh",
+      "value": "150. pne."
+    },
+    "shn": {
+      "language": "shn",
+      "value": "ပီႇၸီႇ 150"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "150 pred Kr."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "150 pr. n. št."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "150 p.e.s."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "150. п. н. е."
+    },
+    "su": {
+      "language": "su",
+      "value": "150 SM"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "150 f.Kr."
+    },
+    "sw": {
+      "language": "sw",
+      "value": "150 KK"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கிமு 150"
+    },
+    "te": {
+      "language": "te",
+      "value": "150 బీసీ"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Соли 150 п.м."
+    },
+    "th": {
+      "language": "th",
+      "value": "พ.ศ. 394"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "150 BC"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "MÖ 150"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "150 ел"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "150 до н. е."
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Mil. av. 150"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "150 a.C."
+    },
+    "vi": {
+      "language": "vi",
+      "value": "150 TCN"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "150 b.K."
+    },
+    "war": {
+      "language": "war",
+      "value": "150 UC"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "前150年"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ჯვ. წ. 150"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "150 SK"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "前150年"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "前150年"
+    }
+  },
+  "lastrevid": 17549738,
+  "modified": "2025-09-17T09:59:05Z",
+  "ns": 860,
+  "pageid": 162831,
+  "sitelinks": {},
+  "title": "Item:Q134446",
+  "type": "item"
+}

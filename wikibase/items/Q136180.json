@@ -1,0 +1,483 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Attalus III"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136180$90E4060C-F8C5-4B19-89ED-443F6E958D24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736576"
+          },
+          "hash": "555a226ba1d4341f685585b7983d27e8d549f843",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136180$7DA740BC-2ADA-4961-B7F5-97A7E3456A0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136180$2F7459FA-1FE8-47E3-969F-4292A8D8B6DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136180$D76E0ECD-04FE-4E5C-A17E-B81B428E2086",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136441",
+              "numeric-id": 136441
+            }
+          },
+          "hash": "16fff0135c31c2aa1b59dce3bb045491db93a603",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136180$F0AC3C44-7D3E-4813-BA96-F5C499BAAE06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136178",
+              "numeric-id": 136178
+            }
+          },
+          "hash": "61f1eff3909ca0299336c8d3c23a9da3bb2218be",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136180$AA64492F-3E97-4114-A18D-9590BB3F6121",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135935",
+              "numeric-id": 135935
+            }
+          },
+          "hash": "70504271a68f0a209f89606313ec684b6115dda6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136180$3F8AB221-3E23-4510-B2C0-D51A23F9FCE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136180$7CC6433E-8F10-411C-9582-0A474C61521E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd5bb147bda1a3aa3d10543c56457dbb6ba497a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136180$90B35C8F-15F7-42DF-921E-38A6C4E57AF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0133-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e803693026f38db542632c4eaa6cbaf8a954d367",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136180$459EF464-0D5F-47A9-9720-622CBF14BD46",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q309804"
+          },
+          "hash": "f4f9624b2d53d30c77f8da159abbbba496634c21",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136180$8CE6EE64-D7D2-4CAA-97BC-FF3D65F5A8BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Attalus III Arms.svg"
+          },
+          "hash": "5bdbee39a7a5ecb23d6514b12a49be81293d0b19",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "konge af Pergamon"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Pergamon"
+    },
+    "el": {
+      "language": "el",
+      "value": "ηγεμόνας του ελληνιστικού βασιλείου της Περγάμου, μέλος της Δυναστείας των Ατταλιδών"
+    },
+    "en": {
+      "language": "en",
+      "value": "Attalid King of Pergamon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Pergame"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pergamon görög polisz uralkodója"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Pergamon"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Pergamo (r. 138-133 a.C.)"
+    },
+    "la": {
+      "language": "la",
+      "value": "rex Pergamenus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Pergamon"
+    }
+  },
+  "id": "Q136180",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Attalus III van Pergamum"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أتالوس الثالث"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اتالوس التالت"
+    },
+    "be": {
+      "language": "be",
+      "value": "Атал III"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Атал III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Àtal III de Pèrgam"
+    },
+    "da": {
+      "language": "da",
+      "value": "Attalos 3."
+    },
+    "de": {
+      "language": "de",
+      "value": "Attalos III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Άτταλος Γ' της Περγάμου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Attalus III"
+    },
+    "es": {
+      "language": "es",
+      "value": "Atalo III"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Atalo III.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آتالوس فیلومتر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Attalos III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Attale III"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Άτταλος Γ΄"
+    },
+    "he": {
+      "language": "he",
+      "value": "אטלוס השלישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Atal III."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Attalosz pergamoni király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ատտալոս III"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Attalo III"
+    },
+    "id": {
+      "language": "id",
+      "value": "Attalos III"
+    },
+    "it": {
+      "language": "it",
+      "value": "Attalo III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アッタロス3世"
+    },
+    "la": {
+      "language": "la",
+      "value": "Attalus III"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Attalos 3."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Attalus III van Pergamon"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Attalos 3."
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Attalos III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Átalo III"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Átalo III"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Attalus al III-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аттал III"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Atal III"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Atal III."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Атал III"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Атал III"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Atal III"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Attalos III av Pergamon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Attalos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аттал III"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Attalos III"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿塔罗斯三世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿塔罗斯三世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿塔罗斯三世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿塔羅斯三世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿塔羅斯三世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿塔罗斯三世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿塔羅斯三世"
+    }
+  },
+  "lastrevid": 17552693,
+  "modified": "2025-09-17T10:41:10Z",
+  "ns": 860,
+  "pageid": 164565,
+  "sitelinks": {},
+  "title": "Item:Q136180",
+  "type": "item"
+}

@@ -1,0 +1,552 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amon of Judah"
+      },
+      {
+        "language": "en",
+        "value": "Amon King of Judah"
+      },
+      {
+        "language": "en",
+        "value": "Amon  King of Judah"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135232$503F57BB-4F79-4C6B-AD3D-C4FF9B713812",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "79451"
+          },
+          "hash": "b811ab1738ce3236a31f769329199af22d6cec87",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135232$EC0ABD74-E1CE-4C81-AE19-0544AC04EEEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135301",
+              "numeric-id": 135301
+            }
+          },
+          "hash": "ed355ac62a2fb14f7f2232e4fc2d9805811ccc9c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135232$63721D4A-94C3-41FF-95F5-3E8C9DE84B05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135232$0FBAB39F-73FB-44DF-AE5D-1DC73779795F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135232$A2512E9D-6160-4A33-BEB5-895B589DDD0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4628",
+              "numeric-id": 4628
+            }
+          },
+          "hash": "bd180f9e89ed9c3f1f24fcdc7d6281c430d113bc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135232$C933D5F2-8DF3-4BE5-969A-C27A1E9106F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135184",
+              "numeric-id": 135184
+            }
+          },
+          "hash": "91b9a2ac68b39bf6fb19cff8c07aa5f373a1754c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135232$67DA8974-E636-4102-8B46-07765B061FE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4630",
+              "numeric-id": 4630
+            }
+          },
+          "hash": "edf37cf34fc3c9f13199b4a35517358c5ae46c57",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135232$58C5EADE-1D5D-44EE-90D6-B60E39B1BEAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135232$E68ED03A-B7F0-4850-B694-8C1071687E50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0664-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05ea9879ebc1eb10e16870eed94fb73f695fd768",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135232$D5659462-D26D-497E-9C8D-140AF613D055",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0640-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b135c1ef91fd7bec74aaa51ce6930a1345406576",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135232$59A588B9-D8EA-4223-ACED-E30EE0A42FC4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313423"
+          },
+          "hash": "f4ba62666d1cc141c29bbd16bc26092aaa2bbb4b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135232$AEAA6247-7B4C-4749-94ED-5AFDB6FC79A3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amon of Judah Arms.svg"
+          },
+          "hash": "e5a8b510a9e760712c4fbc585eb11c5ff484725c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "judský král"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin Jwda"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Juda"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς του Ιούδα"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Judah noted in 2 Kings 21:18"
+    },
+    "es": {
+      "language": "es",
+      "value": "(15º) décimo quinto de Judá"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית. מלך יהודה בין השנים 642-641 לפנה\"ס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Júda királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Giuda"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "유다의 왕"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Judy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei de Judá"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yehuda kralı"
+    }
+  },
+  "id": "Q135232",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Amon"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أمون ملك يهوذا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "امون ملك يهوذا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Амон, цар іудзейскі"
+    },
+    "br": {
+      "language": "br",
+      "value": "Amon"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Amon"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Amón"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Амон"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Amon Jwda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Amon"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αμών"
+    },
+    "en": {
+      "language": "en",
+      "value": "Amon of Judah"
+    },
+    "es": {
+      "language": "es",
+      "value": "Amón de Judà"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آمون یهودا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aamon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Amon"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Amon fan Juda"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Â-mùn-vòng"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ámón júdai király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Amon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Amon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アモン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아몬"
+    },
+    "la": {
+      "language": "la",
+      "value": "Amon"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Amona (mpanjakan'i Jodà)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Амон"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Amon av Juda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amon van Juda"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Amon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Amom de Judá"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Amom de Judá"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Amon, rege al Iudeei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Амон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Amon od Jude"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Amon of Judah"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Амон"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Амон"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Amon"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Amon"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Mfalme Amoni"
+    },
+    "th": {
+      "language": "th",
+      "value": "อาโมนแห่งยูดาห์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Amon ng Juda"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Amon"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Амон"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آمون (بادشاہ یہوداہ)"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Amon"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "אמון"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "亞們"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞們"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "亚们"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "亚们"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "亞們"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "亞們"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "亚们"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "亞們"
+    }
+  },
+  "lastrevid": 17551204,
+  "modified": "2025-09-17T10:19:51Z",
+  "ns": 860,
+  "pageid": 163617,
+  "sitelinks": {},
+  "title": "Item:Q135232",
+  "type": "item"
+}

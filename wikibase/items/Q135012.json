@@ -1,0 +1,473 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hannah"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135012$BA0B1D19-5C66-47BA-B086-B8A61E6752A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135014",
+              "numeric-id": 135014
+            }
+          },
+          "hash": "ab88b7de4740b4005718d28392b2b60e3b4ba3c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135012$6967DC8F-E9F9-4549-BEE4-890A3F9CD1B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135012$5AB03B49-4AA9-4596-AD00-C1B3362DCDD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135012$D17B189C-D0CF-4ED8-91A8-D83063838945",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134994",
+              "numeric-id": 134994
+            }
+          },
+          "hash": "bc69a48897086e15b902f9d642d8a145535ae4e5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135012$7E9E56F4-8D0A-4E7A-BA62-81A93B09689C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135012$1D2A8B3C-EE9D-4F8E-AFAC-6A63EC22C620",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135012$89A80970-EAD8-45FE-ADAF-19EEACD28B02",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0f06eb64a36ac7576bf4a559a229ea93027f7a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135012$27821916-DB88-482C-916D-7A3A9CA55D2E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2346367"
+          },
+          "hash": "b44c5e36a4511a45db925033a24b0ddce2b1adba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135012$3CA21622-FC83-46BD-9649-017C6B338797",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hannah Arms.svg"
+          },
+          "hash": "af10b4a789d2d8d12b2678d4fc49ac5acf65560f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "bibelsk person, mor til dommeren Samuel"
+    },
+    "de": {
+      "language": "de",
+      "value": "Frau Elkanas und Mutter des Propheten Samuel"
+    },
+    "el": {
+      "language": "el",
+      "value": "μητέρα του Σαμουήλ στην Παλαιά Διαθήκη"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical character mentioned in the Books of Samuel"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "unu el la edzinoj de Elkana en la Libroj de Samuelo"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje bíblico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique, femme d'Elkana, mère de Samuel"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמו של שמואל הנביא"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della Bibbia, madre di Samuele"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사무엘의 어머니"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bijbel"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ana mae do samuel"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "mama prorocului Samuel"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kvinna i Gamla testamentet"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (1. Samuel 1:2)"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سموئیل کی ماں، القانہ کی بیوی"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "《圣经》人物"
+    }
+  },
+  "id": "Q135012",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Hanna"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "حنة (زوجة ألقانة)"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "حنه (زوجة القانه)"
+    },
+    "az": {
+      "language": "az",
+      "value": "Peyğəmbər Hənnə (Əhdi-ətiq)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Anna"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Anna"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Хьаннат"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Hanna"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hanna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hanna"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Hanna (Bibel)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άννα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hannah"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Hannah (biblical figure)"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Hannah (biblical figure)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ĥana"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ana"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ana (Biblia)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anne"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Hanná"
+    },
+    "he": {
+      "language": "he",
+      "value": "חנה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hana"
+    },
+    "it": {
+      "language": "it",
+      "value": "Anna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハンナ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანა წინასწარმეტყველი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "한나"
+    },
+    "la": {
+      "language": "la",
+      "value": "Anna"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഹന്ന"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hanna"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hanna"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Anna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ana"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ana (mãe de Samuel)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анна Пророчица"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "حنہ"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ана пророчица"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ана пророчица"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Ana proročica"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hanna"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Ana"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฮันนาห์"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hanna"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Анна Пророчиця"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "حنہ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "哈拿"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "哈拿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "哈拿"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "哈拿"
+    }
+  },
+  "lastrevid": 17550810,
+  "modified": "2025-09-17T10:14:15Z",
+  "ns": 860,
+  "pageid": 163397,
+  "sitelinks": {},
+  "title": "Item:Q135012",
+  "type": "item"
+}

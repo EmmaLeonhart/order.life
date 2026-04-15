@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eunostus of Soli"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135348$233C7F59-BAD7-46DF-BCA9-38C49422B889",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135348$6C3730A1-BB1D-4A7C-9DED-30633AC36E9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135348$45A3A4B5-A8AB-4A99-8DE5-05A67D277F25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135263",
+              "numeric-id": 135263
+            }
+          },
+          "hash": "6f06b9b3352bcaa79a50368439d0aa0e87b813dc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135348$6FCB9F70-E288-45BE-A96E-255D4B075C87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135486",
+              "numeric-id": 135486
+            }
+          },
+          "hash": "8e35d566d7fdedc1a5f3c9e99a3f3aeada2cc5de",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135348$9B3D1FC7-10D9-4FB6-984A-4DBD2B2AA4BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135348$8F6820E5-D9F3-4D62-A638-61462A04ABFC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135348$9BD83A2C-0F82-4911-8D39-27B10735BC40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1374006"
+          },
+          "hash": "f47b511caeb4b54bb8fd0f9cb6b8620bd782317b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135348$A829A183-5C9E-43AF-A501-E2426F4FFF93",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eunostus of Soli Arms.svg"
+          },
+          "hash": "bfa058987c063d47e95949a95e496d2a378627fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Stadtkönig von Soloi auf Zypern"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Soli, Cyprus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Soles"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q135348",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Eunostos"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eunostus of Soli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eunostos de Soles"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Εὔνοστος"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eunosto di Soli"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eunostus of Soli"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эвност"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Евност"
+    }
+  },
+  "lastrevid": 17551400,
+  "modified": "2025-09-17T10:22:37Z",
+  "ns": 860,
+  "pageid": 163733,
+  "sitelinks": {},
+  "title": "Item:Q135348",
+  "type": "item"
+}

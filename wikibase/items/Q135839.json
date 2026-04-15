@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Miliau"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135839$B02D3C3C-E36C-4432-889A-6463A4611D8C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "147716"
+          },
+          "hash": "4591d04301c123df08f6f54271f7ec2da087d63b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135839$8BB75991-1D5D-4565-A4D6-4DF35B65631B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136066",
+              "numeric-id": 136066
+            }
+          },
+          "hash": "d826d458354b0f553f127aa684cca326ad7606a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135839$8E19FFC8-980B-4FF2-AEF2-42F25A376934",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135839$2B3325EA-CB01-49ED-8F01-97398F1B8A66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135839$20244FB6-23EA-4427-9069-F7607D847578",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135838",
+              "numeric-id": 135838
+            }
+          },
+          "hash": "7644b55bc8ad3035f6266533048cb4e55e9148bb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135839$61D13EDD-7825-4825-9770-6DE0225050A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135839$4E2B2984-7558-47CE-B317-051CD161C8AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0470-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d4bb2603b8b2cc2454ed35610cfe99e2e629fa65",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135839$06A5A21D-EB21-4711-BD2B-BCD36BCF5F7E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0531-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "92db2f8c3be16016a4218b6163a4a366dd62bb2c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135839$9E6DEC1B-5970-484C-99F6-CD6083BC2669",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2086826"
+          },
+          "hash": "46d943011a9c238ad28ad19e323ab6bc2063fdbf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135839$AB1F75F6-F863-4C6E-AB45-02C55170B93A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Miliau Arms.svg"
+          },
+          "hash": "84216bf6410039ba1773c7152d387d9e9f238cac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "volkstümlicher bretonischer Heiliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Breton saint"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "ancien roi celte"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "santo bretón"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Арморики"
+    }
+  },
+  "id": "Q135839",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Miliav"
+    },
+    "de": {
+      "language": "de",
+      "value": "Miliau"
+    },
+    "en": {
+      "language": "en",
+      "value": "Miliau"
+    },
+    "es": {
+      "language": "es",
+      "value": "Miliau"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Miliaw de Cornouailles"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Miliau"
+    },
+    "it": {
+      "language": "it",
+      "value": "Milio di Cornovaglia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Miliau van Tréguier"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мелю"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Mìlio de Cornovaja"
+    }
+  },
+  "lastrevid": 17552217,
+  "modified": "2025-09-17T10:34:21Z",
+  "ns": 860,
+  "pageid": 164224,
+  "sitelinks": {},
+  "title": "Item:Q135839",
+  "type": "item"
+}

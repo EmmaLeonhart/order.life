@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Argeus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q134554$390B1AA2-B8E6-4B26-9071-395509236314",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134554$7A53A631-A36A-4700-96E5-13210F1ABC3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134554$25712FBB-7BC2-415B-B884-8AB14A1A152B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134077",
+              "numeric-id": 134077
+            }
+          },
+          "hash": "3ff6f1007eed09e3a11e31e7f57390d4919c7770",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134554$79C2B450-55B7-468E-B104-17176223AAD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134071",
+              "numeric-id": 134071
+            }
+          },
+          "hash": "ff82296ff7e2c81a6bcb891a7ff97f3c5503a372",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134554$AE68556E-58B5-4AEF-A0B9-4C48C584AD14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134554$7C8F025C-FCA8-4C58-8E3F-32E09A24F132",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15783911"
+          },
+          "hash": "0912819fffa204b876511a784c3abc1cb5006984",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134554$92D65722-9F77-4172-9DF5-AEF61DE670CB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Argeus Arms.svg"
+          },
+          "hash": "ea91211face6aa270dbf90a538811a6cd6b6a5b7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Fill de Licimni"
+    },
+    "de": {
+      "language": "de",
+      "value": "Figur der griechischen Mythologie, Sohn des Likymnios"
+    },
+    "el": {
+      "language": "el",
+      "value": "μυθολογικό πρόσωπο, γιος του Λικύμνιου και της Περιμήδης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek mythological character, son of Licymnius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fils de Licymnios et de Périmédé"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Licimnio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Ликимния"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi kişi"
+    }
+  },
+  "id": "Q134554",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Argeu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Argeios"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αργείος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Argeus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Argéios"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀργεῖος"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Argeiosz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Argeio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Argeus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аргей"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Likymnios oğlu Argeos"
+    }
+  },
+  "lastrevid": 17549948,
+  "modified": "2025-09-17T10:02:00Z",
+  "ns": 860,
+  "pageid": 162939,
+  "sitelinks": {},
+  "title": "Item:Q134554",
+  "type": "item"
+}

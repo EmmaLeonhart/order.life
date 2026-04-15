@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dwynwen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136027$532CE2CF-DEB3-4387-9CE8-BED9D12F47A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136027$E9F429BE-59CB-4C4B-9AD2-512F994E6B3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136027$713E9652-ADB3-418C-92AF-9F59E6D67ED6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135820",
+              "numeric-id": 135820
+            }
+          },
+          "hash": "5a0062623d1c14d1d48cb35c196db69fc0f4abd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136027$59425B39-F027-4948-9C29-A5081CA54477",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136027$3F059C32-01FF-4C2F-B52D-7644F60987A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136027$B31111EE-ABFC-45DA-8675-3A9741037104",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0460-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f59935d604f4db0ee3f94da925dedc47ccb40c9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136027$660BFEF6-F58D-4B50-B60B-ED8F0A1D0ECC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2287423"
+          },
+          "hash": "25c989e4527652afbc32feffdf53f1e43d2f9533",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136027$43C0EB2B-3372-49C5-A8D7-C5A1C644D68E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dwynwen Arms.svg"
+          },
+          "hash": "ced5e26dc43d17004b74ee4c62fb9e3b8c5b1931",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "santes Geltaiddd o'r 5g"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century Welsh saint"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "naomh Breatnach sa 5ú haois"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "religieus leider uit Wales (-460)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "walijska patronka kochanków"
+    }
+  },
+  "id": "Q136027",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dwynwen"
+    },
+    "br": {
+      "language": "br",
+      "value": "Dwynwen"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Dwynwen ach Brychan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dwynwen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dwynwen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dwynwen"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Dwynwen ach Brychan"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Dwynwen"
+    },
+    "id": {
+      "language": "id",
+      "value": "Dydd Santes Dwynwen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Dwynwen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ドウィン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dwyn"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dwynwen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дуйнвен"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Dwynwen"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Dwynwen"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Dwyn"
+    }
+  },
+  "lastrevid": 17552455,
+  "modified": "2025-09-17T10:37:48Z",
+  "ns": 860,
+  "pageid": 164412,
+  "sitelinks": {},
+  "title": "Item:Q136027",
+  "type": "item"
+}

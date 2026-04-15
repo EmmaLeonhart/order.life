@@ -1,0 +1,648 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Croesus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135659$FF58F739-77A5-448B-954F-18A7B708D60D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139852"
+          },
+          "hash": "e1c2ef4d3b18d34a25ee7620df7e5fbe3aa290f8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135659$E5370A68-A953-4259-850D-60CA9ED3D64F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738288"
+          },
+          "hash": "ba926749022d9e728beced44765ce6d0b10f6009",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135659$AABA169E-9AAA-4BC7-86E4-0B57478A83C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135790",
+              "numeric-id": 135790
+            }
+          },
+          "hash": "567fe4241119511df1b9f2cd8615ce69242cff65",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135659$C48E770D-C06D-4025-8C31-D0918C359ECD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135659$C49A5E5E-CE64-405E-98D7-287014C641E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135659$E1D5ACDD-80D7-40DA-AB29-2D7677EE125B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74458",
+              "numeric-id": 74458
+            }
+          },
+          "hash": "758c03950e14f8a752365550e34ad0165abe3b87",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135659$8EAFB6E8-4AFD-4C67-9321-56AE39FB66F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135659$9F92871A-F255-49FD-A314-2EAA345EC747",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0596-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a1ed0a4d801041ec7594cbe8b085e9ca571ee6d0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135659$04615940-2D88-4C2C-90F7-C00DA0308F9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q184462"
+          },
+          "hash": "60930ce0eaa07bbf7ce131a46fc44c7dccd7709c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135659$B29401DB-75E7-4D35-B07C-0FEA548115B9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Croesus Arms.svg"
+          },
+          "hash": "235eb2845c8807eb278623e0aa2ce8fe3330113b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q135659$B90CE830-35AF-45D3-9DE2-E9D68B63B45B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/13DA75DF-2245-425F-B0F6-BBAEF4FBC54F"
+          },
+          "hash": "ee4ca72cec1b54bf4b55a567c6bfbd3b2e1b1fa1",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "koning van Lidië"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Крёз — Лидияның һуңғы батшаһы, 560—546 йылдарҙа хакимлыҡ иткән"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "лідыйскі кароль"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de Lídia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "lýdský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König Lydiens"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς της Λυδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Lydia"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Lidia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه لیدیه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lyydian kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Lydie et dernier souverain de la dynastie des Mermnades (vers 596-Vers 546 av. J.-C.)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rei de Lidia"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך לידיה"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Wa nan Lidi"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori lüd király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Lidia"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Keyê Lîdyayê"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "staatsman"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Lidii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Лидии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lidya kralı"
+    }
+  },
+  "id": "Q135659",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Croesus"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "كرويسوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كروسوس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Cresu"
+    },
+    "az": {
+      "language": "az",
+      "value": "Krez"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Крёз (Лидия батшаһы)"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Croesus"
+    },
+    "be": {
+      "language": "be",
+      "value": "Кроз"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Кроз"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Крез"
+    },
+    "br": {
+      "language": "br",
+      "value": "Kroissos"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cressus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kroisos"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Крёз (Лидия патши)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Krøsus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Krösus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κροίσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Croesus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Krezo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Creso"
+    },
+    "et": {
+      "language": "et",
+      "value": "Kroisos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Kreso"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کرزوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kroisos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Crésus"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Kroesus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Creso"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κροῖσος"
+    },
+    "he": {
+      "language": "he",
+      "value": "קרויסוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Krez"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Krezis"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kroiszosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կրեսոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kroisos"
+    },
+    "is": {
+      "language": "is",
+      "value": "Krösos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Creso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クロイソス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კრეზი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Крез"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "크로이소스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Kroîsos"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Kroîsos"
+    },
+    "la": {
+      "language": "la",
+      "value": "Croesus"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Croesus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Крез"
+    },
+    "my": {
+      "language": "my",
+      "value": "ကရီးဆပ်ဘုရင်"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Krøsus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Croesus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Krøsus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Cresus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Krezus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Creso"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Creso"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Cresus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Крёз"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Croesus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Krez"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kroisos"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Krez"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Croesus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Крез"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Крез"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Krez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Krösus"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Kroisos"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கிரீசசு"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kroisos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Крез"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Krez"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Kroisos"
+    },
+    "war": {
+      "language": "war",
+      "value": "Croesus (hadi)"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "克罗伊斯"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "კრეზი"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "克羅伊斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "克羅伊斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "克罗伊斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "克罗伊斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "克羅伊斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "克羅伊斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "克罗伊斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "克羅伊斯"
+    }
+  },
+  "lastrevid": 17551923,
+  "modified": "2025-09-17T10:30:09Z",
+  "ns": 860,
+  "pageid": 164044,
+  "sitelinks": {},
+  "title": "Item:Q135659",
+  "type": "item"
+}

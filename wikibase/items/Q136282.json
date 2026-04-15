@@ -1,0 +1,363 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cadell ap Elisedd"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136282$320F6DA9-B4F0-43A2-B0D7-F2BC07CC0614",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00456164"
+          },
+          "hash": "be3049fdd036def6857aad58982bf018803dcfc7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136282$5907BDF7-AE57-4FDD-A93A-8DC16096CE83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136283",
+              "numeric-id": 136283
+            }
+          },
+          "hash": "9657a78673618f2ad2bbec31816523912c0d6e71",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136282$6B837404-605E-42B7-9CA8-7DA79303B203",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136054",
+              "numeric-id": 136054
+            }
+          },
+          "hash": "645d1e76d188dff87c0c62426f4b60f1520f8331",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q136282$E28D6C52-3801-44A0-9E6D-BA558973C17A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Brochwel-9"
+          },
+          "hash": "203d52146be746e21a7caa3ec7e282b3269e5bbb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136282$ECD7C953-E2DA-4333-8EF0-F6F91518EA37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136282$6A3C8E72-C918-4EF1-B299-6DD30B5F355C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136282$E0619D20-AE1A-4BB7-AB27-01CF647DBF7C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cadell_ap_Elisedd_(1)"
+          },
+          "hash": "84d598d98cbaa4877f99f5f4f182155813205321",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136282$EE881B99-CB60-4F04-AD08-D1FABFB5D7CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136547",
+              "numeric-id": 136547
+            }
+          },
+          "hash": "1ff6b0f0d321538881b67e7219e5fd63532aa5f4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136282$D889E0F0-6BD2-485E-886A-8088EFB63D85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136282$A1A9F8E4-0CF4-496D-B2D3-C09486FF8F7B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0800-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da10f947cef07e79febc7fa6eaeda36d2594d776",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136282$040EAA8E-4787-4014-80D0-6514D76180A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0808-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fabb0b4f6cbabdc3ed2d14538f29322de9e13ac4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136282$88C27A5C-1836-4728-8683-80A5050AB233",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888771"
+          },
+          "hash": "7100c7e2c79f4f99114c5a9cb1cf3e7369682238",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136282$831F0A89-558B-422D-A2B0-2B6E82B46025",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cadell ap Elisedd Arms.svg"
+          },
+          "hash": "8f1d4064141d47a0d76914c1ee14344ca7ad8b0b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin Powys"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Powys (Wales)"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Powys"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Powys"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Powys"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Поуиса"
+    }
+  },
+  "id": "Q136282",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Cadell ab Elisedd"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cadell ap Elisedd"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cadell Powys"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cadell ap Brochfael"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cadell ap Elisedd"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cadell ap Elisedd"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cadell ap Brochfael"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cadell ap Elisedd"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カデス・アプ・ブロフヴァエル"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cadell ap Elisedd"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Каделл ап Брохвайл"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cadell ap Elisedd"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡德尔·阿普·布罗赫韦尔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卡德尔·阿普·布罗赫韦尔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "卡德爾·阿普·布羅赫韋爾"
+    }
+  },
+  "lastrevid": 17552861,
+  "modified": "2025-09-17T10:43:32Z",
+  "ns": 860,
+  "pageid": 164667,
+  "sitelinks": {},
+  "title": "Item:Q136282",
+  "type": "item"
+}

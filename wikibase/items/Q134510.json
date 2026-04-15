@@ -1,0 +1,623 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Enos"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q134510$526FA843-0012-4DC4-9D4A-27C16B6DB2FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32375|361715"
+          },
+          "hash": "ccda8f7bf87916319a16d84b8587154c419acdd8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q134510$5B57BF8C-6D61-4971-BF0C-C2C75255A62F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134749",
+              "numeric-id": 134749
+            }
+          },
+          "hash": "f4fa2dbbc7c3af11bbf44112429639b92229fdf7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134510$7A502B70-2A6F-4A2D-987E-1B091B035A37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134022",
+              "numeric-id": 134022
+            }
+          },
+          "hash": "25585fa850c1db309d10d7da461f8e45bb64e0e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134510$F42CFCF0-7A31-4C13-8063-710B4761F546",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134023",
+              "numeric-id": 134023
+            }
+          },
+          "hash": "daa5df56bae122b78dbd650d34f97fd7eaf5498d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134510$6B883B92-F2A4-4422-9FA1-AC0AB01A26F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134510$713E57C0-1619-4843-845C-B8428E055820",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q134510$16AA8BD5-9090-4EF9-A298-78973AA863F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134511",
+              "numeric-id": 134511
+            }
+          },
+          "hash": "3f71911d32f6da17b1f5f5df564227754572b3c7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134510$07D9F5AC-82B8-4D30-88AF-9D30D04F9F28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134747",
+              "numeric-id": 134747
+            }
+          },
+          "hash": "96067a0a1cbd472bc89595be5b95eea827fb7991",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134510$1E563FAD-5DBD-4A74-87A9-2157542EAF94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134748",
+              "numeric-id": 134748
+            }
+          },
+          "hash": "8a3b8e26af2d724aa65c2f2156b5956e140a1ac7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134510$A46C8AA2-F241-496B-A023-155F869E8218",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q134510$1AAC685B-89C3-41EC-9D6B-183A6384410E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+3769-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "47e3c734898046f6612f0ee6f96c014fb486f786",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q134510$FD134099-1DFA-419C-BB15-81EE50974E8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2864-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea1e41f823b2cfe4bff859ca9953d2e440263127",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134510$E79597FE-0C10-4EC0-ABE6-4F7C8939B6BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q682531"
+          },
+          "hash": "95e03746a1101be8f9538994aa11302ee1237b37",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q134510$CDE22801-31F1-404A-AD3B-6E50DDE1227C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000190131271"
+          },
+          "hash": "c4b8089996e6a655fdbe4655a6a1d5ddf47e2bd7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134510$F5770B65-2153-400B-8E1E-56CE595306D7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Enos Arms.svg"
+          },
+          "hash": "4484751cf9b0750770780b9df86da38c6bbde6ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابن شيث وحفيد آدم. عاش 905 سنوات"
+    },
+    "az": {
+      "language": "az",
+      "value": "Adəmlə Həvvanın nəvəsi Şitin oğlu"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(3769-2864)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Biblische Figur"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical figure, son of Seth, grandson of Adam and Eve"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "laŭ Genezo, filo de Set (Gen. 4:26–5:10; 1 Kron. 1:1; Luko 3:38)"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Set y nieto de Adán y Eva"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, בנו של שת בן אדם"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Biblijski lik"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della Bibbia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Bijbel"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, сын Сифа, отец Каинана"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "biblijska oseba; Setov sin, vnuk Adama in Eve"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "enligt Gamla Testamentet en patriark som levde före syndafloden"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Anak ni Seth, Apo nina Adan at Eva"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li sewi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Luka 3:38)"
+    }
+  },
+  "id": "Q134510",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنوش"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܐܢܘܫ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انوش"
+    },
+    "az": {
+      "language": "az",
+      "value": "Enos"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "انوش"
+    },
+    "be": {
+      "language": "be",
+      "value": "Энас"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ইনোশ"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཨེ་ནོ་ཟི།"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Enoš"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Enoix"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Enóš"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Enos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Enosh"
+    },
+    "de": {
+      "language": "de",
+      "value": "Enosch"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ενώς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Enos"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Enoŝ"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enós"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "انوش"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Enos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Énosh"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eanós"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנוש"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Enoš"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Énos"
+    },
+    "id": {
+      "language": "id",
+      "value": "Enos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enos"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エノス"
+    },
+    "km": {
+      "language": "km",
+      "value": "អេណុស (ព្រះគម្ពីរ)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에노스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Enos"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Енос"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Enosj"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Enos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Enosz"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "انوس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Enos"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Enos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Енос"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Enoš"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Enoš"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Енос"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Енос"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Enos"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Enosh"
+    },
+    "th": {
+      "language": "th",
+      "value": "เอโนช"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Enos"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Enoso"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Enoş"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Енос"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "انوس"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Enos"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "אנוש"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "以挪士"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "以挪士"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "以挪士"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "以挪士"
+    }
+  },
+  "lastrevid": 17549862,
+  "modified": "2025-09-17T10:00:48Z",
+  "ns": 860,
+  "pageid": 162895,
+  "sitelinks": {},
+  "title": "Item:Q134510",
+  "type": "item"
+}

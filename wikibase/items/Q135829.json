@@ -1,0 +1,315 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tudglid"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135829$36E9ED38-5D4F-4EFC-B9B3-96DAA5182F77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00690785"
+          },
+          "hash": "c197c42f52019935358c3c7ac1f562f9727beae3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135829$4706992B-09E9-4F22-9186-E78E18768E77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135702",
+              "numeric-id": 135702
+            }
+          },
+          "hash": "0dfae8b5fedf40ad4f78fa0faf672ecca3f8f903",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135829$1B2B0D17-BFA0-4A85-92F0-0B4C88D8AACF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135829$BE229ED3-BAED-47DA-99A9-649353A302D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135829$5F4FEE68-47F7-4AF6-9A40-9A98A5D19629",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135557",
+              "numeric-id": 135557
+            }
+          },
+          "hash": "48e76b882a547c9ec1d77bc836e0324cf9357c57",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135829$EF082DD0-1EAE-4B98-85AF-D512E7F45C4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136054",
+              "numeric-id": 136054
+            }
+          },
+          "hash": "e1d90b2c8c01d8e8efb9c47f6a9670d6c0bb2987",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135829$C87BC89A-8AD8-4B4E-8B4E-1A62FEC2275D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135820",
+              "numeric-id": 135820
+            }
+          },
+          "hash": "5a0062623d1c14d1d48cb35c196db69fc0f4abd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135829$7157ED8F-F6A3-4EA1-9918-6180586C1A59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135829$30A31870-AA74-4B12-AAF6-11C762B957C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135829$DD84EBA1-EE22-4CAE-9D88-DB9EE4C9BB08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4457143"
+          },
+          "hash": "72397b9145d7601cee92af8f2037cc5807d35729",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q135829$D0E798B4-1AC0-4FAB-AD3F-80FA817FE91F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Tudglid"
+          },
+          "hash": "2d59412e64955dbb5d61b098ce8511db10b9bebc",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135829$779C48E5-C344-4541-8A92-4D1237CBFFFC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tudglid Arms.svg"
+          },
+          "hash": "e62fb12e56e6d741adc55dab06c8974508bdd51d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "santa galesa"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "santes Celtaidd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nonne und Missionarin"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century Welsh female saint"
+    }
+  },
+  "id": "Q135829",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tutglud ach Brychan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Tutglud ach Brychan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tudclyd"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tudglid"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tutglud ach Brychan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tutglud ach Brychan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tutglud ach Brychan"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Tudglid"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тидглид"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tudclyd"
+    }
+  },
+  "lastrevid": 17552197,
+  "modified": "2025-09-17T10:34:03Z",
+  "ns": 860,
+  "pageid": 164214,
+  "sitelinks": {},
+  "title": "Item:Q135829",
+  "type": "item"
+}

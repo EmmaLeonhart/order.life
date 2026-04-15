@@ -1,0 +1,420 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Craterus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135352$41023584-2920-46D9-AB93-A7DDE15B45B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "465440"
+          },
+          "hash": "bff22ca26ff5f77a510a360f10c6f65ebb18e395",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135352$EE77F8E4-BE40-4068-89F4-7803A27396A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736459"
+          },
+          "hash": "c452bbf23c15d308d7c833674de8689a3a4652fd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135352$1E978745-6A9B-48E4-B04B-3C019F31A124",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135497",
+              "numeric-id": 135497
+            }
+          },
+          "hash": "03b7ef6cf9d0fd063c719556199af6a34d2aaa2f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135352$3C929339-20BB-4B19-9ECD-518ACFEDA5EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135352$82DAE838-89A3-41DD-B6A5-2F926DB6E0F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135352$795FAC79-8C5C-4C1A-B933-6632205A3CDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135349",
+              "numeric-id": 135349
+            }
+          },
+          "hash": "0f731514ecff74c92fa30526268b9d29e62f29f1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135352$2C868EAF-04AF-4C42-BF89-5C16DB0F5966",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73860",
+              "numeric-id": 73860
+            }
+          },
+          "hash": "43b70a5911b3c77132e6257d05e61020fe5a8472",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135352$1CEDA29C-6A23-430A-A71C-4677902FDF34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135352$4D38945A-5457-4318-843F-13ED684CF01F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0320-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "df55be1e70ae9755c70515232a74316be88592f4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135352$092D4ACE-2241-45F3-BEF7-6ABBE5174E72",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135352$7CA2B39D-D4AB-4978-848A-8213DC3D1444",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1120892"
+          },
+          "hash": "5c842ab234be28b12de1925b88a2493b93530901",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135352$9771DE13-E722-4827-A76A-3185FCF31225",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Craterus Arms.svg"
+          },
+          "hash": "d1d7208c18b2a870f8e982385ff59963021deda0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مؤرخ مقدوني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مؤرخ من مقدونيا القديمه"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ম্যাসেডোনীয় ইতিহাসবেত্তা"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "historiador macedonià"
+    },
+    "de": {
+      "language": "de",
+      "value": "makedonischer Statthalter von Korinth"
+    },
+    "en": {
+      "language": "en",
+      "value": "Macedonian historian"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Macedonian historian"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Macedonian historian"
+    },
+    "es": {
+      "language": "es",
+      "value": "historiador macedonio"
+    },
+    "et": {
+      "language": "et",
+      "value": "Makedoonia ajaloolane"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "historien macédonien"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "historiador macedonio"
+    },
+    "he": {
+      "language": "he",
+      "value": "היסטוריון מקדוני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "makedonski povjesničar"
+    },
+    "it": {
+      "language": "it",
+      "value": "storico antico macedone"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Korinthe"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "istoric macedonean"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнегреческий полководец, государственный деятель и юрист"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "historian maqedonas"
+    }
+  },
+  "id": "Q135352",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كرياتروس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Кратер от Коринт"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cràter"
+    },
+    "de": {
+      "language": "de",
+      "value": "Krateros von Korinth"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κρατερός ο ιστορικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Craterus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Crátero"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cratère"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kraterosz (költő)"
+    },
+    "id": {
+      "language": "id",
+      "value": "Krateros (sejarawan)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cratero"
+    },
+    "la": {
+      "language": "la",
+      "value": "Craterus Crateri filius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Craterus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Crátero"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Crátero"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кратер"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Craterus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kraterus (tarihçi)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кратер Молодший"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Craterus"
+    }
+  },
+  "lastrevid": 17551406,
+  "modified": "2025-09-17T10:22:42Z",
+  "ns": 860,
+  "pageid": 163737,
+  "sitelinks": {},
+  "title": "Item:Q135352",
+  "type": "item"
+}

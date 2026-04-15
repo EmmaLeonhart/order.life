@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Argus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q134295$D9C25AEA-4DFD-4C80-AF41-96ACFC1E8A41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134295$581C601F-9382-4724-B38E-275EA19B3D08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134295$E58051CA-4CAD-401C-82C1-1840935D2039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133325",
+              "numeric-id": 133325
+            }
+          },
+          "hash": "fbfca4636b830d36b9d2520522cb4a70143b6739",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134295$30C22A47-9F0C-4945-81F8-CAD706AA39F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134289",
+              "numeric-id": 134289
+            }
+          },
+          "hash": "0a47d6f7996a142739247404c5ea3efd50265e09",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134295$09FE4657-731E-4AC7-8CEE-5A092A3A24F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134295$2BC69051-1BBD-4B4B-AF55-B764CB7125F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20190341"
+          },
+          "hash": "4ea37865c6455600231aa21247e0ca6eeded04af",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134295$F2AC8B28-2606-4DE9-A674-09E014CD7457",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Argus Arms.svg"
+          },
+          "hash": "ed1919397d19fda48263459c4e46e4867a704472",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "a la mitologia grega"
+    },
+    "de": {
+      "language": "de",
+      "value": "Enkel des Achilles"
+    },
+    "el": {
+      "language": "el",
+      "value": "μυθολογικός χαρακτήρας"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Neoptolemus in Greek mythology"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fils de Néoptolème"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Neoptolemosz fia"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Neottolemo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии, сын Неоптолема"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi kişi"
+    }
+  },
+  "id": "Q134295",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Argos (fill de Neoptòlem)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Argos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άργος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Argus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Argos"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Argosz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Argo"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Argos"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Argos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аргос"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Neoptolemos oğlu Argos"
+    }
+  },
+  "lastrevid": 17549440,
+  "modified": "2025-09-17T09:54:55Z",
+  "ns": 860,
+  "pageid": 162680,
+  "sitelinks": {},
+  "title": "Item:Q134295",
+  "type": "item"
+}

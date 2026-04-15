@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tharrhypas"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135500$8CBEE50B-A438-4B18-86AD-914771375A8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "96016"
+          },
+          "hash": "94d698120f88febbd3c0834ceb7f8724867e5781",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135500$CF4159C0-1DCC-4A19-9B29-4EC443F8E457",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135356",
+              "numeric-id": 135356
+            }
+          },
+          "hash": "6c20a8791765cdbf27241a19c4c03c7a0c2ff357",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135500$D9F44A3C-FD5A-4815-9B89-BC89E2A745BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135500$F876F80A-A01A-4299-A2DA-05A1E3999390",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135500$2CBD2A41-191F-429A-A2F9-32B8AED6368B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135638",
+              "numeric-id": 135638
+            }
+          },
+          "hash": "59e7bd6b66c837d746c6902b92a5aef5d8362ad8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135500$65FC23CA-F839-4B69-927A-18C3B2EF143E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135639",
+              "numeric-id": 135639
+            }
+          },
+          "hash": "37fa140c446f3ea55116a34a61a514d87e137159",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135500$90825CB9-7FB6-4E71-8654-F498280349AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135500$B9908365-DF12-40A1-8DFB-576AB44D987D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135500$D3C61362-17E0-4D39-8018-C5244BEDDEE9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0385-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "044d45d460bdb4221c9deb69c2aa1826cb949414",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135500$AAE49E61-DA3D-416C-B2A0-7BEB16536E0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q598904"
+          },
+          "hash": "328cd7e4fb4a6c43dbaba12059a44857d3a86ec4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135500$EEC3408C-6344-4F14-94A9-3B9B8102EC20",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tharrhypas Arms.svg"
+          },
+          "hash": "14ffccbfde231fe952e7f0bf6d7c844763890332",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei dels molossos"
+    },
+    "de": {
+      "language": "de",
+      "value": "König der Molosser"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Epirus from 430 BC to 392 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de los molosos, padre de Alcetas I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Épire"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori epiróta uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "re dell'Epiro"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Епіру"
+    }
+  },
+  "id": "Q135500",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Тарып"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тарип"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tàripes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tharyps"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θαρύπας της Ηπείρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tharrhypas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tharrhypas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tharypas"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tharüpasz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tarripa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "タリュパス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tharrhypas"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tarypas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Таррип"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tharrhypa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Таріп"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tharrhypas"
+    }
+  },
+  "lastrevid": 17551664,
+  "modified": "2025-09-17T10:26:26Z",
+  "ns": 860,
+  "pageid": 163885,
+  "sitelinks": {},
+  "title": "Item:Q135500",
+  "type": "item"
+}

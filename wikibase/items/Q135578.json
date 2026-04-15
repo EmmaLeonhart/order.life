@@ -1,0 +1,513 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pausanias"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135578$04CEB973-AE7D-4140-A767-5C2E4117A139",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028090"
+          },
+          "hash": "782d8d5abc0224957ce76c313f1acf21782727dc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135578$CC657A71-4507-4997-8A0D-6BD5592DB360",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135736",
+              "numeric-id": 135736
+            }
+          },
+          "hash": "f60ba99fdcbfbe308f6d3feab44408fc2c45e84c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135578$44E706AE-6312-4458-B691-1D63DE229570",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135734",
+              "numeric-id": 135734
+            }
+          },
+          "hash": "7e51a7e80247362a3b3a40d329bf54c7d7358555",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135578$6F6C6C0F-6833-4FAE-B0C6-5DCFF26C1D7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135735",
+              "numeric-id": 135735
+            }
+          },
+          "hash": "499005c362963ce64fb6cdc3bb3fc13a91e8a98e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135578$0C978B4D-7961-4A3A-B9E1-B4974C725E53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135578$F8D90ADB-8C18-48AB-9FB1-C377AAB6B19E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135578$BA286CD6-797B-47D3-86F5-70352A0D92CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135431",
+              "numeric-id": 135431
+            }
+          },
+          "hash": "d7ddc4ec051819a8ee8840ff64759ea1022c0e3d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135578$1EA4EBB1-40F0-4AD7-9436-4C0DE681C122",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135577",
+              "numeric-id": 135577
+            }
+          },
+          "hash": "ca417c1dcf35279de0bb8e4d4d1b47ff477b06f9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135578$F7516F1C-DD59-46AC-8071-698FF9128165",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135578$F17904EB-1112-4C2C-A7C1-069DAEC6818B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0467-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c79f6f6ad426734a00a64ab3be57d66f77a94d25",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135578$8E651768-8A9D-4DF2-8141-06F99F263371",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q314518"
+          },
+          "hash": "e082e565a50d5fec39226b2a3873e6c1549c8e12",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135578$A3D2A00C-3AF8-4E80-A585-6B1CF0C37F60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pausanias Arms.svg"
+          },
+          "hash": "4ffccecc5b13607d2dab4bdbda4bb71c9fd17d44",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "قائد عسكري في اليونان القديمة"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "spartský generál a regent v době řecko-perských válek"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des Kleombrotos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σπαρτιάτης στρατηγός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Spartan general and regent (died c. 477 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político y general espartano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique et général spartiate"
+    },
+    "he": {
+      "language": "he",
+      "value": "גנרל ספרטני"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale spartano, vincitore della battaglia di Platea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スパルタの王族、将軍"
+    },
+    "la": {
+      "language": "la",
+      "value": "dux Lacedaemonius"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "спартански војсководец"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider uit Sparta (?--467)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "wódz spartański"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "antigo General Espartano"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "general spartan, învingătorul perșilor în Bătălia de la Plateea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "спартанский полководец"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பண்டைய எசுபார்தாவின் தளபதி"
+    }
+  },
+  "id": "Q135578",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "باوسانياس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "باوسانياس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Pavsani"
+    },
+    "be": {
+      "language": "be",
+      "value": "Паўсаній"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Павзаний"
+    },
+    "br": {
+      "language": "br",
+      "value": "Paosanias"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pausànies"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pausaniás"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pausanias 1."
+    },
+    "de": {
+      "language": "de",
+      "value": "Pausanias"
+    },
+    "el": {
+      "language": "el",
+      "value": "Παυσανίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pausanias"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Pausanias"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pausanias"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pausanias"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pausanias"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Παυσανίας"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Pausanias"
+    },
+    "he": {
+      "language": "he",
+      "value": "פאוסניאס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pauszaniasz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pausania"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パウサニアス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პავსანია (მხედართმთავარი)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "파우사니아스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Pausanias"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Павсаниј"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pausanias"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pausanias I van Sparta"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Pausanias"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pauzaniasz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pausânias"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pausânias"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pausanias"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Павсаний"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pauzanija"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Pausanias"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pausanias"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Паусанија"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pausanias"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பாசேனியசு"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Павсаній"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "帕桑尼阿斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "普萨尼亚斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "帕萨尼阿斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普薩尼亞斯"
+    }
+  },
+  "lastrevid": 17551795,
+  "modified": "2025-09-17T10:28:19Z",
+  "ns": 860,
+  "pageid": 163963,
+  "sitelinks": {},
+  "title": "Item:Q135578",
+  "type": "item"
+}

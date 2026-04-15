@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eusebia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136834$917ADDA7-E3AF-41EE-9ABA-0454B5FFB162",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00313509"
+          },
+          "hash": "905dee5757f61bef8385b74cde067afdb667b7f6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136834$970E9DB6-A523-446A-83D8-A53EF328EEB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136834$BE763CC6-2E7E-4D4D-A343-D9178E21B822",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136834$A169DC8A-1805-4779-B56F-5A225E0B03F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123560",
+              "numeric-id": 123560
+            }
+          },
+          "hash": "e31122d955325e8a27d0a2c1bb1fc699e34e8f6a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136834$044B6644-F2DF-45FB-87B5-74ED07FC3893",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137249",
+              "numeric-id": 137249
+            }
+          },
+          "hash": "1c21f197f11fb973c4841496c1831a0d5418321e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136834$AA5B9744-A86C-4AA8-9439-C3DE81C99F14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136834$FA30EC27-9025-4309-9452-D71CECD280CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0400-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b25d6a5bd14cdc6596403ea6b972ca928cb2a01",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136834$8E30E098-370E-4DF9-A26E-D6013BE37DED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0360-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae9667f33e00db182c037b4602ac19f47a925ac7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136834$3B92D007-674E-4E25-AB20-BD7859B3E26A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q273627"
+          },
+          "hash": "c049c79d9357f1fd7dc95cb28878c71d02fbf05f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136834$41A1CBC1-5339-4D88-B679-CCDC0A72BC87",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eusebia Arms.svg"
+          },
+          "hash": "8f43389d31852b6e238334d03ca501ab48fb436a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römische Kaiserin"
+    },
+    "el": {
+      "language": "el",
+      "value": "ύστερη Ρωμαία αυτοκράτειρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman empress as the consort of Constantius II"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana consorte"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine du IVe siècle, deuxième épouse de l'empereur Constance II à partir de 353, morte en 360"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római császárné"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Costanzo II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "tweede vrouw van de Romeinse keizer Constantius II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperatriz romana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римская императрица"
+    }
+  },
+  "id": "Q136834",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يوسابيا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Eusebia"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Евсевия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eusèbia (emperadriu)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eusebia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ευσεβία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eusebia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eusebia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eusébie"
+    },
+    "he": {
+      "language": "he",
+      "value": "אוסביה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Flavia Eusebia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eusebia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Eusebia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Eusebia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eusebia"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Eusebia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Eusébia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Eusébia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Флавия Аврелия Евсевия"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eusebia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Євсебія"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "欧塞比亚"
+    }
+  },
+  "lastrevid": 17553733,
+  "modified": "2025-09-17T10:56:08Z",
+  "ns": 860,
+  "pageid": 165219,
+  "sitelinks": {},
+  "title": "Item:Q136834",
+  "type": "item"
+}

@@ -1,0 +1,919 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Σέλευκος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Seleucus"
+      },
+      {
+        "language": "en",
+        "value": "Σέλευκος"
+      },
+      {
+        "language": "en",
+        "value": "Seleucus I Nicator"
+      },
+      {
+        "language": "en",
+        "value": "Seleucus I Nicator, king of the Seleucid Empire"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73854$3AFCED5B-7CC0-4F42-A6FA-5087FC66110C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139884|696416"
+          },
+          "hash": "552dab6ab67c6add9953555caafc71abece3af75",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73854$34E3F508-752B-4A73-969B-00E169E4A55F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736272"
+          },
+          "hash": "b922a696d4f7166a8b858e87e033562ea667dad2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73854$C615F4A8-0A05-4FFE-A74A-35ED966BBE0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73737",
+              "numeric-id": 73737
+            }
+          },
+          "hash": "d668a1fb1c812841822347bb97800ebe2d6d4ad8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73854$81DE270A-CC0A-495F-B1A0-C507ED8206FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73746",
+              "numeric-id": 73746
+            }
+          },
+          "hash": "6c630cfe2d854efd92cecb6a25e66348a22fdf1c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73854$A5A9B03A-BF98-462D-99F5-8B53981DA2A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135489",
+              "numeric-id": 135489
+            }
+          },
+          "hash": "760e372b94eac20d92ce6a860c59e20148ca2247",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73854$345ABCBA-26F5-48FE-8B08-F5FD9E91EFC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135636",
+              "numeric-id": 135636
+            }
+          },
+          "hash": "9838ca1b0ed1c50ed152653d9b01a67eecec8103",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73854$F5378268-60C1-4990-ACFE-6797351D3495",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165193",
+              "numeric-id": 165193
+            }
+          },
+          "hash": "d5e5fd7c4844c7034b5c614705aeee326ee3225b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73854$1265C10B-2788-4A01-AE3E-E431056A204D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165198",
+              "numeric-id": 165198
+            }
+          },
+          "hash": "07d187a12182942aa585ebd47f122141281a5413",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73854$F9B4DDFA-AAF4-4431-AEE3-33EC5941A509",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73854$E953B460-AEF2-4A68-8485-7010924BB76C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73854$8821FBD5-396B-4531-979A-DAE75ABF8210",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Seleucus_I_Nicator_(1)"
+          },
+          "hash": "26b8a9008a8bf43d7c4f9d7e1040e76b8a76a8de",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73854$EC22226D-BC6E-41A2-A67C-1D175A3CB161",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73851",
+              "numeric-id": 73851
+            }
+          },
+          "hash": "a5c9f97e054cba5c0603501b1990053a9b472358",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73854$D4A8983A-3563-47E0-9BBC-31DA48F9E470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73740",
+              "numeric-id": 73740
+            }
+          },
+          "hash": "f22d251bc7aa819e6eaa49b98e7fccec8378f6c4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73854$83B84D15-1CC1-4974-A265-96A25FE1A0D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73937",
+              "numeric-id": 73937
+            }
+          },
+          "hash": "d93a5aee57b82f7b62bfa180639c53990ab74c5a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73854$0040482D-C27D-4014-8A4A-3F65FC7F98FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73940",
+              "numeric-id": 73940
+            }
+          },
+          "hash": "d112d1e485b8bf8e9a6f36570ff41e4a0a2f846e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73854$CA88B780-CC93-478F-B0EA-9157C9089EEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73854$93C9260F-CC2A-4E92-A358-A8D0CF9ED1B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0358-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60b9ca2e81c9a818884a620317b5a8f6fe833182",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73854$20BF7B06-0076-4957-94E1-7AB4F2FB810B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0281-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0dae71c7a64b1f94a08a46bc8a3b6f4b393ac07f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73854$3F33B1A5-9731-4E71-AA51-BD7B48346669",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q184176"
+          },
+          "hash": "07d402840b7544448b1830d88449e1423115cd63",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73854$7BF80210-3D4B-4B47-B39B-7251CC04B067",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006018220006"
+          },
+          "hash": "2c5b44c1c134e47ca244b4fd772a4218f29c9951",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73854$AA7F5556-3DEB-4DE5-891D-38D9BFF8282F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seleucus I Nicator Arms.svg"
+          },
+          "hash": "ed5583e7d620be85688fd8f6572eeeede9ef15ed",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q73854$F4E944CA-B22C-4C87-AB43-EB0CBB3F180A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/dce55806-63b6-482f-afe0-69b262ff6ef6"
+          },
+          "hash": "c4b9dfe4f7ffca30a302e768b03f02e58216dbbe",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مؤسس الدولة السلوقية وأول ملوكها"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "уладар Сэлеўкіі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "general d'Alexandria"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "seleukovský král (312 př. n. l. – 281 př. n. l.)"
+    },
+    "de": {
+      "language": "de",
+      "value": "makedonischer Feldherr, König des von ihm selbst gegründeten Seleukidenreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "general of Alexander and founder of the Seleucid dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "general de Alejandro Magno y fundador de la dinastía seléucida (358-281 a.C.)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "از فرماندهان نظامی اسکندر مقدونی و بنیانگذار امپراتوری سلوکی (۳۰۵–۲۸۱ پ.م)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Persian kuningas, seleukidien hallitsijasuvun perustaja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "he": {
+      "language": "he",
+      "value": "מצביא של אלכסנדר הגדול ומייסד השושלת הסלאוקית"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "सिकंदर का सेनापति"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Jendral Alexander Agung, penemu kekaisaran Seleukia atau seleukidai"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale macedone, primo sovrano dell'Impero seleucide (r. 305-281 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス朝の創始者"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "viens no ietekmīgākajiem ģenerāļiem Maķedonijas Aleksandra Lielā karaspēkā"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Macedonië (358v Chr-281v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "jeden z diadochów Aleksandra Wielkiego, założyciel dynastii Seleucydów"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador do Império Selêucida, fundador da Dinastia  e um dos generais de Alexandre, o Grande"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador do Império Selêucida, fundador da Dinastia  e um dos generais de Alexandre, o Grande"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Comandant militar din Corint și întemeietorul Imperiului Seleucid"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Государства Селевкидов в 312 — 281 до н. э."
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Danh tướng Macedonia thời Alexandros Đại đế và một trong những sứ quân diadochi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞歷山大將軍"
+    }
+  },
+  "id": "Q73854",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سلوقس الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سلوقس الاول"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Seleuco I Nicátor"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Selevk Nikator"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی سلوکوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Селеўк I Нікатар"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сэлеўк I Нікатар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Селевк I Никатор"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "सेल्योक्स १ निकेटर"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Seleuk I Nikator"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Seleuc I Nicàtor"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Seleukos I. Níkátór"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Селевк I Никатор"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Seleucus I Nicator"
+    },
+    "da": {
+      "language": "da",
+      "value": "Seleukos 1. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Seleukos I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέλευκος Α΄ Νικάτωρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seleucus I Nicator"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Seleŭko la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Seleuco I Nicátor"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Seleuko I.a Nikator"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سلوکوس یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Seleukos I Nikator"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Séleucos Ier"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Seiliúcas I Nicator"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Seleuco I Nicátor"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Σέλευκος Νικάτωρ"
+    },
+    "he": {
+      "language": "he",
+      "value": "סלאוקוס הראשון"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "सेल्युकस प्रथम निकेटर"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Seleuk I. Nikator"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Szeleukosz szeleukida uralkodó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սելևկոս I Նիկատոր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Seleukos I Nikator"
+    },
+    "it": {
+      "language": "it",
+      "value": "Seleuco I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სელევკე I ნიკატორი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "І Селевк Никатор"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "셀레우코스 1세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Seleukos I Nikator"
+    },
+    "la": {
+      "language": "la",
+      "value": "Seleucus I Nicator"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Seleukas I Nikatoras"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Seleiks I Nikators"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Seleucus I Nicator"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Селевк I Победникот"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Селевк I Никатор"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "सेल्युकस निकेटर"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Seleukos I yang Berjaya"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Seleukos 1-sè Nikator"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Selevkos I Nikator"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Seleucus I Nicator"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Selevkos I Nikator"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Seleuc Ier"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Seleukos I Nikator"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "سیلوکوس اول نکیٹور"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "لومړی سېلیوکوس نیکاتور"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Seleuco I Nicator"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Seleuco I Nicator"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Seleucus I Nicator"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Селевк I Никатор"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Seleucus I Nicator"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Seleuk I Nikator"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Seleukos I. Nikator"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Selevk I. Nikator"
+    },
+    "so": {
+      "language": "so",
+      "value": "Seleucus I Nicator"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Селеук I Никатор"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Селеук I Никатор"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Seleuk I Nikator"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Seleukos I"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Seleuko I"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "செலூக்கஸ் நிக்காத்தர்"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Seleucus I Nicator"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Selevkos Nikator"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Селевк I Нікатор"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سلوقوس اول"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Salavk I Nikator"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Seleukos I Nikator"
+    },
+    "war": {
+      "language": "war",
+      "value": "Seleucus I Nicator"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "塞琉古一世"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "塞琉古一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞琉古一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "塞琉古一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "塞琉古一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "塞琉古一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "塞琉古一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "塞琉古一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "塞琉古一世"
+    }
+  },
+  "lastrevid": 17486674,
+  "modified": "2025-09-16T18:52:30Z",
+  "ns": 860,
+  "pageid": 88685,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73854",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73854"
+    }
+  },
+  "title": "Item:Q73854",
+  "type": "item"
+}

@@ -1,0 +1,367 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xerxes of Armenia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135926$96F720B9-6F4B-4486-83B0-D91B01F1889E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737725"
+          },
+          "hash": "7fb18319f76c61f269adae0202105f05a6575f8a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135926$0F2E62E5-BD6E-4012-AD45-077E82D189C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136173",
+              "numeric-id": 136173
+            }
+          },
+          "hash": "c45ceefd4957c7f013385073d6d19adcc101dc97",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135926$26F174F2-D709-48EC-AFAD-8F855FFF0721",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135926$ADFE5747-3EFA-463F-9C1E-1A52A8B1C059",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135926$5087D5C7-1CC3-460B-9B17-488CCBA70690",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135753",
+              "numeric-id": 135753
+            }
+          },
+          "hash": "a7fd610833317a5181ed7c96be8eb0a9d34c3c2b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135926$FB1B503B-170D-4C46-8546-BBCEA8584F86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73371",
+              "numeric-id": 73371
+            }
+          },
+          "hash": "0fa28c47940b2abc37c62bf102795720ffdc268d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135926$2127CB97-BEF1-440B-91ED-E8FFEB6C966C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135926$245E09AD-5982-4B97-A9CA-99FD48569B92",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135926$B9AD46A6-6B3C-4523-A4B0-C3EA461F35AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0212-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a40bcc59be01fa4ad6ee5e4f7081629434af3e5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135926$9A282492-E84B-416C-B5DA-6D17C582EC6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q744212"
+          },
+          "hash": "0701235c0e737664a08e4692009f1305433dcdfd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135926$AF58B380-41B7-471C-831F-EEA6AE959D7D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xerxes of Armenia Arms.svg"
+          },
+          "hash": "e5cdd628a48cf01e23dd7e0e2603ec92b66d17ae",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك سوفين وكوماجيني"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ende des 3. Jahrhunderts v. Chr. regierender König des westlichen Armenien"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Sophene and Commagene from 228 BC to 212 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sophène et de Commagène"
+    }
+  },
+  "id": "Q135926",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "خرخش السوفيني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "خرخش السوفينى"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Xerxes (gazik ke Armena)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Xerxes Armenia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Xerxes d'Armènia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Xerxes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ξέρξης της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xerxes of Armenia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jerjes de Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "خشایارشا سوفن"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Xerxès d'Arménie"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Շավարշ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Serse di Armenia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xerxes of Armenia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kserkses z Armenii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Xerxes da Arménia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Xerxes da Arménia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ксеркс Армянский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kserks od Armenije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Xerxes av Armenien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ксеркс Вірменський"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "薛西斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛西斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛西斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛西斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "薛西斯"
+    }
+  },
+  "lastrevid": 17552309,
+  "modified": "2025-09-17T10:35:42Z",
+  "ns": 860,
+  "pageid": 164311,
+  "sitelinks": {},
+  "title": "Item:Q135926",
+  "type": "item"
+}

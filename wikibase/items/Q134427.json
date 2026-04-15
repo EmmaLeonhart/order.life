@@ -1,0 +1,367 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Argea"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q134427$9D876E1E-1B20-4A79-A628-8C23049525F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "385093"
+          },
+          "hash": "ae7f96f99269a87a16f359377df01dd459c97f4a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q134427$0EC84051-6E6F-4C8D-B6AC-31A6159E2B80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134487",
+              "numeric-id": 134487
+            }
+          },
+          "hash": "cb9abf2bfd31f27b05bd95358b8d75cdbf6c6620",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134427$F9E1CAAC-BFE0-473F-B536-E52396B2264D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134699",
+              "numeric-id": 134699
+            }
+          },
+          "hash": "c9fa07a92c5afa26d48226bd6947bb403d6f3df2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134427$F962CEBF-EB64-4AC8-8C56-32E40E3C5799",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134427$DA12008E-A21E-4DA4-816D-9A6BFBD99E00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q134427$C2F5A652-904D-401A-9448-76DD5456F063",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134698",
+              "numeric-id": 134698
+            }
+          },
+          "hash": "6e398b6889acbd26439b35504bf399ef21a040d5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134427$B0C9AEED-AF7F-4388-8DA0-9F6AB7C7888A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133753",
+              "numeric-id": 133753
+            }
+          },
+          "hash": "d3f84418f5ffd2264e27295ddc4677d6c7d1f4b7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134427$93D4181B-ECB6-4076-91E3-8C35EDD7D548",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134425",
+              "numeric-id": 134425
+            }
+          },
+          "hash": "b2fa488fae192ee6ea1577fa09897fb3d0e9179a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134427$D8DAC74A-BBBB-4878-9A29-7D53961B0D97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134427$77D4EC4B-BF5E-43F4-8464-0055B39596B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q644385"
+          },
+          "hash": "6f4548b57dd656482e01aa5a83513059b25202d4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134427$9E47CCC5-76FC-48E1-9EE7-321CA161F7AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Argea Arms.svg"
+          },
+          "hash": "4bd83617c2cd97d74f2f70bfc8e0eab1a5219486",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "mytologická řecká postava, Adrastova dcera"
+    },
+    "de": {
+      "language": "de",
+      "value": "Figur der griechischen Mythologie, Tochter des Adrastos und Gattin des Polyneikes"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythological Greek character, daughter of Adrastus and wife of Polynices"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la mitología griega"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fille d'Adraste"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Adrasztosz lánya"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlia di Adrasto e sposa di Polinice"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, dochter van Adrastus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии, дочь Адраста и Амфитеи, жена Полиника, мать Ферсандра"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi kişi"
+    }
+  },
+  "id": "Q134427",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Аргия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Argia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Argeia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Argeia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αργεία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Argea"
+    },
+    "es": {
+      "language": "es",
+      "value": "Argía"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Argie"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀργεία"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Argeia"
+    },
+    "io": {
+      "language": "io",
+      "value": "Argeya (filiino di Adrastos)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Argia"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아르게이아"
+    },
+    "la": {
+      "language": "la",
+      "value": "Argea"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Argea"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Argeja"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Argia (filha de Adrasto)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аргия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Argeja"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Argeia (dcéra Adrasta)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Adrastos kızı Argea"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аргія"
+    }
+  },
+  "lastrevid": 17549704,
+  "modified": "2025-09-17T09:58:37Z",
+  "ns": 860,
+  "pageid": 162812,
+  "sitelinks": {},
+  "title": "Item:Q134427",
+  "type": "item"
+}

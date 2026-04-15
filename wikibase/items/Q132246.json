@@ -1,0 +1,622 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Orpheus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q132246$18D6B7A0-FCF4-463E-BB7E-7BAFE5DEE755",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132246$D4327C5A-D670-4BA3-859C-A83677260B28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132246$B0FAFCD2-41B9-492D-A1CE-D5729CECB275",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132576",
+              "numeric-id": 132576
+            }
+          },
+          "hash": "08dceb79f3d1a28cd8f209982372a9b611b68f1c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132246$B4CECE20-FBC3-4233-8730-9693BBDA93D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132245",
+              "numeric-id": 132245
+            }
+          },
+          "hash": "725f7c2f0d1c91b92c47a01ad46e22a44e44a9fe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132246$EB4D6F9F-73B5-445E-855F-FB3D5ACDE7E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130992",
+              "numeric-id": 130992
+            }
+          },
+          "hash": "e54a54b3d81b88c02904227178c28cb459d77148",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132246$F1CF0244-63C4-40FC-921C-87C4A518BA7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132246$8F7BE11D-3FBF-4525-B0FC-CB96C0EE15FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q174353"
+          },
+          "hash": "706ad91b9a9f2254e5b970d529a0ab0c8af40410",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132246$00104866-033A-4AB8-93AC-8F0CB24F1F89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Orpheus Arms.svg"
+          },
+          "hash": "9dc6eb05fa6d7b61521907550f5b93220a8b6f2e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Legendariese musikant in die Griekse mitologie"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "شخصية أسطورية إغريقية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "герой грэцкіх легендаў"
+    },
+    "da": {
+      "language": "da",
+      "value": "sanger og profet i græsk mytologi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary musician, poet, and prophet in ancient Greek religion and myth"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "muzikisto kaj poeto de helenaj mitoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la mitología griega"
+    },
+    "et": {
+      "language": "et",
+      "value": "Vanakreeka mütoloogia laulik"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "henkilö kreikkalaisessa mytologiassa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "héros de la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "personaxe da mitoloxía grega"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori görög dalnok, költő, a líra feltalálója"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話に登場する吟遊詩人"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მითოლოგიური პერსონაჟი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고대 그리스의 종교와 신화에 등장하는 전설적인 음악가이자 시인, 예언자"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "dzejnieks, mūziķis, pravietis un mītiska persona sengrieķu mitoloģijā"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "persoon uit de Griekse mythologie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Postać w mitologii greckiej"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lendário músico, poeta e profeta na mitologia grega"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "muzician și poet mitologic grec"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "легендарный греческий музыкант и поэт"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "glasbenik, pesnik in prerok v starogrški religiji in mitologiji"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "muzikanti, poeti, dhe profeti legjendar në mitologjinë antike greke"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கிரேக்கத் தொன்மவியல் கவிஞர்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Romalı yazar Vergilius'un eseri Aeneis'te adı geçen efsanevi kişi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "напівміфічний уславлений співець і поет, персонаж давньогрецької міфології"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希腊神话中音乐家"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "奥尔弗斯"
+    }
+  },
+  "id": "Q132246",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Orpheus"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أورفيوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اورفيوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Orfey"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арфей"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Арфэй"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Орфей"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ওর্ফেউস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Orfeüs"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Orfej"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Orfeu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Orfeus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Orffews"
+    },
+    "da": {
+      "language": "da",
+      "value": "Orfeus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Orpheus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ορφέας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Orpheus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Orfeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Orfeo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Orpheus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Orfeo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اورفئوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Orfeus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Orphée"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Oirféas"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Orfeo"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ὀρφεύς , Orpheus"
+    },
+    "he": {
+      "language": "he",
+      "value": "אורפאוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Orfej"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Orpheusz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Օրփեոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Orfeus"
+    },
+    "io": {
+      "language": "io",
+      "value": "Orfeus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Orfeo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オルペウス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ორფეოსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오르페우스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Orfeûs"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Orfeûs"
+    },
+    "la": {
+      "language": "la",
+      "value": "Orpheus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Orpheus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Orfėjas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Orfejs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Орфеј"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Orpheus"
+    },
+    "my": {
+      "language": "my",
+      "value": "အောဖီးယပ်စ်"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Orfeus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Orpheus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Orfevs"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Orfèu"
+    },
+    "os": {
+      "language": "os",
+      "value": "Орфей"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Orfeusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Orfeu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Orfeu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Орфей"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Orpheus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Orfej"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Orfeus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Orfej"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Orfeu"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Орфеј"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Орфеј"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Orfej"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Orfeus"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஆர்பியஸ்"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Orfeo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Orpheus"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Orfey"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Орфей"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Orpheus"
+    },
+    "war": {
+      "language": "war",
+      "value": "Orpheus"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "俄耳甫斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "俄耳甫斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "俄耳甫斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "俄耳甫斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "俄耳甫斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "俄耳甫斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "俄耳甫斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "俄耳甫斯"
+    }
+  },
+  "lastrevid": 17545449,
+  "modified": "2025-09-17T08:58:47Z",
+  "ns": 860,
+  "pageid": 160631,
+  "sitelinks": {},
+  "title": "Item:Q132246",
+  "type": "item"
+}

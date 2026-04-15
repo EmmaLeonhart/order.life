@@ -1,0 +1,691 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Laodice"
+      },
+      {
+        "language": "en",
+        "value": "Laodice of Pontus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73050$83DC2708-C4FB-4BD7-A798-A0F64B0727FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737789"
+          },
+          "hash": "debf31b1e98d998b9ac6c5956a35a7d2fcd094eb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73050$F95FB4FE-98CD-4E8A-AA8F-34D671143907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72900",
+              "numeric-id": 72900
+            }
+          },
+          "hash": "876f32be62b78313c1779d8e9b39b5c5e19a2a3b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$8718E5CE-BBF5-48A4-8F03-BB67966BC7E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136727",
+              "numeric-id": 136727
+            }
+          },
+          "hash": "e91b79a01ba28e906926a85def6b27fc9f4db34e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$470E90B8-A7C6-43F9-AF98-698757BC5878",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165458",
+              "numeric-id": 165458
+            }
+          },
+          "hash": "db7b19ebd1e8a32c2ed738f537734d2a666033a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$F7032F87-EBF8-4466-ADE4-301FE557D55B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165459",
+              "numeric-id": 165459
+            }
+          },
+          "hash": "bd66b0c813e189535a9f4de5afc352805bb5876f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$4F3FEBD5-F8C6-4B10-A603-D54378AEC1EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165460",
+              "numeric-id": 165460
+            }
+          },
+          "hash": "62a10129ab9031988696305d976cde8b384b04be",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$21170B10-8FBB-4A27-8E24-29AD02555F8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165461",
+              "numeric-id": 165461
+            }
+          },
+          "hash": "23e1c26ea0e139dd5f704a3c2da5b4b6281a28d7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$AF3B9A52-2AA2-4A54-853C-246E2A5A9777",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165412",
+              "numeric-id": 165412
+            }
+          },
+          "hash": "f87cc0759de92dd37209166e7d41b2b68ad3c4d2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$D88AB136-F2C7-437C-8EE2-D37EC87F6FFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165413",
+              "numeric-id": 165413
+            }
+          },
+          "hash": "73e405babbb698fe304c1b3ba24bbc0f662c7596",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$6D3C5C39-8E8D-44EC-A92C-E630B26CCC72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165414",
+              "numeric-id": 165414
+            }
+          },
+          "hash": "b5dc87e6997aa52b44a97495b5bb4438e07e169d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$6C2A70E7-C00D-4064-BE90-60C377DDA1E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136728",
+              "numeric-id": 136728
+            }
+          },
+          "hash": "99c5afa366ea86e71b215611a4f6ac9d5cc2321a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$3F9902BA-7C33-44D9-A0C6-EB687988545E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136731",
+              "numeric-id": 136731
+            }
+          },
+          "hash": "723cc7b8604631a5c553e8a18b6dd21b8c709472",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$F6F85EB7-0234-4108-95A5-B7800645F346",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136730",
+              "numeric-id": 136730
+            }
+          },
+          "hash": "f3f0b66b537ff1bb85d0457cc9a7813448c28e81",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$CBB3DF3F-9266-4FB6-ABEF-A8C76FD584C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136733",
+              "numeric-id": 136733
+            }
+          },
+          "hash": "5ead47b1f177fb2673e0812386c100c1c458d781",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73050$56A2EDBA-ABBF-446E-B701-41672D083786",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$94868D41-CE75-4389-8D3B-EA9B10785E2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73050$4086A9CC-AED6-4628-B3A2-759DE4A2C9A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Laodice_(sister-wife_of_Mithridates_VI_of_Pontus)_(1)"
+          },
+          "hash": "2ab68cfbcb0c5af9e7b451bdfd904ef45c05d2b5",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73050$93654798-D993-4240-AEEE-981248E37925",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73053",
+              "numeric-id": 73053
+            }
+          },
+          "hash": "d2fc27b33dcd6fd9571cf00fc5e21ccf350b09a5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$942DF004-C1CD-46E5-AB17-8D30A00C7933",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165310",
+              "numeric-id": 165310
+            }
+          },
+          "hash": "79686fefd89f3c40e49980a0b3678b4140fdfe94",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73050$C5A67E0C-42D6-4C3A-BC87-CDE3FF244838",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165452",
+              "numeric-id": 165452
+            }
+          },
+          "hash": "14fc1a2ba69a7afffda3903e37511ae08cc1f714",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73050$7189248F-C399-4BB4-B647-69DB95DF46DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73215",
+              "numeric-id": 73215
+            }
+          },
+          "hash": "e8756675f5ea264276fc5dcb5d3cff457d815405",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73050$29B8E262-74A3-4DB5-9018-9D50C7B263C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73218",
+              "numeric-id": 73218
+            }
+          },
+          "hash": "1afa815b5518a7835d524490e4cdcd67099a6093",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73050$8B40AE3E-3E75-4D58-BCDB-F6A80B1C689A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73050$B2934B08-12EF-4DFC-AEA0-D4AD8ECB3EBC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73050$584F2FD4-4410-479C-895B-92BC3DBA462F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "535ccc0701e0738a953e70f2adc3ade105ff0676",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73050$E0C1AD8E-97E3-4B1E-8D9B-0D453EECC8C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q446544"
+          },
+          "hash": "1f22fbe2c31df0248f7b585c574f6793d056e10d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73050$CC7D184C-5526-4FED-AED9-E48FB853D03C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187617530"
+          },
+          "hash": "fce5abb7c78ae41cfd22c093a5e68917ad534632",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73050$BE28CEEC-FAD3-4516-8601-236698E70D3C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Laodice Arms.svg"
+          },
+          "hash": "a0d663fa48e39df85b9d5d0585de8f1123d8eb16",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter des Mithridates V."
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Μιθριδάτη Ε΄ του Πόντου"
+    },
+    "en": {
+      "language": "en",
+      "value": "sister-wife of Mithridates VI of Pontus"
+    },
+    "es": {
+      "language": "es",
+      "value": "hermana-esposa de Mitrídates VI del Ponto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine consort du Pont"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ポントス王妃、ミトリダテス6世の妹かつ妻"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "понтийская принцесса и царица, приходившаяся родной сестрой Митридату VI"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "antik drottning"
+    }
+  },
+  "id": "Q73050",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Лаадзіка"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лаодика"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Laodice"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Laodika"
+    },
+    "de": {
+      "language": "de",
+      "value": "Laodike"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λαοδίκη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Laodice"
+    },
+    "es": {
+      "language": "es",
+      "value": "Laódice del Ponto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Laodicé D"
+    },
+    "he": {
+      "language": "he",
+      "value": "לאודיקה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Laodike (130/129 SM-90 SM)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ラオディケ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Laodice"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Laodika"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Laódice"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Laódice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лаодика"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Laodike av Pontos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лаодіка"
+    }
+  },
+  "lastrevid": 17485706,
+  "modified": "2025-09-16T18:38:40Z",
+  "ns": 860,
+  "pageid": 87881,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73050",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73050"
+    }
+  },
+  "title": "Item:Q73050",
+  "type": "item"
+}

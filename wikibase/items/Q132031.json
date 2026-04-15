@@ -1,0 +1,661 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pluto"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q132031$8689B879-0DEF-4534-9DE9-5B0949CFE614",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132031$1B3FB44D-691D-47FA-BE69-01B00B5AF41E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132031$DAA9B65A-23BA-4AEB-AD12-BF984B111CB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132034",
+              "numeric-id": 132034
+            }
+          },
+          "hash": "ac369aa45ffa8d6eef4ac38af04f11f071155825",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132031$AECC8BED-B6AD-4D2A-9B2E-F0A2DD31771A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132028",
+              "numeric-id": 132028
+            }
+          },
+          "hash": "a97d62001d8bf2aa910f51c0ba62cf3031fe83c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132031$4FBD46CE-D8DA-4B44-897B-10D21B3D0DB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132031$2456F165-985A-4CB7-A2C4-AD0CE88389E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q152262"
+          },
+          "hash": "d4265f002d381dffc4e766b726195823e123ea2c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132031$E62F9DE0-D1B6-4827-BC3B-ECE5DEDA4E01",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pluto Arms.svg"
+          },
+          "hash": "b50bf031f0db6858f831e77599ca5cfda8ca6910",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "mitologiese god"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "إله في الديانة الرومانية"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "боронғо грек һәм рим мифологияһында ер аҫты батшалығы һәм үлем аллаһы"
+    },
+    "be": {
+      "language": "be",
+      "value": "бог у старажытнарымскай міфалогіі"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "старажытнарымскі бог"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "deu romà dels morts"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "řecký bůh (Plútón), římský bůh (Pluto)"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk gud"
+    },
+    "de": {
+      "language": "de",
+      "value": "griechische Gottheit"
+    },
+    "en": {
+      "language": "en",
+      "value": "god in Roman religion, Plouton in Greek"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "helena dio"
+    },
+    "es": {
+      "language": "es",
+      "value": "dios romano de los muertos"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalainen jumala"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "divinité de la mythologie romaine"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "dia Rómhánach"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "jee Raueagh"
+    },
+    "he": {
+      "language": "he",
+      "value": "אל עולם המתים"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "հին հունահռոմեական առասպելաբանությունում մահվան և անդրշիրիմյան թագավորության աստված"
+    },
+    "it": {
+      "language": "it",
+      "value": "divinità romana degli Inferi"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ღმერთი რომაულ მითოლოგიაში"
+    },
+    "la": {
+      "language": "la",
+      "value": "Deus inferorum Romanus, Graece Hades"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "griichesche Gott"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "dia greco-roman del Dedelà"
+    },
+    "my": {
+      "language": "my",
+      "value": "ဂရိဒဏ္ဍာရီလာ နတ်ဘုရား"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk gud"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "god van de onderwereld in de Romeinse mythologie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "w mitologii greckiej uosobienie płodności ziemi"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "deus dos mortos na mitologia romana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "бог в древнеримской мифологии"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "diu di l'ìnfiri dâ mituluggìa greca"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски бог подземља"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Бог у грчкој митологији"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "underjorden och dödsrikets gud i romersk mytologi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "thần trong thần thoại La Mã"
+    }
+  },
+  "id": "Q132031",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Pluto"
+    },
+    "an": {
+      "language": "an",
+      "value": "Plutón"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بلوتو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بلوتو"
+    },
+    "az": {
+      "language": "az",
+      "value": "Pluton"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Плутон"
+    },
+    "be": {
+      "language": "be",
+      "value": "Плутон"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Плютон"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Плутон"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Pluton"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Plutó"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پلووتۆ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pluto"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pluton"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pluton"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pluto"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Plutono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Plutón"
+    },
+    "et": {
+      "language": "et",
+      "value": "Pluton"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pluton"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پلوتون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pluto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pluton"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Plútón"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Plutón"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πλούτων"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Pluto"
+    },
+    "he": {
+      "language": "he",
+      "value": "פלוטו"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pluton"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pluto"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պլուտոն"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Pluton (deo)"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pluto"
+    },
+    "is": {
+      "language": "is",
+      "value": "Plútó"
+    },
+    "it": {
+      "language": "it",
+      "value": "Plutone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プルートー"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პლუტონი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Плутон"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "플루톤"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Pluto"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Plûto (mîtolojî)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Pluto"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Pluto"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Pluton"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Plutonas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Plutons (mitoloģija)"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Plotôna (andriamanitra)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Плутон"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯄ꯭ꯂꯨꯇꯣ (ꯂꯥꯢ)"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Pluto"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Plutone"
+    },
+    "my": {
+      "language": "my",
+      "value": "ပလူတို"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Plutone (dio)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pluto"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pluto"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Pluton"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Pllutoun"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Pluton (mitologia)"
+    },
+    "os": {
+      "language": "os",
+      "value": "Плутон"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pluton"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Plutão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Plutão"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pluton (mitologie)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Плутон"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Plutoni"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Pluto"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pluton"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Pluto"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pluton"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Plutoni"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Плутон"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Плутон"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Pluton"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pluto"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "புளூட்டோ"
+    },
+    "th": {
+      "language": "th",
+      "value": "พลูโต"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Plüton"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Плутон"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Pluton"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Pluto"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Pluton"
+    },
+    "war": {
+      "language": "war",
+      "value": "Pluto"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "普路托"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "布魯圖"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普路托"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "普路托"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普路托"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普路托"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "普路托"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "普路托"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "普路托"
+    }
+  },
+  "lastrevid": 17545047,
+  "modified": "2025-09-17T08:53:28Z",
+  "ns": 860,
+  "pageid": 160416,
+  "sitelinks": {},
+  "title": "Item:Q132031",
+  "type": "item"
+}

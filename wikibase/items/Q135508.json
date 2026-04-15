@@ -1,0 +1,944 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "أردشير الثاني الأخميني"
+      },
+      {
+        "language": "ar",
+        "value": "الملك أرتازركسيس- أردشير الثاني /بن الملك داريوس الثاني/"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Artaxerxes"
+      },
+      {
+        "language": "en",
+        "value": "Artaxerxes بن الملك داريوس الثاني"
+      },
+      {
+        "language": "en",
+        "value": "الملك أرتازركسيس- أردشير الثاني بن الملك داريوس الثاني"
+      },
+      {
+        "language": "en",
+        "value": "الملك أرتازركسيس- أردشير الثاني  بن الملك داريوس الثاني"
+      },
+      {
+        "language": "en",
+        "value": "Artaxerxes II of Persia"
+      },
+      {
+        "language": "en",
+        "value": "Artaxerxes II Mnemon, king of Persia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74013$DFD732E8-14E0-4012-9E6E-305C8C4F02A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "96048"
+          },
+          "hash": "98e2bdac9ca7d5192b957be1f1d67674acee3e50",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74013$DBE02CA7-CD86-4387-AD02-47D9A8E9799D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736409"
+          },
+          "hash": "b5b48ec81355e4aecab0ef8ec75cb7006065c122",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74013$5F5CCFDC-0288-47B5-B77F-C53CB1CDA895",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78956",
+              "numeric-id": 78956
+            }
+          },
+          "hash": "32e53919345a5b29ced529cb73a74753d6989127",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$596732F0-5911-41EA-9119-56CA06054FC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135648",
+              "numeric-id": 135648
+            }
+          },
+          "hash": "65484703b747fb8afeb1b54e2da672eec184c7b2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$22F6AC5E-93D1-4827-A459-D6DE6DE56CB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135368",
+              "numeric-id": 135368
+            }
+          },
+          "hash": "b1d909d85aee9126c43c9679d5b0a55239fc1f1e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$9C79AA7A-86AE-4EE1-9F00-185EF5B38E46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135512",
+              "numeric-id": 135512
+            }
+          },
+          "hash": "51c9239c2d78c915172595979df55f6222274305",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$82D9FA2A-EC17-4928-8F82-5D4D830EB9E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135438",
+              "numeric-id": 135438
+            }
+          },
+          "hash": "8ead42f2c068f522d475906f9e01425f9652b62f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$9927FAD7-07F5-42E3-A05D-6438FE3CD055",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135649",
+              "numeric-id": 135649
+            }
+          },
+          "hash": "53f1b29e0feaf0e37b79a23cf6156417305865b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$19C8457C-DA1F-49C4-AC5D-6AC23D3D5436",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135510",
+              "numeric-id": 135510
+            }
+          },
+          "hash": "e86eb7785311095d1a89a41038546ede7df90858",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$84BF428D-411A-419C-8ABC-3E4998617473",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135647",
+              "numeric-id": 135647
+            }
+          },
+          "hash": "c4d6322c7c799a891a90d8a1d7f51910db1c49e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74013$551D5834-0019-4F10-9F02-22595653E034",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$7E1FB814-4819-429E-B06C-681C4AAEAB03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74013$C5B83BD3-689D-497A-B6D2-E913C1774FBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74010",
+              "numeric-id": 74010
+            }
+          },
+          "hash": "faac72cfe2f1ab53254fc1b8c84f9c3542800016",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$4736ACFE-4C42-49E1-946D-1FC447EC7592",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135509",
+              "numeric-id": 135509
+            }
+          },
+          "hash": "3fadfda320743b2b710ba88259b93193ec887a38",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$8C23E2B1-5E7F-46DF-A464-2E9F0228EFC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135646",
+              "numeric-id": 135646
+            }
+          },
+          "hash": "ec2c8f833c38a57cee6847c2d9727c56062e5000",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$CD4DCE73-45B3-4B02-B886-04681FC2005F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135647",
+              "numeric-id": 135647
+            }
+          },
+          "hash": "0fa822806d199adb8559ed95882e313136510c37",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74013$B1188CE3-9488-4458-82C4-121F01A56C08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135512",
+              "numeric-id": 135512
+            }
+          },
+          "hash": "6e53d1348a32f45e4b1c069905559e6d78c94175",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74013$75B3082B-153B-4E3F-B9F1-B80D014EEB7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74067",
+              "numeric-id": 74067
+            }
+          },
+          "hash": "cd2168988b229b941a6c5f6f00c4c56509b3ad95",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74013$8B33A1EC-04F8-4972-A721-8363B5011E77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74070",
+              "numeric-id": 74070
+            }
+          },
+          "hash": "4b8b8b4e583e1d61f402e5ed52cc1b26c079e70a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74013$22BF4357-A990-404D-8BD5-123D7BD49709",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك أرتازركسيس- أردشير الثاني /بن الملك داريوس الثاني/"
+            }
+          },
+          "hash": "e1ae521ccd84b54b730f92bbf8491f3a3dee8c63",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74013$7079C412-C481-4EC0-9280-AB65E51CCEDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74013$0917FEB0-9EE0-4771-BAC2-3441458EEF6B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0453-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9203b4b18fc4317ce6740b34764aeac8c03d3f8c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74013$339F6639-D3F0-45DC-9A4A-AB96900ACA2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0358-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16db9db7e9831a6c0b02e43fdabdcf2da15c1b35",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74013$615DCB95-AA9A-4D2A-9A59-221FD0EC76B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q188472"
+          },
+          "hash": "482e19907a5e6ed00f5e8b39425adf9d313fb119",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74013$75D469C7-5191-4956-92DA-359EEE5EC0DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006077957709"
+          },
+          "hash": "cd31378814652cc6b9a3f70df09054d83b18a209",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74013$0E8DCE87-00AC-4E89-960B-58624DE74183",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artaxerxes II of Persia Arms.svg"
+          },
+          "hash": "36b0f08296e5bfc54b17bf39673ea45863ab56d7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "emperador persa (c 436 aC – aC)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Velkokrál Achaemenidské říše"
+    },
+    "de": {
+      "language": "de",
+      "value": "altpersischer König und letzter altägyptischer Pharao der 27. Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "The 10th Achaemenid Emperor (404–358 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Persia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دهمین شاهنشاه هخامنشی (۴۰۴–۳۵۸ پ.م)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Persian kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi achéménide"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei aqueménida de Persia"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך פרסי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "perzsa király"
+    },
+    "it": {
+      "language": "it",
+      "value": "gran re dell'Impero achemenide (r. 404-358 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アケメネス朝ペルシアの王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "페르시아 제국 아케메네스 왕조의 샤한샤"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król perski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персидский царь"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "persisk kung"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہخامنشی سلطنت کا شہنشاہ جس نے 404 قبل مسیح سے 358 قبل مسیح تک حکومت کی۔"
+    }
+  },
+  "id": "Q74013",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أردشير الثاني الأخميني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اردشير التانى الاخمينى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Artaxerxes II de Persia"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Artakserks"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی اردشیر"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Артаксеркс II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artaxerxes II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Artaxerxés II."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Artaxerxes II, brenin Persia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Artaxerxes II af Persia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artaxerxes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρταξέρξης Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artaxerxes II of Persia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Artaĥŝaŝt la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artajerjes II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Artaxerxes II.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اردشیر دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Artakserkses II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artaxerxès II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Artaxerxes II"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀρταξέρξης Μνήμων"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארתחששתא השני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Artakserkso II."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Artakhsaszjá perzsa király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արտաքսերքսես II"
+    },
+    "id": {
+      "language": "id",
+      "value": "Artahsasta II dari Persia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artaserse II di Persia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルタクセルクセス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არტაქსერქსე II"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Артаксеркс II"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "ارتاكسەركس II"
+    },
+    "kk-cn": {
+      "language": "kk-cn",
+      "value": "ارتاكسەركس II"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Артаксеркс ЫЫ"
+    },
+    "kk-kz": {
+      "language": "kk-kz",
+      "value": "Артаксеркс ЫЫ"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Artakserks II"
+    },
+    "kk-tr": {
+      "language": "kk-tr",
+      "value": "Artakserks II"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아르타크세르크세스 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Artaxerxes II"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Artakserksas II"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Artakserksesy II"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Artaxerxes II"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "اردشیر دوم هخامنشی"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Artaxerxes 2-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Artaxerxes II av Persia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artaxerxes II"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Artaxerxes II av Persia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artakserkses II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artaxerxes II da Pérsia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artaxerxes II da Pérsia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Artaxerxes al II-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артаксеркс II"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Artaxerxes II o Persie"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Artakserks II"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Artaxerxes II."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Artakserks II."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Артаксеркс II"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Артаксеркс II"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Artakserks II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Artaxerxes II"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இரண்டாம் அர்தசெராக்சஸ்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ардашери II"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิอาร์ตาเซิร์กซีสที่ 2"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Artaxerxes II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Artaserhas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артаксеркс II"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "اردشیر دؤم"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Artaxerxes II"
+    },
+    "war": {
+      "language": "war",
+      "value": "Artaxerxes II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔塔薛西斯二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿尔塔薛西斯二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿尔塔薛西斯二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿爾塔薛西斯二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿爾塔薛西斯二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿尔塔薛西斯二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿爾塔薛西斯二世"
+    }
+  },
+  "lastrevid": 17486806,
+  "modified": "2025-09-16T18:54:19Z",
+  "ns": 860,
+  "pageid": 88844,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74013",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74013"
+    }
+  },
+  "title": "Item:Q74013",
+  "type": "item"
+}

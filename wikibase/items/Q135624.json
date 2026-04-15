@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Polycleitus of Larisa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135624$011F3C85-8DE1-44AF-A5E6-4E68CAD20E0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135483",
+              "numeric-id": 135483
+            }
+          },
+          "hash": "cb6cdb95658a92a9d45ac31bf62161372e74bbbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135624$752D52AA-C04D-429C-935E-22C53167A44D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135624$28E61E84-23DC-44FF-B0F0-A5EAF1D9E044",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135624$5FA10D72-4AE6-408C-959D-765B0F82AFCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135624$6F66464F-0C22-4CBB-8FE6-72525CD3616D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135624$6F005E1D-4BD6-455C-8E44-3DC4E96794A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11942248"
+          },
+          "hash": "7abc8c1343dc61a3ad7dfe96fc26584df399364f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135624$252893CD-E013-40E8-8EC6-4D5964DE235B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Polycleitus of Larisa Arms.svg"
+          },
+          "hash": "9efffb526e1ae5f1f3e1c6fcc61f4abab421bd0c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "historiador que acompanyà Alexandre el Gran"
+    },
+    "de": {
+      "language": "de",
+      "value": "antiker griechischer Geschichtsschreiber"
+    },
+    "en": {
+      "language": "en",
+      "value": "writer who accompanied Alexander the Great"
+    },
+    "es": {
+      "language": "es",
+      "value": "escritor que acompañó a Alejandro Magno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "historien antique"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "geograaf"
+    }
+  },
+  "id": "Q135624",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Policlet de Larisa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Polykleitos von Larissa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Polycleitus of Larisa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Policlito de Larisa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Polycleitos de Larissa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Policlito di Larissa"
+    },
+    "la": {
+      "language": "la",
+      "value": "Polycletus Larissaeus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Polycletus of Larissa"
+    }
+  },
+  "lastrevid": 17551873,
+  "modified": "2025-09-17T10:29:26Z",
+  "ns": 860,
+  "pageid": 164009,
+  "sitelinks": {},
+  "title": "Item:Q135624",
+  "type": "item"
+}

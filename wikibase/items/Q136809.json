@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Eigrad"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136809$E5F8C91D-2C03-433D-9FDE-6AB28A46FE71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136809$E367B728-7BB9-45D1-981F-38E80DBC930E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136809$120CA1E1-E01F-4D27-8CBB-DD12BEEB10A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136808",
+              "numeric-id": 136808
+            }
+          },
+          "hash": "fd7daf7773c99e3f8f10bad67dc123153a2a688d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136809$E39B87A5-79A6-477D-8BAE-5F377554E579",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136809$D8F01238-3C4D-4619-A61C-6A2BA1178202",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0501-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2177271b40938747c6086828a95ad5dea488dcad",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136809$EA559D65-AB10-420E-812D-6AAE1A0FDF6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18124532"
+          },
+          "hash": "f8c8c038fb05268f9d7b960e2b54c88ac10d2cb9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136809$E79EFB06-1671-4BAF-91B2-85AF3607DB02",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint Eigrad Arms.svg"
+          },
+          "hash": "35729908f97566769f17e69e227017169e6180d5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(0501- )"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh saint"
+    },
+    "id": {
+      "language": "id",
+      "value": "santo asal Wales"
+    }
+  },
+  "id": "Q136809",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Eugrad"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Eigrad"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saint Eigrad"
+    },
+    "id": {
+      "language": "id",
+      "value": "Eigrad"
+    },
+    "it": {
+      "language": "it",
+      "value": "Saint Eigrad"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eugrad"
+    }
+  },
+  "lastrevid": 17553695,
+  "modified": "2025-09-17T10:55:36Z",
+  "ns": 860,
+  "pageid": 165194,
+  "sitelinks": {},
+  "title": "Item:Q136809",
+  "type": "item"
+}

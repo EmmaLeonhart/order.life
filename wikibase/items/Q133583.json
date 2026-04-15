@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Echomius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q133583$DCD9C5BD-58F4-4BFC-A90A-AA94C0950DDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133583$AAF72458-C10C-429F-84B7-DAB8BCF7523E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q133583$2E8EA663-DD97-4A90-81BD-55A29A4FE787",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133507",
+              "numeric-id": 133507
+            }
+          },
+          "hash": "7c26fad4b41b0c43c5d3b115588f3fb72400466a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q133583$93D36B9F-3760-4167-8300-011C1621145C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132256",
+              "numeric-id": 132256
+            }
+          },
+          "hash": "2fc4a141734b5180a1db821413b54feb592040c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q133583$4B31A6AE-516E-48CD-A8AC-964E893697CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q133583$D86D5B4B-78B7-49D4-8067-9A2F1B0E2FEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q60228179"
+          },
+          "hash": "89ab1e41a7e0897d604e0c33e9d5605d82f52145",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q133583$1DB37110-0E74-41AF-9F4A-B0D9FDB20BFA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Echomius Arms.svg"
+          },
+          "hash": "12babe6dc3ccb4f4f47f95eec22f9e0a8b183f2f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "ECHOMIVS , i , ( ⇒ Tab. XVIII.) einer von des Aegyptus funfzig Söhnen, welchen seine Braut, Achamantis , umbrachte. Hygin. Fab. 170 . Sieh Danaides ."
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Aegyptus in Greek mythology"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Aigüptosz fia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi Mısır kralı Aegyptus'un oğlu"
+    }
+  },
+  "id": "Q133583",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Echomios"
+    },
+    "en": {
+      "language": "en",
+      "value": "Echomius"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ekhomiusz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ecomio"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ehomios"
+    }
+  },
+  "lastrevid": 17548048,
+  "modified": "2025-09-17T09:34:53Z",
+  "ns": 860,
+  "pageid": 161968,
+  "sitelinks": {},
+  "title": "Item:Q133583",
+  "type": "item"
+}

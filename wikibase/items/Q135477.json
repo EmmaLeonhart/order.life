@@ -1,0 +1,432 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Deidamia I of Epirus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135477$13C4259A-7E1C-457D-BF4E-C06C816BB958",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "883392"
+          },
+          "hash": "5e631f706f708c73dcf1302e266c11780ff23eee",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135477$A0B797A7-9F32-49ED-877B-9CFD931C0986",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135480",
+              "numeric-id": 135480
+            }
+          },
+          "hash": "aa4b191b1a3182b436431113831b61d4255ec059",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135477$11E1AA0C-CF16-42B2-BE8F-2BA34718E7EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135477$83524495-CED1-4F01-93C5-1E2C5A2B3A79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135477$A3669773-E287-4B74-A5A6-FAB1E10BC7A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73857",
+              "numeric-id": 73857
+            }
+          },
+          "hash": "aa68b073b2e2ac8b68c8bc2517c889a29aa5c493",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135477$DB561571-EA4E-4596-98B1-DBFB1136BEB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135358",
+              "numeric-id": 135358
+            }
+          },
+          "hash": "79d48acc1864970535fb533da0492ddc1db7c3df",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135477$839C0EA4-A0F0-41F9-AB79-FBFC6DB2A26C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135502",
+              "numeric-id": 135502
+            }
+          },
+          "hash": "fff6eea3c6cf4ce8fc232f23b6c461538140ce14",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135477$DC2A5D51-EF00-41F6-AA35-13547D518676",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135477$3AA32823-69F4-43FC-B2ED-F6D105DE0A56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135477$915AB338-5762-4B1F-A0B7-CFD711AEF6F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135477$DA4F210A-AF63-49D0-B738-CC426F2A6BAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q437342"
+          },
+          "hash": "2dc7a1bab449e3d9e0498a03baa12f6ce52c93e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135477$FFFFC8BE-DA51-406C-8053-1F344BA6DB75",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Deidamia I of Epirus Arms.svg"
+          },
+          "hash": "87091b95f8331282c88d723158c27a58367f5585",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filla del rei Eàcides de l'Epir i esposa de Demetri Poliorcetes"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "epirská princezna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Königs Aiakides von Epiros"
+    },
+    "en": {
+      "language": "en",
+      "value": "noble in Epirus: daughter of Aeacides and Phthia, sister of Pyrrhus, wife of Demetrius I of Macedon and mother of Alexander"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa de Epiro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse d'Épire"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "épeiroszi hercegnő, makedón királyné"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie di Demetrio I Poliorcete"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Macedonii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "эпирская царевна, супруга Деметрия I Полиоркета"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "drottning av Makedonien"
+    }
+  },
+  "id": "Q135477",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Дэідамія"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Дейдамея"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Deidamia I de l'Epir"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Diidámeia Epirská"
+    },
+    "da": {
+      "language": "da",
+      "value": "Deidamia I af Epirus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Deidameia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δηιδάμεια Α' της Ηπείρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Deidamia I of Epirus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Deidamia I de Epiro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Deidameia"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Δηιδάμεια"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Déidameia"
+    },
+    "id": {
+      "language": "id",
+      "value": "Deidamia I dari Epiros"
+    },
+    "it": {
+      "language": "it",
+      "value": "Deidamia I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デイダメイア"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Deidamia I of Epirus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dejdamia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Deidamia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Deidamia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Деидамия"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Deidamia I av Epirus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Деїдамія"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Deidamia I của Ipiros"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "黛達彌亞"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "黛达弥亚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "黛达弥亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "黛達彌亞"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "黛達彌亞"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "黛达弥亚"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "黛達彌亞"
+    }
+  },
+  "lastrevid": 17551622,
+  "modified": "2025-09-17T10:25:51Z",
+  "ns": 860,
+  "pageid": 163862,
+  "sitelinks": {},
+  "title": "Item:Q135477",
+  "type": "item"
+}

@@ -1,0 +1,314 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Heracleides"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135597$B0A8604B-DEA9-4D27-95FA-441B99D63987",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1261208"
+          },
+          "hash": "1f7848a3c0074db111f6bf01967e1fa42563b56b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135597$B10779CC-F27A-43D3-B78D-DD52F71DB714",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135597$7A0477A5-FB29-4F98-A022-B7ECBC8AFDD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135597$0DED498E-E782-447C-AC15-EA72D07BCE36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135453",
+              "numeric-id": 135453
+            }
+          },
+          "hash": "3f31b3e19d9f5c97958115375cf47b45b49bacb4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135597$4977E583-404D-496E-9CD3-F7D74AAF19AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135595",
+              "numeric-id": 135595
+            }
+          },
+          "hash": "ae97aeb0fd7c6af104303b8d3ebed763449e8123",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135597$86EE35A7-C5AF-4CA5-B0A0-8A718AE66B69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135597$BE591A01-65E7-426C-9332-D26DBBA1BA3C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135597$754E4332-A9E6-4AF6-A1B0-073430EE86EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135597$D6822965-A180-4246-9571-2DA1C2C17079",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11925523"
+          },
+          "hash": "c69db018e0038df3df78c17ee5e1f1b9035bacd7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135597$21CC11DB-5FC7-4571-A008-4394CAD0C0E8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heracleides Arms.svg"
+          },
+          "hash": "954ce87d241221073aa3102280046530ebd213c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "fill d'Agàtocles de Siracusa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des Agathokles von Syrakus"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Agathocles of Syracuse"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Agatocles de Siracusa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils d'Agathocle de Syracuse"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Agatocle di Siracusa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "filho de Agatocle de Siracusa"
+    }
+  },
+  "id": "Q135597",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Eraclide"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Heraclides"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herakleides"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ηρακλείδης (του Αγαθοκλέους)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Heracleides"
+    },
+    "es": {
+      "language": "es",
+      "value": "Heráclides"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Heraklides Sirakusakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Héracléidès"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eraclide"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Heraclide"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Heraclide"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гераклид"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Heracleides"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гераклід"
+    }
+  },
+  "lastrevid": 17551831,
+  "modified": "2025-09-17T10:28:50Z",
+  "ns": 860,
+  "pageid": 163982,
+  "sitelinks": {},
+  "title": "Item:Q135597",
+  "type": "item"
+}

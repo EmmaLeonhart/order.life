@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eadhelm"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135991$3F3DBCC9-62B5-4D3D-8EDD-B16CBBE098E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00349146"
+          },
+          "hash": "a5d851d715d164c00ee4a23fea9b6f4066a9ab9c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135991$8F8B114B-E7C9-4CC8-A71B-F5DFADB0220D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136222",
+              "numeric-id": 136222
+            }
+          },
+          "hash": "54a1892c2f13e67b139174bd0ae4f4fdb0cc8fe2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135991$3A970D5A-28CA-4064-BA27-2E75454D5CA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135991$151C0C52-213B-4120-B0F1-93215E4AD494",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q135991$19BBF043-AACA-43F4-AD38-5C3DA5C57103",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15031.htm#i150309"
+          },
+          "hash": "6e1756ff2887e6dd56f8cfddbcf87c11693b78cd",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135991$19516CBB-47B2-4266-8C2B-F7C472079DAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123769",
+              "numeric-id": 123769
+            }
+          },
+          "hash": "f75714b453bf3f8a02d117655d889d7736a6e070",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135991$110C20C2-A247-49CA-BE1C-CB1042B5300B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135991$7F9EADA0-9F89-429C-9F2F-237CE357B063",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75451533"
+          },
+          "hash": "4783b5406c1a92090ca3db84f4ebc140353814f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135991$CF987924-5807-4473-A735-6B231EA170FB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eadhelm Arms.svg"
+          },
+          "hash": "1481d94d3d7f5200d2885be5c799f9704f1e9401",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=150309"
+    }
+  },
+  "id": "Q135991",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Eadhelm"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "unknown"
+    }
+  },
+  "lastrevid": 17552419,
+  "modified": "2025-09-17T10:37:17Z",
+  "ns": 860,
+  "pageid": 164376,
+  "sitelinks": {},
+  "title": "Item:Q135991",
+  "type": "item"
+}

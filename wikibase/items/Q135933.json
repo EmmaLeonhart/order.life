@@ -1,0 +1,367 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariamnes of Cappadocia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135933$F599E11E-CD0F-4705-9FAC-B2BF0D4FAC65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736451"
+          },
+          "hash": "02bd84f475201cfdcba4c5ca3cdc57f4fcc5e88d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135933$44A45798-9641-4A81-9D56-D58BBDBB83A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135758",
+              "numeric-id": 135758
+            }
+          },
+          "hash": "9ee0ba20af255d9e8ad95061f51a368359363c06",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135933$6B9A3E75-5ABE-44B0-B079-1EAB76ED9970",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135933$E8109031-1136-4955-9B3F-308CCA514BA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135933$A6F1361B-75F8-49C6-A88C-A9A99640A43C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariamnes_of_Cappadocia_(1)"
+          },
+          "hash": "678c67fc5e18f53f8c872e50e5a2634a469bf469",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135933$4C08E454-B2D7-4937-8050-0E811F6E61E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136177",
+              "numeric-id": 136177
+            }
+          },
+          "hash": "08e2af48abfd57d1fb6fff5d242d58c98f9846d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135933$AF5DDFF6-13F6-4257-89A7-663D4FFFA77A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135933$485438E8-20EF-4345-A61D-25AF42D7DA10",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135933$AEB155BC-CAD2-414E-990C-28B750F9D011",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b759e7f5a58cca3bd092fbd5291b202d65fc47d1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135933$5DFFE263-C5FB-413D-B41F-DB23B60D3D8C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q547879"
+          },
+          "hash": "1301e13338b96bd5d3a7c99db221a299efab2dc6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135933$54CDA47E-535E-43C9-BB53-4FF13CFC5D75",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariamnes of Cappadocia Arms.svg"
+          },
+          "hash": "3a65d138ab5341ef0209fed5c6adf1454646c7ea",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herrscher von Kappadokien"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Cappadocia from 280 BC to 230 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Cappadoce"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Cappadocia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Каппадокии"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Каппадокії"
+    }
+  },
+  "id": "Q135933",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ariamnes"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арыярамн"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ariaramnes II"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ariamnes af Kappadokien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ariaramna"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριαράμνης Β' της Καππαδοκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariamnes of Cappadocia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ariaramnes II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ariamnes II.a"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariamne II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ariamnes II de Capadocia"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀριάμνης"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ariamne II di Cappadocia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ariaramnes II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ariaramnes II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ариарамн"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arijamno od Kapadokije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ariamnes of Cappadocia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ariamnes av Kappadokien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аріарамн"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ariamnes của Cappadocia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿里阿拉內斯二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿里阿拉内斯二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿里阿拉內斯二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿里阿拉內斯二世"
+    }
+  },
+  "lastrevid": 17552317,
+  "modified": "2025-09-17T10:35:49Z",
+  "ns": 860,
+  "pageid": 164318,
+  "sitelinks": {},
+  "title": "Item:Q135933",
+  "type": "item"
+}

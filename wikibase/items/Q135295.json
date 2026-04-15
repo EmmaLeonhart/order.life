@@ -1,0 +1,430 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artaphernes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135295$31D61E6E-CD84-40AD-A502-6E5B81155DBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737239"
+          },
+          "hash": "49ef3674dccf313fc73ab78ff9cf85e840ba306d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135295$A8A7E9D6-2D85-45F9-B5A2-EECD3AEE14CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135394",
+              "numeric-id": 135394
+            }
+          },
+          "hash": "d8c6761b675b98c45e827626dcdeecb34dbd92fd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135295$6BEF5C23-DE18-43E0-848A-51215B8DEA04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135295$FD317296-42E4-41F4-9DB9-8017FF41C821",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135295$C4B184D3-2DC1-43C4-88AA-1B453A9A6171",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74296",
+              "numeric-id": 74296
+            }
+          },
+          "hash": "d3fbfa7801db2392eb69ac3cae0545d5a2dd61a1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135295$2266855F-FF78-4C1B-B742-6CAD36E9AF06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135295$A95460C8-D636-47CE-833C-87DCE73FD533",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135295$4282CC52-980C-4675-904B-EF593ACE2064",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0493-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eae6d2862bc298f920761236d05440302f331cc7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135295$4C11DC8E-9119-4F62-B4D3-19B3163522CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q312893"
+          },
+          "hash": "d761679c4d2b175ece79517f1becd07940788283",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135295$DE2B3515-9104-4732-838A-F60FE7DCAD47",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artaphernes Arms.svg"
+          },
+          "hash": "7944d30d6f84787ca86533b1ac7bede25f45af46",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "general i sàtrapa persa de finals del segle VI/inicis del segle V aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "Satrap von ganz Ionien"
+    },
+    "en": {
+      "language": "en",
+      "value": "late 6th/early 5th-century BC Persian general and satrap"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Brother of the Achaemenid king of Persia, Darius I, and satrap of Sardis."
+    },
+    "es": {
+      "language": "es",
+      "value": "general y sátrapa aqueménida de finales del siglo VI y principios del siglo V a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اشرافزاده هخامنشی، ساتراپ لیدی و فرمانده نظامی پارسی در طول جنگ با یونان قرن پنجم پیش از میلاد"
+    },
+    "he": {
+      "language": "he",
+      "value": "בן ארטפרנס, מצביא פרסי בשירות דריווש הראשון"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare persiano, fratellastro di Dario I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "vader"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "sátrapa persa"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "satrap persan"
+    }
+  },
+  "id": "Q135295",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "I Artafern"
+    },
+    "be": {
+      "language": "be",
+      "value": "Артаферн I"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Артафэрн"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artafernes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artaphernes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρταφέρνης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artaphernes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Artaphernes"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Artaferno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artafernes"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Artafernes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرتافرنه یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Artafernes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artapherne"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Artaphernes"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Artafernes"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀρταφέρνης"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארטפרנס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Artafern"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Artafernes"
+    },
+    "id": {
+      "language": "id",
+      "value": "Artaphernes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artaferne"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルタプレネス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아르타페르네스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Artaphernes"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Artafernes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artaphernes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artafernes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artafernes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artafernes"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Artaphernes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артаферн I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Artafern"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Artafernes"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Artaphernes"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Артаферн"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Artafernes"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ортофернаи I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артаферн"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿塔佛涅斯"
+    }
+  },
+  "lastrevid": 17551316,
+  "modified": "2025-09-17T10:21:25Z",
+  "ns": 860,
+  "pageid": 163680,
+  "sitelinks": {},
+  "title": "Item:Q135295",
+  "type": "item"
+}

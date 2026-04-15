@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adranodorus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136418$3CD414D5-7C87-4B6A-ABCE-36CF9251D9FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136418$AB9B4EB7-99B0-467D-9CEF-EA0B56F4D752",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136418$BA1DFF20-4A0F-4714-B37B-F4AF42E9FBBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136137",
+              "numeric-id": 136137
+            }
+          },
+          "hash": "94a00e4377e683a36074499424b4dc75b440c1fe",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136418$7B219837-86DE-487E-AFDD-0A55A2BA8AAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136418$2ABBD172-860C-4F41-9C91-A08B5B6DAA1E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0299-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32a271ccdbad50327becc19d442bc4d84b869f3a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136418$9AD3FA71-6AD8-4201-9C12-61B06AF75F7A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0214-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6e51f53212221184b36dd82b27b75e77c314aff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136418$8EC202AD-C5E6-4557-AC21-3674F2149595",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2252722"
+          },
+          "hash": "aaf3b9002c511981748ff6f9b413baf62c718c7a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136418$F9CDC2E6-4F71-424A-AE3B-797A1FFA9A32",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adranodorus Arms.svg"
+          },
+          "hash": "7b6a2f2dede9c9a2802bea01994a0ea331be5d15",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tyrant of Syracuse"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در یونان باستان"
+    },
+    "it": {
+      "language": "it",
+      "value": "tiranno di Siracusa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q136418",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Andranòdoros"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adranodorus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adranodoro de Siracusa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Adranodoro Sirakusakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Andranodoros"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀδρανόδωρος"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Adranodoro de Siracusa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Adranodoro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adranodoros"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Adranodoro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Adranodoro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андранодор"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Адранодор"
+    }
+  },
+  "lastrevid": 17553073,
+  "modified": "2025-09-17T10:46:38Z",
+  "ns": 860,
+  "pageid": 164803,
+  "sitelinks": {},
+  "title": "Item:Q136418",
+  "type": "item"
+}

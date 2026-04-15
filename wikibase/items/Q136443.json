@@ -1,0 +1,363 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariarathes VIII of Cappadocia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136443$62C86F54-FD14-43B0-A3B0-6D03D7B5C84D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737788"
+          },
+          "hash": "0fc67ee4fa60c2c24c6c1d9102acb257de38cce5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136443$7F9C512F-4552-451E-930B-03C88D3ED659",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136443$3AAA923B-A890-4DC9-B30A-2B75D76A93E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136443$4D0C2152-2CE1-4A40-B232-EA2036E9FA0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariarathes_VIII_of_Cappadocia_(1)"
+          },
+          "hash": "635c972903ad4329cc6625eb6593eba1b9877c87",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136443$C07B2952-F7F9-47FC-9B4B-2AED77E99822",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136181",
+              "numeric-id": 136181
+            }
+          },
+          "hash": "026189c00cb2865aeb7a7252c408671e78f0a957",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136443$F50ED330-2D23-42E5-8D97-33A241874090",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136422",
+              "numeric-id": 136422
+            }
+          },
+          "hash": "9ad1423aa0b8b8c60bddea7673594283a66c0534",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136443$F89B15E0-8AA8-4ABE-B526-87B9B0ECECA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136443$9C098E66-D2FF-43C7-B6A8-34588D1EAD2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2861262e63b20d3d6ef7873ba4255e813a49e04f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136443$A1E632E7-5145-4D98-823E-BF58B0F75755",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19585ebc3231970eccfe06ed51100345dc7e3572",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136443$6D6B16AC-6088-4D2D-974F-063511B357B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1266634"
+          },
+          "hash": "8bf5f290a9d9c87ee66fbde6f792b217dc33d45f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136443$613C39D6-F0A3-4669-BB39-EB69D97B0648",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariarathes VIII of Cappadocia Arms.svg"
+          },
+          "hash": "4c9bf47a38d0790807db5e981c290b2ff28a2ca5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Kappadokien"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Cappadocia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Cappadoce"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Cappadocia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Царь Каппадокии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Kappadokien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Каппадокії"
+    }
+  },
+  "id": "Q136443",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ariarathes VIII"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арыярат VIII"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ariarates VIII"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ariarathes VIII af Kappadokien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ariarathes VIII."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριαράθης Η΄ της Καππαδοκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariarathes VIII of Cappadocia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ariarates VIII"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ariarates VIII.a"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariarathe VIII"
+    },
+    "he": {
+      "language": "he",
+      "value": "אריארתס השמיני"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ariarate VIII di Cappadocia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アリアラテス8世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ariarathes VIII of Cappadocia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ariarates VIII Epifanes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ariarate VIII"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ariarate VIII"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ариарат VIII"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arijarat VIII od Kapadokije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ariarathes VIII av Kappadokien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аріарат VIII"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ariarathes VIII của Cappadocia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿里阿拉特八世"
+    }
+  },
+  "lastrevid": 17553111,
+  "modified": "2025-09-17T10:47:16Z",
+  "ns": 860,
+  "pageid": 164828,
+  "sitelinks": {},
+  "title": "Item:Q136443",
+  "type": "item"
+}

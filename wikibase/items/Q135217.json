@@ -1,0 +1,374 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philinna"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135217$D819CD30-A58F-4D36-9F7C-E4A28DE4075F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736501"
+          },
+          "hash": "287084a74272831028c2b8365bf920d3051c6594",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135217$157FE4D9-022B-42F1-8DE8-C3D9F25D6BC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135221",
+              "numeric-id": 135221
+            }
+          },
+          "hash": "135876684fa44f062aa667aabdd215a4a15841c1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135217$1BC33827-E21B-41F0-99EB-6C7DD6BE701D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135217$353A2B45-C4CA-4520-A7D0-A433237D228C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135217$680F484F-6E82-4A05-B3EF-2C7E273F76A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135177",
+              "numeric-id": 135177
+            }
+          },
+          "hash": "0672f6e24aaf3e1cf8bb35c88a5cf992f02c72b6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135217$977ED56D-AA62-4512-B469-C6A41526D1F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135217$82EB20D5-BE4D-4FA2-AB73-2EBD8D426DF1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135217$E5B4A630-6968-421A-A861-5BAAEE1A4725",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135217$38E0B12D-8B0D-4A64-9AC3-3539E8311090",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q458602"
+          },
+          "hash": "c4fd73f93f69c15f630f9be8c5f4665b849542d7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135217$0932E404-7014-4C92-97D1-F4BB61579101",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philinna Arms.svg"
+          },
+          "hash": "86dc96ccf3d1edf539e7d011db0fd6de3274aa84",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "esposa de Felip II de Macedònia, mare de Filip III Arrideu"
+    },
+    "de": {
+      "language": "de",
+      "value": "durch Heirat Königin von Makedonien, Mutter Philipps III. Arrhidaios"
+    },
+    "el": {
+      "language": "el",
+      "value": "σύζυγος του Φιλίππου Β´ της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "spouse of Philip II, mother of Philip Arrhidaeus of Macedon"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antzinako Greziako poeta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "mère de Philippe III de Macédoine"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie di Filippo II, madre di Filippo III"
+    }
+  },
+  "id": "Q135217",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Філіна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Филина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Filinna"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Filina z Larisy"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philinna von Larissa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιννα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philinna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filina"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Filina Tesaliakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philinna de Larissa"
+    },
+    "he": {
+      "language": "he",
+      "value": "פילינה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Filina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filinna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ピリンナ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Filinna fra Larissa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philinna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Filina de Lárissa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filina de Lárissa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филина"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Filina"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Philinna"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Filinna från Larissa"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Philinna"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "菲莉涅"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "菲莉涅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "菲莉涅"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "菲莉涅"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "菲莉涅"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "菲莉涅"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "菲莉涅"
+    }
+  },
+  "lastrevid": 17551178,
+  "modified": "2025-09-17T10:19:29Z",
+  "ns": 860,
+  "pageid": 163602,
+  "sitelinks": {},
+  "title": "Item:Q135217",
+  "type": "item"
+}

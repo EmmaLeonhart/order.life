@@ -1,0 +1,318 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Histaspes"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135526$9DB70506-2A19-4991-8BFA-7CEEA93DD373",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1380241"
+          },
+          "hash": "3b07e8b3e7f1c08016b686c24edd958dc2f4a34c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135526$541A34A1-CE42-45D5-8D6C-9B3C4DC6EF30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135526$C973E3AC-50D8-4707-9F97-17FBED699CFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135526$DDE3E19B-66DD-4C88-A0FC-D7E5D6A42CF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74195",
+              "numeric-id": 74195
+            }
+          },
+          "hash": "a84097b36221d747f393264859914079065022dd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135526$61D395EB-9D3D-44BF-8FB7-AB23026DDDAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74192",
+              "numeric-id": 74192
+            }
+          },
+          "hash": "531d7ebec715c47a1ccb46fb25eaf5cc9cc78fb1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135526$708185EB-A5B6-4EAC-9B7F-40765B0F7FE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135526$64FD9768-33F4-4014-8FE2-0FE02A514A0B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135526$3404B29A-5AB9-44AA-A289-7E2F68DA98A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135526$78D814C9-D3FE-4B56-B2FF-2889AD3F0F56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3012214"
+          },
+          "hash": "03eb1a039a111b4d085190a69589d060ad0e52a1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135526$08C6DF24-DF0E-4A70-8360-C1BDC3641A1C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Histaspes Arms.svg"
+          },
+          "hash": "e094dc06436c29154c51e711780ddd0c0a3bb0de",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Sohn des Großkönigs Xerxes I., Satrap von Baktrien"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Ξέρξη Α΄  της Περσίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Second son of Xerxes I of Persia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Segundo hijo de Jerges I"
+    }
+  },
+  "id": "Q135526",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "الهستاس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гістасп"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Histaspes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hystaspes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Υστάσπης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Histaspes"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Hystaspes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Hystaspes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Histaspes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ویشتاسپ"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Histaspès"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Histaspes"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヒスタスペス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Histaspes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Histaspes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Histaspes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гистасп (сын Ксеркса I)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Histaspes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希斯塔斯普"
+    }
+  },
+  "lastrevid": 17551700,
+  "modified": "2025-09-17T10:26:58Z",
+  "ns": 860,
+  "pageid": 163911,
+  "sitelinks": {},
+  "title": "Item:Q135526",
+  "type": "item"
+}

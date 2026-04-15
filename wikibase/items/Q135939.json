@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Timotheus of Heraclea"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135939$64D7576A-46FF-4105-A497-F17DED005DE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135939$E176A0ED-DF5A-48C4-8D10-73B110B7A971",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135939$FF3DB99E-696F-4ACC-9989-44D9B44D12B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135761",
+              "numeric-id": 135761
+            }
+          },
+          "hash": "fb6d3a77cc95b768abc8e3f2241274eade55d1a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135939$CE160AF2-14C4-4ED9-B978-186E0A512347",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135939$F660BF91-AFB8-49CA-A987-181261F3B5FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0367-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9e3f45fb18baee45b83a16917c7504f5c243acc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135939$81AB168F-9603-46C5-92FC-4440755C4339",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0337-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ba7bf6b874d794f4a1eca346875b6825c20df4f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135939$67A33ADF-419C-4DC0-B134-470977FD7DD5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1100648"
+          },
+          "hash": "a0178241867ec25ccf98f307e4655a6544f5df5f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135939$760458DE-58F6-415F-B1F6-3E134ED77CE9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Timotheus of Heraclea Arms.svg"
+          },
+          "hash": "628b7622695891adc5b7f7787fd1aa9334439da0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Dynast von Herakleia Pontike"
+    },
+    "en": {
+      "language": "en",
+      "value": "tyrant of Heraclea (died 338 BC)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tyran d'Héraclée"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "тиран Гераклеи Понтийской в 345—337 гг. до н. э."
+    }
+  },
+  "id": "Q135939",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Timoteu d'Heraclea"
+    },
+    "de": {
+      "language": "de",
+      "value": "Timotheos von Herakleia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Timotheus of Heraclea"
+    },
+    "es": {
+      "language": "es",
+      "value": "Timoteo de Heraclea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Timothéos d'Héraclée"
+    },
+    "id": {
+      "language": "id",
+      "value": "Timotheos dari Heraklea"
+    },
+    "it": {
+      "language": "it",
+      "value": "Timoteo di Eraclea"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Timotheus of Heraclea"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tymoteusz z Heraklei"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Timóteo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Timóteo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тимофей Гераклейский"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тімофей Гераклейський"
+    }
+  },
+  "lastrevid": 17552327,
+  "modified": "2025-09-17T10:35:58Z",
+  "ns": 860,
+  "pageid": 164324,
+  "sitelinks": {},
+  "title": "Item:Q135939",
+  "type": "item"
+}

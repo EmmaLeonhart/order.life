@@ -1,0 +1,408 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eurydice"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135362$9919542A-8F07-4AB0-BEC8-EEACABF599EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "667057"
+          },
+          "hash": "fe840728df1678b572bf6dd99384c172c761c682",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135362$1855EE58-8340-43B3-976D-6EE47080AC67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736328"
+          },
+          "hash": "5d08151a2512c4f634853da6d1d2b33bef0261ab",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135362$6A57399C-5F13-4A4C-8945-840C2CB3D653",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135362$3161E991-7E72-48E8-8A45-88319F3C6082",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135362$9B7D9C49-C74C-443C-9D2C-883E1A47ACD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135281",
+              "numeric-id": 135281
+            }
+          },
+          "hash": "0b728080ee98f6fadfe2d05558a3160fca70c263",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135362$B902A524-DA64-4446-967B-EE7F965BFE4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73722",
+              "numeric-id": 73722
+            }
+          },
+          "hash": "6fff804df3870fe90e971fc5c0cfbdc1fc435f78",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135362$2ECD2EE1-6474-4201-B742-B355E7161EEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73725",
+              "numeric-id": 73725
+            }
+          },
+          "hash": "06a20fb406729eaf25b1db9a3e5eb290b0c66c9e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135362$FC63501C-5AAC-403B-9CA5-6C4BD316E2BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135362$6103182D-5937-40ED-B875-00A0BFEE1CF7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135362$AAE7E3DA-354C-49B3-9454-D2F59D0DD019",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135362$8E86B146-EDA2-4D56-8AFD-A3423E12376B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q458544"
+          },
+          "hash": "6dc4080f415986be64b476979b8a0413550363bb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135362$7C2F2282-0A13-42B7-9D89-7CA0BE55B462",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eurydice Arms.svg"
+          },
+          "hash": "9e86506a02379d3a6ecd4d7956e62aae58073a11",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "Antipatrova manželka"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gemahlin des makedonischen Königs Antipater"
+    },
+    "el": {
+      "language": "el",
+      "value": "σύζυγος του βασιλιά Αντίπατρου Β΄ της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Antipater"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Antípatro II de Macedonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse d'Antipater, co-roi de Macédoine"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Lisimaco, moglie di Antipatro II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "drottning av Makedonien"
+    }
+  },
+  "id": "Q135362",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Эўрыдыка"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Евридика"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eurídice"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Eurydika"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eurydike"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ευρυδίκη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eurydice"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eurídice"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eurydice"
+    },
+    "he": {
+      "language": "he",
+      "value": "אאורידיקה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Էվրիդակա IV"
+    },
+    "it": {
+      "language": "it",
+      "value": "Euridice"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エウリュディケ (リュシマコスの娘)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eurydice"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Eurydyka IV z Macedonii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Eurídice"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Eurídice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эвридика"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eurydike"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Еврідіка"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Eurydice"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "歐律狄刻"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "欧律狄刻"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "欧律狄刻"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "歐律狄刻"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "歐律狄刻"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "欧律狄刻"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "歐律狄刻"
+    }
+  },
+  "lastrevid": 17551426,
+  "modified": "2025-09-17T10:23:00Z",
+  "ns": 860,
+  "pageid": 163747,
+  "sitelinks": {},
+  "title": "Item:Q135362",
+  "type": "item"
+}

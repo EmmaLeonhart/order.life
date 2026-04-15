@@ -1,0 +1,394 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artabazos I of Phrygia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135299$CAC40139-0AF2-4118-8AD8-9E83863BCA73",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736342"
+          },
+          "hash": "a26848aa7636e781237d7b489e1a4dd45a478d28",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135299$1733E484-C320-4C9B-95B8-453AAAF3D14D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135403",
+              "numeric-id": 135403
+            }
+          },
+          "hash": "abd374399cb616c71d111ea2fba16d894c458902",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135299$C5373FCD-0767-44E7-A5DA-CF1707485E26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135299$5F727C51-3401-463A-8470-85FC9EE417E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135299$1AAB9555-426B-4F8F-99F9-216A552B1296",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135230",
+              "numeric-id": 135230
+            }
+          },
+          "hash": "377024e4789db4f30a00acfbcfb775d9935feab5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135299$42A63200-9750-44EA-B1F1-EF092E09121D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135299$9265FC13-10AC-47E5-B843-DBCACA8AAF39",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135299$AA9EFBDF-999B-4B3F-8359-1FE67B953C2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77495cc05f40c7ef11647d047f7152fd5779e400",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135299$E57B98F1-D530-4EEA-830F-B074023BF00A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q347628"
+          },
+          "hash": "61bdcf6319986e4acadde141d3c2184b721c8e77",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135299$28FCA54C-90DA-4937-BE68-578A33B81353",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artabazos I of Phrygia Arms.svg"
+          },
+          "hash": "6001f681bf1ac093189175cadde6ef569609dd91",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "persischer Heerführer"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century BC Persian general and satrap"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ساتراپ هخامنشی فریگیه هلسپونت"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général et satrape perse"
+    },
+    "it": {
+      "language": "it",
+      "value": "satrapo persiano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Iran (600v Chr-500v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "perski satrapa Frygii"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "general și satrap persan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сатрап Фригии"
+    }
+  },
+  "id": "Q135299",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ارتابازوس الاول من فريجيا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Артабаз I"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Артабаз I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artabazos I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artabazos I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρτάβαζος Α΄ της Φρυγίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artabazos I of Phrygia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artabazo I"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرتاباز یکم (فریگیه)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artabaze"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀρτάβαζος"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Artabaz I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Artabazo I"
+    },
+    "id": {
+      "language": "id",
+      "value": "Artabazus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artabazo I di Frigia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルタバゾス1世 (フリギア)"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არტაბაზე I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아르타바주스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Artabazus I"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Artabazus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artabazus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artabazos I Frygijczyk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artabazo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artabazo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Artabazos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артабаз I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Artabaz I"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ардавази I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артабаз I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔塔巴佐斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿尔塔巴佐斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿尔塔巴佐斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿爾塔巴佐斯"
+    }
+  },
+  "lastrevid": 17551324,
+  "modified": "2025-09-17T10:21:32Z",
+  "ns": 860,
+  "pageid": 163684,
+  "sitelinks": {},
+  "title": "Item:Q135299",
+  "type": "item"
+}

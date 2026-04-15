@@ -1,0 +1,566 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Demetrius II Aetolicus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135490$153271E9-6A45-4D3B-B5D3-7258A92C2180",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "465422"
+          },
+          "hash": "6f517cc4885e6daeeb79c51cc86afeb1bb081662",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135490$586F5ECB-F3ED-447B-8042-991C03E66BEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736311"
+          },
+          "hash": "eaa913505025bea90a27417fac063b943ad396b5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135490$859BA67C-2270-46D9-BF82-5294A1B0ABB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135629",
+              "numeric-id": 135629
+            }
+          },
+          "hash": "7d73fce7ea05e172b142ffe0407085fa6cb35699",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135490$F11BBEEA-3B2F-49BB-995F-2E127D854C3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135630",
+              "numeric-id": 135630
+            }
+          },
+          "hash": "b2dcbe36a42c0deecc3c1def55c8e50cf7f27ddc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135490$1B5D84BD-3FE9-4777-9AA3-4EA35008982D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135490$A211F5BF-73DB-4D80-AFEF-79322B02635F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135490$B3C14D31-C3BB-48A4-BA58-C1CB16A7476D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135628",
+              "numeric-id": 135628
+            }
+          },
+          "hash": "16e73e42fc4c9125454fc249b7e2d13bd4b1ae50",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135490$F77B801B-BAAB-4239-8114-71CB4828F91D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135592",
+              "numeric-id": 135592
+            }
+          },
+          "hash": "1288f63f6b6d3fc0a8f7d83f466c9a93c353adf1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135490$EF3BBD00-BE09-42EE-8196-A8C6DF4A34C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135625",
+              "numeric-id": 135625
+            }
+          },
+          "hash": "02e37a860448d0cfd29f0e1ee52010229346df90",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135490$6C63BBA3-8F18-4617-80A2-8A201E952AE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135494",
+              "numeric-id": 135494
+            }
+          },
+          "hash": "cea9f7cbddf65b85c2ced2daffbc7d43211a8b6f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135490$3D107F97-8AE1-4C35-BA70-081CA6940BDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135350",
+              "numeric-id": 135350
+            }
+          },
+          "hash": "cd767a80b024ee4343114eaebe1604dbef2c9319",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135490$A52AFBC8-565F-45F5-9C9B-8C391171C7E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135489",
+              "numeric-id": 135489
+            }
+          },
+          "hash": "6bb04364d7c876f24148e9d3088f2d21f35eb161",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135490$0566C511-FE68-46BF-95D4-B6539DD3CDC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135490$0BCA741E-6B1A-4066-B891-54999D37C21A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0269-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95e30f27c55a6f2814c30bfb34e47e19bc1b9a27",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135490$57730771-9DFF-4C72-8861-93E971639D38",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0229-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "56fbffe3a3239642903ccff3f614cd49132dfa29",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135490$47C36C60-39BC-4197-A239-CA70A1CEA600",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313847"
+          },
+          "hash": "eb1a91edefeaed721b1354fae570c16c0894b3d0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q135490$B3ACD9E8-376D-4656-BA9E-0D45A436AC32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:51943"
+          },
+          "hash": "c614c4cb986a95053895741d4255b161cca6c166",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135490$6039E716-FAA8-46C8-B09B-B3C7191B2677",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Demetrius II Aetolicus Arms.svg"
+          },
+          "hash": "73514364ec99d0ffc5ef4ff686f23d07dd0a5176",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Makedonien"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Macedonia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reĝo de Makedonio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Macédoine"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Makedónia királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Macedonia (r. 239-229 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニア王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Macedonisch monarch (268 VC-228 VC)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Macedonii"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ античке Македоније од 239. до 229. године п. н. е. и представник династије Антигонида"
+    }
+  },
+  "id": "Q135490",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Деметрий II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Demetri II de Macedònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Démétrios II. Makedonský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Demetrios II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Δημήτριος Β΄ Αιτωλικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Demetrius II Aetolicus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Demetrio la 2-a de Makedonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Demetrio II de Macedonia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Demetrios II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Démétrios II de Macédoine"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמטריוס השני איטוליקוס, מלך מוקדון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Démétriosz makedón király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Demetrios II Aitolikos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Demetrio II di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デメトリオス2世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "데메트리오스 2세"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Деметриј II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Demetrios II van Macedonië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Demetriusz II Antygonida"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Demétrio II da Macedônia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Demétrio II da Macedônia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Деметрий II Этолийский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Demetrije II od Makedonije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Demetrius II Aetolicus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Деметрије II Македонски"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Деметрије II Македонски"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Demetrije II Makedonski"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Demetrios II Aetolicus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Деметрій II Етолійський"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Demetrios II của Macedonia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德米特里二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "德米特里二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "德米特里二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "德米特里二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "德米特里二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "德米特里二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "德米特里二世"
+    }
+  },
+  "lastrevid": 17551648,
+  "modified": "2025-09-17T10:26:13Z",
+  "ns": 860,
+  "pageid": 163875,
+  "sitelinks": {},
+  "title": "Item:Q135490",
+  "type": "item"
+}

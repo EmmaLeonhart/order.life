@@ -1,0 +1,415 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pharnabazus II"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135437$BFFB2774-A4D7-4229-B913-3E7F030477C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736345"
+          },
+          "hash": "b10d2f8fe0e201dadd8eb1c4e24f1320dde5f1c8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135437$CE274228-A590-43B3-899E-45BC0EE1EBBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135324",
+              "numeric-id": 135324
+            }
+          },
+          "hash": "b57f9642be67382c6a290c2c510ea141732833ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135437$4333C691-7973-489C-8EAB-B114FF14EB75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135437$4446B160-9595-47FE-8AC5-742B8F7C0881",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135437$D1FD7611-F522-46F3-B17B-BD490273791E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135438",
+              "numeric-id": 135438
+            }
+          },
+          "hash": "9d63b3bce39b2db0d6c8b1c40282a041d78d0266",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135437$AE07F1A2-025F-446F-9F39-661D3DFC9EB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135538",
+              "numeric-id": 135538
+            }
+          },
+          "hash": "c279366f3fee7f49503ee66e1f0594aa09bca92a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135437$81AF614C-4F16-43F9-9043-61DFCC7EE7F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135437$102DB7ED-FAF9-4EB5-9902-370684172C04",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135437$9B4E5657-7E2A-49B8-821E-C94006AF530A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135437$AA935B76-5172-47FC-ACA8-46B98E6B5C40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q458256"
+          },
+          "hash": "7269e045b13952e6a7444feebeaf827e72770cf3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135437$DD10A7CD-CF2C-40A2-9DF8-2946F891D5D9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pharnabazus II Arms.svg"
+          },
+          "hash": "8576c07a08a001fd3950001838b0a37a59a6b4a0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "пэрсыдзкі сатрап Фрыгіі"
+    },
+    "de": {
+      "language": "de",
+      "value": "persischer Satrap"
+    },
+    "en": {
+      "language": "en",
+      "value": "Persian satrap of Hellespontine Phrygia from 413 to 374 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ساتراپ فریگیه هلسپونت از سال ۴۱۳ تا ۳۷۴ پ.م."
+    },
+    "he": {
+      "language": "he",
+      "value": "מצביא ומדינאי פרסי"
+    },
+    "it": {
+      "language": "it",
+      "value": "satrapo persiano"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "wódz perski, satrapa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сатрап Фригии и Киликии"
+    }
+  },
+  "id": "Q135437",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فارنابازوس التانى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Фарнабаз II"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Фарнабаз II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фарнабаз II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Farnabazos II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pharnabazos II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Φαρνάβαζος Β΄ της Φρυγίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pharnabazus II"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pharnabazus II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pharnabazus II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Farnabazo II"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فارناباز دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pharnabaze"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Φαρνάβαξοσ"
+    },
+    "he": {
+      "language": "he",
+      "value": "פרנבזוס השני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Farnabaz II."
+    },
+    "id": {
+      "language": "id",
+      "value": "Farnabazos II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Farnabazo II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ファルナバゾス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "파르나바조스"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Farnabazos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pharnabazus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Farnabazos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Farnabazos II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Farnabazo II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Farnabazo II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фарнабаз II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Farnabaz"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pharnabazos II, Satrap of Phrygia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фарнабаз II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Farnabazos"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Фарравази II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фарнабаз"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "法尔纳巴佐斯二世"
+    }
+  },
+  "lastrevid": 17551562,
+  "modified": "2025-09-17T10:24:56Z",
+  "ns": 860,
+  "pageid": 163822,
+  "sitelinks": {},
+  "title": "Item:Q135437",
+  "type": "item"
+}

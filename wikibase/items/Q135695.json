@@ -1,0 +1,491 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Ursula"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135695$2BC6AE58-4A14-4963-BC7F-873CB94FC974",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135699",
+              "numeric-id": 135699
+            }
+          },
+          "hash": "e2abc26a440eb05726af04d6f7094ee87d07ddd0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135695$2B679154-6EF4-480A-81DC-9ECF49F412AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135695$9EB1A067-B6BA-470F-9AAB-1A6F979751A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135695$8A007134-5089-405B-9577-F7CCAFD22D86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135556",
+              "numeric-id": 135556
+            }
+          },
+          "hash": "7a71719b7a7926881fa69b2efad50cede8454ee9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135695$8101980C-F31B-455C-8A09-96FD96045798",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135816",
+              "numeric-id": 135816
+            }
+          },
+          "hash": "4d24aa75284eed120cc9aaababcd8a8f95d32290",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135695$B573C2F0-7A87-4793-82C7-0F4199A9C611",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135695$BE4FA58E-D44C-40B3-80D8-F276B917425C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0400-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b25d6a5bd14cdc6596403ea6b972ca928cb2a01",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135695$2119EA53-3B20-4396-933A-6ADE34919DC6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0385-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "044d45d460bdb4221c9deb69c2aa1826cb949414",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135695$8871D8FF-D84A-4852-B0C5-137146C33E86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q369691"
+          },
+          "hash": "d0f6a5747d003f1d53e0f7cfa023a1302af7eb74",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135695$2BEE7A0E-C7A0-46CA-BFF5-A48DC9F1647C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint Ursula Arms.svg"
+          },
+          "hash": "35b2b4fc1ee75d575ba47f434f849bb732167a0d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q135695$A6750F8B-F0B3-41BF-8D6B-C5128E04B1BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/bff5007e-6670-4dd3-ae4c-5324f0aac580|term/FBE1A4DE-483C-46AF-AC3C-E930F2165C12"
+          },
+          "hash": "b778a40cabe7b4f266d6def950d620e4be713de6",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "франская сьвятая"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "римска светица"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kölner Legendenfigur"
+    },
+    "en": {
+      "language": "en",
+      "value": "Frankish saint"
+    },
+    "es": {
+      "language": "es",
+      "value": "Santa y mártir cristiana"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ranskalainen pyhimys"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sainte catholique"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római katolikus egyház szentje"
+    },
+    "it": {
+      "language": "it",
+      "value": "martire cristiana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duise heilige"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "santa católica"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "frankovska svetnica"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Frenk azizesi"
+    }
+  },
+  "id": "Q135695",
+  "labels": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сьвятая Уршуля"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Урсула"
+    },
+    "br": {
+      "language": "br",
+      "value": "Santez Ursula"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Úrsula de Colònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Svatá Voršila"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ursula"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sankt Ursula"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ursula von Köln"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγία Ούρσουλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Ursula"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Saint Ursula"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Saint Ursula"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Sankta Ursulo de Kolonjo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Úrsula de Colonia"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ursula"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Santa Urtsula"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ursula"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sainte Ursule"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Naomh Ursula"
+    },
+    "he": {
+      "language": "he",
+      "value": "אורסולה הקדושה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sveta Uršula"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szent Orsolya"
+    },
+    "id": {
+      "language": "id",
+      "value": "Santa Ursula"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sant'Orsola"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖ウルスラ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "우르술라"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ursula Coloniensis"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Den hellige Ursula"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ursula van Keulen"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Den hellige Ursula"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Urszula z Kolonii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Santa Úrsula"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Santa Úrsula"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sfânta Ursula"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Святая Урсула"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sveta Ursula"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Uršula"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Uršula iz Kölna"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Света Урсула"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ursula"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Ursula Mtakatifu"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Santa Ursula"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ursula (azize)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Урсула Колонська"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Ursuła de Cołònia"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Saint Ursula and the 11,000 virgins"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "聖吳甦樂"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "聖吳甦樂"
+    }
+  },
+  "lastrevid": 17551985,
+  "modified": "2025-09-17T10:31:01Z",
+  "ns": 860,
+  "pageid": 164080,
+  "sitelinks": {},
+  "title": "Item:Q135695",
+  "type": "item"
+}

@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariomardus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135397$EBC4FA4E-0A0C-450C-AEB1-F042A1CA3A8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135397$EAA2844F-6826-4809-80F1-3FDB1C2D1834",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135397$D966846D-0EFE-4F93-A119-E659C36680F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135296",
+              "numeric-id": 135296
+            }
+          },
+          "hash": "3dd3f76a8450abb64fad9c5830f990415cba6a84",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135397$07D3B367-A817-4DDB-AD34-07C62FCA3E69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135397$4AC6D608-5227-4F7B-ACC1-1330941E94DE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0401-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a32685df648ac40e949818f79ce3ac6afbec7e66",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135397$690739A8-D664-42AF-8D1B-057E1F33F6DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8204395"
+          },
+          "hash": "3bc62d477149f984ec72608135b482dd5402a568",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q135397$DCF487F0-9F3F-496B-AB8D-6B46B7FEFD1F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariomardus"
+          },
+          "hash": "12a3502d3f689d5fd46a46a63c2a446d178b099d",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135397$2F18CD24-0156-4C35-BC3C-6FF9F6921573",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariomardus Arms.svg"
+          },
+          "hash": "91c6d1bf4e3373c554a04c89fb71b3886fc32aba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Artabanus"
+    }
+  },
+  "id": "Q135397",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ariomardo"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арыямард, сын Артабана"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Арыямард (сын Артабана)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariomardus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ariomardo (hijo de Artabano)"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ariomardus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ariomardo"
+    }
+  },
+  "lastrevid": 17551484,
+  "modified": "2025-09-17T10:23:49Z",
+  "ns": 860,
+  "pageid": 163782,
+  "sitelinks": {},
+  "title": "Item:Q135397",
+  "type": "item"
+}

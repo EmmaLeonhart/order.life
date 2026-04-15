@@ -1,0 +1,471 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus VI Dionysus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136150$90CBB6D9-0AA3-4E2B-BD54-E6023F186E2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "463410"
+          },
+          "hash": "519cd9a37c12854c1e3bcc6772041f7b001f6fdd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q136150$CE13A5BE-5667-4C45-B55F-F17C61C36838",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00732642"
+          },
+          "hash": "f34417bd7f4f7b554b14bedc8b425ffcd080062b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136150$B0226B99-0892-4AE0-A627-6BB7F461F311",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136150$ADDE8EA3-4678-46C5-8376-821A570ADDF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136150$EAA98751-D7F3-4BE6-A6D3-11CF5CC0C93F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136146",
+              "numeric-id": 136146
+            }
+          },
+          "hash": "a1852d37a6fe9cdac5d617dbedaf7ed256172872",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136150$CA5E2F0E-8561-4D63-AD6F-6387A72E4B1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73044",
+              "numeric-id": 73044
+            }
+          },
+          "hash": "3165c719074b77ab694d85cca2204af61baf9f05",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136150$F3239BCB-D98E-4528-BA03-5A78FE00EDD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136150$DA0061F0-9281-4721-BF19-6CF759DE2608",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0148-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fb4522112174b0f3de80ac14a4019673a85cbd5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136150$72917C7A-1272-441D-85D8-C1861799C7D4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0138-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "15bd72e8bc746cb6930b0b91e1bcfa4c3ba83f71",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136150$D0289E38-98DA-46D4-AA15-051DD9DB9304",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q298624"
+          },
+          "hash": "ca0c053c5f9578bcd9409eb1a6157ce9285bd17e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136150$B2389372-B6F7-44DB-B8E9-2794AA3A2171",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus VI Dionysus Arms.svg"
+          },
+          "hash": "a44873312e3ef2a28fa4a3510838f6caf2035175",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König des Seleukidenreichs"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seleucid ruler"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de la dinastía seléucida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך הממלכה הסלאוקית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス朝の君主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Seleucidische rijk (147 VC-141 VC)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Selefkî hükümdarı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "правитель держави Селевкідів"
+    }
+  },
+  "id": "Q136150",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس السادس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس السادس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "سککیزینجی آنتیوخوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх VI Дыяніс Эпіфан"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох VI Дионисий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc VI Dionisi"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 6. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos VI."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος Στ' Διόνυσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus VI Dionysus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Antioĥo la 6-a Dionizo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco VI Dioniso"
+    },
+    "et": {
+      "language": "et",
+      "value": "Antiochos VI Dionysos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko VI.a Dioniso"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس ششم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos VI Dionysos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos VI"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aintíochas VI Dionysus"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס השישי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VI. Antiokhosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos VI Dionysos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco VI"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス6世ディオニュソス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티오코스 6세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus VI Dionysus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos VI Dionysus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus VI Dionysus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch VI Epifanes Dionizos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco VI Teos Epifânio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco VI Teos Epifânio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох VI Дионис Эпифан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh VI Dioniz"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antioh VI. Dioniz"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antiochus VI Dionysus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох VI Дионис"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos VI"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VI. Antiohos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох VI Діоніс"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos VI Dionysos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安條克六世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安条克六世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克六世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克六世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安條克六世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安条克六世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安條克六世"
+    }
+  },
+  "lastrevid": 17552651,
+  "modified": "2025-09-17T10:40:34Z",
+  "ns": 860,
+  "pageid": 164535,
+  "sitelinks": {},
+  "title": "Item:Q136150",
+  "type": "item"
+}

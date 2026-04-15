@@ -1,0 +1,359 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Selyf ap Cynan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136057$34348C2F-6064-4431-B342-5705F8752C80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00773704"
+          },
+          "hash": "90e1e1616276bc207fef13caa970a4ab7736da7e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136057$31E7ABC7-17C1-41E9-97C9-2A3FC12D77D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136291",
+              "numeric-id": 136291
+            }
+          },
+          "hash": "dbf7c9d1464fc69e15832f667e56e29c54650762",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136057$B8270203-EC63-4CDB-864B-95351F6E129F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136290",
+              "numeric-id": 136290
+            }
+          },
+          "hash": "6dde8a3094a5188f8032fe6f47c1e7c654b720f5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q136057$2DF37784-43DD-4AB8-97E5-309A168DC56C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Cynan-8"
+          },
+          "hash": "231be3b35a01ff0911e58cdd3e510c3e6d2b6036",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136057$96137160-63D5-4F9B-AF8C-DE8BD1D6AF34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136057$3593BADC-B558-47FC-AF31-B12D9DC2C96A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136057$00310789-EEAB-4A8D-9FD6-978F200A2BBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135831",
+              "numeric-id": 135831
+            }
+          },
+          "hash": "3e66309bfff7febe4d51a70d578dbbc59a4bc468",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136057$46285BC5-7663-43BC-B19F-3A702DB3BF79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136057$A30F9EE6-D90B-49CA-AE9E-DE43D714672A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0586-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0a8d32cf1ed3bf99746ff4a1a0bd773280d19d5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136057$E5924913-D88C-4D34-92D4-B4EAED5DDD2C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0613-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "592d9ca40660b1a66f2ac4263693a82ef43d42f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136057$F5707A00-CF20-48BF-BE04-C004FA12D007",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2426687"
+          },
+          "hash": "42013b45fce7df57b52b192aa6f92576ac8f624a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q136057$7198F15C-E59C-4CFF-9A9B-888D4CDDB0CC",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Selyf ap Cynan"
+          },
+          "hash": "20261f101ec9eb167913b01259416fd6eb46ee38",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136057$CEC6D4DD-7E31-40AF-BCB3-26206DB89942",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Selyf ap Cynan Arms.svg"
+          },
+          "hash": "b0a18002fe70363d45acd5daffd0f6ad50c075af",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin Teyrnas Powys"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of the Kingdom of Powys"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Powys"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    }
+  },
+  "id": "Q136057",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Selyf Sarffgadau"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Selyf ap Cynan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Selyf ap Cynan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Selyf ap Cynan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Selyf ap Cynan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Selyf ap Cynan"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Selyf ap Cynan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Selyf Sarffgadau"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Selyf ap Cynan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Selyf Sarffgadau"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セリヴ・アプ・カナン"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Selifas ap Kinanas"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Selyf ap Cynan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Selyf ap Cynan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Selyf ap Cynan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Селив Боевой Змей"
+    }
+  },
+  "lastrevid": 17552513,
+  "modified": "2025-09-17T10:38:38Z",
+  "ns": 860,
+  "pageid": 164442,
+  "sitelinks": {},
+  "title": "Item:Q136057",
+  "type": "item"
+}

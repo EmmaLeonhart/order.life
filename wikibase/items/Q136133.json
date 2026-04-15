@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amadocus III"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q136133$31133E53-45E9-4315-A9B8-86624282D513",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136415",
+              "numeric-id": 136415
+            }
+          },
+          "hash": "c1c6a9297ca2fe1e150e415ef8d672b99c3f954c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136133$57BA8D37-3506-44DB-AF33-F8E510593AC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136133$328FBAE0-E54C-4D31-ACF1-61873D4C8B25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136133$17EBA8F2-BF81-4AA5-BDE1-1F9D3DB299C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135907",
+              "numeric-id": 135907
+            }
+          },
+          "hash": "863ce5fa6c76fb4dab1ed15fc3a2f74935a64050",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136133$8A0CA6AF-A2EC-45EF-A230-1B8D892900F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136133$D03EDAF3-86A0-458D-8A11-339BC49FDBE6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0171-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "68e97b00a3ebdcf71ec38000364da597fa1081f4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136133$E7573889-BEE0-4FE0-B71B-4431861F777F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4740618"
+          },
+          "hash": "e734408fcb553acb876aa3a62f67dba5b9d166c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136133$985E17F5-37A0-4997-A4CD-84805B74A5FE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amadocus III Arms.svg"
+          },
+          "hash": "460cb69dcd1a3b4ba28817711b5ff0d446fe5c35",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς των Οδρυσών στη Θράκη"
+    },
+    "en": {
+      "language": "en",
+      "value": "odrysian king in ancient Thrace"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi des Odryses"
+    }
+  },
+  "id": "Q136133",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Amadocos III"
+    },
+    "de": {
+      "language": "de",
+      "value": "Amadokos III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αμάδοκος Γ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Amadocus III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Amadocos III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amatokos III"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Amatokos III"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Медок III"
+    }
+  },
+  "lastrevid": 17552625,
+  "modified": "2025-09-17T10:40:12Z",
+  "ns": 860,
+  "pageid": 164518,
+  "sitelinks": {},
+  "title": "Item:Q136133",
+  "type": "item"
+}

@@ -1,0 +1,268 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Seraiah"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135151$B74AD020-6004-4F52-9635-F181F4290242",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135187",
+              "numeric-id": 135187
+            }
+          },
+          "hash": "199ca0f7d6da9a4517eabce4d8a48a8d20f99e53",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135151$2B415696-49FE-495D-9A4D-A6DD136D3641",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135186",
+              "numeric-id": 135186
+            }
+          },
+          "hash": "162710041d5052f757cdb570f38eed815305cf05",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135151$0DD2F514-8778-421C-BA77-2A135AE3A18B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135151$82A4B4E7-1682-4C47-8103-D66D405841A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135151$070DCAC8-10F0-4D1E-BCD9-60ADDF2FDF16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135120",
+              "numeric-id": 135120
+            }
+          },
+          "hash": "b6a778f1020f6ea6367f6d27e7c30769680b0f0d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135151$B8591332-B54B-46F0-9B01-C9830DC5EEAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135151$FBB5CADA-DF4E-4E9E-91F2-D20115C15EF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca0f7e18475fc648e1a286f4ce5787e81e10b187",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135151$E7B719A7-BF1C-4531-BDF8-719CF9D15225",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18192237"
+          },
+          "hash": "3e4efeef88114fe00e4a7f9f15c24c782186177f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135151$618CE46F-165F-4C4A-9E2F-4F6ACF67926D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seraiah Arms.svg"
+          },
+          "hash": "1728446b66443fa74f8f85be65da5779fc6e08c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the last High Priest until destruction of Jerusalem by Nebuchadnezzar (2 Kings 25)"
+    },
+    "he": {
+      "language": "he",
+      "value": "כהן גדול בתקופת בית ראשון"
+    },
+    "it": {
+      "language": "it",
+      "value": "sommo sacerdote"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Joods hogeprister"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "zadnji visoki duhovnik do uničenja Jeruzalema s strani Nebukadnezarja (2 Kr 25)"
+    }
+  },
+  "id": "Q135151",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Seraja"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seraiah"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Saráiá"
+    },
+    "he": {
+      "language": "he",
+      "value": "שריה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Seraià"
+    },
+    "la": {
+      "language": "la",
+      "value": "Saraias"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Seraja"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Seraja"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Seraías"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Seraías"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Serajaj"
+    }
+  },
+  "lastrevid": 17551056,
+  "modified": "2025-09-17T10:17:44Z",
+  "ns": 860,
+  "pageid": 163536,
+  "sitelinks": {},
+  "title": "Item:Q135151",
+  "type": "item"
+}

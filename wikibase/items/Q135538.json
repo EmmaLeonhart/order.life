@@ -1,0 +1,349 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pharnaces II of Phrygia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135538$A6F88CD5-4282-4D6B-96E3-63D595808DA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736344"
+          },
+          "hash": "d254c8c33410aa192fcd74ba18b5ebe7ac7b553d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135538$58E0A710-6343-483F-BA25-0E41090427B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135437",
+              "numeric-id": 135437
+            }
+          },
+          "hash": "fad336f0c7aaeeaeff13761602d0884ce5086599",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135538$2059C712-E692-41D6-8EB0-415428BB47A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135672",
+              "numeric-id": 135672
+            }
+          },
+          "hash": "0193a8914cddebc0a1cb8614a0503e307293051d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135538$F3E65B9D-C7C5-4660-B835-5D305605F189",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135538$78DD8698-9C5B-4974-A4E6-D10313152DA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135538$9186BD2A-175D-4688-AF68-3CC059965FE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135403",
+              "numeric-id": 135403
+            }
+          },
+          "hash": "1f648495a6727c15c4506d76ad11548011d77aa5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135538$489C3DEE-B279-418C-91EC-5E96EAE8737C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135538$A92F162E-182A-453F-BAF4-124DEEF55A30",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135538$019D0E93-F4F2-4F9F-81E2-817783DD000E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0460-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f59935d604f4db0ee3f94da925dedc47ccb40c9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135538$C9AA98A8-40A7-4AA8-9732-B5AB2045DBAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q627458"
+          },
+          "hash": "1eb8e2a2a80783c9863d2b07196dc78d8d84e31f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135538$E696E96F-E8B9-4D38-807A-60993FA17747",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pharnaces II of Phrygia Arms.svg"
+          },
+          "hash": "c69038220cc1a23bf60d971106551f569b197868",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Satrap von Phrygien"
+    },
+    "el": {
+      "language": "el",
+      "value": "σατράπη της Φρυγίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century BCE ruler of the satrapy of Hellespontine Phrygia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ساتراپ فریگیه هلسپونت از ۴۳۰ تا ۴۲۲ پ.م."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "satrape de Phrygie hellespontique"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сатрап Фригии"
+    }
+  },
+  "id": "Q135538",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فارنسيس التانى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Фарнак II Фрыгійскі"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Фарнак II Фрыгійскі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Farnaces de Dascilios"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pharnakes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Φαρνάκης Β΄ της Φρυγίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pharnaces II of Phrygia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Farnaces II de la Frigia Helespóntica"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فرناک دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pharnace II"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Farnak II."
+    },
+    "it": {
+      "language": "it",
+      "value": "Farnace II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ファルナケス2世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pharnaces II of Phrygia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фарнак II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Farnak II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pharnaces II of Phrygia"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Форноки II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фарнак II (сатрап)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "法尔奈克二世"
+    }
+  },
+  "lastrevid": 17551722,
+  "modified": "2025-09-17T10:27:16Z",
+  "ns": 860,
+  "pageid": 163923,
+  "sitelinks": {},
+  "title": "Item:Q135538",
+  "type": "item"
+}

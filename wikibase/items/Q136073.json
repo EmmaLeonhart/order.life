@@ -1,0 +1,631 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cunedda"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136073$24B7AAB4-7047-4D3F-A7F0-BFBE2CA2FE6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "136985|997595"
+          },
+          "hash": "d9f746a01bc7bb6e5e3328bfb9df541654e42fc9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q136073$1FA175E1-E3E0-4FC4-A36A-16A73AE07A55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00753306"
+          },
+          "hash": "09ec61c12603ad8a1941d6e68afba7d75961859e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136073$D4D08E30-2211-4726-8083-5233082B542D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135844",
+              "numeric-id": 135844
+            }
+          },
+          "hash": "9f768e12b19ec8f949334ecfb608745b6d1c0a7e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136073$3F8DB2E0-DFB3-4B39-B643-49CE0985DD7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136248",
+              "numeric-id": 136248
+            }
+          },
+          "hash": "ea23dcde7423b9614865de2dde533ca446d48c4b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136073$9D0AC350-765C-4271-8EF1-5710F629B208",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136247",
+              "numeric-id": 136247
+            }
+          },
+          "hash": "c97869b612a47eac8e9e1ddb0c69b5becfc4ed5b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136073$4E45D9AA-F90B-4BEA-9A3E-D98D3A1FCDCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137856",
+              "numeric-id": 137856
+            }
+          },
+          "hash": "6c6b0c3cb5cbfa0fd25797de3432adbf2199a998",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136073$09022AC0-4C87-4449-8430-6F4B233AED3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136267",
+              "numeric-id": 136267
+            }
+          },
+          "hash": "5eb6075ef28e67657a1e24b438b2c22e365ebf83",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136073$5A3A443C-3493-4B81-A6CC-85AFCA1DEF04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136312",
+              "numeric-id": 136312
+            }
+          },
+          "hash": "b21efc3bb69b3fc9ddc8ce5f78cd34038df33afc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136073$0FE8A2A2-D8DE-4A53-8FEA-CCF6CF6D385A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136315",
+              "numeric-id": 136315
+            }
+          },
+          "hash": "b125aaf0d0ae0992495f3851e42386c8223f273f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136073$26A4519A-5817-4340-8F16-ABA78348207D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136313",
+              "numeric-id": 136313
+            }
+          },
+          "hash": "eff4b11c1feb4cf3e55b175ac3c395db1a8128bd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136073$C15C8172-D6EA-4E26-89DF-31BC42ED699E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136314",
+              "numeric-id": 136314
+            }
+          },
+          "hash": "3e53b2db181dc65f9b7168a5026334236ac7ba82",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q136073$6098FA80-BFE7-4A64-BC12-0CF49663272C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Edern-3"
+          },
+          "hash": "30357e9f26e2cc88267bf94f5d1444eecb0b768b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136073$74B534EB-54DA-45AF-89D2-5B6768248183",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136073$F56B2CB4-D866-46A0-BB83-6299AA31422D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136073$F8834673-8106-44D6-AC5D-D143CD6CD088",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cunedda_ap_Edern_(1)"
+          },
+          "hash": "98fdf42828e91df8680239f54d7a6ff48f832007",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136073$5FC87C48-E725-4A57-9481-3D9CF8F6860C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136012",
+              "numeric-id": 136012
+            }
+          },
+          "hash": "9f73652158b561c4b6408dedd1c1f5b60c64896e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136073$293D0291-5951-44F7-8415-A3B742824426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136310",
+              "numeric-id": 136310
+            }
+          },
+          "hash": "311fd0030a247ca1229230f3d0732263cc90c424",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136073$15E1BFA4-EAD9-44AB-A0F1-05CBEC21BCDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136073$40AAD6DC-EF80-4E21-A9F9-8A29571EA573",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0386-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9293e3a74e106399db48d3b6ab93bfed9d9d9417",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136073$79143085-6F1F-4465-B4C3-BF73CB64C3C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0460-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8dac49fb0994454814d0c9618550d3394531e8b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136073$5EF631E3-FE69-4071-9F46-D1814AB55DE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2487300"
+          },
+          "hash": "5614b310c3a036328f52c657f64eb21c970849cd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q136073$02E24C3B-1D9B-4B90-8ADA-B18986D52657",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=cunedda;n=of gwynedd"
+          },
+          "hash": "830887dab2af312f72a24fc5a423ec7deeee34e3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136073$6E2E213B-55E9-4065-AFB9-45C34814AD8E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cunedda Arms.svg"
+          },
+          "hash": "9f6a7d760e2eb2df18c8ebe7b4a7d3d24cd04208",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu galés (386–460)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "cyndad tywysogion Gwynedd"
+    },
+    "en": {
+      "language": "en",
+      "value": "progenitor of the Welsh royal house of Gwynedd"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi breton guerrier"
+    },
+    "la": {
+      "language": "la",
+      "value": "nomen Celtae"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Wales (386-460)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Гвинеда"
+    }
+  },
+  "id": "Q136073",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Cunedda"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cunedda"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Cunedda"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Cunedda"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cunedda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cunedda"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cunedda"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cunedda"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cunedda"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Cunedda fab Edern"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cunedda"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cunedda"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cunedda"
+    },
+    "he": {
+      "language": "he",
+      "value": "קונד'ה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cunedda"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կունեդա ապ Էդերն"
+    },
+    "id": {
+      "language": "id",
+      "value": "Cunedda"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cunedda Wledig"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "キネザ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쿠네다 울레딕"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cunedagus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cunedda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кунеда ап Эдерн"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Cunedda"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Cunedda"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Cunedda"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cunedda"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Cunedda"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кунеда ап Едерн"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Amlawdd Wledig"
+    },
+    "war": {
+      "language": "war",
+      "value": "Cunedda"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "基内扎"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "基内扎"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "基內扎"
+    }
+  },
+  "lastrevid": 17552545,
+  "modified": "2025-09-17T10:39:05Z",
+  "ns": 860,
+  "pageid": 164458,
+  "sitelinks": {},
+  "title": "Item:Q136073",
+  "type": "item"
+}

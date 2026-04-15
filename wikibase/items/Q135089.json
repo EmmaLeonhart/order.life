@@ -1,0 +1,326 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bubares"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135089$C4E043B1-73FA-4109-A585-4F1C87FA3898",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135090",
+              "numeric-id": 135090
+            }
+          },
+          "hash": "580ad6364bcc7fadea326b85db4a11cd72924d63",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135089$ADD8D64F-4EB8-44D8-A502-4D3A98D52004",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135089$DAC7B439-6E27-4674-BB3A-65EAF6798729",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135089$399C1408-9F40-4616-B3C8-93D1EEB4FEEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135061",
+              "numeric-id": 135061
+            }
+          },
+          "hash": "f8a81acc905f1ebc26cbde3c735bfe32527295ed",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135089$E7B9AE65-3176-475E-AC52-1EA2E3E78AD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135115",
+              "numeric-id": 135115
+            }
+          },
+          "hash": "f6ee7b8525f47849c1758cb2092d70d34f091782",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135089$2FA61543-C5DB-4821-B143-D662D09F0D5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135089$D720CDA2-49FC-4120-9369-E1DBF51A2889",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135089$F2CDA74A-789B-4657-8E43-D35378416DAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0560-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "39f2212344efd981b0b4f0bbba8e5b9f7f3e29dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135089$5E0ED51D-F5FB-4EC8-92D5-4F2CD825B449",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q997387"
+          },
+          "hash": "f7b97c3d3479123a9936b7324dca4fa088db44b4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135089$470E20ED-5594-4B97-B0BD-E377E8F7C450",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bubares Arms.svg"
+          },
+          "hash": "070d472592881a3b7f097d111a2021ae65cbd1c5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "persischer Adliger, Ingenieur"
+    },
+    "el": {
+      "language": "el",
+      "value": "μηχανικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th century BC Persian nobleman"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble persa del siglo V a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble perse"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Megabazo"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "персиски благородник"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ingenieur"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персидский аристократ V века до н.э."
+    }
+  },
+  "id": "Q135089",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Бубар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Bubares"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bubares"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βουβάρης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bubares"
+    },
+    "es": {
+      "language": "es",
+      "value": "Búbares"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بوبراندا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bubarès"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bubare"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Бубар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bubares"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бубар"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bubares"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Буброндо"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "布貝爾斯"
+    }
+  },
+  "lastrevid": 17550940,
+  "modified": "2025-09-17T10:16:05Z",
+  "ns": 860,
+  "pageid": 163474,
+  "sitelinks": {},
+  "title": "Item:Q135089",
+  "type": "item"
+}

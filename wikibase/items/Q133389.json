@@ -1,0 +1,786 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hippodamia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q133389$B4B5E426-8E05-44E9-947C-6140175447FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "338268"
+          },
+          "hash": "430a3eaaa17f27228641b48ae8ebad30081ecf45",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q133389$E3C95227-76DD-4DD9-AA67-2907BABBFFF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133633",
+              "numeric-id": 133633
+            }
+          },
+          "hash": "6c0930e8e65952082f9a9f92d3a1468d2a62df28",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$20C290CB-1CB6-4429-870A-2D9628EE6B83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133628",
+              "numeric-id": 133628
+            }
+          },
+          "hash": "1a9d2208adb41b24096d27ca346d0dd327198921",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$4BFB484C-574B-4CE9-B1DA-0424A44E3C5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133640",
+              "numeric-id": 133640
+            }
+          },
+          "hash": "af02bb8257adbc9f2acd28c92b1ddb096f849572",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$486F70AA-DBE2-475B-9E5E-8A1D5EF28F3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133625",
+              "numeric-id": 133625
+            }
+          },
+          "hash": "2dbc66f7da07ec504aaade051c6080718f37aa94",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$2B74E494-089E-4CFB-8729-141A9D0B2BCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133632",
+              "numeric-id": 133632
+            }
+          },
+          "hash": "5abd637743442832fc6ba9c958f0510ead899f5c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$EF263777-AA64-45C2-95FF-AF17E37E9D9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133320",
+              "numeric-id": 133320
+            }
+          },
+          "hash": "afaf1c0e26c3d360900a7baf443ab9ee5a3eb637",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$1D05BD83-1EE1-4FE4-9705-832C4A14D06E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133631",
+              "numeric-id": 133631
+            }
+          },
+          "hash": "4fc57102b052075d51cc7dd6f44842fee0ff07aa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$090CB887-A46A-4E5F-82CA-48AE3099C7E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133638",
+              "numeric-id": 133638
+            }
+          },
+          "hash": "179414478ea8a25da773f226d995e942e244fbc8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$B1A059CB-49FF-4FCF-9EA2-C6FD94E66371",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133627",
+              "numeric-id": 133627
+            }
+          },
+          "hash": "0eae3821fd1d4d3f06b122604a3c1e48fdc904a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$907ED298-796F-47CD-AC46-DAC2813EC045",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133626",
+              "numeric-id": 133626
+            }
+          },
+          "hash": "ae23fc18fd0e67420c76d9645a2575653da0715b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$EB368F98-C08B-412C-883F-30216A6CC033",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133630",
+              "numeric-id": 133630
+            }
+          },
+          "hash": "5f74b71b9c0e5dfbdc7f6a81695be33033f9f4af",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$8795EB2A-D95C-4A1D-933C-45BE40DABCE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133634",
+              "numeric-id": 133634
+            }
+          },
+          "hash": "c29e2932f081acd85c17007a98555fc1200a0166",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$35F8F344-77F7-4E13-A537-ED2C56A55A19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133636",
+              "numeric-id": 133636
+            }
+          },
+          "hash": "2590a5c1cef18d7cc48876d52434e5a37e8d632f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$C6E28798-695B-45F0-BAC9-C97AD4FA7EE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133637",
+              "numeric-id": 133637
+            }
+          },
+          "hash": "69b6321e96e8421fcd094fb3a1f6f080a04f47cc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$C0AA082E-6F85-468B-802B-D1688B159DEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75162",
+              "numeric-id": 75162
+            }
+          },
+          "hash": "ddf4cb275a3ae5c755f94e5cc5ae9785a0fd4cb2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$9B60F4FD-C1DA-477D-A975-DA8AE36F1D28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133624",
+              "numeric-id": 133624
+            }
+          },
+          "hash": "60e6e56231c7485d400a14815ddfcc974a8c5ca0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$B1A86072-1E2C-4F50-985A-A8CB1AA8C9FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133622",
+              "numeric-id": 133622
+            }
+          },
+          "hash": "e26cd1a543a1d8aa6c2d9ae4f3d0af2038086811",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$26E77490-37A7-482C-A834-24ECA8E4563C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133629",
+              "numeric-id": 133629
+            }
+          },
+          "hash": "2d95d8862d755a0c99ac37436a3f3a6df08f2242",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$45FD0568-1A18-400A-BC66-49B580902E98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133623",
+              "numeric-id": 133623
+            }
+          },
+          "hash": "8c25e53097f51273053f3126dfe122210994c71d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q133389$27294324-4EB5-4C4F-8AC1-45123BBD0310",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133389$32F15AD5-AC68-4C52-8B66-A3BAB18741B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q133389$CA9D9F3B-805D-49DC-A2D6-32031782E9FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132321",
+              "numeric-id": 132321
+            }
+          },
+          "hash": "b9c4b0d3a1d029aefa561a6e420ce39d1bc1e856",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q133389$546B7ACB-E4EC-479B-BDC8-052271F4E75C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132189",
+              "numeric-id": 132189
+            }
+          },
+          "hash": "b8bf667ab121c9a35123f52f00b188d0b4d7fe24",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q133389$9C89EADE-A4DA-4670-B026-C5E86549E800",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133388",
+              "numeric-id": 133388
+            }
+          },
+          "hash": "f1620ef7f75ad457b677fd4392ef2aee0055ca75",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q133389$E1D32223-5D27-43AE-A5F8-8BBF0F2F5DE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q133389$B60457B6-6E43-4854-9FA7-0E4105B5CCD4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q328354"
+          },
+          "hash": "64a3c493b4d18df0e2b18f6efb29e35393a44fd1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q133389$03E62A8E-66A7-479E-ABBA-D5BB29D9024A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hippodamia Arms.svg"
+          },
+          "hash": "152edbcb0746a4749bf8ca583458ad4ab92f997a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "in der griechischen Mythologie Tochter des Königs Oinomaos"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek mythical character, daughter of Oenomaus and wife of Pelops"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسطورههای یونان، همسر پلوپس و دختر اوینومائوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fille d'Œnomaos et femme de Pélops"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Oinomaosz lánya"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlia di Enomao e moglie di Pelope"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화에 등장하는 오이노마오스의 딸이자 펠롭스의 아내"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, dochter van Oinomaos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać z mitologii greckiej"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "мифологический персонаж, дочь Эномая, жена Пелопа"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "con gái của vua Oenomaus trong thần thoại Hy Lạp"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "比薩王后"
+    }
+  },
+  "id": "Q133389",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Хиподамея"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hippodamia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hipodamia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hippodameia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hippodameia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hippodameia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιπποδάμεια του Οινομάου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hippodamia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Hipodamio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hipodamía"
+    },
+    "et": {
+      "language": "et",
+      "value": "Hippodameia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Hipodamia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هیپودامیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Hippodameia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hippodamie"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἱπποδάμεια"
+    },
+    "he": {
+      "language": "he",
+      "value": "היפודאמיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hippodameia"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հիպոդամիա"
+    },
+    "io": {
+      "language": "io",
+      "value": "Hippodameya (filiino di Oinomaos)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ippodamia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヒッポダメイア"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "히포다메이아"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Hîpodamia"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Hîpodamia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hippodamia"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Hipodamija"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hippodameia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hippodameia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hippodameja"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hipodâmia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гипподамия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hipodamija"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Hippodameia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хиподамија"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Хиподамија"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Hipodamija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hippodameia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гіпподамія"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hippodamia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "比薩的喜波妲蜜亞"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "喜波妲蜜亞"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "喜波妲蜜亞"
+    }
+  },
+  "lastrevid": 17547668,
+  "modified": "2025-09-17T09:29:33Z",
+  "ns": 860,
+  "pageid": 161774,
+  "sitelinks": {},
+  "title": "Item:Q133389",
+  "type": "item"
+}

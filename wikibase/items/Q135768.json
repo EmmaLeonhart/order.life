@@ -1,0 +1,321 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Demetrius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135768$282E4521-CAF8-4794-B6DD-0CB4FC0DDB88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737723"
+          },
+          "hash": "84d56a556c6e8ac1de46d1e93deacb6ca3e749ab",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135768$69F34304-50B4-4486-A0AA-D317A7EF2999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135768$D7BE522B-68DC-4977-9B76-CF64070140CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135768$F3F42128-267E-4528-843A-300BFB20B194",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135629",
+              "numeric-id": 135629
+            }
+          },
+          "hash": "e8549db142ebecfa3f54a8b77177170ba980a93e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135768$C8342801-DD67-4B62-AEDE-49973D494549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135768$51D21C5E-22D8-44B2-A8D6-B3D702DC2CD1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135768$8A24EF05-5D60-4795-B60B-D6B556D3693B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0181-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "64ccdb1ede8f2e1bc705cb40613982bc8e969e2f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135768$BDE0E6D7-4E38-4D14-BC69-31E3A9FA5149",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1185467"
+          },
+          "hash": "d1ade3c2737f7226f18099465b5b35954b11aa85",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135768$0E2B2096-5523-4DFC-84F0-9F603166BD97",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Demetrius Arms.svg"
+          },
+          "hash": "6fca40af34de367c6c6c778e2d21f55d832cae4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "príncep de Macedònia"
+    },
+    "de": {
+      "language": "de",
+      "value": "makedonischer Prinz aus der Dynastie der Antigoniden"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του βασιλιά Φιλίππου Ε΄ και αδελφός του τελευταίου βασιλιά της χώρας, του Περσέα"
+    },
+    "en": {
+      "language": "en",
+      "value": "younger son of Philip V of Macedon"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo menor de Filipo V de Macedonia (f. 180 a. C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Philippe V de Macédoine"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "V. Philipposz makedón király fia"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Filippo V di Macedonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "diplomaat"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "младший сын Филиппа V Македонского"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "молодший син Філіппа V Македонського"
+    }
+  },
+  "id": "Q135768",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Деметрий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Demetri el jove de Macedònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Demetrius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Demetrios"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δημήτριος (γιος Φιλίππου Ε΄)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Demetrius"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Demetrio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Demetrio"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Demetrios"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Démétrios"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמטריוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Démétriosz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Demetrios (putra Filipos V)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Demetrio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Demetrius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Деметрий"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Demetrius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Деметрій"
+    }
+  },
+  "lastrevid": 17552099,
+  "modified": "2025-09-17T10:32:37Z",
+  "ns": 860,
+  "pageid": 164153,
+  "sitelinks": {},
+  "title": "Item:Q135768",
+  "type": "item"
+}

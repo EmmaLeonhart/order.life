@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Apama"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135636$E261E60D-5C09-4508-8618-E2D7C9C19A19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135636$7CEFD219-1594-4C0C-9F36-A6CA93D2DFAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135636$8AA41E3B-0A15-49FC-941B-6CB5A055749C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73854",
+              "numeric-id": 73854
+            }
+          },
+          "hash": "31e8a0080a670a9ef88bf728c9d5bb2e7ac727e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135636$4FBF357A-6A66-4935-BA16-5241B425679F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73851",
+              "numeric-id": 73851
+            }
+          },
+          "hash": "999af07880c3405ce9b698485dbeaa60cf769301",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135636$C0D522FB-3015-4C7D-9913-1974B81C92ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135636$BF563CC1-806C-4A90-9880-332C4218E99B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135636$F14C3C7B-330B-43A5-9E1E-23BB12481D9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131452481"
+          },
+          "hash": "19b428d1e950137072015271cc41acdc62fcb720",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135636$D3B07BD7-E4DE-45C5-AE2F-3AE7E4B1E256",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Apama Arms.svg"
+          },
+          "hash": "cf2f7c7afdc996ef9a1e4dc7e595456d6e5ce0d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Seleucid princess, daughter of Seleucus I Nicator"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Селевкидская принцесса, дочь Селевка I"
+    }
+  },
+  "id": "Q135636",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Apama"
+    },
+    "en": {
+      "language": "en",
+      "value": "Apama"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Апама"
+    }
+  },
+  "lastrevid": 17551891,
+  "modified": "2025-09-17T10:29:41Z",
+  "ns": 860,
+  "pageid": 164021,
+  "sitelinks": {},
+  "title": "Item:Q135636",
+  "type": "item"
+}

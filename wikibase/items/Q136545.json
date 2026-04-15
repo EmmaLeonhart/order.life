@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Non"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136545$7ED7AF9D-08D9-41E7-A5A1-D0D66E6DE4A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "415184|1225132"
+          },
+          "hash": "69ff5929543b7bacd9e2515597a9d3305214be2c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136545$383B30C2-61D3-4CF3-BD8B-4A8B062356CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136850",
+              "numeric-id": 136850
+            }
+          },
+          "hash": "4cdefbf030f05019b7a222eefa39d8743137efab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136545$A9A4567B-73AE-4EBE-A68A-10B6FC7E0262",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136545$AE95A70F-0867-48AA-91B8-D15106D4A9EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136545$4568DB79-18D9-45B3-8CBA-217311E8D3CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136524",
+              "numeric-id": 136524
+            }
+          },
+          "hash": "d23ad35eeb9b728ff26c4dfe915408132627a55e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136545$E69C3F30-9F00-4EF6-8332-3EEB828036FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136544",
+              "numeric-id": 136544
+            }
+          },
+          "hash": "01a17ac80475614f68ec63f73cb2670445b0a22f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136545$ED0D57DF-2BB3-4B8C-BBBB-2563224E6A4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136545$EFEC9A9E-B7FC-4FF2-9FA9-1D429F69EFBE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0500-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c21cc6b55a3f62e160c96758b4fa921cf3b3ce78",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136545$97D147B5-8D84-4703-9BA9-10B13AD788EF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0600-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a2c6e56fcc62a86b1ff8756a7fc7007ef693c70c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136545$16AF9FEF-7DBF-4C14-A305-2AFDFEA99E98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2487289"
+          },
+          "hash": "d09e35d06710a6439b8e6f94c45eed36a46b59b2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136545$0F126229-F1F0-442C-861E-0625F1375155",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Non Arms.svg"
+          },
+          "hash": "9d2201e1a330b78cf53051b2a69572a6ea54f926",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "monxa galesa (500–600)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "velšská svatá, matka sv. Davida"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "santes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh saint; mother of St David"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "naomh Breatnach"
+    },
+    "it": {
+      "language": "it",
+      "value": "religiosa e santa britannica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zuster uit Koninkrijk Dyfed (-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уэльская святая"
+    }
+  },
+  "id": "Q136545",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Nonn"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Non"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Non"
+    },
+    "da": {
+      "language": "da",
+      "value": "Saint Non"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νον"
+    },
+    "en": {
+      "language": "en",
+      "value": "Non"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saint Non"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sainte Nonne"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Non"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Saint Non"
+    },
+    "it": {
+      "language": "it",
+      "value": "Santa Non"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖ノン"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Saint Non"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Non"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Saint Non"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нонна Бретонская"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Non"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Non"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Saint Non"
+    }
+  },
+  "lastrevid": 17553267,
+  "modified": "2025-09-17T10:49:30Z",
+  "ns": 860,
+  "pageid": 164930,
+  "sitelinks": {},
+  "title": "Item:Q136545",
+  "type": "item"
+}

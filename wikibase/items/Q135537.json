@@ -1,0 +1,362 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ostanes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135537$4E6AE9C6-04AE-405B-B1F8-E955F9A16043",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737915"
+          },
+          "hash": "d9079596edb50791b366eb363ad17c08a248b7d2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135537$7CF141E6-80DC-4585-86C7-F866C67DABE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135398",
+              "numeric-id": 135398
+            }
+          },
+          "hash": "13162f6c5b0386f956eaccdee05fe3a7ad859553",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135537$19F63B15-F570-4D97-8D0D-296F8A878F5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135399",
+              "numeric-id": 135399
+            }
+          },
+          "hash": "5fb95f5c028a9c077c7641f930bb74ea108073e6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135537$7DE474F4-539E-4607-80D4-120230D4234D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135537$68503BF3-C2E9-4017-9449-963C5B727D1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135537$15322F5C-CC12-4A9A-897D-9B4EC6209791",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74067",
+              "numeric-id": 74067
+            }
+          },
+          "hash": "cd2168988b229b941a6c5f6f00c4c56509b3ad95",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135537$C872BFC0-127A-4E51-AF95-3ED10D83A33C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74070",
+              "numeric-id": 74070
+            }
+          },
+          "hash": "4b8b8b4e583e1d61f402e5ed52cc1b26c079e70a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135537$0C5D0F59-0BE4-4472-8BA3-C2CF1C12CEAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135537$66A1FF50-34A7-4C88-A3EA-DA421E448770",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135537$166D9025-6D82-4468-A4FE-FBA96251A667",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0358-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16db9db7e9831a6c0b02e43fdabdcf2da15c1b35",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135537$D9FE9D29-468E-4AB2-8036-BDFB1924563A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3497574"
+          },
+          "hash": "4bfe5367205b099acdfd738b8c53a444e1565bcd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135537$C4DC524B-E1E3-42FC-97FF-CACF13568FDF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ostanes Arms.svg"
+          },
+          "hash": "d588d0feceee6a81d3e1272412391a51f0f697da",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Sohn des Großkönigs Dareios II."
+    },
+    "el": {
+      "language": "el",
+      "value": "πρίγκιπας της Περσίας, γιος του Δαρείου Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Son of Achaemenid Persian emperor Darius II Nothos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fils de l'empereur perse achéménide Darius II Nothos"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנו של דריווש השני"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Dario II di Persia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Дария II"
+    }
+  },
+  "id": "Q135537",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Ostanes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ostanes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Οστάνης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ostanes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ostanes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اوستن"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ostanès"
+    },
+    "he": {
+      "language": "he",
+      "value": "אוסטאנס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ostane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オスタネス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ostanes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ostanes II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ostanes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ostanes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Остан"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Устон"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Остан"
+    }
+  },
+  "lastrevid": 17551720,
+  "modified": "2025-09-17T10:27:14Z",
+  "ns": 860,
+  "pageid": 163922,
+  "sitelinks": {},
+  "title": "Item:Q135537",
+  "type": "item"
+}

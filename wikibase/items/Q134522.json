@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Locrinus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q134522$6A4B34AF-DE8A-45E6-A990-184328E123C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134758",
+              "numeric-id": 134758
+            }
+          },
+          "hash": "c1fa8be4ba01ed234aa55cdbf7aa54df3740b825",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134522$50602BFB-8D57-4353-B2CF-CFA88532DAFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134757",
+              "numeric-id": 134757
+            }
+          },
+          "hash": "d109757f667fb06e708dc96c7ab89fb828fd4316",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134522$F3BE7A87-9883-4C62-9551-99E4037A44EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134522$8441ED7D-101A-43A9-B969-8F05705B2254",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q134522$095AFDAF-B39C-435F-AE19-26D6AECC35B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134755",
+              "numeric-id": 134755
+            }
+          },
+          "hash": "9a17e67ca2a727d94ba8660964d932e240212478",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134522$F910D5B2-1904-4ABB-8E3E-541AA2CF1997",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134756",
+              "numeric-id": 134756
+            }
+          },
+          "hash": "d939440fcad9ae5ed9473b3c33056c52bbeb8255",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134522$944436A4-E70E-46A2-BC9B-D950DFF6C7C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134043",
+              "numeric-id": 134043
+            }
+          },
+          "hash": "a5f832b11de9742ae7f7a36f9a4ec775659a91ac",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134522$672650DB-A2D6-4CD9-8EC2-78062AC775BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q134522$1F0BFC01-47EE-4824-A4CA-F257697A0CD9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1081-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74dd5aa2e9db709b98cac0f96a2c659da819b09e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134522$6EF4E1F8-5445-46B9-A776-9646037C712B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2282686"
+          },
+          "hash": "96c9c8dd41d95609e35b6f51e38b1264c2e66cf2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134522$E942B09B-4FD4-49A2-BD7C-19E58E44060A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Locrinus Arms.svg"
+          },
+          "hash": "0d8dbf65bdf70aae4ff99b9ee83a46ed0fb5bf98",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Second legendary King of Great Britain"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi légendaire de Bretagne"
+    },
+    "it": {
+      "language": "it",
+      "value": "leggendario re britannico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "второй легендарный король Британии"
+    }
+  },
+  "id": "Q134522",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Locrinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Locrinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Locrinus"
+    },
+    "et": {
+      "language": "et",
+      "value": "Locrinus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Locrinus"
+    },
+    "he": {
+      "language": "he",
+      "value": "לוקרינוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Locrino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロクリウス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로크리누스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Locrinus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Locrinus av britene"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Locrinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Locrino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Локрин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Локрін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗科里努斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "罗科里努斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗科里努斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "羅科里努斯"
+    }
+  },
+  "lastrevid": 17549886,
+  "modified": "2025-09-17T10:01:08Z",
+  "ns": 860,
+  "pageid": 162907,
+  "sitelinks": {},
+  "title": "Item:Q134522",
+  "type": "item"
+}

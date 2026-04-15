@@ -1,0 +1,270 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hering son of Hussa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135990$43D901E9-C9DF-4B6F-BC74-CCC2E308C54E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "152985"
+          },
+          "hash": "ee49880a3f5827cb699c7910be415c3a489ea38c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135990$FAE4AC1E-5E14-4428-8AA0-74B39D8C3C47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135990$303DEC82-C790-4F38-8F13-DF4C63C3EFAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135990$8BC161D9-28EF-48A8-B2B6-5EB8CAAFC538",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hering_of_Bernicia_(1)"
+          },
+          "hash": "be375da4c9690fe925f89fd8f5294305c691ca07",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135990$F0DB4E00-07D2-4FF3-B0D3-1996DBDC02A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123764",
+              "numeric-id": 123764
+            }
+          },
+          "hash": "93aada7574a05a179528275d488605923f70b5a0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135990$35A3DD10-2181-4D78-A6DA-242C0EB61F05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135990$00AD1F45-28F8-4661-9059-97D5DDC022CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0501-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2177271b40938747c6086828a95ad5dea488dcad",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135990$76632C72-9E70-43BD-BCE3-A7A62585BE47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0601-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "653913e909e31d4a1de10455eb8664a4139c9a71",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135990$C3426E92-7211-4543-AE94-63CBBB9652B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q966807"
+          },
+          "hash": "6595dc842fc1501f67e284b59f8628807da976ea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135990$54AB6AA6-2EBE-4F3A-A9A6-00EBD4FE0DC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hering son of Hussa Arms.svg"
+          },
+          "hash": "9c6382a23ab5a6670071eb899dc34c424951efa0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "bernicijský princ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bernician prince"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince de Bernicie"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "príncipe da Bernícia"
+    }
+  },
+  "id": "Q135990",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Hering, syn Hussův"
+    },
+    "el": {
+      "language": "el",
+      "value": "Χέριγκ γιός του Χούσσα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hering son of Hussa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hering"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hering"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hering son of Hussa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hering, filho de Hussa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hering, filho de Hussa"
+    }
+  },
+  "lastrevid": 17552417,
+  "modified": "2025-09-17T10:37:15Z",
+  "ns": 860,
+  "pageid": 164375,
+  "sitelinks": {},
+  "title": "Item:Q135990",
+  "type": "item"
+}

@@ -1,0 +1,399 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nepotianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136821$E7772610-3B0F-4F11-B5BB-972BDFD0FCDD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "146348"
+          },
+          "hash": "6a8929b9ad400819de2c3f07536837daaf5e73d0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136821$DB2F8BF0-C73D-43F8-986B-3153AF319EE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136821$F305252A-028E-4E26-9AAC-BC774B32461F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136821$22FF02EF-AA44-46FC-9565-8ED5DAD8CDA6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Nepotianus_(1)"
+          },
+          "hash": "7aeb45186c158b33ace345f4d51bd1f29a39243a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136821$FDCF11BB-D7EF-4914-A3BC-87D944207041",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136820",
+              "numeric-id": 136820
+            }
+          },
+          "hash": "47bd56174c9bc0cfb2207a2615f525fb32c5b0af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136821$0384BD76-E0CC-4942-8E54-9FC855718FDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136508",
+              "numeric-id": 136508
+            }
+          },
+          "hash": "9f8d64a4dc22d024f5ed90c0f63302591fd1cf06",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136821$F7363DCD-0E08-45F3-B0FE-B4E25D70F3B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136821$0AB3CBF3-8E9D-4CBC-9F5D-0BB1367B8ABB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0400-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b25d6a5bd14cdc6596403ea6b972ca928cb2a01",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136821$D5E75F6E-3DD1-47CE-BD8B-2B4FE994C875",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0350-06-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b3a788d93c5c47c75027fa0db59bde49330e1b99",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136821$887B78FF-F4C4-4556-A6CF-05173FF6A1FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q367598"
+          },
+          "hash": "3b9708bfb81faadc7dbebe4231cde5e8331bbff5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136821$8A5AD767-ED35-47E6-8CA8-E5FE68DF9280",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nepotianus Arms.svg"
+          },
+          "hash": "75174bb5cddb60768e9f84ee76316cfb345be9ba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Usurpator des Jahres 350"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman usurper"
+    },
+    "es": {
+      "language": "es",
+      "value": "Usurpador romano (350)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "usurpateur romain en 350"
+    },
+    "it": {
+      "language": "it",
+      "value": "usurpatore dell'Impero romano membro della dinastia costantiniana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (400-350)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی غاصب"
+    }
+  },
+  "id": "Q136821",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Непоциан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Flavi Popili Nepocià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nepotianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νεπωτιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nepotianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nepociano"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Nepotiano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نپوتیانوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Népotien"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Nepociano"
+    },
+    "he": {
+      "language": "he",
+      "value": "נפוטיאנוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Nepotijan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Nepociano"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nepoziano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ネポティアヌス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იულიუს ნეპოტიანუსი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Flavius Popilius Virius Nepotianus"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "नेपोटियानस"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Nepotianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nepotianus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nepocjan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nepociano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Nepociano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юлий Непоциан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nepocijan"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Непоцијан"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Непоцијан"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Nepocijan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nepotianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Непоціан"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "نیپوتیانوس"
+    }
+  },
+  "lastrevid": 17553711,
+  "modified": "2025-09-17T10:55:50Z",
+  "ns": 860,
+  "pageid": 165206,
+  "sitelinks": {},
+  "title": "Item:Q136821",
+  "type": "item"
+}

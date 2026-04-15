@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Archagathus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135744$FA9E6406-4C7B-4997-A243-FAE12F615385",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1261206"
+          },
+          "hash": "f60436fd22721c23f91343e54266503d766a6db9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135744$1DC1AC21-4DAC-4B4B-BCAF-55D8D6C58039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135744$0FEEA6DF-C5AD-4DFF-AEF2-E84664F4CDEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135744$4682A283-4DBF-472D-A23E-5A61C7911318",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135596",
+              "numeric-id": 135596
+            }
+          },
+          "hash": "acbd78bd77b2d5eee0e39c962270858850051b0e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135744$2B88F0E5-FD0B-4E5B-B8D6-4A3671CA445C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135744$4EA9D556-4393-4C99-BFA6-75CC8D16AEA8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135744$6A0EC91F-A98E-40B1-8F66-5225F3B99174",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135744$66177682-415E-4D66-A3D4-9B2A24708AF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4785538"
+          },
+          "hash": "35da07779339d9dba62ed355bdbb9536683da9b4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135744$14AC17F4-F22E-4E4A-BB16-95C4D845C808",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Archagathus Arms.svg"
+          },
+          "hash": "12658a24f0c62a96927f9bf1065aa507a536e6e1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "πρίγκιπας των Συρακουσών και στρατιωτικός, εγγονός του Αγαθοκλή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Syracusan Greek Prince, son to the above named and grandson of Agathocles of Syracuse"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe siracusano, hijo del príncipe homónimo y nieto de Agatocles"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "petit-fils d'Agathocle de Syracuse"
+    },
+    "it": {
+      "language": "it",
+      "value": "nipote di Agatocle di Siracusa"
+    }
+  },
+  "id": "Q135744",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Arcàgat el jove"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρχάγαθος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Archagathus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Archagathus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Archagathus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arcagato"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Arkagato"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Archagathos"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀρχάγαθος"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arcagato"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Archagathus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Архагат (сын Архагата)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Архагат"
+    }
+  },
+  "lastrevid": 17552065,
+  "modified": "2025-09-17T10:32:08Z",
+  "ns": 860,
+  "pageid": 164129,
+  "sitelinks": {},
+  "title": "Item:Q135744",
+  "type": "item"
+}

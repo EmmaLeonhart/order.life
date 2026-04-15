@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aram"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q134876$B0EE4F75-DF64-4F21-8D15-5A8148752EAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134923",
+              "numeric-id": 134923
+            }
+          },
+          "hash": "922b64ff01c61cebcbee2e129ffc6b16abf7c121",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134876$FCDFC555-41D1-4AD5-9077-58929CE17ED6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134876$39A51DEB-F154-4FBB-8146-0B3170D107B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134876$D9A887A0-B6C6-4883-9103-DE26DE43842A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134835",
+              "numeric-id": 134835
+            }
+          },
+          "hash": "eee7b41fe3919b2058fcc95cc29707cea7a5880c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134876$7DA6DB88-82FA-4AC9-AC2D-F413A356F081",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q134876$058F90D3-C2F2-43F3-9C31-D5C685661E3B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1769-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "48309f659893b4627d22b1845a16cb810e3b7ae2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134876$0A3B0333-3C2C-41C9-839E-5F88F14EE2C3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12078913"
+          },
+          "hash": "aa625ebd24884ea3817e3eaf0f001ff5512ca76a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134876$F96AC990-527A-4A03-A88C-591EA1BB89A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aram Arms.svg"
+          },
+          "hash": "c3abaac8d3472583f0a60cc6693b713213398ed5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Legendary Armenian patriarch"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پدرسالار افسانهای ارمنستان"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "հայ ավանդական նահապետ, Հայքի Արարատյան թագավորության արքա"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "легендарний цар Вірменії"
+    }
+  },
+  "id": "Q134876",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aram"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرام (ناحاپت)"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արամ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aramo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арам I Великий"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арам I Великий"
+    }
+  },
+  "lastrevid": 17550558,
+  "modified": "2025-09-17T10:10:34Z",
+  "ns": 860,
+  "pageid": 163261,
+  "sitelinks": {},
+  "title": "Item:Q134876",
+  "type": "item"
+}

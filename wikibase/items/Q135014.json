@@ -1,0 +1,638 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Samuel"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135014$7A430508-A4E9-4FC9-A998-0795A5EF3E9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "894515|597222"
+          },
+          "hash": "90fdeaade28c9bc822c7eb41d6ec70ccd5cf5c9c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135014$95BD9108-7C33-484D-8A61-C4FBC3649A6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135033",
+              "numeric-id": 135033
+            }
+          },
+          "hash": "02bae627126487d7131c9f38300f9be7957bcc41",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135014$91D93EA2-29FB-4A4C-A8DA-C93EC77272EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135032",
+              "numeric-id": 135032
+            }
+          },
+          "hash": "5b70d5b1c0d262b694bbe511970ea556411c4bfd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135014$B3A39266-26EA-4223-8553-37B7EB5D482C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135014$9B20C4FB-A1A5-46A2-947B-D68582EA0DF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135014$09F62BF2-BD40-4E67-B2F8-89288B718FA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134994",
+              "numeric-id": 134994
+            }
+          },
+          "hash": "f5eeb8c8ab5bd777590201ff6c73f437018eb928",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135014$760187ED-0626-4328-A8C7-5D5B9A655405",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135012",
+              "numeric-id": 135012
+            }
+          },
+          "hash": "4b83b1fd93106e3477f59e26960934b396491060",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135014$9C112FAE-D2D0-4F73-8CE5-96B568CC71E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135014$FC266AC2-E3DA-4DB5-98D1-CA6B4A8CB102",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1102-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8924565f5bfb11f21464be62f544c905a78a347",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135014$72F90B74-F362-40BD-B543-46CFAB02885E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1014-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ff6bf3241808c9c82d979a719d9cafa4f1ddfa76",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135014$30E25F89-77DC-4134-914D-12A42B5870C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6577515"
+          },
+          "hash": "18ed9a5a2512e82c1cb8ca19f483fe921086c13d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135014$55263573-8090-4409-8508-235830318F58",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Samuel Arms.svg"
+          },
+          "hash": "33781bd9db891dc44c9269708ec81fdfcc6bbb2c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "نبي من انبياء الله من بني اسرائيل"
+    },
+    "da": {
+      "language": "da",
+      "value": "bibelsk figur"
+    },
+    "de": {
+      "language": "de",
+      "value": "alttestamentlicher Prophet"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical character"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "profeto de la Hebrea Biblio"
+    },
+    "es": {
+      "language": "es",
+      "value": "(14°) decimocuarto juez de Israel; profeta"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پیامبر قوم اسرائیل"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Vanhan testamentin profeetta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique"
+    },
+    "he": {
+      "language": "he",
+      "value": "נביא בתנ\"ך"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sámuel, bibliai, ószövetségi próféta Mózes után."
+    },
+    "it": {
+      "language": "it",
+      "value": "profeta biblico"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "пайғамбар"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "판관시대 최후의 판관"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "bibelsk person"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "profeet"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "prorok biblijny"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "personagem bíblico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "personagem bíblico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский пророк"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "starozavezni biblijski prerok"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "biblisk person"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İbrani Kutsal Kitabı'nda peygamber ve İsrail başkahini"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "نبی"
+    }
+  },
+  "id": "Q135014",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ሳሙኤል"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "صموئيل"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܫܡܘܐܝܠ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "صموئيل"
+    },
+    "az": {
+      "language": "az",
+      "value": "Samuel"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ساموئل"
+    },
+    "be": {
+      "language": "be",
+      "value": "Самуіл, прарок"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Самуил (пророк)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "স্যামুয়েল"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ལུང་སྟོན་པ་ཤ་མུ་ཨེལ།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Shmouel"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Samuel"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Самуил"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ساموئیل"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Samuel"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Samuel"
+    },
+    "da": {
+      "language": "da",
+      "value": "Samuel"
+    },
+    "de": {
+      "language": "de",
+      "value": "Samuel"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σαμουήλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Samuel"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Samuelo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Samuel"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Samuel"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سموئیل"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Samuel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Samuel"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Samúéil"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Samuel"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Sama'ila"
+    },
+    "he": {
+      "language": "he",
+      "value": "שמואל"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "सैम्यूअल"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Samuel (prorok)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sámuel próféta"
+    },
+    "id": {
+      "language": "id",
+      "value": "Samuel"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Samuel"
+    },
+    "it": {
+      "language": "it",
+      "value": "Samuele"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サムエル"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სამოელ წინასწარმეტყველი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Самуил"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사무엘"
+    },
+    "la": {
+      "language": "la",
+      "value": "Samuel"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Samuelis"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Samoela"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Самоил (пророк)"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "സാമുവൽ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Samuel"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Samuel"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Samuel"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "سموئیل علیہ السلام"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Samuel"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Samuel"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Samuel"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Самуил"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Samuel"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Samuel"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Samuel"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Самуило (пророк)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Samuel"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Samweli"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சாமுவேல்"
+    },
+    "th": {
+      "language": "th",
+      "value": "ซามูเอล"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Samuel"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Самуїл"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سموئیل"
+    },
+    "war": {
+      "language": "war",
+      "value": "Samuel"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "撒母耳"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "שמואל"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "撒母耳"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "撒母耳"
+    }
+  },
+  "lastrevid": 17550814,
+  "modified": "2025-09-17T10:14:19Z",
+  "ns": 860,
+  "pageid": 163399,
+  "sitelinks": {},
+  "title": "Item:Q135014",
+  "type": "item"
+}

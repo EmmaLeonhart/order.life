@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sant ap Ceredig"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136524$52B18308-8549-4854-B003-A9318A7B352B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1225130"
+          },
+          "hash": "91763dd8b03e100097095fe699ad889f8101be57",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136524$EBB1A4C9-A5BF-4DF8-ACCB-1D1E799CB367",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136850",
+              "numeric-id": 136850
+            }
+          },
+          "hash": "4cdefbf030f05019b7a222eefa39d8743137efab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136524$356B9516-165B-4B2B-BF22-AA2D09E28E0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136524$6B3EDD9A-753D-41C6-8DE1-C0B3BAA936F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136524$7ADAC54B-FCEF-441D-A043-7DC7B7C68424",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136545",
+              "numeric-id": 136545
+            }
+          },
+          "hash": "cacd2b60e352417fe057c702866ab049f19081c4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136524$E6B2F8C9-08A7-416F-AED3-0AD13186FD66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136267",
+              "numeric-id": 136267
+            }
+          },
+          "hash": "b2a23aaee07cb1a4dc143272dcd516f2f6ddeb6c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136524$707A79A5-37E3-47EC-8E1C-CF6899A4E098",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136524$771668CE-1FFD-4C47-8AE1-20796192F87D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0469-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75f00ab10ae4aef0af1a8ef31edc851331c0af39",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136524$72602671-1B95-4099-9F50-D2E9AF8F1E67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3948100"
+          },
+          "hash": "d5e59489df74d103bb0c9c7cbfb9fa75277d8022",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136524$64010E68-FD8A-44B5-974A-05D84288C238",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sant ap Ceredig Arms.svg"
+          },
+          "hash": "f2f1d812d54f55eb49ccb548ed555edb9f21cf66",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "sant a thad Dewi Sant, ac un o dywysogion Ceredigion"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th century Welsh saint"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "5th century Welsh saint"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    }
+  },
+  "id": "Q136524",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Sandde"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sandde di Ceredigion"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sant ap Ceredig"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Sant ap Ceredig"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sant ap Ceredig"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Sant ap Ceredig"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sandde di Ceredigion"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sandde di Ceredigion"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сант ап Кередиг"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sant ap Ceredig"
+    }
+  },
+  "lastrevid": 17553227,
+  "modified": "2025-09-17T10:48:56Z",
+  "ns": 860,
+  "pageid": 164909,
+  "sitelinks": {},
+  "title": "Item:Q136524",
+  "type": "item"
+}

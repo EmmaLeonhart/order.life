@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agathocles of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135747$B6752532-552F-48B2-A8A7-CD7970CAF0DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "883453"
+          },
+          "hash": "cd19ca36e674a15eb2c15332499ea75f9f802577",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135747$05219DE6-6636-44D3-A968-672E1695F517",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135747$7A8FEDAC-0793-4A53-8ECB-7B34DCDA6452",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135747$466BD874-91C4-4063-BB9C-F6DC24C71D04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135600",
+              "numeric-id": 135600
+            }
+          },
+          "hash": "1e534ed8700058f5a49805304554fb729c96ac59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135747$77D209DA-5183-4AC9-83D3-98D115F72F5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135745",
+              "numeric-id": 135745
+            }
+          },
+          "hash": "967e7113e14f2e24f4687ea9d8997df9214201a5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135747$C9303539-0FD3-43D4-91E7-BDB472240BCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135747$D0B71DAC-9184-4698-ABDC-301B4451916F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135747$286ADC70-A905-480D-965E-0DE8A1444EBD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0203-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "46e88373c77d417a598ffe3c85aa2efb898018aa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135747$6C6FCB5C-3C11-4431-99FC-59AC6772FCE4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q391458"
+          },
+          "hash": "1c30ba531e54c0e71f54227e4d671b24aee1c5f1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135747$9F1EE9A1-578B-4918-B4F8-7D5ED23206C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agathocles of Egypt Arms.svg"
+          },
+          "hash": "6689decdd11e2937b9c51b23d94e443feee14423",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Politiker des Ptolemäerreichs"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemaic minister"
+    },
+    "es": {
+      "language": "es",
+      "value": "ministro ptolemaico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fonctionnaire lagide"
+    },
+    "he": {
+      "language": "he",
+      "value": "שר תלמאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi miniszter a Ptolemaida-korban"
+    },
+    "it": {
+      "language": "it",
+      "value": "funzionario egizio, ministro di Tolomeo IV Filopatore e reggente d'Egitto"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ptolemaei IV minister"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit het oude Egypte (-202v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "koregent i regent Egiptu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Regente Ptolemaico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Regente Ptolemaico"
+    }
+  },
+  "id": "Q135747",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Агатокъл (Египет)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Agàtocles (ministre)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Agathokles"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγαθοκλής της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agathocles of Egypt"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Agathocles of Egypt"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Agathocles of Egypt"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agatocles de Egipto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agathoclès"
+    },
+    "he": {
+      "language": "he",
+      "value": "אגתוקלס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Agathoklész"
+    },
+    "it": {
+      "language": "it",
+      "value": "Agatocle"
+    },
+    "la": {
+      "language": "la",
+      "value": "Agathocles"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agathocles of Egypt"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Agathokles z Samos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Agátocles do Egito"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Agátocles do Egito"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Agatoklo od Egipta"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Агатокле од Египта"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿加托克利斯 (埃及)"
+    }
+  },
+  "lastrevid": 17552071,
+  "modified": "2025-09-17T10:32:13Z",
+  "ns": 860,
+  "pageid": 164132,
+  "sitelinks": {},
+  "title": "Item:Q135747",
+  "type": "item"
+}

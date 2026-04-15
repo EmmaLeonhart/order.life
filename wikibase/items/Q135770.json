@@ -1,0 +1,456 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prusias I of Bithynia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135770$C1B6A78D-876A-40F1-A13F-55929D9F39BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "465431"
+          },
+          "hash": "5f24c9cbd282e6607aab1897f5cd01b945cc2cff",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135770$F6CC5843-CDBC-4868-AA5D-562D608A86BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00347053"
+          },
+          "hash": "35891a383733fe4b1562031bed21a2a7fb3e5403",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135770$44DAE56F-6101-4072-90E6-C6DB1B706E12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135771",
+              "numeric-id": 135771
+            }
+          },
+          "hash": "ce7dfad94b8c0344954396947c81df51f1037045",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135770$A2789849-DAF5-4BDB-8AA9-166091E5476D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135770$B9F7E9A8-AC16-45D2-A121-9AFCC30FC1F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135770$07EF980D-2413-491A-A488-71E66EB61278",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135630",
+              "numeric-id": 135630
+            }
+          },
+          "hash": "3a54cb580431eaedcb1e1832468f151c6803b8b3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135770$973CE2CF-5A48-4BFA-A56D-63567003CEA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135946",
+              "numeric-id": 135946
+            }
+          },
+          "hash": "4c8b6273698d743ef7fb9f1133147ec03b46cd61",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135770$92A8717B-1BEC-4784-8E5E-77957B53B25B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135770$AB5E6CFA-4AEE-4E39-AF7A-21B40A10E135",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135770$01728C0E-3A4B-4B53-A09C-949679DA6F78",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0182-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b1039d058f62a8929ef40d2c1c7278bd36054ac4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135770$BC7DB556-47AB-4FFB-9625-11C9A9F0E0C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q372361"
+          },
+          "hash": "4773690a62c2bf3ad767f607e7c7c56661785361",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135770$CE57486C-BA36-4B72-B103-02CB52B95877",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prusias I of Bithynia Arms.svg"
+          },
+          "hash": "918d2d407d9da3f56eb9c99e3095c6d7d9c02e6b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Bithynien"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς του ελληνιστικού κράτους της Βιθυνίας στις αρχές του 2ου αιώνα π.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Bithynia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Bithynie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ביתיניה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bithüniai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Bitinia (r. 228-182 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ビテュニアの王"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Bithynien"
+    }
+  },
+  "id": "Q135770",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بروسياس الاول من بيثينيه"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی (پرو)سیاس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Прусій I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Прусий I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Prúsies I"
+    },
+    "da": {
+      "language": "da",
+      "value": "Prusias 1. af Bithynien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prusias I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Προυσίας Α' της Βιθυνίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prusias I of Bithynia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Prusias I de Bitinia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پروسیاس یکم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prusias Ier"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Prusias I"
+    },
+    "he": {
+      "language": "he",
+      "value": "פרוסיאס הראשון, מלך ביתיניה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Prusziasz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Prusias I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Prusia I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アパメー3世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프루시아스 1세"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Prusias I av Bithynia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Prusias I of Bithynia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Prusjasz I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Prúsias I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Prúsias I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Прусий I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Prusija I od Bitinije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Prusias I of Bithynia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Прусија I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Prusias I av Bithynien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Prusias"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Прусій I Кульгавий"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Prusias I của Bithynia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普魯西阿斯一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "普鲁西阿斯一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普鲁西阿斯一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普魯西阿斯一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "普魯西阿斯一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "普鲁西阿斯一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "普魯西阿斯一世"
+    }
+  },
+  "lastrevid": 17552103,
+  "modified": "2025-09-17T10:32:41Z",
+  "ns": 860,
+  "pageid": 164155,
+  "sitelinks": {},
+  "title": "Item:Q135770",
+  "type": "item"
+}

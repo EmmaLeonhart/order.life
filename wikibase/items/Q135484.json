@@ -1,0 +1,475 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antigonus III Doson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135484$1B02F20C-4CFB-4EB9-BC03-E3705250E535",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736297"
+          },
+          "hash": "3fc59e88f70cf173ee1da815695730c85cffdf1b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135484$A386AE60-2D34-4AA0-A51A-BA4C5D4AD883",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135484$278A1D97-2046-4A87-A094-3D637A9841A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135484$983829BA-1500-4F19-B9E4-C310A8FDC5EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135625",
+              "numeric-id": 135625
+            }
+          },
+          "hash": "02e37a860448d0cfd29f0e1ee52010229346df90",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135484$37B831D7-879E-4907-8FCC-3784477FAE30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135346",
+              "numeric-id": 135346
+            }
+          },
+          "hash": "d9249375bd3769c5776fdcf2e75fd58f2d1c2809",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135484$0035E262-22F0-4D78-A7E1-13CA4DDC580F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135483",
+              "numeric-id": 135483
+            }
+          },
+          "hash": "fe7d78bc53fcd281af445f8ee2e173621fc4da36",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135484$CCB69633-0CF3-48B1-ADA8-965548244D3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135484$F37FB27F-2C9C-46A4-B482-7F95CDE7B8E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0263-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "102bb9a516cf3a203040218b707b70efe59f89d8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135484$9F2B34CE-2E82-49FB-87E2-1B1113FACF9F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0221-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8280e754f1ae3fbb6dc7496ac952e3d26812de82",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135484$2BFF07B3-2186-4B9F-9F31-BCF5645D6EEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108816"
+          },
+          "hash": "51c7f847986b979b7f916c0c674a7b0344a41d83",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135484$D65BABB3-50B2-4BD6-9576-226BBFF7F859",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antigonus III Doson Arms.svg"
+          },
+          "hash": "4cb94ab22d4debda70a45a59533505b6df822b25",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "цар на Македония"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "makedonský král z dynastie Antigonovců"
+    },
+    "da": {
+      "language": "da",
+      "value": "konge af Makadonien"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Makedonien; Angehöriger der Dynastie der Antigoniden"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Macedonia"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Macedonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Macédoine"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך מוקדון."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Makedónia királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Macedonia (r. 229-221 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニア王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Macedonië (263v Chr-221v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Macedonii"
+    }
+  },
+  "id": "Q135484",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Антигон III Досон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antígon III Dosó"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antigonos III. Dósón"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antigonos 3. Doson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antigonos III. Doson"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίγονος Γ' Δώσων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antigonus III Doson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antígono III de Macedonia"
+    },
+    "et": {
+      "language": "et",
+      "value": "Antigonos III Doson"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antigono III.a Mazedoniakoa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antigonos III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antigone III Doson"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיגונוס השלישי דוסון, מלך מוקדון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Antigonosz makedón király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antigonos III Doson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antigono III Dosone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティゴノス3世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티고노스 3세"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Антигон III Досон"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antigonos III Doson"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Antigonos III. Doson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antigonos III Doson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Antigonos III Doson"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antygon III Doson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antígono Dóson"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antígono Dóson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антигон III Досон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antigon III Doson"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Antigonos Dósón"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antigonus III Doson"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антигон III Досон"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Антигон III Досон"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Antigon III Doson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antigonos III"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антигон III Досон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antigonos III Doson"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安提柯三世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安提柯三世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安提柯三世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安提柯三世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安提柯三世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安提柯三世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安提柯三世"
+    }
+  },
+  "lastrevid": 17551636,
+  "modified": "2025-09-17T10:26:03Z",
+  "ns": 860,
+  "pageid": 163869,
+  "sitelinks": {},
+  "title": "Item:Q135484",
+  "type": "item"
+}

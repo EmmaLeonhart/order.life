@@ -1,0 +1,441 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nicomedes II of Bithynia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135945$D2CD1169-36B9-4354-8A1B-D3A3DD2B6ED4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "465414"
+          },
+          "hash": "099688b88ce487ed0026eb9309c98aa7db957546",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135945$C17A6B0B-8827-4ED9-B2B2-61B6DE10FE56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736320"
+          },
+          "hash": "deb5231f0fc458154959d54c02c67bf5a0b97b1c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135945$C43DAD38-D6CE-426D-AECD-52B171BF17C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136187",
+              "numeric-id": 136187
+            }
+          },
+          "hash": "cfd45abf4b442013a6dc4440c83e02b98007760a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135945$84756823-23A1-4224-9F49-A0812B384DE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135945$66F32857-4B5E-4842-B100-15DD57A73078",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135945$4D4B71C0-8A35-4F29-9FEE-E09FA05DA632",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135771",
+              "numeric-id": 135771
+            }
+          },
+          "hash": "dcdfe142f2837fa3cc29375dcb3a06285bfd6288",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135945$25B3AA0C-515F-41F2-9579-1FD641295448",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135767",
+              "numeric-id": 135767
+            }
+          },
+          "hash": "d53b4496380636797e2cfc58aacf96085ffa4b80",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135945$2BA02E14-9147-4CA4-A9DD-5D8F777D2795",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135945$B47E5A79-7864-4F2B-AE73-B9F09A6C88A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135945$7B71059A-C627-4D9D-B91B-6D815B4403FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "535ccc0701e0738a953e70f2adc3ade105ff0676",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135945$D934D6EF-5C85-4DF6-A93B-6087DF392A71",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q465838"
+          },
+          "hash": "8f6e54a7a285c3b14257d4c88a3a80bf887c5167",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q135945$F0445062-E581-4AB3-9684-0B473A997C79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:51974"
+          },
+          "hash": "5909dbabe4ebad74d188ced3e15beac7e6c9f6c5",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135945$0F9334E7-73C8-4245-8FFA-957048983A58",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nicomedes II of Bithynia Arms.svg"
+          },
+          "hash": "ba69ec744f193bac619689956ff64e7690c6af03",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Bithynien"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Bithynia"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Bitinia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Bithynie"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Bitinia (r. 149-127 a.C.)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Вифинии"
+    }
+  },
+  "id": "Q135945",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Нікамед II Эпіфан"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Никомед II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nicomedes II Epífanes"
+    },
+    "da": {
+      "language": "da",
+      "value": "Nikomedes 2. af Bithynien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nikomedes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Νικομήδης Β' Επιφανής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nicomedes II of Bithynia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nicomedes II de Bitinia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Nikomedes II.a"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nicomède II"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Nikomédész"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nicomede II"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ნიკომედე II"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "니코메데스 2세"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Nikomedes II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nicomedes II van Bithynië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nikomedes II Epifanes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nicomedes II da Bitínia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Nicomedes II da Bitínia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Никомед II Эпифан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nikomed II od Bitinije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Nikomed II. Bitinski"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Nicomedes II of Bithynia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Никомед II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nikomedes II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нікомед II Епіфан"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nicomedes II của Bithynia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尼科美德二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "尼科美德二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "尼科美德二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "尼科美德二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "尼科美德二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "尼科美德二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "尼科美德二世"
+    }
+  },
+  "lastrevid": 17552335,
+  "modified": "2025-09-17T10:36:05Z",
+  "ns": 860,
+  "pageid": 164330,
+  "sitelinks": {},
+  "title": "Item:Q135945",
+  "type": "item"
+}

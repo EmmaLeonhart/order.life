@@ -1,0 +1,322 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ohthere"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q136116$EEB8F256-C3FE-4EF5-BD0D-32B7FF7DE02C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123648",
+              "numeric-id": 123648
+            }
+          },
+          "hash": "7d2eaf649101e88caf39e6ee8a21ceb626743a16",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136116$B5AC8C91-128B-4FDA-B274-CEAC3B6FF1FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136117",
+              "numeric-id": 136117
+            }
+          },
+          "hash": "5f1e895c788ceb2f1d470c78bd1396c263c4ae8d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3217": [
+      {
+        "id": "Q136116$49D4AA83-D882-4E7D-9A78-D244C7021A7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "7845"
+          },
+          "hash": "10e44cd20a56a3254a42c6019c0a45815a733cc6",
+          "property": "P3217",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136116$23FF159B-5BBA-4AE1-A159-47BD2371CEFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136116$14C70237-8C45-4BBD-B7EF-1BFE9F81CA9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136116$2A24E5F3-498A-4F53-9F76-82B8DFC35FD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ottar_Egilsson_(2)"
+          },
+          "hash": "fffd8b722d0fa61f25cc0cf4eec8ef116cf830a1",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136116$60D5111C-668C-429A-945A-6EF2954564A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136388",
+              "numeric-id": 136388
+            }
+          },
+          "hash": "c9594463461cdcecbf1505f5e1a74ccefc5b77a8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136116$207028C9-BE76-47B2-9E73-D143FF6D0338",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136116$B9E036EC-9479-412C-830A-6B5B234BAE93",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0551-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c627de525ddce84805f3b47a70e881190ee46025",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136116$C805E42C-6DD0-4640-8387-4619250CB6A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1402591"
+          },
+          "hash": "930be41b3dbd942aed81eb9eebc2625cbe22dee1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136116$6F06DF35-2489-4BC6-A114-D2065C0F7677",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ohthere Arms.svg"
+          },
+          "hash": "32306d3d1994f6f73c86dadea312a7269b971054",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "semi-legendary Swedish king"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "semi-légendaire roi suédois"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei semilendario sueco"
+    },
+    "it": {
+      "language": "it",
+      "value": "re semi-mitologico sueune"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Skald"
+    }
+  },
+  "id": "Q136116",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ottar"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Отар"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ohthere"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ohthere"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ohthere"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ohthere"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ohthere"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オーッタル"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ottar Vendelkråke"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ohthere"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ottar Vendilkråke"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ottar Vendelkråka"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ottar Vendelkråka"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Оттар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ottar Vendelkråka"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Оттар Вендельський Ворон"
+    }
+  },
+  "lastrevid": 17552603,
+  "modified": "2025-09-17T10:39:54Z",
+  "ns": 860,
+  "pageid": 164501,
+  "sitelinks": {},
+  "title": "Item:Q136116",
+  "type": "item"
+}

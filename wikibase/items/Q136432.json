@@ -1,0 +1,458 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arsinoe IV of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136432$AD4D3501-1047-453D-BEF2-1F93ADC6C86D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446793"
+          },
+          "hash": "3c0e151cc3fb18adfd0a16d60e38dc7ae82f1c6a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136432$2A5732C1-E201-40FF-9734-B0AA0EBE8D8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136432$B380E397-6241-41A2-B0A3-FD033A6005A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136432$7F3490E4-EBEB-48E9-B2BA-3CF4523EA079",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsinoe_IV_of_Egypt_(1)"
+          },
+          "hash": "9740efafe2400bbbb0450d895850892f9b181f26",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136432$823DF8C4-F7F9-42BD-8277-935EF52EE6F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78612",
+              "numeric-id": 78612
+            }
+          },
+          "hash": "3d81f9d00f5d6196cdfd9026ddd2f6402fb3883c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136432$0112C791-6F2E-4139-AB77-A5681D4A8E59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136432$F60C6486-8617-4638-B422-E8884AD78745",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0068-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e38fd548e96fd46c076f20a352641368c8c6ff9a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136432$753F1AE6-E6BA-4F7B-9D2A-88B60556FEB2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0041-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9575031045f8c62f500833269bf383ec2c684a10",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136432$A3B90DB4-AC9E-47FE-A1B2-E19C776A8BFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q40013"
+          },
+          "hash": "6653a5259032ea6d1c8828b702a17d984a261f36",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136432$07387DA7-2B88-401A-8264-B97BF67E87C4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsinoe IV of Egypt Arms.svg"
+          },
+          "hash": "56864e022fb18ed55a9feddbef18374656c0c2d2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملكة مقدونية"
+    },
+    "de": {
+      "language": "de",
+      "value": "Königin von Zypern, Schwester von Kleopatra"
+    },
+    "el": {
+      "language": "el",
+      "value": "πριγκίπισσα της αρχαίας Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen of Ptolemaic Egypt from 48 BC to 47 BC"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "faraonino de Egiptio de -48 ĝis -47, fratino de Kleopatro"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina de Egipto"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Egyptin kuningatar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine d'Égypte"
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיכה מצרית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina egizia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koningin uit Macedonisch Egypte en Ptolemeïsche rijk (68v Chr-41v Chr)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rainha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rainha"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mısır kraliçesi (MÖ 48-MÖ 47)"
+    }
+  },
+  "id": "Q136432",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أرسينوى الرابعة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارسينوى الرابعه"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Arsínoe IV"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арсіноя IV"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Арсиноя IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arsínoe IV"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Arsinoé IV."
+    },
+    "da": {
+      "language": "da",
+      "value": "Arsinoe IV"
+    },
+    "de": {
+      "language": "de",
+      "value": "Arsinoë IV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρσινόη Δ΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arsinoe IV of Egypt"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Arsinoe la 4-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arsínoe IV"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرسینوئه چهارم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Arsinoe IV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arsinoé IV"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Arsinoe IV na hÉigipte"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארסינואי הרביעית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Arszinoé"
+    },
+    "id": {
+      "language": "id",
+      "value": "Arsinoe IV dari Mesir"
+    },
+    "io": {
+      "language": "io",
+      "value": "Arsinoe la 4ma"
+    },
+    "is": {
+      "language": "is",
+      "value": "Arsinóe 4."
+    },
+    "it": {
+      "language": "it",
+      "value": "Arsinoe IV"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルシノエ4世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არსინოე IV"
+    },
+    "la": {
+      "language": "la",
+      "value": "Arsinoë IV"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Arsinoe IV"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Arsinoe IV av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arsinoë IV"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Arsinoe IV"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Arsínoe IV"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Arsínoe IV"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арсиноя IV"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Arsinoë IV"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arsinoja IV od Egipta"
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තුවේ IVවන ආර්සිනෝයි"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Арсиноја IV"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Arsinoe IV"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "நான்காம் அர்சினோ"
+    },
+    "th": {
+      "language": "th",
+      "value": "อาร์ซิโน่ที่ 4"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IV. Arsinoe"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арсіноя IV"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Arsinoe IV"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔西诺伊四世"
+    }
+  },
+  "lastrevid": 17553095,
+  "modified": "2025-09-17T10:47:03Z",
+  "ns": 860,
+  "pageid": 164817,
+  "sitelinks": {},
+  "title": "Item:Q136432",
+  "type": "item"
+}

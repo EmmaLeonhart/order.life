@@ -1,0 +1,502 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Apries"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135791$EC210051-28B3-4C6B-B253-9FAA1E7B0A0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "376509"
+          },
+          "hash": "5a1a8b515f249d85dba9c984b9420ae070883d5e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135791$CE401E14-0C2D-4609-AC1F-8ACF02B93BE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135661",
+              "numeric-id": 135661
+            }
+          },
+          "hash": "1aaa84c44f7b153c20bc75f21cd62933c64af20f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135791$29B7C9E1-A2D7-4EDC-B0CD-0F386CE233D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135791$131E4353-D711-455E-8FB9-729111F7EBB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135791$E092922F-2382-4F23-AE2F-B7F8BCDFFA51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135965",
+              "numeric-id": 135965
+            }
+          },
+          "hash": "64d885fbc88081e5e06aa91bf4d81c81f35941e4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135791$0540AE4C-542E-4ADA-ACF1-526D04F06121",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135791$FF1EB2C1-9C90-4D48-9979-D65D643FAB69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22d35df1cfa932cd58f3acb2312bc355e0beeb04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135791$35924B67-09C4-4F05-9896-A2D189A95BAE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0567-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e72c294d644aa487ac43aca0eae356937415d784",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135791$976B0F02-AB55-4A82-830D-7D7BA2A36037",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q349291"
+          },
+          "hash": "8adac2d0e10af247c93e5d72a07c3c5538a07c08",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135791$9E9390CD-ABA6-4604-9BD3-6E566402A8C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Apries Arms.svg"
+          },
+          "hash": "880f12c7153c6c4e783eace29263f25ed0a94d0d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Egiptiese farao"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ملك مصري"
+    },
+    "de": {
+      "language": "de",
+      "value": "4. altägyptischer Pharao der 26. Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th Egyptian pharaoh of the 26th dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "faraón egipcio de la dinastía XXVI"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "4e pharaon égyptien de la XXVIème dynastie"
+    },
+    "he": {
+      "language": "he",
+      "value": "שליט מצרי מהשושלת ה-26 של מצרים"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi fáraó"
+    },
+    "id": {
+      "language": "id",
+      "value": "firaun Mesir"
+    },
+    "it": {
+      "language": "it",
+      "value": "faraone egizio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "staatsman uit het oude Egypte (?-567v Chr)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Faraó"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Faraó"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеегипетский фараон XXVI династии"
+    }
+  },
+  "id": "Q135791",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Apries"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أبريس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ابريس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Априй"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Apries"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vahibre"
+    },
+    "da": {
+      "language": "da",
+      "value": "Apries"
+    },
+    "de": {
+      "language": "de",
+      "value": "Apries"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Apries"
+    },
+    "el": {
+      "language": "el",
+      "value": "Απρίης της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Apries"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Apries"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Apries"
+    },
+    "es": {
+      "language": "es",
+      "value": "Apries"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Apries"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آپریس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Apries"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Apriès"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀπρίης"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Da sauri"
+    },
+    "he": {
+      "language": "he",
+      "value": "חפרע"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Uahibré"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ապրիոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hofra"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aprie"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アプリエス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აპრიესი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Apries"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Aprijus"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Apriesy"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Априис"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Apries"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Apries"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Apriës"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Apries"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Apries"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Apriés"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Apriés"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Априй"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Apries"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Apries"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Апријес"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Apries"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟาโรห์อพริส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Apries"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Апрій"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Apries"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Apries"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿普里伊"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿普里伊"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿普里伊"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿普里伊"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿普里伊"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿普里伊"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿普里伊"
+    }
+  },
+  "lastrevid": 17552133,
+  "modified": "2025-09-17T10:33:07Z",
+  "ns": 860,
+  "pageid": 164176,
+  "sitelinks": {},
+  "title": "Item:Q135791",
+  "type": "item"
+}

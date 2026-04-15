@@ -1,0 +1,378 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Magas of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135460$126AB9BB-61B7-43C5-AFE9-57EF02A67431",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567197"
+          },
+          "hash": "32434a3df6c24be9907a41bfa484d0d1a268992e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135460$82CD66B6-27B1-4BF1-BA7B-8F0AA0CC2A13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135460$F3996B3E-0EE5-423E-9D80-98E783138B61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135460$4E64672D-DA69-423E-B254-82D81A614AB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73491",
+              "numeric-id": 73491
+            }
+          },
+          "hash": "d64bf911a57e3841a80eb9813a212b6e8c8a62e7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135460$377810B4-8E9B-4E90-B898-5C8D4571770D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73494",
+              "numeric-id": 73494
+            }
+          },
+          "hash": "05c50b7623a1e06bac5d2669e28295cce24cb624",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135460$B66EC6EF-C191-4B75-B94F-DB0A205B3104",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135460$7A804A7C-D26E-46CB-A1E7-22C454364210",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0241-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "271da204f145b60457d96902dcb1168ff8baf9a9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135460$4C6F0639-D7AC-4057-995E-5501D667FBC2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0222-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "51b51086589139117e52188077b01c700ac7d13e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135460$FDCFB4A0-F76F-4F15-B495-8B49B581EACC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3233494"
+          },
+          "hash": "37c6eb9852e1206975723d813799db338f3fca40",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135460$2A38DDA0-67EA-438B-A629-373530254A4B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Magas of Egypt Arms.svg"
+          },
+          "hash": "e251bfbec9d6431f01b6e90895d1c2dbdee7d519",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Prinz der hellenistischen Ptolemäerdynastie in Ägypten; Sohn von Ptolemaios III."
+    },
+    "el": {
+      "language": "el",
+      "value": "πρίγκιπας της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Ptolemy III and Berenice"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe ptolemaico, hijo de Ptolomeo III y Berenice II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince lagide, fils de Ptolémée III et de Bérénice"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנם של תלמי השלישי וברניקי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Ptolemaiosz fia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Птолемея III"
+    }
+  },
+  "id": "Q135460",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ماجاس مصر"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Магас"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Magas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Magas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάγας της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Magas of Egypt"
+    },
+    "es": {
+      "language": "es",
+      "value": "Magas de Egipto"
+    },
+    "ff": {
+      "language": "ff",
+      "value": "Magas Misra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Magas"
+    },
+    "he": {
+      "language": "he",
+      "value": "מאגס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Magasz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Magas d'Egitto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マガス (エジプト)"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Magas"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Magas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Magas av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Magas of Egypt"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Magas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Magas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Magas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Магас"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Magas od Egipta"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Magas"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Magas of Egypt"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Маг Египатски"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Магас"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃及的馬格斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "埃及的马格斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "埃及的馬格斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "埃及的馬格斯"
+    }
+  },
+  "lastrevid": 17551596,
+  "modified": "2025-09-17T10:25:28Z",
+  "ns": 860,
+  "pageid": 163845,
+  "sitelinks": {},
+  "title": "Item:Q135460",
+  "type": "item"
+}

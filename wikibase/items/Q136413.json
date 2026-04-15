@@ -1,0 +1,401 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleomenes II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136413$61D3702B-26DE-4EFD-B7CF-3AABB8E46FE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028098"
+          },
+          "hash": "c054053b4857089df7ddf3f8e617a74d0805bdd8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136413$23479DCE-89E6-407E-84AB-EF790E225FE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136721",
+              "numeric-id": 136721
+            }
+          },
+          "hash": "9892c2367440f7e913e2e7da6fdb20ed78f711f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136413$19F500B8-B731-4D10-B943-5D969F9B435E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136722",
+              "numeric-id": 136722
+            }
+          },
+          "hash": "d2558c9983edf2c42604a51081aa73beb3ee92f0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136413$675CD97E-0C0F-4957-A40E-ECCF461C5579",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136413$2602D38F-4CB0-4EA7-B2C8-5EECDCA00BD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136413$756E710B-10E3-4F9A-8D87-61C61A5B9BAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136131",
+              "numeric-id": 136131
+            }
+          },
+          "hash": "7bddc4796e9fea6b514e0d37b8d1b66b36f698d2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136413$E3D8AD14-7D14-48B9-8715-545C2B1555E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136413$D6873EDD-10AC-4FD8-B33F-70D45A2BBF9E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136413$E9FCA393-6820-4994-BAA6-387EB3383933",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0309-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd954e0994aeb948bfe7e062130e6579525fe55c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136413$767ECE3C-3973-4FCE-9896-C927390C809E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q464632"
+          },
+          "hash": "3c46936e9e981eb7c59a14400b18df204f47e6ed",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136413$AF637DC8-78E2-4D06-8967-302D6714CB46",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleomenes II Arms.svg"
+          },
+          "hash": "a780d8318397ffc0ed25da9aec937b94c8e22d08",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "spartský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König in Sparta"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Sparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ספרטה מהשושלת האגידית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning van Sparta tussen 370 en 309 voor Christus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Sparty z dynastii Agiadów"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rei de Esparta"
+    }
+  },
+  "id": "Q136413",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كليومينس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كليومينس التانى"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cleòmenes II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kleomenés II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleomenes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλεομένης Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleomenes II"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Cleomenes II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cleomenes II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cleómenes II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléomène II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cleómenes II"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלאומנס השני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Kleomenész spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cleomene II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレオメネス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კლეომენე II"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cleomenes II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cleomenes II van Sparta"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kleomenes II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cleómenes II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cleômenes II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеомен II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kleomen II"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kleomenes II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cleomenes II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kleomenes II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеомен II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cleomenes II"
+    }
+  },
+  "lastrevid": 17553065,
+  "modified": "2025-09-17T10:46:31Z",
+  "ns": 860,
+  "pageid": 164798,
+  "sitelinks": {},
+  "title": "Item:Q136413",
+  "type": "item"
+}

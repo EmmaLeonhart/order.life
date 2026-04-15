@@ -1,0 +1,502 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Polynices"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q134698$1765F52A-450C-494F-9060-CE86BF667449",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "156462"
+          },
+          "hash": "56b344cfea466cf5b3b2235ac9d7f6a2ed4c0274",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q134698$532AE563-7A9A-43B2-8320-F7285A5D3EE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134487",
+              "numeric-id": 134487
+            }
+          },
+          "hash": "cb9abf2bfd31f27b05bd95358b8d75cdbf6c6620",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134698$1F408494-3951-406A-BC93-5831E57130C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134699",
+              "numeric-id": 134699
+            }
+          },
+          "hash": "c9fa07a92c5afa26d48226bd6947bb403d6f3df2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134698$43AE8354-CEA7-4DCC-85DF-393E9EE042F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134810",
+              "numeric-id": 134810
+            }
+          },
+          "hash": "600597e4ed0e0d5fbe44ab76dace7680c24a1f19",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134698$04D734DF-157B-4484-84E0-7CBAE52BF1B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134698$450F63B0-20CA-4446-BEF3-24B76E1EDBEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q134698$F9102D43-3DC7-4478-86CE-C22C911ED4BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134427",
+              "numeric-id": 134427
+            }
+          },
+          "hash": "e04e036711a5ebffc74b65e3872d4fac420fb9d0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134698$C94B7FD9-7EF3-424B-95BD-C11E2B2F14E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134562",
+              "numeric-id": 134562
+            }
+          },
+          "hash": "76b7581cd01d748f332eb935921279c497cb7dcd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134698$C0DC4055-5A1C-441F-997A-CB4146BA80CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134722",
+              "numeric-id": 134722
+            }
+          },
+          "hash": "ec6ab42dfe5ad2dc36d78bca14630d0fc3be4f7c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134698$0B12FFA5-A28E-4080-8F71-3BF63EFB4C3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134698$7243BC5A-CA9F-4F85-938E-6B6761BDFFF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q334817"
+          },
+          "hash": "e31738b3df62757e07ca761d2e3749c032e67eb8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134698$C7782B37-355F-4CF1-AF0E-C29F760EEA4C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Polynices Arms.svg"
+          },
+          "hash": "9b68d3dfe26a29df1a2b7fcae98a62354288304e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Heroi de l'Antiga Grècia, fill d'Èdip"
+    },
+    "de": {
+      "language": "de",
+      "value": "König der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythological prince of Thebes"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe mitológico de Tebas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "príncipe de Tebas, fillo de Edipo"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מהמיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Thébai mondabeli hercege"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Edipo e Giocasta"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화에 등장하는 테바이의 공주"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mytisk prins av Theben"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, zoon van Oedipus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać z „Antygony”, królewicz tebański"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "princ Teb v grški mitologiji"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "person i grekisk mytologi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi Thebai prensi"
+    }
+  },
+  "id": "Q134698",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Палінік"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Полиник"
+    },
+    "br": {
+      "language": "br",
+      "value": "Polynikes"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Polinices"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Polyneikés"
+    },
+    "da": {
+      "language": "da",
+      "value": "Polyneikes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Polyneikes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πολυνείκης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Polynices"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Poliniko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Polinices"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Polinizes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پولونیکس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Polyneikes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Polynice"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Polinices"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πολυνείκης"
+    },
+    "he": {
+      "language": "he",
+      "value": "פולינייקס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Polüneikész"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պոլինիկես"
+    },
+    "id": {
+      "language": "id",
+      "value": "Polineikes"
+    },
+    "io": {
+      "language": "io",
+      "value": "Polineikes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Polinice"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ポリュネイケース"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "폴리네이케스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Polînîkês"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Polînîkês"
+    },
+    "la": {
+      "language": "la",
+      "value": "Polynices"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Polineikas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Polyneikes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Polynices"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Polyneikes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Polinik"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Polinices"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Polinice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Полиник"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Polinik"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Polyneikes"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Polinejk"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Polyneikes"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Polynikes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Полінік"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Polynices"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "波呂涅克斯"
+    }
+  },
+  "lastrevid": 17550224,
+  "modified": "2025-09-17T10:05:51Z",
+  "ns": 860,
+  "pageid": 163083,
+  "sitelinks": {},
+  "title": "Item:Q134698",
+  "type": "item"
+}

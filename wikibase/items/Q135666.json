@@ -1,0 +1,518 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xerxes II"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135666$9F2AAFCF-4442-40FA-85FB-4EE850A9A1F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738547"
+          },
+          "hash": "92e38d2fb07a99d89dff83451983b21160e91898",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135666$D5A06372-B547-4FA2-B985-3390DACFB11A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135666$FAA814E6-0DB1-4644-9EFC-4DD718CDA8BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135666$A1914D2E-79D4-4C66-AAD5-7EAB126FB714",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74129",
+              "numeric-id": 74129
+            }
+          },
+          "hash": "f1f11d6f82bb1c62a99fc999937ca956bcd12a03",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135666$EE7A8EC5-676E-4912-A02C-F7B63338DD39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135664",
+              "numeric-id": 135664
+            }
+          },
+          "hash": "4fb87dbac00be35dfeeb93d84534a434ae128daa",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135666$95AF73BC-A01E-4833-B467-AEA41686A490",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135666$19C05793-0E4A-4E9C-A3D5-D6223C43EBB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135666$F2944B28-5F01-4B69-B803-5E8F7AF8E9AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0423-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "323247ddf7e8c3006685857e828dc67e8e79386a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135666$F002549B-1C94-4A44-93A9-6E2406B6DAA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q272043"
+          },
+          "hash": "0605157cc267643b9e2a14fb86a61e30e2c56c69",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135666$0766AAF9-6EBE-4C74-9273-42D96477E16B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xerxes II Arms.svg"
+          },
+          "hash": "6c8491f3f849b7a98bb239f92f6230419f719b9a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملوك بلاد فارس"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "achaimenovský král Persie krátce vládnoucí roku 424 př. n. l."
+    },
+    "de": {
+      "language": "de",
+      "value": "persischer Großkönig und vorletzter, altägyptischer Pharao der 27. Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "brief ruler of the Achaemenid Empire (died 424 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "gran rey del Imperio Aqueménida"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هفتمین شاهنشاه هخامنشی (۴۲۴ پ.م)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi Perse et fils d'Artaxerxès Ier"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "perzsa király"
+    },
+    "id": {
+      "language": "id",
+      "value": "penguasa singkat Kekaisaran Akhemeniyah (wafat 424 SM)"
+    },
+    "it": {
+      "language": "it",
+      "value": "gran re dell'Impero achemenide (r. 424 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Iran (500v Chr-424v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król perski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rei  do império Aquemênida"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "rege al Persiei, fiul lui Artaxerxes"
+    }
+  },
+  "id": "Q135666",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أحشويروش الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "احشويروش التانى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Xerxes II de Persia"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Kserks"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی خشایارشا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ксеркс II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ксеркс II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Xerxes II de Pèrsia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Xerxés II."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Xerxes II, brenin Persia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Xerxes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ξέρξης Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xerxes II"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kserkso la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jerjes II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Xerxes II.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "خشایارشا دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kserkses II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Xerxès II"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Xeirxéas II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xerxes II"
+    },
+    "he": {
+      "language": "he",
+      "value": "חשיארש השני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kserkso II."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Khsajársá perzsa király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ahasyweros II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Serse II di Persia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クセルクセス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ქსერქსე II"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "크세르크세스 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Xerses"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Kserksesy II"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "خشایار دوم"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Xerxes II av Persia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xerxes II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kserkses II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Xerxes II da Pérsia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Xerxes II da Pérsia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Xerxes al II-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ксеркс II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kserks II"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Xerxes II."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kserks II."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ксеркс II"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ксеркс II"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Kserks II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Xerxes II"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Хашоёршои II"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิเซิร์กซีสที่ 2"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Xerxes II ng Persia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Serhas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ксеркс II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Xerxes II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛西斯二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "薛西斯二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛西斯二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛西斯二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "薛西斯二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "薛西斯二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "薛西斯二世"
+    }
+  },
+  "lastrevid": 17551935,
+  "modified": "2025-09-17T10:30:19Z",
+  "ns": 860,
+  "pageid": 164051,
+  "sitelinks": {},
+  "title": "Item:Q135666",
+  "type": "item"
+}

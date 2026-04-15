@@ -1,0 +1,406 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dalmatius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136828$8EDD32FE-DED4-4DA7-80FC-14B2F4DABE31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136828$B7611B4C-7ABE-42CD-B4D7-8434C609FC0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136828$4DD13B71-D27C-421F-B59E-184BDA3C8BCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dalmatius_(1)"
+          },
+          "hash": "3fc6cc3ab834c3e442dba942f326620aba6d888d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136828$A1261B97-4F83-487B-B670-1F1F0A100EE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136510",
+              "numeric-id": 136510
+            }
+          },
+          "hash": "57c13410e0ea06091c5a1d147783768d008a50ca",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136828$2CE66D1C-B3B2-44E5-804A-F4891303FFD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136828$11556804-4B02-4BE3-8ECD-C784F59D88BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0320-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "df55be1e70ae9755c70515232a74316be88592f4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136828$BFC13FD4-23B9-4F0A-BA35-290946958F25",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0337-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a127373e81dc512a8178856c3fed134c37899681",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136828$23034245-5E1B-4E2A-9FCC-27B4979E3433",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q354415"
+          },
+          "hash": "b7cc8de72ebd2a8a81da485924d086d4d9583acc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136828$F776F489-1602-46CB-86BB-8D6363D7F23B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dalmatius Arms.svg"
+          },
+          "hash": "893f0ec06916c0f68e9d8425230770aa2df45ba7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q136828$1F16FB6B-51A7-4C92-9223-35AE49333098",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/c400243b-6387-4047-8813-8b4ef0882adf"
+          },
+          "hash": "cf782395d9ac458b83a8494ab492b4e46c8f917b",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Caesar des Römischen Reiches und Neffe Konstantins des Großen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Caesar from 335 to 337"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, neveu de Constantin"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cesare di Thracia, Achaea e Macedonia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "caesar"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q136828",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "دالماتيوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "دالماتيوس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "دالماتیوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Далмаций"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dalmaci Cèsar"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Dalmatius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dalmatius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δαλμάτιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dalmatius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dalmacio César"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دالماتیوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Dalmatius Caesar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Flavius Dalmatius"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Dalmacije"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Flavius Dalmatius"
+    },
+    "id": {
+      "language": "id",
+      "value": "Dalmatius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Flavio Dalmazio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ダルマティウス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "달마티우스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Dalmatius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dalmatius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Dalmatius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dalmacjusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Dalmácio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Dalmácio"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Dalmatius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Далмаций Младший"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Dalmacije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Dalmatius"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Dalmatius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Далмацій Молодший"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "達爾瑪提烏斯"
+    }
+  },
+  "lastrevid": 17553721,
+  "modified": "2025-09-17T10:55:58Z",
+  "ns": 860,
+  "pageid": 165213,
+  "sitelinks": {},
+  "title": "Item:Q136828",
+  "type": "item"
+}

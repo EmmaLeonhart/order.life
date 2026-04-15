@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tithraustes"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135532$6BDED586-4BF3-4DAC-A493-402AA12BAA7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135532$4976DC2D-4F22-4FE7-802E-36A7E9950856",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135532$F839498C-2624-4ECD-BBC0-43F3033866D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74195",
+              "numeric-id": 74195
+            }
+          },
+          "hash": "a84097b36221d747f393264859914079065022dd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135532$5D31073F-4EBF-46B7-A3D6-4288B0509EDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135532$94509C2A-AC2D-409A-BEF8-F9A2D7284E29",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135532$F92A8E26-B374-48FE-AD8C-E363B9DB923C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135532$2591D663-F38F-4800-8CD6-F42CBC7579EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15851032"
+          },
+          "hash": "a6cb886c599e6d40adf98ebcf8a7ea39e4ed8a45",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q135532$407E18D1-EB84-4EEE-B329-8C2D26E75707",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Tithraustes"
+          },
+          "hash": "0440fda32fce9ce3241a3bebb0d616a55ba752ca",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135532$A232AA26-D4D6-4DAA-B730-102F1E5CC1F2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tithraustes Arms.svg"
+          },
+          "hash": "20c6b12a76197fd6102d798da5e5efcda93d935b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Sohn des Großkönigs Xerxes I."
+    },
+    "en": {
+      "language": "en",
+      "value": "achaemenid prince, son of Xerxes I"
+    }
+  },
+  "id": "Q135532",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tithraustes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tithraustes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tithraustes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تیفراتس"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Tithraustes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тифравст"
+    }
+  },
+  "lastrevid": 17551710,
+  "modified": "2025-09-17T10:27:06Z",
+  "ns": 860,
+  "pageid": 163917,
+  "sitelinks": {},
+  "title": "Item:Q135532",
+  "type": "item"
+}

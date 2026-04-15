@@ -1,0 +1,632 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abel"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q134752$B8ADE2C8-3875-4BB8-B773-98942AF15B5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32372|335691"
+          },
+          "hash": "d1b964b50593fb5e8e951a7c82554facb584aa25",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134752$F571D76B-D8A5-4FC2-BE75-3FBAEBC96816",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134752$971E04E5-093F-479F-B90C-6A13A2F4FA02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q134752$935700C6-372E-4C17-8416-7B72393FEF2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134514",
+              "numeric-id": 134514
+            }
+          },
+          "hash": "dddf1d8d718eb86adbfde7fc2a6da2a54a3f949e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134752$BE0F5ADE-AAB5-41E3-88DB-9F3731816BF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134750",
+              "numeric-id": 134750
+            }
+          },
+          "hash": "8681f45ba8e83043a970061e29fcdc7c56e488f3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134752$10B3F0EF-6A67-4FF7-9399-98AB3409C039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134751",
+              "numeric-id": 134751
+            }
+          },
+          "hash": "cf46adc3252191e2f2344dbeaac34b91620576b8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134752$57A040FF-38AA-4C25-8974-8E1DC5E4BBB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q134752$B02DB204-0F30-4ACA-BC0F-6EE0E8A2F7E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+3897-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "021a976f708329c7cee04cad47ab20ffbccf1a71",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q134752$CC455910-836E-4870-87E8-D2F55B6467B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+3825-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a045ab6067685e35731827219658e0d437b8f402",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134752$5DA5FB3C-8B34-4E83-B29C-5E6D57C5552C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313421"
+          },
+          "hash": "997d354037247ff972b2affa094e67ece75b09a0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134752$CE46F450-B903-4497-9253-C4E3AF553A33",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abel Arms.svg"
+          },
+          "hash": "459308113611f603102ae8a627631c25518b2e4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q134752$919A8C0C-A140-4E13-962B-AD7F58D164F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/03452fd3-e6c9-4323-83c6-0da4d9867c65"
+          },
+          "hash": "79818e38ecb62e1380398bd2044367c85069bbd7",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شخصية توراتية"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "কুরআন ও বাইবেলে উল্লিখিত চরিত্র"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava"
+    },
+    "de": {
+      "language": "de",
+      "value": "Biblische Figur"
+    },
+    "en": {
+      "language": "en",
+      "value": "male human biblical figure in Genesis 4, son of Adam and Eve"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje bíblico"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فرزند آدم و حوا که توسط برادرش قابیل کشته شد"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Raamatun henkilö"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la Genèse"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "personaxe bíblico, fillo de Adán e Eva"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנם של אדם וחווה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "drugi sin Adama i Eve"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bibliai alak"
+    },
+    "id": {
+      "language": "id",
+      "value": "tokoh Alkitab"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico, figlio di Adamo ed Eva, fratello di Caino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖書の登場人物"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "person i Bibelen"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "person i Bibelen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać biblijna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "второй сын Адама и Евы"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Adams och Evas son"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "圣经人物"
+    }
+  },
+  "id": "Q134752",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هابيل"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܗܒܝܠ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هابيل"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Abel"
+    },
+    "be": {
+      "language": "be",
+      "value": "Авель"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Абэль"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Авел"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "হাবিল"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཧ་བེལ།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Abel"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ábel"
+    },
+    "da": {
+      "language": "da",
+      "value": "Abel"
+    },
+    "de": {
+      "language": "de",
+      "value": "Abel"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άβελ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abel"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Habelo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Abel"
+    },
+    "et": {
+      "language": "et",
+      "value": "Aabel"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Abel"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هابیل"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Abel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Abel"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Áibil"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Abel"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Habila"
+    },
+    "he": {
+      "language": "he",
+      "value": "הבל"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Abel"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ábel"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Աբել"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Abel"
+    },
+    "id": {
+      "language": "id",
+      "value": "Habel"
+    },
+    "it": {
+      "language": "it",
+      "value": "Abele"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アベル"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აბელი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Авель"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아벨"
+    },
+    "la": {
+      "language": "la",
+      "value": "Abel"
+    },
+    "ln": {
+      "language": "ln",
+      "value": "Abɛlɛ"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Abelis"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Abela"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Авел"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Abel"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Abel"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Abel"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Abèl"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Abel"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Abel"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Abel"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Авель"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Аабыл"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ábel"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "ہابیل"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Abel"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Abel"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Abeli"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Habil"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Авель"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہابیل"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Abel"
+    },
+    "war": {
+      "language": "war",
+      "value": "Abel"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Abel"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "აბელი"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "הבל"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞伯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "亚伯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "亚伯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "亞伯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "亞伯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "亚伯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "亞伯"
+    }
+  },
+  "lastrevid": 17550322,
+  "modified": "2025-09-17T10:07:15Z",
+  "ns": 860,
+  "pageid": 163137,
+  "sitelinks": {},
+  "title": "Item:Q134752",
+  "type": "item"
+}

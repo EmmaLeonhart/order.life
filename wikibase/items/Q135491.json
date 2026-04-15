@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Halcyoneus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135491$A8A9B505-06AD-41A7-B421-DBAC1F6C414F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135491$B6D73E0E-5E5A-4B4A-AC5E-A9ED4B1B2DB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135491$74206880-5A87-4E0F-94A8-FE6764CF2489",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135350",
+              "numeric-id": 135350
+            }
+          },
+          "hash": "cd767a80b024ee4343114eaebe1604dbef2c9319",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135491$4D8077C9-E48A-4E57-B94B-6225C61BA641",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135631",
+              "numeric-id": 135631
+            }
+          },
+          "hash": "069af77d6c550d95c1bbf96aece0f880e3b495e4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135491$6746B48D-0715-419D-BA47-C40D123BD050",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135491$AAA33B96-3A5C-4AE8-8A1A-6D3DA8679B63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135491$CB6A3243-768F-4585-A35F-01B9002832C3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b759e7f5a58cca3bd092fbd5291b202d65fc47d1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135491$73767C49-DB55-440E-80E8-2FDC967A9E4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q949786"
+          },
+          "hash": "8453970f1b7b912be03ddd2ec1a4a5d06904f028",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135491$C5993A15-0762-419E-BA3D-066648524866",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Halcyoneus Arms.svg"
+          },
+          "hash": "986070fba39589d96b327a2ae08e9ea4751c4989",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "makedonischer Prinz und Feldherr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Macedonian prince and general, son of Antigonus Gonatas"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe y general macedonio, hijo de Antígono II Gónatas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince et militaire macédonien"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Antigono Gonata"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Macedonië (-)"
+    }
+  },
+  "id": "Q135491",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Халкионей"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Halcioneu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Halkyoneus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλκυονέας της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Halcyoneus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Halcioneo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Halcyoneus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alcioneo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alcioneu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alcioneu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alcioneu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Алкионей"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Halcyoneus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Алкіоней"
+    }
+  },
+  "lastrevid": 17551650,
+  "modified": "2025-09-17T10:26:15Z",
+  "ns": 860,
+  "pageid": 163876,
+  "sitelinks": {},
+  "title": "Item:Q135491",
+  "type": "item"
+}

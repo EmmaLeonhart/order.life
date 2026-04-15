@@ -1,0 +1,419 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eurydice II of Macedon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135272$AA276C8D-0489-47D6-BCF5-28C1CB32CE77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736516"
+          },
+          "hash": "4397eaf43722272bfea3a8377a3599494bace62c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135272$E349FA40-C9ED-4453-B42C-2621160145B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135272$9E117772-02F4-4C8C-BC62-599A9CDF0D46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135272$9CF40FBB-2C0E-4867-816E-6501A05D491A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135221",
+              "numeric-id": 135221
+            }
+          },
+          "hash": "dd7ef212517ff75dfee693518457ed8400675220",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135272$2B49DED5-EF4C-4082-A519-D62C55A8D6D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135213",
+              "numeric-id": 135213
+            }
+          },
+          "hash": "05eec74ffe808a72da8d1f74eb19e92f04703dbd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135272$0097FE3F-C329-4E86-A5D9-2287ABB1E6E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135224",
+              "numeric-id": 135224
+            }
+          },
+          "hash": "3381002831a508d59419525793bb3ac12772b02e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135272$668425A9-7F18-45D6-8BF4-1C9004B85F88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135272$4C7094FB-A7C2-4F84-8242-F98E0F35E451",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0336-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e7348459257611a5169eea7be3a9c95e9523c623",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135272$E589B417-B13D-42A7-A506-E97F6671931E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0317-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1413edb6923f9707bd267a341c2204cb26a9a2ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135272$A47BE782-2C75-49E5-BFC4-00587390D385",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q292317"
+          },
+          "hash": "58c75dc9226aa5b8e087f3841f09320acc15bf84",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135272$41D2028D-AF31-454C-A842-EB3AE230835E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eurydice II of Macedon Arms.svg"
+          },
+          "hash": "84687aa56d1be9520a15a91cfedc209fc48fa592",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملكة مقدونية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ملكه مصريه من الاسره الارجيه"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "македонска принцеса"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Königs Amyntas IV. und der Kynane"
+    },
+    "el": {
+      "language": "el",
+      "value": "αρχαία βασίλισσα της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Macedonian queen (c. 337–317 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa del rey Filipo III de Macedonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Philippe III, roi de Macédoine"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכת מוקדון"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina macedone antica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Macedonisch politica (????-316 VC)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "mbretëresha e Maqedonisë së Lashtë"
+    }
+  },
+  "id": "Q135272",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يوريديكا الثانية المقدونية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يوريديكا التانيه المقدونيه"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Eurídice III de Macedònia"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Евридика II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eurídice II de Macedònia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eurydike"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ευριδίκη Β΄ της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eurydice II of Macedon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eurídice II de Macedonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eurydice"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Eυρυδικη"
+    },
+    "he": {
+      "language": "he",
+      "value": "אורידיקה השנייה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Եվրիդիկե II"
+    },
+    "id": {
+      "language": "id",
+      "value": "Euridike II dari Makedonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Euridice II di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エウリュディケ2世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에우리디케 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Eurydice"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Евридика II Македонска"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Eurydike II av Makedonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eurydice II van Macedonië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Eurydyka III z Macedonii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Eurídice"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Eurídice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эвридика II Македонская"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Euridika III od Makedonije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Euridika II e Maqedonisë"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eurydike II av Makedonien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Eurydike (Makedon)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Еврідіка II Македонська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "歐律狄刻"
+    }
+  },
+  "lastrevid": 17551276,
+  "modified": "2025-09-17T10:20:51Z",
+  "ns": 860,
+  "pageid": 163657,
+  "sitelinks": {},
+  "title": "Item:Q135272",
+  "type": "item"
+}

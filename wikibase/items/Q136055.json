@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pabo Post Prydain"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136055$F2E5CED5-102E-40AF-BBA3-A84E5281F75D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00693579"
+          },
+          "hash": "229fb9c5478bee6c3ace67ee06aa9483e1c4ef5d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136055$938737DE-3469-4353-9C79-7896417AE183",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136056",
+              "numeric-id": 136056
+            }
+          },
+          "hash": "e1ebd1f2aa68152402e828e2741a0aa8782230c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136055$23AB6D7F-88CA-4CAC-8C16-9752448D5EE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136287",
+              "numeric-id": 136287
+            }
+          },
+          "hash": "f983936a0547e29c18474c4b49887efa15daecca",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136055$9166EEC3-B4F4-4696-A332-6DFFC23EF268",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135830",
+              "numeric-id": 135830
+            }
+          },
+          "hash": "1705399f385c1bda61c855a7571701d1cde7ef56",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136055$E932252A-78B0-4C00-AA95-E94F660A59B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136055$29F9F2A9-B001-4A81-B595-30EF31CBC00C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136055$89F09A7A-5E8A-4DBC-AABD-E52BBE73CC5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136013",
+              "numeric-id": 136013
+            }
+          },
+          "hash": "88ab9cbba98e01b94926c10f508233a45a1fdec3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136055$AFDD88DA-AFCB-4F09-B6EB-CFAB96C10DC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136055$60C8DF60-2A75-42B5-BDDC-92C2AEF9C810",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0474-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f6d6bc3471b9f6d3ea7593c7ae950976b5c1786b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136055$043E9835-CC08-46AE-87F4-3D0298798DCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2253832"
+          },
+          "hash": "3264ff84038f62291885f07b6833e08aff9c19e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136055$48243D52-9984-420C-A3CC-078F07ACB864",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pabo Post Prydain Arms.svg"
+          },
+          "hash": "00d0adcddb63a24b947d15cfbe18644b5288eb57",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin ym Mhrydain Is-Rufeinig"
+    },
+    "en": {
+      "language": "en",
+      "value": "king in sub-Roman Britain"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi Brittonique"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Пеннин"
+    }
+  },
+  "id": "Q136055",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Pabo Post Prydain"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Pabo Post Prydain"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pabo Post Prydain"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pabo Post Prydain"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pabo Post Prydain"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pabo Post Prydain"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pabo Post Prydein"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pabo Post Prydain"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пабо Опора Британии"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pabo Post Prydain"
+    }
+  },
+  "lastrevid": 17552509,
+  "modified": "2025-09-17T10:38:35Z",
+  "ns": 860,
+  "pageid": 164440,
+  "sitelinks": {},
+  "title": "Item:Q136055",
+  "type": "item"
+}

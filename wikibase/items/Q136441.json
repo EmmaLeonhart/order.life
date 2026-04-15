@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Berenice"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136441$BB80AFCF-1DB1-4D75-B2DF-81AF55F764BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736575"
+          },
+          "hash": "e80e20271daadbd9490c476f2527dcac4d393c46",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136441$AA9E89EE-B696-483E-869C-27179B16AD24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136441$D708BCF4-02AB-4DEE-BDD8-B85CF185B9A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136441$473DEA11-EE18-4FFD-B5C6-155E754284DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136180",
+              "numeric-id": 136180
+            }
+          },
+          "hash": "4d745ff3b4c66c7ce796e1887046a9f6573cd5a2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136441$97E700FD-0B62-4B78-AE0D-E7B3F8102BFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136441$B2CA8D10-F909-4E76-BEDB-2F120D6A612D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136441$05D3589A-0E80-44E1-B388-2D7D20A1375D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136441$EDA25824-6F8C-448A-A9CB-0C0B6FB21A66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15623586"
+          },
+          "hash": "bea3a1adcbe1084e6ad16e65a9980c4eb15470e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136441$1F57BAFD-7239-4E05-9985-9AF8C96C5D17",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Berenice Arms.svg"
+          },
+          "hash": "2ae096ddc39139d6545efed295ab9f5a88b43f43",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Verlobte des pergamenischen Königs Attalos III."
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Attalus III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "concubine d'Attale III"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Невеста царя Аттала III Пергамского"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Наречена царя Аттала III Пергамського"
+    }
+  },
+  "id": "Q136441",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Berenike"
+    },
+    "be": {
+      "language": "be",
+      "value": "Бераніка"
+    },
+    "de": {
+      "language": "de",
+      "value": "Berenike"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βερενίκη της Περγάμου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berenice"
+    },
+    "es": {
+      "language": "es",
+      "value": "Berenike"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bérénice"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Βερενίκη"
+    },
+    "it": {
+      "language": "it",
+      "value": "Berenice"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Berenike"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Береника"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Береніка"
+    }
+  },
+  "lastrevid": 17553107,
+  "modified": "2025-09-17T10:47:13Z",
+  "ns": 860,
+  "pageid": 164826,
+  "sitelinks": {},
+  "title": "Item:Q136441",
+  "type": "item"
+}

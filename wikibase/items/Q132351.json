@@ -1,0 +1,655 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cassandra"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132351$7387904F-70E4-4B90-B54F-729CF53FBAB7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "406229"
+          },
+          "hash": "24a720f5b927cb63858d23de4a599290a42da74f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132351$9BF863BC-EE2D-43F3-9744-379280A384C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133743",
+              "numeric-id": 133743
+            }
+          },
+          "hash": "37a0227c969cdcce7e02404a4bcde1aa0b710982",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132351$C8CEE2B4-D61D-4319-9EDE-299DFB57EB7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133742",
+              "numeric-id": 133742
+            }
+          },
+          "hash": "9b96f6ee31d7007ba5f0ec058db863137783fb3f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132351$FD839F05-2518-48B4-BE67-0E3F015EF870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132351$7D37F066-53BA-4492-801F-339B147569FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132351$F0C82EFD-0C79-46B4-87EC-0B0CA933C93C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133311",
+              "numeric-id": 133311
+            }
+          },
+          "hash": "75f386996c06b1acc2c0e890044374facee2d549",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132351$552897E5-D99A-4A2C-9F3D-31B67626A610",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132334",
+              "numeric-id": 132334
+            }
+          },
+          "hash": "3590b83b91e053a75a365f1f94dfd4a7c7f5eef8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132351$411570E5-0B0A-4289-B611-1D0F77C3AE3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131080",
+              "numeric-id": 131080
+            }
+          },
+          "hash": "3674125fe13796007f627c8d3bc9f21f812145eb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132351$E4411D08-2177-48FF-81C9-B2B512611A8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132351$E9F14CEC-E699-4826-AD4E-43FE477CACA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q170779"
+          },
+          "hash": "e3a4e66012070c912a26f6e131e41bc18d535652",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132351$4A49B52E-1EE6-47F7-90EC-F7893B32F468",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cassandra Arms.svg"
+          },
+          "hash": "9d11d1d5561cf1ac9fcd4d673061a1c3cad2fa68",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شخصية أسطورية إغريقية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "شخصية أسطورية إغريقية"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "mytická řecká věštkyně"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythological prophetess and princess of Troy"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la mitología griega"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شخصیت اسطوره ای"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "נביאה במיתולוגיה היוונית ונסיכת טרויה"
+    },
+    "it": {
+      "language": "it",
+      "value": "profetessa della mitologia greca, figlia di Priamo"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბერძნულ მითოლოგიაში ტროის მეფე პრიამოსისა და დედოფალ ჰეკაბეს ქალიშვილი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화에 등장하는 트로이아의 공주"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Kahîna Apolonê"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "dotmîra mîtolojîk a Troyayê"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "profetessa de la mitolojia grega"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "personage in werk van Homerus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "córka Priama"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "prințesă mitologică a Troiei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж греческой мифологии, дочь Приама и Гекубы"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "trojanska princesa in prerokinja v grški mitologji"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "sierska inom grekisk mytologi"
+    }
+  },
+  "id": "Q132351",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كاساندرا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كاساندرا"
+    },
+    "as": {
+      "language": "as",
+      "value": "কাছাণ্ড্ৰা"
+    },
+    "az": {
+      "language": "az",
+      "value": "Kassandra"
+    },
+    "be": {
+      "language": "be",
+      "value": "Касандра"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Касандра"
+    },
+    "br": {
+      "language": "br",
+      "value": "Kasandra"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Kasandra"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cassandra"
+    },
+    "co": {
+      "language": "co",
+      "value": "Cassandra"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kassandra"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cassandra"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kassandra"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kassandra"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κασσάνδρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cassandra"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kasandra"
+    },
+    "es": {
+      "language": "es",
+      "value": "Casandra"
+    },
+    "et": {
+      "language": "et",
+      "value": "Kassandra"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Kasandra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاساندرا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kassandra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cassandre"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cassandra"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Casandra"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κασσάνδρα , Kassandrā"
+    },
+    "he": {
+      "language": "he",
+      "value": "קסנדרה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kasandra"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kasszandra"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կասսանդրա"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Cassandra"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kassandra"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Cassandra"
+    },
+    "io": {
+      "language": "io",
+      "value": "Kasandra"
+    },
+    "is": {
+      "language": "is",
+      "value": "Kassandra"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cassandra"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カッサンドラー"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კასანდრა"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Кассандра"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "كاسساندرا"
+    },
+    "kk-cn": {
+      "language": "kk-cn",
+      "value": "كاسساندرا"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Кассандра"
+    },
+    "kk-kz": {
+      "language": "kk-kz",
+      "value": "Кассандра"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Kassandra"
+    },
+    "kk-tr": {
+      "language": "kk-tr",
+      "value": "Kassandra"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "카산드라"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Kasandra"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Kasandra"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Кассандра"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cassandra"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Cassandra"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Kasandra"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Kasandra"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Касандра"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "കസ്സാൻഡ്ര"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Kassandra"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kassandra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cassandra"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Cassandra"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kasandra"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cassandra"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Casandra"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кассандра"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kasandra"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kassandra"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kasandra"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Касандра"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Касандра"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Kasandra"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kassandra"
+    },
+    "th": {
+      "language": "th",
+      "value": "กัสซันดรา"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kassandra"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кассандра"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cassandra"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "卡珊德拉"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "卡珊德拉"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡珊德拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "卡珊德拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卡珊德拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "卡珊德拉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "卡珊德拉"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "卡珊德拉"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "卡珊德拉"
+    }
+  },
+  "lastrevid": 17545653,
+  "modified": "2025-09-17T09:01:36Z",
+  "ns": 860,
+  "pageid": 160736,
+  "sitelinks": {},
+  "title": "Item:Q132351",
+  "type": "item"
+}

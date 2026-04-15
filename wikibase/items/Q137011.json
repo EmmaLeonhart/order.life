@@ -1,0 +1,193 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Erik, 15th King of Haithabu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137011$86EB9B69-4058-48EC-B9FE-708EB313137B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137011$F0DE30E4-D899-4D58-AF49-8D3429CB8D8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q137011$7F98C6F4-B3BD-4E53-8921-C99B0F37CE0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p4287.htm#i42865"
+          },
+          "hash": "1168aa7a082077cf3f16ed18a0d0029e1b7fca78",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137011$3A334A03-5D49-4011-A3D3-DB21040B9D0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136635",
+              "numeric-id": 136635
+            }
+          },
+          "hash": "4e80d989aae6031bb25ba34883800645d7bdc429",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137011$8B6F4D84-EA16-4B65-8DB5-7EC48D6846A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137011$5EC0F78A-A4B7-4761-AFE1-6F55F12C5153",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0830-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1cea57dfcf39c461fe7766b530494420a46ab73",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137011$87AB5333-E669-464A-B4D2-BB05472EB782",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75292022"
+          },
+          "hash": "54562c7ab6360071ba60ea4b8482807066f1e773",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137011$DB1D3268-A47D-4A03-94AF-A8E4E57CC164",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Erik, 15th King of Haithabu Arms.svg"
+          },
+          "hash": "bc339e29cf85edc7e1cd49a2e2378e7738951ab5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=42865"
+    }
+  },
+  "id": "Q137011",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Erik, 15th King of Haithabu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Erik, 15th King of Haithabu"
+    }
+  },
+  "lastrevid": 17554081,
+  "modified": "2025-09-17T11:01:07Z",
+  "ns": 860,
+  "pageid": 165396,
+  "sitelinks": {},
+  "title": "Item:Q137011",
+  "type": "item"
+}

@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Úlfur skjálgi Högnason"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q136687$69C2EACD-FEB4-4E09-9A0E-BC497D2E1DF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136387",
+              "numeric-id": 136387
+            }
+          },
+          "hash": "7f09d849383145f76c9b4a4d853cac201f595edb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136687$D30A65BB-80B3-49A9-B061-4CA9EFB4EA93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136386",
+              "numeric-id": 136386
+            }
+          },
+          "hash": "9ac7dd3138e10883cd2b226064098f9f90291649",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136687$93923CFC-CD58-4D07-9C13-0948692EC866",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136687$E0689783-1473-460B-BF4D-8BB25E36CBF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136687$21FE2DAB-197E-4C85-81FF-DC24F249BEF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136115",
+              "numeric-id": 136115
+            }
+          },
+          "hash": "8f3b32d4c8b8a40f325103841ab30bf179f47869",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136687$4D66BCFD-530C-4B71-ADC3-697A402B50BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136687$940F75A3-C4C3-4F56-8091-30C9A0D71CD9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0855-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "895c63dd41ccfb10332b84bf21187baf4b79868d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136687$6C20CAB9-8DA7-44A8-AE0A-A5799F2FE74A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11705582"
+          },
+          "hash": "c12ca799e21226f85c2dfbf3d492cdd45a30eca8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q136687$BDB1CC4D-9077-46DC-ABDD-7F7AAB88A0D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5336782484500024661"
+          },
+          "hash": "e841b897e977c493a059f8265b13cb15485734aa",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136687$570F77CD-11F2-45A1-B0CA-0CF16E56EEF1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Úlfur skjálgi Högnason Arms.svg"
+          },
+          "hash": "10ec6a1eb0d5dc1ed18d3f3f442061796600359f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ml": {
+      "language": "ml",
+      "value": "ദേശപരിവേക്ഷകന്"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ontdekkingsreiziger"
+    }
+  },
+  "id": "Q136687",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Úlfur skjálgi Högnason"
+    },
+    "es": {
+      "language": "es",
+      "value": "Úlfur skjálgi Högnason"
+    },
+    "is": {
+      "language": "is",
+      "value": "Úlfur skjálgi Högnason"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Úlfur, o Vesgo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Úlfur, o Vesgo"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ulfur skjalgi Hognason"
+    }
+  },
+  "lastrevid": 17553509,
+  "modified": "2025-09-17T10:52:55Z",
+  "ns": 860,
+  "pageid": 165072,
+  "sitelinks": {},
+  "title": "Item:Q136687",
+  "type": "item"
+}

@@ -1,0 +1,394 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhodogune"
+      },
+      {
+        "language": "en",
+        "value": "Rodogoune"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q78956$705FE7B0-599F-4F34-951B-4624BA52B59C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736423"
+          },
+          "hash": "08a40848e86f60517542ed1d464ff406b4e2386c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78956$2E338EFF-C86A-4125-820C-A8A9AA0FDF32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50948",
+              "numeric-id": 50948
+            }
+          },
+          "hash": "bc58f2989e1ec90833053316928b242b96001837",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78956$6B25877C-AB79-4308-85E3-D54C6543AA4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78911",
+              "numeric-id": 78911
+            }
+          },
+          "hash": "d59a4014d61e60881d2ac23555e1e574b5c43482",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78956$3968E7C6-1E79-45FC-86E6-917A75439D8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q161008",
+              "numeric-id": 161008
+            }
+          },
+          "hash": "ec87b6338a1758ae01988c6ecb7780409e14cf07",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78956$D7BC74B3-A2A5-4ADB-B30E-6886BCEC24FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78956$3AD3398E-5E67-4EE3-ACEC-05780D052871",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78956$ED49F307-D66A-45E1-A4DE-9117DD57BB18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78953",
+              "numeric-id": 78953
+            }
+          },
+          "hash": "eb135a1987e4ab09bfa0c4e5cd096fe588af284c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78956$BA4083D0-D7C3-47C0-B9B6-7B645422AEF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74013",
+              "numeric-id": 74013
+            }
+          },
+          "hash": "c1facfc837d68e399ee16c5abcaa98e1c97ec7b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q78956$AC860641-3D92-41DF-AFE5-79F14E888100",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74010",
+              "numeric-id": 74010
+            }
+          },
+          "hash": "d4d2c6b26a851976212411548f69b03a3d6f5630",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78956$AD85CB87-ABF8-4EB8-AE4A-961A5D8A97EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78956$5898CC87-F372-46B9-9D7B-9F1B8710F035",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78956$D35B6CA6-06DA-470F-A2A9-7D4D6C8A215F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q14505105"
+          },
+          "hash": "39e31fdb0f6e1adbc112c27c9dafd8ed413f6690",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78956$8A064287-7924-4F48-898F-932B293E4B20",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000437400083"
+          },
+          "hash": "d3f1e680ead04c4b8421444969e3399087ff3288",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78956$6FF7D611-0E0E-43F6-8982-57F47C55EC5E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhodogune Arms.svg"
+          },
+          "hash": "c1b2514363c0c22c25657242b03d540f6b2d81ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gattin des persischen Satrapen von Armenien Orodes I."
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Artaxersès II, wife of Orontès I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille d'Artaxersès II, épouse d'Orontès Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "בתו של ארתחשסתא השני ואשתו של אורונטס הראשון"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ada Artaxersese II, nwunye nke Orontès I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "жена Оронта I"
+    }
+  },
+  "id": "Q78956",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Rodoquna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rhodogune"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ροδογούνη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rhodogune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rhodogune"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "روزگونه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhodogune"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rhodogune"
+    },
+    "he": {
+      "language": "he",
+      "value": "רודוגונה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հռոդոգունե"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Rhodogune"
+    },
+    "it": {
+      "language": "it",
+      "value": "Rodogune"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rodoguna (filha de Artaxerxes II)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Родогуна"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Родогуна"
+    }
+  },
+  "lastrevid": 17492940,
+  "modified": "2025-09-16T20:20:28Z",
+  "ns": 860,
+  "pageid": 93787,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78956",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78956"
+    }
+  },
+  "title": "Item:Q78956",
+  "type": "item"
+}

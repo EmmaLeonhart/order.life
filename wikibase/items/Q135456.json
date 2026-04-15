@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alexander"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135456$961C79FC-F843-4819-BBF4-8D54EF400590",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "420109"
+          },
+          "hash": "a93a3aac691f2813a8bdaa9a501452b6f6134a49",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135456$CA4DAC5A-B0ED-471F-A9F8-EDF7B3260144",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135456$38B59F5D-CEF9-4FEB-9742-E08C42C24ACE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135456$3D5BCDC5-E810-416D-B9FC-68A23DCE82D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73722",
+              "numeric-id": 73722
+            }
+          },
+          "hash": "6fff804df3870fe90e971fc5c0cfbdc1fc435f78",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135456$53610EB8-A36E-48CC-9982-696F58212A4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135469",
+              "numeric-id": 135469
+            }
+          },
+          "hash": "e68585b3de4b31a7257808026d6ca0cd822b315f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135456$5C300A87-5649-46E1-AE2A-24A496779618",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135456$47A87925-CFDF-4B54-B050-DF43199D2D34",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135456$9015E8C2-CA29-4B4A-92D9-B860A28534C8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135456$75A3C7B5-01EE-489B-8C9F-461EBE75D66F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q886688"
+          },
+          "hash": "881dd5bd8fcc90e8d89e36a297e7c3f262919c47",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135456$6430ABBC-21AE-49AC-A2E0-01EAC5179B1D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexander Arms.svg"
+          },
+          "hash": "77fc223e78c5bd008a963395c84ab452e94e66cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "fill de Lisímac de Tràcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lýsimachův syn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des Lysimachos, Regent von Makedonien"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Λυσίμαχου"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Lysimachus"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo y general de Lisímaco de Tracia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils et général de Lysimaque"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale antico macedone"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zoon van Lysimachus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Син Лісімаха"
+    }
+  },
+  "id": "Q135456",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Александър"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alexandre de Tràcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alexandr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alexander"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλέξανδρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexander"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alejandro de Tracia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alexandre"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀλέξανδρος"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלכסנדר"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alessandro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレクサンドロス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alexander"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alexandre"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alexandre"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Александр"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alexander"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Александр"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞歷山大"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "亚历山大"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "亞歷山大"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "亞歷山大"
+    }
+  },
+  "lastrevid": 17551592,
+  "modified": "2025-09-17T10:25:24Z",
+  "ns": 860,
+  "pageid": 163841,
+  "sitelinks": {},
+  "title": "Item:Q135456",
+  "type": "item"
+}

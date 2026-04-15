@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "daughter of Julius Constantius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136825$BE5EF198-A5EB-44C1-AC43-40B97029258D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00709557"
+          },
+          "hash": "878fac9e3fa74fc405f945ce07239ae714c63700",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136825$4DC7856A-10C1-4417-B508-394F23F112BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136825$EC81F81E-6CD7-4415-A0B0-0F144D469FE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136825$91A2EF17-DB8B-4D15-8F3D-6834D72B8EDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123560",
+              "numeric-id": 123560
+            }
+          },
+          "hash": "e31122d955325e8a27d0a2c1bb1fc699e34e8f6a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136825$609CE9BA-222B-42C1-AD96-D7C1A445C4C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61301",
+              "numeric-id": 61301
+            }
+          },
+          "hash": "0151fbac0d225d80612390199eeb1a3b5959b6ac",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136825$BC531AE3-0BE6-4C3D-8381-11A7B468F810",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61235",
+              "numeric-id": 61235
+            }
+          },
+          "hash": "62a835361fa2eb767f4f57d1d1db43f833111eb5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136825$918762C0-2684-42A6-9B26-92C840B4EE04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136825$51CAAD53-07E2-48F7-AADB-3DC24066C75D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0301-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "58f8db7e621c87c66fb7a07fe0dd5bcf92b3231f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136825$F6929ADE-307A-4D88-B3F2-17E0E6B5F01C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0350-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e8b1768681843794740f348371f341f56b10252",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136825$E3F97B4E-80E7-417E-8642-9C9AB9AF52A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4957545"
+          },
+          "hash": "c997f112cfe26baa2467d33cf1bee7424015d716",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136825$3CB56E28-EF24-4DD2-9687-E5F37CE6C757",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "daughter of Julius Constantius Arms.svg"
+          },
+          "hash": "b061625ce539d00804d3a0a87c1afd7e84d0dd0e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filla de Juli Constanci"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římská císařovna, choť Constantia II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman empress as the consort of Constantius II"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Costanzo II"
+    }
+  },
+  "id": "Q136825",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fía de Julio Constancio"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Innominada"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "dcera Julia Constantia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Datter af Julius Constantius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόρη του Ιούλιου Κωνστάντιου"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Julius Constantius"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Julio Constancio"
+    },
+    "he": {
+      "language": "he",
+      "value": "בתו של יוליוס קונסטנטיוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Figlia di Giulio Costanzo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Julia Constantia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Daughter of Julius Constantius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "dotter av Julius Constantius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Filha de Júlio Constâncio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filha de Júlio Constâncio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дочь Юлия Констанция"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julius Constantius dotter"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尤里乌斯·君士坦提乌斯之女"
+    }
+  },
+  "lastrevid": 17553717,
+  "modified": "2025-09-17T10:55:55Z",
+  "ns": 860,
+  "pageid": 165210,
+  "sitelinks": {},
+  "title": "Item:Q136825",
+  "type": "item"
+}

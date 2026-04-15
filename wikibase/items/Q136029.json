@@ -1,0 +1,549 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tydfil"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136029$869D3B1B-2ABA-4A39-A987-DDD63EA59045",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136029$6BB19CE7-2D01-422A-95CF-DA08D2114CD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136029$A903ABD5-1E4C-4142-BAE4-74D4A8E30344",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135820",
+              "numeric-id": 135820
+            }
+          },
+          "hash": "5a0062623d1c14d1d48cb35c196db69fc0f4abd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136029$CE12A1C4-7AC2-4859-88F1-61B1355644E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136029$C0621623-818E-4583-BE4D-B1B80C59F8B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0480-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e10f0f13dbe5b8d590a556a5b722576a4a48cfe2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136029$85A53913-C908-43A7-BA62-03A8F3BC271C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2062366"
+          },
+          "hash": "a9040cab58bf1a34690e494ce0143dfeadafd2a3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q136029$01EBC7F5-75A1-45BC-8D0B-BE3EB770DFF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007151460153"
+          },
+          "hash": "d7246c3f61e2a931bfa98d01152318b6e5983250",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136029$17A9F089-B564-47B1-8B75-A9EC3075920C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tydfil Arms.svg"
+          },
+          "hash": "2d1ca18f17a644ca6088f9649953975109d26a1e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "santes Geltaidd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des walisischen Stammesführers Brychan Brycheiniog, Märtyrin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh saint"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "naomh Breatnach"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "religieus leider uit Wales (-480)"
+    }
+  },
+  "id": "Q136029",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Tydfil"
+    },
+    "an": {
+      "language": "an",
+      "value": "Tydfil"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Tydfil"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Tydfil"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Tydfil"
+    },
+    "br": {
+      "language": "br",
+      "value": "Tudful"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tydfil"
+    },
+    "co": {
+      "language": "co",
+      "value": "Tydfil"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tydfil"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Tudful ach Brychan"
+    },
+    "da": {
+      "language": "da",
+      "value": "Tydfil"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tydfil"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Tydfil"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Tydfil"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tydfil"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Tydfil"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Tydfil"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tydfil"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tydfil"
+    },
+    "et": {
+      "language": "et",
+      "value": "Tydfil"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Tydfil"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تیدفیل"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Tydfil"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tydfil"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Tydfil"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Tydfil"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Tydfil"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tydfil"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Tydfil"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Tydfil"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Tydfil"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Tydfil"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tydfil"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Tydfil"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tydfil"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Tydfil"
+    },
+    "io": {
+      "language": "io",
+      "value": "Tydfil"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tydfil"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティドビル"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Tydfil"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Tydfil"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Tydfil"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Tydfil"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Tydfil"
+    },
+    "li": {
+      "language": "li",
+      "value": "Tydfil"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Tydfil"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Tydfil"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Tydfil"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Tydfil"
+    },
+    "min": {
+      "language": "min",
+      "value": "Tydfil"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Tydfil"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Tydfil"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tydfil"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Tydfil"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Tydfil"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tydfil"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Tydfil"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Tydfil"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Tydfil"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Tydfil"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Tydfil"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tydfil"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Tydfil"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Tydfil"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tydfil"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tydfil"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Tydfil"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Tydfil"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Tydfil"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тидвила"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Tydfil"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Tydfil"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Tydfil"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Tydfil"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tydfil"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Tydfil"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tydfil"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Tydfil"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tydfil"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Tydfil"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tydfil"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Tydfil"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Tydfil"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Tydfil"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Tydfil"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Tydfil"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Tydfil"
+    }
+  },
+  "lastrevid": 17552459,
+  "modified": "2025-09-17T10:37:52Z",
+  "ns": 860,
+  "pageid": 164414,
+  "sitelinks": {},
+  "title": "Item:Q136029",
+  "type": "item"
+}

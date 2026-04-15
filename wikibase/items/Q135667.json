@@ -1,0 +1,323 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arsites"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135667$C17B51A4-89DF-4D51-9636-3023B56648AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738577"
+          },
+          "hash": "8655c830a38e2de406b9bb27a6c2fa501d81dfa5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135667$4CC49271-EC61-4E11-8FC8-E25EF925D78C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135667$A4C8B61F-0714-4676-B234-5FE4E2FD832C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135667$DC57DAEC-8339-45E7-9AF3-B5A4323F3235",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74129",
+              "numeric-id": 74129
+            }
+          },
+          "hash": "f1f11d6f82bb1c62a99fc999937ca956bcd12a03",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135667$A4782834-9F89-4ED9-92CE-738C268F5515",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74126",
+              "numeric-id": 74126
+            }
+          },
+          "hash": "045c2d5860f870d1dd93ebb3a841983f39585975",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135667$C8A8C8A5-EE07-4AD1-9900-4AF43F33A8DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135667$CD4EA786-1DFE-4EEC-AF66-8E2C89096BBE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135667$2D68FD13-0412-47DA-B907-7AA8E92B5389",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0423-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "323247ddf7e8c3006685857e828dc67e8e79386a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135667$716955CC-A703-421D-9664-3BCDB0EBE0E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q705061"
+          },
+          "hash": "523271e9ae3d08267e127f3bfe07fa1d6ace6a50",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q135667$A5C0A879-6D6E-4F77-9E7C-2F5EF670E0C6",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsites"
+          },
+          "hash": "32008391090a198d4874629b54d4b743db41ac84",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135667$6A08E49B-11B5-4216-93FF-B07D5C0048C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsites Arms.svg"
+          },
+          "hash": "a8e60b2993305fac209bea8e6fc3dbc5ace773c1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Bruder des Großkönigs Dareios II."
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Artaxerxes I of Persia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Prince of the Persian dynasty in 5th century BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "miembro de la dinastía Aqueménida, hijo del rey persa Artajerjes I y de Cosmartidene"
+    }
+  },
+  "id": "Q135667",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Arsites"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арсіт"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arsites (príncep)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Arsites"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρσίτης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arsites"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Arsites"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arsites"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرسیتس"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Arsites"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארסיטס"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Arsites"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arsites"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арсит (сын Артаксеркса I)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арсіт"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Arsites"
+    }
+  },
+  "lastrevid": 17551937,
+  "modified": "2025-09-17T10:30:21Z",
+  "ns": 860,
+  "pageid": 164052,
+  "sitelinks": {},
+  "title": "Item:Q135667",
+  "type": "item"
+}

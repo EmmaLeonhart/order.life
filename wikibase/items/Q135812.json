@@ -1,0 +1,371 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bran the Blessed"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135812$A769E3B1-0900-43F3-B460-42FE60AF1213",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135693",
+              "numeric-id": 135693
+            }
+          },
+          "hash": "842e2ab094921e74dfb365beaee6cf41b501faf2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q135812$A6FD65D1-73E8-4E76-982B-0EF2EA0AF787",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Siluria-1"
+          },
+          "hash": "147c62767add66f55026319e8f5f474452031f74",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135812$123AED8B-E9CF-47B9-9095-1E46BC386C15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135812$1DE39342-E7FC-41C4-91C4-E165D7A337E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135812$BB67972A-4F41-408B-B661-922547BE39A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136010",
+              "numeric-id": 136010
+            }
+          },
+          "hash": "cb9269313b7e94f44f52674747cc91ccb10cbff7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135812$FB741E9C-1666-4AA2-AB71-39B4E5F5F6A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136011",
+              "numeric-id": 136011
+            }
+          },
+          "hash": "fc8dd781f2df38012d60943809d9845c63e95543",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135812$2BD85BBD-061D-4593-808D-BB24FBA65DFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135812$5F3B1789-CC0C-421C-B208-515E765C6A50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0017-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a774e1665fdf312baa884a5b3f70305cffb5c260",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135812$38AFF199-32C0-4335-99A8-6C11958DAA48",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0069-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "276be6d1c2892037ed84170db679aafd86d34c44",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135812$5018EAD6-591F-4DD3-8CA5-1E29BE383E3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q598810"
+          },
+          "hash": "9b952cb973045e476432187bd0e51730d97a3d2e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135812$8874E9C1-799B-48F6-9477-863F1343D9DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bran the Blessed Arms.svg"
+          },
+          "hash": "48c432d0dbe68c600270d8cacd78a5d9d3761bc1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "obr a mytologický král"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "cawr a brenin chwedlonol (17-69)"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythical giant and king (17-69)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie celtique brittonique"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "personaxe da mitoloxía celta"
+    },
+    "it": {
+      "language": "it",
+      "value": "una divinità celtica."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Welshe mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "легендарный король Британии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mitolojik kahraman"
+    }
+  },
+  "id": "Q135812",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Bendigeidfran"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bendigeidfran fab Llŷr"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Bendigeidfran fab Llŷr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bran der Gesegnete"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μπραν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bran the Blessed"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bran the Blessed"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بران برکت یافته"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bran le Béni"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Bran o Bendito"
+    },
+    "it": {
+      "language": "it",
+      "value": "Brân il Benedetto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベンディゲイドブラン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "브란 펜디가이드"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bran"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Bran Błogosławiony"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бран Благословенный"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Bran"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kutsanmış Bran"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "本迪盖德夫兰"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "本迪盖德夫兰"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "本迪盖德夫兰"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "本迪蓋德夫蘭"
+    }
+  },
+  "lastrevid": 17552165,
+  "modified": "2025-09-17T10:33:36Z",
+  "ns": 860,
+  "pageid": 164197,
+  "sitelinks": {},
+  "title": "Item:Q135812",
+  "type": "item"
+}

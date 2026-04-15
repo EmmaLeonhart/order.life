@@ -1,0 +1,403 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Drypetis"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135366$71B29D9D-9B0B-490B-832C-253FC3E8F7F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737918"
+          },
+          "hash": "c7b52d239215f2570d4a6088fd06a3fd6c8bc7be",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135366$A8A0A5D7-8546-40E6-A5C2-31AA97B44B79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135366$17D9E7DA-26B3-477F-8656-CEFFCF1988A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135366$8E2532AA-C374-40C1-B70F-8ECAA7E25438",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135507",
+              "numeric-id": 135507
+            }
+          },
+          "hash": "20fc87a9f385cd32141d8b9d1b0a2f48bb81c095",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135366$25484E07-901C-442C-891F-066EA6BD354D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135298",
+              "numeric-id": 135298
+            }
+          },
+          "hash": "1f33f1f88e98294818d1d542c37ba08b2e6a0f8e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135366$FC8DCE08-3E67-4F52-B4B0-87149D843C49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135364",
+              "numeric-id": 135364
+            }
+          },
+          "hash": "36be7df3d22812afe839464bdb52c16d02235edc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135366$623DF7E6-A3F7-4D68-92C9-943B21AB1A8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135366$590E1695-691A-45DE-A194-1F4DCBDD1DD6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0340-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "43b734e7d13a6e02736c530b848bef78a5d507a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135366$D59BFFA1-7E57-4357-8DD0-4642B0FAD407",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0323-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "132cf023505b28d21c6cda45194371bcb9fcd6ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135366$EACB66D7-FDDD-4EEE-95D8-5852E3C83B0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3243260"
+          },
+          "hash": "9d395f3a78f4e94ccb1f15c820f7b24c85d9dbca",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135366$A9C1F735-9CA0-411F-92EB-66A92D06484C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Drypetis Arms.svg"
+          },
+          "hash": "f69e0cb8ecb2f286be8e718fb2bd3aa52dda93d9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gattin von Hephaistion, eines Freunds Alexanders des Großen"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Δαρείου Γ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Achaemenid dynasty princess (died 323 BCE)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Darius III"
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיכה פרסית"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "persisk prinsessa"
+    }
+  },
+  "id": "Q135366",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "دريبتيس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dripetis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Drypetis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δρυπέτη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Drypetis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dripetis"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دریپهتیس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Drypétis"
+    },
+    "he": {
+      "language": "he",
+      "value": "דריפטיס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Dripetis"
+    },
+    "id": {
+      "language": "id",
+      "value": "Drypetis"
+    },
+    "it": {
+      "language": "it",
+      "value": "Dripetide"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ドリュペティス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "드리페티스"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Drypetis"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Drypetis"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Dripetis"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Dripetis"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дрипетида"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Dripetis"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Drypetis"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Дрипетида, кћи Дарија III"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Дрипетида, кћи Дарија III"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Dripetida, kći Darija III"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Drypetis"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Дрипетис"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дріпетіс"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Drypetis"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德莉比娣絲"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "德莉比娣丝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "德莉比娣絲"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "德莉比娣絲"
+    }
+  },
+  "lastrevid": 17551434,
+  "modified": "2025-09-17T10:23:06Z",
+  "ns": 860,
+  "pageid": 163751,
+  "sitelinks": {},
+  "title": "Item:Q135366",
+  "type": "item"
+}

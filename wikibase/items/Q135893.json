@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Skuld"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135893$A45CA3C4-6F14-40DC-8C3D-45B193D9ADA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135893$F238D79F-3037-4FE9-912B-7E3312BAC8A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135893$9DC091FC-2F80-47AD-9848-741D6E251B4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Skuld_Yngling_(1)"
+          },
+          "hash": "97b0a4d4ee3882ff77b703f597c1afb09e9d971a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135893$55B20DFB-4006-4E26-BF58-861974BF07F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123648",
+              "numeric-id": 123648
+            }
+          },
+          "hash": "bf665d3eadfc00e1dc8e8252f0ac0dc68652bc3d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135893$9CE4FD67-4A2F-4A39-B16B-68B7BFB18500",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135893$AAAD6FBE-5DC2-47E8-B2AB-5438AD87ABE6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca0f7e18475fc648e1a286f4ce5787e81e10b187",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135893$F81D5FBE-2840-4EF4-A05B-FC9186B2706E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3962596"
+          },
+          "hash": "e1b72d9cbcb98d29e7e9edb738c049ac31c9e31f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135893$D25EA2E7-7AD5-4F8E-9BE6-6F8E59B56717",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Skuld Arms.svg"
+          },
+          "hash": "56152f9d0c139e31108052610704244b19092b3b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "semi-legendary Swedish principess"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa semi-mitologica svedese"
+    }
+  },
+  "id": "Q135893",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Skuld"
+    },
+    "en": {
+      "language": "en",
+      "value": "Skuld"
+    },
+    "es": {
+      "language": "es",
+      "value": "Skuld"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Skuld"
+    },
+    "it": {
+      "language": "it",
+      "value": "Skuld"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スクルド(王女)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Skuld"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Skuld"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Скульд"
+    }
+  },
+  "lastrevid": 17552259,
+  "modified": "2025-09-17T10:34:57Z",
+  "ns": 860,
+  "pageid": 164278,
+  "sitelinks": {},
+  "title": "Item:Q135893",
+  "type": "item"
+}

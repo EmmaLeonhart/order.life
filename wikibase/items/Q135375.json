@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arukku"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135375$9E10DCB5-E9B5-42F7-83F0-0AB4B180A739",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "667073"
+          },
+          "hash": "d4ae70a236634854965d3ad4467357a2c036960c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135375$06B35D49-806F-401F-BD41-4FEFF2646370",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135375$26485CB0-6A74-4306-990D-6F864F3EDFFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135375$5D892075-06B1-4FA6-9C16-2150E8BB2E5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74407",
+              "numeric-id": 74407
+            }
+          },
+          "hash": "b59b9ac3e25833d60bd3e4c31a0ab7399888410d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135375$695AB9D2-46C6-42D2-8927-556504031733",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135375$589713C0-588B-4807-ACA4-0B57D53949B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22d35df1cfa932cd58f3acb2312bc355e0beeb04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135375$1A84212A-060A-428F-A620-7FE312EA7706",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q716428"
+          },
+          "hash": "67579541f21601e9bfbc58346765b50c625c85b4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135375$69765DF9-B4D4-4F91-B9AD-412A0395DF91",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arukku Arms.svg"
+          },
+          "hash": "164d263c4bd1ad0e1de5294744a7be098463a429",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "сын Кіра I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des Königs Kyros"
+    },
+    "en": {
+      "language": "en",
+      "value": "Son of Cyrus I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Cyrus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Кира I"
+    }
+  },
+  "id": "Q135375",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Arukku"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аруку"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Аруку"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arukku (príncep)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Arukku"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρούκκου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arukku"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Arukku"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Arukku"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arukku"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اروکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arukku"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルック"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arukku"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Arucu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Arucu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арукку"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Арукку"
+    }
+  },
+  "lastrevid": 17551444,
+  "modified": "2025-09-17T10:23:15Z",
+  "ns": 860,
+  "pageid": 163760,
+  "sitelinks": {},
+  "title": "Item:Q135375",
+  "type": "item"
+}

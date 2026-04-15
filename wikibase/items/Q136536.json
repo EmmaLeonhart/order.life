@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Connad Cerr"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136536$3D6E0570-BD22-4097-AE94-CEF7775D8DD1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "150588"
+          },
+          "hash": "1d2480a82ab792f7c8e95d015f8088885db67cee",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136536$8E7485C5-6192-426B-B11E-47935FEEE7B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136864",
+              "numeric-id": 136864
+            }
+          },
+          "hash": "1e455609dbf456b608443fd498b3af6193e6909f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q136536$6FC89DB1-C5CC-473C-8A76-BA90D80027CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cear-1"
+          },
+          "hash": "50939bf6e9b5531a008595cebcd4ebc4703881ca",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136536$A9F1F435-A4FF-4453-BB70-BC287C2FE73B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136536$A60DCF07-9D79-4E46-8174-4AF30FC24FDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136536$1837D4B6-CAC7-4856-95B1-145A0A1AE175",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136533",
+              "numeric-id": 136533
+            }
+          },
+          "hash": "6c654025ca6756980563d5014ee6f47888ee14c6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136536$9ED3039B-944E-4011-9E84-A24AC810EE73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136536$FCF2BD38-F8A9-4AB2-820F-E58ADC3EFCB8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136536$9ADDAD5A-CA8A-446F-9D8A-E5F99B29DDDC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0629-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77e87de9a9b58a4761684077e7bd3a64f5483d4a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136536$5EF3B4C6-24D0-480C-9DB0-C81D0E23900D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q739838"
+          },
+          "hash": "ca6854b11c33ff4ab5ddb4c6c399cad07f2278fc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136536$F871E5AF-EE27-42DE-9ABB-4C7CECCC4995",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Connad Cerr Arms.svg"
+          },
+          "hash": "568c6651aabd8ffa4524e554685f0ac0d147f12c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei de Dál Riata"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des irisch-schottischen Königreichs Dalriada"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Dal Riata"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Dál Riata"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí Dhál Riada"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך סקוטי גאלי, במאה השישית והשביעית אחרי הספירה."
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Dalriada"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Dalriada (-629)"
+    }
+  },
+  "id": "Q136536",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Connad Cerr"
+    },
+    "da": {
+      "language": "da",
+      "value": "Connad Cerr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Connad"
+    },
+    "en": {
+      "language": "en",
+      "value": "Connad Cerr"
+    },
+    "es": {
+      "language": "es",
+      "value": "Connad Cerr"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Connad Cerr"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Connadh Cearr"
+    },
+    "he": {
+      "language": "he",
+      "value": "קונאד קר"
+    },
+    "it": {
+      "language": "it",
+      "value": "Connad Cerr"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Connad av Dalriada"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Connad Cerr"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Connad Cerr"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Connad Cerr"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Connad Cerr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Коннад"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Connad Cerr"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Connad Cerr"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Коннад Лівша"
+    }
+  },
+  "lastrevid": 17553249,
+  "modified": "2025-09-17T10:49:15Z",
+  "ns": 860,
+  "pageid": 164921,
+  "sitelinks": {},
+  "title": "Item:Q136536",
+  "type": "item"
+}

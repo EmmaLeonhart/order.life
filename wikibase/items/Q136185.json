@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antigonus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136185$13DA1C85-D8D7-41A3-901D-9DB1C10B5847",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1497784"
+          },
+          "hash": "3b17b06101c1874803c89573d0dd2662beae3fb7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136185$31DF9406-0284-416F-9127-98601362AA51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136185$53ECF343-C58D-4A84-937E-ABFC9B9C1056",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136185$056CA7ED-AEC3-406E-8F5A-36F8C91BEBBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73206",
+              "numeric-id": 73206
+            }
+          },
+          "hash": "27ef16150779ce3fac6593d09c8acc0139ac1ece",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136185$64227E73-F3AA-4926-BBE6-33ABD605EB11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73209",
+              "numeric-id": 73209
+            }
+          },
+          "hash": "cf5b9ffbb371a793e5554440ee3f9e91db718253",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136185$1E4B1FFF-CA04-41C4-ACB8-AF46E65AD075",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136185$508996DE-26B1-4B92-A8A4-465926C0629D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0152-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aaa0998293d99e3402baae0203332b9708db9710",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136185$DDF7BF45-9979-44E8-812C-102DB7811354",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "416501a638819f3103b4303b252b7e68a125ff4a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136185$5551032B-585D-4712-9729-6590C5ED3BB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q119167145"
+          },
+          "hash": "46ae07c1c0bb532fed3b21134491a71fc7abbbcb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136185$305EA649-66D1-402F-904C-BA251CBC425D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antigonus Arms.svg"
+          },
+          "hash": "c658cb6e9e2c3811ebd1b4889e8d00d0f4cfa4d6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "es": {
+      "language": "es",
+      "value": "hijo de Demetrio I Sóter"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "син Деметрія I Сотера"
+    }
+  },
+  "id": "Q136185",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Antigonos"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antigonus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antígono"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Αντίγονος"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антигон"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антигон"
+    }
+  },
+  "lastrevid": 17552703,
+  "modified": "2025-09-17T10:41:19Z",
+  "ns": 860,
+  "pageid": 164570,
+  "sitelinks": {},
+  "title": "Item:Q136185",
+  "type": "item"
+}

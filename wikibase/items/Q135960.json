@@ -1,0 +1,465 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Neriglissar"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135960$0E1BC064-9BAA-4759-89FC-F54F0716C2A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738390"
+          },
+          "hash": "7dd329eef2d384a78f8d3f1c4346718f0eb8b4c8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135960$5C90DB2B-86AA-431C-9536-DC57522D4095",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135962",
+              "numeric-id": 135962
+            }
+          },
+          "hash": "c26a4ddba9a9eaaeb6bd03e662bd8b335ad0f91b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135960$F1E37E3F-6D38-46D7-8A65-370419E9B8FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135961",
+              "numeric-id": 135961
+            }
+          },
+          "hash": "b9f52f1a933a67f7028126fc3b15a5f57f83e803",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135960$9A896C89-5198-4221-9BE0-43A12AF2F7B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135960$55141979-B4F2-4A9E-8E92-7D3E8EB21C85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135960$443142CE-8C2B-4E86-B50E-467845A833D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135787",
+              "numeric-id": 135787
+            }
+          },
+          "hash": "29ec2468905145940f5075af83fd988f935fd8ad",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135960$13B3C35F-FA74-4ACE-B8E9-DCAB6849512E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135960$09BC657D-68C1-4992-A343-B32CA03DAD53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135960$84CF03FB-EDFD-4D3E-A85D-D632AC7C0E84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0556-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f7763cb22506b058500cea8a71be5950af77676e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135960$5E88394A-B67F-40E1-966F-4F983E1CF08A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q379716"
+          },
+          "hash": "38ddcb7ea9dbb2f4facab2f4d703eb53c8115e19",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135960$2B468467-B304-4894-8BD4-8B1C4C9F6697",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Neriglissar Arms.svg"
+          },
+          "hash": "74438b86371f4e9d3f527d9aa3e54f08a36abd2e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei de Babilònia"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Babylon"
+    },
+    "en": {
+      "language": "en",
+      "value": "Babylonian king"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey del Imperio Neobabilonico entre el 560 y el 556 a.C"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Babylone entre 560 et 556 av. JC"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך בבל"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Újbabiloni Birodalom királya"
+    },
+    "id": {
+      "language": "id",
+      "value": "raja Babilonia dari 560 SM sampai 556 SM"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Babylon (-556v Chr)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei da Babilônia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rei da Babilônia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Babylon"
+    }
+  },
+  "id": "Q135960",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "نرغال شراصر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "نرغال شراصر"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Neriglissar"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Neriglissar"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nergal-šarra-uṣur"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Nergal-šarra-uṣur"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νεριγκλισσάρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Neriglissar"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Neriglissar"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Neriglissar"
+    },
+    "es": {
+      "language": "es",
+      "value": "Neriglisar"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نریگلیسار"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Neriglissar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nériglissar"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Nài-lî-kak-li-sâ-ngì"
+    },
+    "he": {
+      "language": "he",
+      "value": "נרגל שראצר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Nergal-sar-uszur"
+    },
+    "id": {
+      "language": "id",
+      "value": "Nergal-sarezer"
+    },
+    "it": {
+      "language": "it",
+      "value": "Neriglissar"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ネルガル・シャレゼル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "네리그리사르"
+    },
+    "la": {
+      "language": "la",
+      "value": "Regusar"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Neriglissar"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Neriglissar"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Neriglissar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nergal-szarra-usur"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Neriglissar"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Neriglissar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нергал-шар-уцур"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nergal-šar-usur"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Neriglissar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Neriglissar"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Neriglissar"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нерґал-шар-уцур"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "涅里格利沙爾"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "涅里格利沙爾"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "涅里格利沙尔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "涅里格利沙尔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "涅里格利沙爾"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "涅里格利沙爾"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "涅里格利沙尔"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "涅里格利沙爾"
+    }
+  },
+  "lastrevid": 17552361,
+  "modified": "2025-09-17T10:36:27Z",
+  "ns": 860,
+  "pageid": 164345,
+  "sitelinks": {},
+  "title": "Item:Q135960",
+  "type": "item"
+}

@@ -1,0 +1,399 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oxyartes"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135363$5AC97BC4-05EE-47B9-AB98-E80677BED03C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "90689"
+          },
+          "hash": "f22ddf4e760228742d22e13b84cf05036e01796e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135363$BEC45E98-0B5C-423B-8F4C-B568D472B846",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736565"
+          },
+          "hash": "b88c88e910c8aa9a74933e162992d95e2d04fa92",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135363$561196E8-C2E5-456D-9DB3-1ABC3C1314EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135282",
+              "numeric-id": 135282
+            }
+          },
+          "hash": "db88023e12c2ebe199fe6629f57b72f05fdd2c00",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135363$4F71615E-9465-4AA6-B826-BDDAA1063A13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135363$D0532A94-AE5B-4672-A679-A68A0695ABE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135363$E4CAA390-127A-432C-9FE8-5907B7A7D20C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Oxyartes_Sogdiana_(1)"
+          },
+          "hash": "230114c29ba33de2b3701557d5d22c988869aa62",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135363$B83C3404-2EF2-4A09-9841-5977E12B098C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135363$5375D90C-6291-4371-BF0F-DDF0EC63C689",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135363$2725A022-A21D-4C59-94FA-12775C07B338",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135363$6E4D4E81-3004-4C63-A7BC-197ADEBCC7CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q551847"
+          },
+          "hash": "d72387c7a427ab9fca04e050af9ed5056a5c8d58",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135363$F18954DF-40CC-4A2D-9933-C3011217A556",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oxyartes Arms.svg"
+          },
+          "hash": "fe62caa3ebde12a5a279c3744c8d6e90966e4cb0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Satrap unter Alexander dem Großen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bactrian nobleman, father of Roxana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble de Bactriane"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Աքեմենյան պետության արիստոկրատ"
+    },
+    "it": {
+      "language": "it",
+      "value": "re battriano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сатрап Паропамисад в Македонской империи"
+    }
+  },
+  "id": "Q135363",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوكسيارتس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аксіярт"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Оксиарт"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Oxiartes"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Оксиарт"
+    },
+    "da": {
+      "language": "da",
+      "value": "Oxyartes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oxyartes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Οξυάρτης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oxyartes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oxiartes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "وخشارد"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Oxyartès"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Oxiartes"
+    },
+    "he": {
+      "language": "he",
+      "value": "אוקסיארטס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Oksijart"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Օքսիարտես"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ossiarte"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オクシュアルテス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "옥시아르테스"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oxyartes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Oxyartes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Oxyartes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Оксиарт"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Oksijart"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Oxyartes"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Oxyartes"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Вахшорд"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Оксіарт"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Oksiart"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Oxyartes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧克夏特斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "奥克夏特斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "奧克夏特斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "奧克夏特斯"
+    }
+  },
+  "lastrevid": 17551428,
+  "modified": "2025-09-17T10:23:01Z",
+  "ns": 860,
+  "pageid": 163748,
+  "sitelinks": {},
+  "title": "Item:Q135363",
+  "type": "item"
+}

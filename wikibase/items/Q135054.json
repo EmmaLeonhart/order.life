@@ -1,0 +1,402 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theopompus of Sparta"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135054$BFEF8D30-9A9C-4167-9652-544E2406677D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "695191"
+          },
+          "hash": "8d70202bc276d8d369518d86609bd677a97da0dd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135054$418EB0C3-5260-48E0-91C1-5D6F71A07B84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135080",
+              "numeric-id": 135080
+            }
+          },
+          "hash": "d8cfbafc2b7f9625704b7270efccebb926895b3d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135054$5805884E-2DFC-4569-A9B5-72FA2BDC2D0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135079",
+              "numeric-id": 135079
+            }
+          },
+          "hash": "b288f62ca7fcfbd5fae04d853cb8afa48b2c9f84",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135054$188E966D-E613-4475-8B3D-0ACC5B76F57D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135054$0E930C50-A678-476F-8470-F3B829203FA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135054$D8F7A464-E51B-4338-837F-FD2164A3E2E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135078",
+              "numeric-id": 135078
+            }
+          },
+          "hash": "fb916837d5a53ae14278d04331e8dde52e271039",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135054$DC71A11F-EA83-4AC3-A9AC-CAC999C2F41D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135038",
+              "numeric-id": 135038
+            }
+          },
+          "hash": "a0884d957de368c085133031abd4ab18a06613dd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135054$588E07F8-06BF-4606-A134-EBCC1E61E5C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135054$31D5309B-CD25-47B2-9966-3066048DA1DE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0800-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d240ab2ead5742a62e159c6c19ff3d25f3c4d8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135054$EA96127F-8DAF-4AC0-A6D5-41548481E7A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c9c74762bb866c474bf707ec705ed33911a0b7a5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135054$C27635B5-8BA9-4E03-9174-CB0DB5A1D5A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q460405"
+          },
+          "hash": "0f89c733cf7f266a9f423fcf9c8c632b5bd1fd2e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135054$286AB86D-C33B-41DC-A697-1AF1D8B86CF1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theopompus of Sparta Arms.svg"
+          },
+          "hash": "085286f81c13fed8b6ec66b1995c08f6f97dc789",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "spartanischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Sparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Sparty"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Šparte"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "塞奥彭普斯"
+    }
+  },
+  "id": "Q135054",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ثيوبومبوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ثيوبومبوس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teopomp d'Esparta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Theopompos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Theopompos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεόπομπος ο Λακεδαιμόνιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theopompus of Sparta"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teopompo de Esparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théopompe de Sparte"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Θεόπομπος"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Theopompos"
+    },
+    "id": {
+      "language": "id",
+      "value": "Theopompos dari Sparta"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teopompo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テオポンポス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theopompus of Sparta"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teopomp"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teopompo de Esparta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teopompo de Esparta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феопомп"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Teopomp"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Theopompos"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Teopomp"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Theopompus of Sparta"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Theopompos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Феопомп (цар Спарти)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞奥彭普斯 (斯巴达国王)"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "塞奥彭普斯"
+    }
+  },
+  "lastrevid": 17550884,
+  "modified": "2025-09-17T10:15:18Z",
+  "ns": 860,
+  "pageid": 163439,
+  "sitelinks": {},
+  "title": "Item:Q135054",
+  "type": "item"
+}

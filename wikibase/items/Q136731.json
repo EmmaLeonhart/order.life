@@ -1,0 +1,343 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Machares"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136731$9ED6C0A7-80E1-46F3-8A57-AB7EF874BA82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736374"
+          },
+          "hash": "97b3d78826ee6999c48fa5c5a1c95466a47562d0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136731$327D928C-FDFA-4913-B84F-A874B20D18D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136731$0D08718B-9069-48BD-A636-D47ABB168F5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136731$2C6D249C-9D1B-4CCD-B3A2-91687514846F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Machares_(1)"
+          },
+          "hash": "e227d8f18abeb046210147276182efc760e07fa1",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136731$886D1176-BC74-406C-8831-187056E6351C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73053",
+              "numeric-id": 73053
+            }
+          },
+          "hash": "70afe3daa08bfe7d68b9b0ae2eadf1c494f83a45",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136731$1A779A70-236E-4FB0-9D64-8A951C860F06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73050",
+              "numeric-id": 73050
+            }
+          },
+          "hash": "655f55cf158ac3d1819ca2c547522ffe45724f65",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136731$CAA6DF05-3AA6-4596-AFE5-E107E32197AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136731$7DD01F9C-FFF9-4133-99F3-A6B8E7626E70",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0085-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b75e80b32c3f6bdde0972622b04d51d7a34a25d5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136731$B55F7929-3EA0-4232-B136-05BEA9D35392",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0066-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c9cc6633a7af4727ee4f8eaa717831001273c23d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136731$5BCE477A-66B0-4753-ACBF-36AB7F582433",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2064634"
+          },
+          "hash": "d9d7d1976e9c62429e42adf925ccc4b47339b639",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136731$0D38D35C-6AFC-4707-B27B-3F0200F4AA7C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Machares Arms.svg"
+          },
+          "hash": "06909ae5799aed90ef6331feb19b5c55a93fb098",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Mithridates VI"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Mitrídates VI"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Mithridate VI"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Bosporu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "понтийский принц, сын Митридата VI и Лаодики"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mithridates VI:s son"
+    }
+  },
+  "id": "Q136731",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Махар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Macares"
+    },
+    "de": {
+      "language": "de",
+      "value": "Machares"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαχάρης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Machares"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Machares"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Machares"
+    },
+    "es": {
+      "language": "es",
+      "value": "Macares"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Macharès"
+    },
+    "it": {
+      "language": "it",
+      "value": "Macare"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マカレス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მაქარესი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Machares"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Machares"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Махар"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Machares"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Machares"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mahare"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Махар"
+    }
+  },
+  "lastrevid": 17553575,
+  "modified": "2025-09-17T10:53:54Z",
+  "ns": 860,
+  "pageid": 165116,
+  "sitelinks": {},
+  "title": "Item:Q136731",
+  "type": "item"
+}

@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mamercus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q134892$763DE365-BF53-4624-8CD9-2843FA526561",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134892$1031AF7E-621B-4E46-8656-51ACAE212E40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134892$37424EBC-1B7F-402C-A549-D4FDB3EA017F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134887",
+              "numeric-id": 134887
+            }
+          },
+          "hash": "bb9218dc88600ac56b5c3753cec58b0193c00f95",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134892$8B7897AD-80C6-411D-8C67-4F4448502EB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134850",
+              "numeric-id": 134850
+            }
+          },
+          "hash": "60a54467a97c94e6919beee24f13437a6a4c660c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134892$2EECD555-252A-4168-B49F-29B74ED3CE75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q134892$918F484B-B356-4C2C-B379-5249ED6E1951",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0800-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d240ab2ead5742a62e159c6c19ff3d25f3c4d8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134892$E8F881A8-E5E6-414A-8D88-1575C1C01BA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11934764"
+          },
+          "hash": "29ff03bc5d4c94694e4d5312967215882c8026b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134892$D21985C4-6032-469F-B297-262981F9C57A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mamercus Arms.svg"
+          },
+          "hash": "e8a629fa45c569098acb0396977aa5462d846824",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Sohn des Numa Pompilius"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Numa Pompilius"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Numa Pompilio, antepasado legendario de la «gens» Emilia"
+    }
+  },
+  "id": "Q134892",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Mamerc (fill de Numa Pompili)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mamercus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάμερκος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mamercus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mamerco"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Mamercus"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mamercus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мамерк"
+    }
+  },
+  "lastrevid": 17550584,
+  "modified": "2025-09-17T10:10:55Z",
+  "ns": 860,
+  "pageid": 163277,
+  "sitelinks": {},
+  "title": "Item:Q134892",
+  "type": "item"
+}

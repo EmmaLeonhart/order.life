@@ -1,0 +1,281 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arsames"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135510$6A140246-439E-4D78-92F7-0442423D190F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135510$93BDEF04-DF9A-4343-916B-C24088C9150F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135510$7E57E213-36F6-4145-985F-437186A34E1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74013",
+              "numeric-id": 74013
+            }
+          },
+          "hash": "c1facfc837d68e399ee16c5abcaa98e1c97ec7b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135510$2B097813-ED71-4E2B-87A7-8FE18E71342E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135510$8473AD68-12E8-477C-B2B4-5D3ACE9821EE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135510$614FDF15-8FBC-40A0-8B38-D4EFB1369A0F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0358-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16db9db7e9831a6c0b02e43fdabdcf2da15c1b35",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135510$7683B941-F445-4970-8F91-1B16FFFFF0A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18331511"
+          },
+          "hash": "9a5bf1648fc6b49d8af434cfc18a8b7d030f9ef6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q135510$BF728373-8DDE-48FD-8D16-450D878BDA0E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsames"
+          },
+          "hash": "6b1f0f69f2a57cdf1e4c66373ee15243db21d7cf",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135510$E7028540-4813-42EC-B849-63AFEE0C327B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsames Arms.svg"
+          },
+          "hash": "7ab786a7e980416ba41dcba03691afea9812c609",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Fill d'Artaxerxes II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Sohn des Großkönigs Artaxerxes II."
+    },
+    "en": {
+      "language": "en",
+      "value": "4th-century BC Persian prince, son of Artaxerxes II of Persia"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble aqueménida del siglo IV a. C."
+    },
+    "he": {
+      "language": "he",
+      "value": "בנו של ארתחשסתא השני"
+    }
+  },
+  "id": "Q135510",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Arsames"
+    },
+    "de": {
+      "language": "de",
+      "value": "Arsames"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arsames"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arsames"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرشام (پسر اردشیر دوم)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arsamès"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արսամես"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arsame"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルサメス"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Arsames"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Arsames"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Arsames"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арсам"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арсамес"
+    }
+  },
+  "lastrevid": 17551682,
+  "modified": "2025-09-17T10:26:42Z",
+  "ns": 860,
+  "pageid": 163895,
+  "sitelinks": {},
+  "title": "Item:Q135510",
+  "type": "item"
+}

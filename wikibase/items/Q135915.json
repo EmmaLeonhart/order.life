@@ -1,0 +1,399 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolemy Eupator"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135915$50523DD3-275F-4924-98B3-F7AA636DEB0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00688306"
+          },
+          "hash": "72f12c9a17a39d3b6b2f9ebed5c9ec5bbd706929",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135915$CD0E76A2-7EC3-4219-8617-D1C48650BBAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135915$9DD5193C-71E6-494F-A5EF-E5645A4C6D12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135915$2FAF24C0-71E6-4BFC-B99C-D921C2C653D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy_Eupator_(1)"
+          },
+          "hash": "8f60a7b943fba5d503f795c08138e7c330449a35",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135915$6E6EF5A5-9436-40F9-A2ED-211D244A6E82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99394",
+              "numeric-id": 99394
+            }
+          },
+          "hash": "d57e0b919b328a46f212f3fa3f9b5ed4cdd22c3a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135915$489CF4D6-7BAB-43C4-9728-0A62D4724C9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73194",
+              "numeric-id": 73194
+            }
+          },
+          "hash": "08c3bb2eec418884ad8c73016c852198142c7de7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135915$9844BBF8-6CAD-4874-83BA-7D74CB05CBA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135915$A853788C-4577-4958-8984-6AC06A3D427E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0166-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f8260ecd3401de4269db8e2ea8204ca28fc769d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135915$90EB5C0A-5714-4B28-96CA-8FB18BEACF69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0152-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2b80a7ea572b3872d6f2ba5018fd512ab3ace0b7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135915$15D914F9-2AC0-4335-A0AF-73277D864E2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888492"
+          },
+          "hash": "54eb61a1502750f7038e1b4fa6aeff6f536b7d74",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135915$5C634D73-4C48-4AF4-AE7A-C732E79BF956",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy Eupator Arms.svg"
+          },
+          "hash": "510cf0d2c907ce347a15eac9bb77ff4a39b573ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "príncep egipci de la dinastia ptolemaica"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Ägypten"
+    },
+    "en": {
+      "language": "en",
+      "value": "Egyptian Ptolemaic prince, ruler of Cyprus"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe ptolemaico y gobernante de Chipre"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince lagide, fils de Ptolémée VI et de Cléopâtre II"
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיך מבית תלמי, שליט קפריסין"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida herceg, ciprusi király"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe egizio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "staatsman"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей Евпатор был сыном Птолемея VI Филометора и Клеопатры II и в течение короткого времени в 152 г. до н. Э. Правил на Кипре вместе со своим отцом. Считается, что Птолемей Евпатор умер в августе того же года. Евпатор засвидетельствован на небольш"
+    }
+  },
+  "id": "Q135915",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بطليموس يوباتور"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Ptolemaiosz Eupatór"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пталемей VII Еўпатар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemeu Eupàtor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios Eupator"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος Ευπάτωρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemy Eupator"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolomeo Eupátor"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ptolemaios Eupator"
+    },
+    "ff": {
+      "language": "ff",
+      "value": "Ptolemy Eupator"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée Eupator"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tolamaes Eupator"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמי אופאטור"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ptolemaiosz Eupatór"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo Eupatore"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス・エウパトル"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ptolemaios Eupator"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemy Eupator"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ptolemaios Eupator"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz Eupator"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей Евпатор"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj Eupator"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ptolemy Eupator"
+    },
+    "th": {
+      "language": "th",
+      "value": "ปโตเลมี ยูพาเธอร์"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей Євпатор"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密·歐帕托爾"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "托勒密·欧帕托尔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "托勒密·歐帕托爾"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "托勒密·歐帕托爾"
+    }
+  },
+  "lastrevid": 17552293,
+  "modified": "2025-09-17T10:35:27Z",
+  "ns": 860,
+  "pageid": 164300,
+  "sitelinks": {},
+  "title": "Item:Q135915",
+  "type": "item"
+}

@@ -1,0 +1,330 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwen ferch Cynyr"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136546$52076542-3652-4026-ADED-52F7549DDAF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "509465"
+          },
+          "hash": "d8f959a6f8fb62837ba5df015ddd2e03fa39c845",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136546$4B5DD218-545A-48C2-AAC4-A74ADF8A812A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136871",
+              "numeric-id": 136871
+            }
+          },
+          "hash": "a044dbe34ea2e650312a567f40892fce480e159e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136546$641F2BBA-A1D9-4ED6-A9C4-E6135B45F71E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136872",
+              "numeric-id": 136872
+            }
+          },
+          "hash": "78a27175ceb411b39be944babf73fe6248d2e9a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136546$4A08F519-533D-447D-899A-303E9759CBBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136546$6128B722-7A44-444C-9D09-55A0F48F2467",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136546$C81719CB-7004-4F30-89C7-AEA1D80044F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136870",
+              "numeric-id": 136870
+            }
+          },
+          "hash": "040731aa34e9369b23b6fac3044421a5d1350b28",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136546$A613BE6F-BC86-4280-9256-1CF41787F840",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136544",
+              "numeric-id": 136544
+            }
+          },
+          "hash": "01a17ac80475614f68ec63f73cb2670445b0a22f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136546$A7E6B10D-BAEE-43EC-BD32-1BB924256425",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136546$87C81DE9-EABE-40C8-AB6C-459C3A945486",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136546$3FB8BB64-7F4F-42BE-B70C-0C06AC9760FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0544-10-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a72a50b16f92a255e39f21ed23d6c52a1996387c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136546$8AF85071-7440-4F9A-B77D-88F47B3B47D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24635388"
+          },
+          "hash": "a16ce6f5cb039843a78aa70274fd7badfe9c3017",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136546$CD3F848E-28A8-42A4-894D-350322C2CCCC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwen ferch Cynyr Arms.svg"
+          },
+          "hash": "7dd2204c158ebc0d08cabf90b05c28fa296798bc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "cornwallská královna a svatá"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Santes o G6 oedd Gwen ferch Cynyr  a oedd yn ferch i Gynyr Ceinfarfog o Gaer Goch, Penfro"
+    },
+    "en": {
+      "language": "en",
+      "value": "queen of Cerniw and saint"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina del Cerniw e santa"
+    }
+  },
+  "id": "Q136546",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Gwen ferch Cynyr"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gwen ferch Cynyr"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gwen ferch Cynyr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwen ferch Cynyr"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gwen ferch Cynyr"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gwen ferch Cynyr"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gwen ferch Cynyr"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wenna"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Gwen ferch Cynyr"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gwen ferch Cynyr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Венна"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gwen ferch Cynyr"
+    }
+  },
+  "lastrevid": 17553269,
+  "modified": "2025-09-17T10:49:32Z",
+  "ns": 860,
+  "pageid": 164931,
+  "sitelinks": {},
+  "title": "Item:Q136546",
+  "type": "item"
+}

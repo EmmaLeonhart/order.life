@@ -1,0 +1,784 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Πτολεμαίος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolemy IV Philopator"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy"
+      },
+      {
+        "language": "en",
+        "value": "Πτολεμαίος"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy IV Philopator, Pharaoh of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73356$1F30EB3A-D3A9-4A96-8B00-23C005C5F1D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351154"
+          },
+          "hash": "4e729564922ebd5e361cf32171cb4de6208f6926",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73356$2D65A609-2720-40CB-A277-4BCE8B468327",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567194"
+          },
+          "hash": "3070eb79351f0d1b13ee4a33639ec00cb79cc8a7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73356$12F5A6FB-BD42-4BFF-BB08-378C4C2C3431",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73200",
+              "numeric-id": 73200
+            }
+          },
+          "hash": "51e8b419c67c6a2f20c49a9aa5703151c32e5bb2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73356$6CF3FB57-2EF5-401B-A51A-2AABEA120E96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99396",
+              "numeric-id": 99396
+            }
+          },
+          "hash": "726dd5b89cd235b816307d8bd2806792fde011b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73356$057D5AB4-0F5C-424B-BB6E-1C2CE124E1C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165367",
+              "numeric-id": 165367
+            }
+          },
+          "hash": "ad503d28b3aba87e4eda3e29c4d95065711aa2fc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73356$8472B950-3BAF-4E71-BA2A-6EEF5BFA7E4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165364",
+              "numeric-id": 165364
+            }
+          },
+          "hash": "0528734bdbdcd04b74fe020b69c68d5a2f414fdd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73356$9E71D3A6-D2C8-44A7-AC83-486596B50FC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73356$83001B2A-F635-4303-B6DD-DE58118AB969",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73356$BFA43D2F-F9A8-4622-8C34-F5F7DE3F825B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy_IV_Philopator_(1)"
+          },
+          "hash": "8a4585124b840b3d3233399092cf730a32e103e9",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73356$A783282E-3A40-4C53-83CE-BF3BAB09B98B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73353",
+              "numeric-id": 73353
+            }
+          },
+          "hash": "9394e3541c9aa0ec52920d0c88d661cbdbb2728c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73356$1550300C-A13D-434C-A724-1CBF60FB5C88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165365",
+              "numeric-id": 165365
+            }
+          },
+          "hash": "0dd59b65dc9c27956a337dcc279509d2f2ca7cd1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73356$A54E41CD-FCC6-47B9-A8A6-04ABA5243DB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165366",
+              "numeric-id": 165366
+            }
+          },
+          "hash": "5b8d2b2558d037e7b1b15b76b76258fae58551e4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73356$1CC64C19-80F4-45C6-9FEE-A6CBA444C62E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73491",
+              "numeric-id": 73491
+            }
+          },
+          "hash": "d64bf911a57e3841a80eb9813a212b6e8c8a62e7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73356$9D317241-2708-41D5-B023-01CAD5FE0533",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73494",
+              "numeric-id": 73494
+            }
+          },
+          "hash": "05c50b7623a1e06bac5d2669e28295cce24cb624",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73356$23386570-B679-4091-89AF-EDF8272C1734",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73356$3EF93D86-0015-493C-ADA3-9CE8AE4BB588",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0244-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "20dbb15f6bf9c8bee6c26cc2af98f0d133172d1d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73356$97FEE088-D869-468C-8A0B-B5F74465FC3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0204-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "091152af0ddfadbe894f60387bec2f4fbc2324f9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73356$EA674E17-366C-4BA1-8278-7B06F87A3A8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q39595"
+          },
+          "hash": "7fcb98c32124948038e5f476851ae9877e1c3cfc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73356$5269C3E7-3079-4206-BB24-40F5294339F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645853615"
+          },
+          "hash": "c54c565af545fdd1dea55c75b868f87a66130450",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73356$8E8F6D25-C619-4C02-929D-EA130F23F07E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:50800"
+          },
+          "hash": "05cf28ff2ac2f8ef459993c6db4547c78c0d1ebe",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73356$07205BFA-8E17-4508-A844-BFCD0D7EB342",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy IV Philopator Arms.svg"
+          },
+          "hash": "8a0b8336a8d11bd7128c52e78a445da15da6fb26",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Egiptiese koning"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ملك مقدوني"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "египетски фараон"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "egyptský faraon"
+    },
+    "de": {
+      "language": "de",
+      "value": "4. König von Ägypten während der Ptolemäerzeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th Pharaoh of Ptolemaic Egypt (r. 221–204 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "faraón de Egipto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Égypte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida uralkodó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Եգիպտոսի փարավոն"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano del Regno tolemaico d'Egitto (r. 222-204 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "farao van de dynastie van de Ptolemaeën (244-205 v.Chr.)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "władca Egiptu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Faraó"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Faraó"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "faraon egiptean"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Египта, правил в 222/221 — 205/204/203 гг. до н. э."
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තු පාරාවෝ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "4. faraon Ptolemajskega Egipta (vladal 221–204 pr. n. št.)"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "எகிப்திய பார்வோன்"
+    }
+  },
+  "id": "Q73356",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ptolemeus IV Philopator"
+    },
+    "an": {
+      "language": "an",
+      "value": "Ptolomeu IV"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بطليموس الرابع"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بطليموس الرابع"
+    },
+    "az": {
+      "language": "az",
+      "value": "IV Ptolemey"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пталамей IV Філапатар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Птолемей IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemeu IV Filopàtor"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ptolemaios IV. Filopatór"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ptolemi IV Philopator"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ptolemaios IV Filopator"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios IV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος Δ΄ Φιλοπάτωρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemy IV Philopator"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ptolemeo la 4-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolomeo IV"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ptolemaios IV"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ptolomeo IV.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بطلمیوس چهارم فیلوپاتور"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ptolemaios IV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée IV"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tolamaes IV Philopator"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πτολεμαῖος Φιλοπάτωρ"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמי הרביעי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ptolemej IV. Filopator"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Ptolemaiosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պտղոմեոս IV Ֆիլոպատոր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ptolemaios IV Philopator"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo IV"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス4世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პტოლემე IV"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프톨레마이오스 4세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Ptolemaîos IV Fîlopator"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Ptolemaîos IV Fîlopator"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ptolemaeus IV"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ptolemėjas IV Filopatoras"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Ptolemaiosy IV"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Ptolemaios 4-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ptolemaios IV Filopator"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemaeus IV Philopator"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ptolemaios IV Filopator"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Ptolemèu IV"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz IV Filopator"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "څلورم بطلیموس فیلوپاتور"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemeu IV Filopator"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ptolemeu IV Filopator"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ptolemeu al IV-lea Filopator"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей IV Филопатор"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ptolemej IV Filopator"
+    },
+    "si": {
+      "language": "si",
+      "value": "සිව්වන ටොලමි ෆිලොපේටර්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj IV. Filopator"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Птолемеј IV Филопатор"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ptolemaios IV Filopator"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "நான்காம் தாலமி"
+    },
+    "th": {
+      "language": "th",
+      "value": "ปโตเลมีที่ 4"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ptolomeo IV Philopator"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IV. Ptolemaios"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей IV Філопатор"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ptolemaios IV Philopator"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "托勒密四世"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Ptolemy 4k Philopator"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密四世"
+    }
+  },
+  "lastrevid": 17486092,
+  "modified": "2025-09-16T18:44:13Z",
+  "ns": 860,
+  "pageid": 88187,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73356",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73356"
+    }
+  },
+  "title": "Item:Q73356",
+  "type": "item"
+}

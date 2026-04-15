@@ -1,0 +1,310 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136145$481D32F0-620E-439A-A278-6701D9564137",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736287"
+          },
+          "hash": "e53c1e7de297f589badb492f1a2094294bb109ef",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136145$B41BDACA-61D8-47B8-9943-CA1267C0DA42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136145$E240D463-6D38-4227-BC90-C70FB30BD812",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136145$07E9FDE2-725B-4EF1-9C56-7CE8B8D6506C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73365",
+              "numeric-id": 73365
+            }
+          },
+          "hash": "d1c0423bd3aeb60051351493ce9d651713e1070d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136145$044BF007-1868-4998-B9DE-F3D660C648B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73368",
+              "numeric-id": 73368
+            }
+          },
+          "hash": "0ccdd8e1aa2b7049521f0c2637851428123ec1bd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136145$C63BA972-40F0-4A21-862F-6C9FFFB627BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136145$FFF518FA-C3B2-4CB8-A318-4A2E13091F54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136145$F444817D-0367-4B54-90B2-8967AC26156D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93a0db64f3c0cfcbc27e9251a644e2e06a0bc2f7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136145$39275D11-A989-4B88-AF93-0DE1359653CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2653436"
+          },
+          "hash": "ebad42897af33a36e04acf4e96646f17c0db5699",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136145$CE577CD3-9048-477C-93F7-DF5AE880B3A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus Arms.svg"
+          },
+          "hash": "db92af7262b0c238ed3e9e4177c515fad58e23b1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Sohn des Seleukos IV."
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Syria from 175 BC to 170 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "corregente seléucida (f. 170 a.C.), hijo mayor de Seleuco IV y Laodice IV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince séleucide, fils de Séleucos IV"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Seleuco IV"
+    }
+  },
+  "id": "Q136145",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس (ابن الملك سلوقس الرابع)"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antiochus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος (γιος Σέλευκου Δ΄)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس (پسر سلوکوس چهارم)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antioh, sin Selevka IV."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安條克"
+    }
+  },
+  "lastrevid": 17552643,
+  "modified": "2025-09-17T10:40:27Z",
+  "ns": 860,
+  "pageid": 164530,
+  "sitelinks": {},
+  "title": "Item:Q136145",
+  "type": "item"
+}

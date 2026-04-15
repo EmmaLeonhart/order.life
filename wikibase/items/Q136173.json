@@ -1,0 +1,281 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abdissares"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136173$0921C491-2483-4CA2-9EC3-0F75A9281027",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738441"
+          },
+          "hash": "641fc21f5bfae88c64522cc6c14c9660a8373f13",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136173$2D771008-7996-47E7-99E0-43189A36862A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136173$2D5A1646-E376-4769-BAF2-4E9B6904B0E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136173$D329FEAB-FA7B-44F1-8D07-28CB8E520247",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135926",
+              "numeric-id": 135926
+            }
+          },
+          "hash": "54edeb36e26e9258735c6f138028723b7bbaa20e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136173$D7129183-8FBE-4022-93DF-00CA29C21C40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136173$FA980046-4724-4B75-A79A-EA6BF88AB0ED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136173$0A65C70D-1B59-4612-B281-9FE41FEB7A56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136173$CC64D282-8D59-4655-A3C9-EAC5E02E2084",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q308231"
+          },
+          "hash": "a947745793f32a42c82f7ec9a40de674954328b1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136173$4CC45E28-93EA-4FA8-9B13-961982BCD1DB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abdissares Arms.svg"
+          },
+          "hash": "1b82f02bf90bdc52e681aef76ea5b9a8b87557a3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Armenien"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd-century BC king of Adiabene"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sophène"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q136173",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "عبد السارس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Abdisar d'Armènia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Abdissares"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αβδισσάρης της Σωφηνής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abdissares"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Abdissares"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Abdissares"
+    },
+    "es": {
+      "language": "es",
+      "value": "Abdissares"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Abdissarès"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Abdissares"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Աբդիսարես"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Abdissares"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Abdisário Orontida"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Abdissares"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Абдісар"
+    }
+  },
+  "lastrevid": 17552683,
+  "modified": "2025-09-17T10:41:01Z",
+  "ns": 860,
+  "pageid": 164558,
+  "sitelinks": {},
+  "title": "Item:Q136173",
+  "type": "item"
+}

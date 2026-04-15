@@ -1,0 +1,705 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alcibiades"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136130$8FA8BCE5-5E5F-4A05-8DFB-1C216E282451",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "482157"
+          },
+          "hash": "14ec4f65b00d67ecbbe755ab503b9f5e65bfb791",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136130$12ED6A81-E1C0-478B-BEA6-A1A9ACD53950",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136412",
+              "numeric-id": 136412
+            }
+          },
+          "hash": "fe98f05c9bcdae7dfc5a74ff842332ae0888f51c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136130$6D79D01E-2739-4079-95BA-E065B9CE4C78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136130$87606439-2950-43A0-A9D8-3AA057A159AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136130$432CF982-DD73-4A79-B3C6-5E3A2098F647",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136411",
+              "numeric-id": 136411
+            }
+          },
+          "hash": "14c9a27dd73f54e76cc9f6a3b33ad58c0ca182ca",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136130$CFC70FBF-323C-4786-87EC-0CC9349397CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136408",
+              "numeric-id": 136408
+            }
+          },
+          "hash": "2d8a28c9211c9bf2c642b9e79a49c677238e97bc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136130$3ED5EF55-37FF-4385-B03F-F85840F02005",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136409",
+              "numeric-id": 136409
+            }
+          },
+          "hash": "9e90d3970fba1eaf26655cb6092f7d973e8784da",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136130$0A093D2D-28AE-4312-B4E0-019A6E5A8908",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136130$E58BF9DE-E5CE-4EB3-8BAD-03FB255D8154",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136130$EC9EC339-86AB-49E4-BBCF-5AC0709A1A3F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0404-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a588e60fb25fbfc48c560f5e39be991c80a7024",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136130$8BA36A51-360B-41C9-B418-D91BD7F64B8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q187982"
+          },
+          "hash": "c953c7f61bea0eaac393991c57bc0b6ee978dd01",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q136130$F1D0F926-9D7E-4147-A79C-697040E57039",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011847151011"
+          },
+          "hash": "71cf40ddb6523d1f37a3c8d69d332322356220c9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136130$5F4140CA-CF87-4D1A-85CD-C117E19C749B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alcibiades Arms.svg"
+          },
+          "hash": "6e7502bfc52a1f0d0a4caece1c2dc11e5f732519",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "атэнскі вайсковы стратэг і вайскавод"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "general atenenc"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "athénský generál"
+    },
+    "de": {
+      "language": "de",
+      "value": "athenischer Staatsmann und Feldherr"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αθηναίος πολιτικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Athenian statesman"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Atena politikisto de la 5a jarcento a.K."
+    },
+    "es": {
+      "language": "es",
+      "value": "político y general ateniense del siglo V a. C."
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin kreikkalainen poliitikko ja sotapäällikkö"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique athénien"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "státaire san Aithin"
+    },
+    "he": {
+      "language": "he",
+      "value": "מצביא ומדינאי אתונאי (450–404 לפנה\"ס)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "athéni államférfi és hadvezér, aki a peloponnészoszi háborúban játszott jelentős szerepet (kb. i. e. 450 – i. e. 404)"
+    },
+    "is": {
+      "language": "is",
+      "value": "forngrískur herforingi og stjórnmálamaður (450– 404 f.Kr.)"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale e politico ateniese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Athene (450v Chr-404v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "ateński strateg"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "general e político ateniense"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнегреческий афинский государственный деятель, оратор и полководец"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "atenski državnik in general (5. stol. pr. n. št.)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Атински државник"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Атински државник"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஏதெனிய அரசியல்வாதி"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antik Yunan general ve devlet adamı (MÖ 450 – MÖ 404)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Афінський полководець і державний діяч"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "雅典政治家"
+    }
+  },
+  "id": "Q136130",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Alkibiades"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ألكيبيادس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الكيبيادس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Alcibíades"
+    },
+    "az": {
+      "language": "az",
+      "value": "Alkiviad"
+    },
+    "be": {
+      "language": "be",
+      "value": "Алківіяд"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Алькібіяд"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Алкивиад"
+    },
+    "br": {
+      "language": "br",
+      "value": "Alkibiades"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alcibíades"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alkibiadés"
+    },
+    "da": {
+      "language": "da",
+      "value": "Alkibiades"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alkibiades"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλκιβιάδης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alcibiades"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Alkibiado"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alcibíades"
+    },
+    "et": {
+      "language": "et",
+      "value": "Alkibiades"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Altzibiades"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آلکیبیادس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Alkibiades"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alcibiade"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Alcaibiaidéas"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Alcibíades"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀλκιβιάδης"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Alkibiades"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלקיביאדס"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "एल्सीबिएड्स"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Alkibijad"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Alkibiadész"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ալքիբիադես"
+    },
+    "id": {
+      "language": "id",
+      "value": "Alkibiades"
+    },
+    "io": {
+      "language": "io",
+      "value": "Alkibiades"
+    },
+    "is": {
+      "language": "is",
+      "value": "Alkibíades"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alcibiade"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルキビアデス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ალკიბიადე"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಆಲ್ಸಿಬೈಯಡೀಸ್"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "알키비아데스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Alcibiades"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Alkibiads"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Alcibiades"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Алкибијад"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അൽസീബീയാഡേസ്"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Alkibiades"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Alkibiades"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alcibiades"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Alkibiades"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Alcibiades"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Alkibiades"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alcibíades"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alcibíades"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Alcibiade"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Алкивиад"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Alcibiades"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Alkibijad"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Alkibiades"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Alkibiad"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Alkibiadi"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Алкибијад"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Алкибијад"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Alkibijad"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alkibiades"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Alkibiades"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஆல்சிபியாடீசு"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Alcibiades"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Алківіад"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "الکبیدش"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Alcibiades"
+    },
+    "war": {
+      "language": "war",
+      "value": "Alcibiades"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "阿尔西比亚德斯"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "阿爾西比亞德斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔西比亚德斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿尔西比亚德斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿尔西比亚德斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿爾西比亞德斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿爾西比亞德斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿尔西比亚德斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿爾西比亞德斯"
+    }
+  },
+  "lastrevid": 17552619,
+  "modified": "2025-09-17T10:40:07Z",
+  "ns": 860,
+  "pageid": 164515,
+  "sitelinks": {},
+  "title": "Item:Q136130",
+  "type": "item"
+}

@@ -1,0 +1,411 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amytis"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135515$3E42D2FF-2CE9-47F4-BA42-034CC90FA1B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "406957"
+          },
+          "hash": "266aa8b7d3b5372351008a67c1b648c2b39bccf3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135515$BC97D86B-7FE8-4C64-A1FE-C28652C17465",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135515$A6EE00F6-FB2E-4C00-AB6F-5F363132A863",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135515$8C7FC621-1943-4DF7-99DA-6FB2BC73BFA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135660",
+              "numeric-id": 135660
+            }
+          },
+          "hash": "86a7b35ee6dd338fb6dd24cd52868b209f720c82",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135515$7C399A1D-46A7-456A-BD8B-AC01BDA82C2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74305",
+              "numeric-id": 74305
+            }
+          },
+          "hash": "0fdbf431491a5989749f82de5c0f02c9dd38808f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135515$19913CD2-8269-4DE7-AD8E-5B5483FD1043",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74410",
+              "numeric-id": 74410
+            }
+          },
+          "hash": "98f1fe283a931ba9bfb8077e09bf4c57fac52460",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135515$CCE6D984-3ED9-4E04-83A7-726FC70E94A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74413",
+              "numeric-id": 74413
+            }
+          },
+          "hash": "5fd739c4c2184cc25cca868bb061511c7bbbe472",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135515$455DEE57-7A33-4B58-9138-CFD331894913",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135515$F5AF83F7-985B-45B7-8211-F2A7CBFDF3E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0559-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9517b7b6404163223b543a421a6ba2e155e9f48",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135515$61BB789E-DA72-4FC2-8ACC-D89E3519CC7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca0f7e18475fc648e1a286f4ce5787e81e10b187",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135515$B3E41382-2DC4-4A17-B9A5-A039FBE797FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q482131"
+          },
+          "hash": "71ceeb4971dcb37a589dd3f066c30cb4f9bf6c38",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q135515$050D6762-C64F-4C63-97D3-95B40F3BCBFF",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Amytis"
+          },
+          "hash": "37b11bb6723f6fcbecad0b0b0cf084d654a7cfb8",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135515$C6F67114-9237-470E-BA01-E7268B5ECB09",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amytis Arms.svg"
+          },
+          "hash": "411c0e079b530344afd299b4c04b36ceb9ae0dbb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter des Astyages und mögliche Gemahlin von Kyros II."
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Astyages, Queen of the Persian Achaemenid Empire"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine achéménide, épouse de Cyrus II"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכה רעיה של כורש השני, מלך האימפריה האחמנית"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Esposa de Ciro, o Grande"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "rainha do Império aquemênida persa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь Астиага и возможная жена Кира II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "королева перської імперії Ахеменідів"
+    }
+  },
+  "id": "Q135515",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Amitis Shahbanu"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Amitis Shahbanu"
+    },
+    "da": {
+      "language": "da",
+      "value": "Amitis Shahbanu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Amytis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άμιτις Σαχμπανού"
+    },
+    "en": {
+      "language": "en",
+      "value": "Amytis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Amitis Shahbanu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آمی تیس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Amytis"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Amitis Shahbanu"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Amitis Shahbanu"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמיתיס"
+    },
+    "id": {
+      "language": "id",
+      "value": "Amitis"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Amytis (nwa nwanyị Astyages)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Amitis Shahbanu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アミュティス"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Amytis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amytis"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Amitis"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Amitis Shahbanu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Амитис Мидийская"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Amitis"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Омитис"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Амітіс Шахбану"
+    }
+  },
+  "lastrevid": 17551686,
+  "modified": "2025-09-17T10:26:45Z",
+  "ns": 860,
+  "pageid": 163900,
+  "sitelinks": {},
+  "title": "Item:Q135515",
+  "type": "item"
+}

@@ -1,0 +1,379 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Masistes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135388$342A6A82-09B5-46E2-8423-1B44EC4EA1D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737927"
+          },
+          "hash": "5f827b6f0cbcefe61253150aceff2da1b620f24d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135388$8FC07182-8E8A-4C57-BBEE-BE1D3794188F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135535",
+              "numeric-id": 135535
+            }
+          },
+          "hash": "9df5dfa7dfe0492ac0cb8c4a1163a60b150da460",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135388$ACA34484-D112-46FE-BCB4-6F42BDA9CCBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135388$4A475F5F-AC1D-4BA8-9218-44DC35198AA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135388$A12DFA35-6E6B-4EEE-A0F1-F8D274FF800B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135294",
+              "numeric-id": 135294
+            }
+          },
+          "hash": "dc4fa6684535ae1fc439e90b70b0cd8c6edd8e7d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135388$CBC83DC2-3BF9-4EAE-9FEF-44339509E238",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74246",
+              "numeric-id": 74246
+            }
+          },
+          "hash": "7d0585218ea5cfc1e632a783d85e9576bf4699b6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135388$8C608A41-FA10-4988-88A9-F7118BBC76F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135388$BA09E569-6FA4-46F4-9713-372E9D286050",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135388$F81EEFDC-078E-4CEB-8E68-DD0A3C324A66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0478-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8f4c6944adc384e242702e2c9d18b5a7d6b14cf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135388$D98F2B12-4FD7-42E2-97DA-61202B2881C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q539806"
+          },
+          "hash": "772906b45e9456794503e7d6adc0a94af7839ae9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135388$FE05D0BD-0128-43BD-8D15-FD4D0C199D28",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Masistes Arms.svg"
+          },
+          "hash": "149668d5b01283a082da624741e88f4723dfc273",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Sohn des Großkönigs Dareios I., Satrap von Baktrien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Persian prince (died c. 478 BC)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهزاده هخامنشی و ساتراپ باختر"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe persiano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q135388",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "الماسستيز"
+    },
+    "be": {
+      "language": "be",
+      "value": "Масіст"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Масыст"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Masistes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Masistes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μασίστης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Masistes"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Masistes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Masistes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Masistes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماسیشته (پسر داریوش بزرگ)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Masistès"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Masistes"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Masist"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մասիստես"
+    },
+    "it": {
+      "language": "it",
+      "value": "Masiste"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マシステス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Masistes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Masistes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Masistes"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Masist"
+    }
+  },
+  "lastrevid": 17551466,
+  "modified": "2025-09-17T10:23:33Z",
+  "ns": 860,
+  "pageid": 163773,
+  "sitelinks": {},
+  "title": "Item:Q135388",
+  "type": "item"
+}

@@ -1,0 +1,503 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Belshazzar"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135957$C4798F12-34C1-45A7-82E4-15080609CBF3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "451989"
+          },
+          "hash": "1b051ec1a738a805156e247c2f4f4c615d8ecc01",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135957$9C0A8D7B-1CBA-4D70-A494-41BF8599E846",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738398"
+          },
+          "hash": "30386ba16140c713698a9c223805ca89d59a22c8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135957$76EAB143-94AA-4FE3-AA1C-18DEC1BA0D34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136202",
+              "numeric-id": 136202
+            }
+          },
+          "hash": "2e33e5b57b44893f2d5e32828ec7423451c9e6bf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135957$A2BDA2AE-3DFE-4561-894E-8A04DDDA538D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135957$3638985C-4344-4E23-82E8-C0FD01010CC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135957$FE5DCBE6-CE82-4E84-87CF-E4BC5AA6A0BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135956",
+              "numeric-id": 135956
+            }
+          },
+          "hash": "e770a82a2f0720b411d2014dfda4941bc41ad7e9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135957$C31C5ACC-A658-433C-B1E8-D8BE438988CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135957$67AD7CAD-B7C6-44A8-ADDD-788EE4CDFD62",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0580-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d51126435c04f1250995a2c21a516e5874f13201",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135957$6287739B-9000-46FE-92F4-A5B8E1B88869",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0539-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19efb9af5f85f3e4c55402c1d9c8d6cb98117b1a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135957$B5118213-41C4-4694-86A3-0190A5D4618B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q225198"
+          },
+          "hash": "3f8436d406b8f6876dbc0838001b28c5cf7dfac5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135957$4C1C1D48-D3AE-4EE8-A513-0C58D2EECAB5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Belshazzar Arms.svg"
+          },
+          "hash": "71af8d0f097b9313cbcabe59176411e1b490124a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "babylonisk konge, optræder i Daniels Bog"
+    },
+    "de": {
+      "language": "de",
+      "value": "babylonischer Kronprinz; Sohn des Nabonid"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical king of Babylonia in the Book of Daniel"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje bíblico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Babylone"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מהתנ״ך"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Babilon társrégense"
+    },
+    "it": {
+      "language": "it",
+      "value": "re babilonese"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "바빌로니아 제국의 왕세자"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "laatste kroonprins van Babylonië"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "вавилонский царь, сын Набонида"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen Babil kralı (Daniel 5:1)"
+    }
+  },
+  "id": "Q135957",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بلشاصر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بلشاصر"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بلشاصر"
+    },
+    "be": {
+      "language": "be",
+      "value": "Валтасар"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Бальтазар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Балтазар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Baltasar"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bél-šar-usur"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Belsassar"
+    },
+    "da": {
+      "language": "da",
+      "value": "Belshassar"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bel-šarru-uṣur"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Belshazzar"
+    },
+    "en": {
+      "language": "en",
+      "value": "Belshazzar"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Belŝacaro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Belsasar"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Belsasar"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بلشاصر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Belsassar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Balthazar"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Béilseazar"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Pak-sâ-sat"
+    },
+    "he": {
+      "language": "he",
+      "value": "בלשאצר"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Belšazar"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Bél-sar-uszur"
+    },
+    "id": {
+      "language": "id",
+      "value": "Belsyazar"
+    },
+    "it": {
+      "language": "it",
+      "value": "Baldassar"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベルシャザル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "벨사살"
+    },
+    "la": {
+      "language": "la",
+      "value": "Balthasar"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Baltazaras"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Baltazars"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Baltazara (mpanjaka)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Belsassar"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Belsazar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Baltazar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Belsazar"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Belsazar"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Belșațar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Валтасар"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Belšazar"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Bél-šar-usur"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Belšazar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Belsassar"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பெல்சாட்சர்"
+    },
+    "th": {
+      "language": "th",
+      "value": "เบลชัสซาร์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Belshazzhar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Belşassar"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Валтасар"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Valtasar"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "伯沙撒"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伯沙撒"
+    }
+  },
+  "lastrevid": 17552355,
+  "modified": "2025-09-17T10:36:22Z",
+  "ns": 860,
+  "pageid": 164342,
+  "sitelinks": {},
+  "title": "Item:Q135957",
+  "type": "item"
+}

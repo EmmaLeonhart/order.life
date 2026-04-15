@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Protogeneia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q132519$B4CEDCE6-0DAB-4CB3-9A01-9DA53C2E8E6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132519$AD762EE2-2EBA-43E9-B2D9-086AB4C28636",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132519$E054820E-F693-44F4-B114-6068DDB25AE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132509",
+              "numeric-id": 132509
+            }
+          },
+          "hash": "81b5ff9a3bde7af1c8977874ac784aba5e5cc0bc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132519$ADB4A171-2CB8-436D-AA1E-B78BBF4B1F1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131272",
+              "numeric-id": 131272
+            }
+          },
+          "hash": "173265a888a5311446a8ae6d26e8e888be5861a4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132519$D3D86838-3309-45AA-9518-047DBA1EB537",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132519$478DE517-B9A8-4075-981F-D62AF08AA589",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4381823"
+          },
+          "hash": "6538cf7209316d707bab3ff9f1d8de369c30b616",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132519$4C4D26B4-519E-4041-ADF0-4BE6EE71C840",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Protogeneia Arms.svg"
+          },
+          "hash": "91bcb7b9b3a322155c9ccb15d2ffeae94d6ee3d5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filla d'Erecteu"
+    },
+    "en": {
+      "language": "en",
+      "value": "in Greek mythology, daughter of Erechtheus and Praxithea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fille d'Érechthée et de Praxithée"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Erekhtheusz lánya"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlia di Eretteo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, dochter van Erechtheus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "персонаж давньогрецької міфології"
+    }
+  },
+  "id": "Q132519",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Protogenia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Protogeneia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πρωτογένεια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Protogeneia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Protogénie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Protogeneia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Protogenia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Протогония"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Протогонія"
+    }
+  },
+  "lastrevid": 17545991,
+  "modified": "2025-09-17T09:06:07Z",
+  "ns": 860,
+  "pageid": 160904,
+  "sitelinks": {},
+  "title": "Item:Q132519",
+  "type": "item"
+}

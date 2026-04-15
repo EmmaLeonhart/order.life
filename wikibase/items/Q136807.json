@@ -1,0 +1,227 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Waroch II"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q136807$19B80CE4-784F-4D8D-8121-B872B370F027",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136497",
+              "numeric-id": 136497
+            }
+          },
+          "hash": "f27cb0bd261fc0bd4f613169032651f34e6775c0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136807$103FC10D-4A61-42AB-9B80-E9837341F409",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137224",
+              "numeric-id": 137224
+            }
+          },
+          "hash": "5f726f3fb506b87a85d687083b0267eaa233aa19",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136807$C6BE780E-A1DB-4482-A71F-AEC74679DCD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136807$E4863790-3328-4123-9E26-CFCFA2F57ACD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136807$30B99411-E1A9-473B-BF9B-5A02FA167078",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136807$084039FD-E118-4ADF-90FA-F8C0B7C8F309",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "057b4279045a572e3421699e1c1864ed499e0834",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136807$D749AE3E-D689-4D82-AC41-293FEAA728EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129955"
+          },
+          "hash": "2a4fef977cac9f5ad5becaae662cbdea653cfa75",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136807$D44B4A2B-D2C0-4610-97F1-0B5342845402",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Waroch II Arms.svg"
+          },
+          "hash": "7239dffe3786dd9f0e9577e0e5202d4ba290fa86",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fi": {
+      "language": "fi",
+      "value": "bretonien päällikkö"
+    }
+  },
+  "id": "Q136807",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Gwereg Iañ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Waroc'h I"
+    },
+    "en": {
+      "language": "en",
+      "value": "Waroch II"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Uueroc"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Waroch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ワロク1世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Waroch II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Waroch"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Waroch"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Waroch II"
+    }
+  },
+  "lastrevid": 17553691,
+  "modified": "2025-09-17T10:55:33Z",
+  "ns": 860,
+  "pageid": 165192,
+  "sitelinks": {},
+  "title": "Item:Q136807",
+  "type": "item"
+}

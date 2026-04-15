@@ -1,0 +1,349 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Meirchion"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136567$E9C78E11-A406-4522-A023-EE203C15332F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00773004"
+          },
+          "hash": "1c8bd5e103b82963f98347b4b1bac2b562cf62c3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136567$21EA12CE-C10B-4050-A151-161710BC2F4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136892",
+              "numeric-id": 136892
+            }
+          },
+          "hash": "9a4905012c4172c349a06b8b9ce777043209accc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136567$70944653-1095-4CE1-91C3-26880499AC5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136893",
+              "numeric-id": 136893
+            }
+          },
+          "hash": "858ffdc7aa8810b78d712e92eda1b2eb61085821",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136567$63AA5840-3FE8-4719-9EFB-FD385023B970",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136567$79F8E034-F480-4981-97B6-E60CADC882CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136567$0FDEC95F-9584-48E6-90C2-34F1567D71C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136498",
+              "numeric-id": 136498
+            }
+          },
+          "hash": "36ac9abe798a6523c1f6df2b06ac420ea5f4ff64",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136567$8B33D772-5317-407F-88BF-5022B50D60C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136567$0B113CAD-A342-4364-AEDF-746159C6C893",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0430-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8ba76d4843b6ca423f5ea21ad26840216963d41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136567$D652E6D9-17A4-438F-833C-8E74ADFD6FD2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0500-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "315418839ff41cee04673bd320874f87644f62af",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136567$80071FFA-D5CD-4E01-AF4F-DA6F4DA197F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3855161"
+          },
+          "hash": "52370c8dd1d631e9c44b3839214ca12bb579086e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136567$CDE13E21-4EB3-4C41-BED8-975C622E1430",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Meirchion Arms.svg"
+          },
+          "hash": "6a098734de7b23562bd7c0baa773df0fef19e00d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu galés (430–500)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "sofran Cymreig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh sovereign"
+    },
+    "es": {
+      "language": "es",
+      "value": "Soberano de Gales"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano gallese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Wales"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Galler mitolojisinde efsanevi kral"
+    }
+  },
+  "id": "Q136567",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Merion"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Meirchion"
+    },
+    "da": {
+      "language": "da",
+      "value": "Meirchion"
+    },
+    "en": {
+      "language": "en",
+      "value": "Meirchion"
+    },
+    "es": {
+      "language": "es",
+      "value": "Meirchion"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Merion"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Meirchion"
+    },
+    "he": {
+      "language": "he",
+      "value": "מריון"
+    },
+    "it": {
+      "language": "it",
+      "value": "Merion"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "メリオン"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Merion ap Constantin"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Meirchion"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Merion"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Meirchion"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мерион ап Константин"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Merion"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Meirchion"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Merion"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Меріон"
+    }
+  },
+  "lastrevid": 17553311,
+  "modified": "2025-09-17T10:50:08Z",
+  "ns": 860,
+  "pageid": 164952,
+  "sitelinks": {},
+  "title": "Item:Q136567",
+  "type": "item"
+}

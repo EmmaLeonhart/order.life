@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bran Hen ap Dyfnwal"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136517$99CDC25E-B63F-42CF-A51D-4D5C5397D86D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136517$9E306F46-7398-4DF7-B794-D00F72FA5802",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136517$4CD550C7-738E-4CE2-9193-AE8EC7443974",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136256",
+              "numeric-id": 136256
+            }
+          },
+          "hash": "03773707230f22c1d6366702724583c1e4591b59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136517$DE9884CD-5BD1-4288-A140-53678EC78F54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136517$BB37A031-D3AB-4DC5-80A3-353A8201BE10",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0485-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d370f25ef7cb170804ae635524e1ff67e4aa5d10",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136517$0F412E5E-B209-4494-972D-FE0180B62919",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3643598"
+          },
+          "hash": "17e42d2dd5cea83d258e9b1b3dbe6f0edc657113",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136517$1F1E4D7E-2859-4C4D-8B1F-D0209088F76D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bran Hen ap Dyfnwal Arms.svg"
+          },
+          "hash": "4b07cc87aad2c85a4f70dee589c6e9708b60cfda",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(485- )"
+    },
+    "en": {
+      "language": "en",
+      "value": "(485- )"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Бринейха с 510 года"
+    }
+  },
+  "id": "Q136517",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Bran Hen"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Bran Hen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bran Hen ap Dyfnwal"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bran Hen ap Dyfnwal"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bran Hen ap Dyfnwal"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bran Hen ap Dyfnwal"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бран Старый"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Бран Старий"
+    }
+  },
+  "lastrevid": 17553213,
+  "modified": "2025-09-17T10:48:45Z",
+  "ns": 860,
+  "pageid": 164902,
+  "sitelinks": {},
+  "title": "Item:Q136517",
+  "type": "item"
+}

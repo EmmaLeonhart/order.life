@@ -1,0 +1,333 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mentor of Rhodes"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135440$E1C466F1-7D7B-463D-87B3-3CDDABEF07FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135585",
+              "numeric-id": 135585
+            }
+          },
+          "hash": "1c09692180ab1aea9d88a013ba715afef369014b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135440$809CF607-3424-45EC-834B-8EA03EC8717A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135440$BE827835-30DD-4A19-ACA0-2A109FE3B274",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135440$AD0DC5E2-9DFC-47B2-8FED-7355CFD01101",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135326",
+              "numeric-id": 135326
+            }
+          },
+          "hash": "b96434f00d742e9f886d99fe07a711ddf65454e9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135440$494C6610-6547-4E05-95F4-E56EF94218FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135440$8D283D7E-F619-447B-9AB7-397D119D4453",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0380-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f0777a3baecbea86d2cdd7a39e2cd90f2f37118c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135440$4C144D58-AD6D-4D15-9044-A2CB4B136526",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0340-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7dc9fe5afbfc22dba7972bcbd52193054be203ac",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135440$8EB47CCB-3308-4A28-8BF3-7A2725C62686",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q553304"
+          },
+          "hash": "c776300cfe18ed5cb6ca543df8d94bc1fb461410",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135440$667F171E-B45C-41AE-A00D-C1B2A048FF79",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mentor of Rhodes Arms.svg"
+          },
+          "hash": "8a50fcce236c2315ad9f1fa9edefd822038f07a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "griechischer Söldner und Feldherr in persischen Diensten"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρχαίος Έλληνας στρατιωτικός, στην υπηρεσία των Περσών"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th-century BC Greek soldier and mercenary"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "MÖ 4. yüzyılda yaşamış Yunan askeri ve paralı asker"
+    }
+  },
+  "id": "Q135440",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Ментар Родаскі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ментор Родоски"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mèntor de Rodes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mentor von Rhodos"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Mentor von Rhodos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μέντωρ ο Ρόδιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mentor of Rhodes"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Mentor of Rhodes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Mentor of Rhodes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mentor de Rodas"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "منتور"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mentor de Rhodes"
+    },
+    "he": {
+      "language": "he",
+      "value": "מנטור מרודוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mentor sa Rodosa"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mentor dari Rhodes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mentore di Rodi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロドスのメントル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로도스의 멘토르"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mentor van Rhodos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ментор Родосский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mentor sa Rodosa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Rodoslu Mentor"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "羅德島的門托耳"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗德岛的门托耳"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "羅德島的門托耳"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "羅德島的門托耳"
+    }
+  },
+  "lastrevid": 17551568,
+  "modified": "2025-09-17T10:25:02Z",
+  "ns": 860,
+  "pageid": 163825,
+  "sitelinks": {},
+  "title": "Item:Q135440",
+  "type": "item"
+}

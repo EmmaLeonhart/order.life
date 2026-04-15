@@ -1,0 +1,741 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isaiah"
+      },
+      {
+        "language": "en",
+        "value": "Isaiah The Prophet"
+      },
+      {
+        "language": "en",
+        "value": "Isaiah  The Prophet"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135068$FE136C9B-3B5E-49C2-BE1D-8676CB34ACD5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "174165"
+          },
+          "hash": "fc3e11d263136a6ffbaa940f722252e21aafccd8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135068$5A4307F7-3504-432C-815C-4683CBEDB578",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135095",
+              "numeric-id": 135095
+            }
+          },
+          "hash": "20639a45ad39dc217be946cc8994a1c67ed3618b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135068$B501F9B6-40A1-4EE0-A3B2-B1C16F2F3A6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135094",
+              "numeric-id": 135094
+            }
+          },
+          "hash": "00b519df1e3a7fc0712f9876749fe2df8ff691fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135068$64195946-D151-44C9-A571-778B2CF68C34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4633",
+              "numeric-id": 4633
+            }
+          },
+          "hash": "b846acc669b7a2af546c614510d83064b91f563c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135068$2D28AC7B-F6E1-4D5F-8A39-91B84E153B13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135068$1A3DAAA7-CC39-4CDD-9D6F-AE356348AC41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135068$92700673-E4E7-4C48-9388-BB4BCDB6B344",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38078",
+              "numeric-id": 38078
+            }
+          },
+          "hash": "34ab9dfa1900cdeba8de0f72c873b7d9df3fcfe0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135068$4EA2461C-1244-47F5-9C6B-D8DDBF3D8D87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135068$06493BDD-C753-4BBA-9505-067110BCE255",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0766-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "249af75fafa7f4197358e987af536cf5c7d7b39e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135068$E19E8F6F-4973-47CC-84FA-6E803B43FE80",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0686-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d92510d81d475ff01009457834817ab4d21c444f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135068$B3E7C60A-8B30-4279-B77D-BE1876A0C3FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q188794"
+          },
+          "hash": "737788e502e8cffa692ece88ca8be8c027ecfd0a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135068$3EDE0211-4456-4097-9C16-4F53FD5FF589",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isaiah Arms.svg"
+          },
+          "hash": "e4a033188d5d1678e504cb22f25611dccd7d9db2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q135068$5FCAAD84-756C-4164-9D97-DAA0FE8D6EF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/d32f1972-55ff-45cf-b233-28e9d481e3d9"
+          },
+          "hash": "b3cf71e7d95b2532a3768651ceadbe1adc4a98b8",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "من أنبياء بني إسرائيل"
+    },
+    "az": {
+      "language": "az",
+      "value": "e.ə. VIII əsrdə yaşamış yəhudi peyğəmbər"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "profeta de l'Antic Testament"
+    },
+    "da": {
+      "language": "da",
+      "value": "profet i Det Gamle Testamente"
+    },
+    "de": {
+      "language": "de",
+      "value": "Biblischer Prophet"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical character"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "biblia profeto"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje bíblico"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پیامبر یهود"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "fáidh sa Bhíobla"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "profeta hebreo do Antigo Testamento"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית. נביא שפעל בממלכת יהודה באמצע תקופת בית ראשון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "júdeai próféta, a bibliai Ézsaiás könyve fő alakja"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "եսայի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Nabi Israel"
+    },
+    "it": {
+      "language": "it",
+      "value": "profeta biblico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "旧約聖書の人物"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "유다 왕국에서 활동했던 예언자"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "библиски пророк"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Israelittisk profet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bijbelse profeet"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "prorok starotestamentalny"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "profeta hebreu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "personagem bíblico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский пророк"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li sewi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen, İşaya Kitabı'nın atfedildiği peygamber"
+    }
+  },
+  "id": "Q135068",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "إشعياء"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܐܫܥܝܐ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اشعياء"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Isaías"
+    },
+    "az": {
+      "language": "az",
+      "value": "Yeşua"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ісайя"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ісая"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Исая"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཡེ་ཤ་ཡཱ།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Yeshaia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Isaïes"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Izajáš"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Eseia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Profeten Esajas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jesaja"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ησαΐας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Isaiah"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jesaja"
+    },
+    "es": {
+      "language": "es",
+      "value": "Isaías"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jesaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Isaias"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اشعیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jesaja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Isaïe"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Íseáia"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Isaías"
+    },
+    "guw": {
+      "language": "guw",
+      "value": "Isaia"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Annabi Ishaq"
+    },
+    "he": {
+      "language": "he",
+      "value": "ישעיהו"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "यशयाह"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Izaija"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ézsaiás próféta"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Եսայի մարգարե"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Isaiah"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yesaya"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Aịsaịa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Isaia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イザヤ"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Yésaya"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ესაია წინასწარმეტყველი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이사야"
+    },
+    "la": {
+      "language": "la",
+      "value": "Isaias"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Izaijas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Jesaja"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Isaïe"
+    },
+    "mi": {
+      "language": "mi",
+      "value": "Īhāia"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Исаија"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Yesaya"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jesaja"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jesaja"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Isaïas"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Izajasz"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "یسعیاہ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Isaías"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Isaías"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Isaia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Исаия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Izaija"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Izaiáš"
+    },
+    "sn": {
+      "language": "sn",
+      "value": "Isaya"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Исаија"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Исаија"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Isaija"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Jesaja"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Nabii Isaya"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஏசாயா"
+    },
+    "th": {
+      "language": "th",
+      "value": "อิสยาห์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Isaias"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Jesajaju"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İşaya"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Yesaia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ісая"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یسعیاہ"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Isaiah"
+    },
+    "war": {
+      "language": "war",
+      "value": "Isaias"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "以赛亚"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "ישעיהו"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "以賽亞"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "以賽亞"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "以赛亚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "以赛亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "以賽亞"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "以賽亞"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "以赛亚"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "以賽亞"
+    }
+  },
+  "lastrevid": 17550904,
+  "modified": "2025-09-17T10:15:34Z",
+  "ns": 860,
+  "pageid": 163453,
+  "sitelinks": {},
+  "title": "Item:Q135068",
+  "type": "item"
+}

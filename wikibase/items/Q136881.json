@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peredur"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q136881$4EB54583-FE5A-451D-B60D-74AB9C50D433",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137283",
+              "numeric-id": 137283
+            }
+          },
+          "hash": "d4b3337830a3d9da81846bc35468c94bccbe4371",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136881$13EE02F6-129C-48CA-9915-03682B7342C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136881$9C4FBE10-9250-4583-948E-4592D4FAD5D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136881$97E2D5CC-E8EB-4265-A13F-2C12C18F682F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136552",
+              "numeric-id": 136552
+            }
+          },
+          "hash": "e18ad287f44a2b95b9bd3685be6a9817d03ea36b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136881$70D225B5-0883-4206-8869-F6A13707D57A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136881$4E5E73F5-F264-4159-AEC0-ECF86329FD22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0580-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32c1311eacdbfdee03aff192260b5e23ddb3fb21",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136881$8EDABA62-A35C-4ED3-87C2-248BCB8E9F5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1271354"
+          },
+          "hash": "2394d2e7688a926a734922a845fd904b25a48260",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136881$B89A78AA-6EBF-418D-93EE-B69EBA1EC7ED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peredur Arms.svg"
+          },
+          "hash": "09b1ccc1ad7beb22937f99284d2809302430008e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "male name from historical sub-Roman Britain"
+    },
+    "es": {
+      "language": "es",
+      "value": "nombre de varios personajes reales y mitológicos de la Britania posromana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "nom de plusieurs personnages mi-historiques mi-légendaires de la Bretagne post-romaine"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "последний правитель бриттского королевства Эбрук"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "hjälte i keltisk mytologi"
+    }
+  },
+  "id": "Q136881",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Peredur"
+    },
+    "es": {
+      "language": "es",
+      "value": "Peredur"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Peredur mab Eliffer"
+    },
+    "it": {
+      "language": "it",
+      "value": "Peredur"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペレディル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Peredurus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Peredur"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Peredur"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Передир ап Элифер"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Peredur"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Peredur"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Peredur"
+    }
+  },
+  "lastrevid": 17553825,
+  "modified": "2025-09-17T10:57:27Z",
+  "ns": 860,
+  "pageid": 165266,
+  "sitelinks": {},
+  "title": "Item:Q136881",
+  "type": "item"
+}

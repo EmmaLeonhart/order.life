@@ -1,0 +1,532 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus IX Cyzicenus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136149$43A4836B-6623-44A7-B76B-889098EDE834",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567212"
+          },
+          "hash": "bc0762fdafbcc71b3c9a64b45eecb91c59e3db64",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136149$5967FCED-FA06-4F7B-884D-E1DCA1C0DEA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136160",
+              "numeric-id": 136160
+            }
+          },
+          "hash": "cd560f90c0598ca9614dbf71f7154b2c06cbe68c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136149$CF8B5E14-CE5C-48A2-AF08-78E383DF7151",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136149$41343205-574F-4D79-84D1-DBACB6A490DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136149$BD53AB2D-9C89-4AA9-8B17-94398870D9A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus_IX_Cyzicenus_(1)"
+          },
+          "hash": "a9a363ef7fa9b0b2f9ed157b1ff03b14a21a320e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136149$C121D643-AEEC-44DD-BA68-AF9977545262",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78402",
+              "numeric-id": 78402
+            }
+          },
+          "hash": "bf4a11d6f466d4c7758139353f0ccc1656f68192",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136149$98701D68-1BA2-4781-8ACD-5C768BA1D47C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135922",
+              "numeric-id": 135922
+            }
+          },
+          "hash": "34150bf05a3f1ea443efd9d4fbba9f87fc08c1a1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136149$ED2EB5E2-B3D0-44E1-AA41-F3BC0F865656",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136148",
+              "numeric-id": 136148
+            }
+          },
+          "hash": "97c8eba7f9a6f611a2bf17f497b75488c326a936",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136149$31B87EC0-7AE1-4073-90FD-742BF92F8F15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73044",
+              "numeric-id": 73044
+            }
+          },
+          "hash": "3165c719074b77ab694d85cca2204af61baf9f05",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136149$68341376-2EAE-41B9-B541-5EF86A801B97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136149$A37CBE13-3947-41C9-9C02-0AC4A12E4C6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0135-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "46f51b1d38806944ce8585820f6f284715dcf64f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136149$2D6DC4F6-4E6E-48A1-9186-948D133B2155",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0095-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c7be5aef3867565b97edf2a440bad9771bc06fd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136149$94C1EB70-6409-43F3-912C-269934A7CC47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q296446"
+          },
+          "hash": "b8988be81a278d2d70a2429fe3fb09298623bb35",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136149$FA1DFD73-7874-4339-9626-6190C9E904F5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus IX Cyzicenus Arms.svg"
+          },
+          "hash": "b73e185e44bde3002e5f4b36bdeb7abc4f69ce17",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei de l'imperi Selèucida"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des Seleukidenreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "ruler of the Hellenistic Seleucid kingdom"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Siria (114 a. C.-96 a. C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 116-96 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Seleucidische rijk (134 VC-094 VC)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "правитель держави Селевкідів"
+    }
+  },
+  "id": "Q136149",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس التاسع"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس التاسع"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "دوْکوزونجو آنتیوخوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх IX Кізікскі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох IX Кизикен"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc IX de Cízic"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 9. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos IX."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος Θ΄ Κυζικηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus IX Cyzicenus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Antioĥo la 9-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco IX Eusebio"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko IX.a Eusebio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس نهم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos IX Kyzikenos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos IX"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aintíochas IX Cyzicenus"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Άντίοχος Κυζικηνός"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס התשיעי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IX. Antiokhosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos IX Kyzikinos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco IX"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス9世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티오코스 9세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus IX Cyzicenus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos IX Cyzicenus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus IX Cyzicenus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Antiokos IX Cyzicenus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch IX Kyzikenos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco IX de Cízico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco IX de Cízico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох IX Кизикский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh IX Kiziken"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antiochus IX Cyzicenus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох IX Кизички"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Антиох IX Кизички"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Antioh IX Kizički"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos IX"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IX. Antiokus Kizikonus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох IX Кізікський"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos IX Cyzicenos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安条克九世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安条克九世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克九世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克九世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安條克九世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安条克九世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安條克九世"
+    }
+  },
+  "lastrevid": 17552649,
+  "modified": "2025-09-17T10:40:32Z",
+  "ns": 860,
+  "pageid": 164534,
+  "sitelinks": {},
+  "title": "Item:Q136149",
+  "type": "item"
+}

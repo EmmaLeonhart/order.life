@@ -1,0 +1,514 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Acrisius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q133796$3BD51DD2-E4E5-4792-850C-878EFA29904D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32451"
+          },
+          "hash": "24e8e1b3e92abfaef242a00716eb6500e9c088d0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q133796$8E0DBDA4-02D5-4C83-A8A3-D9C523757F32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132821",
+              "numeric-id": 132821
+            }
+          },
+          "hash": "e8ac0cd51255ff6b30bb2d55ff715584ae638921",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133796$CA3A6BCE-B71B-4B57-9DC9-2E7C33DDFB6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133388",
+              "numeric-id": 133388
+            }
+          },
+          "hash": "c7e89c3874fd244ac2f91a980f60620c4903c95c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q133796$66EEDC01-2A3C-49FA-BBA8-B38EC29256E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133796$6D57D89F-ED2D-4486-9AC3-58CFA3460678",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q133796$5945017F-2284-45D5-B709-A207FCCA3039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132443",
+              "numeric-id": 132443
+            }
+          },
+          "hash": "7c375ee8eb4578803de4266b081b40d8277d847c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133796$8CF9AC65-CB0A-4D70-87EF-1941B3F2FB37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134452",
+              "numeric-id": 134452
+            }
+          },
+          "hash": "c6c5c7322431a4e1d604ca349bee829c4d0afe08",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q133796$9C21E125-2215-431C-A442-24D6C885276E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134359",
+              "numeric-id": 134359
+            }
+          },
+          "hash": "debe00f2c2437b8f7296c13c8a0c0b7eac3457bc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q133796$DB7CEE5D-6C4C-40CD-B37C-AED2AED1E740",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134004",
+              "numeric-id": 134004
+            }
+          },
+          "hash": "e1e6ab97cb74dac8e630de4fcb8df65a8217745d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q133796$C88D47F8-E472-4A44-BA11-22571AAC48F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q133796$D8F1D2D6-361A-49CE-A8D1-D6CBBCB01592",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q208017"
+          },
+          "hash": "4e3665dc3b035e447b144054e56389cef471ca79",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q133796$3139BD62-A777-4C98-A54F-7FA989863597",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Acrisius Arms.svg"
+          },
+          "hash": "41e4a5151dee98039b43b7e9ef44b2c807240ef3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "mytologisk konge i antikkens Grækenland"
+    },
+    "de": {
+      "language": "de",
+      "value": "König der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek mythical king of Argos"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la mitología griega"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "personaxe da mitoloxía grega"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, argoszi király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Argo nella mitologia greca, padre di Danae"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, zoon van Abas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Arga v grški mitologiji"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Argos inom grekisk mytologi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi Arhos kralı"
+    }
+  },
+  "id": "Q133796",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أكريسيوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Акрысій"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Акрисий"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আক্রিসিউস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Akrisios"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Acrísios"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Akrisios"
+    },
+    "da": {
+      "language": "da",
+      "value": "Akrisios"
+    },
+    "de": {
+      "language": "de",
+      "value": "Akrisios"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ακρίσιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Acrisius"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Akrisio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Acrisio"
+    },
+    "et": {
+      "language": "et",
+      "value": "Akrisios"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Akrisio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آکریسیوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Akrisios"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Acrisios"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Acraiséas"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Acrisio"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀκρίσιος"
+    },
+    "he": {
+      "language": "he",
+      "value": "אקריסיוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Akrisziosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ակրիսոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Acrisio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アクリシオス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აკრისიოსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아크리시오스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Akrîsios"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Akrîsios"
+    },
+    "la": {
+      "language": "la",
+      "value": "Acrisius"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Akrisijas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Akrisios"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Akrisios"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Akrizjos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Acrísio"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Acrisios"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акрисий"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Acrisius"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Akrisije"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Akrisios"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Akrizij"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Акрисије"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Акрисије"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Akrisije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Akrisios"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Acrisius"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Akrisios"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Акрісій"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞克里西俄斯"
+    }
+  },
+  "lastrevid": 17548468,
+  "modified": "2025-09-17T09:40:49Z",
+  "ns": 860,
+  "pageid": 162181,
+  "sitelinks": {},
+  "title": "Item:Q133796",
+  "type": "item"
+}

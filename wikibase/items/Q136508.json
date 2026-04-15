@@ -1,0 +1,376 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eutropia"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q136508$8A90916D-5BEC-41EE-9239-3931C2B3095E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136821",
+              "numeric-id": 136821
+            }
+          },
+          "hash": "b3a8651a1134a79f36db74661d306ed4fcf6a50c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136508$8884439F-7F36-4CBC-93E1-5D42F13609AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136508$2D6DC343-42AD-46A7-831D-7A9EC8BAA57F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136508$A01B33D6-C7F9-421D-8240-65E81328F8FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eutropia_(princess)_(1)"
+          },
+          "hash": "0f6e262e5e1bb47f815b290450771d8942e26c20",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136508$126C147B-DB17-4A57-8E98-71886D82F4D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136820",
+              "numeric-id": 136820
+            }
+          },
+          "hash": "509506440da690c283e93ea68315d468b27c27a9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136508$AA6E9864-EBDB-4DDE-BA02-1BDE102756C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61565",
+              "numeric-id": 61565
+            }
+          },
+          "hash": "81021638d06805c674c2e89ce7714fd52ffc0abd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136508$A9DC6863-C6D9-401B-A49D-9EC2F237B95C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61532",
+              "numeric-id": 61532
+            }
+          },
+          "hash": "132b0b1ef268ca472609c37a57e93b3e662e7537",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136508$EC212064-A082-47AB-B5AC-38DF0D79C436",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136508$A4D5D1FC-72B5-4A9A-B0EA-EF4D55B25A7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0350-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e8b1768681843794740f348371f341f56b10252",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136508$7B179B82-E847-4B3D-9F7A-8B7A9816AE24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q291738"
+          },
+          "hash": "b0954744259c723e655c5b527d8f01284a8ce817",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136508$2157AC50-3411-4515-96E3-6F794DFC4F0B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eutropia Arms.svg"
+          },
+          "hash": "378e058f72ff229ad7ab73ef62720bc9db551553",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "дъщеря на Констанций I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "filla de Constanci I Clor"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "merch Constantius Chlorus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter Constantius' I."
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Constantius Chlorus"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Constancio I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Constance I"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Costanzo I"
+    },
+    "la": {
+      "language": "la",
+      "value": "filia Constantii I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dochter van Constantius I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "córka Konstancjusza I."
+    }
+  },
+  "id": "Q136508",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أوتروبيا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Евтропия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eutròpia"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Eutropia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eutropia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ευτροπία η Νεότερη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eutropia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eutropia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Eutropia (Konstantino I.aren arreba)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اوتروپیا (خواهر کنستانتین بزرگ)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eutropia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eutropia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eutropia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エウトロピア"
+    },
+    "la": {
+      "language": "la",
+      "value": "Eutropia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eutropia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Eutropia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Eutrópia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Eutrópia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Евтропия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Eutropija"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Еутропија"
+    }
+  },
+  "lastrevid": 17553203,
+  "modified": "2025-09-17T10:48:35Z",
+  "ns": 860,
+  "pageid": 164893,
+  "sitelinks": {},
+  "title": "Item:Q136508",
+  "type": "item"
+}

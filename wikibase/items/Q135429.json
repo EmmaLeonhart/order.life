@@ -1,0 +1,320 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Halfdan the Valiant"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135429$4A408DB3-3E4F-4D9A-8AB4-FEE6B8F7920A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "323121"
+          },
+          "hash": "85dbcbeb4a392ed5eafacda10989b026ea384107",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135429$5B0236E5-CE9E-489E-AFDB-97444FE01620",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123835",
+              "numeric-id": 123835
+            }
+          },
+          "hash": "cd3121aeae186523aafba7c7c2ee1e646611a2e8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135429$7025CD92-FF05-4921-BFA8-7C0884E26E56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135429$FE87BC73-B17E-43EB-92AE-DF4FC6413656",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135429$5255CD75-8AF3-44E3-8405-EC90F628D088",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Halfdan_the_Valiant_(1)"
+          },
+          "hash": "9bb039351c8a40d9d4941936490d0e6c48092b5e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135429$80041971-B1A7-40FA-80A6-5F51410DED45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135571",
+              "numeric-id": 135571
+            }
+          },
+          "hash": "934102141482e0a33a12225c5397e6539de8de09",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135429$37947D15-3184-4319-B652-9F936AE33AFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135429$A455AACA-1FB0-4353-B172-67565F5CEFC8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0590-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f80f50c8576542dd2fe73f6985fea57ff54c7b1d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135429$78A54C3C-4A8C-4A34-AD93-184A4EDAC74E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5022f751a0b569b0d23b4b6d417dfd9b96f27c1f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135429$0F4D38CD-244B-4AF8-9D63-6A42B780BE1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1421647"
+          },
+          "hash": "53591015ef03eb89f269d6870d561e01bafb12c5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135429$29FA23CE-C8E5-4682-B861-90D8940FE18D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5604954309240087415"
+          },
+          "hash": "4f3f960a8f33342e61e0989c73c8db20597fac9d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135429$A8D4EEDD-0377-48B8-8B76-3671F132446C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Halfdan the Valiant Arms.svg"
+          },
+          "hash": "063d439a5e35522fb8395c44a0c0c85a716f5596",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "sagnprins over Skåne"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary Scanian prince"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "mytisk svensk konge"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "skånsk sagokung"
+    }
+  },
+  "id": "Q135429",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Халвдан Храбрия"
+    },
+    "da": {
+      "language": "da",
+      "value": "Halfdan Snialli"
+    },
+    "en": {
+      "language": "en",
+      "value": "Halfdan the Valiant"
+    },
+    "es": {
+      "language": "es",
+      "value": "Halfdan el Valiente"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Halfdan le Vaillant"
+    },
+    "it": {
+      "language": "it",
+      "value": "Halfdan il Valoroso"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Halvdan den snille"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Halfdan the Valiant"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хальвдан Храбрый"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Halvdan snälle"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гальфдан Сміливий"
+    }
+  },
+  "lastrevid": 17551546,
+  "modified": "2025-09-17T10:24:43Z",
+  "ns": 860,
+  "pageid": 163814,
+  "sitelinks": {},
+  "title": "Item:Q135429",
+  "type": "item"
+}

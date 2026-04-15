@@ -1,0 +1,733 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Βερενίκη"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Berenice"
+      },
+      {
+        "language": "en",
+        "value": "Βερενίκη"
+      },
+      {
+        "language": "en",
+        "value": "Berenice I of Egypt"
+      },
+      {
+        "language": "en",
+        "value": "Berenice I, Queen of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73728$7DD9DF58-EB46-44BD-8239-5C9375C48579",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351148"
+          },
+          "hash": "0fdf33aa62c4a26728de8d40297d031ea2cdf6a4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73728$9BB0D64E-ED49-4ADB-A6E7-11358D0FDB01",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567222"
+          },
+          "hash": "423ad451f208bb89e72d4194554b2aaec6b4ccea",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73728$E007264D-47E1-40C5-A948-CDAD363A7964",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73614",
+              "numeric-id": 73614
+            }
+          },
+          "hash": "51b33b4b4ddd03f08dd3143979f35cf626f3f932",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$5FB6985B-5A92-425A-A97A-C89F84F14FA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73617",
+              "numeric-id": 73617
+            }
+          },
+          "hash": "4f1c012998e1715372c68792bb65dd092edf389a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$D052CBA7-0197-460E-B612-AF95CAD59A48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135256",
+              "numeric-id": 135256
+            }
+          },
+          "hash": "153bd76ab49a29f4363398cb9a1f8ba657ac463e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$FF499F95-6B1A-4C46-B285-FF3F3EC12722",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135261",
+              "numeric-id": 135261
+            }
+          },
+          "hash": "59c5c70754c1b90a7657a7eec21a2c052809f52c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$C1A6A33D-1B89-4AA6-90D8-5A47E7ABAE94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135333",
+              "numeric-id": 135333
+            }
+          },
+          "hash": "a987355e3db9dba85694d8d454dd58f0ecb7a484",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$E91C11A1-40A8-4697-9AFB-965D2DC2E631",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135334",
+              "numeric-id": 135334
+            }
+          },
+          "hash": "08e9b3d0f559240cc4d674bf92359922eb4d3a94",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$460FE049-ABBA-4D50-8D22-7E9C6504B325",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165604",
+              "numeric-id": 165604
+            }
+          },
+          "hash": "359a2a4e5a35f62fd75e4f615d706488cff8dcc1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$0A2F3F29-E7CB-49CF-9CCD-B860F2A8BE7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165605",
+              "numeric-id": 165605
+            }
+          },
+          "hash": "bd5b5e808f376aa6ce3d7aff38c23b284f16e2b0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$310DF13E-394E-47C0-A59D-BB02D385DAFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165606",
+              "numeric-id": 165606
+            }
+          },
+          "hash": "b39403d10aac29d0c4b24b3e201231f16bae13b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$1D007965-6998-471F-97F3-9B5634CF9869",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165607",
+              "numeric-id": 165607
+            }
+          },
+          "hash": "c0258f048ba24d2831e50c237c0461c99c04ac7d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73728$1F8DB942-D1EC-49D9-931C-B4EF0B875EF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$9878E62F-8970-4C90-9A20-6A42FA1C167A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73728$4703912D-2C46-4196-8FC8-4A1452EBD3DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73731",
+              "numeric-id": 73731
+            }
+          },
+          "hash": "e2613badf82526e37503df8e51902b566a786a54",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73728$FD7DBF5B-905F-468B-BD5F-A806893BF110",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30453",
+              "numeric-id": 30453
+            }
+          },
+          "hash": "631dca0aeefcb0faa061c5b28135603c85d5e36d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73728$3225B024-E4CA-459E-A819-04FCA064B62B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73833",
+              "numeric-id": 73833
+            }
+          },
+          "hash": "e4d6bb742aab7c03c651d824b91491299da8e70a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73728$FFD1C12A-E76F-4DDA-914F-4590DCEE0EA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73836",
+              "numeric-id": 73836
+            }
+          },
+          "hash": "1c10ebf51fde578808a05b89cf2cc6aa51dab614",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73728$D810C981-BF26-49F3-AE81-7D22F5D64875",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73728$6607F111-9787-4ADC-984E-0A5E36923C31",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0340-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "43b734e7d13a6e02736c530b848bef78a5d507a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73728$AD678AA8-1931-4406-852E-9A5569088E04",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q39962"
+          },
+          "hash": "ba1060643e0313305701a621f74a51860d10ba73",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73728$72F527D3-19C6-4DF6-8D3F-AEDCA738079D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001355636606"
+          },
+          "hash": "6c0ec4f6ab10c4ad8d4b86c69f98cddb357f314f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73728$36085D59-C043-4A2C-8A94-82612F32EF51",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Berenice I of Egypt Arms.svg"
+          },
+          "hash": "a27212402d229c85b6f730f9a00b73a0ef0819ae",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "ملكه مصريه من البطالمه"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "египетска царица от гръцки произход"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "reina consort d'Egipte"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mutter des Königs Magas von Kyrene"
+    },
+    "en": {
+      "language": "en",
+      "value": "Egyptian queen consort"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "edzino de faraono de Egiptio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine consort d'Égypte"
+    },
+    "he": {
+      "language": "he",
+      "value": "אצילה ממקדוניה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida királyné"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina egiziana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Egyptische koningin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царица Египта"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цариця Єгипту"
+    }
+  },
+  "id": "Q73728",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "برنيكي الأولى"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "برنيكى الاولانيه"
+    },
+    "be": {
+      "language": "be",
+      "value": "Бераніка I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Береника I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Berenice I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bereníké"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Береника I"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Berenice I o'r Aipht"
+    },
+    "de": {
+      "language": "de",
+      "value": "Berenike I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βερενίκη Α΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berenice I of Egypt"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Berenico de Egipto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Berenice I de Egipto"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Berenize I.a Egiptokoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "برنیکه یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Berenike I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bérénice Ire"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Berenice I na hÉigipte"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Βερενίκη Α΄"
+    },
+    "he": {
+      "language": "he",
+      "value": "ברניקי הראשונה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Berenika I. Egipatska"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Bereniké"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բերենիկե I"
+    },
+    "id": {
+      "language": "id",
+      "value": "Berenike I dari Mesir"
+    },
+    "it": {
+      "language": "it",
+      "value": "Berenice I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベレニケ1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბერენიკა I"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Berenîkê I ya Misirê"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Berenîkê I ya Misirê"
+    },
+    "la": {
+      "language": "la",
+      "value": "Berenice I"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Berenike I av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Berenice I"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Berenike I av Egypt"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Berenika I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Berenice I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Berenice I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Береника I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Berenika I od Egipta"
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තුවේ Iවන බෙරෙනිස්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Berenika I."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Береника I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Berenike I"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Berenice I"
+    },
+    "th": {
+      "language": "th",
+      "value": "เบเรนิซที่ 1"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Береніка I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Berenice I của Ai Cập"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "贝勒尼基一世"
+    }
+  },
+  "lastrevid": 17486514,
+  "modified": "2025-09-16T18:50:12Z",
+  "ns": 860,
+  "pageid": 88559,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73728",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73728"
+    }
+  },
+  "title": "Item:Q73728",
+  "type": "item"
+}

@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hystaspes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135391$DD66577F-26C1-4DD2-B0F4-93533762BD94",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00786248"
+          },
+          "hash": "4919cbfdff8f10c692c32d6a41c65755e2368200",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135391$D1D653A2-D856-438B-AD23-4515F019DC1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135536",
+              "numeric-id": 135536
+            }
+          },
+          "hash": "3437e01c29b5d03e7e9e8bc70ccd83d4830ccc1d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135391$A1F7A542-02D0-41A2-AD27-4A04E81F2374",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135391$8C7EC6A3-C555-485A-842F-447B10E9304C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135391$97BD73EE-AAF9-4431-A244-E0AF2278BEFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135294",
+              "numeric-id": 135294
+            }
+          },
+          "hash": "dc4fa6684535ae1fc439e90b70b0cd8c6edd8e7d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135391$7AB2326D-2D40-4F42-8488-CE83928D67F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74246",
+              "numeric-id": 74246
+            }
+          },
+          "hash": "7d0585218ea5cfc1e632a783d85e9576bf4699b6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135391$B297637E-B029-4573-856E-8BC3123CCAF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135391$C0610807-F113-4658-8562-3E1F0268B8AE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135391$27B75A6A-E445-4E74-94C7-C7A272E7096C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15858840"
+          },
+          "hash": "0870a2db95d29d2d3d0a488e0125d0e034c97458",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135391$F813CC73-C666-4750-9B4F-ED7B26CF2558",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hystaspes Arms.svg"
+          },
+          "hash": "00f74a1f4b704af567bcb066b07582be1b061571",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Sohn des Großkönigs Dareios I., Satrap von Baktrien"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Darius the Great"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Dario I"
+    }
+  },
+  "id": "Q135391",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hystaspes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hystaspes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hystaspes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ویشتاسپ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Istaspe"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hystaspes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гистасп"
+    }
+  },
+  "lastrevid": 17551472,
+  "modified": "2025-09-17T10:23:39Z",
+  "ns": 860,
+  "pageid": 163776,
+  "sitelinks": {},
+  "title": "Item:Q135391",
+  "type": "item"
+}

@@ -1,0 +1,397 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bardylis"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135273$F2AAD694-B2E6-4488-A297-7187F786A567",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00786218"
+          },
+          "hash": "83c645765239109edc3ebafbe474b58e391bd176",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135273$BB291566-EFAF-4323-956E-4F76EEDDD289",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135214",
+              "numeric-id": 135214
+            }
+          },
+          "hash": "566085a08b37238b4d94bc3296e476ff7d62e3bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135273$46BD9EC0-40BE-4A5B-80E1-318161399E24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135355",
+              "numeric-id": 135355
+            }
+          },
+          "hash": "8fc6cd7b9ba5e98437d1eff7c2ce34afb7bfa8ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135273$EC9800D0-EB51-4CF9-8DE8-2C9C1DD9C426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135273$A5DAE235-09A8-40BD-8423-BD40A5038478",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135273$14C242C6-A8D4-4ABA-A8CF-D4812DAE4C2C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bardyllis_(1)"
+          },
+          "hash": "9f961a7f62556fdca5231714aee73d85f477c9d4",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135273$895F6B0E-3741-4A6B-AC09-FAC2D18BA09F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135273$2DD094D7-5A8F-4777-9155-7F2D0EFFB6CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0448-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c3b5fcc02052d714dc60b0cfff518113c8aa5be3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135273$3DF385A6-9145-44B1-AC7D-034E5659F10A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0358-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16db9db7e9831a6c0b02e43fdabdcf2da15c1b35",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135273$66C04510-7448-4C6D-9EFD-90FA94D477E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q808052"
+          },
+          "hash": "8f2fc9fedc43e69306f8023e06d7ac93a9c1bf03",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135273$35DF42A5-5EBE-4E12-82AE-4C1C9F418672",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bardylis Arms.svg"
+          },
+          "hash": "d4eb83bf5a2379be964e4ea8ce2d28e9358dba4d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك حكم مملكة داردانيا"
+    },
+    "de": {
+      "language": "de",
+      "value": "König der Illyrer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Illyrian king from 393 BC to 358 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d’Illyrie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori illír uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "primo re dei Dardani"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koning van Illyrië"
+    }
+  },
+  "id": "Q135273",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "برديليس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بارديليس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Бардзіл"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Бардилис"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Bardilis"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Bardil·lis"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Bardylis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bardylis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βάρδυλις"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bardylis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bardilis I"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بردیلیس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bardylis Ier"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Βάρδυλις"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Bardil"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Bardülisz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Bardilis"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bardylis"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "バルデュリス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Bardylis"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Bardyllis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bardylis"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Bardylis I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бардил"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Bardilis"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Bardilis"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bardhyli"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Бардил"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Bardylis"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Барділ"
+    },
+    "war": {
+      "language": "war",
+      "value": "Bardylis"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "巴耳底利斯"
+    }
+  },
+  "lastrevid": 17551278,
+  "modified": "2025-09-17T10:20:53Z",
+  "ns": 860,
+  "pageid": 163658,
+  "sitelinks": {},
+  "title": "Item:Q135273",
+  "type": "item"
+}

@@ -1,0 +1,337 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Deidamia II of Epirus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135741$CC75885D-3A85-435F-8697-4D16D559C39E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737577"
+          },
+          "hash": "d2df949087e226e0822c74c5737290e176627c24",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135741$B18B3009-3259-48B6-81D7-E8960DD4E409",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135741$90987D50-9A6D-4F9C-A6BD-50D138BDCC0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135741$4994840D-60B1-4847-8649-0D6F68AA3DB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135591",
+              "numeric-id": 135591
+            }
+          },
+          "hash": "f3e9955574dc7104df56b669adae42ac64980a2f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135741$3F19E6DD-1DA1-4028-AF2C-1C2AE3EFD5AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135741$76599607-C605-4441-9DDA-9B81421AEBE1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135741$A03131E3-0934-489F-A4C4-B9512B9E2E25",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135741$BDD859B0-3CCE-43C8-8992-2301DB22A6B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2993209"
+          },
+          "hash": "c74811bdefc72ca01638566d209711b7c9690878",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135741$042EDD64-815F-4F0B-A722-17A040CF3F74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Deidamia II of Epirus Arms.svg"
+          },
+          "hash": "ba6f47c656978f5d4f0357c2d5684ec46237af35",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "reina de l'Epir, filla de Pirros II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Königin der Molosser und Führerin der Epiroten"
+    },
+    "en": {
+      "language": "en",
+      "value": "ruler of Epirus: daughter of Pyrrhus II, sister of Nereis and Pyrrhus III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine d'Épire"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "épeiroszi királynő"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina dell'Epiro (r. 234-233 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Epirus (-)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Epiru"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "drottning av Epirus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "правляча цариця Епіру (ІІІ ст. до н. е.)"
+    }
+  },
+  "id": "Q135741",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Дейдамея"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Deidamia II de l'Epir"
+    },
+    "de": {
+      "language": "de",
+      "value": "Deidameia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δηιδάμεια Β' της Ηπείρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Deidamia II of Epirus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Deidamia II of Epirus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Deidamia II d'Épire"
+    },
+    "he": {
+      "language": "he",
+      "value": "דידמאיה השנייה, מלכת אפירוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Déidameia"
+    },
+    "id": {
+      "language": "id",
+      "value": "Deidamia II dari Epiros"
+    },
+    "it": {
+      "language": "it",
+      "value": "Deidamia II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デイダメイア2世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Deidamia II of Epirus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dejdamia z Epiru"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Laodâmia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Laodâmia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Деидамия Эпирская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Deidamia II av Epirus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Деідамія II Епірська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "黛達彌亞二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "黛达弥亚二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "黛達彌亞二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "黛達彌亞二世"
+    }
+  },
+  "lastrevid": 17552059,
+  "modified": "2025-09-17T10:32:03Z",
+  "ns": 860,
+  "pageid": 164126,
+  "sitelinks": {},
+  "title": "Item:Q135741",
+  "type": "item"
+}

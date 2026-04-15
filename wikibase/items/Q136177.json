@@ -1,0 +1,407 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariarathes II of Cappadocia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136177$79AF3320-C4C2-4992-AB7E-1ADA37404168",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736452"
+          },
+          "hash": "d1f807151722cca0c40a887f6602fb71006e1f7f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136177$F8998311-C991-4692-BAAD-3AB89C16FF30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135933",
+              "numeric-id": 135933
+            }
+          },
+          "hash": "ec07c58f196e20c9b89312e2f9407c92622424c0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136177$26081886-3092-41A9-BA90-307FFB315550",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136177$38F57590-9B8F-46F1-B142-1C99AC5BAF4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136177$A1A36970-F231-414E-8F88-E8E4229923EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariarathes_II_of_Cappadocia_(1)"
+          },
+          "hash": "266347aa6d7f93d34791f1d5453a2add95e528db",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136177$B33D996C-3DE6-458C-8A86-7031E0BEB92A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136439",
+              "numeric-id": 136439
+            }
+          },
+          "hash": "eee5058984a9b244f1a8b1c969c0964f11e40468",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136177$EB51C50D-8BBD-4348-B287-D8258BA16264",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136177$52F09ADE-0273-4C17-A32F-B5728FB5E4B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136177$12991CD0-C5A9-4A4E-925C-E7B89CA9F604",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0280-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d84dc420c1ce5c9aa5a658585e221324d81ec29",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136177$A498310C-A31C-4B9E-B411-E52748A3C05A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q469746"
+          },
+          "hash": "07e6b969ef41c5c23557b100f194e3cecb27ba3c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136177$5019FF82-2309-432D-80F3-7701B3AE7A3E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariarathes II of Cappadocia Arms.svg"
+          },
+          "hash": "c32ff61f6ac694d9c450d601561268f88673e535",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herrscher in Kappadokien"
+    },
+    "en": {
+      "language": "en",
+      "value": "3rd-century BC king of Cappadocia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه کاپادوکیه در میان سالهای ۳۰۱–۲۸۰ پ.م"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Cappadoce"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "sátrapa aqueménida e Rei de Capadocia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kappadókiai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Cappadocia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Каппадокии"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Каппадокії"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卡帕多西亚君主"
+    }
+  },
+  "id": "Q136177",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ariarathes II"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارياراتيس التانى من كابادوكيا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арыярат II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ariarates II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ariarathes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριαράθης Β' της Καππαδοκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariarathes II of Cappadocia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ariarates II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ariarates II.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آریارات دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariarathe II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ariarates II de Capadocia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Ariarathész"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ariarate II di Cappadocia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ariarathes II of Cappadocia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ariarates II Filopator"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ariarate II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ariarate II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ариарат II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arijarat II od Kapadokije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ariarathes II of Cappadocia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ariarathes II av Kappadokien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аріарат II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ariarathes II của Cappadocia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿里阿拉特二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿里阿拉特二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿里阿拉特二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿里阿拉特二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿里阿拉特二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿里阿拉特二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿里阿拉特二世"
+    }
+  },
+  "lastrevid": 17552687,
+  "modified": "2025-09-17T10:41:05Z",
+  "ns": 860,
+  "pageid": 164562,
+  "sitelinks": {},
+  "title": "Item:Q136177",
+  "type": "item"
+}

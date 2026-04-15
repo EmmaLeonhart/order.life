@@ -1,0 +1,319 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manwgan ap Selyf"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136290$F5B46731-1451-4F92-B761-8D8E9E0F4777",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "414228"
+          },
+          "hash": "dd09ee9015042f78fcc77312e78c18dfae51235c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q136290$19D16CAA-7337-406C-A550-2BE6E50DD9DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00773703"
+          },
+          "hash": "794268a5289fab77a207a7a266bd729d0c4bbdb3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q136290$00BF7D51-5C98-4F79-8FBC-E04DFEE4EA1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Selyf-3"
+          },
+          "hash": "221af55bdd63822bd1dd2fb0eac2314797066bfd",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136290$8826D866-973A-4B9E-A25F-0143D9C1596C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136290$B3E894FE-0F2B-4A75-A18E-7451F7D05B2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136290$049E6802-5CDC-4430-B085-4CB7F47D7E7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136057",
+              "numeric-id": 136057
+            }
+          },
+          "hash": "91bb2ac597725898940f73b3c52640e7ddad06d8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136290$93B8ACC3-CB68-4D43-8ED9-91B82C3F7333",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136290$4C31EF80-5902-485F-876C-D1FB5958D9BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0610-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "82c02d798fb0b08e3a3f10eb759616ebcf8ed90c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136290$861B2EED-61C7-477F-BBD2-BD6AFCD0ED7A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0650-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "565a3af572f534c3e1bf4d41ef7272bfa5c784e8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136290$397C5EAE-11AF-4E8C-AA10-97CF07776143",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1401080"
+          },
+          "hash": "06570ba37c3bab22f431932c7beb7290ccd98ecb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136290$B1873D9D-AF2B-42F7-B296-74F959E21F10",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manwgan ap Selyf Arms.svg"
+          },
+          "hash": "62385e92e534c5963a865fbd9a50e95854976f69",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu galés (610–650)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin Powys"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Powys"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi de Powys"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano gallese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Wales (610-650)"
+    }
+  },
+  "id": "Q136290",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Manwgan ap Selyf"
+    },
+    "br": {
+      "language": "br",
+      "value": "Manwgan ap Selyf"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Manwgan ap Selyf"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Manwgan ap Selyf"
+    },
+    "de": {
+      "language": "de",
+      "value": "Manwgan ap Selyf"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manwgan ap Selyf"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manwgan ap Selyf"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Manwgan ap Selyf"
+    },
+    "it": {
+      "language": "it",
+      "value": "Manwgan ap Selyf"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マヌガン・アプ・セリヴ"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Manuganas ap Selivas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Manwgan ap Selyf"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мануган ап Селив"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Manwgan ap Selyf"
+    }
+  },
+  "lastrevid": 17552877,
+  "modified": "2025-09-17T10:43:46Z",
+  "ns": 860,
+  "pageid": 164675,
+  "sitelinks": {},
+  "title": "Item:Q136290",
+  "type": "item"
+}

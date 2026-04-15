@@ -1,0 +1,565 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cynog"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136024$7DD90AA8-05F6-43BF-9D49-A449FF896A6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "509331"
+          },
+          "hash": "0ba6e79b74d5207408f5119895a9fc26533fde93",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136024$4D933A1E-EECD-46CA-BB14-A8A199BC2C6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136024$0167ABC8-23D5-4727-8C15-6BEBFD30176A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136024$7969D843-268F-48D9-936F-599971F451DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135820",
+              "numeric-id": 135820
+            }
+          },
+          "hash": "5a0062623d1c14d1d48cb35c196db69fc0f4abd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136024$79DCCC08-E7F1-4A9C-BD32-0D82B6097B41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136024$2AA662AE-77CF-4B7D-AE7F-7AFD8CA54F2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136024$3E269F34-C44E-4DEC-A1FC-C20E6CB29931",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0492-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7f3a1787f409f8fe227695d96a2ebf02177ed6ec",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136024$69632090-27AA-4209-96FC-C1FDFC971FB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2488951"
+          },
+          "hash": "44bf876d5aa0e2d0766bd15b4084e14842dfd1d2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136024$3934F49D-8828-4D3D-9181-15D4B50202B0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cynog Arms.svg"
+          },
+          "hash": "b5c6d419d4860a5fa32dc6cdbdb024b1df846f81",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "sant"
+    },
+    "de": {
+      "language": "de",
+      "value": "walisischer Heiliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh saint"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "naomh Breatnach"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano britannico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "missionaris uit Wales (-492)"
+    }
+  },
+  "id": "Q136024",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Cynog ap Brychan"
+    },
+    "an": {
+      "language": "an",
+      "value": "Cynog ap Brychan"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Cynog ap Brychan"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Cynog ap Brychan"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Cynog ap Brychan"
+    },
+    "br": {
+      "language": "br",
+      "value": "Cynog ap Brychan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cynog ap Brychan"
+    },
+    "co": {
+      "language": "co",
+      "value": "Cynog ap Brychan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Cynog ap Brychan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cynog ap Brychan"
+    },
+    "da": {
+      "language": "da",
+      "value": "Cynog ap Brychan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cynog ap Brychan"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Cynog ap Brychan"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Cynog ap Brychan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cynog"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Cynog ap Brychan"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cynog ap Brychan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Cynog ap Brychan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cynog ap Brychan"
+    },
+    "et": {
+      "language": "et",
+      "value": "Cynog ap Brychan"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Cynog ap Brychan"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Cynog ap Brychan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cynog ap Brychan"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Cynog ap Brychan"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Cynog ap Brychan"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Cynog ap Brychan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cynog ap Brychan"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Cynog ap Brychan"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cynog ap Brychan"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Cynog ap Brychan"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Cynog ap Brychan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cynog ap Brychan"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Cynog ap Brychan"
+    },
+    "id": {
+      "language": "id",
+      "value": "Cynog ap Brychan"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Cynog ap Brychan"
+    },
+    "io": {
+      "language": "io",
+      "value": "Cynog ap Brychan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cynog"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Cynog ap Brychan"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Cynog ap Brychan"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Cynog ap Brychan"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Cynog ap Brychan"
+    },
+    "li": {
+      "language": "li",
+      "value": "Cynog ap Brychan"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Cynog ap Brychan"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Cynog ap Brychan"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Cynog ap Brychan"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Cynog ap Brychan"
+    },
+    "min": {
+      "language": "min",
+      "value": "Cynog ap Brychan"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Cynog ap Brychan"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Cynog ap Brychan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Cynog ap Brychan"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Cynog ap Brychan"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Cynog ap Brychan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cunog"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Cynog ap Brychan"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Cynog ap Brychan"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Cynog ap Brychan"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Cynog ap Brychan"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Cynog ap Brychan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Cynog ap Brychan"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Cynog ap Brychan"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Cynog ap Brychan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cynog ap Brychan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cynog ap Brychan"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Cynog ap Brychan"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Cynog ap Brychan"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Cynog ap Brychan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мо-Хонок"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Cynog ap Brychan"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Cynog ap Brychan"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Cynog ap Brychan"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Cynog ap Brychan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cynog son of Brychan"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Cynog ap Brychan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Cynog ap Brychan"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Cynog ap Brychan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Cynog ap Brychan"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Cynog ap Brychan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cynog ap Brychan"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Cynog ap Brychan"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Cynog ap Brychan"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Cynog ap Brychan"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Cynog ap Brychan"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Cynog ap Brychan"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Cynog ap Brychan"
+    }
+  },
+  "lastrevid": 17552449,
+  "modified": "2025-09-17T10:37:43Z",
+  "ns": 860,
+  "pageid": 164409,
+  "sitelinks": {},
+  "title": "Item:Q136024",
+  "type": "item"
+}

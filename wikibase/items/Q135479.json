@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Demetrius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135479$60D47E9F-337F-4437-B070-A69BCB721509",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135479$AEDFB654-AC72-473D-8C82-F24843EC0847",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135479$97935110-0A9B-4119-BA9A-829163F5DCBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73857",
+              "numeric-id": 73857
+            }
+          },
+          "hash": "b8868f6fa20d723ef2f0da49a622bff604ecfc89",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135479$66830128-423C-4DDC-A7E5-87E8E74F338E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135479$A00550EF-4729-44B4-862F-C736BD1478E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "368dc1e752474150a1da591be3284477af436fc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135479$910CA338-91D3-4B81-9CA2-9AF64F276608",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135479$E98AFCFE-57F7-4034-8B91-CDCBDC0E1D86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12876059"
+          },
+          "hash": "062de1da99b28af1f850b225a898e2ae359d2b30",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135479$BD81E5F7-BE46-4EB7-A476-F2BB820029EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Demetrius Arms.svg"
+          },
+          "hash": "6fca40af34de367c6c6c778e2d21f55d832cae4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Demetrius I Poliorketes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Démétrios Poliorcète"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Demetrio I Poliorcete"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "filho de Demétrio I Poliorcete"
+    }
+  },
+  "id": "Q135479",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Demetri l'Estret"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Démétrios"
+    },
+    "de": {
+      "language": "de",
+      "value": "Demetrios"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δημήτριος ο Λεπτός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Demetrius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Demetrio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Démétrios le Grêle"
+    },
+    "it": {
+      "language": "it",
+      "value": "Demetrio il Gracile"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デメトリオス"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Demétrio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Demétrio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Деметрий Тощий"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Деметрій Худий"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Demetrios"
+    }
+  },
+  "lastrevid": 17551626,
+  "modified": "2025-09-17T10:25:54Z",
+  "ns": 860,
+  "pageid": 163864,
+  "sitelinks": {},
+  "title": "Item:Q135479",
+  "type": "item"
+}

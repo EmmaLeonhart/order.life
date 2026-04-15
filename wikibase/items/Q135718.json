@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gyrd Haraldsson"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135718$711A7F14-F371-4A73-9AF9-C2ABFF856A80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135718$9D47CBF7-91A7-4583-8B67-47D3154D141A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135718$51E41ADD-DCBD-4B46-8EF8-4A71F717E629",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135567",
+              "numeric-id": 135567
+            }
+          },
+          "hash": "3eb2a8af03b3326033eadf7549fe6960f5ddba4c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135718$3A38F6A4-464F-4CFC-9A5C-96E27CC11AE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135718$C51CBD84-EA3B-4593-A1D0-8996FFEA360B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0882-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0a5c1f23d35aba14b095f9536180187f134c4daa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135718$C981AA18-23EA-43BB-BFDD-8B7AB6438D6D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5890284"
+          },
+          "hash": "c982783b1e07e912c0861b1bd5d23fd9aa27f12a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135718$7D1DF53D-B229-4651-BEB6-0704CC5ED0D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006589098326"
+          },
+          "hash": "329304329c112554357a42a445ab41fe644b7687",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135718$DE8050C8-C3B5-44F0-9625-EA0CE81FDEB2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gyrd Haraldsson Arms.svg"
+          },
+          "hash": "c2aec9c5bc211251c04ed1312acbd262a3deb679",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q135718",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gyrd Haraldsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gyrd Haraldsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gyrd Haraldsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gyrd Haraldsson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ґірд Гаральдсон"
+    }
+  },
+  "lastrevid": 17552027,
+  "modified": "2025-09-17T10:31:37Z",
+  "ns": 860,
+  "pageid": 164103,
+  "sitelinks": {},
+  "title": "Item:Q135718",
+  "type": "item"
+}

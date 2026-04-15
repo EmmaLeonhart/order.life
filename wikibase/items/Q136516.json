@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cyngar ap Dyfnwal"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q136516$E968BA59-029B-4DE1-80ED-3A32399ABA5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136838",
+              "numeric-id": 136838
+            }
+          },
+          "hash": "d6662a68052e7edf971bb81b6792de6dd2673589",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136516$E70E25A0-392C-4454-B094-9E50103C251F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136516$A6B62FC8-ED7F-4DAE-8E69-B99F2D84E95B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136516$CC547DD0-137B-430D-9E15-E388C19C65E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136256",
+              "numeric-id": 136256
+            }
+          },
+          "hash": "03773707230f22c1d6366702724583c1e4591b59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136516$E8BEC911-80E7-413A-B4F6-41226ED18D73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136516$0E7DE263-CA61-4E30-9624-A74413D56B4D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0490-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "51e31a667f2c7a1e2218d8a2a18ab7f9f8b6c4a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136516$015D3BFF-B29D-443C-A61F-80CBA70B3715",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3699891"
+          },
+          "hash": "006d24560643305a234c1cdc83e840e449aaf9db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136516$7B05FF81-F4D6-4F20-99A3-FA2EA59CA732",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cyngar ap Dyfnwal Arms.svg"
+          },
+          "hash": "60b60d9601d1e091b745f0ff751ebc6c7e94c5c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin Bryneich (475-490)"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Bryneich (475-490)"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Bryneich (475-490)"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Бринейха"
+    }
+  },
+  "id": "Q136516",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "br": {
+      "language": "br",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cyngar ap Dyfnwal"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кингар ап Дивнуал"
+    }
+  },
+  "lastrevid": 17553211,
+  "modified": "2025-09-17T10:48:43Z",
+  "ns": 860,
+  "pageid": 164901,
+  "sitelinks": {},
+  "title": "Item:Q136516",
+  "type": "item"
+}

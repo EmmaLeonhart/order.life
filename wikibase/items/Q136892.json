@@ -1,0 +1,363 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mark of Cornwall"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136892$89AA3FA2-ED6E-46B6-BC04-E9CC715F8059",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00773001"
+          },
+          "hash": "053d2c01663bb9d9d34e0b7ed5c400bbe4d9d7d1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136892$A73CC63E-3F22-4AA5-9892-76E0CBFE7008",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137295",
+              "numeric-id": 137295
+            }
+          },
+          "hash": "a6d29dc74ece85201709d399cd2e80f53af3928b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136892$6F189800-6255-40FF-B67F-48A1D7667FDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136892$1D3B47DC-B107-418E-930D-850E1F1E4CFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136892$A7E5330A-A27B-438F-BCAA-48955BD856E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137294",
+              "numeric-id": 137294
+            }
+          },
+          "hash": "a4a737bad98e5e3b985c6583d1543cfb38901806",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136892$1BC0BAE9-E8FD-42EE-AE5C-D086F01D3EB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136567",
+              "numeric-id": 136567
+            }
+          },
+          "hash": "0378fd463e91a2e8a9258b076a12d4ef08290fc6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136892$CC8928D9-17DA-4CFB-9F76-05F8DE59167C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136892$EA76F087-00B3-40B6-AD6B-09D9A173EE0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0480-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eb14205eb5f49332aed25375bd94b833ceb89960",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136892$6A22FDDE-E403-413C-887A-FF8D7334C849",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0555-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bd9dc0325d0196619cb07033c53083048054c2d2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136892$AE6FCFB3-6FCF-4B08-B44B-7B073AE8233F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1462742"
+          },
+          "hash": "f099448770133f817390c71572810d1bb3455b41",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136892$5DF7B704-285F-47E9-90A8-6EC5210875A4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mark of Cornwall Arms.svg"
+          },
+          "hash": "59b3375a36059a9b5b40c3ae1384496e37e805d8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin chwedlonol Cernyw a gŵr Esyllt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Husband of Iseault in Arthurian legend"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi mythique de Cornouaille"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio del ciclo arturiano"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Izoldin mož v arturijanskih legendah"
+    }
+  },
+  "id": "Q136892",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Roue Marc'h"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc de Cornualla"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "March ap Meirchion"
+    },
+    "de": {
+      "language": "de",
+      "value": "March fab Meirchiawn"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρκ της Κορνουάλης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mark of Cornwall"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco de Cornualles"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاه مارک"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marc'h"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Marco de Cornualla"
+    },
+    "io": {
+      "language": "io",
+      "value": "Mark di Kornwal"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marc"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マーク王"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Margh Kynver"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mark av Cornwall"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mark of Cornwall"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Król Marek"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marcos da Cornualha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marcos da Cornualha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк ап Мерхион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kralj Mark"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mark iz Cornwalla"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mark av Cornwall"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "马克王"
+    }
+  },
+  "lastrevid": 17553847,
+  "modified": "2025-09-17T10:57:46Z",
+  "ns": 860,
+  "pageid": 165277,
+  "sitelinks": {},
+  "title": "Item:Q136892",
+  "type": "item"
+}

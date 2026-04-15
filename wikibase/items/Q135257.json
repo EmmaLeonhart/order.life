@@ -1,0 +1,524 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolemy Ceraunus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135257$E80429A7-D722-4607-89CC-67C64D2D5BD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "115885"
+          },
+          "hash": "8e3e99cabfd5bd4da70a90e28fbdfba3ff00d97e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135257$E9247702-25E2-4686-92D4-75F56A1AAC22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567226"
+          },
+          "hash": "d454b6f1dbef7592142ebc5f1a9979c9cf21311f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135257$48C0C5C0-2DEC-475B-9A29-ACDFCE2CBAE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135257$3F5CFD0A-476B-4720-B056-D3E662F9A8ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135257$5D75206E-9E19-468F-9AF8-CB24A15828AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135256",
+              "numeric-id": 135256
+            }
+          },
+          "hash": "764f27c32ddc4ef48a3d46e7e1c694b4ec5db0f0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135257$04EA1254-F219-4317-BAED-26E4A953A012",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73731",
+              "numeric-id": 73731
+            }
+          },
+          "hash": "b55c570b63169f39cf3c4bece05a5938b61b94b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135257$8B89C514-789A-40A5-AD78-F361532675A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135253",
+              "numeric-id": 135253
+            }
+          },
+          "hash": "64098d762e38d95828e09f6c804855a336250846",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135257$1C524792-95F2-4402-8FF4-9482AFBE7699",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135257$F01CC2BD-A189-4CBE-B4DA-FF443A7F9862",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0318-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b7d55b93549942b6136c69289371b9054800806",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135257$FB1BCA6A-1F9E-4688-8532-825FC3CBDC63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0279-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2122ec71a35f35c91986ded7ed6ce782309bd697",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135257$CEBC4282-EAB6-492C-ACA1-65BD619EA0D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q299387"
+          },
+          "hash": "0f39a8382259f2f4b04bf2fed13ec1bfb97bca33",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135257$84C6A6EB-4390-4E8B-B8BD-8474231B5DD3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy Ceraunus Arms.svg"
+          },
+          "hash": "8535a59fdcd431585596540074f87df8e2cc5d65",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك مقدوني"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de Macedònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "makedonský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Makedonien"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Macedon"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Macedonia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Makedonian kuningas (281–279 eaa.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi macédonien"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori makedón király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Macedonia (r. 281-279 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニア王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Macedonii i Tracji"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Македонии"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ Македоније"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "басилевс Македонії у 281—279 роках до н. е."
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "托勒密一世之子"
+    }
+  },
+  "id": "Q135257",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بطليموس كيراونوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пталамей II Кераўн"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Птолемей Керавън"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemeu Ceraune"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ptolemaios Keraunos"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ptolemy Ceraunus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios Keraunos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος Κεραυνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemy Ceraunus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolomeo Cerauno"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ptolomeo Zerauno"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بطلمیوس سرانوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ptolemaios Keraunos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée Kéraunos"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ptolemy Keraunos"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πτολεμαίος Κεραυνός"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמי קראונוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ptolemaiosz Keraunosz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ptolemaios Keraunos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo Cerauno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス・ケラウノス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프톨레마이오스 케라우노스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Ptolemaîos Keraunos"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Ptolemaîos Keraunos"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ptolemaeus Ceraunus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Птоломеј II Керавн"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ptolemaios Keraunos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemaeus Keraunos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz Keraunos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemeu Cerauno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ptolemeu Cerauno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей Керавн"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ptolemej Keraun"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj Keraun"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Птолемеј Кераун"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Птолемеј Кераун"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Ptolemej Keraun"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ptolemaios Keraunos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ptolemaios Keraunos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей Керавн"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ptolemaios Keraunos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密·克勞諾斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "托勒密·克劳诺斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "托勒密·克劳诺斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "托勒密·克勞諾斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "托勒密·克勞諾斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "托勒密·克劳诺斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "托勒密·克勞諾斯"
+    }
+  },
+  "lastrevid": 17551248,
+  "modified": "2025-09-17T10:20:29Z",
+  "ns": 860,
+  "pageid": 163642,
+  "sitelinks": {},
+  "title": "Item:Q135257",
+  "type": "item"
+}

@@ -1,0 +1,858 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Venus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q134047$520FF046-B548-4CFB-9009-1EE2D73DE559",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132794",
+              "numeric-id": 132794
+            }
+          },
+          "hash": "d7eb8622b27ef5837d0829bc4906e991ec6c87b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134047$27906C90-A256-4AD0-90BA-1CD783997F45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134262",
+              "numeric-id": 134262
+            }
+          },
+          "hash": "ff2c0e637a824b7c04d0e4b9ceb206983ef7d51a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134047$9824ACF2-CA0E-437D-B1E5-561CE2C1B9E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134047$FFD9FF96-4970-4873-A1FB-D7437A24891A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q134047$2F868263-64D5-460B-A4ED-B10E29A38115",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133264",
+              "numeric-id": 133264
+            }
+          },
+          "hash": "0dc10896c53ee046a302fdd1ac204d582d62bcad",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134047$0498E9B5-2B6F-45D8-B004-90E2BCB88323",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133258",
+              "numeric-id": 133258
+            }
+          },
+          "hash": "aa5cf20d9a6091c813c05bae2ac2a96c55710bd0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134047$9558F1A7-BA0B-4A32-90E3-BDEFD0805456",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74614",
+              "numeric-id": 74614
+            }
+          },
+          "hash": "351308f28f55d7ae6d970bf1f804a945cdb5402f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134047$CA34D66F-E8CA-480D-B39F-F9CF7EC31035",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134047$4418D611-B5CC-48B9-A8BA-569018AD6D12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47652"
+          },
+          "hash": "6f355ab7f1a3302273df3c7327b307ab11a1f71b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134047$557D6CEE-AF83-49D9-9F6E-6E74856E6E86",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Venus Arms.svg"
+          },
+          "hash": "079fd4d241df3cdddc493fb86e9f36cd8659f693",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إلهَةُ الحب والجمال والرغبة والجنس والخصوبة والرخاء والنصر لدى الرومان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "diosa del antiguu panteón romanu"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "боронғо рим алиһәһе"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "стажытнарымская багавіца"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রোমান পুরাণের অন্যতম প্রধান দেবী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "deessa romana de l'amor i la bellesa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římská bohyně lásky"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk gudinde"
+    },
+    "de": {
+      "language": "de",
+      "value": "römische Göttin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman goddess of love, sexuality, procreation and pleasure"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Roman goddess of love, sexuality, procreation and pleasure"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Romia diino de amo"
+    },
+    "es": {
+      "language": "es",
+      "value": "antigua diosa romana del amor, el sexo y la fertilidad"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "الههٔ باستانی رومی عشق و شهوت و بارآوری"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "jumalatar roomalaisessa mytologiassa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "déesse de l'amour, de la séduction, de la beauté féminine dans la mythologie romaine"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "bandia Rómhánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "deusa romana do amor"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלה רומית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "rimska božica ljepote, ljubavi i seksualnosti"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a szépség és a szerelem római istennője"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "dea roman"
+    },
+    "id": {
+      "language": "id",
+      "value": "Dewi dalam mitologi Romawi"
+    },
+    "it": {
+      "language": "it",
+      "value": "dea romana dell'amore"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ神話の愛と美の女神"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Yellu n tayri d tiẓilt d uzzuf ɣer iṛumanen"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "réimesch Gëttin"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "deja romana de l’amor"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Mīlestības un skaistuma dieviete romiešu mitoloģijā"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk gudinne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk gudinne"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "deessa"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਪੁਰਾਤਨ ਰੋਮਨ ਦੇਵੀ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "bogini"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "divindade romana"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "deusa da Roma Antiga"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "zeița iubirii la romani"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримская богиня"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "dia dâ mituluggìa rumana"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimska boginja ljubezni, spolnosti, razmnoževanja in užitka"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Римска богиња љубави, сексуалности, размножавања и задовољства"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk gudinna"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma mitolojisinde aşk ve cinsellik tanrıçası"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньоримська богиня любові, краси, сексуальності, відтворення й перемоги"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马神话中爱和美的女神"
+    }
+  },
+  "id": "Q134047",
+  "labels": {
+    "ab": {
+      "language": "ab",
+      "value": "Венера"
+    },
+    "af": {
+      "language": "af",
+      "value": "Venus (mitologie)"
+    },
+    "an": {
+      "language": "an",
+      "value": "Venus"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "فينوس"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "ڤينوس (ربة)"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فينوس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Venus"
+    },
+    "az": {
+      "language": "az",
+      "value": "Venera"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Венера"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Venus (mytolohiya)"
+    },
+    "be": {
+      "language": "be",
+      "value": "Венера"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Вэнэра"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Венера"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ভেনাস"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ལྷ་མོ་ཝེ་ནུ་སི།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Gwener"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Venera"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Venus"
+    },
+    "chr": {
+      "language": "chr",
+      "value": "ᏫᎾᏏ"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ڤینوس"
+    },
+    "co": {
+      "language": "co",
+      "value": "Venara (divinità)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Venuše"
+    },
+    "csb": {
+      "language": "csb",
+      "value": "Wenus"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Венера (халаплăх)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gwener"
+    },
+    "da": {
+      "language": "da",
+      "value": "Venus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Venus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βένους"
+    },
+    "en": {
+      "language": "en",
+      "value": "Venus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Venus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Venuso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Venus"
+    },
+    "et": {
+      "language": "et",
+      "value": "Venus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Venus"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ونوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Venus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vénus"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Fenus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Véineas"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Venus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Venus"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Venus"
+    },
+    "he": {
+      "language": "he",
+      "value": "ונוס"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "वीनस (पुराण)"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Venera"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Venus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վեներա"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Venus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Venus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Venus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Venere"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウェヌス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვენერა"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Vinus"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Венера"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "베누스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Venus"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Venus"
+    },
+    "la": {
+      "language": "la",
+      "value": "Venus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Venus"
+    },
+    "li": {
+      "language": "li",
+      "value": "Venus"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Venere"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Vener"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Venera"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Venera"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Венера"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "വീനസ്"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Венус"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯚꯤꯅꯁ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "व्हीनस"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Venus"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Venere"
+    },
+    "my": {
+      "language": "my",
+      "value": "ဗီးနပ်စ် (ဒဏ္ဍာရီ)"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Venere (dea)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Venus"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "भेनस"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Venus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Venus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Venus"
+    },
+    "os": {
+      "language": "os",
+      "value": "Венерæ"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਵੀਨਸ"
+    },
+    "pcm": {
+      "language": "pcm",
+      "value": "Venus (tori dem wey pipul biliv)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wenus"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "وینس (خرافات)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Vénus"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Vênus"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Venus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Венера"
+    },
+    "rue": {
+      "language": "rue",
+      "value": "Венера (богыня)"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Vèniri"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Venus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Venera"
+    },
+    "si": {
+      "language": "si",
+      "value": "වීනස්"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Venuša"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Venera"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Венера"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Венера"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Venus"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "வீனஸ்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Венера (асотир)"
+    },
+    "th": {
+      "language": "th",
+      "value": "วีนัส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Venus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Venus"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Venera"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Венера"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "وینس (خرافات)"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Venera"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Venus"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Venusse"
+    },
+    "war": {
+      "language": "war",
+      "value": "Venus"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "维纳斯"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "維納斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "维纳斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "維納斯"
+    }
+  },
+  "lastrevid": 17548954,
+  "modified": "2025-09-17T09:47:54Z",
+  "ns": 860,
+  "pageid": 162432,
+  "sitelinks": {},
+  "title": "Item:Q134047",
+  "type": "item"
+}

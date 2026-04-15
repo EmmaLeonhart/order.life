@@ -1,0 +1,389 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pausanias"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135905$AD6765FA-CB58-4D51-879C-A8D239EA7016",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028092"
+          },
+          "hash": "83ae416cb40533f5ff62105067431369493b449a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135905$94DE82B5-661F-44F5-93AD-50A0B4F8018C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136132",
+              "numeric-id": 136132
+            }
+          },
+          "hash": "a2d6a04f4607ea07c11adbad4f09be782fa14a67",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135905$D4B5823D-1FA1-4F21-BFA7-CF257BC43675",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136131",
+              "numeric-id": 136131
+            }
+          },
+          "hash": "12a6c7c7c2c83393d3b91b554b9eb815ffc06620",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135905$F945C880-65CC-4782-A754-8B2FCE2F95FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135905$9BF9A371-6843-4D97-BCD1-5565230B3474",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135905$EEE4B6B4-6E2C-4ED3-A50E-7AB1D4EEAABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135735",
+              "numeric-id": 135735
+            }
+          },
+          "hash": "c41ebd4aadf8f0ebf483881ad960a380a1f7adea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135905$58F40771-FF5C-452F-B8C8-0E2BDA99DEB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135905$6C66776C-0E83-42C5-A758-77EC0DFF76D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0385-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "044d45d460bdb4221c9deb69c2aa1826cb949414",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135905$BCDA3C68-B727-4D98-98C1-C45122A705F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q433408"
+          },
+          "hash": "c1a2af2e4d5bd23dfbb575abbd841773462d1851",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135905$86A6419C-CA0D-4B07-BB67-24643B6B0C1E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pausanias Arms.svg"
+          },
+          "hash": "4ffccecc5b13607d2dab4bdbda4bb71c9fd17d44",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Sparta"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th century BC Agiad King of Sparta"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey del siglo V a. C."
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Spartan kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחד משני מלכי ספרטה, 426-445 לפנה\"ס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Спарты"
+    }
+  },
+  "id": "Q135905",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بوسنياس الإسبرطي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بوسنياس الاسبرطى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Павзаний II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pausànies d'Esparta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pausaniás"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pausanias"
+    },
+    "el": {
+      "language": "el",
+      "value": "Παυσανίας Α΄ ο Λακεδαιμόνιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pausanias"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pausanias de Esparta"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pausanias Espartakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پوسانیاس از اسپارت"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pausanias"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pausanias Ier"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Pausanias I"
+    },
+    "he": {
+      "language": "he",
+      "value": "פאוסניאס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pauszaniasz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pausanias dari Sparta"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pausania"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パウサニアス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პავსანია"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "파우사니아스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Pausanias (rex Spartae)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pausanias II van Sparta"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pauzaniasz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pausânias de Esparta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pausânias de Esparta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Павсаний"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pauzanija od Sparte"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Pausanias"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Паусанија"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Павсаній (цар Спарти)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Pausanias II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "波桑尼阿斯"
+    }
+  },
+  "lastrevid": 17552279,
+  "modified": "2025-09-17T10:35:16Z",
+  "ns": 860,
+  "pageid": 164290,
+  "sitelinks": {},
+  "title": "Item:Q135905",
+  "type": "item"
+}

@@ -1,0 +1,463 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus XI Epiphanes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136166$B44B1FF4-A2DF-49F3-91FF-84785E5AFE28",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00786172"
+          },
+          "hash": "35aaaa96d2a0638797235d64886594a4c2d562e1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136166$CD94234E-3598-4C33-925D-C9C106AC6AC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136166$CAA6EA4D-6B37-456A-A567-1B5BF88A9C76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136166$89A24D4F-01C0-4CD4-9B47-87C639D8D194",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus_XI_Epiphanes_(1)"
+          },
+          "hash": "4e9456b5d51eeb9a47b56ffb4ebbea0353be5be8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136166$1D377C94-9F9A-4069-BD15-B5A3621CD728",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72891",
+              "numeric-id": 72891
+            }
+          },
+          "hash": "2ce83282597ea468f28168c1ce0cdc9a47c73849",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136166$8BA05195-B6D7-4C3F-AADD-C776769F5D2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72888",
+              "numeric-id": 72888
+            }
+          },
+          "hash": "bc549374205056cd1ece94204cc913fa6cf564bf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136166$C85DF9D5-3950-4616-B425-3411A732F343",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136166$E66C5FF9-130A-48A6-8B75-E78AB8EFCA9E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0110-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a2e21fcfe407cca43c862cdb022b9bb4756bda4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136166$5EDABB57-96AB-4D8B-8BA4-B165EDDEFCA3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0092-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6cfadcdffb68f79f65c9847829d832cc57992e9e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136166$948636C8-F000-4FBF-8D0A-EA7F4CD0944D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q299618"
+          },
+          "hash": "2b1a465d1e72c4fcba068572dab40cf49f23af66",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136166$655910D7-488C-40A6-A7FF-BA42E5BD757C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus XI Epiphanes Arms.svg"
+          },
+          "hash": "233fe823468cb3417ea7b17f27e0bcfa0cf5c3b8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König des Seleukidenreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hellenistic Seleucid monarch (94–93 BCE)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "helena reĝo de Sirio; reĝis ekde 94 ĝis 93 a.K."
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Siria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "he": {
+      "language": "he",
+      "value": "אציל סלוקי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Penguasa Seleukia"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 94-93 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Seleucidische rijk (-92v Chr)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "vị vua của nhà Seleukos đã cai trị Syria thời kỳ Hy Lạp hóa từ năm 94–93 TCN"
+    }
+  },
+  "id": "Q136166",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس الحادي عشر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس الحداشر"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اوْنبیرینجی آنتیوخوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх XI Філадэльф"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох XI Епифан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc XI Epífanes"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 11. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos XI."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος ΙΑ' Επιφανής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus XI Epiphanes"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Antioĥo la 11-a Epifania"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco XI Epífanes"
+    },
+    "et": {
+      "language": "et",
+      "value": "Antiochos XI Epiphanes"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko XI.a Epifanes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس یازدهم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos XI Epifanes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos XI"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס האחד עשר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XI. Antiokhosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos XI Epifanis"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco XI"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス11世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티오코스 11세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus XI Epiphanes"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos XI Epifanes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus XI Epiphanes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch XI Epifanes Filadelfos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco XI Epifânio Filadelfo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco XI Epifânio Filadelfo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох XI Филадельф"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh XI Epifan"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох XI Епифан"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Антиох XI Епифан"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Antioh XI Epifan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos XI"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох XI Епіфан"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos XI Epiphanes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安條克十一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安条克十一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克十一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克十一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安條克十一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安条克十一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安條克十一世"
+    }
+  },
+  "lastrevid": 17552673,
+  "modified": "2025-09-17T10:40:53Z",
+  "ns": 860,
+  "pageid": 164551,
+  "sitelinks": {},
+  "title": "Item:Q136166",
+  "type": "item"
+}

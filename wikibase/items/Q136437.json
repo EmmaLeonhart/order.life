@@ -1,0 +1,381 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip II Philoromaeus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136437$95E03D9E-1B37-413F-88C7-DC3455463EC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00786174"
+          },
+          "hash": "508a61a38fc9aed3a7b4263b6f1234a11b8e2924",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136437$330C4AAE-CC0E-42C5-8DE9-E75E47E6259D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136437$5E0FBFD7-4856-4A75-AAD0-3F79E99A9698",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136437$2F95F37D-C8D8-4A48-8AC2-90F7C22671D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136168",
+              "numeric-id": 136168
+            }
+          },
+          "hash": "90c1e5f4c65e7f974ee195876e49c7cd87797ba5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136437$9DCD80C1-12D5-4F37-A263-4146AC3786A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136437$C6D1C1F2-8074-474D-93EA-9FB8EAF669A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136437$7DFF7C9C-FA90-42D3-9B15-2F184E9DE188",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0050-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f09fbd13a92ad6da2ebbb9ff24393de29f04ea1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136437$857DED2C-9747-4BD8-A837-85CD4EB6CA15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q315776"
+          },
+          "hash": "383a2029bd017a545a61dc25b65921784b0adbd6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136437$3B37870A-FE12-4502-A19F-524F4B3DB573",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip II Philoromaeus Arms.svg"
+          },
+          "hash": "fab026b3fa77720b2c4bf9fe586a4f76bc1b1751",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "poslední vládce dynastie Seleukovců"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des Seleukidenkönigs Philipp I. Philadelphos, König von Syrien"
+    },
+    "en": {
+      "language": "en",
+      "value": "last Seleucid ruler"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "he": {
+      "language": "he",
+      "value": "שליט סלאוקי"
+    },
+    "id": {
+      "language": "id",
+      "value": "Penguasa Seleukia terakhir"
+    },
+    "it": {
+      "language": "it",
+      "value": "ultimo sovrano dell'Impero seleucide (r. 66-64 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス朝シリアの王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Seleucidische rijk (-)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Helenistik Seleukos krallığı yöneticisi"
+    }
+  },
+  "id": "Q136437",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فيليب الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فيليب التانى"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی فیلیپ سلوکی"
+    },
+    "be": {
+      "language": "be",
+      "value": "Філіп II Філарамэй"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Филип II Филоромей"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Felip II Philoromaeus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Filip II. Filorhómaios"
+    },
+    "da": {
+      "language": "da",
+      "value": "Filip 2. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philipp II. Philorhomaios"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος Β' Φιλορωμαίος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip II Philoromaeus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filipo II Filorromano"
+    },
+    "et": {
+      "language": "et",
+      "value": "Philippos II Philoromaios"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Filipo II.a Filorromano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فیلیپ دوم سلوکی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Filippos II Filoromaios"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe II Philoromaios"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Φίλιππος Β' Φιλορωμαίος"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפוס השני פילורומאיוס"
+    },
+    "id": {
+      "language": "id",
+      "value": "Filipos II Filoromaios"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo II Filoromeo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フィリッポス2世フィロロマエオス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "필리포스 2세 필로로마이오스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Philippus II Philoromaeus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Filip II Filoromaeus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philip II Philoromaeus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Filip II Philoromaeus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп II Филоромэй"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Filip II Filoromej"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Филип II Филоромеј"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Philipp II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Filippos (Seleukos imparatoru)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філіпп II Філоромей"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Philippos II Philoromaeos"
+    }
+  },
+  "lastrevid": 17553101,
+  "modified": "2025-09-17T10:47:08Z",
+  "ns": 860,
+  "pageid": 164822,
+  "sitelinks": {},
+  "title": "Item:Q136437",
+  "type": "item"
+}

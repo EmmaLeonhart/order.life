@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cetriporis"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135322$C7994985-FBA3-4BCB-B4AC-2B2DF06B926D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135322$E6652C73-37C6-4FE7-BC07-B6AECB2BF977",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135322$F82CB324-E3F7-4201-8C83-D03BF7D75559",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135250",
+              "numeric-id": 135250
+            }
+          },
+          "hash": "a998544861a8996eca62ebbf3c6c4208c010813c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135322$11928073-FF72-47F7-B2BA-5AD580104319",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135322$E395A805-10FE-4434-A0A9-340C3A25DC86",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135322$B500593F-CB47-4853-8585-F701EC580FB3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3555333"
+          },
+          "hash": "eb8de60b62d1873463e5176230a2973908e8ab79",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135322$C50D4260-6045-4734-9010-96FEF3B1B361",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cetriporis Arms.svg"
+          },
+          "hash": "e5cee51b58983e74f3796b3016389f97da896ba2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "4th-century BC ruler of the Odrysian kingdom"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de los odrisios"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "trák uralkodó"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Odrysische koninkrijk"
+    }
+  },
+  "id": "Q135322",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سيتريبوريس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Кетрипор"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κετρίπορις"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cetriporis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cetriporis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ketriporis"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ketriporisz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cetriporide"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ketriporis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cetriporis"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ketriporis"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кетрипор"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кетріпор"
+    }
+  },
+  "lastrevid": 17551364,
+  "modified": "2025-09-17T10:22:06Z",
+  "ns": 860,
+  "pageid": 163707,
+  "sitelinks": {},
+  "title": "Item:Q135322",
+  "type": "item"
+}

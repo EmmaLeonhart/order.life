@@ -1,0 +1,299 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Teneu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136541$2704030B-ED33-4817-945A-3228D3D98891",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "152975|1225189"
+          },
+          "hash": "f96e2141b17d02d23d957e0b9ad83826c2b4ed8e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136541$605EDB82-D56D-4405-AFEE-291E004CAA49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136542",
+              "numeric-id": 136542
+            }
+          },
+          "hash": "7b7bb0270a2a8e7d6b5742ff8dc427e22a1169fc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136541$B3C4431E-1F79-4929-87CA-1BF1C1E5CBA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136541$95C8A706-956F-4BB7-B681-FC59091CCF64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136541$BE5CD378-388D-47D8-9105-971C8A9A76E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theneva_(1)"
+          },
+          "hash": "4b7add437a887408a14745b94e0dbc0fa83ab3eb",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136541$F3F77521-40D4-4575-AFA7-E09D6620F99D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123790",
+              "numeric-id": 123790
+            }
+          },
+          "hash": "e325b61e11917db197852e083494e71c853fb789",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136541$1013B330-EC33-457B-BB41-83AD6020708B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136541$9E5034D1-A8E7-45F2-853D-A64968A128F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0501-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2177271b40938747c6086828a95ad5dea488dcad",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136541$31F8ED78-F2F2-4C77-987B-849BA9884D3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0603-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af4e4e8483ca6dff9cb7ac0a8251c25362e5da62",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136541$C31094CA-2CA4-4C4B-84F7-F7C331A91D1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4454645"
+          },
+          "hash": "cd8eeba54fcd0729aabe5e7fef6da37f75e34cd3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136541$414AEADE-4029-4814-B9BF-959E81910382",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Teneu Arms.svg"
+          },
+          "hash": "f5f690f0e10103ec6315a9d3fad9bed695dbcded",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "santes a thywysoges chwedlonol"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary Christian saint who was venerated in medieval Glasgow, Scotland"
+    },
+    "la": {
+      "language": "la",
+      "value": "mater Sancti Kentigerni"
+    }
+  },
+  "id": "Q136541",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Teneu"
+    },
+    "br": {
+      "language": "br",
+      "value": "Theneva"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Denyw"
+    },
+    "en": {
+      "language": "en",
+      "value": "Teneu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teneu"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թենյու"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テネウ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Thenew"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tannoc van Glasgow"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тенева из Глазго"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тенеу"
+    }
+  },
+  "lastrevid": 17553259,
+  "modified": "2025-09-17T10:49:24Z",
+  "ns": 860,
+  "pageid": 164926,
+  "sitelinks": {},
+  "title": "Item:Q136541",
+  "type": "item"
+}

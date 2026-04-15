@@ -1,0 +1,351 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Parmys"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135378$0FC6BB5A-C5E6-4EC8-AF57-26770A917136",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738038"
+          },
+          "hash": "b17592c7420fa2514c1732fd03a1c625e5f1f824",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135378$9768FC16-275B-4B40-8FD8-72A7678A6167",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135393",
+              "numeric-id": 135393
+            }
+          },
+          "hash": "809a5db372fc0cddc87175fa57d12ccc7d660c7e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135378$22BD3736-DBDE-45D5-97CB-E61BDECB03D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135378$E18E8AB3-3D95-4BF1-A930-8FCD875C57FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135378$F16476FA-6BB7-4568-B96F-F2992F4CD53D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135294",
+              "numeric-id": 135294
+            }
+          },
+          "hash": "a2559a5a7580a730714ab035e880e15596a1e0af",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135378$DD702475-DA4C-47E1-967B-10B61FB91780",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135520",
+              "numeric-id": 135520
+            }
+          },
+          "hash": "dbdb71dd5197457a98833e25fc462fb291d860f1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135378$60B5A299-3E36-4184-B95B-CBE16C80ADFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135378$92E1DAAF-CB4E-40BF-B5E9-CF6F59A79803",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0501-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ad15a7215fd4a711efdadf0c799efaa74c353d5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135378$8297E2A6-3630-4EF1-9EF1-717A018487CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0401-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a32685df648ac40e949818f79ce3ac6afbec7e66",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135378$6458811F-8A9D-4D4B-B4E2-0A43CB746D5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q264576"
+          },
+          "hash": "e63e02cf3a8eae03f4d68e9a6d3e10c6f0604c1a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135378$488391D0-048B-495C-B805-61E7A3010C81",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Parmys Arms.svg"
+          },
+          "hash": "121a53f9e5d76d2e6e198e757d75367f80ac84da",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Περσίδα βασίλισσα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Persian queen"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa persa"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכה פרסית, אשת המלך דריווש הראשון"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "eze nwanyị Persia"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie di Dario I"
+    }
+  },
+  "id": "Q135378",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Парміс"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Парміс"
+    },
+    "el": {
+      "language": "el",
+      "value": "Παρμύς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Parmys"
+    },
+    "es": {
+      "language": "es",
+      "value": "Parmis"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پارمیس"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Parmys"
+    },
+    "he": {
+      "language": "he",
+      "value": "פרמיס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Parmis"
+    },
+    "id": {
+      "language": "id",
+      "value": "Parmida"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Parmys"
+    },
+    "it": {
+      "language": "it",
+      "value": "Parmide"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パルミュス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Parmys"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pármis"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pármis"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пармис (жена Дария I)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Parmija"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Parmys"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "帕爾米達"
+    }
+  },
+  "lastrevid": 17551448,
+  "modified": "2025-09-17T10:23:18Z",
+  "ns": 860,
+  "pageid": 163763,
+  "sitelinks": {},
+  "title": "Item:Q135378",
+  "type": "item"
+}

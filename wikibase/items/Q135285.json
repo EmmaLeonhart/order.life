@@ -1,0 +1,599 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alexandros IV of Macedon"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135285$8A816480-DDB6-4CDB-9634-541645748BAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "90690"
+          },
+          "hash": "bfe4eb91791ed3f4cf2f4067e4574a8862edaa65",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135285$FCBFAC5F-D0C6-4F4E-85C9-CE9A14AF68B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737565"
+          },
+          "hash": "4c5781a23673e3ef1a8c141d3a298336a5ef1e5d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135285$54A0D720-A16A-4D57-ABE8-76260EF1FFFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135285$9C380048-D300-4A06-A026-C697C14A91E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135285$EBD72EFF-3A17-4FF7-846A-1A41E08745B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135223",
+              "numeric-id": 135223
+            }
+          },
+          "hash": "d5745c1d9904e2a24743d6a17f19103ef6f5659d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135285$F4956735-2AFE-497B-BAAD-EE72BE9BE3C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135282",
+              "numeric-id": 135282
+            }
+          },
+          "hash": "2d6444dd40209df186065dcad5ac376513dbdf69",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135285$70DDDD98-2FD4-4332-9A05-70FAF17B5F0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135285$E10E26B0-D8B3-467B-B496-54D46F05C3C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0323-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b7e442de3a6cc37b2816d9bdc11580f1a1613a8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135285$B35C8084-503D-4721-AAD8-536C6520442D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0309-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd954e0994aeb948bfe7e062130e6579525fe55c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135285$A3506E6D-192B-4691-BC19-32991E0B27C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q207847"
+          },
+          "hash": "adc04c4ae26b73c3eef14870539047320f156aa1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135285$0380AFFE-988A-4135-9C01-1D6B1B521289",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexandros IV of Macedon Arms.svg"
+          },
+          "hash": "224f0f80c5583a9a45a1d4f03d881b99c488223b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك مقدوني"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "цар на Македония"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "makedonský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn Alexanders des Großen und Roxanes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς του αρχαίου Βασιλείου της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Macedonia from 323/2 to 309 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پسر اسکندر کبیر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aleksanteri Suuren poika ja nimellinen Makedonian kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils d'Alexandre le Grand et de Roxane"
+    },
+    "he": {
+      "language": "he",
+      "value": "היה אז מלך יון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "makedón király"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'impero ellenistico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニア王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Macedonië (323v Chr-309v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "władca Macedonii i Egiptu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rei da Macedônia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "македонский царь"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "aleksandri i madh"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "суверен"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இளவரசர்"
+    }
+  },
+  "id": "Q135285",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإسكندر الرابع المقدوني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اسكندر الرابع"
+    },
+    "az": {
+      "language": "az",
+      "value": "IV İsgəndər"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "دؤردونجو ایسکندر"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аляксандр IV Македонскі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Александър IV Македонски"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ম্যাসিডনের চতুর্থ আলেকজান্ডার"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Aleksandar IV Makedonski"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alexandre IV de Macedònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alexandr IV. Aigos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Alexander 4. af Makedonien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alexander IV. Aigos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλέξανδρος Δ΄ της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexandros IV of Macedon"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aleksandro la 4-a de Makedonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alejandro IV de Macedonia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Alexandro IV.a Mazedoniakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسکندر چهارم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aleksanteri IV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alexandre IV Aigos"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Alexandros IV na Macadóine"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "મેસેડોનના એલેકઝાંડર IV"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלכסנדר הרביעי, מלך מוקדון"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "सिकंदर चतुर्थ, मैसेडोन"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Alexandrosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ալեքսանդր IV Մակեդոնացի"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Աղեքսանտր Դ․ Մակետոնացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Aleksander IV dari Makedonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alessandro IV di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレクサンドロス4世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ალექსანდრე IV მაკედონელი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "알렉산드로스 4세"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Aleksandras IV Makedonietis"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Александар IV"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "चौथा अलेक्झांडर"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Alexandros 4-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aleksander IV av Makedonia"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "अलेक्जेन्डर चतुर्थ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alexander IV van Macedonië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aleksander IV Macedoński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alexandre IV da Macedónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alexandre IV da Macedónia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Александр IV Македонский"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Alexander IV o Macedon"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Aleksandar IV od Makedonije"
+    },
+    "si": {
+      "language": "si",
+      "value": "මැසිඩෝනියාවේ සිව්වන ඇලෙක්සැන්ඩර්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Aleksander IV. Makedonski"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "aleksandri i madh i maqedonis"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Александар IV Македонски"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Александар IV Македонски"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Aleksandar IV Makedonski"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alexander IV av Makedonien"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "நான்காம் அலெக்சாந்தர்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Искандари IV Мақдунӣ"
+    },
+    "th": {
+      "language": "th",
+      "value": "อเล็กซานเดอร์ที่ 4 แห่งมาเกโดนีอา"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IV. Aleksander (Makedonya)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Александр IV Македонський"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "اسکندر چہارم مقدونی"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Alexandros IV của Macedonia"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "亚历山大四世 (马其顿)"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Alexander 4k ilẹ̀ Makẹdóníà"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "亞歷山大四世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞歷山大四世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "亚历山大四世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "亚历山大四世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "亞歷山大四世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "亞歷山大四世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "亚历山大四世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "亞歷山大四世"
+    }
+  },
+  "lastrevid": 17551302,
+  "modified": "2025-09-17T10:21:13Z",
+  "ns": 860,
+  "pageid": 163670,
+  "sitelinks": {},
+  "title": "Item:Q135285",
+  "type": "item"
+}

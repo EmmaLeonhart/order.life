@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iollas"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135330$F66E4D5E-7AED-4468-9CDA-9DB54526EDB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135330$0872076C-6022-4A02-8695-17EA80C151D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135330$9F20FC13-1F71-427C-B582-6BD604953F90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Iollas_Of_Macedonia_(1)"
+          },
+          "hash": "63849468584c692017bc47f70a6add98d6d0f30a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135330$DBF3BF95-3D38-4DA6-A7B6-CF92DD1C27C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73830",
+              "numeric-id": 73830
+            }
+          },
+          "hash": "d05c4e291b09458740b54175d1bf1f9ab676ea93",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135330$FEC7CC37-6287-4EE5-813F-7B25FC58A292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135330$DA078FAD-32EB-46F8-8915-5931D01C362A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135330$FD82BF43-21C6-4322-AB2B-D0C59BFB3866",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0310-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5487b2838987c234663b1fac522ed18ff2091adf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135330$6F055A76-0F20-420F-A8CD-5ECC5E7ABBE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1671982"
+          },
+          "hash": "8212a043d2651e7bd443dcf54cfc7411fe842583",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135330$0D103B61-B628-42F3-994D-1F4661CEC15C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iollas Arms.svg"
+          },
+          "hash": "152f55530d9d579e14b959fdcf3c1ebbfb615b23",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "македонски благородник"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "fill d'Antípater"
+    },
+    "de": {
+      "language": "de",
+      "value": "Page und angeblicher Mörder Alexanders des Großen"
+    },
+    "el": {
+      "language": "el",
+      "value": "πρίγκιπας της Μακεδονίας, γιος του Αντίπατρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Son of Antipater, accused of murdering Alexander the Great"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Antípatro, acusado de asesinar a Alejandro Magno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "assassin présumé d'Alexandre le Grand"
+    }
+  },
+  "id": "Q135330",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Йолай (син на Антипатър)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Iol·les de Macedònia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Iollas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Iolaos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιόλλας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Iollas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yolas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Iolas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Iolao"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iollas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Iolas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Iolas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иолла"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Йолла"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Iollas"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊奥拉斯"
+    }
+  },
+  "lastrevid": 17551376,
+  "modified": "2025-09-17T10:22:16Z",
+  "ns": 860,
+  "pageid": 163715,
+  "sitelinks": {},
+  "title": "Item:Q135330",
+  "type": "item"
+}

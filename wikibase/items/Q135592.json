@@ -1,0 +1,363 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Phthia of Macedon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135592$6409AF7F-4CFE-4784-8EFF-9D517C559D8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736298"
+          },
+          "hash": "9c02310748bedfd7968ecf3631ad5e9c4dbb5906",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135592$2E5AE464-C5E0-49FE-AD00-310F8F860363",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135592$60155FB9-7CFF-46B3-80BB-6280EF9BA0A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135592$7404C447-E7F0-4E5E-B70A-7AB99189B2FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135490",
+              "numeric-id": 135490
+            }
+          },
+          "hash": "95c58ab7c02d31c9260e10c1bcf6be026e3ad1ac",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135592$D1750002-B143-471B-BE80-D5A1A2C83274",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135588",
+              "numeric-id": 135588
+            }
+          },
+          "hash": "ed7ed59329a63505b68019265038cd235f432563",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135592$37618F4C-F1BB-46DB-A22B-365E7FA6AAD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135451",
+              "numeric-id": 135451
+            }
+          },
+          "hash": "692582e50dc38ef3c8f676f9c84163f176b220e5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135592$17BF6C0F-4C97-47DB-9787-AB97B30A3E10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135592$2CEF945A-723B-4412-88D9-42C82D5A3A8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "368dc1e752474150a1da591be3284477af436fc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135592$BE92002E-A2D0-400F-8564-054C581DDE18",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135592$D524FB07-9084-407F-8D76-A0F53860CD39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3239153"
+          },
+          "hash": "11399992ccfe74eda84cfd04e7adf787ba1db7cd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135592$93EE6EC6-FA77-460D-906B-2701620CA6C1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Phthia of Macedon Arms.svg"
+          },
+          "hash": "e9ba449ddc6b00e89feb403163216078c6852f2f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Epirote princess, wife of Demetrius II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse d’Épire et reine de Macédoine (IIIᵉ s. av. J.-C.)"
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיכה מקדונית"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie di Demetrio II Etolico"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "filha do rei de Alexandre II de Epiro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царица Македонии"
+    }
+  },
+  "id": "Q135592",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فتحيه المقدونيه"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фтия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ftia de l'Epir"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fthía Makedonská"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φθία της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Phthia of Macedon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ftía de Macedonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Phthia"
+    },
+    "he": {
+      "language": "he",
+      "value": "פתיה ממוקדון"
+    },
+    "id": {
+      "language": "id",
+      "value": "Phthia dari Makedon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ftia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Phthia of Macedon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ftia z Macedonii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fítia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fítia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фтия Македонская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Phthia av Epiros"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фтія Македонська"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬其頓的佛提雅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "马其顿的佛提雅"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馬其頓的佛提雅"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "馬其頓的佛提雅"
+    }
+  },
+  "lastrevid": 17551823,
+  "modified": "2025-09-17T10:28:43Z",
+  "ns": 860,
+  "pageid": 163977,
+  "sitelinks": {},
+  "title": "Item:Q135592",
+  "type": "item"
+}
