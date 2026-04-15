@@ -18,10 +18,30 @@ desk.
 
 ## Topical / episode notes
 
+### Opening & pivots
 - [`genesis-opening.md`](genesis-opening.md) — Adam / Cain / Abel /
   Seth and Noah-as-out-of-Africa; the haplogroup-heavy opening.
-- [`xuanzang.md`](xuanzang.md) — Xuanzang's Journey to the West as an
-  Asian-side bridge chapter.
+- [`moses-bac-pivot.md`](moses-bac-pivot.md) — Moses synthesizing the
+  alphabet at the Bronze Age Collapse (Register B → C seam).
+
+### Gateway ancestors (genealogical spine)
+- [`charlemagne.md`](charlemagne.md) — European bridge.
+- [`bustanai.md`](bustanai.md) — Jewish / Persian / Islamic triple
+  bridge via the Exilarch × Sasanian princess marriage.
+
+### Religious founders
+- [`jesus.md`](jesus.md) — tragic founding, ultimately pro-Jesus.
+- [`muhammad.md`](muhammad.md) — Manichaean heir, forced into founding,
+  structurally placed with descent from Rome.
+- [`buddha.md`](buddha.md) — the hardest case, most actively critical
+  portrayal.
+- [`jimmu.md`](jimmu.md) — messy coalition-builder, not divine founder.
+
+### Connective / X-Files episodes
+- [`elagabalus.md`](elagabalus.md) — Emesa black stone → Iamblichus →
+  Sol Invictus → Kaaba connection.
+- [`xuanzang.md`](xuanzang.md) — Journey to the West as Asian-side
+  bridge chapter.
 
 ## Sibling docs (outside this directory)
 
