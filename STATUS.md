@@ -4,6 +4,8 @@
 Lean — tracks what's left to do. Finished work lives in `git log` and
 `planning/`.
 
+Read the grok chat I just added
+
 ## What this is
 
 Static site generator + chapter pipeline for Lifeism (the order.life
