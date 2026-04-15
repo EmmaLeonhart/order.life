@@ -135,7 +135,8 @@ def main():
     def do_commit(label: str):
         try:
             subprocess.run(["git", "add", str(out_dir.relative_to(REPO_ROOT)),
-                            str(index_file.relative_to(REPO_ROOT))],
+                            str(index_file.relative_to(REPO_ROOT)),
+                            "planning", "Gaiad", "STATUS.md", "todo.md"],
                            cwd=REPO_ROOT, check=True)
             diff = subprocess.run(["git", "diff", "--cached", "--quiet"],
                                   cwd=REPO_ROOT)
