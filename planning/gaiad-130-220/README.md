@@ -80,6 +80,9 @@ desk.
 - [`gateway-ancestor-ubiquity.md`](gateway-ancestor-ubiquity.md) —
   cross-cutting meta: why ubiquity (not secrecy) is the Gaiad's
   genealogical premise.
+- [`founder-followership-displacement.md`](founder-followership-displacement.md) —
+  Jesus and Buddha both have primary followership in different ethnic
+  groups and locations than where they came from.
 - [`charlemagne.md`](charlemagne.md) — European bridge.
 - [`bustanai.md`](bustanai.md) — Jewish / Persian / Islamic triple
   bridge via the Exilarch × Sasanian princess marriage.

@@ -66,6 +66,14 @@ things at once: the concentration is real, *and* it's arbitrary, *and*
 history treats this arbitrary concentration as load-bearing anyway —
 that's the X-Files beat.
 
+**And the Theophylacts themselves act like it's special.** Inside the
+Gaiad, the House of Theophylact *treats* their Jesus bloodline as
+meaningfully distinguishing — they carry themselves as special heirs.
+They aren't. The gap between how they act about it and what it
+actually is (an arbitrary genealogical concentration of a ubiquitous
+line) is the comedy. The Gaiad lets them act without correcting them
+in-narrative; the reader sees the gap.
+
 ## Handling question
 
 Still an active question for the chapter, but not as open as I

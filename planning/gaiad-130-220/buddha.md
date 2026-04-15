@@ -65,19 +65,33 @@ too, and many do.
 
 **Cosmologically deflated, but ambiguous on cosmology itself.**
 
-## Open — Buddha's descendants
+## Buddha's descendants — Rāhula has kids in this version
 
-The Buddha has descendants: **Rāhula** (the literal "fetter") and the
-broader Shakya clan after him. Whether and how those descendants play a
-role in the Gaiad is an **open question**. Candidate moves:
+Historically, the tradition has **Rāhula dying childless** as a
+monastic. In the Gaiad, Rāhula **has descendants** — a deliberate
+counterfactual against the standard story.
 
-- Parallel to the Jesus-bloodline ubiquity (see
-  `gateway-ancestor-ubiquity.md`) — a Buddha descent-line that is
-  similarly widespread across South and East Asia, not secret,
-  structurally ordinary.
-- Thematic irony with the abandonment of Rāhula — the line that
-  continues is named "obstacle," and continues anyway.
-- Ties into the Shakya-as-Scythian question (`structure.md` §6),
-  which Emma has flagged as ambiguous.
+Where the line goes:
+- East, into **China**, alongside the **Manichaean** expansion (cf.
+  `muhammad.md` on Islam-as-Manichaean-heir and `elagabalus.md` on the
+  adjacent syncretic threads — the Gaiad's Manichaean material is
+  load-bearing and connects several arcs).
+- **Possibly reaches Genghis Khan** (see `mongolia.md`) — there is a
+  published genealogy on Geni that draws the chain to him. Status
+  uncertain: Emma isn't sure who added that entry, whether it's
+  reliable, whether it made it into the wiki.order.life Wikibase, or
+  whether it's in the local dump at all. **To verify once the import +
+  genealogical analysis pass is done** (see `../../todo.md`).
 
-Currently unresolved. Not committed to any handling.
+What this lets the Gaiad do:
+- **Structural parallel to the Jesus-bloodline move** (see
+  `marozia.md`, `gateway-ancestor-ubiquity.md`). Both founders end up
+  with descent lines that travel far from their origin communities —
+  Rāhula's kids heading to China is the eastern analogue to Jesus's
+  descent diffusing through the Roman world.
+- Thematic irony that the line **named "obstacle" continues anyway**,
+  against the tradition's own story.
+- Concrete downstream payoff if the Genghis link holds — Rāhula's
+  descendants connect into one of the most widespread Y-lineages on
+  earth, which would make the Buddha's genealogical footprint
+  comparable to Jesus's in reach, just via a different geography.
