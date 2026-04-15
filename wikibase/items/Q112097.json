@@ -1,0 +1,938 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Urraca Fernández de Castilla"
+      },
+      {
+        "language": "en",
+        "value": "Urraca Fernández"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q100435$24DE9277-A37E-4FAF-9A22-4F514A5CE9DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "316455"
+          },
+          "hash": "caa72c77e08927e385ce70a53dad169a3d17975f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q100435$28F045D1-79C4-405D-9DB0-E81E32036CEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106637"
+          },
+          "hash": "36da4b6bf7aad61676a196154079e72486a87913",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q100435$DDA77AE0-2AFF-4EB5-9FFA-843E0820D088",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100661",
+              "numeric-id": 100661
+            }
+          },
+          "hash": "46133096fb4e9726f102b31291fe5aaf553a4b56",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$A2DE67E3-036C-4D1E-93EF-3B0CD3DDC3A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100702",
+              "numeric-id": 100702
+            }
+          },
+          "hash": "dd5df90264280853f6a5967050b1ac30737b63d1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$DE9F6EB4-29AF-43CF-96BA-3C75EA8BDB4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100704",
+              "numeric-id": 100704
+            }
+          },
+          "hash": "bcc109dab853da2f0d0726ed38df9d205f9a2919",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$8B69C0F6-9850-4AF4-8838-BB7A29FF2003",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100706",
+              "numeric-id": 100706
+            }
+          },
+          "hash": "b4e1a1be105698564a1f88bedefa6846abb06dfd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$7AEF1E20-B2B7-4703-AAB9-B0AADBCDC17D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100726",
+              "numeric-id": 100726
+            }
+          },
+          "hash": "b15747362e927cf76355cd6872d7d213582ea68b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$F5311492-F424-44EE-9441-8CCE596BDAE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100950",
+              "numeric-id": 100950
+            }
+          },
+          "hash": "2438ad3892c4bac3c8a9efa8fbf3aba2e604392a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$856EDD01-F0F3-46ED-BE68-FB3423CA2404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110078",
+              "numeric-id": 110078
+            }
+          },
+          "hash": "c01b9a202f0a419d12be6e488243638430a564a8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$A2CC7388-4E38-4E62-86E0-109731C82C51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100952",
+              "numeric-id": 100952
+            }
+          },
+          "hash": "77cd9d05f3e3b77bdc0adf6b351ad1c8f180479e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$C74EE42B-D259-42FA-B56F-9FAAC6EA6F6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110080",
+              "numeric-id": 110080
+            }
+          },
+          "hash": "7fec6124cffd0f3bc3613e94af2c25ac1a82f880",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$646B97DF-431F-4DC3-839D-6F704AD07004",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100954",
+              "numeric-id": 100954
+            }
+          },
+          "hash": "94902ebbaf255d1e9a485a50a4448981c5800f53",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$6D8835BA-B674-48C1-BF99-148DF93EA8F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110082",
+              "numeric-id": 110082
+            }
+          },
+          "hash": "a9cf530ae400dd45a929fa70a809900419513eba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$F6DAFAA3-C861-487C-B692-0D17EEFDB631",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100956",
+              "numeric-id": 100956
+            }
+          },
+          "hash": "09b7030a33f61e99ae7d074c1a36a9ac53b5f039",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$8ECB4CA0-CC7A-4EB5-91D6-3DA104CAC765",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110084",
+              "numeric-id": 110084
+            }
+          },
+          "hash": "46b1311a4b21d2c10f8dcba885ec239b484a5550",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$E5A8F196-F2FB-4C51-B2D3-8070B9CC426F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100958",
+              "numeric-id": 100958
+            }
+          },
+          "hash": "65d8428f0a8bc6db60d52ffa883b1a7c137abde3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$E29BB904-E5A8-4AE9-9D3B-63C7760ED7CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110076",
+              "numeric-id": 110076
+            }
+          },
+          "hash": "3f358373dd425a2fc493877f668cf149ad70ac55",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$37DAFB90-CDAC-400A-8AC1-684DD2165FB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100960",
+              "numeric-id": 100960
+            }
+          },
+          "hash": "0d374e9237316d1645c37d26660b581fc7f682cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$1ED8110A-1740-4914-98B4-E8AA1889CC79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100962",
+              "numeric-id": 100962
+            }
+          },
+          "hash": "0d998283ef939ea607f3f6fc78e9bbc24fbd365d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$093AF0BA-3D85-4F0E-BF54-5F505C1E4B8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110074",
+              "numeric-id": 110074
+            }
+          },
+          "hash": "0f67e10875f5d11dd722dcb01afb51143602fc23",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$E99C4832-566C-40B7-9071-9319C7FC36FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110116",
+              "numeric-id": 110116
+            }
+          },
+          "hash": "f34bf6b5ee9da7294de98475bb6ec10882144b1a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q100435$55C8F1DE-88CA-47A9-B88C-C17D5B8318CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Castilla-48"
+          },
+          "hash": "bf0beab4be636f452224f976e6457cc1396f3db9",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q100435$4DD0D176-FC68-4D87-8C67-8B4CE07F1255",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$DE7F8E57-DAE2-427F-8227-F2EE8E848800",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q100435$C8A2F2D0-4A24-45C0-A892-000B99629654",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Urraca_Fernández_(1)"
+          },
+          "hash": "7b0cead2f04f15d5b4849881d49db1878f3f2762",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q100435$276507C7-5DE6-44F8-BE8A-01A8DA220393",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100308",
+              "numeric-id": 100308
+            }
+          },
+          "hash": "d122ee269cf1a65c38a68edda42ea4788c3edb8f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$ABCBADB5-43C5-4F5A-A0E4-B81A8A3D538F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100326",
+              "numeric-id": 100326
+            }
+          },
+          "hash": "e169ec00acb6659de7ba90f4731748dfde457af7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$247A71B5-9A0F-4ECA-A41C-22B4885B4E71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100948",
+              "numeric-id": 100948
+            }
+          },
+          "hash": "2d9a118eb371920ea0593fdea5684c768f0d1b15",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$97E57220-89FB-481B-975C-6D7739217A36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109780",
+              "numeric-id": 109780
+            }
+          },
+          "hash": "14b73d8403cf808dbc6d47ebc22588a7610bd83c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q100435$FF13D9EF-485A-4DCC-B317-F0BF7834FDF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100421",
+              "numeric-id": 100421
+            }
+          },
+          "hash": "71f6029e51dc8d21e1ef482e48ac7fa4d1fd0122",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$9105158E-3644-4EA9-8962-578E608A33E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109784",
+              "numeric-id": 109784
+            }
+          },
+          "hash": "bd67ba04ab1ab99ad4c8404ac14201bf78b2c2f7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q100435$71DB4B7D-940D-4E7D-A07E-22B8309B0B19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100084",
+              "numeric-id": 100084
+            }
+          },
+          "hash": "693e6a0e77131f371e17df2df5397cf29a92a4af",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100435$3C306139-0F81-47CB-A6F9-1681555D2F27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109563",
+              "numeric-id": 109563
+            }
+          },
+          "hash": "22c673d63bd1c71a1b8ba1a64c58e3246ca14d3e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q100435$F311EE55-7CCC-4F65-88FD-89103AF39E08",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "reina consorte de Navarra"
+          },
+          "hash": "52e753a509fec606e5317a094ac7c7616946ace4",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q100435$A092D2DE-38AD-443A-A915-BDB4BC16F944",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q100435$EBDA81D3-2FBB-4731-BFD3-515E86E3B90D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1007-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fdf3931ea64b05025b54019716fb777f8770cbd6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q100435$0D025F76-D62E-4FA8-8009-C26E1A3A85FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1944965"
+          },
+          "hash": "80344a51bfad610827a8faba6f298d834c1c3a7c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q100435$B03719AC-56C9-41B8-AC5B-CBA4F46CD920",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000129435686"
+          },
+          "hash": "81de40976dbba0331b313ca84b7dd386854405ce",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q100435$B95C81BC-A12B-4587-A07F-E857E7A4BD40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=urraca fernandez;n=de castilla"
+          },
+          "hash": "0a99f35ba898f96a7f1391762b3a3088f53eeb42",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q100435$5C0061A4-BFF8-472D-9314-4EF4C442BCD1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Urraca Fernández Arms.svg"
+          },
+          "hash": "f5907c1818d49a987f54b77e7230523654b6f720",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "reina consort de Lleó i de Navarra"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "leónská a navarrská královna"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασίλισσα του Λεόν και της Ναβάρρας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen consort of León and later of Navarre"
+    },
+    "es": {
+      "language": "es",
+      "value": "Reina consorte de León y posteriormente de Navarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Reine Consort de Léon"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Leonska i navarska kraljica"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "leóni és navarrai királyné"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Леона и Наварры"
+    }
+  },
+  "id": "Q100435",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Urraca Ferrández"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أوراكا فرنانديث"
+    },
+    "be": {
+      "language": "be",
+      "value": "Урака Фернандэс Кастыльская"
+    },
+    "br": {
+      "language": "br",
+      "value": "Urraca Fernández"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Uraka Fernández"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Urraca Fernández"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Urraca Fernándezová"
+    },
+    "de": {
+      "language": "de",
+      "value": "Urraca Fernández"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ουρράκα Φερνάντεθ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Urraca Fernández"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Urraca Fernández"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Urraca Fernández"
+    },
+    "es": {
+      "language": "es",
+      "value": "Urraca Fernández"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Urraka Fernanditz"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Urraca Fernández"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Uraka Fernández"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Urraca Fernández"
+    },
+    "it": {
+      "language": "it",
+      "value": "Urraca Fernández di Castiglia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウラカ・フェルナンデス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Urraca Fernández"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Urraka Fernández"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Urraca Fernandes de Castela"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Urraca Fernandes de Castela"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уррака Фернандес Кастильская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Urraca Fernández"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Uraka Fernández"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "烏拉卡·費爾南德斯"
+    }
+  },
+  "lastrevid": 17405338,
+  "modified": "2025-09-15T22:07:39Z",
+  "ns": 860,
+  "pageid": 118125,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q100435",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q100435"
+    }
+  },
+  "title": "Item:Q100435",
+  "type": "item"
+}

@@ -1,0 +1,143 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113501$FD79DE64-24D4-4E55-A10A-84AE64047F03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113501$A5288186-8380-48F3-ABCB-0EFE54162C8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113501$71060420-CD49-4F7F-B8E7-1621EE99CD3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113501$E32B7412-5549-4314-AF23-6F95A8C5F083",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1030-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d276bd668ca8aa1ce201c60caf171d46a0607063",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113501$A453417B-A212-45BF-858F-8EF9484A0ADB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010913954409"
+          },
+          "hash": "a485e9c4de45188e44e6820fe8f3415cab2566b3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113501$719DF747-F344-4315-BD25-CD31CBA4C20F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sancho  Bermudez Arms.svg"
+          },
+          "hash": "d8f1431e15410c5f8311f3d585aaf947e6e41b7e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113501",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sancho  Bermudez"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sancho  Bermúdez"
+    }
+  },
+  "lastrevid": 17525345,
+  "modified": "2025-09-17T04:17:03Z",
+  "ns": 860,
+  "pageid": 135693,
+  "sitelinks": {},
+  "title": "Item:Q113501",
+  "type": "item"
+}

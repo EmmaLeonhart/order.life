@@ -1,0 +1,143 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113931$61824FD8-49C7-4104-8B70-AB23B215795B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113931$B24F21B6-51E8-413B-9B65-4B24D97449A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113931$198DE539-8282-4A0A-B8B1-2C2CCC7AE0FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113931$03B14DAE-EA15-4CE8-8BE8-39A73B6DB0DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0990-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ccc92f4e2911fb6a8a6faf87abb4ee5881654676",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113931$7FDD4E2D-8AD0-4871-8542-E99FB4EAB58F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003593885258"
+          },
+          "hash": "34ae44cc81aeb228eeaec57fa013346b5db3407c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113931$1850C258-B4DA-433D-880C-61EC7D30E53F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria  de Froilaz Arms.svg"
+          },
+          "hash": "b7c5e6312234d74abd976ba945a2affdc154c3f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113931",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maria  de Froilaz"
+    },
+    "es": {
+      "language": "es",
+      "value": "María  de Froilaz"
+    }
+  },
+  "lastrevid": 17526077,
+  "modified": "2025-09-17T04:31:42Z",
+  "ns": 860,
+  "pageid": 136270,
+  "sitelinks": {},
+  "title": "Item:Q113931",
+  "type": "item"
+}

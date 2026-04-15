@@ -1,0 +1,760 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sancho I 'el de los Buenos Fueros' García de Castilla"
+      },
+      {
+        "language": "en",
+        "value": "Sancho I el de los Buenos Fueros, conde de Castilla"
+      },
+      {
+        "language": "en",
+        "value": "Sancho \"El de los Buenos Fueros\" García de Castilla"
+      },
+      {
+        "language": "en",
+        "value": "Sancho García of Castile"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q100914$332076B6-4A1F-48A6-89E9-E0A684993B0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "302255|328972"
+          },
+          "hash": "7f51baff721d3ebd4ce7ceabb7952a1ef979374c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q100914$4452F273-6AF9-4FD3-A37F-D7F0D1ACB165",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106631"
+          },
+          "hash": "d40a1a511c5c10b171d7c8d7f605f067bcb6f54d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q100914$0DE58750-3EDB-4160-B6E9-1C6D7BDE57EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110540",
+              "numeric-id": 110540
+            }
+          },
+          "hash": "6e054bbf08d5d826b2d989e6feec3a3a747665df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$035EEFF3-9EE3-4ACD-A5E6-1479AFAAD233",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113337",
+              "numeric-id": 113337
+            }
+          },
+          "hash": "634078881afd46a9979b209053081e95031f04c9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$969A4E0A-5CA1-4C3B-A890-3CA9635DEABE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101677",
+              "numeric-id": 101677
+            }
+          },
+          "hash": "2651d83376238a13270a7bfe04a5b351e1c63332",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$591C128F-025E-499B-B33F-A73A39D2569F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101679",
+              "numeric-id": 101679
+            }
+          },
+          "hash": "e4e6912e6c4ee121d96a02052a2766e49b212cfe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$7FDFB3B2-9CEB-45BA-88CA-969915AFA441",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113343",
+              "numeric-id": 113343
+            }
+          },
+          "hash": "5c93a7cfa21d73eb1cbd0a4f2544f533ea3daf5c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$F3EC5E25-57B2-479C-8D33-BF03D58618DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113345",
+              "numeric-id": 113345
+            }
+          },
+          "hash": "52a6c1fe2bb5bded0fa60c9b94f2b721ffb9491b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$6247A740-BA23-4801-BA11-2C2B6B2688D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113347",
+              "numeric-id": 113347
+            }
+          },
+          "hash": "204fcd73007405ce012555961311de197a92687b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$9E0E658B-5288-4A0A-9ABB-79734A522329",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110546",
+              "numeric-id": 110546
+            }
+          },
+          "hash": "8fabf82db3c3f50ad0f16ceab2c9ce4261dfad6d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$2A0A0CA3-B9BA-4DA2-9DA6-1B202717791A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110542",
+              "numeric-id": 110542
+            }
+          },
+          "hash": "a6bfffbfcd9521f3f2ac48bb472d484b736fde13",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$47D55A10-7E33-44AA-991E-24892C1705FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110544",
+              "numeric-id": 110544
+            }
+          },
+          "hash": "8d04a54c8f9bd9e6498474c72e6211e9c5311fd9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q100914$BB9501B4-6A48-4888-BDBE-4586B958AD5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Castilla-45"
+          },
+          "hash": "668eac7854c6edc0b6b2067e9724eba869677840",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q100914$8623B135-0FFC-4B5E-82CB-FD97082992A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$78FEEA40-D516-468E-9F32-4050F2136985",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q100914$6CEA8456-3441-4C17-AEF5-1395E4CB8975",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sancho_García_of_Castile_(1)"
+          },
+          "hash": "d5cb35385090f6392b5705bb0f42f4714302c847",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q100914$2A1139FE-93AA-4A6F-A5BF-3C20C6957103",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100936",
+              "numeric-id": 100936
+            }
+          },
+          "hash": "f4a75e21f3b5ce6db190722d44d9e5c07f59f2ab",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100914$8DFE192B-AD6B-4391-A873-C1CF6B453032",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110120",
+              "numeric-id": 110120
+            }
+          },
+          "hash": "8fad32eaa1928b30fcd9c4f2801e8ef40535eda6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q100914$6DF8D91D-ACEB-4A48-BCD1-14306DE7F057",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11331.htm#i113308|p15316.htm#i153152"
+          },
+          "hash": "b607ec769fc20922119283b2156df9f6affe6d00",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q100914$E1F4062D-2BE1-4693-83FA-B4C7CF5D10A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100427",
+              "numeric-id": 100427
+            }
+          },
+          "hash": "4b1b9fca9b2a6246452699790edf72ac1d314b88",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q100914$16C1D91A-919F-4E13-B51A-C274CD101EF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100912",
+              "numeric-id": 100912
+            }
+          },
+          "hash": "e52dd6f25673e04840db0ea65258d9f525f44dd9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q100914$945EF4F5-49FD-4C00-851E-E11783AE5BF8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "conde de Castilla"
+          },
+          "hash": "cb8b7cfa32f795790bea9bf0d216672a89a356d8",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q100914$EBE6AECE-348C-4E6C-BFAE-044250DBF9E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q100914$E1C8F1E6-384E-4BF9-87EA-5F5C4D2E4396",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0965-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "87ec5f5550827cd41f305dc4557247f3a819eff5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q100914$2D188AE0-4B5F-4A87-81F9-3E125C4EF536",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1017-02-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3cd1dd422c90a5572e392796d3dda8d93ff4c372",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q100914$5A9FCDFE-04C5-4E96-B39C-068AF06EBDAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q509637"
+          },
+          "hash": "1ba832b4f81e7356cd9cfe66e9232dc56b97b061",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q100914$7DD4D602-3A06-4049-B54C-70135047B07A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012996889204"
+          },
+          "hash": "0a2de8fb448d7980302f626b51b49c6c060f7011",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q100914$D478C98C-07D4-41BA-903F-2ED8FA212E52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=sancho garcez;n=de castilla"
+          },
+          "hash": "64a233b7e3c45db8fa48e57d67fca1797d30d47f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q100914$31AD721F-971E-4607-AA55-80918AF7AE78",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sancho García of Castile Arms.svg"
+          },
+          "hash": "1ff298a0a12fb1c1501ee92b1642b9a9e7f41c9e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ألماني"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Kastilien (995–1017)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόμης της Καστίλης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Castille"
+    },
+    "es": {
+      "language": "es",
+      "value": "conde de Castilla"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Castille"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "conde de Castela"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי גרמני"
+    },
+    "it": {
+      "language": "it",
+      "value": "conte di Castiglia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "krijger"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "hrabia Kastylii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Кастилии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande greve av Kastilien"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德國政治人物"
+    }
+  },
+  "id": "Q100914",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سانشو غارسيا كونت قشتالة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سانشو جارسيا كونت قشتاله"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sanç I Garcia de Castella"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sancho García Kastilský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sancho García"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σάντσο Γκαρσία της Καστίλης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sancho García of Castile"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sancho García"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antso Gartzeitz Gaztelakoa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sancho García"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sanche Ier de Castille"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sancho García"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sančo García"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sancho Garcés"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サンチョ・ガルシア (カスティーリャ伯)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sancho I Garcés"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sancho I Garcia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sancho Garcia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sancho Garcia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Санчо Гарсия"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sancho García av Kastilien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Санчо I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "桑乔·加西亚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "桑乔·加西亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "桑喬·加西亞"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "桑喬·加西亞"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "桑喬·加西亞"
+    }
+  },
+  "lastrevid": 17410462,
+  "modified": "2025-09-15T23:12:37Z",
+  "ns": 860,
+  "pageid": 118768,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q100914",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q100914"
+    }
+  },
+  "title": "Item:Q100914",
+  "type": "item"
+}

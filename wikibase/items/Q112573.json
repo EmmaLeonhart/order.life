@@ -1,0 +1,747 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ava Argentina de Ribagorza"
+      },
+      {
+        "language": "en",
+        "value": "Ava de Ribagorza"
+      },
+      {
+        "language": "en",
+        "value": "Ava of Ribagorza"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q100912$55036E42-407B-4710-8D7E-7DF5678114AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "302261"
+          },
+          "hash": "d7f322fc24017b5de4ec9dcccea437fe328c6a88",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q100912$7494477C-3B29-46F5-A133-D2F4A010B4DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106135"
+          },
+          "hash": "eef11ea65b0c4f04f13aa424c4903ae1b3ef208a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q100912$6288B47E-B3FA-4457-91E9-9951A9810E70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100914",
+              "numeric-id": 100914
+            }
+          },
+          "hash": "1c43b936183d0ae370d6866ac681c74500b2e3cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$2C7302B7-88B5-4DBC-8951-D5F8F817C81A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110112",
+              "numeric-id": 110112
+            }
+          },
+          "hash": "70a3418e1732826bd2a8540aa90b3e507fd8805e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$3BA2F5D5-65D3-40FC-9BFA-9222102C01E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100916",
+              "numeric-id": 100916
+            }
+          },
+          "hash": "d701cbad34141780d90c8412d829dbd22289d571",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$EDE01881-2A23-483A-B4F4-E69E9B50B1DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110114",
+              "numeric-id": 110114
+            }
+          },
+          "hash": "d3ed517160ceae82d8e33ae07dd6e6301846c0e1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$71A85B1B-38FC-4F15-8EBB-9A3ACBBB3436",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100918",
+              "numeric-id": 100918
+            }
+          },
+          "hash": "9bb77c22bdd665df5ae660b080b0671038059feb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$51990682-C05C-4EE4-8C9A-5DB743E4122C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110108",
+              "numeric-id": 110108
+            }
+          },
+          "hash": "3c8c0d0a47fe33b78c9ae20bbd626a4aaf8808dc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$99751E5D-5E6A-4E6F-B0BB-91AFB3546C15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100920",
+              "numeric-id": 100920
+            }
+          },
+          "hash": "893b832fe9b037e8abbd266a6f71e6a86e0ab1f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$7E932D0C-DD64-4D8C-8530-73E01C4784CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100926",
+              "numeric-id": 100926
+            }
+          },
+          "hash": "ed1b68a50a45909b0b40244b613827a4e20e0338",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$6CEC10AE-0941-40B0-9B98-2681ED758F65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100922",
+              "numeric-id": 100922
+            }
+          },
+          "hash": "d40e83d8bc339c940b48898488bce0ddc1f04b58",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$1A90E52D-D5B4-487D-B441-5E3B79D150B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110110",
+              "numeric-id": 110110
+            }
+          },
+          "hash": "3b0a995f96d6e1159af5425b4e8d6dea29ff53e1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$FDB72795-E650-4631-BFDF-4E6222B05237",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100924",
+              "numeric-id": 100924
+            }
+          },
+          "hash": "5f2016e0f0eb81fd388724e7987749bafba6d7be",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$8EE74CC6-AE46-4860-8FC2-F8627E898573",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110106",
+              "numeric-id": 110106
+            }
+          },
+          "hash": "6be365c278ce4dde6cb988fdbf4807067ceffc7c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$5BA09086-546D-4039-AD68-AE0CC823A22B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100928",
+              "numeric-id": 100928
+            }
+          },
+          "hash": "cdb5ec3cbdedd2c1b9ce9dcff0e81b145b55b495",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q100912$5C7822EC-3B8E-4AEF-911F-A72BF98DF3CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ribagorza-2"
+          },
+          "hash": "527bb689e1a17b62f7af88d61a203d10bef974c7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q100912$6059DB7E-6FC9-418E-B51C-BB6AFE33B2C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$0A610403-E531-42EA-9267-813B59FE153B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q100912$54BB21EC-4B74-43F9-9194-269EE25A31A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ava_De_Riborgaza_(1)"
+          },
+          "hash": "eceddbfbacf0c55e50efecf2b5ed3b940ca4dac4",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q100912$7CA92D7C-055A-42A6-B568-7CD409FD0511",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100427",
+              "numeric-id": 100427
+            }
+          },
+          "hash": "1f70ab64b6d99fb4fc9daa08bc3bab656085c18a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q100912$A0E1D933-2BA0-4F37-9AC4-73D2447B58B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p41650.htm#i416500"
+          },
+          "hash": "7f4f963938de3c49b81594e4077f456085750fb6",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q100912$03F657C3-32D5-4541-836A-D56745869AE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101591",
+              "numeric-id": 101591
+            }
+          },
+          "hash": "bbcce9a55ec700251fb4a8776a28d5e25428d632",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$9BCD5984-4B59-4A1C-B5B6-71C48DE31694",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110422",
+              "numeric-id": 110422
+            }
+          },
+          "hash": "f4fe67eb6979487245b6b37df8727e3556e5b90a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q100912$CEDE0660-995E-4843-A66D-D0B1E04A4453",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102778",
+              "numeric-id": 102778
+            }
+          },
+          "hash": "4113a13603f8bd5258c95f5724e705885da7c286",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100912$A31549CD-2608-4933-B521-6659FA6B39FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110530",
+              "numeric-id": 110530
+            }
+          },
+          "hash": "78ef1033056df84343bc0f2a514ea754aa591ca5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q100912$D728EE8B-6599-4EB9-9F41-60243DF7A48B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q100912$6A0F6D6D-455F-4808-AD88-A53F6A7EDC98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0942-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e4cd0803f6e849f4cd439a5a40b2745c0dd4628a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q100912$4034BF5F-7644-4964-9E51-FC45DF9CE92B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0f06eb64a36ac7576bf4a559a229ea93027f7a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q100912$393D2D05-1BA0-48EA-831A-2E35D3901E24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8263136"
+          },
+          "hash": "17a297f6396bd6300607f6f54c9f27a4a54fa987",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q100912$2C5D557F-0931-41DC-B732-0353A8455AA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012996575824"
+          },
+          "hash": "c0d1394add0c53888ce2e9dad84e028f164a95b9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q100912$014F4047-E3F6-4192-8C8C-4C26FCC6D7AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ava raymondez;n=de ribagorza"
+          },
+          "hash": "35fd7768964c7cc0ac58c3e5a1092970e777ef99",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q100912$17784CBD-53F3-46BC-9881-058FE9F20E46",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ava of Ribagorza Arms.svg"
+          },
+          "hash": "bd509894c833dfa028f994458dcc026c134b8fa1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=416500"
+    },
+    "es": {
+      "language": "es",
+      "value": "Condesa de Castilla"
+    },
+    "it": {
+      "language": "it",
+      "value": "contessa consorte di Castiglia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グレゴリオ暦の暦法をその施行前にも適用したもの"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "графиня Кастилии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "grevinna av Kastilien"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "將格里曆回推至最早採用的時間點以前而成的曆法"
+    }
+  },
+  "id": "Q100912",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "التقويم الغريغوري"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ава з Рыбагорсы"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ava de Ribagorça"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ava z Ribagorzy"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ava of Ribagorza"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ava de Ribagorza"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alba de Ribagorza"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ava od Ribagorze, kastiljska grofica"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ava di Ribagorza"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "先発グレゴリオ暦"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "역산 그레고리력"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ava de Riborgaza"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ava de Ribagorza"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ava de Ribagorza"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ава из Рибагорсы"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ava av Ribagorza"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "外推格里曆"
+    }
+  },
+  "lastrevid": 17410442,
+  "modified": "2025-09-15T23:12:21Z",
+  "ns": 860,
+  "pageid": 118765,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q100912",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q100912"
+    }
+  },
+  "title": "Item:Q100912",
+  "type": "item"
+}

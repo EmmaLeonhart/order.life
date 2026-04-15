@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guillaume d'Astarac"
+      },
+      {
+        "language": "en",
+        "value": "Guillaume, comte d'Astarac"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q105001$9E3C7252-EE9B-4246-9183-A89C38267CB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q105015",
+              "numeric-id": 105015
+            }
+          },
+          "hash": "cae11fba097873c6e5605dd42e95f27450727ea5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q105001$9232F0C8-81DA-4622-B2CB-D1146474B647",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q105001$D68BA2D1-4B3E-442C-B9D0-F7FA531B3411",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q105001$51D88DC7-25D1-4073-99E0-C992217F2214",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q103019",
+              "numeric-id": 103019
+            }
+          },
+          "hash": "7d703c421552fcc7a8ba7e7a4a4907f3f01eea99",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q105001$98000B2F-CC0D-4B97-A60F-3DAE1DA2E0BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104317",
+              "numeric-id": 104317
+            }
+          },
+          "hash": "cbfbee543fd9c535ca654ca2b250cc757b67227e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q105001$0D32E1DC-F262-4398-ACA8-CD975CAD686C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q103015",
+              "numeric-id": 103015
+            }
+          },
+          "hash": "761a0f5443d66ffdff42835c3cd187e93433df4e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q105001$1F6D88FE-F3D3-4611-98D9-155A67390CBF",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Comte d'Astarac"
+          },
+          "hash": "e1867901593051c597e3f9c15933dd8fb0c5725b",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q105001$3DFA1AAF-20F9-4AC6-9125-F583AAD699EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q105001$33D2903C-C3AA-4C1C-A466-4C2C18AC5A2F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002459921501"
+          },
+          "hash": "a104314d3a95af9078cb17aa473ae11ec4e0f4e1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q105001$C65E11D8-7A3C-4402-A249-EB516E3467EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume, comte d'Astarac Arms.svg"
+          },
+          "hash": "41c1c66d23e057bda2116373cd79acb2eac5044d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q105001",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Guillaume, comte d'Astarac"
+    }
+  },
+  "lastrevid": 17517700,
+  "modified": "2025-09-17T02:19:21Z",
+  "ns": 860,
+  "pageid": 124269,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q105001",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q105001"
+    }
+  },
+  "title": "Item:Q105001",
+  "type": "item"
+}

@@ -1,0 +1,150 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dórdia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113317$FA3EE287-BE5F-4634-9E76-86F63DDF675C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113317$5D675885-E813-493C-BAF5-C08A06CADF36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113317$2A950574-60CF-4E74-9F6A-2AE9B9539D6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113317$B21184C3-C6B9-4456-B3CA-E50569FE1457",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0970-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a6a22a3a333c2314b8fb9c764b41a5835c2c379",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113317$722A5531-EF8F-451C-90C4-6E43B764B49E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006277494323"
+          },
+          "hash": "5a5a4a567172c3b840a6805a824f3995cc9a0dc9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113317$B5D9014F-22F0-44F6-A818-6DDE22442FDD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dordia Arms.svg"
+          },
+          "hash": "3e58555dcfc099d608227eae728177a1bd300ecc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113317",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Dordia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dórdia"
+    }
+  },
+  "lastrevid": 17525039,
+  "modified": "2025-09-17T04:11:06Z",
+  "ns": 860,
+  "pageid": 135446,
+  "sitelinks": {},
+  "title": "Item:Q113317",
+  "type": "item"
+}

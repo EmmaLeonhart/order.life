@@ -1,0 +1,154 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ximeno Sánchez"
+      },
+      {
+        "language": "en",
+        "value": "Jimeno Sánchez"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113539$88EC81D2-8BF1-4865-BEAC-CB12EC47F2E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113539$CE3A4680-F49D-4B75-B5C1-39F8F952646D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113539$AE7ED198-2292-405E-8A3B-261558626D3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113539$43206224-F134-4E8E-B6C2-A7195F099641",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0980-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c63a72cb9f3cd94546b32afcef0a8a02981cad6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113539$BE35C15B-CA2A-41FE-9724-4591540D758B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000529574627"
+          },
+          "hash": "4d596826ec5c2980fc4fb9598ab413590677c5db",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113539$F7D76012-FBC2-4010-8FD2-8F5F01BA9819",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jimeno  Sanchez Arms.svg"
+          },
+          "hash": "9a130a9091966c19ad0053d75bdb93fa09bfce85",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113539",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jimeno  Sanchez"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jimeno  Sánchez"
+    }
+  },
+  "lastrevid": 17525409,
+  "modified": "2025-09-17T04:18:18Z",
+  "ns": 860,
+  "pageid": 135744,
+  "sitelinks": {},
+  "title": "Item:Q113539",
+  "type": "item"
+}

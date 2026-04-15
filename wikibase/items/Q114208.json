@@ -1,0 +1,174 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gombaud de Gascony"
+      },
+      {
+        "language": "en",
+        "value": "Gombaud, Duke de Gascony"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q114208$B25205B9-CF1C-4B45-B228-C47DD0D17961",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q114208$088496A5-E230-486C-8442-B1D99F6CAA73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q114208$DB045293-B146-42DF-80CF-5A51A5B41BD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q114208$C1F908C7-3F58-40B9-B0C8-8BA5E54BC970",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0930-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b756e5f8ce0e0858d9ec08d06a48d9c73e7ea96",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q114208$78330557-6220-4AD4-AA96-E33DDE70C7CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0998-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ed7a0171c45a3a04a49db938862f9d3cac306fb7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q114208$21517FF3-C18E-4828-88B4-7F38E1825212",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003827661466"
+          },
+          "hash": "23c4becbf6f2095f3de49acbf4930176d1e14f51",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q114208$454334F5-03A0-4400-AC4A-4CDE1B546DC8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gombaud, Duke de Gascony Arms.svg"
+          },
+          "hash": "3e908ca7d5b366d938657b13f15f2527b66429ba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q114208",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gombaud, Duke de Gascony"
+    }
+  },
+  "lastrevid": 17526577,
+  "modified": "2025-09-17T04:40:48Z",
+  "ns": 860,
+  "pageid": 136641,
+  "sitelinks": {},
+  "title": "Item:Q114208",
+  "type": "item"
+}

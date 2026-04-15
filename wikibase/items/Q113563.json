@@ -1,0 +1,150 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elvira Pelaez"
+      },
+      {
+        "language": "en",
+        "value": "Condessa D.Elvira Pelaez"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113563$18CEB6AE-8567-499E-A1CA-10EE103EB5C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113563$4B138E0E-64F8-499F-9E8D-D12B6B26A9C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113563$ADC5C813-8EB8-4793-B5D1-EC669144FCF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113563$6D980DDF-34CC-4EBC-91F8-AB37E1210B5D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113563$791ECE6B-0D34-4A81-B33F-5667F2872FC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011360512692"
+          },
+          "hash": "9325fea0386876a9d122e66db5694dbe0cab93b1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113563$E9056BAD-0CD8-4FF3-A098-683BBC0616A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Condessa D.Elvira Pelaez Arms.svg"
+          },
+          "hash": "034d30650c93e18649a328bfbf918be11ca7510a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113563",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Condessa D.Elvira Pelaez"
+    }
+  },
+  "lastrevid": 17525447,
+  "modified": "2025-09-17T04:19:02Z",
+  "ns": 860,
+  "pageid": 135776,
+  "sitelinks": {},
+  "title": "Item:Q113563",
+  "type": "item"
+}

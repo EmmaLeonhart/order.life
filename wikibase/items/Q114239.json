@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bouchard II of Vendome"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Bouchard II of Vendôme"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q114239$721E4857-251D-4E97-B0B6-4877100EECE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q114239$23A87DDD-E809-4309-8688-45D28F0CC2D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q114239$FEADE1A2-69CE-4583-91A1-976B017FB7C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114189",
+              "numeric-id": 114189
+            }
+          },
+          "hash": "9534ea7529f48430a5e453882af4ec8152dbc933",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q114239$F2B3EC4E-B6DF-4168-B3CD-B2F5B23E0CBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112622",
+              "numeric-id": 112622
+            }
+          },
+          "hash": "6f3886ea5757706604edd5d02ad76110d03b4bcb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q114239$08E76747-46D7-447E-B575-FBB5F2A888CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q114239$05C02D89-94AB-4C48-B467-3374BE858888",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2195012"
+          },
+          "hash": "fe23282bd73f1a85159f400908d9f46b21d63915",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q114239$31EA5EEB-B679-49E1-8AFA-25AB5FCAADD5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bouchard II of Vendôme Arms.svg"
+          },
+          "hash": "abc8380b828175a1276c66f16b3575f0e150572e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "French count during the 11th century"
+    },
+    "es": {
+      "language": "es",
+      "value": "conde de Vendôme (Francia) durante el siglo 11"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Vendôme au 11e siècle, issu de la maison de Nevers"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Бодона Неверского"
+    }
+  },
+  "id": "Q114239",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Μπουσάρ Β΄ ντε Βαντόμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bouchard II of Vendôme"
+    },
+    "es": {
+      "language": "es",
+      "value": "Burcardo II de Vendôme"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bouchard II de Vendôme"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Burchard II van Vendôme"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бушар II де Вандом"
+    }
+  },
+  "lastrevid": 17526624,
+  "modified": "2025-09-17T04:41:28Z",
+  "ns": 860,
+  "pageid": 136682,
+  "sitelinks": {},
+  "title": "Item:Q114239",
+  "type": "item"
+}

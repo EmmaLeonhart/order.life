@@ -1,0 +1,157 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mem Pais Mogudo"
+      },
+      {
+        "language": "en",
+        "value": "Mem Pais de Mogudo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113695$C458E64D-7A74-4D0C-AB0F-AC32B40258D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113695$53AF1F9B-FF7D-478C-B28C-339C488BD1DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113695$85095FA6-1129-4E6B-8B6F-17BD71F4E3A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113695$059EA746-0751-490B-B02B-716F2DA2EDB5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1110-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16108bca3d827327f819ad4a236f1d5cbe2133cb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113695$C8B37FA8-6DF1-4B16-A6C3-1B9594598028",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001412918732"
+          },
+          "hash": "f9c0f4ba965a536d47580c5e0cdd21d9523715fb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113695$15AC3F0B-629E-40EE-98D4-F55F2558878C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mem Pais  de Mogudo Arms.svg"
+          },
+          "hash": "851a4c81939e884322164fbce58b9855db32748b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113695",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mem Pais  de Mogudo"
+    }
+  },
+  "lastrevid": 17525675,
+  "modified": "2025-09-17T04:23:39Z",
+  "ns": 860,
+  "pageid": 135953,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q113695",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q113695"
+    }
+  },
+  "title": "Item:Q113695",
+  "type": "item"
+}
