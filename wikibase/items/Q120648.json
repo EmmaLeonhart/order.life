@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aubry de Montmorency"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q120648$3AADF0AE-6621-4482-8285-500016E9F5A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1206238"
+          },
+          "hash": "4fe474743b95247f641261cc104bec2320914839",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120648$342FAE3B-7FF9-4C45-AA46-E5C5A95E0BC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120648$A1802EAB-A6FF-44F1-B4B7-3ED3FB70B6A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120648$F98680C1-EAA0-4AA6-AADC-EA88D173525D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116731",
+              "numeric-id": 116731
+            }
+          },
+          "hash": "05a0d49a4cfc113b13fe5d69f435cb16e70ece4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120648$05596102-44D5-458C-A651-54E9984A50BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120648$793F3748-9F71-4701-B5F9-E68F65445E36",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120648$F36F14E3-356E-4850-881B-8D37E7DD0082",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q758529"
+          },
+          "hash": "c4746b3c6c0bb2d2de844cd3127fddfc4f2dc39e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120648$DACFCE27-7331-4EDF-A90B-3467A18C2CEA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aubry de Montmorency Arms.svg"
+          },
+          "hash": "60ba342e70f7f4ed06e1ae03110d6948ba79c470",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "oficial francés"
+    },
+    "de": {
+      "language": "de",
+      "value": "Connétable von Frankreich"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans officier"
+    }
+  },
+  "id": "Q120648",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "da": {
+      "language": "da",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aubry de Montmorency"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aubry de Montmorency"
+    },
+    "es": {
+      "language": "es",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "it": {
+      "language": "it",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aubry de Montmorency"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Альберик I де Монморанси"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Albéric Ier de Montmorency"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Albéric de Montmorency"
+    }
+  },
+  "lastrevid": 17533855,
+  "modified": "2025-09-17T06:21:00Z",
+  "ns": 860,
+  "pageid": 145273,
+  "sitelinks": {},
+  "title": "Item:Q120648",
+  "type": "item"
+}

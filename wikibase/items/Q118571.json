@@ -1,0 +1,178 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alvaro Díaz"
+      },
+      {
+        "language": "en",
+        "value": "Don Álvaro Díaz, Señor de los Cameros"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118571$402081AC-0282-40D9-AB49-81FAD2839ADD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118571$7C59B534-10C2-4CC7-A10D-433353A56C5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q118571$48203485-DE6B-4F2B-8ACE-9B7C682B7D79",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Señor de los Cameros"
+          },
+          "hash": "0e0d1b2b1364da918faf3726f7bf0aa842435961",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118571$2344A5D2-8037-4FEA-A75C-76B6C891B030",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118571$DF1FA328-07DC-436E-9E10-99743E13FF84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1219-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3cee7551b15e62f40e0a1e3b1c77af6047a666ca",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118571$82A043C8-6A25-4E83-8935-9D8B43695FE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005931149698"
+          },
+          "hash": "b512324afab5d4f8b02806383fd6197312a7328b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118571$EA695833-324F-41C3-9DD9-99DA536E6176",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Don Alvaro Diaz, Senor de los Cameros Arms.svg"
+          },
+          "hash": "a0e81f06b1b5178f3d11a80f896caa05edd9b869",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118571",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Don Alvaro Diaz, Senor de los Cameros"
+    },
+    "es": {
+      "language": "es",
+      "value": "Don Álvaro Díaz, Señor de los Cameros"
+    }
+  },
+  "lastrevid": 17531427,
+  "modified": "2025-09-17T05:48:39Z",
+  "ns": 860,
+  "pageid": 142487,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q118571",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q118571"
+    }
+  },
+  "title": "Item:Q118571",
+  "type": "item"
+}

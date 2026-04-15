@@ -1,0 +1,301 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eleonora di Savoia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121576$47CC0CC8-90C2-459A-8CE7-C79E41A837D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "472077"
+          },
+          "hash": "8a1ee3a4e5f11869de4b18a712748cf90d85c36f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q121576$16513CD0-ACC4-41F7-A8B9-E2EE7E34DA98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Savoie-660"
+          },
+          "hash": "8c6cff852dc027beeafdaf692faadba5f7d3a8ab",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121576$570CB408-15EA-4FD2-BCFE-7B3B24FDBD02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121576$5ACE5DC6-C33B-43D8-96E0-283C7BF1A325",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121576$47D417B5-7DE6-4BA1-A934-8277D1C33DBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117247",
+              "numeric-id": 117247
+            }
+          },
+          "hash": "dbaf637871a2455730acd8a574fb1084191d1165",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121576$EE7D3452-295C-453D-9C8A-1818456FEFF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119608",
+              "numeric-id": 119608
+            }
+          },
+          "hash": "38dc5ec21598abc6e83331e4acfb57b114ec1c39",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121576$9239645A-D5BD-4683-8F08-1094D1C1D116",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122385",
+              "numeric-id": 122385
+            }
+          },
+          "hash": "497bc1610df9ed4ec04e4ade5cb9ece535ad3b55",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121576$97A94C7B-FA25-449A-A9B0-041C6902A879",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121576$2964D9D7-FB02-44C7-85DB-329E7DF501AE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1204-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c06fb82c58367a40ba36fa595fc5af733e18b1c2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121576$9780D330-56EA-44C7-A9F3-9B19BF029329",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16721954"
+          },
+          "hash": "e9bc2b328edb253500e399fb3a707caf192dd8fd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121576$B64A85E5-F640-4294-A3A7-08056DB50A28",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=eleonore;n=de savoie;oc=2"
+          },
+          "hash": "2df9f3e33ab7aeb99b2a7a3c7f0d2080d144af42",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121576$040E1A40-EE27-4208-80E4-C23671AAAAE3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eleonora di Savoia Arms.svg"
+          },
+          "hash": "d4ef28783ebb48851d2dd612e34f68d729ee79ce",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1167 - 1204"
+    },
+    "it": {
+      "language": "it",
+      "value": "( - 1204 ca.)"
+    }
+  },
+  "id": "Q121576",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Eleonora di Savoia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Elionor de Savoia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eleonora di Savoia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eleonora di Savoia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eleonora di Savoia"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Eleonora di Savoia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Éléonore de Savoie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eleonora di Savoia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Элеонора Савойская"
+    }
+  },
+  "lastrevid": 17534770,
+  "modified": "2025-09-17T06:33:54Z",
+  "ns": 860,
+  "pageid": 146516,
+  "sitelinks": {},
+  "title": "Item:Q121576",
+  "type": "item"
+}

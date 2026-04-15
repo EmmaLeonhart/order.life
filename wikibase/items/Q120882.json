@@ -1,0 +1,284 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Louis de Bar"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q120882$87A7F8D7-DDE9-43C3-90B5-12CD01C2195D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00426929"
+          },
+          "hash": "afb2a901c4de4459280813d78ddc57f362b9d601",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q120882$32E41588-03FB-479D-81EF-6650548A0C37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mortbell-2"
+          },
+          "hash": "6b2ad781cf60cfe8bc11a1f3d305cab2d3d4a0b1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120882$AA02B160-6109-40DF-B4F0-11476D488FC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120882$E3650F50-B89C-43D2-B4F4-CFF0A9521339",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q120882$D4865DD1-7FFE-46F3-B2A4-52FCCFBDF6E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Louis_Mortbell_(1)"
+          },
+          "hash": "bd6a66b14880ad22da1d33bb1d549cae1203753e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120882$F6D42943-B316-4051-9506-D54D1A9507EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116907",
+              "numeric-id": 116907
+            }
+          },
+          "hash": "9f8b56e080c57c1754f0b71c63e6bafb510cdbe6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120882$218A5046-4516-4750-AC04-67278ADAA155",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120882$FF0AD826-F1E1-4CBA-8390-58B6E875E514",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1078-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b665dbd6cca26d7e0609f7b661bf9cea3207cfec",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120882$D0A3046C-7F59-421E-8F00-A86BE2E11432",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1103-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fc75502b88516c1f27d33f1c139eff61a0b727a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120882$A44410A5-5BCB-4DEF-BD70-1CD1D52F692D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12734551"
+          },
+          "hash": "bdd7ea5a50a6c8a2955acdd1f35808f2177c11a2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120882$74EE7BAB-00EB-4047-9EEB-A48C7C9F03F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=louis;n=de montbeliard"
+          },
+          "hash": "7fde4ac879660080cb31f69c3cbc877d87c94d02",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120882$D3A59AE4-115A-4269-9115-2555AFD623D4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Louis de Bar Arms.svg"
+          },
+          "hash": "464a33f318fe4d2e56323e8084139036d6362ea5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1079-1096)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1079-1096)"
+    }
+  },
+  "id": "Q120882",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Lluís de Bar"
+    },
+    "en": {
+      "language": "en",
+      "value": "Louis de Bar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Louis de Bar"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ludovic de Bar"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ludovic de Bar"
+    }
+  },
+  "lastrevid": 17534089,
+  "modified": "2025-09-17T06:24:12Z",
+  "ns": 860,
+  "pageid": 145586,
+  "sitelinks": {},
+  "title": "Item:Q120882",
+  "type": "item"
+}

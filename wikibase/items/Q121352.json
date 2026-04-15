@@ -1,0 +1,284 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pseudo-Leon Diogenes"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121352$949955C9-F366-45FC-9A4E-356EE07253AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "646423"
+          },
+          "hash": "b04c6e4e0541a43bdaf075ba44e3120c6fc7755a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q121352$B321A4FE-6B2C-4531-BDA1-A39EA09C658B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00321302"
+          },
+          "hash": "b71bf40b7e8d740b6d1a84f993a25d923e34e685",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121352$D7C69C3D-73FB-466A-8FCC-B4557613BF96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121352$6C7F8172-AFB9-4FE0-B51D-E955A23F59BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121352$CA515ED9-3DEB-46D9-8F74-434C05DD4129",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Leonidas_Diogenes_(1)"
+          },
+          "hash": "7450996363ac607cde85cf4b93a40e2d37ed4cb5",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121352$9D5BCBFA-AECC-4D0F-AC58-924B86499FA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117173",
+              "numeric-id": 117173
+            }
+          },
+          "hash": "944f8ea24e35e7d57c8b141800fa2471e855d442",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121352$F1D33CEC-2B15-4CB5-BE57-E4B34AA6653D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121352$8D04390E-C824-417B-BC6D-4EF0E2D939C1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121352$4931ABFE-4A25-49AF-B2A0-E8D8C6883C54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1116-08-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7fc79d9a3039ee2c7f8c3a3fe454b1c3c87427ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121352$FC9A4590-D6D6-43D3-8622-1D38437DE51B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18412350"
+          },
+          "hash": "4d3c9d6fe1177baafeb21ba4fc00be203ec0babc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121352$D6C0757A-FAD0-484F-BEF5-8D8C82AAD05E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=leo;n=diogenes"
+          },
+          "hash": "b19e0920bf1c57366597b51f30c5ecd471275211",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121352$717389BC-6FC4-4F60-A122-866643E03AC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pseudo-Leon Diogenes Arms.svg"
+          },
+          "hash": "ff37f59d951e7aaa8df2c77bb41b2253e76228f0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "byzantinischer Usurpator gegen Alexios I., Schwiegersohn des Kiewer Großfürsten Wladimir Monomach"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "usurpateur byzantin"
+    }
+  },
+  "id": "Q121352",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pseudo-Leon Diogenes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pseudo-Leon Diogenes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pseudo-Leon Diogenes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pseudo-Léon Diogène"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pseudo-Leone Diogene"
+    }
+  },
+  "lastrevid": 17534558,
+  "modified": "2025-09-17T06:30:59Z",
+  "ns": 860,
+  "pageid": 146216,
+  "sitelinks": {},
+  "title": "Item:Q121352",
+  "type": "item"
+}

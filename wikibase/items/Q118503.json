@@ -1,0 +1,158 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "D. Elvira García de Braganza"
+      },
+      {
+        "language": "en",
+        "value": "Elvira García de Braganza"
+      },
+      {
+        "language": "en",
+        "value": "Elvira Garcia de Bragança"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118503$03243CC8-A67A-43BE-AB6F-808F7504AE3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118503$61F214CA-A463-4E31-AF95-4DA855D9EA32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118503$C8C9BCBC-D383-44D1-B19E-79921EC618D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118503$E038834C-BEEE-4980-AA8F-5D3AC1EADD4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1175-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f854d067f23c870259856c53c03c09eac8a13f0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118503$C87DA7BE-CFE8-44C9-BC4A-19B8E68C841A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003637361339"
+          },
+          "hash": "2227396e52d5e44c08cbdb2cb6c7aafef408b3f8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118503$9614F437-F536-4834-A425-07C5D8C1C338",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elvira  Garcia de Braganca Arms.svg"
+          },
+          "hash": "d83b743a63577cd3ad210d128714038917f740fa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118503",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elvira  Garcia de Braganca"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Elvira  Garcia de Bragança"
+    }
+  },
+  "lastrevid": 17531309,
+  "modified": "2025-09-17T05:47:05Z",
+  "ns": 860,
+  "pageid": 142396,
+  "sitelinks": {},
+  "title": "Item:Q118503",
+  "type": "item"
+}

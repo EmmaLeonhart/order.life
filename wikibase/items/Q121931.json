@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Malfrida"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121931$555D6300-8F8B-4AA4-B9BE-BFD736699E0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1307"
+          },
+          "hash": "41ee5966edcb7faed1953db1c60c48339c8ca5c8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q121931$FE4B0EFF-E243-4BB8-9427-565207E8C225",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121937",
+              "numeric-id": 121937
+            }
+          },
+          "hash": "44f8372b1b3474d9a63fe5ee213cf66c2db71ca9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121931$96F1ADA5-3350-4481-A824-E6193BFA1650",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121931$8E46A3CC-30FD-429E-B46E-F4C37BE12046",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121931$9E1132CE-2F2B-4088-B736-76B932714A3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Malfrida_(1)"
+          },
+          "hash": "9438efa1d4aac0314e46f82ab34d322fd4e60ec0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121931$3C0B2204-E785-4826-9ECE-E59B8F126667",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117391",
+              "numeric-id": 117391
+            }
+          },
+          "hash": "f1f8e974732c28cb8b7bd896adbfd4499b90e9c3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121931$768C3639-EAB5-4D6C-9280-CACAAD88FFB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121931$5D4EFB92-D704-4DB9-BB64-45C45299809D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121931$46DE5483-EA8C-4F42-B07E-971BCBEFA281",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "90c12ea8b46a6dc107d9cc0d6a40fef1646aec37",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121931$9EAE5FFB-8F2E-4C9F-9CA2-12BD450EDCA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3493060"
+          },
+          "hash": "719b582646f15692fd8891e50fa8067e08b3a402",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121931$A74D63AA-F2AB-441D-8299-145EB443AAFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ne;n=n;oc=10174"
+          },
+          "hash": "27bcd92f4af318af7e37c031320da0701fe1d5ec",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121931$20775CDE-D7A0-4A05-8B43-83DA5204FB4F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Malfrida Arms.svg"
+          },
+          "hash": "fb6e656d68257dc12a9d87229a516782642c963c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "магчыма, сваячка, маці або жонка Уладзіміра Святаславіча"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wife of the Grand Prince of Kiev"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "жена Владимира Святославича"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "княгиня"
+    }
+  },
+  "id": "Q121931",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Мальфрыда"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Malfrida"
+    },
+    "en": {
+      "language": "en",
+      "value": "Malfrida"
+    },
+    "es": {
+      "language": "es",
+      "value": "Malfrida"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Malfrida"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Malfrida"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Malfryda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мальфрида"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Malfrida"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Малфріда"
+    }
+  },
+  "lastrevid": 17535120,
+  "modified": "2025-09-17T06:38:49Z",
+  "ns": 860,
+  "pageid": 146993,
+  "sitelinks": {},
+  "title": "Item:Q121931",
+  "type": "item"
+}

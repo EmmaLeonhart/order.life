@@ -1,0 +1,320 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William II, Marquess of Montferrat"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q120528$9F0DAE24-AD8D-4AA3-BE56-97F6A9B23829",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "579456"
+          },
+          "hash": "0f275b777f24168aee608e126ab0e5b208b4e981",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q120528$80007A2C-435F-447F-A9FC-7D16223B230B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00740970"
+          },
+          "hash": "d17ca76f9b02f412f78281cb4f203de24345d17d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120528$EE0EBE05-F6D8-48A4-B7E8-DD376BCAA404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120528$049BC8EF-DCD0-4B0F-B123-D31E8C88FAF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q120528$222E4563-FDEC-400B-AFB4-86C4CB20E24C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "William_II,_Marquess_of_Montferrat_(1)"
+          },
+          "hash": "6115aca3bf2b366054e05cb546411acd08f44fe3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120528$DFFBEBC1-1084-4958-9BD6-F3A910179EA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116645",
+              "numeric-id": 116645
+            }
+          },
+          "hash": "375becdff6e2810ec634c5c3fa8bdd56cf01275e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120528$58E49B47-7671-44BA-8320-3F227E41F893",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120528$FCF78D6E-B81D-4A89-838D-A570F7A9474B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120528$669C54D6-BAE5-4B03-A7DA-EA9F2308D9A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0961-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f38ffb8d5e009f561e037d3af60ac7417cca0345",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120528$77FB9A1A-0B2E-4A0D-8C1D-E08676A32095",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q936188"
+          },
+          "hash": "c1e02e8ad85dad9e61de48cb02a6b551c8de5e99",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120528$0622B2E1-DD7A-46E5-8E5F-C2C907914C2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guglielmo;n=degli aleramici"
+          },
+          "hash": "4673a7999aab762f6bd1026f2c553a0dcb8c68a9",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120528$F39553B0-97D2-412C-83DD-C6D3D4DABECD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William II, Marquess of Montferrat Arms.svg"
+          },
+          "hash": "91e9187f6972bb248af3c91fdb2ca50637a20321",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "noble italià"
+    },
+    "en": {
+      "language": "en",
+      "value": "Italian noble"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "маркиз Монферратский"
+    }
+  },
+  "id": "Q120528",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Вилхелм II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Guillem II, Marquès de Montferrat"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γουλιέλμος Β΄ του Μομφερράτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "William II, Marquess of Montferrat"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guillermo II de Montferrato"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume II de Montferrat"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guglielmo II del Monferrato"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グリエルモ2世 (モンフェラート侯)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William II, Marquess of Montferrat"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wilhelm II z Montferratu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Guilherme II de Monferrato"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Guilherme II de Monferrato"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гульельмо II"
+    }
+  },
+  "lastrevid": 17533733,
+  "modified": "2025-09-17T06:19:19Z",
+  "ns": 860,
+  "pageid": 145111,
+  "sitelinks": {},
+  "title": "Item:Q120528",
+  "type": "item"
+}

@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adalbert II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q120388$29ECA6C9-9123-4BFF-957F-37D666AA5BBF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "488227"
+          },
+          "hash": "0e3659fe02c4b9bd916d3de1d54e7e8da685b8c9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q120388$6D2CE5F4-28AB-4751-BD4C-AD37D0DDF637",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00371470"
+          },
+          "hash": "31f1f74454f0e2756a5427378d2a228b7e3039e3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120388$5967B4F2-077E-4E00-B1CA-382422A28DC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120388$6B2FC828-2713-4482-B077-E8C0D787AA13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120388$C10C332A-E320-413A-BB9F-16013BFA224C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116547",
+              "numeric-id": 116547
+            }
+          },
+          "hash": "4efc2ea615a548b26d0d76d1e9d64575193814bf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q120388$9BC9607B-4D22-418D-879B-AAC93AFC0E43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120386",
+              "numeric-id": 120386
+            }
+          },
+          "hash": "8b27194bd13ddf5a98e6252adea32c42b6b0a842",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120388$30E974C8-1902-4DCE-B3BE-20548D5527E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120388$9D18B8D5-E6BD-447C-B329-BBF9E51210D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120388$217E9933-6DFE-4B0F-BC81-E975859FE01F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1140-07-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "802d5f55e61c44fc6f07d78d34d94fc4b25ec59c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120388$7CD3C0D7-8F29-4898-80DF-5B6537C35BFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1274441"
+          },
+          "hash": "8ea1206c8954c574f1c6620908e11496a57bc08e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120388$A28D28F7-F400-49FA-A765-1E2114588041",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=albrecht;n=von habsburg;oc=2"
+          },
+          "hash": "18640fc1dc2ba1b906a016309a5a5fbf5256bb91",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120388$A2E35BF7-7601-4E2C-8845-2ED5793A251E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adalbert II Arms.svg"
+          },
+          "hash": "031333d51384d7e97c2db2f777bbfc5834639113",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Habsburg, Landvogt in Muri"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Habsburg"
+    }
+  },
+  "id": "Q120388",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Албрехт II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Adalbert II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Albrecht II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Adalbert II"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Adalbert II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Albert II av Habsburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adalbert II van Habsburg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Альбрехт II (граф Габсбург)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Adalbert II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿爾布雷希特二世"
+    }
+  },
+  "lastrevid": 17533593,
+  "modified": "2025-09-17T06:17:26Z",
+  "ns": 860,
+  "pageid": 144923,
+  "sitelinks": {},
+  "title": "Item:Q120388",
+  "type": "item"
+}

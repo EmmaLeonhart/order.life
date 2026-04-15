@@ -1,0 +1,291 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mstislava Vladimirovna"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121941$8DE5A2DE-6707-4177-A194-40E18B95EF43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "708484"
+          },
+          "hash": "85611448224ca441b37e8cb06210ce5de511b1a5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q121941$28320720-267D-4080-BAAE-6F214840A505",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Рюриковичa-2"
+          },
+          "hash": "66ba8a7c2e24d6c31af8cbc8fe9490523a79db71",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121941$D5BB1650-6D05-45F2-AEEE-EAC47FAA1E65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121941$1084C89C-987A-41BC-A5C0-5ACC6FDA0BED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121941$A18AC720-038F-4A26-AE2E-D3D573459994",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117391",
+              "numeric-id": 117391
+            }
+          },
+          "hash": "060fde29c14dadce8e5337f041e249d0c036828e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121941$2F04F440-32D3-4297-BE96-BF765B16E9F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121073",
+              "numeric-id": 121073
+            }
+          },
+          "hash": "98f189936df0cd73174566223180165ab85f43f7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121941$BD9B42FE-C3D5-4951-BCA3-89CAA1746161",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121941$F0D3106B-816C-4D01-9CC5-60A4B5BB55CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121941$C9D1919A-52F3-448D-9ECB-8DE33DFDBFC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0f06eb64a36ac7576bf4a559a229ea93027f7a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121941$0FAEF6D1-90D2-4251-9576-BC4D2A895E13",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22045850"
+          },
+          "hash": "2c269416b1ce43468f6668cd5f44ca2493c1690d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121941$D42BA1B4-8CF9-49BB-819A-EC4524FF95F6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mstislava Vladimirovna Arms.svg"
+          },
+          "hash": "ab629176432d7715ddd8ea1c86d087d4c5f64394",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "976"
+    },
+    "la": {
+      "language": "la",
+      "value": "Vladimiri Sancti filia"
+    }
+  },
+  "id": "Q121941",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مستسلاف فلاديميروفنا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mstislava Kyjevská"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mstislava Vladimirovna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mstyslav Vladimyrovna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ムスチスラヴァ・ウラジミロヴナ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mstislava Vladimiri filia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Mstislav Vladimirovna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мстислава Владимировна"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mstislava Vladimirovna"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мстислава Володимирівна"
+    }
+  },
+  "lastrevid": 17535130,
+  "modified": "2025-09-17T06:38:57Z",
+  "ns": 860,
+  "pageid": 147007,
+  "sitelinks": {},
+  "title": "Item:Q121941",
+  "type": "item"
+}

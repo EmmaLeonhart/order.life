@@ -1,0 +1,656 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Morgan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q121837$28343193-69E5-4D55-B438-54886CAB9159",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121837$B034F060-551C-4E81-BC17-9405DF3C7A10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121837$6A9724E3-1FC5-4EAA-B629-77BA7BFC8111",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Morgan_Unknown_(10)"
+          },
+          "hash": "ca03b8d2a2cec76c1c31ee35a6d0ac7031e4886b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q121837$DFDDF69B-B746-4DCA-8DBE-2DD065F7A736",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10477.htm#i104761"
+          },
+          "hash": "eeb0beea756c4d2559e3a7ab2e6f37dd0e3ec9cd",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121837$342A1D45-4CDB-489F-A32A-D017726E1048",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117345",
+              "numeric-id": 117345
+            }
+          },
+          "hash": "acbe459ef32cdb9b2f07102918d5448ad2f59676",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121837$B97935E5-B0F7-4762-B2E3-C62038CBB66E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127870",
+              "numeric-id": 127870
+            }
+          },
+          "hash": "2c95b903e0c289a9ee9bbdc18f64ea7a172b09cd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121837$6482C642-7DEE-4E40-BB1B-7B2F31AB8E41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121837$E0105F09-56A3-45B6-A255-134E1D3D38D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121837$DE0D8835-D33B-46AE-BFB6-6EFCB14912AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1217-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9943b650ffac4d5f85fdc879e4dfe3432912a7f1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121837$01245349-E8D1-4A05-9390-4F013065E9AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11989934"
+          },
+          "hash": "aeedd7beb0f1ed899e637e8b184b61d0153c40f8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q121837$60968C01-A5E9-4119-8D62-C112AFD5B7B9",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Morgan"
+          },
+          "hash": "d6b54a0086c280931b47bc93b10bae2623e82366",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121837$1F47EC7C-94FF-4E6E-A8D1-BA7E0EA49CE5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Morgan Arms.svg"
+          },
+          "hash": "d3071e481b0a147288d5130c6534407e286f37b5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "епіскап"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "offeiriad Catholig (1150-1217)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Elekt von Durham"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Durham elect"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "angla episkopo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque de Durham"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bisschop van Durham"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "избранный епископ Дарема"
+    }
+  },
+  "id": "Q121837",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Morgan"
+    },
+    "an": {
+      "language": "an",
+      "value": "Morgan"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "مورغان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Morgan"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Morgan"
+    },
+    "be": {
+      "language": "be",
+      "value": "Морган"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Morgan"
+    },
+    "br": {
+      "language": "br",
+      "value": "Morgan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Morgan"
+    },
+    "co": {
+      "language": "co",
+      "value": "Morgan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Morgan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Morgan"
+    },
+    "da": {
+      "language": "da",
+      "value": "Morgan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Morgan"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Morgan"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Morgan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Morgan"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Morgan"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Morgan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Morgano"
+    },
+    "es": {
+      "language": "es",
+      "value": "Morgan"
+    },
+    "et": {
+      "language": "et",
+      "value": "Morgan"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Morgan"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Morgan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Morgan"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Morgan"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Morgan"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Morgan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Morgan"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Morgan"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Morgan"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Morgan"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Morgan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Morgan"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մորգան"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Morgan"
+    },
+    "id": {
+      "language": "id",
+      "value": "Morgan"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Morgan"
+    },
+    "io": {
+      "language": "io",
+      "value": "Morgan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Morgan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "モーガン"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Morgan"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Morgan"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Morgan"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Morgan"
+    },
+    "li": {
+      "language": "li",
+      "value": "Morgan"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Morgan"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Morgan"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Morgan"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Morgan"
+    },
+    "min": {
+      "language": "min",
+      "value": "Morgan"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Morgan"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Morgan"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Morgan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Morgan (biskop)"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Morgan"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Morgan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Morgan"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Morgan"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Morgan"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Morgan"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Morgan"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Morgan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Morgan"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Morgan"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Morgan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Morgan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Morgan"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Morgan"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Morgan"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Morgan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Морган"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Morgan"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Morgan"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Morgan"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Morgan"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Morgan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Morgan"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Morgan"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Morgan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Morgan"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Morgan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Morgan"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Morgan"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Morgan"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Morgan"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Morgan"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Morgan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "摩根·金雀花"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "摩根·金雀花"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Morgan"
+    }
+  },
+  "lastrevid": 17535026,
+  "modified": "2025-09-17T06:37:33Z",
+  "ns": 860,
+  "pageid": 146867,
+  "sitelinks": {},
+  "title": "Item:Q121837",
+  "type": "item"
+}

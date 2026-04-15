@@ -1,0 +1,356 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Roman Svyatoslavich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121265$0CC042CA-BABF-4E90-96A7-8CFDE8CBE8FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "645"
+          },
+          "hash": "0f6720e43be065207096bb32d56905cd17222683",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q121265$AB562076-08A3-448A-982E-03DC080E9E85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Svyatoslavich-9"
+          },
+          "hash": "f8370c4a0c307f56418de7f9927cc00d38ab3b5a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121265$D36B64BF-43A8-4A33-A3C6-D0163E19C731",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121265$25254150-BC80-4581-B36F-D1A7786CFBF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121265$AA3B3406-02CD-40D9-B673-50D42A1F81C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117137",
+              "numeric-id": 117137
+            }
+          },
+          "hash": "00680be00aa5dfcbbbc40c2eecae752d8d05d33b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121265$E5E09080-FB4A-4A6B-8981-90A6B658F272",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121033",
+              "numeric-id": 121033
+            }
+          },
+          "hash": "2afbd53903e4d9a59724e621ac5ce26de5bba77d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121265$E53A6332-E781-42CE-B28E-2EFA94517953",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121265$56676445-FF9F-4489-A8C2-58D78139B803",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1052-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a33e3c13c783b28c72cb9ddbee50d95502ad91a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121265$0157BC6E-86D4-4154-AC7E-30CAEFC13538",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1079-10-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c660a2c0d2c0fe7bff11ebad6b5c93693b8623e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121265$C47CE35B-A8B0-4E29-A02F-97D3DAC14829",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4397041"
+          },
+          "hash": "bafbae93b0aca2fa48a2701d833b82c6ec5d41fc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121265$D7CB68E7-3E8A-45DD-9F01-BB6959BB4B87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=roman;n=rurikides;oc=5"
+          },
+          "hash": "7c650eaf06a22dfc58f45800016fc497cbae8538",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121265$81E8B5CA-D303-4057-8503-BBA3F3CAA22C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Roman Svyatoslavich Arms.svg"
+          },
+          "hash": "65ff909bd91b62f4fbff46a49a95752223d1845d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1052-1079)"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "(1052-1079)თმუტარაკანის მთავარი"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь Тмутараканский"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1052-1079)"
+    }
+  },
+  "id": "Q121265",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "رومان سفياتوسلافيتش"
+    },
+    "be": {
+      "language": "be",
+      "value": "Раман Святаславіч"
+    },
+    "de": {
+      "language": "de",
+      "value": "Roman Svyatoslavich"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρόμαν Σβιατοσλάβιτς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Svyatoslavich"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Roman Svyatoslavich"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Roman Svyatoslavich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Roman Svyatoslavich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roman Sviatoslavitch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロマン・スヴャトスラヴィチ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "რომან სვიატოსლავი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Roman Svyatoslavich"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Roman Piękny"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Romano I de Tamatarcha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Romano I de Tamatarcha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роман Святославич"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Roman Svyatoslavich"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Roman Svyatoslavich"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Роман Святославич"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗曼·斯维亚托斯拉维奇"
+    }
+  },
+  "lastrevid": 17534471,
+  "modified": "2025-09-17T06:29:48Z",
+  "ns": 860,
+  "pageid": 146100,
+  "sitelinks": {},
+  "title": "Item:Q121265",
+  "type": "item"
+}

@@ -1,0 +1,306 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Etiennette de Montbéliard"
+      },
+      {
+        "language": "en",
+        "value": "Etiennette de Montbeliard"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q120886$119CD029-2717-4599-8DAE-807D40A8441D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00026669"
+          },
+          "hash": "efc96bd04c435d6008f140f015dee8fd0b209192",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q120886$D3243B11-2B2F-4C37-A494-315D934E86CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126495",
+              "numeric-id": 126495
+            }
+          },
+          "hash": "2ec4adbaaaba5ec70df1d7167f4bd250cefb66eb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q120886$ABD10F6F-0A66-4412-B077-A09E88358E17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Montbéliard-23"
+          },
+          "hash": "a60f115db1044dbde60cab9d5801ee1507ccf0c4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120886$E8EF2DBE-92F4-45C2-A736-305FAD8A344B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120886$C7B49C56-5117-46AC-8959-966136B77EAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q120886$C4E83A42-68FD-48E1-B509-8871278E4A41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122689",
+              "numeric-id": 122689
+            }
+          },
+          "hash": "b1ac0a864bdd9f2d2bcd3d424b1b2ab21262c025",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120886$66F8D322-F967-4802-ADCC-6FB6C35E4DCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116909",
+              "numeric-id": 116909
+            }
+          },
+          "hash": "57c80027cf118089178ac5eeeb8fdb9cbe2e2682",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q120886$B9DB8817-2C99-46D1-A399-8D9A26278182",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126489",
+              "numeric-id": 126489
+            }
+          },
+          "hash": "5528222afb122e84154fae7bbabbc10857cfb1b7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120886$EABB8C35-80AA-48A4-874C-855FBA188B69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120886$8531380A-1459-4384-8043-1D8ADC697DCD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1160-12-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c93a8fece09f128248f01a92850952a3a8688782",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120886$5B23D240-A7CC-418F-95D4-9218F864EE50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108333637"
+          },
+          "hash": "cff7d6af960fecf4cccdc7b258e28ea7ab4a65fd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120886$EA336C2F-A988-4239-BD3F-537506D1C60D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=etiennette;n=de montbeliard"
+          },
+          "hash": "4f729704df0b438e91da42a3db8c9a2933b4ab0e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120886$977D6420-C389-4A14-8433-58E4D47D845E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Etiennette de Montbéliard Arms.svg"
+          },
+          "hash": "e2681570bccd9e4daad9f51b36604a0f3cd3e21c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1160"
+    }
+  },
+  "id": "Q120886",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Esteveta de Montbéliard"
+    },
+    "en": {
+      "language": "en",
+      "value": "Etiennette de Montbéliard"
+    },
+    "es": {
+      "language": "es",
+      "value": "Etiennette de Montbéliard"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Stéphanie de Montbéliard"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Etiennette de Montbéliard"
+    }
+  },
+  "lastrevid": 17534093,
+  "modified": "2025-09-17T06:24:15Z",
+  "ns": 860,
+  "pageid": 145592,
+  "sitelinks": {},
+  "title": "Item:Q120886",
+  "type": "item"
+}

@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alfonso Téllez de Meneses"
+      },
+      {
+        "language": "en",
+        "value": "Alfonso Téllez de Meneses, IV señor de Meneses"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118355$BEEC5D69-A95E-42A1-9434-97F9BE895DEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118355$D86DA9D1-8FA2-44DC-9EA5-0529F3AFD110",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q118355$70E2C5AB-BFA3-4312-8303-AB083815B139",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "IV señor de Meneses"
+          },
+          "hash": "bb5affeb3e9db6284ec0ef5c5505ee6e5009aa86",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118355$93627EFB-AAEE-4D44-9148-A47C2276E22C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118355$D5D1A700-DEA9-4F17-9907-0C8AA84D78D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1204-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c03f9bb70a18923afbb8dba8cf666a510a3433a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118355$810681C0-A047-4B56-9C60-0311B6663418",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1252-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1182bab7388335761421df0a2ab9f014292772ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118355$388E993E-B06B-473F-ABFB-5CE23B80F5AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013745165530"
+          },
+          "hash": "6fd2408eac7a1da0fb0a0b06952fd4db3c729873",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118355$7499048E-472A-4F2A-A533-E0F2357C9F25",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alfonso Tellez de Meneses, IV senor de Meneses Arms.svg"
+          },
+          "hash": "f01ea289ba4554547fb12471c99811dbbd7df966",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118355",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alfonso Tellez de Meneses, IV senor de Meneses"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alfonso Téllez de Meneses, IV señor de Meneses"
+    }
+  },
+  "lastrevid": 17531053,
+  "modified": "2025-09-17T05:43:42Z",
+  "ns": 860,
+  "pageid": 142197,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q118355",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q118355"
+    }
+  },
+  "title": "Item:Q118355",
+  "type": "item"
+}

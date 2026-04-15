@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Nevers"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q120426$37A11E2E-74D3-472F-BF05-F35666427645",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "V.Auxerre-1"
+          },
+          "hash": "8808d2c1c25be0ae5e3462e17e3a91ae32251414",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120426$930386AC-EF8F-443F-8A4E-D4CC74B9D3E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120426$0510D83C-C062-470D-9070-DA6B87DD2186",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q120426$E2ADE8BC-ECA3-47A5-8F7B-94C837CA571D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p48322.htm#i483213"
+          },
+          "hash": "215c54bb7e39543555e44d0cfb6da3381efe6d6f",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120426$C2F3689E-90A5-495C-BED6-B6D264061828",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116593",
+              "numeric-id": 116593
+            }
+          },
+          "hash": "719189e5450f4026553014886700977514358981",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q120426$B9637FEB-AA36-4BA8-9CAE-9FE83229EFC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118124",
+              "numeric-id": 118124
+            }
+          },
+          "hash": "fd7c0173b2518a7cc439e236f33df186ea7b878d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120426$4F0613C3-5D71-4E98-93D2-75453BCAF5E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120426$C60902A9-5913-42FD-BA90-631A1D28ED35",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1052-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a33e3c13c783b28c72cb9ddbee50d95502ad91a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120426$D4B318D4-CA37-4ED9-ACF5-7CA15685D6FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1095-02-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "80383dbac5fb1bfd4626f054bee8edf43cb57d33",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120426$9D376658-8BCC-4257-AE1A-F4744CA121C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30731305"
+          },
+          "hash": "08eb2e4e680374c0662ed4c198fa2cecdad4d3c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120426$D56214C0-6AC8-4435-B5B6-2CBC465DA129",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=de nevers;oc=1"
+          },
+          "hash": "897615ea5db6ef856c7f63eaf7e683dcdf68f2f7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120426$A10865D9-85CB-4BE1-A05E-DD149A331EFA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Nevers Arms.svg"
+          },
+          "hash": "8127e5f840d0fad7a0f737ed476a24942085304a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1052-1095)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque d'Auxerre"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1052-1095)"
+    }
+  },
+  "id": "Q120426",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Robert de Nevers"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Robert z Nevers"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ροβέρτος  του Νεβέρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert de Nevers"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert de Nevers"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert de Nevers"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert de Nevers"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Robert de Nevers"
+    }
+  },
+  "lastrevid": 17533629,
+  "modified": "2025-09-17T06:17:56Z",
+  "ns": 860,
+  "pageid": 144974,
+  "sitelinks": {},
+  "title": "Item:Q120426",
+  "type": "item"
+}

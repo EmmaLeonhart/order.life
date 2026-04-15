@@ -1,0 +1,319 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hazecha von Ballenstedt"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q120948$B6CC5D42-790B-4BD4-82AA-4578120FC261",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "600013"
+          },
+          "hash": "71fe3cd015d7b3ca7fee1c2eb47b2d170419ca91",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q120948$1B5C9ACA-9001-4910-A3C1-45BBF9B17505",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Of_Ballenstedt-1"
+          },
+          "hash": "eee3379f15aca81b9b3e2efe8dff81070737772a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120948$54C7CFAA-A5E3-4BFC-85CA-562F9D63F1A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120948$4E9F6E16-14ED-4D10-BCD7-D3FC4BA524C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q120948$1C729638-E23F-4435-B032-D13970EB3264",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hazecha_von_Ballenstedt_(1)"
+          },
+          "hash": "c0614b4baa1377289c8b09c03cea2ab297f3bbbb",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120948$EAC0204D-686F-4E8A-BE69-1BB3A53CADB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120942",
+              "numeric-id": 120942
+            }
+          },
+          "hash": "604d8d84b47501ccd62a350214e93ccbcce0495c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120948$81301C6D-4EC3-4391-82AF-F571055CD0F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120948$B0F20F68-FB7C-40C7-9D95-1445C4204680",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1002-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a1cfe3098e34a6e84b113f19de45b956eeed90a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120948$0DAB4D31-8974-40D7-9E24-5427ABB574CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2827b137d655f44b0734f49be7ad502c7c3abfd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120948$4FC84CB8-E3B7-4AEE-824E-9D9C435D24D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1592054"
+          },
+          "hash": "ccf3184f73273ce45f7e184e51e4fccaaa3253db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120948$2D9F038F-C233-47B9-8875-C1BA8C310941",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hazecha von Ballenstedt Arms.svg"
+          },
+          "hash": "eeff0b188606c99881caf46aa650739801290b09",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "monxa alemana (1002–1050)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Äbtissin des freien weltlichen Stiftes Gernrode und Frose"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abbess of Gernrode from 1044 to 1063"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble germanique"
+    },
+    "it": {
+      "language": "it",
+      "value": "badessa di Genrode"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits zuster (1002-1050)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "nobre alemã"
+    }
+  },
+  "id": "Q120948",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hacheza of Ballenstedt"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hazecha de Ballenstedt"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hazecha von Ballenstedt"
+    },
+    "el": {
+      "language": "el",
+      "value": "Χάτσεχα του Μπάλενστετ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hazecha von Ballenstedt"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hazecha de Ballenstedt"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hazecha de Ballenstedt"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hacheza di Ballenstedt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hazecha von Ballenstedt"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hazecha de Ballenstedt"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hazecha de Ballenstedt"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hazecha von Ballenstedt"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hazecha von Ballenstedt"
+    }
+  },
+  "lastrevid": 17534155,
+  "modified": "2025-09-17T06:25:11Z",
+  "ns": 860,
+  "pageid": 145675,
+  "sitelinks": {},
+  "title": "Item:Q120948",
+  "type": "item"
+}

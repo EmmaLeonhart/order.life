@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gonçalo Rodrigues da Palmeira"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q118485$DD394FB9-8823-44CE-BB47-92EEC26F0E52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00346830"
+          },
+          "hash": "28892801bb6f3872b126faecbdaa8b8777599a44",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q118485$A4795688-A66F-4D93-BECE-C6018C0B4581",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Da_Palmeira-1"
+          },
+          "hash": "b3b904e840154aae18846822bce5563760047b86",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q118485$BF98149B-32AB-4BFA-B928-5D3258F9C76E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118485$E647C093-9615-4C0A-969F-0A23529384AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q118485$26FC502B-63B2-4074-9CAF-88852C3CB2DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Goncalo_Rodrigues-da-Palmeira_(1)"
+          },
+          "hash": "0d542d0ace99e17d4384142ebbcc241a0260e365",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q118485$C55DCB36-10BC-4C31-8079-DB3F7C73211A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124245",
+              "numeric-id": 124245
+            }
+          },
+          "hash": "b6f00c98512b4e8a7c41dc8381213054b706d282",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118485$F297B540-12D8-404C-AC99-1A55E7465905",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118485$ED512B48-F2BC-46FC-9F17-56F7276B86A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1130-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6dc8d590c3733f43be478ef7acae1ddd22d88a43",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118485$6E7D8DEF-6FBF-4952-BCA3-C269379411DE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1177-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d6293efb2476bacaeca8ed16c6bc17b774b018ee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q118485$B417A513-F11C-4F67-8FCD-65D91F0E9100",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10290608"
+          },
+          "hash": "cfec894a06318422a7f41adfa12489391693409b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118485$CC7CCC4F-8914-4808-AD6D-6E4173EC292F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008489639194"
+          },
+          "hash": "6ce2c3985cc4ad62ab4b289dc1b9676880d6339d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q118485$F85359E7-050A-4865-850F-1C8A491EBA52",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gonçalo Rodrigues da Palmeira"
+          },
+          "hash": "4d67572fc1ffdd9fbd268b3f9171bba4c6cc5df2",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118485$71DC69C2-723A-4113-B7BF-BA5DE0E33CB7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gonçalo Rodrigues da Palmeira Arms.svg"
+          },
+          "hash": "1a1688c425111a4471e64c92c05d090bd593707d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Abt 1130 -"
+    }
+  },
+  "id": "Q118485",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gonçalo Rodrigues da Palmeira"
+    }
+  },
+  "lastrevid": 17531277,
+  "modified": "2025-09-17T05:46:38Z",
+  "ns": 860,
+  "pageid": 142372,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q118485",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q118485"
+    }
+  },
+  "title": "Item:Q118485",
+  "type": "item"
+}

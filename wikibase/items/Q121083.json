@@ -1,0 +1,587 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bezprym"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121083$00C76F76-9717-4BBD-82CC-69BA21E8AEFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "168230"
+          },
+          "hash": "549f93e00822ad650dbbc5c41f82d787cdc71af2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q121083$117EBE97-5AFB-41CC-BA3B-61092A3770A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00422406"
+          },
+          "hash": "08ddc18378fcfc951c2eddb6f94ac6e2a4993850",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121083$30834DB0-C528-42A3-BBC3-524E914DF495",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121083$17F72870-4DEC-40E9-8FF9-C8B076674A7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121083$9D1779B5-2BE3-4C32-B744-8E3928A732FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bezprym_(1)"
+          },
+          "hash": "1e7872c78c8dbc13a3abc1116d54c9356f80ec98",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121083$C3885CA8-6258-4658-B449-6DEDCEB67600",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121077",
+              "numeric-id": 121077
+            }
+          },
+          "hash": "0e05136db9ad9d1ed2150a2e092ef6b58c0e80f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121083$09B7A85D-64A9-4E94-9A38-36EE7AB00AFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121065",
+              "numeric-id": 121065
+            }
+          },
+          "hash": "1b67a0e88711f0e78a327f507c3340959723f3ca",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121083$9F1B4B65-CF63-4C24-B475-374D79070EC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121083$678B29C3-DF17-4C90-809F-8D3C569D280B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0987-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f8530ecb2af17497458ce2a2d774fbbd2a2c30dd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121083$4D3D254E-5885-4959-B610-3464B6725F2C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1032-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "844847fe4fdbd2c26bec10bc6747b71adb55faa2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121083$9624951B-B1F4-45C5-BF79-3E930BA8B3C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q31647"
+          },
+          "hash": "16586fbde4994ea4acc86811b77a5deece524c59",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q121083$F05A1A77-22A5-4300-A900-341DF9520D0C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Bezprym"
+          },
+          "hash": "f158c2d98d8639ed72c67597f02f9ffd19cf7eb1",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121083$B2432C36-F206-407A-8C32-BCEEEB1F7108",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=bezprym;n=piast"
+          },
+          "hash": "923f64e93a2f80da381a0fceb429640b4901af93",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q121083$9D04D81F-532F-467F-8012-38DB1DC38712",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.24"
+          },
+          "hash": "a227d830110bccc143381af2f57ce2785aa759d5",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121083$A7650821-EFA5-44E8-AD00-942E9051FD85",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bezprym Arms.svg"
+          },
+          "hash": "9ba651aba21071373ca6db073dc28d3ad753ed69",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu polacu"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "княз на Полша"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític polonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "polský kníže"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Poland siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Polen (1031–1032)"
+    },
+    "en": {
+      "language": "en",
+      "value": "11th century Duke of Poland"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo primogénito del Rey de Polonia, Boleslao I el Bravo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari poloniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "duc de Pologne, 1031 – 1032"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político polaco"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "lengyel fejedelem"
+    },
+    "it": {
+      "language": "it",
+      "value": "duca di Polonia (r. 1031-1032)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "폴란드의 공작"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pools politicus (987-1032)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "książę Polski, syn Bolesława Chrobrego"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político polaco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь Польши (1031–1032)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "poljski vojvoda"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Poland."
+    }
+  },
+  "id": "Q121083",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Bezprym"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Bezprym"
+    },
+    "be": {
+      "language": "be",
+      "value": "Безпрым"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Безпрым"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Безприм"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Bezprym"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bezprym"
+    },
+    "da": {
+      "language": "da",
+      "value": "Bezprym"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bezprym"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μπέζπρυμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bezprym"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Bezprym"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Bezprym"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Bezprym"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bezprym"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Bezprym"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بزپریم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bezprym"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Bezprym"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Bezprym"
+    },
+    "he": {
+      "language": "he",
+      "value": "בזפרים"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Veszprém lengyel fejedelem"
+    },
+    "id": {
+      "language": "id",
+      "value": "Bezprym"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bezprym di Polonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベスプリム"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბეზპრიმი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "베스프림"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Bezprims"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Bezprym"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Bezprym"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bezprym"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Bezprym"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Bezprym"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Bezprym"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Bezprym da Polónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Bezprym da Polônia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Bezprym"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Безприм"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Bezprym"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Bezprym"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Bezprim"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bezprym"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Безприм Пјаст"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Bezprym"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Безприм"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Bezprym"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貝斯普里姆"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "别茨普里姆"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "別茨普里姆"
+    }
+  },
+  "lastrevid": 17534291,
+  "modified": "2025-09-17T06:27:04Z",
+  "ns": 860,
+  "pageid": 145856,
+  "sitelinks": {},
+  "title": "Item:Q121083",
+  "type": "item"
+}

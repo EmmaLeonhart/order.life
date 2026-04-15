@@ -1,0 +1,247 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto II von Stefling"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q121736$81DF7496-30E4-4CAA-95EE-B1970BA0411E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00522693"
+          },
+          "hash": "2a43cdf782e001f9f905021634428ab87f0363f0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q121736$20E23E5D-BFB1-423B-94FF-EE25DA6A87EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121543",
+              "numeric-id": 121543
+            }
+          },
+          "hash": "6e77db901f72f8999180193345ca91f010e602bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121736$073382A2-B2BA-4110-93F9-04FE8C069B76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121736$C2FBF46E-F38F-4285-A8CC-9983E62A640C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121736$BD25945D-0277-473D-A8C6-6B5D6001B4D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121728",
+              "numeric-id": 121728
+            }
+          },
+          "hash": "3904c808803f252538f907024e22c1161a6f2410",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121736$3EDCB819-82DD-475D-8E77-75AAD4D6FBFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121734",
+              "numeric-id": 121734
+            }
+          },
+          "hash": "14059854ae44670188b7c0c440489c96b976295a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121736$A3975041-B81D-4EB8-997E-D322B60F3039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121736$2DEFC50F-9634-4368-80AA-D5958ED44837",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1175-08-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e468c78a2d04745139e14100a41460f811561f58",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121736$BB7668CD-2E3C-4ADF-9D1F-5E90658F0789",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q31191628"
+          },
+          "hash": "58e939b590704e92f1e48aeadb8298bae60b81f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121736$2BEA54A2-970E-47BB-9A2C-556A892336FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=otto;n=von sinzing;oc=2"
+          },
+          "hash": "cb5b4f9eb458bf394234a4aeb4593f68bb645592",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121736$B9500AAA-38AB-471B-97CE-70832B6265AC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto II von Stefling Arms.svg"
+          },
+          "hash": "c83da1707e28a63ff214cab05500dd2b27c24ca3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q121736",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Ото II фон Щефлинг"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otto II von Stefling"
+    }
+  },
+  "lastrevid": 17534928,
+  "modified": "2025-09-17T06:36:03Z",
+  "ns": 860,
+  "pageid": 146731,
+  "sitelinks": {},
+  "title": "Item:Q121736",
+  "type": "item"
+}

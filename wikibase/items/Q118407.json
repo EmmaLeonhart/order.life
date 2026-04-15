@@ -1,0 +1,191 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mafalda de Portugal"
+      },
+      {
+        "language": "en",
+        "value": "Mafalda, infante de Portugal"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118407$5D8978C1-0CFA-461F-B312-ACF5C17A8964",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118407$50282161-3650-4B4E-B574-7A183F0FFF7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q118407$76E6C072-1CA6-4205-96E3-3AB4931F1FA8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "infante de Portugal"
+          },
+          "hash": "03c955ac60982c92b49751f0f65f762d448e109b",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118407$4639D34F-D635-44C8-BDD8-79E6BDAD4C6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118407$DC60A3B9-9D64-4A82-893D-E3F32DDFB94B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1149-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f8dd3764d7f0534136a1cd0628ee2b22e8e724c5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118407$0026B5AC-F6E8-44D9-BBBF-87EE5694A2D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1173-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ab7e63619cf744bfd81db54822c8ec7059c9bc9b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118407$F1997C92-1825-4654-B2A1-660293048ED8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012380785809"
+          },
+          "hash": "42e91f4b5c9eaf6c741236a7db3cbc6f61789ebd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118407$95DAB5AF-EF57-40C0-BAA0-7E52DE8533F6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mafalda, infante de Portugal Arms.svg"
+          },
+          "hash": "1047361a828a85de8c6c77219c5b5950a6083bae",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118407",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mafalda, infante de Portugal"
+    }
+  },
+  "lastrevid": 17531143,
+  "modified": "2025-09-17T05:44:53Z",
+  "ns": 860,
+  "pageid": 142266,
+  "sitelinks": {},
+  "title": "Item:Q118407",
+  "type": "item"
+}

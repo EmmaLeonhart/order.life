@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert, Count of Montescaglioso"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q120265$B4D7496E-BE0C-41BD-9B27-2D3B0C4DC35D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00421118"
+          },
+          "hash": "f6abbbba7d08cc5c82f866b5ae8d2e089a40f4f2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q120265$66B890CB-6378-4069-9318-52F731F4755A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123095",
+              "numeric-id": 123095
+            }
+          },
+          "hash": "472a2ecc5ca668bab29cd40f3f559e3db8f74720",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120265$96912598-C68D-4FFC-8A31-7055044F33C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120265$64F71F0F-D589-4FD7-B949-D531E4929846",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q120265$44E25EA1-8B52-46C5-BB0D-D50AD9725BCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p70419.htm#i704182"
+          },
+          "hash": "932cd013b20e0ce000214298f6c2673b0f7c5998",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120265$EEC2B2CF-FC8F-410F-A868-90794246EB03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116457",
+              "numeric-id": 116457
+            }
+          },
+          "hash": "c5de696f6e4e93cede0ea84a5d42ee06fe8f30cb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q120265$66171BA2-8850-4815-8555-2CF99552BE30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116471",
+              "numeric-id": 116471
+            }
+          },
+          "hash": "f26dccfe66850ea48a17b3e35d78e6bec8d2d60c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120265$2C20D831-6DDE-483D-A52F-409F62854192",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120265$53002B63-A8CA-4BBF-97BA-FF656C02F03F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1030-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d276bd668ca8aa1ce201c60caf171d46a0607063",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120265$371ECA00-C28F-45E4-86C9-489DC8CE4B5F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1080-07-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8cf8220354f63fc935ba669afe4cac21c85df701",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120265$0E95187B-94D8-48FE-AA8C-5DEB3968C1E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1188440"
+          },
+          "hash": "37785355145f0655492ce28fd4d849631ad29e5c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120265$4131BF2B-19C9-4991-95A6-12FC82406AC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=de mortain;oc=3"
+          },
+          "hash": "16701faf5b1450961badf8fdded88e089bd5037e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120265$880E59EC-0605-4646-9C6E-80D9EBEABEF3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert, Count of Montescaglioso Arms.svg"
+          },
+          "hash": "b6ab0ced3fedf53ccfdb057847cc612ada1cf227",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Norman noble"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q120265",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert, Count of Montescaglioso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert, Count of Montescaglioso"
+    },
+    "it": {
+      "language": "it",
+      "value": "Roberto di Montescaglioso"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert, Count of Montescaglioso"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Robert de Montescaglioso"
+    }
+  },
+  "lastrevid": 17533465,
+  "modified": "2025-09-17T06:15:46Z",
+  "ns": 860,
+  "pageid": 144758,
+  "sitelinks": {},
+  "title": "Item:Q120265",
+  "type": "item"
+}

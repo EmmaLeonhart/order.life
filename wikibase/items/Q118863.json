@@ -1,0 +1,143 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118863$CDD1E227-2D83-4A0D-9DA2-28A20170AB94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118863$AA7E1018-9D34-4BCA-99C6-7A64160B03B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118863$34F7DEFF-BE83-437D-B8C3-D986D3E794D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118863$DCEFFE84-4803-4365-A6B6-AD690D1E655B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1055-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93df754a7fce7cf4eab7f2b53de57d83e578f6f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118863$EC0F0EC3-C050-4931-AE8D-1BDB3AC22C20",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000380058406"
+          },
+          "hash": "53645b3888f7b154db600ad1505cc21532b14038",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118863$9B8FB5C1-0C72-4A6D-B13E-746B9237512E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alfonso  Muniz Arms.svg"
+          },
+          "hash": "586005e3a23a1be99be3a89db2e3ac2b7a2f97b2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118863",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alfonso  Muniz"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alfonso  Muñiz"
+    }
+  },
+  "lastrevid": 17531952,
+  "modified": "2025-09-17T05:55:35Z",
+  "ns": 860,
+  "pageid": 142879,
+  "sitelinks": {},
+  "title": "Item:Q118863",
+  "type": "item"
+}

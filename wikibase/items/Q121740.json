@@ -1,0 +1,626 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sophie of Winzenburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121740$4CF5E027-6967-4B21-A230-511F18C53AAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "390477"
+          },
+          "hash": "415754014aee9211699ba3b65478217cac96fe39",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q121740$3CDEF932-6CBC-4689-B179-1797DEAF294D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00030043"
+          },
+          "hash": "51c042e9c4d7fd1fdfe0bc387478b9c4e683345c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q121740$459B2B71-2BA4-4C20-A93D-ACB2B8D7161E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127483",
+              "numeric-id": 127483
+            }
+          },
+          "hash": "93dfbbf113d060a879acd5a07a02b95ccde339e8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121740$55301B2D-93F1-4B25-9769-962879EED8CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121684",
+              "numeric-id": 121684
+            }
+          },
+          "hash": "688f285bb75f2aff4f6222c3bd0daf6d61c2bb8b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121740$39552E66-2856-47D6-98E1-D17F8F7FADC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127606",
+              "numeric-id": 127606
+            }
+          },
+          "hash": "b57422096cab908f0186bcc6ec27034bf9924aad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121740$C708B675-8374-4DA3-B03A-657EA7590139",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121674",
+              "numeric-id": 121674
+            }
+          },
+          "hash": "a2e74c9c7d1359dd236a556f5d316f585c309c54",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121740$FD0297E1-16F3-410E-A0E8-06A3622BFBA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127614",
+              "numeric-id": 127614
+            }
+          },
+          "hash": "befcb814ec7e0b06ba1ddd68b64413887a68e9ff",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121740$0E5CD1C1-B0CD-463D-B9A3-86D1AF76742D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127608",
+              "numeric-id": 127608
+            }
+          },
+          "hash": "74d39911a1edbb4bb6f4610fa28ba989c7d1f85e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121740$E4386265-0717-4ED3-B814-2D63BDF4C68D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122021",
+              "numeric-id": 122021
+            }
+          },
+          "hash": "a8f7ec2d9cd2baff51ac8285c11b72a8c7e5342a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121740$66E5ECA7-1AB6-430F-8025-3B06B5A9B318",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127616",
+              "numeric-id": 127616
+            }
+          },
+          "hash": "983d3e15ae69a65f5c9c4830ee7b1ab81180c1e1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121740$53451726-7325-48B2-91BB-E5A617968281",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127610",
+              "numeric-id": 127610
+            }
+          },
+          "hash": "7996060a8cc523d2de7ac5836a2ed9fa88584587",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q121740$EA0C0C7D-C92E-4E96-8287-1CBEC28FDF68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Winzenburg-7"
+          },
+          "hash": "5217620482c6005934e1f06c524d052c8408dd68",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121740$570A24F8-847F-43C1-8D80-788BB97C1E38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121740$ADF750D1-29AD-4BFF-A414-A104ABEE4519",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121740$5EC29836-9447-49BC-8DC5-ABFA386DA4F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sophie_of_Winzenburg_(1)"
+          },
+          "hash": "8f0c6b9d2d63ca27c9aac4fbac45f885e7028504",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121740$807D0D69-9B2A-44AF-8596-EC61EB837C34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126584",
+              "numeric-id": 126584
+            }
+          },
+          "hash": "5b0382d8ff7231d667a2b45e4adcc5389cd4ff3e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q121740$77A4082B-D19B-4159-B53A-164300850973",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p905.htm#i9041"
+          },
+          "hash": "435198603ce30b1a1b98c503ed286b5c6e83b3c1",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121740$C51C725F-014A-4325-9E76-D4D46B0C7542",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121738",
+              "numeric-id": 121738
+            }
+          },
+          "hash": "4d6c035dcd59f38fb9a55c18b85d2b86060918c6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121740$44B6FDAD-0D30-4994-9502-81A3BFB7B86E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122061",
+              "numeric-id": 122061
+            }
+          },
+          "hash": "86f662fba5861dc9afa53bd0a7ad6ae605cb9a6c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121740$C60B44CA-4CAC-4E4E-B7ED-DA5D80BBAB52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121740$CFCA5548-7854-486F-8983-8F0DE5DDD063",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1105-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "786b965b52bb0b349deaf836010011b2a05d0119",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121740$621AC06C-CDAC-461B-8C42-882EC571E122",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1160-07-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "73c0e9b9e729de753c01ffaa90d9da14b79c3eac",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121740$B734472D-1C32-4586-ACD1-215014FCBB12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1481103"
+          },
+          "hash": "04fc9eda53d8e7cfad1db2ba05ca61dc15a1e8e4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121740$31F35DBA-F55C-41EA-A2B9-4DB9673A4355",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=sophie;n=von winzenburg"
+          },
+          "hash": "a3a337d029378d9d30af93f4624b45d1937378b3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q121740$C1A1C3C1-8362-48A8-BA23-D00ADEBC07FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.912"
+          },
+          "hash": "6ff127e4981f24e51d7887d1f54dab3feeb8b631",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121740$0FF5A009-9CDA-459D-85E7-E8DD8CD8CEB1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sophie of Winzenburg Arms.svg"
+          },
+          "hash": "c6b6555cd9283728351739495f5d4be05bed5c07",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Markgräfin von Brandenburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "First Margravine of Brandenburg"
+    },
+    "it": {
+      "language": "it",
+      "value": "margravia di Brandeburgo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "primeira margravina de Brandemburgo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "маркграфиня Бранденбургская"
+    }
+  },
+  "id": "Q121740",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "صوفى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "София фон Винценбург"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sofia de Winzenburg"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Žofie z Winzenburku"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sophie af Winzenburg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sophie von Winzenburg"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σοφία του Βίντσενμπουργκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sophie of Winzenburg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sophie of Winzenburg"
+    },
+    "et": {
+      "language": "et",
+      "value": "Sophie von Winzenburg"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sophie de Winzenbourg"
+    },
+    "he": {
+      "language": "he",
+      "value": "סופיה מוינצנבורג"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sofia di Winzenburg"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sophie av Winzenburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sophie van Winzenburg"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sophie von Winzenburg"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sofia de Winzenburg"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sofia de Winzenburg"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sofia de Winzenburg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "София Винценбургская"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sophie of Winzenburg"
+    }
+  },
+  "lastrevid": 17534932,
+  "modified": "2025-09-17T06:36:06Z",
+  "ns": 860,
+  "pageid": 146737,
+  "sitelinks": {},
+  "title": "Item:Q121740",
+  "type": "item"
+}

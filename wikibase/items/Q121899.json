@@ -1,0 +1,365 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ulric II, Margrave of Carniola"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q121899$7BC9E1E5-E156-49B3-9DA2-8D0A9B03BBBE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00330338"
+          },
+          "hash": "aa84e696ac2ea92d10d20da7877d66b0bfb8dbda",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121899$316FA3BD-BF49-4BD2-8044-9EACFA1314B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121899$DC852B8E-E060-4B29-BFAB-D3279BA9C18C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121899$6CFD0DC5-5046-4036-AC19-E91D7FAB6947",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulric_II,_Margrave_of_Carniola_(1)"
+          },
+          "hash": "0ff8772e30a5b9ae3e40d255444293dd4c6a7ed6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121899$984F2FDE-4332-4858-9894-E97567370DF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126640",
+              "numeric-id": 126640
+            }
+          },
+          "hash": "c159ee921843c646d3ec05252ba6359d14f86b96",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121899$DB6E191A-BB7B-4C0F-B145-76D98499B0A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121895",
+              "numeric-id": 121895
+            }
+          },
+          "hash": "9b9853c3691d1c266f79fa2710a012703639043a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121899$04CC52B0-4B05-4823-87E7-96191E0EC3F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117377",
+              "numeric-id": 117377
+            }
+          },
+          "hash": "2ec31eb32baa488c01f92ac7227e71eabae107c2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121899$BD0E82A9-B8DB-4DA3-91B8-762EBD696858",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121899$D1767E6F-4FF7-4341-9E93-0F011CD8AF2C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1064-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3edc1c113299b6745f69fcc0b1bb1a8c6a1a4a86",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121899$BD2772E5-9504-4184-AE77-40E2F38E83A3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1112-05-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d0fd08a9c43d95b2eb2820bd6ec3107c4c362c05",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121899$BBC619D3-0B29-43B1-9AEC-9CE6668ECAC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q475962"
+          },
+          "hash": "1af28bcdc7419a4d0ff4d5c1bfe399574293b508",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121899$3438CA24-50DA-4B31-8206-5B28603AF813",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ulrich;n=von weimar"
+          },
+          "hash": "dc80ce843f136d04cc9a676c2ee18e840ae7a9b0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121899$CDBFFC48-D1EB-445B-A58B-9A579762AE60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulric II, Margrave of Carniola Arms.svg"
+          },
+          "hash": "e446f4a9e89c51ed18f52f8fd09b897231e0525e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "kraňský markrabě"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Weimar-Orlamünde"
+    },
+    "en": {
+      "language": "en",
+      "value": "Italian nobleman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "margrave de Carniole"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Веймара"
+    }
+  },
+  "id": "Q121899",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اولريك التانى مارجريف كارنيولا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Улрих II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ulric II de Carniola"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Oldřich II. Kraňský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ulrich II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ούλρικ Β΄ της Καρνιόλας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ulric II, Margrave of Carniola"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ulric II, Margrave of Carniola"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ulric II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ulrico II di Carniola"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウルリヒ2世 (ヴァイマル＝オーラミュンデ伯)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ulrich II van Weimar"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ulric al II-lea de Carniola"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ульрих II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ulrik II. Weimar-Orlamünde"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "烏爾里希二世"
+    }
+  },
+  "lastrevid": 17535088,
+  "modified": "2025-09-17T06:38:23Z",
+  "ns": 860,
+  "pageid": 146950,
+  "sitelinks": {},
+  "title": "Item:Q121899",
+  "type": "item"
+}

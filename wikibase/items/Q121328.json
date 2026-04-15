@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Boris Yurevich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q121328$F2CE6CB0-F72B-4533-8B3C-1B6ED966E048",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "673"
+          },
+          "hash": "087728f807cf87f32570688cfed00f803e0a2056",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121328$27932948-2AC4-4136-A7E4-B1CE61AC609C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121328$355C7671-7104-4F82-A434-D5939D558D27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q121328$FAA6AA70-388D-4110-B10E-6BAE8A5AB383",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11475.htm#i114743"
+          },
+          "hash": "e2abd57b89034c0af4397b24433ae18b9d96e463",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121328$77A24BB4-BFA9-4033-8CD6-6D4F2707B121",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117161",
+              "numeric-id": 117161
+            }
+          },
+          "hash": "800458d38503ace9cb0d0d4af0d782c1d9d52269",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121328$533B6F5E-DE95-46B4-987D-C381741D0572",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121312",
+              "numeric-id": 121312
+            }
+          },
+          "hash": "7298487581b298b635913d6f69bef77c4bed89fc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121328$8F9276D8-F897-4711-A22E-FB7814EB48C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121328$523F7BD8-756A-4325-87AC-5B0DAB763AC9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1120-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7dcebff35cd4b29d069ca4177d79c1f74b5713c9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121328$453122A1-64EB-4894-8660-1BF61CFBEDA4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1159-05-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d80b42f3ded81938ffa0367db8426ced91bd658",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121328$1A697FDA-22BE-4307-82EA-E9D8A73EB81A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4093758"
+          },
+          "hash": "b422d32d6b159ffa7b2357f0d0a2f9452dc00025",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121328$4C030EF0-A9B8-49BE-82C1-7B9E4C196DC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=boris;n=rurikides"
+          },
+          "hash": "7cf8835d086ac2a4a927afb4a6efcb0ada2fd3d9",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121328$20DA3E22-9D56-44EA-A5A6-1D531BD26A9D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Boris Yurevich Arms.svg"
+          },
+          "hash": "1c3e088db325a92a694c93528ac711970cd6477a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "ruský kníže"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1105-1159)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь белгородский (1149–1151), туровский (1154–1157), кидекшенский (1157–1159), сын Юрия Долгорукого"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1105-1159)"
+    }
+  },
+  "id": "Q121328",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بوريس يوريفيتش"
+    },
+    "be": {
+      "language": "be",
+      "value": "Барыс Юр’евіч"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Барыс Юр’евіч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Boris Jurjevič"
+    },
+    "da": {
+      "language": "da",
+      "value": "Boris Jurevitj"
+    },
+    "en": {
+      "language": "en",
+      "value": "Boris Yurevich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Boris Yurevich"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ボリス・ユーリエヴィチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Boris Yurevich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Борис Юрьевич"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Борис Юрійович"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "鲍里斯·尤里耶维奇"
+    }
+  },
+  "lastrevid": 17534533,
+  "modified": "2025-09-17T06:30:38Z",
+  "ns": 860,
+  "pageid": 146184,
+  "sitelinks": {},
+  "title": "Item:Q121328",
+  "type": "item"
+}

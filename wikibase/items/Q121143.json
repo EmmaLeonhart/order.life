@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dietrich of Formbach"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q121143$15983299-EC4C-4BC6-8201-66D3F4635574",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Formbach-8"
+          },
+          "hash": "cae57ebc2b08be8cf4148ad83b481bb8ccc017e3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121143$7AF9ED58-E6A4-403B-A4EB-C0B54F0CCAE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121143$D38D72DE-4119-4076-87E1-927047062610",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121143$89F584D7-3672-4371-A20E-D8D08AA1A29F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dietrich_Formbach_(1)"
+          },
+          "hash": "88905dde5201727e02de990c0a4291c4b09af666",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121143$83F46571-A97D-42CB-8E98-7DAD23A2B0E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117512",
+              "numeric-id": 117512
+            }
+          },
+          "hash": "553639f5c796476536dfb7950b30b2e3acb8c31d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121143$A2084103-596A-46C7-A338-8E66B147FB75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117075",
+              "numeric-id": 117075
+            }
+          },
+          "hash": "5e21cff0b2f8e86c52e96fc602e87f050dc62b02",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121143$ACEB5DAF-5838-4003-9237-A028BE1EB774",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121143$F8ADED4B-CD79-4BAA-A178-216806530028",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc14efe6d96336a34324dc61d6c96d5d9c81e3e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121143$B7B5CD73-40C2-4F26-8357-7D2BE3073925",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18b26d6269d66f0e1ec5fc613fc17f19e7f5bd05",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121143$457DF415-4A57-44FE-93A5-E7DA22E03ECA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q97207413"
+          },
+          "hash": "911a93a1012fa73bc449400caca2ae129182c6d7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121143$2197777F-FEFE-4056-9737-1ABCB4E5763B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=thierry;n=von formbach"
+          },
+          "hash": "d9728edbf4f1cb655d4110fbd7bdc1b8a59bb218",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121143$F1142FFA-5458-4B8D-9BBA-B29677256B9D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dietrich of Formbach Arms.svg"
+          },
+          "hash": "b8198edf57669154e85075f22496ce938e7e827b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Formbach, von Viechtenstein und von Kreuzenstein, gest. um 1145"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Formbach, of Viechtenstein and of Kreuzenstein, died 1145"
+    }
+  },
+  "id": "Q121143",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Дитрих II фон Формбах"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dietrich von Formbach"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dietrich of Formbach"
+    }
+  },
+  "lastrevid": 17534351,
+  "modified": "2025-09-17T06:28:00Z",
+  "ns": 860,
+  "pageid": 145937,
+  "sitelinks": {},
+  "title": "Item:Q121143",
+  "type": "item"
+}

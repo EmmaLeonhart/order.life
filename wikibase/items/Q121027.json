@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dietrich III. von Katlenburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q121027$B0BB3515-C943-485A-9078-5B654ABC2819",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00295863|I00330359"
+          },
+          "hash": "8ae90eda1e4b47f4a8f5406742f680b9e0b4f3a3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121027$0CDB21CA-41F6-46C1-B6B2-4D062615403F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121027$EE79E397-48C8-4D01-ABE0-4D08842999ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121027$DE649443-1E35-4EBC-874F-731F38671FA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122481",
+              "numeric-id": 122481
+            }
+          },
+          "hash": "a3304f02de7ef1d24ca4a85e7d92aeb6fa12929e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121027$E768EA9D-F4F3-4155-B7FA-0490662FF4A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121017",
+              "numeric-id": 121017
+            }
+          },
+          "hash": "c77e3b7573fc1bb92ecb8bb4fd5059e52c752a22",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121027$D37C0BE1-CFC9-4188-BAD7-0F14EBC560B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117025",
+              "numeric-id": 117025
+            }
+          },
+          "hash": "3ec2ae6745d6ea043729a3460b0902a08782250a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121027$59E4C8D4-035F-47F1-9C01-B514E9ED1B2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121027$B26E3515-1B49-4A3A-B8BE-CF21908FA47F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121027$E604C19F-EFCD-4FBE-903F-D68D63390943",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1106-08-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3168a104f416e6aa709f36104dd65834ec0485ca",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121027$F0BD7F6F-1060-49B9-A4F2-31134A9DE73C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1223841"
+          },
+          "hash": "e71a723b21be7fabde4095c7dfacf93d4183c3b8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121027$30410E50-1DFA-4414-9C7F-EAA147EB89E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dietrich III. von Katlenburg Arms.svg"
+          },
+          "hash": "e471418cedd2e9586e0caf3f76665ed0eb641002",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q121027$DABCBC75-6D62-41F5-8546-1B44D2C641F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/d273c40f-0377-4f42-a753-e5651d3b8011"
+          },
+          "hash": "0f40762e9ec0a358460544e814ffe6a839beafd3",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Katlenburg"
+    }
+  },
+  "id": "Q121027",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Дитрих III от Катленбург"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dietrich III von Katlenburg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dietrich III. von Katlenburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dietrich III. von Katlenburg"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dietrich III von Katlenburg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodorico III di Katlenburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dietrich III. von Katlenburg"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Dietrich III. von Katlenburg"
+    }
+  },
+  "lastrevid": 17534235,
+  "modified": "2025-09-17T06:26:17Z",
+  "ns": 860,
+  "pageid": 145780,
+  "sitelinks": {},
+  "title": "Item:Q121027",
+  "type": "item"
+}

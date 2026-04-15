@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry II, Margrave of the Nordmark"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q121376$AAC26155-5374-4402-9C20-502378B4364E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00310973"
+          },
+          "hash": "d070894c1d009860ff3430b9d0ccd27ffed8d60c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121376$1052DD82-E154-4620-BB23-237369D773FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121376$7D9D3411-A9B4-4E0F-BBFF-AE89C54D59DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121376$93700301-1F40-43C8-B2A6-95CC91C83109",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry_of_The_Nordmark_(1)"
+          },
+          "hash": "07744131f0ee9fc35e1487074cb7b73f8df1dedd",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121376$9BFD5762-832E-4B8D-BCDA-6B7BC5BC6A6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126586",
+              "numeric-id": 126586
+            }
+          },
+          "hash": "8d4ef2498505ae014ce3ed213aa5aaa4351ccfac",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121376$D0D8F32B-2D85-446A-B712-2918945EC643",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117181",
+              "numeric-id": 117181
+            }
+          },
+          "hash": "9f6b07e248c3e19b934222090951d112d4a4687c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121376$63AC79BE-0335-4161-8E60-9DE0DF121A58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121374",
+              "numeric-id": 121374
+            }
+          },
+          "hash": "054ce5ccff6b810fbb0713c1cf6a622c50648d48",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121376$AE48EEDB-AFDE-4BBF-BE65-AEF1175D42A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121376$EC112685-5F91-4D16-9422-BF101865CE64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1102-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8924565f5bfb11f21464be62f544c905a78a347",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121376$0499DC19-C208-4C62-9B9F-59F006A07757",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1128-12-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f75c5309e4c0900cdbf74ea099429623e4bfaff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121376$FBCA879D-967E-4F07-8D2D-37D981B74800",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2177860"
+          },
+          "hash": "6be9518de2297baaaf08f55086f43ca249d0b69d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121376$CDCD6351-EACD-4391-82E1-926AE7B1C9F8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry II, Margrave of the Nordmark Arms.svg"
+          },
+          "hash": "7a29a2f7cc1bfa861f89572e923d782dac040b89",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Stade und Markgraf der Nordmark"
+    },
+    "en": {
+      "language": "en",
+      "value": "count in medieval Europe"
+    }
+  },
+  "id": "Q121376",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος Β΄ του Νόρντμαρκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry II, Margrave of the Nordmark"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enrique II de Stade"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico II della marca del Nord"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik II van Stade"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Henryk II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих II фон Штаде"
+    }
+  },
+  "lastrevid": 17534582,
+  "modified": "2025-09-17T06:31:19Z",
+  "ns": 860,
+  "pageid": 146248,
+  "sitelinks": {},
+  "title": "Item:Q121376",
+  "type": "item"
+}

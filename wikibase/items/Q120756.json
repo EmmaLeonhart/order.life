@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aénor"
+      },
+      {
+        "language": "en",
+        "value": "Aenor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q120756$3F92831C-35A7-435A-82C7-E846EB458B44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "303754"
+          },
+          "hash": "aad993db2f80a6153ebab6d0e06989dc3d00f13d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q120756$BC8D4001-87C7-4D9C-94EC-7BFC61C144E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00141495"
+          },
+          "hash": "453aea391094c414e5da30fce36fd4865c762cc3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q120756$0012160C-9083-4FB8-B9A2-ED856FD67070",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116837",
+              "numeric-id": 116837
+            }
+          },
+          "hash": "a65bffdf7d7a8300dd271557ca2bd27a73e4e7d2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q120756$2C53BAB5-B401-4140-A464-80F66AB627F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Thouars-11"
+          },
+          "hash": "429201d2cfac4cdc1c3eae9a1bb356dbe7f7c0df",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120756$142EE7F4-C6C2-4D2F-B276-566330EB8FFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120756$9F7C7FF6-1F8F-455F-998F-C7CC66DDCB1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q120756$836F880D-7C2A-4E02-9158-261AB8A036C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114151",
+              "numeric-id": 114151
+            }
+          },
+          "hash": "4050c85359e4c15b074eb8b66fb466e33dced085",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120756$00A4BE95-EE50-49C3-AB9E-0C12A429366A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120756$294B0A9E-0F3A-4628-A5A7-4BDC7EDD24F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a28b8b513b840ad131a41f5a1434d069679875f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120756$10AA7795-94C6-4465-8175-3662B6F35B43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q100326620"
+          },
+          "hash": "73a33396e728b693671c778438f37a6a6167806e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q120756$91FD012A-92E1-4CF5-8F69-B7252198C436",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Aénor"
+          },
+          "hash": "a2326b63407cd524747b0ffbda523fd318e0f5cb",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q120756$0D82A101-F0D0-4F4F-AABD-36822E6CFA44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adenordis;n=n"
+          },
+          "hash": "581d6ce0a39d49163e2d8b281ac3af1d893d60ed",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120756$040F4B58-EEC9-4E7B-8AB3-3D97186BA17F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aénor Arms.svg"
+          },
+          "hash": "09c06a7b0e7230fd6a1cbd009f47d96a096736e4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Abt 1002 -"
+    }
+  },
+  "id": "Q120756",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aénor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aénor"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Aénor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aénor"
+    }
+  },
+  "lastrevid": 17533963,
+  "modified": "2025-09-17T06:22:28Z",
+  "ns": 860,
+  "pageid": 145418,
+  "sitelinks": {},
+  "title": "Item:Q120756",
+  "type": "item"
+}

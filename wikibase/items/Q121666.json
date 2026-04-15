@@ -1,0 +1,275 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gebhard I, Count of Plain and Hardegg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q121666$512AA7CF-168B-4853-B0F2-6249EEEBD994",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00360294"
+          },
+          "hash": "a24bfc6911e0b0426c22ff19e598eda40645c99f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q121666$32762029-1D87-4509-B265-A1D5C6319FAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121668",
+              "numeric-id": 121668
+            }
+          },
+          "hash": "78b3e726844d027e577e7c656e2c0a9693f4ea4e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121666$2E4ABB93-D96D-44D1-B1D2-EEA2903843CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121670",
+              "numeric-id": 121670
+            }
+          },
+          "hash": "fd1a1a53268748407f036b9f68e1c53d16db1817",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q121666$7991A0B8-16BB-4194-BDA0-3E25EFE3709D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121666$EAB58A41-1FCD-4768-BC29-FBB596A17BED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121666$90BFF53B-7A2E-47AF-92E1-90360A51533D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117289",
+              "numeric-id": 117289
+            }
+          },
+          "hash": "d93f58361f905a1534a3adcc197a4b68e222c9fc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121666$6103EB74-50F6-4AB8-A343-69A009962108",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122195",
+              "numeric-id": 122195
+            }
+          },
+          "hash": "d7ea2a5ef216fda06322bc4761538aacf5f1c48c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121666$D4445AAA-ADC9-4B94-9421-71DC480D87C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122197",
+              "numeric-id": 122197
+            }
+          },
+          "hash": "8e2921e6672004d7211a5d7f902c99d4f00a596c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121666$4F383CB9-A7D1-41FB-BA6E-7806EE399BB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121666$5F5674EA-DF0B-4FAD-BBB5-22E86B4E4D2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121666$3A099B80-899E-48DF-8609-D92AC86C4B62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65224595"
+          },
+          "hash": "723ccde5699fbc49588bcb4f436759e83bd1a582",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121666$62E99E3D-0A45-4AE5-8B20-DF11C88C6915",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gebhard I, Count of Plain and Hardegg Arms.svg"
+          },
+          "hash": "6315949b724ff4049fbc7cd8737cd9bf83c01a1e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- Abt 4 Dec 1163"
+    }
+  },
+  "id": "Q121666",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гебхард I фон Бургхаузен"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gebhard I, Count of Plain and Hardegg"
+    }
+  },
+  "lastrevid": 17534858,
+  "modified": "2025-09-17T06:35:07Z",
+  "ns": 860,
+  "pageid": 146638,
+  "sitelinks": {},
+  "title": "Item:Q121666",
+  "type": "item"
+}

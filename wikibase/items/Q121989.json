@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q121989$6EC18C0C-323C-45D6-8BAB-38DED430AA5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121989$B668DFFE-791E-4A0F-A211-13C333940C89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121989$0341FC20-5E35-444B-959C-ED0A0A6DAA04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117435",
+              "numeric-id": 117435
+            }
+          },
+          "hash": "4ddae5a2b390b9f24f2294ffdfef0349cf8cafb2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121989$E36C27F0-0F13-411A-B7D1-A57E22730D45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121989$775C8DA6-8E92-4DB4-AE0D-81FC34FBA977",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1140-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b77a02bf3d1b65e76819a0e6802e2ee8ff68bae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121989$5E7CCEB9-E6CE-42F4-8493-B71D0A9F4D8B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1170-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8cf23e8b478f166e3b44ebce87282253b8d6909",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121989$EA3DF419-40EE-40C7-AF6D-FACC73263542",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4965708"
+          },
+          "hash": "4d0d9473780ad7fe7ba0af462e561e1e44b67f16",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q121989$BB67A8B7-1222-4F69-B336-6E8CF6811694",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=maria;n=."
+          },
+          "hash": "1e4cc3560cbcb66d5463ccfceb209c3a278b8168",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q121989$8383D8CA-3F57-4F92-BFC6-B64D61C638BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.530"
+          },
+          "hash": "a6bb3d0b804affe786b9838a58300551651ddc90",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121989$66F97865-24A2-4D86-A2F4-971BE111948A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria Arms.svg"
+          },
+          "hash": "3fcdedee78cbae72d9f8290fc4deb1334aff4754",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "High Duchess of Poland, wife of Bolesław IV the Curly"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gran duquesa y Reina consorte de Polonia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "жена Болеслава IV Кудрявого"
+    }
+  },
+  "id": "Q121989",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Maria"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maria"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρία Αναστασία Βολοντιμίρκοβνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria"
+    },
+    "es": {
+      "language": "es",
+      "value": "María de Polonia"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "മരിയ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maria"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Maria (żona Bolesława Kędzierzawego)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Marija (žena Boleslava Kodravega)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Maria (polsk hertiginna)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марія-Анастасія Володимирівна"
+    }
+  },
+  "lastrevid": 17535178,
+  "modified": "2025-09-17T06:39:35Z",
+  "ns": 860,
+  "pageid": 147071,
+  "sitelinks": {},
+  "title": "Item:Q121989",
+  "type": "item"
+}

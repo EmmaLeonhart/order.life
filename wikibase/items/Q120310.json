@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gilbert d’Auffay"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q120310$F9F4E070-46EA-47E4-BBD9-C3ECC6C07C03",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "623315"
+          },
+          "hash": "d7aa236ebdc56344d60cc2bf3530dd1c9c09b1ad",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q120310$FC1A33D7-5AA9-4FE9-A801-533400583B66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Auffay-2"
+          },
+          "hash": "3c139908620e6255c468fc7393379b1afd5b652c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120310$04E39AB7-DDC2-468E-86FF-7A6977186C85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120310$1D670890-7B2B-453A-AD06-41E273CDE4E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q120310$3E20B7F6-81CB-4A09-B1DA-6106A2FDEF0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gilbert_d'Auffray_(1)"
+          },
+          "hash": "482741696c8a0aa1c6e65fb4c8236decb109a38e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120310$8E15287D-59B9-471C-8D51-745E2393929F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116493",
+              "numeric-id": 116493
+            }
+          },
+          "hash": "93b1200e28ed2e0f6f9c90eb0d47406325aca3db",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120310$0903CC54-D030-4B3A-955F-550F83D0C775",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120310$0D1F2ABE-58DE-4F2D-8880-561D36ADDBCA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120310$DA0ACB3F-F186-444B-AFC6-FA9C75E34EED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1087-08-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6aa052140d4a7d1adafb866f43f40cdec0bd0efb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120310$7C8A21F7-F5A3-4B79-9762-D5A279FB2139",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q64682504"
+          },
+          "hash": "85ba171b6084a2af61d3682e14ab602d5a01fede",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120310$1D47A0F1-59A7-4AE8-B90D-EA93685F4E0B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gilbert d’Auffay Arms.svg"
+          },
+          "hash": "11b47547420c66ec0c838bd8f64017f546fd244b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "normannischer Adliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "11th century French nobleman"
+    },
+    "es": {
+      "language": "es",
+      "value": "Noble normando"
+    }
+  },
+  "id": "Q120310",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gilbert d’Auffay"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gilbert d’Auffay"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gilbert d’Auffay"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gilbert d'Auffay"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gilbert d’Auffay"
+    }
+  },
+  "lastrevid": 17533513,
+  "modified": "2025-09-17T06:16:25Z",
+  "ns": 860,
+  "pageid": 144818,
+  "sitelinks": {},
+  "title": "Item:Q120310",
+  "type": "item"
+}

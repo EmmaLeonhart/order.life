@@ -1,0 +1,392 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry II, Margrave of Meissen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q121023$7F02AC1F-2DA2-44CB-A8AB-A5F582B64BB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121023$12474DB4-90C5-47DB-8E34-BD0820135C1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q121023$128A8520-592D-4F6D-A11A-DA595BE3FBB3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry_II,_Margrave_of_Meissen_(1)"
+          },
+          "hash": "28c1569f102f53eac5975268eb25cf33855540d6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q121023$AF90DF7B-1719-4B93-9E81-17E0FE18E848",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121378",
+              "numeric-id": 121378
+            }
+          },
+          "hash": "03146173049c1096ab95cf400d9552cb7e0c4343",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q121023$2E737DA4-01C9-47C1-A5B2-7D8B1B858136",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p897.htm#i8965"
+          },
+          "hash": "1d769e8ba2eded15ebb449edd8b235bbbbd77fd0",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q121023$13C0C82D-EFB0-45BD-8C91-FB8E76421E5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121019",
+              "numeric-id": 121019
+            }
+          },
+          "hash": "242d776123f7813924e7525630c15ffbc52579cd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q121023$320A1053-9536-4797-8D67-D22333F6FAC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117025",
+              "numeric-id": 117025
+            }
+          },
+          "hash": "3ec2ae6745d6ea043729a3460b0902a08782250a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121023$EDF5C932-7F95-4A65-8FC2-8C5E3F6F731E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q121023$B6CDC15D-0411-4B69-93E2-B9DA8416223C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1103-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f0fc6d0b55239121421d4a883ad1cd379642b6ba",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q121023$FEEEF0E9-F1DC-4D0A-848D-22D5AB89FF6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1123-09-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60f114c19b9bbb48cafae738187a6560765fd128",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121023$74233A51-F32C-4FC9-837B-95316967DA19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q66540"
+          },
+          "hash": "c0de2dc9604264b37cebae4553448280c2bdf3a9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121023$6478FBC7-87A8-482C-A6CB-3DB16397EA8C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry II, Margrave of Meissen Arms.svg"
+          },
+          "hash": "470a8332c47044b9f22f409709187b85db28337d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante alemán (1103–1123)"
+    },
+    "be": {
+      "language": "be",
+      "value": "маркграф Майсена (1103—1123)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "míšeňský markrabě"
+    },
+    "de": {
+      "language": "de",
+      "value": "Markgraf von Meißen, Markgraf der Lausitz"
+    },
+    "en": {
+      "language": "en",
+      "value": "Margrave of Meissen and the Saxon Ostmark from 1103"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enrique II, margrave de Meissen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "margrave de Misnie"
+    },
+    "it": {
+      "language": "it",
+      "value": "margravio della marca orientale sassone, di Lusazia e di Meißen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits heerser (1103-1123)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Айленбурга, маркграф Лужицкой и Мейсенской марок с 1103"
+    }
+  },
+  "id": "Q121023",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "هنرى التانى مارجريف ميسن"
+    },
+    "be": {
+      "language": "be",
+      "value": "Генрых II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Henri II de Misnie"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich II. z Eilenburku"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος Β΄ του Μάισσεν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry II, Margrave of Meissen"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Henry II, Margrave of Meissen"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Henry II, Margrave of Meissen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enrique II de Meissen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri II de Misnie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico II della Marca Orientale"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハインリヒ2世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik II van Eilenburg"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Heinrich II. von Eilenburg"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Henrique II, Marquês da Marca Oriental Saxã"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Henrique II, Marquês da Marca Oriental Saxã"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Henric al II-lea al Saxoniei răsăritene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Henry II, Margrave of Meissen"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Henry II, Margrave of Meissen"
+    }
+  },
+  "lastrevid": 17534231,
+  "modified": "2025-09-17T06:26:14Z",
+  "ns": 860,
+  "pageid": 145775,
+  "sitelinks": {},
+  "title": "Item:Q121023",
+  "type": "item"
+}

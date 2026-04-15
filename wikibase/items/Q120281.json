@@ -1,0 +1,307 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Herman of Hauteville"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q120281$6C077202-91DF-4933-971F-D0157E37AFC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "584948"
+          },
+          "hash": "1e496ef39316df70a4bae1e213c1233c155c797a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q120281$C8D8E45F-3F0A-4C75-8034-0E4F003F4660",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q120281$667727C8-728B-4730-8737-D49A7CACA0C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q120281$3A0DF4C8-A2BF-4EA7-8E75-EC6BB1CBA781",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Herman_of_Hauteville_(1)"
+          },
+          "hash": "e5a24f34df22b778c9c85d363e703423aa920e6b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q120281$725E3324-62D6-4F75-98BE-6493FFDCD500",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116465",
+              "numeric-id": 116465
+            }
+          },
+          "hash": "7e8acdf5e81b96fa81889f7a5092b779dda685c6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q120281$F6DB70A1-9B89-45DA-822C-DE575FF77E44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120273",
+              "numeric-id": 120273
+            }
+          },
+          "hash": "3f7604153bbb1b36b502acd6abab61247ee4a8a4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q120281$3E8DEAD5-4F9F-47E3-BC42-2BCB3D158B65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q120281$498AEC17-4448-4B43-8969-E23631FA2E59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1048-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5397569e5025fc51e92be680ee10e6bb912967f3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q120281$C14A0C22-5DD7-4787-B7E7-4D52BA3A002B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1097-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c89009690e1ea82df20824469998105da823a54",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q120281$65A5E432-5742-48B0-A782-BE84385A6F4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1084512"
+          },
+          "hash": "e4d71473980e510391cf5b3729b76656872a127d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q120281$7863B012-D3FB-4790-A53E-0C816F31D480",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Herman of Hauteville Arms.svg"
+          },
+          "hash": "0c638ce80d8bb5c39403c2dce7827206ed5135a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Italian crusader"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "croisé italien"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q120281",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هيرمان هوتفيل"
+    },
+    "da": {
+      "language": "da",
+      "value": "Herman af Hauteville"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερμάνος των Ωτβίλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Herman of Hauteville"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Herman of Hauteville"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Herman of Hauteville"
+    },
+    "es": {
+      "language": "es",
+      "value": "Herman of Hauteville"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Herman de Hauteville"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ermanno d'Altavilla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エルマーノ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Herman of Hauteville"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Herman de Hauteville"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Herman of Hauteville"
+    }
+  },
+  "lastrevid": 17533481,
+  "modified": "2025-09-17T06:15:59Z",
+  "ns": 860,
+  "pageid": 144779,
+  "sitelinks": {},
+  "title": "Item:Q120281",
+  "type": "item"
+}
