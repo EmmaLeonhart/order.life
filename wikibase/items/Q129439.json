@@ -1,0 +1,510 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dinah"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q129439$4EF3A28B-07DE-4668-8329-72871F89F41B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129439$5F39657C-BFCB-4E4A-A46B-251A049D415E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129439$9C4A93F7-B19E-4D6D-8ECB-D1718B0B3A25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85881",
+              "numeric-id": 85881
+            }
+          },
+          "hash": "724be2e47533f3777cccb2949a4e7f0603fd09f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129439$8C01173F-FFF6-4A6F-A2D2-A944B6B6DB37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85226",
+              "numeric-id": 85226
+            }
+          },
+          "hash": "96aac6818a2e499cbc41a72973504b930f79a524",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129439$21E5ECB5-AB83-4FAA-A1FC-AAB6E4877B1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85873",
+              "numeric-id": 85873
+            }
+          },
+          "hash": "c82ccf030f102b2476737cdf3925a7f6f5624608",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129439$4166396C-D3DF-4AAA-9345-AB490CF779E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129439$45733215-8B24-4181-998A-16BD51EEFE68",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f05f950022fbfec180fd05d67ac4ffa2c48c987a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129439$C49B6308-9172-41F5-9929-6151715DA93F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1590-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "be02dec5e2559994bc59c95ec57e2bbcacec344c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129439$4EF00EE6-B17C-4CC0-89D1-1A2BEF6374B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q122035"
+          },
+          "hash": "8a9b3d2c93fd1c170d1db4f5a1e0c5ccf90a667e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129439$89049F97-A7FA-4A17-AA83-BDC6A13E78CC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dinah Arms.svg"
+          },
+          "hash": "4d9af8719d100fc7f489800a98a68b3ea86a350f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Dina was die dogter van Jakob en Lea"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ابنة نبي الله يعقوب عليه الصلاة والسلام، بحسب الرواية الكتابية"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "filla de Jacob a la Bíblia hebrea"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "merch Jacob"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gestalt im Alten Testament"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Jacob in Hebrew Bible"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "laŭ Genezo, filino de Jakobo"
+    },
+    "es": {
+      "language": "es",
+      "value": "la dinahs"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique, première et seule fille de Jacob et de Léa"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "filla de Xacob e Le na Biblia hebrea"
+    },
+    "he": {
+      "language": "he",
+      "value": "בת יעקב"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico, figlia di Giacobbe e di Lia"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "യാക്കോബിൻ്റെ മകൾ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dochter van Jakob in de Hebreeuwse Bijbel"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "personagem bíblica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж Ветхого Завета, дочь Иакова и Лии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jakobova in Leina hči v Stari zavezi"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "யாக்கோபுவின் பதின்மூன்று பிள்ளைகளில் ஒருவர்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 46:15)"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "希伯來聖經人物、雅各女兒"
+    }
+  },
+  "id": "Q129439",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Dina"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "دينة بنت يعقوب"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "دينا بنت يعقوب"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "দীণা"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dina"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Дина"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Dína"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Dina"
+    },
+    "da": {
+      "language": "da",
+      "value": "Dina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δείνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dinah"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Dina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dina"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دینه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Diina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dinah"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Dina"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Díneá"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Dina"
+    },
+    "he": {
+      "language": "he",
+      "value": "דינה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Dina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Dina"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ディナ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დინა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "디나"
+    },
+    "la": {
+      "language": "la",
+      "value": "Dina"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Dina"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ദീന"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Dina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dina"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Dinah"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dina"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "دينه"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Diná"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Dina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дина"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Дина"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Dina"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Dina"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Dina"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "தீனாள்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Dina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Діна"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "دینہ"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Dina (Yoqubning qizi)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "底拿"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "底拿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "底拿"
+    }
+  },
+  "lastrevid": 17542451,
+  "modified": "2025-09-17T08:18:27Z",
+  "ns": 860,
+  "pageid": 157055,
+  "sitelinks": {},
+  "title": "Item:Q129439",
+  "type": "item"
+}

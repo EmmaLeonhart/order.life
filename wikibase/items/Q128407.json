@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adalbert I von Gammertingen"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q128407$A1B5D25C-31DD-4799-867B-E360C6EC5637",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gammertingen-3"
+          },
+          "hash": "bd27ad4c8b70a2d2dec45d38a5502cdcf374043c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128407$2B3B59FA-3B4F-423E-BBE3-AF04C8EC3D23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128407$F0CD95D4-8E73-4F35-AC26-9968FBF9BEE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128407$DEA0B1CE-EE01-44A6-9212-5104327436A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122293",
+              "numeric-id": 122293
+            }
+          },
+          "hash": "67b4ee12655c0045efbe97edd2e25162632d3bf7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128407$8D58D87D-63BD-46C5-A569-0F9A5751605B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122295",
+              "numeric-id": 122295
+            }
+          },
+          "hash": "51788b503945ae2fd654488ab7398948a3279b41",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128407$E3BE92FA-4476-471B-9543-A64F1B609BA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128407$89E2CFB5-2EAA-4F2D-B427-FDBEF5B860F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128407$50E75235-2BC5-4D01-95AD-AF0774C33D2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1150-10-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9514a7808c0f807ce524e7152321f71ace6a9928",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128407$AA550446-99B2-4F41-922E-0AF2F1E96F77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65224492"
+          },
+          "hash": "b29d55a225193017cd9a0f13ac145433d0614cb4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128407$6CC4A682-104C-4DF3-AF33-F440C562C9EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=adalbert;n=von achalm"
+          },
+          "hash": "c7f0805a9e6ce43fd12fff632b13a13641b2fbc4",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128407$3DC476D6-B34C-471E-BDD6-AD270657BEC3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adalbert I von Gammertingen Arms.svg"
+          },
+          "hash": "d8b6edd5d2048a2cf1ee3c68b791c71fec0d6cfe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1150"
+    }
+  },
+  "id": "Q128407",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Адалберт I фон Гамертинген"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adalbert I von Gammertingen"
+    }
+  },
+  "lastrevid": 17541445,
+  "modified": "2025-09-17T08:05:11Z",
+  "ns": 860,
+  "pageid": 155669,
+  "sitelinks": {},
+  "title": "Item:Q128407",
+  "type": "item"
+}

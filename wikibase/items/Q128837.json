@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry III of Gelre"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128837$87B76AAD-8AE0-490E-BE1D-76C2EEA7DEBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00262736"
+          },
+          "hash": "c3a4a4b431652515f62a793356dd598674ce4739",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128837$292E0EFF-B1FB-4049-8FB9-E19274A6ABD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128837$8CF6E900-A8DB-49DF-867C-D82CEF346F79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q128837$7C7B039C-15F4-458A-9E4D-19B90CE3459B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p59444.htm#i594436"
+          },
+          "hash": "ce36be082c1f34aca27006c8941fc2300a932251",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128837$14254F18-9A8E-48CA-B9DE-49A963A6DE0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122563",
+              "numeric-id": 122563
+            }
+          },
+          "hash": "6791a5bd34691ef011e0fdfdfc53d0c58a72b409",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128837$A5D3F038-85FE-46E0-B9BD-3EA587F877CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128833",
+              "numeric-id": 128833
+            }
+          },
+          "hash": "871fed51e4f135244766fd71968c31c5bddef0ee",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128837$DC1F6584-0D51-450D-8C86-BB13040271D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128837$A8206432-F9B2-4756-A436-561FCB78423F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1215-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8e91219acdebf638aa1dc1ac3a3ea3b8ba0e3d4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128837$CCE24FD6-444E-400E-8434-4D991F55D400",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1285-04-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05ff576f961e6d954d6d76578ed560e64476b165",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128837$496AC851-7F0A-420E-A031-A52CC9D0AED6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q247432"
+          },
+          "hash": "205d39135d23d0e892894ee15e87c49ea544847d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128837$ECC275EA-D46C-4D15-A733-DCD39D9CC63A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry III of Gelre Arms.svg"
+          },
+          "hash": "f1edaa84a22e3fcda82f75ad8d9d83d24c8bd733",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Lüttich"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πρίγκιπας-Επίσκοπος της Λιέγης"
+    },
+    "en": {
+      "language": "en",
+      "value": "bishop of the Roman Catholic Church"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe-obispo de Lieja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince-évêque de Liège"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico olandese"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bisschop van Luik"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Гелдерна"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "єпископ Римсько-католицької церкви"
+    }
+  },
+  "id": "Q128837",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих III фон Гелдерн"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Enric III de Gueldre"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich, biskup z Lovaně"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich III. von Geldern"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος Γ΄ του Χέλρε"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry III of Gelre"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enrique III de Güeldres"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri de Gueldre"
+    },
+    "it": {
+      "language": "it",
+      "value": "Henri de Gueldre"
+    },
+    "li": {
+      "language": "li",
+      "value": "Hendrik III van Gelder"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik III van Gelre"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Henryk z Geldrii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих III"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Henrik III. Gelderski"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Henry III of Gelre"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亨德里克三世"
+    }
+  },
+  "lastrevid": 17541867,
+  "modified": "2025-09-17T08:10:43Z",
+  "ns": 860,
+  "pageid": 156247,
+  "sitelinks": {},
+  "title": "Item:Q128837",
+  "type": "item"
+}

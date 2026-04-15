@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Heribert 'le Gros', Sire de Ville-sur-Arce"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q129105$DB0E6C0B-B119-4231-BCD2-BEF5718D907D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129105$33DBCC7D-AC42-40C4-A41D-1E7A5635E831",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q129105$C46C344D-E744-4DBD-8BC3-EFF2334F7991",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11998.htm#i119977"
+          },
+          "hash": "36239e9772a9d92325bd4c5dbad9f659fe84bb0f",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129105$A2B3F7B3-9D8F-487C-9CB8-FEF4BA9D075D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122732",
+              "numeric-id": 122732
+            }
+          },
+          "hash": "e5a09598d90a66760c5ad1809d5d2c24912033a2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129105$B36B3363-6756-4192-892D-E9388352A46E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129099",
+              "numeric-id": 129099
+            }
+          },
+          "hash": "5b48ef493bb8499b32bc11b02b6cca304f649e9b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129105$BC51DCDB-AC69-421F-A857-114EA9364F3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129105$E23CEF3D-0401-4166-AB1E-1BDADC7A24B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1167-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecd722fd7b57d95aba4f85dc7edefd1ec042fb91",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129105$9DF93DD6-17BD-487E-B3F8-30A7C761D2F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75402912"
+          },
+          "hash": "326bf2852771589ad2acb053f3296aefd327c54d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129105$5C6AB5BC-7FA0-4ACE-B07D-581D1F30D5F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=herbert;n=de brienne"
+          },
+          "hash": "f084f64fbbda359da62836bdb891c16f096c2dea",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129105$35DD16C1-7AD7-4D8E-8CB2-2D5965EBAB06",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heribert 'le Gros', Sire de Ville-sur-Arce Arms.svg"
+          },
+          "hash": "60bf3c48384d60b342125f08d72331060deedd17",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=119977"
+    }
+  },
+  "id": "Q129105",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Heribert 'le Gros', Sire de Ville-sur-Arce"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Heribert 'le Gros', Sire de Ville-sur-Arce"
+    }
+  },
+  "lastrevid": 17542135,
+  "modified": "2025-09-17T08:14:17Z",
+  "ns": 860,
+  "pageid": 156607,
+  "sitelinks": {},
+  "title": "Item:Q129105",
+  "type": "item"
+}

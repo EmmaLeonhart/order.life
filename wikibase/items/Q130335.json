@@ -1,0 +1,239 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q118674$CE6BDA7E-7998-4884-9BD0-633BD4E89CC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q115728",
+              "numeric-id": 115728
+            }
+          },
+          "hash": "d7525ef11cb1e3f195df6ee8cc7668668a3123d8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q118674$F437C46E-4A42-4EDF-8E2D-8E8005E6B316",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118674$8A8CB5AA-3808-4056-AA12-EF711507D762",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q118674$D726A8B7-1DED-4F69-A95B-44802D9A1387",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q115237",
+              "numeric-id": 115237
+            }
+          },
+          "hash": "7f22f192ec9926ced9f74f386a3669a21e63c059",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118674$A9082B34-FECC-432C-97C1-9285C3EF4ADF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q118674$94E17056-0C02-4FB0-84C2-062D2F19E586",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1845160"
+          },
+          "hash": "b731134866f81c46f1bc32e0b6bd146025ddbde5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118674$7BF847CD-DB0F-4601-9CF9-8CD0C67B401F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007331733313"
+          },
+          "hash": "e4cd6a108a0d271c5b500164e319decf1777d6be",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118674$736B67D8-DBAC-428B-B47D-306999C20E0C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liutfrid, Duke of Alsace Arms.svg"
+          },
+          "hash": "1f10f5ae9bfe5017facd312a44e25a39c9c944e4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "fränkischer Adliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Frankish noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "duque de la familia de los Eticónidas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "герцог Эльзаса"
+    }
+  },
+  "id": "Q118674",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Ліўтфрыд Эльзаскі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luitfrid I d'Alsàcia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Liutfrid"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liutfrid, Duke of Alsace"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liutfrid"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Luitfrid Ier d'Alsace"
+    },
+    "it": {
+      "language": "it",
+      "value": "Liutfrido I d'Alsazia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Luitfrid Ier d'Alsace"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Luitfried"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Luitfrido I da Alsácia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Luitfrido I da Alsácia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лиутфрид"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ліутфрід I (герцог Ельзасу)"
+    }
+  },
+  "lastrevid": 17531618,
+  "modified": "2025-09-17T05:51:16Z",
+  "ns": 860,
+  "pageid": 142625,
+  "sitelinks": {},
+  "title": "Item:Q118674",
+  "type": "item"
+}

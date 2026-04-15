@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Andronikos Komnenos"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128289$E11D5ACA-2F05-4083-9427-ADABF51C6A39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "251839"
+          },
+          "hash": "af275bddb2af843bc4ee1895035ab7b545763562",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128289$AC6B9E47-2F85-45B0-8EC4-45EDD5F9C173",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128289$16E13B1E-4B7D-4163-80F8-F4C8C4DF34E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128289$3968ECD2-AF85-44C2-982B-2E8CF9B97525",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141196",
+              "numeric-id": 141196
+            }
+          },
+          "hash": "1ca3ea3d2f35f30c3ecd60fff570f87b295cea21",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128289$497B2799-EC8E-44BF-9E8D-66CC72903ADA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128157",
+              "numeric-id": 128157
+            }
+          },
+          "hash": "5a3270569b4ee0928b1985c1406bb598e41580b3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128289$D2D3D87B-A1AF-49A2-94B1-0552D51F8780",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128279",
+              "numeric-id": 128279
+            }
+          },
+          "hash": "f98cbb01047c1ab11810da5553652ec19eacc1c9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128289$9B85D2B5-7502-489C-BF30-D6781372CB05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128289$289FCE27-AE82-4FAC-ABC0-B4517026D2B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1091-09-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81e1e42fb00ad17b1a103420b8478c0923f4f88a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128289$BD4D9BAE-ED3D-483E-9C18-A254372FC800",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1130-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d104a1ebf8a26705ef3625e192e411cf935f0fce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128289$F4AAF4D1-B888-498F-AF98-AD6A3AFD9BCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12272034"
+          },
+          "hash": "caedcbd97de438bd7ed51f3d47afc752e8b4333f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128289$3680A73F-BF9A-4E69-A01A-414A02F8803D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andronikos Komnenos Arms.svg"
+          },
+          "hash": "757ebded7c17ac667a22a3f22f0578eeec5f67bf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "бізантыйскі прынц"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "византийски принц, син на Алексий I Комнин"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "byzantský princ"
+    },
+    "de": {
+      "language": "de",
+      "value": "byzantinischer Prinz, Sohn von Kaiser Alexios I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine prince (1091-1130/31)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince byzantin, fils d'Alexis Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיך ביזנטי, בנו של אלכסיוס הראשון"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bizanslı prens"
+    }
+  },
+  "id": "Q128289",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Андронік Камнін"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Андронік Камнін"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Андроник Комнин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Andrònic Comnè"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Andronikos Komnénos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Andronikos Komnenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ανδρόνικος Κομνηνός (γιος του Αλέξιου Α΄)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andronikos Komnenos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Andronic Comnène"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנדרוניקוס קומננוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Andronik (sin Aleksija I.)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Andronikos Komnenos, son av Alexios I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Andronik Komnen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Andrônico Comneno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Andrônico Comneno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андроник Комнин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Andronikos Komnenos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Андроник Комнин (син цара Алексија I)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Andronikos Komnenos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Andronikos Komnenos (I. Aleksios'un oğlu)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安德洛尼卡·科穆宁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安德洛尼卡·科穆宁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安德洛尼卡·科穆寧"
+    }
+  },
+  "lastrevid": 17541329,
+  "modified": "2025-09-17T08:03:39Z",
+  "ns": 860,
+  "pageid": 155510,
+  "sitelinks": {},
+  "title": "Item:Q128289",
+  "type": "item"
+}

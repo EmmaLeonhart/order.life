@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William FitzRichard"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q127716$5FFA4B53-4036-4DFB-9996-F8561305D106",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139544"
+          },
+          "hash": "3b0f46a5810c6b9e7d89a027508ad99cacdeaf74",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q127716$1AE53FEB-79D8-429B-A026-57837BAEE6E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121762",
+              "numeric-id": 121762
+            }
+          },
+          "hash": "ff3317a9e3e51a295d127877da9503fc189367ae",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127716$C6187607-5D8F-4C6A-858D-7F5FB8B26AAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzRichard-78"
+          },
+          "hash": "b62b7d01d587092317f2253d3c2affbd7f11bf9c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127716$9B4AA291-D31E-4F50-8332-16449F9600B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127716$D1E1FA36-C039-485F-B9DA-F85FF47A1115",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q127716$BB55DC83-F0FB-438A-B3BC-07862C2F2AC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10673.htm#i106727"
+          },
+          "hash": "b61bf1b96a1a3553e819a9043eae947c69c33976",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127716$69E0FE7B-DF1C-42AE-8D02-6DA72F592DCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127716$AF3B6099-2178-42A6-9E8E-5279D180C0EE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1085-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "99624450295925ba51b54a9f2886ea7658192ebc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127716$AF0CAF57-1B44-4963-9E41-B63F43FCA737",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1140-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d86e2adf31010b6aaa21a905913b19fedfe8682",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127716$B8B66C66-7F76-443D-B2EA-FAC4D32373B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75386711"
+          },
+          "hash": "63d6a869b3450eb730360724098c7a0d0ad4b855",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q127716$EE1579F2-65B2-49E9-91B3-A233EC69AA10",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "William FitzRichard"
+          },
+          "hash": "282bf26072be70474abd7cf74516bbd789260e83",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127716$268FC3C4-675D-427D-94B8-97DE777D7CAA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William FitzRichard Arms.svg"
+          },
+          "hash": "651956d0de8471a56b2272a392ce859787c5d7b8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=106727"
+    }
+  },
+  "id": "Q127716",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "William FitzRichard"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume FitzRichard"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "William FitzRichard"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William FitzRichard"
+    }
+  },
+  "lastrevid": 17540769,
+  "modified": "2025-09-17T07:56:09Z",
+  "ns": 860,
+  "pageid": 154742,
+  "sitelinks": {},
+  "title": "Item:Q127716",
+  "type": "item"
+}

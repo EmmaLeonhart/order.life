@@ -1,0 +1,211 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Michael Botaneiates"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q127924$7F2A6A85-B9BB-4606-8BCF-914DDB0FFDD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121908",
+              "numeric-id": 121908
+            }
+          },
+          "hash": "49d5e930297e25bc9bc4c1e61a917a2ec5bbee24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127924$38B92F71-B321-4BFC-9ABE-365EE511BFE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127926",
+              "numeric-id": 127926
+            }
+          },
+          "hash": "255ccd39040023c630ddfa4b325b65978668b9cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127924$23CFD3E2-0F09-4263-91A2-F848BF35DCE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127924$0A346DD4-C1AB-4765-B7B5-22B075867E91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127924$0023F541-57B6-490A-928B-A0D5B602F39A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127924$75087FC1-0069-4999-900F-718CA8F67F2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127924$DCA8DBCD-F989-425D-BE62-B0F2CAE2839E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q117948664"
+          },
+          "hash": "32b7e880202d7c3624e3fe3822e9aada873baafc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127924$68ED059A-6A27-46E3-BAB5-A628D60D84DB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Michael Botaneiates Arms.svg"
+          },
+          "hash": "63a8ab93d8f2e6a14c8339036f2525dc20fc46a6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски военачалник, баща на император Никифор III Вотаниат"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "comandant militar romà d'Orient"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine military commander"
+    }
+  },
+  "id": "Q127924",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Михаил Вотаниат"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Miquel Botaniates"
+    },
+    "en": {
+      "language": "en",
+      "value": "Michael Botaneiates"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Михаил Вотаниат"
+    }
+  },
+  "lastrevid": 17540975,
+  "modified": "2025-09-17T07:58:52Z",
+  "ns": 860,
+  "pageid": 155021,
+  "sitelinks": {},
+  "title": "Item:Q127924",
+  "type": "item"
+}

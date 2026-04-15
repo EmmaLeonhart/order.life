@@ -1,0 +1,576 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert III, Count of Dreux"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128627$A12F023B-6E61-4190-B59E-E8B28DBAEF58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11575"
+          },
+          "hash": "d320fc9f0b77490332a2f1d0b5c866a9a3f0dccc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q128627$9128C624-3733-4472-9ACE-601D36467F52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00026899"
+          },
+          "hash": "b8db73a995570bdb232c917e15aefc5fbc1422b3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q128627$B3F0BDF1-92DB-4DCC-8782-0F47F4AE9C93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149115",
+              "numeric-id": 149115
+            }
+          },
+          "hash": "55f420f54b1e0c19f68a8ec55b7e5b856cb9ac97",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128627$3864E188-3F0D-40A7-9AD9-A4C739BADA9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149113",
+              "numeric-id": 149113
+            }
+          },
+          "hash": "0af10633f4411cd0c493857dd7a8223272f202b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128627$D619ABD7-15C8-40A1-AE90-397DEEEF8DC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149114",
+              "numeric-id": 149114
+            }
+          },
+          "hash": "f3dc3d383e7c99d7e099a5365ec29cce0bd2a2f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128627$BF7F4E99-20B3-42C9-9BD3-E5EE8A3CC096",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dreux-32"
+          },
+          "hash": "48e52c6de02cccf91b7d9297336f6be56253b283",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128627$426BA88E-A740-4C28-BBE0-734EA6EB0982",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128627$0B1E6501-E2D2-4E1C-AE71-3186315D5017",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q128627$78CDFCA3-A1A2-4D64-8603-6E13BBC39957",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert_III_of_Dreux_(1)"
+          },
+          "hash": "118bd8b36cc3fde40824162d4ec95152c303355f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128627$B047DC7B-003C-4E59-A441-45A61C34C0BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145019",
+              "numeric-id": 145019
+            }
+          },
+          "hash": "0465ad95281d547cb36cc5df55a96ce9cc33de50",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q128627$09842C66-00A3-47B0-BE8F-F7D2882F450C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p372.htm#i3717"
+          },
+          "hash": "346d06a4f8eed08928336452ef5f1cb434d5cac0",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128627$0087A6A2-1DAE-433F-BBE7-D464BDD56BA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124962",
+              "numeric-id": 124962
+            }
+          },
+          "hash": "a0984701953f0c7fafa5c363ecb8e76da00e44e9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128627$679129CE-8D3A-4FA1-88DB-1B8CDDE9DC2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122431",
+              "numeric-id": 122431
+            }
+          },
+          "hash": "b444406503e173cacaad1ba1d640aeb30f6bd418",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q128627$CF7C65EB-F92F-4B56-89E2-A6097DB30EA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "91657636"
+          },
+          "hash": "e6483ec40ef25b769ad25722c9b2ddb2b463ec6a",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128627$89B8EE64-FDAB-4D99-B82F-715A73D5F3DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128627$0B0FD63B-DE52-43E1-B34C-4F00829FAB0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1185-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0fc914cb6b83d5783e77ddfd962ee24af20723c6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128627$1CD22606-4658-4B8F-91A7-EF6F4A18EE40",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1234-03-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd921bdf1e37f8863cdb271b1e341e9bd99f0f71",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128627$67DFFA42-2175-426A-9BE4-A454A60E5358",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1388854"
+          },
+          "hash": "2782b1e4dd628ab91e372c51d570c83e3364e43e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128627$40D99DA8-7939-4240-B6C6-7B12F03C1B6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=de dreux;oc=3"
+          },
+          "hash": "ab893e74aaf5ce6e16c7cf88cb52b5af0cc52228",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128627$07FAE2B4-0C0E-4491-8966-91BC5F499B7C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert III, Count of Dreux Arms.svg"
+          },
+          "hash": "8d346983994cdc0fb8757c1702066d36e0ee1b93",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata francés (1185–1234)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata francès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "dreuxský hrabě"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Dreux und Braine"
+    },
+    "en": {
+      "language": "en",
+      "value": "French nobleman, count of Dreux from 1218 to 1234"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata francés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata frantziarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Dreux et de Braine"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata francés"
+    },
+    "it": {
+      "language": "it",
+      "value": "aristocratico francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans aristocraat (1185-1234)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata francês"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "nobre francês"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф де Дрё и де Брен"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız soylu (1185 – 1234)"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    }
+  },
+  "id": "Q128627",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "روبرت الثالث، كونت درو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "روبرت التالت كونت درو"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Robert III de Dreux"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Robert III. z Dreux"
+    },
+    "de": {
+      "language": "de",
+      "value": "Robert III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ροβέρτος Γ΄ του Ντρε"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert III, Count of Dreux"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Robert III, Count of Dreux"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert III, Count of Dreux"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert III de Dreux"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Roberto III de Dreux"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Robert III de Dreux"
+    },
+    "id": {
+      "language": "id",
+      "value": "Robert III dari Dreux"
+    },
+    "it": {
+      "language": "it",
+      "value": "Roberto III di Dreux"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロベール3世 (ドルー伯)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert III van Dreux"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Roberto III de Dreux"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Roberto III de Dreux"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Robert al III-lea de Dreux"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роберт III де Дрё"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Robert III de Dreux"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Robert III, Count of Dreux"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Robert de Dreux"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Роберт III де Дрьо"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "羅貝爾三世 (德勒)"
+    }
+  },
+  "lastrevid": 17541661,
+  "modified": "2025-09-17T08:08:01Z",
+  "ns": 860,
+  "pageid": 155965,
+  "sitelinks": {},
+  "title": "Item:Q128627",
+  "type": "item"
+}

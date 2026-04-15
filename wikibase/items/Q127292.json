@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Louis of Ravensberg"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Людвиг (граф Равенсберга)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127292$8F358FE8-FF27-4EEF-8F3E-1776C58AD866",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "543051"
+          },
+          "hash": "2c664a21dd651cc47ae09b82d2341c295cb272b4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q127292$CE6F9E05-7E96-4AE9-9E44-D26470BC5BFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00064245"
+          },
+          "hash": "70297fc1048cf2d7a1707a1bd3e1784913b55c3b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127292$B2E7FC66-6C17-4452-95F9-559B1AC3BEFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ravensberg-12"
+          },
+          "hash": "ea03b4402b064db51b423d769ed430c3a65068a7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127292$7CF9FE87-7B5A-4FD2-8474-A75BA897F9FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127292$385F1015-003A-40E0-8E91-F5EE672B12C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127292$8E1FB4FD-CE2F-4B6E-8F0E-F8FD4C08A6DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ludwig_von_Ravensberg_(1)"
+          },
+          "hash": "bceb2a18c70c6de812f3c497b5531e60c0fd522c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127292$D589B239-FD8B-4045-9353-0D01C0484870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127290",
+              "numeric-id": 127290
+            }
+          },
+          "hash": "6d0fad6c831a36dab0e31e815be249cfd5c397e0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127292$B9D5E85F-E556-4BEC-BB69-1BF57F579E35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121458",
+              "numeric-id": 121458
+            }
+          },
+          "hash": "7ee21d07c6e6bf8f8a7aaadf13c6635f0a1723fd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127292$818BAD46-4614-48CE-AB20-9186B099F249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127292$81A7DBC1-684A-43A4-ACE5-AE4BE74BC036",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127292$C0AD0181-6A5F-4BA8-89ED-DA4F490F42A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1249-01-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "53adcaedd38f953b7527a23051429e99b97a3b4e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127292$1728EDE4-8C15-462B-8A97-E200A001040A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1874128"
+          },
+          "hash": "d4f64003949321c6f010c579c9e57ac0f84b27e9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127292$8045EA6E-3EE3-4369-9037-B798BFE07E9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ludwig;n=von ravensberg"
+          },
+          "hash": "52b4c791d0af70e0f83c17517fe26d00ed7086c2",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127292$C9EC06AE-6A01-40F1-A143-53018028D1B3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Louis of Ravensberg Arms.svg"
+          },
+          "hash": "2cc18c8533bebb2b27af42b2239e3d91ac339536",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "ravensberský hrabě"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Ravensberg (1221–1249)"
+    },
+    "en": {
+      "language": "en",
+      "value": "1211 - 1249"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Conte de Ravensberg (1221–1249)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Равенсберга"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1211-1249)"
+    }
+  },
+  "id": "Q127292",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Лудвиг (Равенсберг)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ludvík I. Ravensberský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ludwig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Louis of Ravensberg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ludovico di Ravensberg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lodewijk van Ravensberg"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ludwik"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ludovic"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Людвиг"
+    }
+  },
+  "lastrevid": 17540381,
+  "modified": "2025-09-17T07:51:07Z",
+  "ns": 860,
+  "pageid": 154172,
+  "sitelinks": {},
+  "title": "Item:Q127292",
+  "type": "item"
+}

@@ -1,0 +1,439 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aram"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129865$BD47ECF3-09FC-41DF-81FC-90C53EC5AB57",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "78260"
+          },
+          "hash": "755f05a3853812249a5b6f3f69054184e8ecb8e4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129865$16132BBE-01AE-4CE9-86F6-7DB5E305BD21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130306",
+              "numeric-id": 130306
+            }
+          },
+          "hash": "03d5c4b6b0cfbb5e5ca0d72438847d89c8161c82",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129865$62E1FE14-AF8D-4B1E-ADA2-E24CFDA87ED2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130300",
+              "numeric-id": 130300
+            }
+          },
+          "hash": "b88c5ff8262a8cf8d68840580adbd703f08f78f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129865$6BEB0A42-9F0F-4D11-8404-17343222E122",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130302",
+              "numeric-id": 130302
+            }
+          },
+          "hash": "6a573a2931a26b54aba38e099d69c2c53848a485",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129865$E719ED0E-E284-412C-88F1-A7DAE914E84F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130304",
+              "numeric-id": 130304
+            }
+          },
+          "hash": "65dc20c6983f7f9d1041ddf58c57c57dc9147c9e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129865$B2A51D0D-5FDC-43F4-987A-768DCB9A33F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129865$32B71311-45C6-4C30-84D8-47A7088D22F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129865$E771D0FC-5D57-4134-B975-451486BBE96F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70442",
+              "numeric-id": 70442
+            }
+          },
+          "hash": "6a059861faaff6a6bb2d7bd97ab8e38abae92ea4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129865$63479160-8DD8-4825-B561-3A1DA9E1882E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129865$557A8A5D-2D18-41B9-B481-F2F401498D54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q625667"
+          },
+          "hash": "e86722f864a731bb648f7d5d3dc4415e66874b5a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129865$CA397A34-6E2D-4634-8648-288B8A70DBF5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aram Arms.svg"
+          },
+          "hash": "c3abaac8d3472583f0a60cc6693b713213398ed5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "وهو أبو العرب البائدة، موطنه الجزيرة العربية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "біблійная асоба, Сімаў сын"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical figure (Genesis 10)"
+    },
+    "es": {
+      "language": "es",
+      "value": "figura bíblica"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bijbelse figuur"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać biblijna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сын Сима, внук Ноя"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "son till Sem"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 10:22)"
+    }
+  },
+  "id": "Q129865",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "አራም (የሴም ልጅ)"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "إرم"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Арам"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aram"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئارام"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Aram"
+    },
+    "da": {
+      "language": "da",
+      "value": "Aram"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aram"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αράμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aram"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aram"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Aram"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aram"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aram"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aram"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארם"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Aram"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արամ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Aram bin Sem"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aram"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アラム"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아람"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Aram (nav)"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Arama (zanak' i Sema)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aram"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aram"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aram"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "ارم بن سام"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aram"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арам (сын Сима)"
+    },
+    "so": {
+      "language": "so",
+      "value": "Iram"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aram"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aram"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арам"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ارم"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Aram (Sim o‘g‘li)"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Aram"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞蘭 (閃姆之子)"
+    }
+  },
+  "lastrevid": 17542835,
+  "modified": "2025-09-17T08:23:38Z",
+  "ns": 860,
+  "pageid": 157626,
+  "sitelinks": {},
+  "title": "Item:Q129865",
+  "type": "item"
+}

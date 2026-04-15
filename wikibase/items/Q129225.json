@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alix de Vitré"
+      },
+      {
+        "language": "en",
+        "value": "Alix de Vitre"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129225$88A133A8-9E5C-4AF6-B315-918F43EE1F19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1206245"
+          },
+          "hash": "071b575b7a404b22eb065ec241ac506c83ac64d5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129225$9B60F870-5D1C-41E2-9A2A-06CFF4AE1F77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129225$0A8BB5FA-4B38-4B17-9EB9-7E1E4EFDCB90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129225$8BAC0A88-6B0B-4B44-83AB-0F254907FDAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129221",
+              "numeric-id": 129221
+            }
+          },
+          "hash": "d20a7f202389287940261cfb0cea66d64ec7425f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129225$EC272322-53A4-409E-9820-A5FF5A0ECA2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122822",
+              "numeric-id": 122822
+            }
+          },
+          "hash": "29eadd71818128446223f6f52ca633305b749001",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129225$849DFB64-B0E0-4195-8B74-FABE722A2B9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129225$85748BE2-BBFA-4944-A2B6-EAD00334DA0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q113994693"
+          },
+          "hash": "971f0efa4039a27920326176f170027cf17da31c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129225$72BF8D57-3BFB-408E-866C-5A0909BD0F5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alix;n=de vitre"
+          },
+          "hash": "54267e5dbd59818c16ea2792976b03b6b5887f24",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129225$43AF416E-DB44-4F23-A44B-64F45C975701",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alix de Vitré Arms.svg"
+          },
+          "hash": "f6252397198c634b1fe435e69ab0f520a884a864",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q129225",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Αλίκη του Βιτρέ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alix de Vitré"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alix de Vitré"
+    }
+  },
+  "lastrevid": 17542255,
+  "modified": "2025-09-17T08:15:52Z",
+  "ns": 860,
+  "pageid": 156768,
+  "sitelinks": {},
+  "title": "Item:Q129225",
+  "type": "item"
+}

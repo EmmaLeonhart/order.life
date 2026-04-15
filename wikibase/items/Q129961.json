@@ -1,0 +1,615 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Methuselah"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129961$0935D5FF-A547-464B-8703-F052A5E1AD87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32389"
+          },
+          "hash": "0c9df0fe0df8c9537734404c1b804a3b7b1d424d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129961$BA6C838B-300C-49F6-A593-7114F63D8987",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129841",
+              "numeric-id": 129841
+            }
+          },
+          "hash": "6c7c925a4da1015490d91e8895b59b88776dfd16",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129961$50F73351-BB51-4275-84CE-11324347CC11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129961$39BBCA84-8677-4DFA-AE5C-AF8AE43E4DF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129961$2BA38C2F-3C2F-49A5-AE9A-ABED6F7598CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129963",
+              "numeric-id": 129963
+            }
+          },
+          "hash": "3e9a7c2c0f206b1d845f8e0e7582fb397ad08f46",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129961$4FA479F5-D3AF-46E8-913C-C71BA8AD288F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130380",
+              "numeric-id": 130380
+            }
+          },
+          "hash": "6edc12964ea8ad185f0caa629044dc5233c66826",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129961$6DBFBBE2-ECB7-4F72-ABC1-E9E7E382C7EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129961$5B4C3D8B-EAC6-4E12-A340-48222BFC4E8A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+3317-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b5b54ce1fd673e0288b8eb8341723a0acf2cb6f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129961$048708DE-6B15-413A-8D8C-071F512E5058",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2348-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a487f450f1469027c62cc08bb6105421e72e8010",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129961$AA3E4F4E-9B2D-4DEC-8312-6451DC2656C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q156290"
+          },
+          "hash": "efb14bab5e04437a2c072f4b037cd61cf981eac6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129961$3B1A7277-95FB-4080-B343-EFA31A762221",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Methuselah Arms.svg"
+          },
+          "hash": "7750b6451f35cdd3f5c8cba53f1ffb83fdb85efc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابن إدريس و والد لامك وجدّ نوح، توفي عن عمر يناهز ال 969، قبل سبعة أيام من بداية الطوفان"
+    },
+    "az": {
+      "language": "az",
+      "value": "İncildəki Ən Qoca İnsan, Xanokun Oğlu, Yaşlı (969) İl"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(3317-2348)"
+    },
+    "de": {
+      "language": "de",
+      "value": "biblische Figur"
+    },
+    "en": {
+      "language": "en",
+      "value": "oldest person in the Bible, Biblical Patriarch"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la Biblia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage humain de la Bible"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "personaxe da Biblia"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, אביו של למך וסבו של נח, חי 969 שנים"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Biblijski lik"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a leghosszabb életű személy akit említ a Biblia"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della Bibbia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖書における最高齢の人物"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "de langst levende van alle personen in de Bijbel"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać biblijna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "personagem das religiões abraamicas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, потомок Сифа"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Noaks farfar"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Pinakamatandang Tao sa Bibliya, Anak ni Enoch, May edad (969) Taon"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li sewi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'e göre 969 yaşında ölen kişi (Luka 3:37)"
+    }
+  },
+  "id": "Q129961",
+  "labels": {
+    "ang": {
+      "language": "ang",
+      "value": "Mathusal"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "مَتُّوشَلَخَ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "متوشالح"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Matusalén"
+    },
+    "az": {
+      "language": "az",
+      "value": "Methuselah"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Matusalen"
+    },
+    "bew": {
+      "language": "bew",
+      "value": "Matusalah"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Матусал"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মথূশেলহ"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "མེ་ཐུ་ཟི་ལཱ།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Matusalem"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Metuzalém"
+    },
+    "csb": {
+      "language": "csb",
+      "value": "Metuszelach"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Methwsela"
+    },
+    "da": {
+      "language": "da",
+      "value": "Metusalem"
+    },
+    "de": {
+      "language": "de",
+      "value": "Methusalem"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαθουσάλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Methuselah"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Metuŝelaĥ"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matusalén"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Matusalen"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "متوشالح"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Metusalah"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mathusalem"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Matúsalach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Matusalén"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Μαθουσάλας"
+    },
+    "he": {
+      "language": "he",
+      "value": "מתושלח"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Metušalah"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Matuzsálem"
+    },
+    "id": {
+      "language": "id",
+      "value": "Metusalah"
+    },
+    "it": {
+      "language": "it",
+      "value": "Matusalemme"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "メトシェラ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "므두셀라"
+    },
+    "la": {
+      "language": "la",
+      "value": "Matusale"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Metušelachas"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Metosela"
+    },
+    "mi": {
+      "language": "mi",
+      "value": "Matutaera"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Матусал"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Metusalem"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Metusalem"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Metusjalah"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Matusalèm"
+    },
+    "os": {
+      "language": "os",
+      "value": "Мафусал"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Matuzalem"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "متوشلح"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Matusalém"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Metusala"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мафусаил"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Metuzalem"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Metuzalem"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Метузалем"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Метузалем"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Metuzalem"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Metusalem"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Methuselah"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Mesusale"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Metuşelah"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Метушалах"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "متوشلح"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Matîssalé"
+    },
+    "war": {
+      "language": "war",
+      "value": "Matusalen"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "מתושלח"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Mẹ̀túsélà"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瑪土撒拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "玛土撒拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "玛土撒拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "瑪土撒拉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "瑪土撒拉"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "玛土撒拉"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "瑪土撒拉"
+    }
+  },
+  "lastrevid": 17542921,
+  "modified": "2025-09-17T08:24:46Z",
+  "ns": 860,
+  "pageid": 157755,
+  "sitelinks": {},
+  "title": "Item:Q129961",
+  "type": "item"
+}

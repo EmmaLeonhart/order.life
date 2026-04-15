@@ -1,0 +1,529 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aegina"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q131192$0C02A7F1-6A01-46E4-BD8B-A5B148BAD15F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "423175|1083319"
+          },
+          "hash": "b7c451bac4b4a0b6e1e7342ab59ca05d30fff0b2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q131192$EA8067B0-7E38-4F83-90EC-27FBF3EF6CF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132449",
+              "numeric-id": 132449
+            }
+          },
+          "hash": "6e8a6a6916aefcc80f0d6e84b8c998013d02ea56",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131192$345A74FB-12B6-499B-88CD-B36631E0E0F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131671",
+              "numeric-id": 131671
+            }
+          },
+          "hash": "cde7b6989d07d0aa722862055ec684a80f7b8775",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131192$B10EBCFB-F7A1-4910-975C-6539401F70B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131851",
+              "numeric-id": 131851
+            }
+          },
+          "hash": "06b324d88ba748e7f8cb15bd59f0c5740d14bfcd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q131192$98AED2DD-54F8-40FE-BBFF-BFE43035A796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131192$CFE29EF6-16A0-41C8-892D-8221B4898FE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q131192$3B5FBDCD-338C-4534-B81A-81DA1FA418E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132448",
+              "numeric-id": 132448
+            }
+          },
+          "hash": "984aeb744993db35bd720da8591cc332b973d108",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131192$9306AB51-68DC-45F8-A426-EB3BF20D1637",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74656",
+              "numeric-id": 74656
+            }
+          },
+          "hash": "b9f6425dd4f87f09031ab208bb978f9c28846359",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131192$274A03B3-A80D-4D6C-9669-6F2D6A7BB1F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130105",
+              "numeric-id": 130105
+            }
+          },
+          "hash": "53b000cb2308f490c0af3513e29e2c39830bc4ec",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131192$32FFF0CA-FA29-47B4-96E7-EB01F1993CE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75102",
+              "numeric-id": 75102
+            }
+          },
+          "hash": "468d7b0e05a8a8df90294b2f97b7aecf45fc6a11",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q131192$6D1AEE9B-C43E-4F08-BE14-1D03C7E8A55B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131192$35289CDE-E976-4C18-8315-74437F858BDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q321298"
+          },
+          "hash": "4a5db0c80b6d6421d2c258074aec3dba6800b255",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131192$71895016-B054-4AA8-9AB8-E242D1965191",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aegina Arms.svg"
+          },
+          "hash": "b2090eade566e72b20ec57fb89741648246d078e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "v řecké mytologii nymfa, dcera boha Asópa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Najade der Griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "nymph, eponym of the island Aegina"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje del mito griego"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "nymphe de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "נימפה של האי אגינה במיתולוגיה היוונית"
+    },
+    "it": {
+      "language": "it",
+      "value": "ninfa della mitologia greca, figlia di Asopo"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "нимфа"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Nymfe i gresk mytologi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "нимфа из древнегреческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "najada v grški mitologiji"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "nymf i grekisk mytologi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde kaynak, ağaç ve mağara gibi doğa unsurlarını kişileştiren tanrıça (nymphē)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "дочка Асопа яка була викрадена Зевсом"
+    }
+  },
+  "id": "Q131192",
+  "labels": {
+    "as": {
+      "language": "as",
+      "value": "এজিনা (শ্ৰুতিকথা)"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Egina"
+    },
+    "az": {
+      "language": "az",
+      "value": "Egina"
+    },
+    "be": {
+      "language": "be",
+      "value": "Эгіна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Егина"
+    },
+    "br": {
+      "language": "br",
+      "value": "Aigina"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Egina"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Aigína"
+    },
+    "da": {
+      "language": "da",
+      "value": "Aigina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aigina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αίγινα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aegina"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Egino"
+    },
+    "es": {
+      "language": "es",
+      "value": "Egina"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Egina"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ایجاینا (اسطورهشناسی)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aigina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Égine"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Αἴγινα"
+    },
+    "he": {
+      "language": "he",
+      "value": "אייגינה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Egina"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Aigina"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Էգինա (դիցաբանություն)"
+    },
+    "id": {
+      "language": "id",
+      "value": "Aigina"
+    },
+    "io": {
+      "language": "io",
+      "value": "Aigina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Egina"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アイギーナ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아이기나"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Egîna"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Egîna"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aegina"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Aigina"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Егина"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aigine"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aegina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ajgina"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Egina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эгина"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Egina"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Aigina"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Agina"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Егина"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Егина"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Egina"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aigine"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aegina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Егіна"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃癸娜"
+    }
+  },
+  "lastrevid": 17544102,
+  "modified": "2025-09-17T08:40:49Z",
+  "ns": 860,
+  "pageid": 159410,
+  "sitelinks": {},
+  "title": "Item:Q131192",
+  "type": "item"
+}

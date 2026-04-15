@@ -1,0 +1,633 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theodora Komnene Angelina"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128285$3BF7FA06-8D0E-480F-BCD6-89CF96734D93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "148789"
+          },
+          "hash": "782014a9b800cf896609b6d3e63dc41de684fa22",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q128285$59394F16-CDAF-4DBB-9161-BAADEB302BFE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00049913"
+          },
+          "hash": "25af52babace717299380aedf93828adbd02d9e3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q128285$8C46EE1C-2EA8-477C-AA2F-CD264E702098",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54088",
+              "numeric-id": 54088
+            }
+          },
+          "hash": "65c4e10906e5a7796031672d5b875d3fe527b99c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128285$DB10B4C6-56AD-408F-9E39-5DF2B491DCDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147630",
+              "numeric-id": 147630
+            }
+          },
+          "hash": "24bd576dbdd280268f549b2e96581db25ffdf038",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128285$0B7C8D22-B5BA-44B4-8633-66CB841C7335",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147632",
+              "numeric-id": 147632
+            }
+          },
+          "hash": "0c3e1cc28d72d6ece5c31e81d6404dca826702d4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128285$95F4A5B7-2991-4FEB-8F78-EBF939F8526D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147634",
+              "numeric-id": 147634
+            }
+          },
+          "hash": "8bcca644cdddc51eb64811d15fab325fb0eaff52",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128285$400ADC5D-C72C-47D6-A3C3-ACB137088C00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147636",
+              "numeric-id": 147636
+            }
+          },
+          "hash": "0730587f29c7b472ed0f18ade2298afc54937c78",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128285$DA206600-6057-4A81-B4B3-BB4BDC7D0667",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147626",
+              "numeric-id": 147626
+            }
+          },
+          "hash": "482dcf4043f3ebe91a944205c03d11f13d1bfa60",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128285$6947D85C-9602-49E4-A2FF-7CA8E16D3646",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55651",
+              "numeric-id": 55651
+            }
+          },
+          "hash": "f3f04c2bd8843b14d900f04e0a3a45918f6140fb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128285$D014F7EA-E845-4AEB-A5CA-4C34D0B6CBB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147624",
+              "numeric-id": 147624
+            }
+          },
+          "hash": "908f4fae4973eb29d49ba7431b060d960fd20b42",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128285$1A18C397-6CD9-4AAC-BB65-F26807DA1162",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Komnene-8"
+          },
+          "hash": "46abaa7dcb6aa03099b63e21fdd35b951cc9dea2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128285$BB9BAB99-C4A5-47B8-8D7E-872ACC99625D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128285$3AF37696-76CB-4279-BED7-CA7DA826D406",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q128285$FBFC6E6A-CD08-4DEC-8BC3-1848F26BFE38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora_Komnene_(1)"
+          },
+          "hash": "0ba36fb0844b9f3e9b4afd62f1f816c03ab5a275",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128285$1E60058C-B1BB-454C-95E0-0AAF36BA5B29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147622",
+              "numeric-id": 147622
+            }
+          },
+          "hash": "1bff61963ec3d24f0165ac4011dbbd615c0a4b92",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q128285$DCA23BFD-4780-413C-82C5-445337097759",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p22004.htm#i220031"
+          },
+          "hash": "26bdc64115d0e53239626226d52bf711184ea275",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128285$F2BA7B83-9477-4987-A94D-4CFC361CA043",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128157",
+              "numeric-id": 128157
+            }
+          },
+          "hash": "5a3270569b4ee0928b1985c1406bb598e41580b3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128285$F651BA2D-BC4C-4B9A-BA80-44C3EFF7867D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128279",
+              "numeric-id": 128279
+            }
+          },
+          "hash": "f98cbb01047c1ab11810da5553652ec19eacc1c9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128285$C9B5EB11-2701-42A3-AD3C-4D6A17ED6D06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128285$47E9DD1C-A342-4611-B0F9-072706F4C536",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1096-01-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5be0f0aa14be00223a31f19a4642e50bc875fecb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128285$55560F86-CABE-4A93-9483-45A9732ACED6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18b26d6269d66f0e1ec5fc613fc17f19e7f5bd05",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128285$8F5497CF-D5BD-4589-B0CF-970E2EDEC258",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q765682"
+          },
+          "hash": "67de12621fd2d31c756a236ea9eeaacf5db3207d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128285$E9D79FFD-9097-4BE3-8673-7A63606051B0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora Komnene Angelina Arms.svg"
+          },
+          "hash": "2301523320f7a4c4fc6d815112c0dbd7c6c53a8e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "бізантыйская шляхцянка"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "византийска принцеса, дъщеря на Алексий I Комнин"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "byzantská princezna"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Αλεξίου Α Κομνίνου"
+    },
+    "en": {
+      "language": "en",
+      "value": "12th-century Byzantine noblewoman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse byzantine du XIIe siècle"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Bizantska plemkinja"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Византийская принцесса"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "византијска племкиња из 12. века"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Teodora Komnini Angelina"
+    }
+  },
+  "id": "Q128285",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Феадора Камніна"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Тэадора Камніна Ангеліна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Теодора Комнина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teodora Comnena Angelina"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Theodora Komnéna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Theodora Komnene Angelina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεοδώρα Κομνηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theodora Komnene Angelina"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Theodora Komnene Angelina"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Theodora Komnene Angelina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teodora Comneno Ángelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théodora Comnène Angelina"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Teodora Komnena (kći Aleksija I.)"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թեոդորա Կոմնենե"
+    },
+    "id": {
+      "language": "id",
+      "value": "Theodora Komnini"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodora Comnena (1096-?)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Theodora Comnena"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Theodora Komnene Angelina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theodora Komnene Angelina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teodora Komnena Angelina"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teodora Comnena Angelina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teodora Comnena Angelina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феодора Комнина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теодора Комнина Анђелина"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Theodora Komnene Angelina"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Teodora Komnini Angelina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Феодора Комніна (дочка Олексія I)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "狄奥多拉·科穆宁娜"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "提奥多拉·科穆宁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "狄奥多拉·科穆宁娜"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "提奧多拉·科穆寧"
+    }
+  },
+  "lastrevid": 17541325,
+  "modified": "2025-09-17T08:03:36Z",
+  "ns": 860,
+  "pageid": 155505,
+  "sitelinks": {},
+  "title": "Item:Q128285",
+  "type": "item"
+}

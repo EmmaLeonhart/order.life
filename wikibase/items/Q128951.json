@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sophie von Oldenburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128951$BEEA026A-782D-4B6D-874D-080E605299E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00570185"
+          },
+          "hash": "8b6f518989796ebdf8061d2a854846ea52bf2514",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128951$2C170F0A-73DA-40DF-9FD0-B20B5162BB23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128951$6E76578E-1B1F-4911-92AA-9BB064D657C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128951$8A28612B-DBB3-4020-A4D0-EE19FC0ED0D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127294",
+              "numeric-id": 127294
+            }
+          },
+          "hash": "5e3e80b7221f87e2d2963ab174c8453092d73d48",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128951$FB020518-244E-40C0-9612-A16ABCBC8F29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122615",
+              "numeric-id": 122615
+            }
+          },
+          "hash": "096998b222906cd838404fbdeffa6dbeea501d5a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128951$AB76C8B8-0747-4DBB-99D3-336CE03B4D07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128951$93DCAABE-0D3A-4548-A00B-D7CBE8DF0EF3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1202-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a70d7c5dd576acc6d00c1a9c69717c62c247aaf3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128951$83A17EF7-4AC0-4DF6-97B5-0A65EE077D76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q31191241"
+          },
+          "hash": "11bd4fce3c80e83c8a45f07f3c379881fd7fce32",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128951$4DEFF4FE-5408-420F-84A7-C04758BB3D6C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sophie von Oldenburg Arms.svg"
+          },
+          "hash": "24c76afecff6e97947035fb15504570cb6c9189e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q128951",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "София фон Олденбург"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Žofie Oldenburská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sophie von Oldenburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sophie von Oldenburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sophia van Oldenburg"
+    }
+  },
+  "lastrevid": 17541981,
+  "modified": "2025-09-17T08:12:14Z",
+  "ns": 860,
+  "pageid": 156400,
+  "sitelinks": {},
+  "title": "Item:Q128951",
+  "type": "item"
+}

@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhys ap Gruffudd"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q127820$CBE500C0-C809-4D29-9D51-CC94288EC0DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00294146"
+          },
+          "hash": "4c184bb5a6dfd2a44e8a7492f9d8243183b6656e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q127820$504E9127-D39B-4AF2-A071-6D9C0DBF68D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140407",
+              "numeric-id": 140407
+            }
+          },
+          "hash": "a457193a0209194a3fc3e8863624908322b5d97a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127820$E1781D25-0CC1-43CD-93DF-483C4B4E8633",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127820$A73EBA83-B761-4B20-958D-96A09D5EB6DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127820$D8055D5D-3FB2-41C3-BDD0-1E6EB3EA829C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142660",
+              "numeric-id": 142660
+            }
+          },
+          "hash": "2085817662ccd58c51123093495ab826e261f507",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127820$D6AA723E-862B-4789-AC30-69FEAB4B8932",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127814",
+              "numeric-id": 127814
+            }
+          },
+          "hash": "f2d693ad1287feb184f35cb7712f5508fe7adeb4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127820$44A4D42D-9A43-4654-B685-67092E464034",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121821",
+              "numeric-id": 121821
+            }
+          },
+          "hash": "6e5ef1385218c99898cc4e1087fbcd01694fbcb6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127820$6AEE21BE-AB29-4ED1-BFA8-7354B13D4D94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127820$4D8439D3-24C0-4B8D-8835-CD16F145B672",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127820$B8AE35C7-E7F9-432D-B337-E71F1A29D478",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1256-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44737f9b9987efce2d8b32b16a2c90d837e901f3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127820$FF5456FC-AEA5-4111-9D9D-789D11DCF70F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18530731"
+          },
+          "hash": "e955e8b1b5fb54fb172eb135e0ed80c1e4c78f62",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127820$25ABEF97-2E1E-494D-928B-7A7F78E60806",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhys ap Gruffudd Arms.svg"
+          },
+          "hash": "7b914b34e79dcb9fc89cf50ee24566e2a09fceb4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "arglwydd Senghennydd (m. 1256)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lord von Senghenydd (Südwales)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh nobleman, died 1256"
+    }
+  },
+  "id": "Q127820",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Rhys ap Gruffudd ab Ifor Bach"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Rhys ap Gruffudd ab Ifor Bach"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rhys ap Gruffudd"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rhys ap Gruffudd"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rhys ap Gruffudd ab Ifor Bach"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhys ap Gruffudd"
+    }
+  },
+  "lastrevid": 17540873,
+  "modified": "2025-09-17T07:57:31Z",
+  "ns": 860,
+  "pageid": 154881,
+  "sitelinks": {},
+  "title": "Item:Q127820",
+  "type": "item"
+}

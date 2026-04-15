@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mechtilde von der Mark"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128858$AD32E996-5AE4-49AC-88BB-CDF5BE84B2FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "10180"
+          },
+          "hash": "95a1ab6deaa7e1cf6d78e881d1b3e1e973bd10cc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128858$F02B7BD3-20CA-459B-B881-0A9CAB491E92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128858$59D6F62F-1BDC-402E-A437-7510F4E7FFD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128858$9B1BAC85-4B20-4327-9D26-F05D0D961C0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128925",
+              "numeric-id": 128925
+            }
+          },
+          "hash": "348f5dfa752ba6ec420696b4f8d272ebc7411ddd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q128858$9B8B3EA6-30BD-4B3D-89DF-86481D23A2A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p844.htm#i8433"
+          },
+          "hash": "124c65f583a69b75ced5e75206269c61cd7dc7da",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128858$1145603F-BFEC-4B1F-B145-70E673B658CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128852",
+              "numeric-id": 128852
+            }
+          },
+          "hash": "8a985e5ba861a0907759e10b9816d14aea53aade",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128858$993ACE67-F97A-485F-BDC8-78C0D1863579",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122569",
+              "numeric-id": 122569
+            }
+          },
+          "hash": "25cb758b32f508c86c7b5bf1278e4a5d638888a6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128858$1998EFF2-0911-43FE-9092-627B74822BB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128858$19A72037-3C51-4251-8701-D945CCE0CA58",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1210-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d653b1b2636e35fc89fc0acbe518c00b2bbfce8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128858$AB697972-2283-40A9-8C81-D8A7981EC77B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1262-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bdf6c460fe0ff6b2d3bd96a9c9fdfe931b1ca987",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128858$DA0E6B52-3F45-48E6-8F35-8C14C060AB92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75247119"
+          },
+          "hash": "0791b5622b5fda24dc7b7cc2e4dc190f09530ad4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128858$79C9DFC7-E275-4112-8735-C53EAE12978E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mechtilde von der Mark Arms.svg"
+          },
+          "hash": "5de4a63991cb04ef2c01b5e39a674f8b89cc4bfd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1210-1262)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1210-1262)"
+    }
+  },
+  "id": "Q128858",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Ματθίλδη του Μαρκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mechtilde von der Mark"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mathilde de La Marck"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mechtilde van de Mark"
+    }
+  },
+  "lastrevid": 17541887,
+  "modified": "2025-09-17T08:10:59Z",
+  "ns": 860,
+  "pageid": 156275,
+  "sitelinks": {},
+  "title": "Item:Q128858",
+  "type": "item"
+}

@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto Piast"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q128033$93F06CA0-AEB3-4C9C-8C60-54A2CA908722",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Piast-38"
+          },
+          "hash": "a8738c480be6ba9494130ea034fe39c1fc105ca1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128033$26E2EE33-FBC3-453B-97BE-1CC95C596FF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128033$BCAB89B1-AA19-4DAD-B88F-F5D973E10206",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q128033$5C15E35C-52D6-4073-883B-43E0E07FACC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11462.htm#i114615"
+          },
+          "hash": "974f4ec367e65035fcea99aea62e0950f26a24c7",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128033$7C5C9CAA-A484-4C8F-A0AA-1C3E1B7D2E62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121999",
+              "numeric-id": 121999
+            }
+          },
+          "hash": "b09d59591f0d25a9f2318a8875cae18d6419f06a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128033$A2E1064F-FFFB-4AB3-869F-164B87125C92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127122",
+              "numeric-id": 127122
+            }
+          },
+          "hash": "6239b23d99f00a9623fbc6d5fada5f45561b27e9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128033$4B1D0D10-DCB8-4573-B6DE-FF765283601F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128033$3F5B65C3-AF97-4B02-B570-4AFFA80057E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1191-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "096cacc765a3f6957d9d780334bb615c8aa12220",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128033$8700241B-7EC5-437F-8CDF-9F0E6B98FE76",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1225-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a326db077e60ea46c3b54746a292922a1e06439",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128033$8A2D9F1A-99E9-4F99-82F5-F32450F71ED1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75394539"
+          },
+          "hash": "8604232b30e4e621397e06e1ecc6131c34900b81",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128033$0D54A07A-C717-4207-8EB0-A5461A4BA044",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto Piast Arms.svg"
+          },
+          "hash": "3a3452d99c60fe4cc5b83a3b7d247ef398985c5c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1191-1225)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1191-1225)"
+    }
+  },
+  "id": "Q128033",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Otto Piast"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Otto Piast"
+    }
+  },
+  "lastrevid": 17541085,
+  "modified": "2025-09-17T08:00:18Z",
+  "ns": 860,
+  "pageid": 155167,
+  "sitelinks": {},
+  "title": "Item:Q128033",
+  "type": "item"
+}

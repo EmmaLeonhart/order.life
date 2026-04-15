@@ -1,0 +1,784 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cessair"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q130298$D12B98AC-420F-48E6-93F0-CBE69D6D9B56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130298$97075940-79BC-4086-9571-B89C65345B8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130298$4AFBDF4A-1449-444C-8DBE-2789EF5C5A75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129855",
+              "numeric-id": 129855
+            }
+          },
+          "hash": "b4486d9aea521ea7cf57c59e7e1ecfe8688240fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130298$9F596B59-8144-4CE0-B8E5-10B2FD80E9CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130298$1F0E6864-1468-4607-9F8B-A3E4F1E6F7F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1057039"
+          },
+          "hash": "9e5884b818d6e52daf9dd7c316ab3cbb1130f459",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130298$A9175A14-4054-46AD-8EC4-08007BF58151",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cessair Arms.svg"
+          },
+          "hash": "aa609a628466489af7e4871111840aba1221532d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ace": {
+      "language": "ace",
+      "value": "mieng disambiguasi Wikimèdia"
+    },
+    "af": {
+      "language": "af",
+      "value": "Wikimedia dubbelsinnigheidsblad"
+    },
+    "an": {
+      "language": "an",
+      "value": "pachina de desambigación"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "صفحة توضيح ويكيميديا"
+    },
+    "as": {
+      "language": "as",
+      "value": "ৱিকিপিডিয়া:দ্ব্যৰ্থতা দূৰীকৰণ"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "páxina de dixebra"
+    },
+    "az": {
+      "language": "az",
+      "value": "Vikimedia:Dəqiqləşdirmə"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بؤلمه:آییرد ائتمک"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Википедия:Күп мәғәнәлелек"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Wikimedia:Begriffsklearung"
+    },
+    "be": {
+      "language": "be",
+      "value": "пералік значэнняў у Вікіпедыі"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "старонка-неадназначнасьць у Вікіпэдыі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Уикимедия пояснителна страница"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "উইকিমিডিয়ার দ্ব্যর্থতা নিরসন পাতা"
+    },
+    "br": {
+      "language": "br",
+      "value": "pajenn disheñvelout Wikimedia"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "višeznačna odrednica na Wikimediji"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "pàgina de desambiguació de Wikimedia"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Википеди:Цхьатера маьӀна дерш"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Wikimedia:Mga pulong nga may labaw pa sa usa ka kahulogan"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ڕوونکردنەوە"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "rozcestník na projektech Wikimedia"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "tudalen wahaniaethu Wikimedia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Wikimedia:Flertydige titler"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wikimedia-Begriffsklärungsseite"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Wikimedia-Begriffsklärungsseite"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Wikimedia-Begriffsklärungsseite"
+    },
+    "el": {
+      "language": "el",
+      "value": "σελίδα αποσαφήνισης εγχειρημάτων Wikimedia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Wikimedia disambiguation page"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Wikimedia disambiguation page"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Vikimedia apartigilo"
+    },
+    "es": {
+      "language": "es",
+      "value": "página de desambiguación de Wikimedia"
+    },
+    "et": {
+      "language": "et",
+      "value": "Wikimedia täpsustuslehekülg"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Wikimediako argipen orri"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "صفحهٔ ابهامزدایی در ویکیمدیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Wikimedia-täsmennyssivu"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Wikimedia-síða við fleiri titlum"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "page d'homonymie de Wikimedia"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Muardüüdag artiikel"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Wikimedia-betsjuttingsside"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "pearsa ó Leabhar Gabhála na hÉireann"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "páxina de homónimos de Wikimedia"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Wikimedia-Begriffsklärigssite"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "વિકિપીડિયા:સંદિગ્ધ શીર્ષક"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Wikipedia:Reddaghey"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Vì-kî Mòi-thí seû-khì-ngi-ya̍p"
+    },
+    "he": {
+      "language": "he",
+      "value": "ויקיפדיה:פירושונים"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "विकिपीडिया:बहुविकल्पी शब्द"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "razdvojba na Wikimediji"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "Wikipedija:Wjacezmyslnosć"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Wikimédia-egyértelműsítőlap"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վիքիմեդիայի նախագծի բազմիմաստության փարատման էջ"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "pagina de disambiguation"
+    },
+    "id": {
+      "language": "id",
+      "value": "halaman disambiguasi"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Wikimedia:Panangilawlawag"
+    },
+    "inh": {
+      "language": "inh",
+      "value": "Википеди:Неоднозначность"
+    },
+    "io": {
+      "language": "io",
+      "value": "Wikimedio:Homonimo"
+    },
+    "is": {
+      "language": "is",
+      "value": "Wikimedia:Aðgreiningarsíður"
+    },
+    "it": {
+      "language": "it",
+      "value": "pagina di disambiguazione di un progetto Wikimedia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウィキメディアの曖昧さ回避ページ"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Wikimedia:Disambiguasi"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვიკიპედიის მრავალმნიშვნელობის გვერდი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Уикипедия:Айрық"
+    },
+    "km": {
+      "language": "km",
+      "value": "វិគីភីឌា:អសង្ស័យកម្ម"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ವಿಕಿಪೀಡಿಯ:ದ್ವಂದ್ವ ನಿವಾರಣೆ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "《에린 침략의 서》(LGE)에 등장하는 인물"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "„Wat-eß-dat?“-Sigg en de Wikkipeidija"
+    },
+    "la": {
+      "language": "la",
+      "value": "pagina discretiva"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Wikimedia-Homonymiesäit"
+    },
+    "li": {
+      "language": "li",
+      "value": "Wikimedia-verdudelikingspazjena"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "nuorodinis straipsnis Vikimedija projekte"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Wikimedia projekta nozīmju atdalīšanas lapa"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "維基媒體釋義"
+    },
+    "map-bms": {
+      "language": "map-bms",
+      "value": "Wikimedia:Disambiguasi"
+    },
+    "mdf": {
+      "language": "mdf",
+      "value": "Википедиесь:Лама смусть"
+    },
+    "min": {
+      "language": "min",
+      "value": "laman disambiguasi"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "појаснителна страница на Викимедија"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "വിക്കിപീഡിയ വിവക്ഷ താൾ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "निःसंदिग्धीकरण पृष्ठ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Wikimedia:Nyahkekaburan"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Biquimédia:Zambiguaçon"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "ویکی پدیا:گجگجی بیتن"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Wikimedia khu-pia̍t-ia̍h"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Wikimedia-pekerside"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Wikimedia:Mehrdüdig Begreep"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "deurverwiesziede"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "विकिपीडिया:बहुविकल्पी शब्द"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wikimedia-doorverwijspagina"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Wikimedia-fleirtydingsside"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Help:Frouque"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "pagina d'omonimia"
+    },
+    "or": {
+      "language": "or",
+      "value": "ବହୁବିକଳ୍ପ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "strona ujednoznaczniająca w projekcie Wikimedia"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Wikipedia:Ròbe parej"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "د ويکيمېډيا نامبهم مخ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "página de desambiguação da Wikimedia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "página de desambiguação da Wikimedia"
+    },
+    "rmy": {
+      "language": "rmy",
+      "value": "Vikimidiya:Dudalipen"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "pagină de dezambiguizare Wikimedia"
+    },
+    "roa-tara": {
+      "language": "roa-tara",
+      "value": "Help:Disambigua"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "страница значений в проекте Викимедиа"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "pàggina di disambiguazzioni di Wikimedia"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Wikimedia disambiguation page"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "Wikipedia:سلجھائپ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "višeznačna odrednica na Vikimediji"
+    },
+    "si": {
+      "language": "si",
+      "value": "විකිපීඩියා:Disambiguation page"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Wikimédia:Rozlišovacia stránka"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "razločitvena stran Wikimedie"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "faqe kthjelluese e Wikimedias"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "вишезначна одредница на Викимедији"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "вишезначна одредница на Викимедији"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "višeznačna odrednica na Vikimediji"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Wikimedia:Bigriepskloorenge"
+    },
+    "su": {
+      "language": "su",
+      "value": "Wikimedia:Disambiguasi"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Wikimedia-förgreningssida"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "ukarasa wa maana wa Wikimedia"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "Wikimedia:Zajta ujednoznaczńajůnco"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "விக்கிமீடியப் பக்கவழி நெறிப்படுத்தல் பக்கம்"
+    },
+    "te": {
+      "language": "te",
+      "value": "వికీమీడియా అయోమయ నివృత్తి పేజీ"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "саҳифаи маъноҳои Викимедиа"
+    },
+    "th": {
+      "language": "th",
+      "value": "หน้าแก้ความกำกวมวิกิมีเดีย"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Wikimedia:Paglilinaw"
+    },
+    "tpi": {
+      "language": "tpi",
+      "value": "Help:Disembigyuesen"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Vikimedya anlam ayrımı sayfası"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Викимедиа проектындагы мәгънәләр бите"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "Викимедиа проектындагы мәгънәләр бите"
+    },
+    "tt-latn": {
+      "language": "tt-latn",
+      "value": "mäğnälär bite Wikimedia proyektında"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "сторінка значень у проєкті Вікімедіа"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ویکیپیڈیا ضد ابہام صفحہ"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "trang định hướng Wikimedia"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Vükimed:Telplänov"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Wikimedia:Omonimeye"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "Wikipedia:消歧义"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "װיקיפּעדיע:באדייטן"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "ojúewé ìṣojútùú Wikimedia"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "維基媒體搞清楚版"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Wikimedia-deurverwiespagina"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "維基媒體消歧義頁"
+    }
+  },
+  "id": "Q130298",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Cessair"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cessair"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cessair"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cessair"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cesair"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cessair"
+    },
+    "he": {
+      "language": "he",
+      "value": "קאסיר"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cessair"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ケスィル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "퀘사르"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cessair"
+    },
+    "os": {
+      "language": "os",
+      "value": "Кесайр"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Cessair"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cessair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кесайр"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Cessair"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кесайр"
+    }
+  },
+  "lastrevid": 17543231,
+  "modified": "2025-09-17T08:28:53Z",
+  "ns": 860,
+  "pageid": 158207,
+  "sitelinks": {},
+  "title": "Item:Q130298",
+  "type": "item"
+}

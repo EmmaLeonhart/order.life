@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Archambaud I of Périgord"
+      },
+      {
+        "language": "en",
+        "value": "Archambaud I of Perigord"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q129143$8EB1562D-AA51-4A7F-8620-33D313C69643",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129143$F0221C59-3439-4029-9A60-32BDC7C808C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q129143$FF614F78-3F37-42AD-814A-21798CAF83E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Archambaud_de_Périgord_(7)"
+          },
+          "hash": "d89b91009ad80d6586242b96a1421f0ebf43a92f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129143$29D9F2C8-B08D-4EEA-A76B-64778A85D2B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122774",
+              "numeric-id": 122774
+            }
+          },
+          "hash": "537e8cbde44dfea038dcce9abf013a3b70fd0db0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129143$851D4089-0C6C-4A15-9B00-44FC4A2B297C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129143$C1F11AE3-E421-472C-93C0-680CA4B68EE6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129143$B0A77D8F-0494-4C98-88A6-2351286A2DE5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1212-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "526c268385abcaed434bd8ff193aac25cddbe6bf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129143$6460B774-8F20-488A-8730-68D615370D7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q176312"
+          },
+          "hash": "2fb72a57c34a0edcc76219a689da245f5e6832ee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129143$C656F17D-64BE-4382-987B-2CFF6CCAC36D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=archambaud;n=de perigord;oc=22"
+          },
+          "hash": "04a827a36fbe3e79d2b355ccc4b104ba5da8f66a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129143$38589748-18E0-47ED-BD93-87DE36CEAA52",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Archambaud I of Périgord Arms.svg"
+          },
+          "hash": "7ba9f4fa68c92b4eea09aea8b33e22c4d04a5ddc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Périgord, Vizegraf von Ribérac"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Перигора"
+    }
+  },
+  "id": "Q129143",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Archambaud I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Archambaud I of Périgord"
+    },
+    "es": {
+      "language": "es",
+      "value": "Archambaud I of Périgord"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Archambaud Ier de Périgord"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Archimbald I van Périgord"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аршамбо I"
+    }
+  },
+  "lastrevid": 17542173,
+  "modified": "2025-09-17T08:14:47Z",
+  "ns": 860,
+  "pageid": 156658,
+  "sitelinks": {},
+  "title": "Item:Q129143",
+  "type": "item"
+}

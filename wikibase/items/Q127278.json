@@ -1,0 +1,313 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hedwig von Thüringen"
+      },
+      {
+        "language": "en",
+        "value": "Hedwig von Thuringen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127278$299DF25F-B7EC-4709-BE9B-49D86E0AFDFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "716698"
+          },
+          "hash": "7fe57cc04d1c982c23f05983d89f469565c400e9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q127278$C9343551-05F3-405A-B0AE-1AA3F4B5BB5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00029958"
+          },
+          "hash": "4eb4c1b0c7156b9a633b1dcb5c7320f2e0abdc97",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127278$E370B6BF-B950-4060-A630-25B93F8C02DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ludowinger-14"
+          },
+          "hash": "eb398b2ad86b2a751bf229b69c384c5d99f69a34",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127278$E8018941-9124-4E17-A76A-7D6DC69E2524",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127278$B0E84430-6CA4-43CB-B521-46EA2921028F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127278$9D207DA1-ACB8-49E7-B386-EE8EA939F202",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121450",
+              "numeric-id": 121450
+            }
+          },
+          "hash": "4ef27c02a7476940cc7a8ab448e63defffcf6165",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127278$268C8741-BAC5-4D75-A94A-7E073557F1BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121702",
+              "numeric-id": 121702
+            }
+          },
+          "hash": "f02072bda93073e108a2e5899f15774b1b5c0db1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127278$1C9C9E4C-1D5F-469A-88F0-5A1F6FD523F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127278$212BB5ED-09F4-444C-B4C0-0F80BE7BA3C0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1184-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b83d7bd21b7bf52dd23fb6db35ec352f3cc069db",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127278$70D5B97E-E75C-497F-B8F0-1378B35F06FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1247-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da1a5d2f9ef35b019fe0444a8551c490e98347b7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127278$4EE74AAA-A885-4535-BA66-365CE85D7B00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q117793277"
+          },
+          "hash": "5dc09df051b459aac33b8a2597a3b121c42fce74",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127278$280138D7-29F4-4114-983D-5E9D2EC3E417",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hedwig;n=von thuringen"
+          },
+          "hash": "d4f871fa1d6e7e07f35c209bbd0f5a6e0557d468",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127278$47D394D1-57FB-4312-9E21-FFFDC057398E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hedwig von Thüringen Arms.svg"
+          },
+          "hash": "6c1c9b0526f6f63c5d3250ad9e2e5b76f1ab15b2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1184 - 1247"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1184-1247)"
+    }
+  },
+  "id": "Q127278",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Hedvika Durynská"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hedvig af Thüringen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hedwig von Thüringen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hedwig von Thüringen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hedwig von Thüringen"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Hedviga de Turingia"
+    }
+  },
+  "lastrevid": 17540367,
+  "modified": "2025-09-17T07:50:56Z",
+  "ns": 860,
+  "pageid": 154153,
+  "sitelinks": {},
+  "title": "Item:Q127278",
+  "type": "item"
+}

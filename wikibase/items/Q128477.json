@@ -1,0 +1,423 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Frederick de la Roche"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128477$6B4F5B0D-FF48-44F5-97F0-C6E27477006C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00027144"
+          },
+          "hash": "f474a54302a526a187d63c2146bb3fbc852263c7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128477$191927E0-EE77-4D48-915C-B52C402D2A85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128477$CFEA41F7-9FFE-4606-8FD5-0C1EE2AD3136",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128477$EA47A6CE-FD79-4AF8-8D32-192AFF0E374E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122359",
+              "numeric-id": 122359
+            }
+          },
+          "hash": "372744068194d49fc9e54751a519eeec75e09e33",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128477$23BF0CF0-9418-4B2B-91D6-7CE2479417B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122621",
+              "numeric-id": 122621
+            }
+          },
+          "hash": "24cf24b51c63a6630425b70046e2a0fe29c0b76a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128477$212CC450-7DCD-474F-8B83-45DAFE70B82A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128477$4E14C820-4370-486B-8E65-2EC5264BFD23",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128477$882AFE87-E1DA-488F-8E63-0D37FB90F286",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1174-10-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "69294f8eb10edf0f5fdbacce5e46be0557dcbbdc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128477$27DF668B-460C-4919-BF69-07F9AE44D5EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q368221"
+          },
+          "hash": "e40a8dfc9311827067b3b6dd90571aaa58568771",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q128477$6544656E-5138-44F4-AC51-EAA2ADC02499",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Frederick de la Roche"
+          },
+          "hash": "e260020c477f865508a8f50cad87d24c499d5fb6",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128477$963D0E06-9DA0-4629-99C5-C94A7920DA72",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Frederick de la Roche Arms.svg"
+          },
+          "hash": "a86e9e597b0a22e93d7672efb980fbe681b76aef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "قس فرنسي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "sacerdote francés (1200–1174)"
+    },
+    "da": {
+      "language": "da",
+      "value": "fransk præst"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Akkon, Erzbischof von Tyrus, Kanzler von Jerusalem"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαιοκαθολικός αρχιεπίσκοπος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Catholic archbishop"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش فرانسوی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque d'Acre puis archevêque de Tyr"
+    },
+    "he": {
+      "language": "he",
+      "value": "כהן דת צרפתי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "12. századi katolikus főpap, Akkon püspöke, Türosz érseke"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo cattolico francese"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "fransk prest"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans priester (1200-1174)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "fransk prest"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup Akki,  arcybiskup Tyru, kanclerz Królestwa Jerozolimskiego"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fransk präst"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız piskopos (11.. – 1174)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римо-католицький архієпископ"
+    }
+  },
+  "id": "Q128477",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Frederic de la Roche"
+    },
+    "da": {
+      "language": "da",
+      "value": "Frederic de la Roche"
+    },
+    "de": {
+      "language": "de",
+      "value": "Friedrich von La Roche"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φρειδερίκος του Λα Ρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Frederick de la Roche"
+    },
+    "es": {
+      "language": "es",
+      "value": "Frederick de la Roche"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فردریک د لا روش"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Frederic de la Roche"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Frédéric de La Roche"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "La Roche-i Frigyes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Federico di la Roche"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フレデリック・ド・ラ・ロシュ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Fridericus Tyrensis"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Frederick de la Roche"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Frederic de la Roche"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frederick de la Roche"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Fryderyk, arcybiskup Tyru"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Frederic de la Roche"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Frederic de la Roche"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Frederick de la Roche"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Frederick de la Roche"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Frederic de la Roche"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Frederic de la Roche"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拉罗什的弗雷德里克"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "拉罗什的弗雷德里克"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "拉罗什的弗雷德里克"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "拉羅什的弗雷德里克"
+    }
+  },
+  "lastrevid": 17541515,
+  "modified": "2025-09-17T08:06:06Z",
+  "ns": 860,
+  "pageid": 155763,
+  "sitelinks": {},
+  "title": "Item:Q128477",
+  "type": "item"
+}

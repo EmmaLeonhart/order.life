@@ -1,0 +1,426 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q127560$C8155E2B-24AA-4AE1-BB4A-FCA19DB24FDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127560$F8EE87B8-C314-4E2C-AC38-5849BEBF24BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127560$84365B92-CCCE-4DCC-B487-8CD1A8FB9EF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127210",
+              "numeric-id": 127210
+            }
+          },
+          "hash": "11fcdadd6183cab33ba8c6eb3e36042019839c0f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127560$CE863FA7-BCC1-4923-863D-217F7DF31870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127556",
+              "numeric-id": 127556
+            }
+          },
+          "hash": "018ee7cb0c06378c416b5af0f17713323a88dfa3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127560$E1F46F31-761A-44CB-BAF7-E44FCF8BE839",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121646",
+              "numeric-id": 121646
+            }
+          },
+          "hash": "1772af0f1de33a85b1f90457712da052b6a8ada5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127560$34E2DBFD-3553-4C23-BC34-525047BF62FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127560$5205E02C-B32F-4B9C-87BC-12C8165D2187",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1180-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e2c5bd4a3ab345c6657a482303c50f29aeb36a68",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127560$1F724F81-5D7F-4FFC-9C33-431B239FFC81",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1234-05-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f104a3916397f070ca2b85382624dbf261076a36",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127560$70F00988-803B-4714-AD3A-B3BCBDAE8099",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q41990"
+          },
+          "hash": "b559ede5cc4afb54f35fba84f2abe883efcfd78e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127560$A2C63366-370C-443E-A8C1-E169636AF88D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q63175"
+          },
+          "hash": "f19e63906e1a82eeb0ffbe0de10fbfa22e7b468d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127560$29CF723A-E15A-44EA-AA78-3509E6F05158",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto I Arms.svg"
+          },
+          "hash": "ff9cb0a538803bea00f2d23355fb988bd25c12f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "херцог на Мерания"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata alemany"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "meranský vévoda a burgundský hrabě"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Meranien, Pfalzgraf von Burgund, Markgraf von Istrien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke of Merania"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "duko de Meranio"
+    },
+    "es": {
+      "language": "es",
+      "value": "(1180–1234), duque de Merania y de Andechs, conde de Borgoña"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte palatin consort de Bourgogne (1208-1234) et duc de Méranie"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata alemán"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "(1180?-1234) meráni herceg, burgundi palotagróf"
+    },
+    "it": {
+      "language": "it",
+      "value": "aristocratico tedesco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits aristocraat (1180-1234)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "książę Meranii, hrabia-palatyn Burgundii, hrabia Andechs, margrabia Istrii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata alemão"
+    }
+  },
+  "id": "Q127560",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوتو الاول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ото I (Мерания)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Otó II de Borgonya"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ota VII. z Andechsu"
+    },
+    "da": {
+      "language": "da",
+      "value": "Otto I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Otto I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Όθων Α΄ της Μερανίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otto I"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Otto I, Duke of Merania"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Otto I, Duke of Merania"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Otto la 1-a de Meranio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Otón I de Merania"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اوتو یکم، دوک مرانیا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Otton II de Bourgogne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Odón II de Borgoña"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Ottó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Otto I, Adipati Merania"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ottone II di Borgogna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オットー1世"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Otto I"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Otto I."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Otto I van Meranië"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Otto I."
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Otto I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Oto I, Duque da Merânia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Oto I, Duque da Merânia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Otto I de Merania"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Оттон I"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Otto I, Duke of Merania"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Otto I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Otto I."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Оттон I (герцог Меранський)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧托一世 (安德希斯公爵)"
+    }
+  },
+  "lastrevid": 17540615,
+  "modified": "2025-09-17T07:54:10Z",
+  "ns": 860,
+  "pageid": 154532,
+  "sitelinks": {},
+  "title": "Item:Q127560",
+  "type": "item"
+}

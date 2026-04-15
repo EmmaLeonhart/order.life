@@ -1,0 +1,484 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nemean lion"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q131628$EE088F50-5BCD-44E3-BCC2-EA382AEAE385",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131628$AEC4B5EC-3E59-4259-BC9D-802E619A821B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131628$EF706851-F8BA-4D5F-B04A-9874C61715CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131612",
+              "numeric-id": 131612
+            }
+          },
+          "hash": "2d8f07ba69d863e221f6e72c2431638f474a6ca6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131628$D2022F71-9F62-4525-B276-279D1CD7813E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131618",
+              "numeric-id": 131618
+            }
+          },
+          "hash": "303bb3794cc54cb4d6c8d559ba7385f46d2adc35",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131628$A46A4020-019C-4507-AF1B-7186EA5D8E28",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q199438"
+          },
+          "hash": "4fbc54ef8cabfe17bea9146c2bacea0c2516eea5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131628$8C22E9E0-8B11-4BA9-B039-4629915FE91E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nemean lion Arms.svg"
+          },
+          "hash": "6a40ec2e00f5d0558d78bcb96543e94d7eec1ed9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "die leeu wat deur Hercules doodgemaak is"
+    },
+    "az": {
+      "language": "az",
+      "value": "Herakl tərəfindən öldürülən şir"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "nebezpečná a nezranitelná šelma v řecké mytologii"
+    },
+    "de": {
+      "language": "de",
+      "value": "Löwe der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "the lion killed by Hercules"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la mitología griega"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "créature fantastique tuée par Héraclès au cours de ses travaux dans la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "criatura da mitoloxía grega"
+    },
+    "it": {
+      "language": "it",
+      "value": "creatura dell'antica mitologia greca"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "헤라클레스에게 죽은 사자"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "lev, ki ga je ubil Heraklej (v grški mitologiji)"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஹெர்குலெசால் கொல்லப்பட்ட ஒரு சிங்கம்"
+    }
+  },
+  "id": "Q131628",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Nemeïese leeu"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أسد نيميا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Lleón de Nemea"
+    },
+    "az": {
+      "language": "az",
+      "value": "Nemey şiri"
+    },
+    "be": {
+      "language": "be",
+      "value": "Нямейскі леў"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Немейски лъв"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "নেমিয়ার সিংহ"
+    },
+    "br": {
+      "language": "br",
+      "value": "Leon Nemea"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Nemejski lav"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lleó de Nemea"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "nemejský lev"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nemeischer Löwe"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λέων της Νεμέας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nemean lion"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Nemea leono"
+    },
+    "es": {
+      "language": "es",
+      "value": "León de Nemea"
+    },
+    "et": {
+      "language": "et",
+      "value": "Nemea lõvi"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Nemeako lehoia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شیر نیمیان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Nemean leijona"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lion de Némée"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "an leon Neiméach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "León de Nemea"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Νεμέος λέων , Neméos léōn"
+    },
+    "he": {
+      "language": "he",
+      "value": "האריה מנמאה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Nemejski lav"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Nemeai oroszlán"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Նեմեյան առյուծ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Singa Nemea"
+    },
+    "io": {
+      "language": "io",
+      "value": "Leono di Nemea"
+    },
+    "is": {
+      "language": "is",
+      "value": "Nemuljón"
+    },
+    "it": {
+      "language": "it",
+      "value": "Leone di Nemea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ネメアーの獅子"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ნემეის ლომი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Немей арыстаны"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "네메아의 사자"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Şêrê Nemeayî"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Şêrê Nemeayî"
+    },
+    "la": {
+      "language": "la",
+      "value": "Leo Nemeaeus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Léiw vun Nemea"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Nemėjos liūtas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Nēmejas lauva"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Немејски лав"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯅꯤꯃꯤꯌꯥꯟ ꯅꯣꯡꯁꯥ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Løven fra Nemea"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nemeïsche leeuw"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Løva frå Nemea"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lew nemejski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Leão da Nemeia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Leul din Nemeea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Немейский лев"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nemejski lav"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Nemejský lev"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "nemejski lev"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "λεονταρι της νεμεας"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Немејски лав"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Немејски лав"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Nemejski lav"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nemeiska lejonet"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "நீமியன் சிங்கம்"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Leong Nemeo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nemea Aslanı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Немейський лев"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Sư tử Nemea"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ნემეიშ ნჯილო"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "涅墨亚狮子"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "涅墨亚狮子"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "涅墨亚狮子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "涅墨亞獅子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "涅墨亞獅子"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "涅墨亚狮子"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "涅墨亞獅子"
+    }
+  },
+  "lastrevid": 17544518,
+  "modified": "2025-09-17T08:46:29Z",
+  "ns": 860,
+  "pageid": 159998,
+  "sitelinks": {},
+  "title": "Item:Q131628",
+  "type": "item"
+}

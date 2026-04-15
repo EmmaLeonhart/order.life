@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert D'Oyly"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q129153$1B27B03A-C78D-4B58-99BE-191FF1E35D85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122786",
+              "numeric-id": 122786
+            }
+          },
+          "hash": "a304a6effa81ca0e06be12435d20fe422cdb0686",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q129153$C586BDF9-971A-4878-AEBC-66A7AFDD2361",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "D'Oilly-2"
+          },
+          "hash": "35ca5e43877ff46772d9e3b33b61297416f2596f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129153$7D79504A-897A-4B05-BDB6-C314A11BA9A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129153$0E005EB5-2E91-42FB-926F-4C87A0FF61DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q129153$24393C9B-6664-4458-B388-C23C67532480",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert_D'Oyly_(1)"
+          },
+          "hash": "5f0c7110f9e5cb4f08f4b98eed0bb8c38c337b7f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q129153$88EA3153-464D-4AA3-9D04-8AC56A8EBF26",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p62.htm#i613"
+          },
+          "hash": "cc7d77cdf35a67c1dcf2877a9119fed96844803c",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129153$F48E9E9C-DEA8-465F-BA6D-36ECB78B09E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129153$0BA892FC-1BB1-4AF6-92BB-7885374BC0D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1044-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f005e10e2a834f094f23e7790cba4a5fc7ad02c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129153$2D220E84-FA9E-4DA8-8A44-7FBC36CD38FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1091-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7e453c314a8c4b45a63fc37ae6768f16d06f1b13",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129153$5561B5E6-AF24-443B-A5F9-9C4D8A93D9EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q943936"
+          },
+          "hash": "a36ed4d1f188c28a45b9291ad898efd82c05b2e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129153$858B7E82-777F-4729-81E9-139ECD5D228D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=d oilly;oc=2"
+          },
+          "hash": "3d5291b46b3bb780370baf4bbf8ab5959d0ee19a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129153$9323A13E-0CEB-4F1C-BE53-27BFA1AD5525",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert D'Oyly Arms.svg"
+          },
+          "hash": "3dd8841a51c806cfc48d5b7a22eb4c1b5850c955",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "normannischer Adliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Norman landowner, d. 1091"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble anglonormando"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble anglo-normand"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile anglo-normanno"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "sheriff"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Proprietário de terras normando, falecido em 1091"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "англо-нормандский зевлевладелец"
+    }
+  },
+  "id": "Q129153",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Robert D’Oyly"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert D'Oyly"
+    },
+    "es": {
+      "language": "es",
+      "value": "Roberto d'Oyly"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert d'Oilly"
+    },
+    "he": {
+      "language": "he",
+      "value": "רוברט ד'אולי"
+    },
+    "it": {
+      "language": "it",
+      "value": "Roberto d'Oyly"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert D'Oyly"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Robert D'Oyly"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роберт д’Ульи"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Robert D'Oyly"
+    }
+  },
+  "lastrevid": 17542183,
+  "modified": "2025-09-17T08:14:55Z",
+  "ns": 860,
+  "pageid": 156672,
+  "sitelinks": {},
+  "title": "Item:Q129153",
+  "type": "item"
+}

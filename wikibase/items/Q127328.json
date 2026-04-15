@@ -1,0 +1,847 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bertha of Lorraine"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q127328$2E00F3F2-2B7E-4AAC-972A-D7D7E40ABE16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127330",
+              "numeric-id": 127330
+            }
+          },
+          "hash": "ee3e2f561b7bbbe2026ac55c0395e4d1454fd722",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127328$4D65F88E-DF99-4D92-932B-B308A4B257A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121505",
+              "numeric-id": 121505
+            }
+          },
+          "hash": "ec57927517ef6846ff2bd12a2429f87f97284ba9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127328$80EC3600-800D-4926-8179-FAACB4B60DE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127328$17885C9F-A120-41E0-B075-8F2294B3DCE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127328$C59F1034-CA5D-4F28-8D2C-B32376EF2066",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121503",
+              "numeric-id": 121503
+            }
+          },
+          "hash": "5e3c52f9b104050fdfcd144c08b9b67616d753ec",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127328$F3C598B3-7C4B-45AB-A9AF-5D408BD5C48F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122299",
+              "numeric-id": 122299
+            }
+          },
+          "hash": "313c8d71ccd408d02c2c8805d0391555951ba197",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127328$8748A0BF-F244-401F-9216-4F58D9DBFF5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126047",
+              "numeric-id": 126047
+            }
+          },
+          "hash": "8090f5133312b6ea0e943f2b6794ae47a467a66a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127328$742403D6-AB29-43F1-89BB-B7537C6A4D37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127328$59707FC6-C3A2-43A8-8565-FE9C42308EFB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1116-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "524e00f7c92a34b641389527af3dd91d8aec3365",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127328$B8859980-6D16-4C62-A37A-A401D10DFAB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q83495"
+          },
+          "hash": "2800eee923de83c67799ea4cc37dfcb7c4095aad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q127328$130BFFEC-CF19-460B-AC9E-DD4E640B061B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "The Matrix"
+          },
+          "hash": "d1903ee841a0d67b2ac6146dfd4ead39acb1a54d",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127328$442DE545-0151-4550-A130-427E203FC8D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "The Matrix Arms.svg"
+          },
+          "hash": "c107318165b782cd815dbee641f2e8857b07bd90",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "1999 Australiese-Amerikaanse film"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "فلم أُصدر سنة 1999، من إخراج الأخوين وتشاوسكي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فيلم 1999"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "амэрыканска-аўстралійскі фантастычны баявік 1999 року"
+    },
+    "br": {
+      "language": "br",
+      "value": "film stadunanat skiant-faltazi hag oberiant embannet e 1999"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "film estatunidenc de 1999 dirigit per les germanes Wachowski"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "australský-americký film z roku 1999"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ffilm agerstalwm sy'n dilyn hynt a helynt grwp o ffrindiau gan The Wachowskis a gyhoeddwyd yn 1999"
+    },
+    "de": {
+      "language": "de",
+      "value": "australisch-amerikanischer Science-Fiction-Thriller (1999)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αμερικανοαυστραλιανή ταινία του 1999"
+    },
+    "en": {
+      "language": "en",
+      "value": "1999 American science fiction action thriller film"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "filmo"
+    },
+    "es": {
+      "language": "es",
+      "value": "película de 1999 dirigida por las hermanas Wachowski"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فیلمی از واچوفسکیها"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "vuoden 1999 elokuva"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "film de science-fiction sorti en 1999"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "un filme de ciencia ficción de Lana e Lilly Wachowski"
+    },
+    "he": {
+      "language": "he",
+      "value": "סרט מדע בדיוני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "1999-es amerikai sci-fi film"
+    },
+    "id": {
+      "language": "id",
+      "value": "Film thriller aksi fiksi ilmiah Amerika 1999"
+    },
+    "is": {
+      "language": "is",
+      "value": "Bandarísk-áströlsk kvikmynd frá 1999"
+    },
+    "it": {
+      "language": "it",
+      "value": "film del 1999 diretto da Andy e Larry Wachowski"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "1999年のアメリカのSFアクション映画"
+    },
+    "km": {
+      "language": "km",
+      "value": "ភាពយន្តអាមេរិកាំងបែបវិទ្យាសាស្ត្រប្រឌិតឆ្នាំ 1999"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "1999년 미국 SF 영화"
+    },
+    "lad": {
+      "language": "lad",
+      "value": "filmo de 1999 dirijido por las ermanas Wachowski"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "филм од 1999 г."
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അമേരിക്കന് ചലച്ചിത്രം"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "amerikansk film fra 1999"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amerikaanse-Australische sciencefictionfilm uit 1999, onder regie van de Wachowski's"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "australijsko-amerykański film science fiction, pierwszy z serii o tej samej nazwie"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "filme de 1999 dirigido por Lilly e Lana Wachowski"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "filme de 1999 dirigido por Lilly e Lana Wachowski"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "film SF din 1999"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "фильм братьев Вачовски (1999)"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "austrálsky-americký sci-fi film z roku 1999"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "film"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "америчко-аустралијски научнофантастични акциони трилер филм"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "amerikansk film från 1999 regisserad av Lilly och Lana Wachowski"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matrix serisinin ilk filmi (1999)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phim điện ảnh Hoa Kỳ năm 1999"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "美國科幻電影"
+    }
+  },
+  "id": "Q127328",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "The Matrix"
+    },
+    "am": {
+      "language": "am",
+      "value": "ማትሪክስ"
+    },
+    "an": {
+      "language": "an",
+      "value": "The Matrix"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ماتريكس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماتريكس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "The Matrix"
+    },
+    "az": {
+      "language": "az",
+      "value": "Matris (film)"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ماتریکس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Матрыца (фільм)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Матрыца"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Матрицата"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "দ্য ম্যাট্রিক্স"
+    },
+    "br": {
+      "language": "br",
+      "value": "The Matrix"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Matrix"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "The Matrix"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "مەیتریکس"
+    },
+    "crh": {
+      "language": "crh",
+      "value": "The Matrix"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Matrix"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Матрица (фильм)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "The Matrix"
+    },
+    "da": {
+      "language": "da",
+      "value": "The Matrix"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matrix"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Matrix"
+    },
+    "el": {
+      "language": "el",
+      "value": "The Matrix"
+    },
+    "eml": {
+      "language": "eml",
+      "value": "Matrix"
+    },
+    "en": {
+      "language": "en",
+      "value": "The Matrix"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "The Matrix"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "The Matrix"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "The Matrix"
+    },
+    "es": {
+      "language": "es",
+      "value": "The Matrix"
+    },
+    "et": {
+      "language": "et",
+      "value": "Matrix"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "The Matrix"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماتریکس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Matrix"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Matrix"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "The Matrix (film)"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "The Matrix"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Matrix"
+    },
+    "he": {
+      "language": "he",
+      "value": "מטריקס"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "द मेट्रिक्स"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "The Matrix"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Matrix"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Mátrix"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մատրիցա"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Matrix (1999)"
+    },
+    "id": {
+      "language": "id",
+      "value": "The Matrix"
+    },
+    "inh": {
+      "language": "inh",
+      "value": "Матрица"
+    },
+    "io": {
+      "language": "io",
+      "value": "La Matrico"
+    },
+    "is": {
+      "language": "is",
+      "value": "Fylkið"
+    },
+    "it": {
+      "language": "it",
+      "value": "Matrix"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マトリックス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მატრიცა"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Матрица (фильм)"
+    },
+    "km": {
+      "language": "km",
+      "value": "ដឹ មេទ្រិកស៍"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ದಿ ಮೆಟ್ರಿಕ್ಸ್"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "매트릭스"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Матрица"
+    },
+    "la": {
+      "language": "la",
+      "value": "Matrix"
+    },
+    "lad": {
+      "language": "lad",
+      "value": "The Matrix"
+    },
+    "li": {
+      "language": "li",
+      "value": "The Matrix"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Matrica"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Matrikss"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Матрица"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ദ മാട്രിക്സ്"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "The Matrix"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "The Matrix"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "The Matrix"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "The Matrix"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "दि म्याट्रिक्स"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "The Matrix"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "The Matrix"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Matrix"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਦ ਮੈਟਰਿਕਸ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Matrix"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Matrix"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Matrix"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Matrix"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Матрица"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "The Matrix"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Matrix"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Matrix"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Matrica"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "The Matrix"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Матрикс"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Матрикс"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Matriks"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Matrix"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "The Matrix"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "தி மேட்ரிக்ஸ்"
+    },
+    "th": {
+      "language": "th",
+      "value": "เดอะ เมทริกซ์: เพาะพันธุ์มนุษย์เหนือโลก 2199"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matrix"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Матриця"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "دی میٹرکس"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "The Matrix"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ma trận"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "黑客帝国"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "მატრიცა"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "廿二世紀殺人網絡"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "黑客帝国"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "黑客帝国"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "黑客帝国"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "廿二世紀殺人網絡"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "梦幻科技"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "駭客任務"
+    }
+  },
+  "lastrevid": 17540417,
+  "modified": "2025-09-17T07:51:34Z",
+  "ns": 860,
+  "pageid": 154220,
+  "sitelinks": {},
+  "title": "Item:Q127328",
+  "type": "item"
+}

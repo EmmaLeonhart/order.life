@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Q1521043"
+      },
+      {
+        "language": "en",
+        "value": "Meinhard of Gorizia and Istria"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q127636$373EF641-4E08-40F7-B696-2C720F672EB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127636$017B1C3C-FA71-424D-86EC-8F0474F26975",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127636$A7FD62FD-3363-45BE-9923-219945DA2EB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121682",
+              "numeric-id": 121682
+            }
+          },
+          "hash": "45bf094fe203a0ac1618cf056753ac898ce5175b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127636$18E46F93-7721-4E7B-9F91-D91850149EBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127636$82AE71E2-D304-4618-9C2A-8DB76FF4C06C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127636$66267FC9-C491-43B4-AB21-7289B1541E66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1193-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "30ca7bc6430fbbf47b40d6aa215cb9c1d4a123f3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127636$022F8602-C59A-406D-B2A4-047F3B9D1ACB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1521043"
+          },
+          "hash": "04507d6950ced998c6c3958775025bb9fb4f4211",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127636$68F993BB-ABF5-4559-AF94-77160BD2808E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=meinhard;n=von gorz;oc=2"
+          },
+          "hash": "e981bcc6756cb5ba6febaacf2ae8146c2a5fca63",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127636$E71F1455-762D-4187-A658-9D8CBC62733C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Menhart Goricky a Istrijsky Arms.svg"
+          },
+          "hash": "282b84dfea8a747d817a55dc58e72ea17c8ce649",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Markgraf von Istrien und Vogt von Parenzo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "маркграф Истрии"
+    }
+  },
+  "id": "Q127636",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Menhart Gorický a Istrijský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Meinhard von Görz und Istrien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Menhart Goricky a Istrijsky"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mainardo di Gorizia e Istria"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Meinhard von Görz und Istrien"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мейнхард"
+    }
+  },
+  "lastrevid": 17540691,
+  "modified": "2025-09-17T07:55:08Z",
+  "ns": 860,
+  "pageid": 154634,
+  "sitelinks": {},
+  "title": "Item:Q127636",
+  "type": "item"
+}

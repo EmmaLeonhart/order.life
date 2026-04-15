@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Irmengarde van Limburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128533$2733151A-C676-4972-ADF4-DA5FB5A20837",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00112452"
+          },
+          "hash": "9dde8cdd2ba330847b19fd56c11023a6270cbec9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128533$76B0488F-9FFB-41A8-9B5C-84B504F5057E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128533$03C85A83-6DE1-4683-89F7-702E69497114",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q128533$B4544012-FB06-48CD-98BC-E1F20BA87E7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p60458.htm#i604573"
+          },
+          "hash": "0b96c6b58147a5afb7fd66589e5efb12326692de",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128533$A1E48D99-9BF1-4845-8CED-71CD752E5C20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122398",
+              "numeric-id": 122398
+            }
+          },
+          "hash": "f995144194b285a884816621f44c8fd324ed543f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128533$6BDDFFB6-9C52-4BEB-AF4C-059FE065BA76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128527",
+              "numeric-id": 128527
+            }
+          },
+          "hash": "8ec4cb61f3185b12d3e1fb66e73cf1e9c07e81fe",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128533$3B4FF9E0-93D1-434C-99AF-232112ED3ACA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128533$836097A7-B453-4DAE-8832-AF36D696E8CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a30e929c8128e528cb4df0827a2224a6c9d8c3b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128533$CE8835DD-F558-4356-90D3-DAA5EBF5C2C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1310-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ab8112efc08287c96e542e5e834581bd5e2c1ad5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128533$89886EEA-CCAF-4B41-BB6E-0DF66E82AFCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76207823"
+          },
+          "hash": "1c43d7f0891be0772e8806cf6bafc630c247ad6e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128533$E9E68C22-6166-48C7-A7D0-66149BA4E32B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ermesinde;n=de luxembourg"
+          },
+          "hash": "1f61f476c2037dabce7b8a5b4abb2f85c1e0ee24",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128533$867173B2-AF9D-43CC-B6AB-3217C98A4770",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Irmengarde van Limburg Arms.svg"
+          },
+          "hash": "54f8be8b2d0907eb728f085a6ea3fbad9a74f4c9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1260-1310)"
+    }
+  },
+  "id": "Q128533",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Irmengarda Limburská"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιρμενγκάρδη του Λίμπουργκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irmengarde van Limburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Irmengarde van Limburg"
+    }
+  },
+  "lastrevid": 17541567,
+  "modified": "2025-09-17T08:06:46Z",
+  "ns": 860,
+  "pageid": 155838,
+  "sitelinks": {},
+  "title": "Item:Q128533",
+  "type": "item"
+}

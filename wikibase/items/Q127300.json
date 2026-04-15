@@ -1,0 +1,330 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Heinrich I of Wolfratshausen"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q127300$8EBE310D-759E-46B7-8123-FD5254E274CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00120858"
+          },
+          "hash": "12090132aa714d607dd8bc8e205d00adda4b3a2b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127300$7E4AAD74-6096-4D66-B09F-70FA005DFF0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127300$2431A8ED-13D1-479E-995C-D91ABF99AA3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127300$C41D376C-7F04-4F74-92D5-E119E4E3C584",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Heinrich_Unknown_(17)"
+          },
+          "hash": "fa6a9ce8d5a589ffd931ee54ae740fc6f9acafa7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127300$F90376D3-4A65-440D-B516-1DAE2232F7C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122171",
+              "numeric-id": 122171
+            }
+          },
+          "hash": "991b7eb26c4debfa0c1c832b248c429638f9d9ea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127300$8489980F-0DEA-460B-A229-679858E86B9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127300$104DCAAD-6B6B-4D6F-B4E2-FFA34887B433",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127300$6316FAB4-8E97-4635-8E9F-2747A6039FAF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1155-05-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecf50872fea902c9e62878a92fe7732b1ac9478a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127300$F728DFB9-6183-46F4-86E9-6B4C198048C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1409008"
+          },
+          "hash": "54d3417990d684e0f93217dc1c60317be375988f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127300$7EC8C218-BD7E-4B32-BE1B-FC3D1C66545B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heinrich I of Wolfratshausen Arms.svg"
+          },
+          "hash": "e7c79cb2210c373ab78996b39144da82e8741e4a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "sacerdote alemán (1100–1155)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Regensburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "German bishop"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo alemán"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits bisschop (?-1155)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    }
+  },
+  "id": "Q127300",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих I фон Волфратсхаузен"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "da": {
+      "language": "da",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Heinrich I of Wolfratshausen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri Ier de Wolfratshausen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik I van Wolfratshausen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Heinrich I. von Wolfratshausen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Heinrich I. von Wolfratshausen"
+    }
+  },
+  "lastrevid": 17540389,
+  "modified": "2025-09-17T07:51:13Z",
+  "ns": 860,
+  "pageid": 154183,
+  "sitelinks": {},
+  "title": "Item:Q127300",
+  "type": "item"
+}

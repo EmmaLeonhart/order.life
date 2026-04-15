@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ekkehard II. von Scheyern"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q127676$7431D096-835B-4803-9107-5A6ECB72D488",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Scheyern-2"
+          },
+          "hash": "2f3639f770d65bdbd1bce21c3fe7313fa359e70a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127676$EA6392CC-AFC5-424B-9AB0-514E94663C66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127676$A4AE28B0-82DB-4505-8125-7A17147223B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127676$B57E4ED7-E794-404A-9948-E21CF47696E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127672",
+              "numeric-id": 127672
+            }
+          },
+          "hash": "2d4a3d9c8d251bc716d50446781bed13cb86811b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127676$E930168C-73E0-483A-929F-03EBF85724AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127676$1B65676D-ED8F-4D62-9271-39ABD0E951EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127676$71AA36A6-55CC-49DE-BD78-53C4CEA7649C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1135-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a192667e5b16b41521d6927eb1dd9a4fb32959d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127676$71E5B021-88AD-473D-A8FC-09DA1A99AF73",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1322771"
+          },
+          "hash": "97294cb1710cb4570d69aa8c7e46e7803963501c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127676$BCF08A89-FC9E-4DD8-B9AB-51F34EB702EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ekkehard II. von Scheyern Arms.svg"
+          },
+          "hash": "eef1d74621de60d27760e684e834239da1f7c38f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "monxu alemán (1200–1200)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Scheyern"
+    },
+    "en": {
+      "language": "en",
+      "value": "1135"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits monnik (-)"
+    }
+  },
+  "id": "Q127676",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Екехард II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ekkehard II de Scheyern"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ekkehard II. von Scheyern"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ekkehard II. von Scheyern"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ekkehard II de Scheyern"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eccardo II di Scheyern"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ekkehard II. von Scheyern"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ekkehard II. von Scheyern"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ekkehard II. von Scheyern"
+    }
+  },
+  "lastrevid": 17540731,
+  "modified": "2025-09-17T07:55:40Z",
+  "ns": 860,
+  "pageid": 154688,
+  "sitelinks": {},
+  "title": "Item:Q127676",
+  "type": "item"
+}

@@ -1,0 +1,388 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Conrad I, Duke of Merania"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q128967$12894D8E-28F3-4C3C-9F65-9F1A61C7F283",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00444570"
+          },
+          "hash": "08b32d087f98ca34957144b0679a326a646f1a0d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128967$7E0702B4-4420-447B-A6F4-A60D56BEDDF2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Count_of_Dachau-1"
+          },
+          "hash": "5f8c93f1950b64cf118466b7cfd226e2f739c520",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128967$C678A151-C739-49D0-8180-9BE798C08033",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128967$E174E251-9070-4C2D-AE3A-FE0949BAD9B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128967$0179E291-EF20-4146-9A13-494078199B35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122625",
+              "numeric-id": 122625
+            }
+          },
+          "hash": "3dafb5b110d3efb7a0363460036f2254d2ee8318",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q128967$805AFB19-40E4-4610-BBBD-4E1160F1A945",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p60446.htm#i604455"
+          },
+          "hash": "418de2b6e4d0ff835faeb2e5c85c3ba68751c44f",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128967$A32E738B-AA63-4E80-A6CA-CE1197979C4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128967$46F9F7A8-03E7-4B5F-B529-D8B5A7115980",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128967$722E36BA-8009-4B7B-ADFB-C9E2F720841E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1159-02-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a109d371f4b5852c7656419ade56eb91255eb5c1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128967$B4FE2B97-A90D-46E3-B600-E86AE454803B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q69434"
+          },
+          "hash": "29a98f7da31a76ac029d956b21862a2e397641e1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128967$AB7D842F-3482-41C0-99C1-B14056E05225",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=konrad;n=von dachau;oc=1"
+          },
+          "hash": "93af3096ecf3376699d5a60157246cbe6d05dee8",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128967$73BEFE01-34F4-4BDB-86CC-062733D8D96D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Conrad I, Duke of Merania Arms.svg"
+          },
+          "hash": "7287045a3d54d36811b9400ecc942668a6247870",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata alemán (1200–1159)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata alemany"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Scheyern-Dachau"
+    },
+    "en": {
+      "language": "en",
+      "value": "Italian noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata alemán"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata alemaniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate allemand"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "uasal Iodálach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata alemán"
+    },
+    "it": {
+      "language": "it",
+      "value": "aristocratico tedesco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits aristocraat (-1159)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata alemão"
+    }
+  },
+  "id": "Q128967",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كونراد الاول دوق ميرانيا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Конрад I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Konrad Ier de Méranie"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Konrád I. Meranský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Konrad I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Konrad I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κορράδος Α΄ της Μερανίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Conrad I, Duke of Merania"
+    },
+    "es": {
+      "language": "es",
+      "value": "Conrado I de Merania"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Konrad Ier de Méranie"
+    },
+    "id": {
+      "language": "id",
+      "value": "Konrad I, Adipati Merania"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "コンラート1世"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Konrad I."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koenraad I van Meranië"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Konrad I."
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Konrad II (książę Meranii)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Conrad I de Merania"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Конрад I (герцог Меранский)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Conrad I, Duke of Merania"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Conrad I, Duke of Merania"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Konrad I."
+    }
+  },
+  "lastrevid": 17541997,
+  "modified": "2025-09-17T08:12:27Z",
+  "ns": 860,
+  "pageid": 156422,
+  "sitelinks": {},
+  "title": "Item:Q128967",
+  "type": "item"
+}

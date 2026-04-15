@@ -1,0 +1,473 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tyche"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q130009$41B11F7A-778A-47DC-B70F-202BDB8776B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130009$4225B06A-95D2-4F5F-8984-8D1E26908079",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130009$392AB421-4319-4417-8F78-484E21B52CB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74973",
+              "numeric-id": 74973
+            }
+          },
+          "hash": "306e88ec0399eb926006f98627de7fc1b5bc4bb3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q130009$B0311778-3825-4F10-A720-919216BFFC06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74970",
+              "numeric-id": 74970
+            }
+          },
+          "hash": "12d8a1d96a2a400a7d11f745e27e6e0456c31cdf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130009$FB199A73-F413-4667-B403-C46B358B48A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130009$C1A2046B-F5D9-41DE-A460-EC3368974290",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q213440"
+          },
+          "hash": "c2a2f2aaeb7d0a7a64173629411952cb28358ba9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130009$497B3BAD-FC60-445E-B864-3F8FCFA16B24",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tyche Arms.svg"
+          },
+          "hash": "3dbbb2d18de18b381822d79ba5b682b0ad0acfaf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "معبودة الحظ في الثقافة اليونانيّة"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "deessa grega de la fortuna"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "řecká bohyně šťastné náhody"
+    },
+    "de": {
+      "language": "de",
+      "value": "griechische Göttin des Schicksals"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek goddess of fortune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Diosa griega de la fortuna"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "jumalatar kreikkalaisessa mytologiassa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Océanide de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלת המזל במיתולוגיה היוונית"
+    },
+    "it": {
+      "language": "it",
+      "value": "personificazione greca della fortuna"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "gresk lykkegudinne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Griekse godin van geluk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "divindade mitológica"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "zeitate în mitologia greacă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнегреческое божество случая"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "grška boginja usode"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde iyi veya kötü talih tanrıçası"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "грецька богиня"
+    }
+  },
+  "id": "Q130009",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تيكه"
+    },
+    "as": {
+      "language": "as",
+      "value": "টাইকি"
+    },
+    "az": {
+      "language": "az",
+      "value": "Tixa"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тюхе"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tique"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "تیکە"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Týché"
+    },
+    "da": {
+      "language": "da",
+      "value": "Tyche"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tyche"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τύχη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tyche"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tikeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tyche"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Tike"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "توخه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Tykhe"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tyché"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Τύχη"
+    },
+    "he": {
+      "language": "he",
+      "value": "טיכה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Tihe"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tükhé"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Տիխե"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Թիխէ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tikhe"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tiche"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テュケー"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Тюхе"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "티케"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Tîxê"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Tîxê"
+    },
+    "la": {
+      "language": "la",
+      "value": "Tyche"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Tichė"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Тиха"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ടിക്കേ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tyche"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tyche"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tyche"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Tiche"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tique"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Tyche"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тюхе"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tiha"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Tyché"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Tiha"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Тиха"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Тиха"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Tiha"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tyche"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tyhe"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тихе"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "توخے"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Tyuhe"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tyche"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "堤喀"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "堤喀"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "堤喀"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "堤喀"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "堤喀"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "堤喀"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "堤喀"
+    }
+  },
+  "lastrevid": 17542951,
+  "modified": "2025-09-17T08:25:09Z",
+  "ns": 860,
+  "pageid": 157819,
+  "sitelinks": {},
+  "title": "Item:Q130009",
+  "type": "item"
+}

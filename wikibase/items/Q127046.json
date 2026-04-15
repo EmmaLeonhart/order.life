@@ -1,0 +1,343 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Géza, royal prince of Hungary"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q127046$B182EE3D-285F-4F3A-B3DB-A25E44B38ABF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arpadhazi-74"
+          },
+          "hash": "631a7986ae411e5fa6682b94d5a11793ed8dbbdb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127046$D95AB4C0-A381-461A-8562-F5EB94E3BC0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127046$189C147D-407A-4ACC-8408-E405D641F3D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127046$F4AD0144-D4E1-4F56-B3DC-248BDC49A27C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince_Geza_(2)"
+          },
+          "hash": "5bb6a7c104ce57fdd681817e7da6849dd6910712",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127046$774714B9-E556-4D25-81E3-FBD84C0A250F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127044",
+              "numeric-id": 127044
+            }
+          },
+          "hash": "fca67a753725001c8312f48d2d2566bbed61514a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127046$2666E663-8ACF-4717-A30C-D98DDF8E42C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121294",
+              "numeric-id": 121294
+            }
+          },
+          "hash": "1d2b759da13efab97477baa3667d0107c9b53bbc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127046$135518BD-AEBD-454E-AA15-B6E690DC1A07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127046$E1E71F71-46C5-4E30-A238-4AD138B53A4E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1151-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c4b27fb053242da39a886931247db92ea75c9f8a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127046$6EF8CD75-01AA-450C-8A69-BF9D003A7E55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1210-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c5a53cff056cfc81a922d90bcf5c0330310b8cc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127046$97193E5C-83E6-4EC3-B462-7308FDB54CB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q573248"
+          },
+          "hash": "52d1c969e41698105a8697aa2ecac08506b3a72c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127046$5DF5B076-1388-4C02-9BB6-B1263AB3510F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Géza, royal prince of Hungary Arms.svg"
+          },
+          "hash": "844c4a7373f72adb71ca80fa5ba577493b6b96c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أمير مجري، ومطالب بالعرش"
+    },
+    "be": {
+      "language": "be",
+      "value": "сын Гезы II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "uherský princ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Hungary"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "(1150 k. – 1210) Árpád-házi királyi herceg, trónörökös"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "prins av Ungarn"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "print al Ungariei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Гезы II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Prins av Ungern"
+    }
+  },
+  "id": "Q127046",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غيزا المجري"
+    },
+    "be": {
+      "language": "be",
+      "value": "Геза"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gejza Uherský"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκέζα (γιος του Γκέζα Β΄ της Ουγγαρίας)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Géza, royal prince of Hungary"
+    },
+    "es": {
+      "language": "es",
+      "value": "Geza, príncipe real húngaro"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گزای، پسر گزای دوم مجارستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Géza"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Géza"
+    },
+    "it": {
+      "language": "it",
+      "value": "Géza d'Ungheria (1151-1210)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゲーザ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Géza"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Géza, royal prince of Hungary"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Geza"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Геза"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Géza av Ungern"
+    }
+  },
+  "lastrevid": 17540141,
+  "modified": "2025-09-17T07:47:49Z",
+  "ns": 860,
+  "pageid": 153841,
+  "sitelinks": {},
+  "title": "Item:Q127046",
+  "type": "item"
+}

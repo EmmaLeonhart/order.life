@@ -1,0 +1,710 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John of Brienne"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127433$485C5C01-A253-47AD-8E71-DB58BFEE1C09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "12959"
+          },
+          "hash": "4d78ab1501841a07aa6ab145967afde3b4f09ec8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q127433$8FE8C553-8914-425A-9DF4-DD6FEBEA7E90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00026633"
+          },
+          "hash": "f4e23a5c11da4c0731eaa5293f5f36e4fb4e1e8c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q127433$ABD1B388-F711-4134-BD27-6336FEC6F470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125226",
+              "numeric-id": 125226
+            }
+          },
+          "hash": "c00bad60c64a7e513e2f72503f4e581986ff9ae4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q127433$377CA186-A51F-4C7B-8F36-9F9214B8B31B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "KPQZ-MQL"
+          },
+          "hash": "0d32e89f4bd3efce2abe7f899ed71df21e6773de",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127433$A1419160-F1BC-4FC4-A99A-EEEF12C29E6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Brienne-4"
+          },
+          "hash": "49511b519916faf43cdbd889af0ebaf70d353073",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q127433$C8567F2F-E42F-4989-9792-325C38BE79ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I3059"
+          },
+          "hash": "db84feaea0a96b9cbbcee5e2c7cc33eebaac1ac5",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127433$96494352-7A71-4ADD-BB99-D17C29B8FAC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127433$7B49F67B-0037-4A34-9144-B76DABFC2E4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127433$A188C26E-F399-4049-BCE9-AF86D48730C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "John_of_Brienne_(1)"
+          },
+          "hash": "95d7778d1a587d65f32bdbc0cd8f0a1f584d85fe",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127433$042046FD-704E-4BBD-89D9-A4F4AFEFD390",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121566",
+              "numeric-id": 121566
+            }
+          },
+          "hash": "6c245c244bd53fcf8fca55aacf53b3d21bb4157b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127433$6A07F6A5-F6BA-4D96-AA05-BA2DF74A333D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125118",
+              "numeric-id": 125118
+            }
+          },
+          "hash": "1b82aeb4509653a0121b9b95b76178ac9c68aa42",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q127433$5E9290B6-EF78-4D18-A38F-DFE2D606DA4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p824.htm#i8239"
+          },
+          "hash": "9f9c86ba906fc93535b85534152aa174cb39e784",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127433$3938830A-C771-41BA-AC8F-62DFAD547FF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124615",
+              "numeric-id": 124615
+            }
+          },
+          "hash": "9ddb724bd4efa348436d3589526d748d248b06f2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127433$4255B5BC-82C2-4877-B3EB-65F0283A3187",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123309",
+              "numeric-id": 123309
+            }
+          },
+          "hash": "884f139cc6ef34bb23e871a9717a560046766b35",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q127433$10C83DE9-2BCA-44ED-B90B-98E7DCECE209",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4104"
+          },
+          "hash": "a2bf496103b93b9c348789ca5e0225a358a75f0a",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127433$A54D80A8-F0E3-47A0-8923-BCE65BE88207",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127433$2762D7B1-6F22-4241-A762-4303C8C20C06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1158-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f94ee09223fc2ba0fa83c5283c3917bd9dc8ffa0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127433$A4449B24-5641-4F2B-ADD7-F404656D61AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1237-03-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "998139e7a2093beff9db1a3dafe7292b04bdf354",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127433$C48BD80C-1668-42D2-B8A2-611C55E96108",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q332704"
+          },
+          "hash": "d6590af9e526167eadaa35ee13a708451dc7f26e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q127433$7ADB54DF-FBBA-4A55-8ACD-C48753B3C238",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000351094637"
+          },
+          "hash": "dd1f4060ab713ffa91e52d217e6b5a1c866103de",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q127433$7D7BBF16-7D30-4528-B8B4-C311682E46E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:62317"
+          },
+          "hash": "35806a860e3a2e1e086015775f0cc0e449df9032",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127433$A885D6C7-C827-4B54-8365-6276D225D5F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=jean;n=de brienne;oc=1"
+          },
+          "hash": "5a204d18949f0f5e838e22be160a640926893be6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q127433$5A54FA38-E2E6-412D-91A3-242F015BBFEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.8038"
+          },
+          "hash": "53fb85818b284ea67a1f732873a45be5577e921b",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127433$F3F762EE-7562-470E-8FD5-473D6C94BD82",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John of Brienne Arms.svg"
+          },
+          "hash": "e49a58d0489a1ba50dd68002c5bfb896da6e7ab7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك القدس وإمبراطور القسطنطينية اللاتينية"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "král jeruzalémský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(c.1170-1237)"
+    },
+    "de": {
+      "language": "de",
+      "value": "französischer Kreuzritter, König von Jerusalem und Mitkaiser von Konstantinopel"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλέας της Ιερουσαλήμ και Αυτοκράτορας της Λατινικής Αυτοκρατορίας της Κωνσταντινούπολης"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Jerusalem and Emperor of Latin Empire of Constantinople (c.1170-1237)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Décimo Rey del Reino de Jerusalén"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراطور اورشلیم در قرن ۱۲ و ۱۳ میلادی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Jérusalem et empereur latin de Constantinople"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rei de Xerusalén e Emperador do Imperio latino de Constantinopla"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ירושלים ושליט האימפריה הלטינית של קונסטנטינופוליס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jeruzsálem királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Gerusalemme (r. 1210-1212), imperatore latino di Costantinopoli (r. 1229-1237)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Jerozolimy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Иерусалима и император Латинской империи"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Король Єрусалиму та імператор Священної Римської імперії (1170-1237)"
+    }
+  },
+  "id": "Q127433",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جان دي بريين"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "چان دى بريين"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Жан дьо Бриен"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan de Brienne"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan z Brienne"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "John o Brienne"
+    },
+    "da": {
+      "language": "da",
+      "value": "Johan af Brienne"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johann von Brienne"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης του Μπριέν"
+    },
+    "en": {
+      "language": "en",
+      "value": "John of Brienne"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Johano de Brienne"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan de Brienne"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joan Briennekoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "جان برین"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jean de Brienne"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean de Brienne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán de Brienne"
+    },
+    "he": {
+      "language": "he",
+      "value": "ז'אן דה בריין"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. János jeruzsálemi király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ժան I"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Ժան I (Երուսաղէմի արքայ)"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yohanes dari Brienne"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni di Brienne"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジャン・ド・ブリエンヌ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "장 드 브리엔"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johannes av Brienne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jan van Brienne"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Johannes av Brienne"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan z Brienne"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João I de Brienne"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João I de Brienne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн де Бриенн"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Giuvanni di Brienne"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ján z Brienne"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ivan Briennski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Бријен"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johan av Brienne"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "John de Brienne"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іоанн Брієнський"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貞德一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "布列讷的约翰"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "布列讷的约翰"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "佈列訥的約翰"
+    }
+  },
+  "lastrevid": 17540503,
+  "modified": "2025-09-17T07:52:42Z",
+  "ns": 860,
+  "pageid": 154361,
+  "sitelinks": {},
+  "title": "Item:Q127433",
+  "type": "item"
+}

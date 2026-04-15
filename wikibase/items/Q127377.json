@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gertrud of Silesia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127377$9BC0CB03-36D8-43DB-A37C-C605DFD258ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "707558"
+          },
+          "hash": "95d788f2a1d08e230ea8180be5bc29851d1ed626",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127377$DDD2534B-4D72-496B-B599-A7DD930F9743",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Piast-68"
+          },
+          "hash": "a7e569ec4434e56636b8bb907701842c059df7c8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127377$AC7892D2-394D-44F8-85A9-8DD7E659C118",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127377$BEAA665F-3E11-4B39-B27D-5D7E61885D8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127377$55542616-CDF3-4950-83EB-D65728F94038",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121551",
+              "numeric-id": 121551
+            }
+          },
+          "hash": "b0d51ef42caf46b92baa8c027e045e7d2338a23e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127377$5E24BBEA-7EFB-4B5D-90A4-2F4B96315A6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127371",
+              "numeric-id": 127371
+            }
+          },
+          "hash": "77f881193eeaecaabeec46723c3996489e7d1880",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127377$87FC7958-0AB9-4F56-9667-95FFAB6A4573",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127377$E2CB6C53-996D-4FBC-9671-294862E193CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127377$A1477757-439D-4A75-BB94-FDDC9E14654D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1268-12-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "175f5e0cfbf55ecbf96b83d3a69b38109606566a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127377$2A57724D-4C64-42B2-AD27-7F0576483DCD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2885228"
+          },
+          "hash": "abbdbc7ddb07f94ab59508d5fd5902d42e20aa30",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q127377$FE81B0A3-4F0A-4570-AE6D-0BF9A1304714",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1149"
+          },
+          "hash": "f65894a34888576bb4e6eb1a9d3be761c2b60412",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127377$E4AF926F-D533-4A00-827B-854140670CE7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gertrud of Silesia Arms.svg"
+          },
+          "hash": "d40b338a1da1df49ad7adcaae1e11771d9d24a2d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "třebnická abatyše"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "filino de Henriko Barbulo kaj Hedvigo de Silezio"
+    },
+    "es": {
+      "language": "es",
+      "value": "(c.1200–1268), abadesa de Trebnitz"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "de jongste dochter van hertog Hendrik I van Silezië en Hedwig van Meranië"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "аббатиса Требница"
+    }
+  },
+  "id": "Q127377",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gertrud van Silezië"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gertruda Slezská"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gertrud of Silesia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gertruda de Silezio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gertrudis de Silesia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gertrud van Silezië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gertruda ks. Piastówna-Śląska"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gertrudes da Silésia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gertrudes da Silésia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гертруда"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gertrud of Silesia"
+    }
+  },
+  "lastrevid": 17540455,
+  "modified": "2025-09-17T07:52:05Z",
+  "ns": 860,
+  "pageid": 154286,
+  "sitelinks": {},
+  "title": "Item:Q127377",
+  "type": "item"
+}

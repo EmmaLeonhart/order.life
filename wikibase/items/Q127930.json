@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Balderic II of Liège"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q127930$AF463E95-A3DF-48CD-9F94-BCF10424083A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Loon-24"
+          },
+          "hash": "c95e49161683547cda9b258ddd2b599520d4a0a8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127930$D670F958-4005-47DA-BBE7-492ECB34A908",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127930$93B1742B-CCAD-4999-AFBF-7FDB361D7EA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127930$721D25B5-2571-438D-816D-8B1C15DDAE34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127928",
+              "numeric-id": 127928
+            }
+          },
+          "hash": "4dd786c750025bf6df16725f42abe4948069f9c1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127930$0CB9DCC9-A6CE-46A9-9473-5435D0F764AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127930$73BE893E-A3A4-4C72-8BC4-CE812EAAA342",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1000-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bfaeffd93c9ae612a427a0a168b2db21b0ead38e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127930$FE160E24-2FAB-4316-8075-2937CB714E53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1018-07-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ffa5fe1fba27fff863e0f7c6f560b955bd8ede9d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127930$326163E1-E771-469C-9ECE-592955377E46",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q277039"
+          },
+          "hash": "e325890721fcc5053619213cd97e6a7c92445fb1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127930$1241D192-8145-44B0-A6FE-7DC7F92255F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=balderic;n=von looz"
+          },
+          "hash": "d2a67c027d2f5bbe415028b8d11c1c25960d00b6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127930$A1CD9453-C522-4D86-B792-DC8FF6763648",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Balderic II of Liège Arms.svg"
+          },
+          "hash": "7ffdb1a78aa0aa463f41cadaf8ed4ff442d60ef3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "segon príncep-bisbe del principat de Lieja"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Lüttich (1008–1018)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Liège (1008–1018)"
+    },
+    "es": {
+      "language": "es",
+      "value": "segundo príncipe-obispo del principado de Lieja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque de Liège"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus Leodiensis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bisschop van Luik"
+    }
+  },
+  "id": "Q127930",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Балдерих II от Лиеж"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Balderic II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Balderich II. von Lüttich"
+    },
+    "en": {
+      "language": "en",
+      "value": "Balderic II of Liège"
+    },
+    "es": {
+      "language": "es",
+      "value": "Baldrick II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Baldéric II de Liège"
+    },
+    "la": {
+      "language": "la",
+      "value": "Baldericus II Leodiensis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Balderik van Loon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Balderic II of Liege"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Bådwin II d' Lô"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "列日的巴尔德里克二世"
+    }
+  },
+  "lastrevid": 17540981,
+  "modified": "2025-09-17T07:58:56Z",
+  "ns": 860,
+  "pageid": 155029,
+  "sitelinks": {},
+  "title": "Item:Q127930",
+  "type": "item"
+}

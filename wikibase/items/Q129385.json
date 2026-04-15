@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jetur"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q129385$106DB85B-13F6-4E14-8625-CC9694778A51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129385$89E23C7D-BB0B-4AAE-8FD0-59C36118B756",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129385$4B089229-C638-4F1C-854D-E2B8C2C2E288",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129307",
+              "numeric-id": 129307
+            }
+          },
+          "hash": "0b146d69b9fe6d691f99d719e76896de30dbc769",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129385$08CD5A2E-6373-4F88-934B-0DD17576DC38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129385$A118EF31-9FDD-4198-A647-87E8937D983F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11927540"
+          },
+          "hash": "49ce3a4d47932cecd439052183b833aaedacc4c5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129385$4AAF7633-DF19-453D-8162-391FAC4FEAAC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jetur Arms.svg"
+          },
+          "hash": "64edf5f93fef5cfe70efbbfdd30f12aaef3aa724",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava, syn Izmaela"
+    },
+    "da": {
+      "language": "da",
+      "value": "bibelsk person, søn af Ismael"
+    },
+    "el": {
+      "language": "el",
+      "value": "ο δέκατος γιος του Ισμαήλ (βιβλικό πρόσωπο)"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Ishmael"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'e göre peygamber İsmail'in oğlu (Yaratılış 25:15)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "以實瑪利的兒子"
+    }
+  },
+  "id": "Q129385",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "قطور"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jetur"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jetúr"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jetur"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιετούρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jetur"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Iatúr"
+    },
+    "he": {
+      "language": "he",
+      "value": "יטור"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yetur"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jetur"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yetur"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊突"
+    }
+  },
+  "lastrevid": 17542405,
+  "modified": "2025-09-17T08:17:50Z",
+  "ns": 860,
+  "pageid": 156982,
+  "sitelinks": {},
+  "title": "Item:Q129385",
+  "type": "item"
+}

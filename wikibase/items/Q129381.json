@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tema"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q129381$2B0D98C6-A992-474D-BF97-0ED737BB20D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129381$73801AA1-D4CC-440D-8AF8-9512319B4BF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129381$C27BEF56-0011-45F6-8279-03523A00CEFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129307",
+              "numeric-id": 129307
+            }
+          },
+          "hash": "0b146d69b9fe6d691f99d719e76896de30dbc769",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129381$15B76725-0F26-4C4C-A793-0C7AF4BD833C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129381$FE9FF56A-98C2-4701-B298-E33F65E44AF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20101919"
+          },
+          "hash": "7577a1588dd3b2172becd7d6c99d4f9a6488a3b2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129381$059B5506-FB91-4652-B01A-A63FC6737B4C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tema Arms.svg"
+          },
+          "hash": "a111304171f0b96b051fc4c903799d6900850794",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava, syn Izmaela"
+    },
+    "de": {
+      "language": "de",
+      "value": "menschliche Bibelfigur"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Ισμαήλ (βιβλικό πρόσωπο)"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Ishmael"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנו של ישמעאל"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'e göre peygamber İsmail'in oğlu (Yaratılış 25:15)"
+    }
+  },
+  "id": "Q129381",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تيما"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "تيما (ابن اسماعيل)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Temà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Téma"
+    },
+    "da": {
+      "language": "da",
+      "value": "Tema"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tema"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θαιμά"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tema"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Teamá"
+    },
+    "he": {
+      "language": "he",
+      "value": "תימא"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tema bin Ismael"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tema"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tema (Bíblia)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tema"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "提瑪"
+    }
+  },
+  "lastrevid": 17542401,
+  "modified": "2025-09-17T08:17:47Z",
+  "ns": 860,
+  "pageid": 156977,
+  "sitelinks": {},
+  "title": "Item:Q129381",
+  "type": "item"
+}

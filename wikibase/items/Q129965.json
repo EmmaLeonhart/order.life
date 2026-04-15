@@ -1,0 +1,584 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lamech"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129965$7FBB99F0-45D6-4A8D-815A-2AA8FDB4CC7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32439"
+          },
+          "hash": "976af1fbba1ffaee87fc51db2e77870a08e0e437",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129965$9AC0BE39-DABF-4307-BB3B-3B4DD3DFF0AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129969",
+              "numeric-id": 129969
+            }
+          },
+          "hash": "80f504f3b0d65a4460da0ff30aad3b8d75a72e47",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129965$A5555955-D06B-4B72-BCD3-69256B910E2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129845",
+              "numeric-id": 129845
+            }
+          },
+          "hash": "aa6433cd784bb981e3d673300c3b6a45a3b1ace5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129965$5E486633-6FBA-4E2D-8FBD-D2D9558EDEF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129973",
+              "numeric-id": 129973
+            }
+          },
+          "hash": "22083963ce89b02d64d2907ad348f89950cb71ee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129965$9C48707D-7B95-4256-9CF6-9EDAB03E66D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129971",
+              "numeric-id": 129971
+            }
+          },
+          "hash": "1fb9afb9bd908847c1278abff59a17a48d6bbe78",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129965$AFE6ACDE-FAEE-477F-8E69-5A722836C7B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129965$497F1B21-672A-4910-8040-758E200D35C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129965$93E057AB-50CD-4C84-9417-FEA5CF2312C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129967",
+              "numeric-id": 129967
+            }
+          },
+          "hash": "5b8426d52a2ffee5dd13e7efa8ed27f23f8950bf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129965$89DA8749-1B35-4033-8832-0721EDE3067D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130386",
+              "numeric-id": 130386
+            }
+          },
+          "hash": "6882e8e0c40131f12f9573e44811191b37a15544",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129965$7C3211AC-3A28-4428-BCB6-5156D9D98697",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130384",
+              "numeric-id": 130384
+            }
+          },
+          "hash": "4199cc91e444f499f28c5f95b8d723a08a80f486",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129965$F82DE484-EFF9-4C25-9FF3-974C2A5EC28F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129965$5FBD3311-A362-4A89-B4D9-53FF02603438",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q155852"
+          },
+          "hash": "f39532cf53c97ae77d47251e3157376060c9fe92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129965$E384AEED-207D-4BAA-A969-2E935A7FB506",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lamech Arms.svg"
+          },
+          "hash": "2861db55f47cf0663288e503d0bed899700d7f9c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q129965$C3C3207D-2D18-4F6B-A2A9-01012449B8E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/862c8c0d-f342-40c4-8dce-d36a3a7d7f1c"
+          },
+          "hash": "c0faf60e09504cbc01762e680bc81089ad35648e",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "حفيد محويائيل حفيد خنوخ حفيد أدم"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Personatge bíblic, descendent de Caín"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava ze 4. kapitoly Genesis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Biblische Figur, Sohn des Methusael"
+    },
+    "el": {
+      "language": "el",
+      "value": "βιβλικό πρόσωπο, απόγονος του Κάιν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical figure, descendant of Cain (Genesis 4)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "biblia persono; Kainido"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje mencionado en la Biblia, de la genealogía de Caín"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique, descendant de Caïn"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "personaxe bíblico, descendente de Caín"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Biblijski lik, Metušaelov sin"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bibliai alak"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico, discendente di Caino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, потомок Каина"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 4:18)"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "希伯來聖經人物、該隱後裔"
+    }
+  },
+  "id": "Q129965",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "لامك"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "لامك (من نسل قايين)"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ламех"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ལ་མེག"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lèmec"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lámech"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lamech"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lemek"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lamech"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λάμεχ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lamech"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Lamech"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Lamech"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Lemeĥ"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lamec"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لمک"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lamech"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Laimeich"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Lámec"
+    },
+    "he": {
+      "language": "he",
+      "value": "למך בן מתושאל"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Lamek"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lámek"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lamekh"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lamech"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "レメク"
+    },
+    "km": {
+      "language": "km",
+      "value": "ឡាម៉េក (កូនចៅកាអ៊ីន)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "라멕"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lamech"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ламех"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lamek"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lamech"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lamech"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lameque"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lameque"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Lameh"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ламех"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lamek, Metušaelov sin"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Lámech"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ламех"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ламех"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Lameh"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lemek"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Lameki"
+    },
+    "th": {
+      "language": "th",
+      "value": "ลาเมค (เชื้อสายของคาอิน)"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Lamec"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lemek"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ламех"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لامخ"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "למך בן מתושלח"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拉麦"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "拉麦"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "拉麦"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "拉麥"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "拉麥"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "拉麦"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "拉麥"
+    }
+  },
+  "lastrevid": 17542925,
+  "modified": "2025-09-17T08:24:49Z",
+  "ns": 860,
+  "pageid": 157760,
+  "sitelinks": {},
+  "title": "Item:Q129965",
+  "type": "item"
+}

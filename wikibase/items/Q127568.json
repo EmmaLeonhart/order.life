@@ -1,0 +1,379 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ekbert von Andechs-Meranien"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q127568$DF19FAA1-5427-4E39-BE20-397B8D70FB80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00440393"
+          },
+          "hash": "be6f2a6c6098f1aa87394580b87bbe4b2dc0f214",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127568$6D454B2A-2ED6-4535-930A-A02E9917F1C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127568$F5BACBD7-30AF-4FC0-B9F2-EC57E548A53B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127568$03E37D80-2073-4215-9255-84B63842BC97",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ekbert_von_Andechs-Meranien_(1)"
+          },
+          "hash": "531200330cb3d6e1f77311d4b297406d203d8e60",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127568$91151B19-D380-46EF-969C-864E761A535B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127556",
+              "numeric-id": 127556
+            }
+          },
+          "hash": "018ee7cb0c06378c416b5af0f17713323a88dfa3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127568$33C2592F-30D6-4001-901C-3089D17C5C9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121646",
+              "numeric-id": 121646
+            }
+          },
+          "hash": "1772af0f1de33a85b1f90457712da052b6a8ada5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127568$C95048D6-2FA3-4479-B24B-5B1060FC6D17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127568$1F12200F-F1A7-4DD8-80C3-0C6286D734B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1173-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ccb96a37bf3f97c5bbd355497f88296226ee3543",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127568$AEB9AEF6-03DC-46F6-8FC8-60391AE2EADA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1237-06-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "56968ba8dab15476906efe854da0258fc10e1978",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127568$8791E273-B492-4651-838C-F5B570D53DFE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1281468"
+          },
+          "hash": "f20f32e5b2d93489a502540bda2e2f8795f52423",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127568$99B28A6D-28A5-451E-A379-FD3AE5C9BCEF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ekbert von Andechs-Meranien Arms.svg"
+          },
+          "hash": "7cef299c5cd4ecb29b8bc2b6d1dbeb95e2cb6b80",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "sacerdote alemán (1173–1237)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Bamberg"
+    },
+    "en": {
+      "language": "en",
+      "value": "German bishop"
+    },
+    "es": {
+      "language": "es",
+      "value": "(1173-1237), obispo de Bamberg"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits bisschop (-1237)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Episcop de Bamberg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "епископ Бамберга"
+    }
+  },
+  "id": "Q127568",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Екберт фон Андекс-Мерания"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ekbert de Andechs-Meranien"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ekbert z Andechsu"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Έκμπερτ του Άντεχς-Μερανίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ekberto de Andechs"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Egbert d'Andechs-Méranie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ekbert de Andech-Merano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Экберт фон Андекс-Мерания"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ekbert von Andechs-Meranien"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ekbert von Andechs-Meranien"
+    }
+  },
+  "lastrevid": 17540623,
+  "modified": "2025-09-17T07:54:16Z",
+  "ns": 860,
+  "pageid": 154543,
+  "sitelinks": {},
+  "title": "Item:Q127568",
+  "type": "item"
+}

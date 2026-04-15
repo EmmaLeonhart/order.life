@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John II of Nesle"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q128619$1463A6BE-B308-4922-AA09-4A1613F588D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128619$3FFCE3A9-E561-442C-A3F3-5D386439CE22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128619$3146ECA4-05A2-465C-92CA-506FA0F8EBDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122427",
+              "numeric-id": 122427
+            }
+          },
+          "hash": "51304e6c814ac61dfeb3e42dd5acce0ae417b663",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128619$84C863DB-9719-4456-9F8F-14C198BD68B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128619$C8F18B84-F310-4D8B-BE72-8F00550B9F56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128619$DC818BEC-E56A-40FA-97B9-4A839C5BE774",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1239-12-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32c3c122e2806b6aa9b0c9e52d48e76ffe438939",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128619$377A56F9-99CD-440C-9342-A9C20748C92B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1694730"
+          },
+          "hash": "04169e8cdbf270dc0e71fa76e985100c3e0d9bce",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128619$CCD4556C-C135-42BB-B3E1-F1782B71AE10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=jean;n=de nesle;oc=1"
+          },
+          "hash": "65c0d58f51bb97ce757eb62082de988ed35f39e3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128619$340765EE-EC64-4FF2-9D3D-4A10C6626FA8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John II of Nesle Arms.svg"
+          },
+          "hash": "f07bebbac490702738811d71f4cfe620c534b9b6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herr von Nesle und Burggraf von Brügge"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lord of Nesle"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "marquis de Bruges"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans baljuw (-1239)"
+    }
+  },
+  "id": "Q128619",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Жан II дьо Нел"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Johann II. von Nesle"
+    },
+    "da": {
+      "language": "da",
+      "value": "Johann II. von Nesle"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johann II. von Nesle"
+    },
+    "en": {
+      "language": "en",
+      "value": "John II of Nesle"
+    },
+    "es": {
+      "language": "es",
+      "value": "Johann II. von Nesle"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Johann II. von Nesle"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean II. de Nesle"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Johann II. von Nesle"
+    },
+    "it": {
+      "language": "it",
+      "value": "Johann II. von Nesle"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johann II. von Nesle"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John II of Nesle"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Johann II. von Nesle"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Johann II. von Nesle"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Johann II. von Nesle"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johann II. von Nesle"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jean II. de Nesle"
+    }
+  },
+  "lastrevid": 17541653,
+  "modified": "2025-09-17T08:07:54Z",
+  "ns": 860,
+  "pageid": 155954,
+  "sitelinks": {},
+  "title": "Item:Q128619",
+  "type": "item"
+}

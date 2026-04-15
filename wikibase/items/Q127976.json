@@ -1,0 +1,604 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theodora"
+      }
+    ],
+    "ka": [
+      {
+        "language": "ka",
+        "value": "თეოდორა (ბიზანტია)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127976$17473CA5-CF44-4B72-AB3C-C24086E07C82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "585662"
+          },
+          "hash": "4e8672596c8642d2638ea07582603cca3a0ef0e0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q127976$328B1B01-9886-42AD-8335-9F2150BCCB0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00027731"
+          },
+          "hash": "cbbc26e885bdeb644f78587ad084b0df6707e272",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127976$0A862B5F-8A56-4648-BDE7-33554FE7426C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127976$383D826F-3CA4-41C6-A9EE-1BD5C816BA7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127976$C3381DCD-999E-4832-914C-C3C52C3543BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora_(3)"
+          },
+          "hash": "5437e47f797a34a4a714feeeeb99a73096a7a313",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q127976$601C1967-8CBA-4F77-9366-42FCEC12EF83",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15022.htm#i150217"
+          },
+          "hash": "1f49bc85f67960e33046817193e46581603dc802",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127976$D21CBC73-A7F3-4BF1-9985-A4823CB040B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121949",
+              "numeric-id": 121949
+            }
+          },
+          "hash": "715ba8676c6d152016f82d168e6a9b6303f2e873",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127976$E92337C1-8396-4BAA-9DE0-1B15431995BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127972",
+              "numeric-id": 127972
+            }
+          },
+          "hash": "5ab5e2880d364d6810126761b7aa4f1c7cf8df3e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127976$22468D3F-3144-4021-A93A-2C3C7AD801E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127976$9ED23457-316A-4E16-8BFD-04920D038387",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0984-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9a4540ee884e8970189e5c1232aee79d03e77be9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127976$4535C408-794D-4AEE-A8FA-E7FDB56F210D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1056-08-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a51ddae466ba85194be214ddc26aa42a7be56c6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127976$8ADC5284-9AA5-4DAC-AACF-C19A4006D47C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q41666"
+          },
+          "hash": "495dfd3ac7655701572541312e038bc6a1a605de",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127976$3BBE3EC6-FD40-434C-BE75-C3C96B28E58B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora Arms.svg"
+          },
+          "hash": "ba8db019a55166e60b3ae0e65d15035cb3f84b67",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q127976$97D7987C-616E-45A9-B4A9-EFFD046F934F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/17933c91-3147-4c25-881e-c994881947b3"
+          },
+          "hash": "0a2427493e25b548b2dd7df3759caebf25de3d40",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "emperadriu romana d'Orient"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "byzantská císařovna-panovnice"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiserin von Byzanz"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινή Αυτοκράτειρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine Empire politician (984-1056)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Bizanca Imperio"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz bizantina"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آخرین امپراتور زن روم و یکی از موفقترین حاکمان بیزانس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bysantin keisarinna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice byzantine de 1055 à 1056"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bizánci császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice bizantina"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბიზანტია"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "동로마 제국의 여제"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Byzantijns politica (0984-1056)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarzowa bizantyjska"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "византийская императрица"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "byzantská cisárovná z Macedónskej dynastie, vládla (spolu s ďalšími spoluvládcami) v rokoch 1042 až 1056"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "византијска политичарка"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "политичарка Византијског царства (984-1056)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bizans İmparatoriçesi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "імператорка Візантії ХІ ст."
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بازنطینی سلطنت کے سیاست دان (984-1056)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马人的女皇帝与独裁者"
+    }
+  },
+  "id": "Q127976",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Theodora van Bisantium"
+    },
+    "an": {
+      "language": "an",
+      "value": "Teodora Porfirocheneta"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ثيودورا الثالثة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ثيودورا التالته"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "تئودورای مقدونی"
+    },
+    "be": {
+      "language": "be",
+      "value": "Феадора"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Теодора"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teodora"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Theodora III."
+    },
+    "de": {
+      "language": "de",
+      "value": "Theodora III."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Theodora"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεοδώρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theodora"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Teodora la 3-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teodora Porfirogeneta"
+    },
+    "et": {
+      "language": "et",
+      "value": "Theodora Porphyrogennete"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Teodora Porfirogeneta"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تئودورای مقدونی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Theodora"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théodora Porphyrogénète"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Teodora Porfiroxénita"
+    },
+    "he": {
+      "language": "he",
+      "value": "תאודורה, קיסרית האימפריה הביזנטית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Teodora III."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Theodóra bizánci császárnő"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թեոդորա (Բյուզանդիայի կայսրուհի)"
+    },
+    "id": {
+      "language": "id",
+      "value": "Theodōra"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodora Porfirogenita"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テオドラ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "თეოდორა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "테오도라"
+    },
+    "la": {
+      "language": "la",
+      "value": "Theodora"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Теодора Порфирогенита"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Theodora"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Theodora Porfyrogenita"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theodora III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teodora"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teodora"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teodora"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Teodora a III-a"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феодора"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Carica Teodora"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Theodora"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Teodora III."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теодора"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Теодора"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Theodora Porphyrogenita"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Teodora"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Феодора"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "تھیودورا پورفیروجینیتا"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Theodora"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "狄奧多拉女皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "狄奥多拉女皇"
+    }
+  },
+  "lastrevid": 17541027,
+  "modified": "2025-09-17T07:59:32Z",
+  "ns": 860,
+  "pageid": 155091,
+  "sitelinks": {},
+  "title": "Item:Q127976",
+  "type": "item"
+}

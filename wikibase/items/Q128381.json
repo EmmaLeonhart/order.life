@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jolanthe von Urach"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q128381$AED3AB32-172E-4C4D-A6ED-D5AF9BA03F7C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Urach-1"
+          },
+          "hash": "1d22e87210628259ea26b48aa666beeca7d97fab",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128381$CED6964C-B8E4-444A-83CD-B075E6A6A71B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128381$D70C7A52-13FF-4914-A9C2-7D6C62A12021",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q128381$5251E014-BA2B-4173-8D0B-E089C558D5B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Yolande_Arberg_(1)"
+          },
+          "hash": "63e75c00eab53aa92c69bf7263f30b2f3cb9ff2d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128381$3E406C25-BBBC-4263-91AE-9633889A83D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128371",
+              "numeric-id": 128371
+            }
+          },
+          "hash": "38eaf3fd2671cb24a056b4b1b22dc4d409cbc3d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q128381$122D4B79-7066-418E-8621-133CBE5A2549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122275",
+              "numeric-id": 122275
+            }
+          },
+          "hash": "c1633b085f279ac5eab0cef3714b703645959735",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128381$4CA7BE15-1E14-4E3E-BF81-53BEA361E770",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128381$6012F10E-B7BF-4EC1-8441-0338D4B2346A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1180-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9dff9634722d33196cf9c3fcacc41128beca84b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128381$601B8B99-6740-4B5D-999D-C7E717B2BF69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1218-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb1caf2c164b38e9f468fb80490df2be9de48ffe",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128381$3A5A68F1-E37B-4DF3-BC84-D8E6D95D767C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q118203735"
+          },
+          "hash": "4bf7f7a755fdeb532ae1161ea893287cd3f92b35",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128381$E694B724-1EFC-48F8-B586-3ABF82F639A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=jolante;n=von urach"
+          },
+          "hash": "4cca8f24412e3e4e66ebbae05390c259c43022c0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128381$06FD5C2B-C940-4145-A2C7-B8143FBCE7CB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jolanthe von Urach Arms.svg"
+          },
+          "hash": "edb11c1e8f93e90d0b3cbab505140179b0a266f5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1180 - 1218"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1180-1218)"
+    }
+  },
+  "id": "Q128381",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Jolanta z Urachu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jolanthe von Urach"
+    }
+  },
+  "lastrevid": 17541419,
+  "modified": "2025-09-17T08:04:50Z",
+  "ns": 860,
+  "pageid": 155634,
+  "sitelinks": {},
+  "title": "Item:Q128381",
+  "type": "item"
+}

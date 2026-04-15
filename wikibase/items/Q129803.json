@@ -1,0 +1,393 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Caleb"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q129803$82A5A1A9-792A-43D3-8B14-77E82054D467",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129945",
+              "numeric-id": 129945
+            }
+          },
+          "hash": "d0d9627eafade775ee6f37b0a8dcfc98cda7f5d6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129803$58B4F19D-BF3B-4D2B-9F59-2F82B0764EDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129803$D9BD8694-BCA3-4E3F-BB0C-E2DDFCF6C319",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129803$62052F89-C180-4970-BDF4-8455CB2925F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129694",
+              "numeric-id": 129694
+            }
+          },
+          "hash": "b9e3283e9222c28fb3d6869fe805a2f955ac6fec",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129803$5274BB9C-6AE6-431F-9CBB-33BA628ADF51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129803$707D5F1A-6331-4A64-A420-0A797AB6F81A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1484-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d84a5961b45b310fd2d804caf9034551ce6bf1c3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129803$CD0F69E5-FDA0-499B-B887-96A9435416F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1384-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "814670d67300c83bb3c11818fb73c4b8375f2070",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129803$701A9CEF-C7C3-430E-A707-DF6C3DEABE2F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q922184"
+          },
+          "hash": "5c0169830ea606921326bec3090e8916df967113",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129803$E8FA9F05-353E-4140-8E77-2E8D6C2CC2E3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Caleb Arms.svg"
+          },
+          "hash": "faab73a9a0a8d17fdc1dcb81b1d7281f8adc39e1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "am": {
+      "language": "am",
+      "value": "መጽሐፍ ቅዱሳዊ ባህሪ"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kundschafter des Stammes Juda"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical character; son of Jephunneh; representative of the Tribe of Judah during the Israelites' journey to the Promised Land (Num. 13:6)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "biblia persono"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la Biblia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage humain de la Bible"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać biblijna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский ветхозаветный персонаж"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یوشع کے ساتھی، ممکنہ طور پر سورہ المائدہ میں آنے والی شخصیت۔"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "聖經人物; 耶孚尼的兒子; 在以色列人前往應許之地的過程中猶大支派的代表（民數記13：6）"
+    }
+  },
+  "id": "Q129803",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ካሌብ"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "كالب بن يوفنا"
+    },
+    "az": {
+      "language": "az",
+      "value": "Kalib ibni Yufənna"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "কালেব"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Caleb"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Káleb"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaleb"
+    },
+    "en": {
+      "language": "en",
+      "value": "Caleb"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kaleb"
+    },
+    "es": {
+      "language": "es",
+      "value": "Caleb"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کالب بن یوفنا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caleb"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cálaeb"
+    },
+    "he": {
+      "language": "he",
+      "value": "כלב בן יפונה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaleb"
+    },
+    "it": {
+      "language": "it",
+      "value": "Caleb"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カレブ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "갈렙"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Kaleb"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Kalebas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kaleb"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kaleb"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kaleb"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "کالب بن یفنہ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caleb"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Халев"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kaleb"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kaleb"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Kalebu"
+    },
+    "th": {
+      "language": "th",
+      "value": "คาเลบ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kalev"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کالب"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "כלב בן יפונה"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "迦勒"
+    }
+  },
+  "lastrevid": 17542783,
+  "modified": "2025-09-17T08:22:57Z",
+  "ns": 860,
+  "pageid": 157543,
+  "sitelinks": {},
+  "title": "Item:Q129803",
+  "type": "item"
+}

@@ -1,0 +1,808 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Persephone"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q131681$178818DE-C239-4BE4-9240-67F2E186F9BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "403669"
+          },
+          "hash": "d09dec16a5912d8b1af7d6602f27d6f0938eaa10",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q131681$7E3F71EE-6972-4A02-9EB5-CD808E66AE0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131773",
+              "numeric-id": 131773
+            }
+          },
+          "hash": "b59e6d18c5cc062df919713549f9eb6769399f49",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131681$449A94AC-C573-4413-9F9F-A56D4286027A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131793",
+              "numeric-id": 131793
+            }
+          },
+          "hash": "35edbffdcbf399e2b3572016c07685dd84b4765c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131681$0539972D-FD87-4A9C-80D0-B8AD9DF4EA9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131863",
+              "numeric-id": 131863
+            }
+          },
+          "hash": "c1279d6460a54121dd06b05b26d1e45b66a1caf7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131681$0D3C4A6F-7290-4034-B4C4-FC45AD84419F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132850",
+              "numeric-id": 132850
+            }
+          },
+          "hash": "f5a7135eb28c37efa0983504300715583bd87ef8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q131681$EB9C41F4-584F-45F6-A2F1-2EC5F7B8E925",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131681$38604193-C7ED-4393-BAB8-A08347D0BF6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q131681$9A25385D-CDBB-4141-BD5B-E8532A4E4F00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130566",
+              "numeric-id": 130566
+            }
+          },
+          "hash": "68376623d2ebc86cba06f0fb691a6361591f3af7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131681$79DD27E9-8391-411B-BB85-956DE36673B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74656",
+              "numeric-id": 74656
+            }
+          },
+          "hash": "b9f6425dd4f87f09031ab208bb978f9c28846359",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131681$51A549D3-7D1D-4B13-BDDF-59D358851FB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74656",
+              "numeric-id": 74656
+            }
+          },
+          "hash": "5d7eea6d2e24cf4e2593a1cefb77ae9c8de10b60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131681$32D15961-126C-4F56-B085-9E479621A8F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130562",
+              "numeric-id": 130562
+            }
+          },
+          "hash": "ceb02223c1df3ac94f67a354999575976a5f0be6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q131681$26C3C5F2-AC46-4064-8082-AFC8A1EDF854",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131681$DF2F96E9-4A93-4BB8-B4CE-B3A9F3266D5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45967"
+          },
+          "hash": "c7134dc493e02d459ddaa394a20d0ea0114f7dbb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131681$65560B79-F7D1-498D-A38A-767305D3F322",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Persephone Arms.svg"
+          },
+          "hash": "1a776a0f4ac462299730ba1d80f756bddb5e1dcc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "الجمال الاغريقى"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "багіня грэцкай міталёгіі"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "গ্রিক দেবতা জিউস ও কৃষির দেবী দেমেতেরের কন্যা এবং পাতালের রাণী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "deessa grega dels inferns pel seu casament amb Hades"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "v řecké mytologii dcera nejvyššího boha Dia a bohyně Démétry a manželka vládce podsvětí Háda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Zeus, Toten-, Unterwelt- und Fruchtbarkeitsgöttin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek goddess of spring and the queen of the underworld"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "en helena mitologio, filino de Zeŭso kaj Demetero; edzino de Hadeso"
+    },
+    "es": {
+      "language": "es",
+      "value": "diosa de la mitología griega"
+    },
+    "et": {
+      "language": "et",
+      "value": "Kreeka jumalanna"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسطوره یونان باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "kreikkalainen jumalatar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "divinité de la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Raíña do inframundo na mitoloxía grega"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "ἡ τῆς Δήμητρος θυγάτηρ"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Görög mitológiai istennő, az Alvilág úrnője"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Chi Grik nke mmiri na eze nwanyị nke okpuru ụwa"
+    },
+    "it": {
+      "language": "it",
+      "value": "dea greca della primavera e regina dell'oltretomba"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の女神"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화의 여신"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "hevjina Hades an go yên Plutonê"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "griichesch Gëttin"
+    },
+    "my": {
+      "language": "my",
+      "value": "နွေဉီးရဲ့ နတ်သမီး၊ မြေအောက်ကမ္ဘာရဲ့ ဘုရင်မ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "gresk gudinne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Godin van voorjaar in Griekse mythologie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "bogini w mitologii greckiej"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "د يونان د پسرلي ښځينه خدای او د ځمکتل ملکه (د لرغوني يونان نکل)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "deusa das ervas, flores, frutos e perfumes"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "zeița lumii morților și a vegetației în mitologia greacă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "в древнегреческой мифологии богиня плодородия и царства мёртвых"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "dia ìnfira dâ mituluggìa greca"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "grška boginja pomladi in kraljica podzemlja"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde bahar tanrıçası ve yeraltı kraliçesi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "грецька богиня весни"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希臘神話中的冥后，穀物與豐收女神"
+    }
+  },
+  "id": "Q131681",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Persephone"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بيرسيفون"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "برسيفونى"
+    },
+    "as": {
+      "language": "as",
+      "value": "পাৰ্চিফোনি"
+    },
+    "az": {
+      "language": "az",
+      "value": "Persefona"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Персефона"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Persephone"
+    },
+    "be": {
+      "language": "be",
+      "value": "Персефона"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Пэрсэфона"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Персефона"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "পার্সিফোন"
+    },
+    "br": {
+      "language": "br",
+      "value": "Persefone"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Perzefona"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Persèfone"
+    },
+    "co": {
+      "language": "co",
+      "value": "Parsefuna"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Persefona"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Персефона"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Persephone"
+    },
+    "da": {
+      "language": "da",
+      "value": "Persefone"
+    },
+    "de": {
+      "language": "de",
+      "value": "Persephone"
+    },
+    "el": {
+      "language": "el",
+      "value": "Περσεφόνη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Persephone"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Persephone"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Persephone"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Persefono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Perséfone"
+    },
+    "et": {
+      "language": "et",
+      "value": "Persephone"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pertsefone"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پرسفونه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Persefone"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Perséphone"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Peirsifiné"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Perséfone"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Περσεφόνη"
+    },
+    "he": {
+      "language": "he",
+      "value": "פרספונה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पर्सिफ़ोनी"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Perzefona"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Perszephoné"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պերսեփոնե"
+    },
+    "id": {
+      "language": "id",
+      "value": "Persefone"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Persephone"
+    },
+    "io": {
+      "language": "io",
+      "value": "Persefone"
+    },
+    "it": {
+      "language": "it",
+      "value": "Persefone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペルセポネー"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Persefone"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პერსეფონე"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Персефона"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "페르세포네"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Persefonê"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Persefonê"
+    },
+    "la": {
+      "language": "la",
+      "value": "Persephone"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Persephone"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Persefonė"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Persefone"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Персефона"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "പെർസഫനി"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯄꯔꯁꯦꯐꯣꯅꯤ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "पर्सेफनी"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Persephone"
+    },
+    "my": {
+      "language": "my",
+      "value": "ပဲဆဲဖိုနီ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Persephone"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Persefone"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Persephone"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Persefone"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Persefòna"
+    },
+    "os": {
+      "language": "os",
+      "value": "Персефонæ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Persefona"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "پېرسېپونه"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Perséfone"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Perséfone"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Persefona"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Персефона"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Persefone"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Pirsèfuni"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Persephone"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Perzefona"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Persefoné"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Perzefona"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Персефона"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Persefone"
+    },
+    "th": {
+      "language": "th",
+      "value": "เพอร์เซฟะนี"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Persephone"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Persephone"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Persefona"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Персефона"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Persephone"
+    },
+    "war": {
+      "language": "war",
+      "value": "Persephone"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "珀耳塞福涅"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "普西芬妮"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "珀耳塞福涅"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "波瑟芬妮"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "波瑟芬妮"
+    }
+  },
+  "lastrevid": 17544570,
+  "modified": "2025-09-17T08:47:11Z",
+  "ns": 860,
+  "pageid": 160066,
+  "sitelinks": {},
+  "title": "Item:Q131681",
+  "type": "item"
+}

@@ -1,0 +1,654 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nimrod"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129427$A39C9BCD-79B7-480D-8767-38A1C2544D44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "79284"
+          },
+          "hash": "6d93442a52cef633be337e89495353b656a9cbd9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129427$9D100B60-8C81-43B7-83FD-2AD615F1D3F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129357",
+              "numeric-id": 129357
+            }
+          },
+          "hash": "988794bf270c92737bde5eee2b532d134449091d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129427$0D6C155E-2D7F-4952-814E-2108D7FD640D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129463",
+              "numeric-id": 129463
+            }
+          },
+          "hash": "551732bd64e1f518683bb04b4a9744d65f5d5877",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129427$383C8396-873D-47CB-97C7-FC6FE6D62ACD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129427$F3F968E1-F87E-4269-AE0B-3B79CEBFA19D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129427$2072992F-AAC8-492A-930E-7047D8BF5B17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129632",
+              "numeric-id": 129632
+            }
+          },
+          "hash": "23bc29b8e7bfd89c00209176eb3fd0c552e96623",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129427$5E9C8387-79A7-4EAE-8D4F-B18119B243F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129461",
+              "numeric-id": 129461
+            }
+          },
+          "hash": "2d9c5a3829eb81068ee7533cc6842b58334e7b7b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129427$24B4948A-78FD-4647-BE30-FDC4C1EAF13C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129427$CE7610AF-F8F9-4679-8028-54D3B40DC447",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1751-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1943c4db12d6e153fc9f0d34c57db08a0715973e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129427$E82A9930-846E-47EC-B7C3-CCE68464F570",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1638-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b6c63f1d4d4ece004cd18a2e0849d8a9ecb6e2e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129427$3D299159-61FD-4A0E-9270-D56E7CC94E1F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q201861"
+          },
+          "hash": "6643e5e080369451c5ffbed60603bf25e230678f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129427$C58C5835-64B9-457A-8547-97A480D1675C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nimrod Arms.svg"
+          },
+          "hash": "35c2af030a418a9b5dd7ed4cbbf75c3b2ba5fc44",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك بابل"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "старазапаветны цар"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava – král a lovec"
+    },
+    "de": {
+      "language": "de",
+      "value": "altorientalischer Held und König"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Shinar (Genesis 10)"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje bíblico; rey de Sinnar, Mesopotamia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه سومری"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Raamatussa mainittu Sinearin kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage biblique du livre de la Genèse, fils de Cush, qui est le père des Ethiopiens"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית; בנו של כוש בן חם"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "lik iz Starog zavjeta"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "mezopotámiai király a Bibliában, illetve népmesékben és legendákban"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Keyê Şînarê"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bijbels figuur"
+    },
+    "om": {
+      "language": "om",
+      "value": "Ilma Kuush jabaa fi adamsaa beekamaa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "personagem bíblico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "герой, воитель-охотник и царь"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "biblisk person"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Şinar kralı"
+    }
+  },
+  "id": "Q129427",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Nimrod"
+    },
+    "am": {
+      "language": "am",
+      "value": "ናምሩድ"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Nebrond"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "نمرود"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "نمرود"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Nemrod"
+    },
+    "az": {
+      "language": "az",
+      "value": "Nəmrud"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Німрод"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "নমরুদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nimrod"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Намруд"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "نەمروود"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Nimrod"
+    },
+    "csb": {
+      "language": "csb",
+      "value": "Nimroda"
+    },
+    "da": {
+      "language": "da",
+      "value": "Nimrod"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nimrod"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νεβρώδ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nimrod"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Nimrod"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nemrod"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Nimrod"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نمرود"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Nimrod"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nimrod"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Niomrod"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Nimrod"
+    },
+    "he": {
+      "language": "he",
+      "value": "נמרוד"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Nimrud"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Nimród"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Նեբրովթ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Namrudz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nimrod"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ニムロド"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ნებროთი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "니므롯"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Nemrûd (qeralê sumerî)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Nemroth"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Nimrodas"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Nimroda"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Нимрод"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Raja Namrud"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Nimrod"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nimrod"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Nembroth"
+    },
+    "om": {
+      "language": "om",
+      "value": "Naamrud"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਨਮਰੂਦ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nimrod"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "نمرود"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nimrod"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Nimrod"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нимрод"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "نمرود"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nimrod"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Nimrod"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Nimrod"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Нимрод"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Нимрод"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Nimrod"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nimrod"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "நிம்ரோது"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Намруд"
+    },
+    "tg-latn": {
+      "language": "tg-latn",
+      "value": "Namrud"
+    },
+    "th": {
+      "language": "th",
+      "value": "นิมโรด"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Nemrod"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nemrut"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Німрод"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "نمرود"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nimrod"
+    },
+    "war": {
+      "language": "war",
+      "value": "Nimrod"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "נמרוד"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宁录"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "宁录"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "宁录"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "寧錄"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "寧錄"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "宁录"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "寧錄"
+    }
+  },
+  "lastrevid": 17542441,
+  "modified": "2025-09-17T08:18:19Z",
+  "ns": 860,
+  "pageid": 157039,
+  "sitelinks": {},
+  "title": "Item:Q129427",
+  "type": "item"
+}

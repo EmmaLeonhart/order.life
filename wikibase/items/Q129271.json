@@ -1,0 +1,383 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peter Karlotus"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q129271$4BF90450-4C0B-4178-AF26-FD9287C115D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Capet-411"
+          },
+          "hash": "11a67a0142e16e9b4bd1faae1c0afda04b301075",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129271$EA960976-3D7F-4852-874E-0C4EAC72538E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129271$CB78D35A-2D62-47AA-869A-6F5600A03B44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q129271$93E56E16-7A5C-4D94-80F9-7B1BFB6007B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pierre_France_(27)"
+          },
+          "hash": "a7b3600d412fee0c89a54e420f30ccefce26d0f2",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129271$F9475114-C49C-40EF-8C25-1BFEB418183E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122857",
+              "numeric-id": 122857
+            }
+          },
+          "hash": "ab0d98012b67c7e607cc9afff22516ad95fcfa23",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129271$BA349123-4844-4A26-9966-39D57718856C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129271$32CADC70-E4C8-4DCB-9DCB-4CA98BBB06CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1209-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e1e3a253d8d6f07ad73002823eac581483791d75",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129271$E3AD546B-717C-488C-96E6-7502DC2E8006",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1249-10-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6ee207a19d4aff304c75c8867cc07e1e897ec454",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129271$BF4331A3-2594-4E0D-9A2B-2BF205F82890",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q446765"
+          },
+          "hash": "3c2b8c468552a2efa74527a60c097289050da8c2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q129271$B1ED84B6-B8F0-4F11-BB2F-D332FB645E7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=pierre charlot;n=capetiens"
+          },
+          "hash": "29024dd3777e7e51724b2046d994cfeb7c5424fc",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129271$18AFACD3-93A5-4DEF-A174-70A795E5AE2F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peter Karlotus Arms.svg"
+          },
+          "hash": "f625425c44838dbe3e1b4f60af119e1e469f34f9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "preláu francés (1209–1249)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "fill il·legítim de Felip August i bisbe de Noyon"
+    },
+    "de": {
+      "language": "de",
+      "value": "unehelicher Sohn König Philipps II. August von Frankreich, Bischof und Graf von Noyon"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1209-1249)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "ekstergeedza filo de Filipo la 2-a de Francio"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils naturel de Philippe Auguste"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico francese"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans prelaat (1209-1249)"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "evesque francés"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1209-1249)"
+    }
+  },
+  "id": "Q129271",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pierre Charlot"
+    },
+    "be": {
+      "language": "be",
+      "value": "П’ер Шарло"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pere Charlot"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pierre Charlot"
+    },
+    "de": {
+      "language": "de",
+      "value": "Peter Karlotus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peter Karlotus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Pierre Charlot"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pierre Charlot"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pierre Charlot"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pierre Charlot"
+    },
+    "he": {
+      "language": "he",
+      "value": "פטר קרלוטוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pierre Charlot"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pierre Charlot"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pierre Charlot"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Peter Karlotus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Pierre Charlot"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Pierre Charlot"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pierre Charlot"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pierre Charlot"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пьер Шарло"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pierre Charlot"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pierre Charlot"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "皮埃爾·夏洛特"
+    }
+  },
+  "lastrevid": 17542301,
+  "modified": "2025-09-17T08:16:29Z",
+  "ns": 860,
+  "pageid": 156830,
+  "sitelinks": {},
+  "title": "Item:Q129271",
+  "type": "item"
+}

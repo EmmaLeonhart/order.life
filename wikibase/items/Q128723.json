@@ -1,0 +1,338 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Günther I von Schwarzburg"
+      },
+      {
+        "language": "en",
+        "value": "Gunther I von Schwarzburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128723$18D51225-C694-42B3-A2B8-B0FF79DBE35E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "651508"
+          },
+          "hash": "c636979f7277c9e3514e96f8a4a8643b401979ff",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q128723$4EAEEF27-AB40-49EE-A4DB-A7F73F0BA2D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00330356"
+          },
+          "hash": "8653c982bad19b82f093ec3ab6e74bb19a570156",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q128723$75F97751-54AB-40E0-AB48-06845FB9B34F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127576",
+              "numeric-id": 127576
+            }
+          },
+          "hash": "c2dc29925cb1c1e25ae91a62f4d1530f866d26ac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q128723$ABC84376-DF79-450B-B3EB-7879B3165B93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Schwarzburg-26"
+          },
+          "hash": "0a35d2d464d95007a738e1f18e14aff312a5272e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128723$129373C6-B5DD-45C2-BFD6-186368F0A2B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128723$51BF6127-695E-4283-ACDF-9E6AEAD7D1B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128723$CBF3F1E1-520C-41FC-8DB6-0E8AFF0A692A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122486",
+              "numeric-id": 122486
+            }
+          },
+          "hash": "2d24aaa47f11dbe1afb487f214bc727167a8d76b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128723$7C3291F1-006F-42DA-A774-9B9F4CADB8A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143821",
+              "numeric-id": 143821
+            }
+          },
+          "hash": "d99525d758c96547e6ba6c2055bedd8e9f9038c9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128723$ED8C9758-D6DC-4007-95E2-D56EEE76ECCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128723$81C7F365-6A5E-489D-89AC-4A2DBAF93C18",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75d0b4773aface83de4236d8e314d20d6b4aaa04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128723$33B4AA5E-A60C-40FE-84F3-A49A114EAA7E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1109-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6170f8ef29e9c8480d1ecf07020ed6808e9c50d3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128723$C1EC5C99-44B4-4B7D-AF0F-3D43B57B2153",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q25418063"
+          },
+          "hash": "62eb4c444685716bc494e1a6dd3edb47dbacdd4a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q128723$75068008-E2CC-4742-B8F9-8E468277BAB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gunther;n=von schwarzburg;oc=10"
+          },
+          "hash": "b00fae7cb1db4793af4103f7bb256c166d9703f6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128723$C2544D5D-7BDD-493C-B121-43CEE7EBDD5E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Günther I von Schwarzburg Arms.svg"
+          },
+          "hash": "9a2e1a0e6ec5e68457a7b9de810a0db1d9f66031",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1060-1109)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1060-1109)"
+    }
+  },
+  "id": "Q128723",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гюнтер I фон Шварцбург"
+    },
+    "de": {
+      "language": "de",
+      "value": "Günther I (III) von Schwarzburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Günther I von Schwarzburg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Günther I von Schwarzburg"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Günther I (III) von Schwarzburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Günther I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гюнтер I фон Шварцбург"
+    }
+  },
+  "lastrevid": 17541755,
+  "modified": "2025-09-17T08:09:16Z",
+  "ns": 860,
+  "pageid": 156094,
+  "sitelinks": {},
+  "title": "Item:Q128723",
+  "type": "item"
+}

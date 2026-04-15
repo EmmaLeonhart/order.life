@@ -1,0 +1,602 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Helena, Queen of Hungary"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q127940$5BA03699-D6C9-4568-B17F-02431A040DB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "769945"
+          },
+          "hash": "a3d524a70c698724d94b79ce1f4e210b5a5f025e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q127940$A57C39B5-A062-444B-826B-E713DA5CCF27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020680"
+          },
+          "hash": "7c52268922084e35cc84ae381d9c56712c193d22",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q127940$B3DE6567-7E76-46D1-8C7F-F29E7CC7BF2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121997",
+              "numeric-id": 121997
+            }
+          },
+          "hash": "de393e18755dfc42cdb242d0b99adfdf3af4a40a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127940$5704A6C1-870C-4ADB-B7D8-EE6E3E4D84D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127044",
+              "numeric-id": 127044
+            }
+          },
+          "hash": "a0594f449a142fdd91854af7c9d7fff1a35771f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127940$19957D1D-9D6A-4FCC-BBCB-78D887D803E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127942",
+              "numeric-id": 127942
+            }
+          },
+          "hash": "ac6bac402e14e7e6cf6c6f562dbcd7835532d9f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127940$53EC3D33-6310-4494-AF07-42E9C164AF06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122023",
+              "numeric-id": 122023
+            }
+          },
+          "hash": "a7acd969565cad06400c4e9eef14514c592cb0b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127940$2C7A899B-5BFD-487B-88B6-0D183150D875",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127944",
+              "numeric-id": 127944
+            }
+          },
+          "hash": "31b4228ccbd7e5eae7c249f6cebc7b813b4241a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q127940$097C3D36-9F57-495E-B04B-F92F5B73E170",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LBNJ-3C7"
+          },
+          "hash": "5125461294532d1aca683bf64f971d0d4992decd",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q127940$CE67485A-86B9-43C8-BE1F-C755D7AF6548",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Raška-16"
+          },
+          "hash": "2d66d30c8a517e5338260d23ced80f0f928cff41",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127940$388E98AE-1E23-44F4-9DC4-BDBC3F9AFB10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127940$9F501EE5-3754-471E-A1A1-1494CBE8A7FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q127940$6EDB8291-26D3-4331-AEC3-03FB43DFA0F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Helena_of_Raška_(1)"
+          },
+          "hash": "07962ea632b720b9af7c6870adfc8e55d1f12fa3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127940$45233ECD-40A9-4979-992E-87D0006D3478",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121919",
+              "numeric-id": 121919
+            }
+          },
+          "hash": "bb3c8f04742c968e6958f349297d72adacd10637",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q127940$458BD9E5-9715-421E-BD3C-0215EBA6BB1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11408.htm#i114075"
+          },
+          "hash": "8c364afe3ed5ba3879bb94862ea076d00641ab15",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127940$8E4B7376-D024-426A-845F-1EE8809F4F76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128253",
+              "numeric-id": 128253
+            }
+          },
+          "hash": "a7d37add652dd33ab0b4a1f48c88d3fbc054f4c9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127940$8F28B0C4-0870-4E6C-BF45-AE7A9095B64E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128255",
+              "numeric-id": 128255
+            }
+          },
+          "hash": "99200e38647f8b8cb4efba852b879b75e1caa93f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127940$7523DDC9-6DBA-4EAB-BDB8-239E781639B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127940$69D5566D-50A6-4DFB-81E2-3AC80ED2D90C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1109-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3eceab8303a2d1b14928b12642da8620d9bbd615",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127940$DCB12B67-0BFE-416C-BE46-98BE3DC76F3A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1146-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "995e74b11aef5866f8082faf9b10f5fd99f53832",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127940$36D43DFE-3F03-4108-8029-C720871F8E35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q267849"
+          },
+          "hash": "52a30e174d59725f0a23792f212efaaedd6f1e55",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q127940$626BF860-4941-40D5-A28E-418AC9E65AF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.573"
+          },
+          "hash": "508c551b765ded6a7832e9c599d55d93b9918c1d",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127940$AE446EF8-5FAA-4E2C-9277-6AD7B2F09A98",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Helena, Queen of Hungary Arms.svg"
+          },
+          "hash": "bb7134a2f36b250f9b4909bc2f57c20e9c01a897",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bs": {
+      "language": "bs",
+      "value": "raška plemkinja i kraljica Ugarske"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "reina d'Honria"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "uherská královna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Königin von Ungarn"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen consort of Hungary"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina consorte de Hungría"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine de Hongrie"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "hrvatsko-ugarska kraljica"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "(1109-1146) szerb hercegnő, magyar királyné"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kraljica žena Ogrske"
+    }
+  },
+  "id": "Q127940",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هيلانة الصربية"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Илона Сербская"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ілона Сербская"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Jelena Vukanović"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Elena de Sèrbia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Helena Srbská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Helena von Serbien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελένη Βασίλισσα της Ουγγαρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Helena, Queen of Hungary"
+    },
+    "es": {
+      "language": "es",
+      "value": "Helena de Rascia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hélène Vukanović"
+    },
+    "he": {
+      "language": "he",
+      "value": "ילנה מראשקה, מלכת הונגריה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Jelena Vukanović"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ilona magyar királyné"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ilona, Ratu Hongaria"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elena di Rascia"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Елена Вукановиќ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Helena van Servië"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Elena a Serbiei, Regină a Ungariei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Илона Сербская"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jelena Vukanović"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Helena, Queen of Hungary"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јелена Вукановић"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Јелена Вукановић"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Jelena Vukanović"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Helena av Raška"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Венгрия королевасы Илона"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ілона Сербська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞爾維亞的伊洛娜"
+    }
+  },
+  "lastrevid": 17540991,
+  "modified": "2025-09-17T07:59:04Z",
+  "ns": 860,
+  "pageid": 155042,
+  "sitelinks": {},
+  "title": "Item:Q127940",
+  "type": "item"
+}

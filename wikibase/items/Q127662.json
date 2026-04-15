@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry III, Count of Wettin"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q127662$26AD1EE4-75CA-4C63-B1D9-C3CD971FBAA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wettin-6"
+          },
+          "hash": "20aa69115b7294c1188b73b508f02c073071f8dd",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q127662$91A9BF8A-EC3D-48A0-AFEC-3D5D07B04CD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127662$FE4903BF-8E59-4821-A1CA-D9C6E0BAEB32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q127662$71B89030-D512-4021-BF1D-F72FE046D535",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p901.htm#i9002"
+          },
+          "hash": "f923229c7ede0c811b6ed4daa722cf7ace87e0e9",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q127662$DBEB601B-1AA8-4C61-9837-0F591A986EC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121704",
+              "numeric-id": 121704
+            }
+          },
+          "hash": "b5eb16384dae40cbe660ac361bf2d97822068dad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q127662$39F62D33-4553-458E-8A11-ED8C0B597E6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127660",
+              "numeric-id": 127660
+            }
+          },
+          "hash": "4ec6c90f5984655b199e366386fda15c2a02662d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127662$91F63255-6952-4BD8-8CAE-2AD644D14E18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q127662$313C301D-089D-43DE-BFE9-F68E24F4976E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1205-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0620f30f0b8aa6654126c01fdc32675769f955b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127662$049F90C6-D3E6-4999-A1AD-66456F371E54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1217-03-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c45ab7a1e9860342869596e857fc6a8b06b64e5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127662$35D84ECD-579A-4C3A-A365-51C9F6DE4E43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q27430010"
+          },
+          "hash": "df8313234da7c6937bc6751539f55282b1e2b4fc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127662$2BA3963F-1BF2-4AF1-AC20-B93EF503C070",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry III, Count of Wettin Arms.svg"
+          },
+          "hash": "03f9647e2c15e992d984a4ebb0eaa7b71eef4c31",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=9002"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Веттина"
+    }
+  },
+  "id": "Q127662",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich III. Wettinský"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry III, Count of Wettin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Henry III, Count of Wettin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих III"
+    }
+  },
+  "lastrevid": 17540717,
+  "modified": "2025-09-17T07:55:29Z",
+  "ns": 860,
+  "pageid": 154669,
+  "sitelinks": {},
+  "title": "Item:Q127662",
+  "type": "item"
+}

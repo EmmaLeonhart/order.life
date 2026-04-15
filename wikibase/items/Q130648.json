@@ -1,0 +1,530 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hellen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q130648$97B77271-0A1F-42E8-9F8F-90725492BEC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "394196"
+          },
+          "hash": "9f764319d575330a3f2fb787f5416b5822f5d484",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q130648$CF939041-9266-4C47-8E82-06233EDB9DA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90504",
+              "numeric-id": 90504
+            }
+          },
+          "hash": "a27abcbb5441f50f2e84478905e0cc7c4d0ca8b0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130648$C5B60B42-DF5E-4F61-BA26-DE7EE1D7A6B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131332",
+              "numeric-id": 131332
+            }
+          },
+          "hash": "1464fee9769a2b0027d5b16c6f3f39c97fecb481",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130648$F265879E-31A2-459A-89B1-79BEA0FC71B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131334",
+              "numeric-id": 131334
+            }
+          },
+          "hash": "40392718a86373405299ba6b7368e8435608a0ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q130648$738643ED-74E7-40C5-9B0E-F6AF075F7637",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130648$4BFD9D20-5BE2-4522-8AE0-CBA4AC6AEE0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q130648$E454AD19-7C44-44C0-BE82-A6253C3E58D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130189",
+              "numeric-id": 130189
+            }
+          },
+          "hash": "5936a47a4705670df26ac5391963c1be0ca858a7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130648$266660F1-4658-4E97-9A05-DBE1935E1D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75153",
+              "numeric-id": 75153
+            }
+          },
+          "hash": "ca44041ece5404ada8e5dcf70550bb50946d2657",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q130648$C278F621-B0AA-41AA-8179-0CF9805CE6FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132042",
+              "numeric-id": 132042
+            }
+          },
+          "hash": "5c8be290774f1a1d8d6ec0670475d7e8cf974247",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130648$EC02E42D-FAC6-41C9-9009-0FF4D5A23CC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130648$5B04106E-4472-4BDA-8993-A49F383AA911",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q336428"
+          },
+          "hash": "23159ab580a9a097fc00ac4f97e7e4c17769f2be",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130648$22FC958B-6599-4FDC-90E9-B6C42FC25176",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hellen Arms.svg"
+          },
+          "hash": "65e6d1826f9286c6943a05a9aeff75af850fc5f0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "міталягічны прабацька элінаў"
+    },
+    "de": {
+      "language": "de",
+      "value": "Stammvater der Hellenen in der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythological progenitor of the Hellenes"
+    },
+    "es": {
+      "language": "es",
+      "value": "antepasado legendario de todos los pueblos griegos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "ancêtre mythologique des Grecs"
+    },
+    "he": {
+      "language": "he",
+      "value": "אביהם המיתולוגי של ההלנים"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai személy"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, eponimo degli Elleni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の人物。古代ギリシア人の名祖"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, zoon van Deukalion en Pyrrha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கிரேக்ககத்தின் தொன்மவியல் முன்னோடி"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "персонаж давньогрецької міфології"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希臘人的神話祖先"
+    }
+  },
+  "id": "Q130648",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هيللين"
+    },
+    "az": {
+      "language": "az",
+      "value": "Ellin"
+    },
+    "be": {
+      "language": "be",
+      "value": "Элін"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Элін"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Елин"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "হেল্লেন"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hellen"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hel·len"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hellén"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hellen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Έλλην"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hellen"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Heleno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Helén"
+    },
+    "et": {
+      "language": "et",
+      "value": "Hellen"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Helen"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هلن"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Hellen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hellen"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἕλλην"
+    },
+    "he": {
+      "language": "he",
+      "value": "הלן"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hellén"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հելլեն"
+    },
+    "io": {
+      "language": "io",
+      "value": "Hellen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elleno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヘレーン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "헬렌"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Hellên"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Hellên"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hellen"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Helėnas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hellen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hellen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hellen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Heleno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эллин"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Hellen"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Hellén"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Helen"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хелен"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Хелен"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Helen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hellen"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஹெல்லன்"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Helen"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hellen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Еллін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "赫楞"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "赫楞"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "赫楞"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "赫楞"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "赫楞"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "赫楞"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "赫楞"
+    }
+  },
+  "lastrevid": 17543568,
+  "modified": "2025-09-17T08:33:20Z",
+  "ns": 860,
+  "pageid": 158678,
+  "sitelinks": {},
+  "title": "Item:Q130648",
+  "type": "item"
+}

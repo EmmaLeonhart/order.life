@@ -1,0 +1,727 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tantalus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q131717$256B4717-CDC8-4D25-A455-6431C271A67B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "338270"
+          },
+          "hash": "ba32095d098e78f8e28f17bc582267b3eadce70f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q131717$930A1020-19AC-46C3-A3B5-91C562E12B9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131154",
+              "numeric-id": 131154
+            }
+          },
+          "hash": "61b61de81271a0502cfb18e70f4ade948fbb78f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$297FDB51-32E9-4278-96FB-212B425F5759",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132697",
+              "numeric-id": 132697
+            }
+          },
+          "hash": "7eee56686f4ecbfa951d8865982ccc97df2a9823",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$49BDCCAD-CAF9-43F4-BA52-82D2A5CA1280",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132321",
+              "numeric-id": 132321
+            }
+          },
+          "hash": "38f8a72582f2e6d029af6834e72caba32d7aeb11",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$854D2ABF-6A34-4F35-BE41-ABFFF9FEAFC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132977",
+              "numeric-id": 132977
+            }
+          },
+          "hash": "bd5fe76271a3dd60fce48cc1fde03751a7566266",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q131717$3B5C27C7-A013-44AB-9AD0-0D4429EEC19C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$8DE508E6-7235-4708-920C-9177A52DFF32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q131717$157BC387-A400-468F-A4B5-36CD29C26D8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130692",
+              "numeric-id": 130692
+            }
+          },
+          "hash": "741b552453dfa914b786e80176a960d48a706999",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$A58B8216-3BF6-4F91-BC12-BFDD0E8D73AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130706",
+              "numeric-id": 130706
+            }
+          },
+          "hash": "ccf713b6af693d283406553794db57121b36562e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$CAE70028-4799-4DDB-9034-C4AB35DEA9B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131372",
+              "numeric-id": 131372
+            }
+          },
+          "hash": "69ee6690c4c50775774896c9e1bc7d6757170e0b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$2D785429-1FFB-4C9C-89B4-FEDFAA1E49F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130091",
+              "numeric-id": 130091
+            }
+          },
+          "hash": "a4ca8a8334ca936d40c7769c4885df51aaa8a473",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$81151A0E-9CFB-44FE-89E3-3A644B4AD963",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132975",
+              "numeric-id": 132975
+            }
+          },
+          "hash": "373b628f256d0f919e6ef1115026377dbe303d83",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$E8A4055A-C7C0-45E3-9D52-4CB9D65A8946",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132976",
+              "numeric-id": 132976
+            }
+          },
+          "hash": "5b53b8fd67fb07db86eaa739aa56bf70262a3296",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131717$502ADF4B-DD09-4348-B805-1317F44511F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133620",
+              "numeric-id": 133620
+            }
+          },
+          "hash": "8126e4d72a83cf3a8591c33b6b5a62bb8af6ed70",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131717$AAA67AE9-9685-4EAC-8DEE-9E1D766627EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74656",
+              "numeric-id": 74656
+            }
+          },
+          "hash": "5d7eea6d2e24cf4e2593a1cefb77ae9c8de10b60",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131717$521DE691-3EF7-4281-A451-D22F1AD1D54A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130027",
+              "numeric-id": 130027
+            }
+          },
+          "hash": "0b3f3ff4e621383c1d806d80841adc71b8bca122",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q131717$AAF9B874-F068-487A-BD73-C69713D67B88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131717$CE9B965A-CB48-4DF9-A488-6EA6990A8F3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q182101"
+          },
+          "hash": "23dc691d46a8e6cb284e002b052908026b337688",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131717$FAE2C4D2-467E-4D3B-8D4F-CB58A24838B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tantalus Arms.svg"
+          },
+          "hash": "fb0e5d2425a1d3cfeaf380c471f5965683d63096",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شخصية أسطورية إغريقية"
+    },
+    "da": {
+      "language": "da",
+      "value": "karakter i den græske mytologi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Zeus in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey mítico de Frigia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "henkilö kreikkalaisessa mytologiassa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "héros de la mythologie grecque, fils de Zeus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "personaxe mitolóxico, fillo de Zeus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Görög mitológiai alak"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Zeus, legato al famoso supplizio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシャ神話の登場人物、ゼウスの子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화의 등장인물로, 제우스의 아들"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, zoon van Zeus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "mitológico rei da Frígia ou da Lídia na mitologia grega"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "мифологический царь Сипила"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "karaktär i grekisk mytologi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde tanrı Zeus'un oğlu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "nhân vật trong thần thoại Hy Lạp, con trai của Zeus"
+    }
+  },
+  "id": "Q131717",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Tantalos"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "تانتالوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Tantal"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тантал"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Tantal"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tàntal"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tantalos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Tantalos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tantalos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τάνταλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tantalus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tantalo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tántalo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Tantalos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Tantalo"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Tántalu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تانتالوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Tantalos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tantale"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tantalas"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Tántalo (mitoloxía)"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Τάνταλος"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Tantalus"
+    },
+    "he": {
+      "language": "he",
+      "value": "טנטלוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Tantal"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tantalosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Տանտալոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tantalos"
+    },
+    "io": {
+      "language": "io",
+      "value": "Tantalos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tantalo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "タンタロス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "탄탈로스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Tantalos"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Tantalos"
+    },
+    "la": {
+      "language": "la",
+      "value": "Tantalus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Tantalas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Тантал"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ടാൻടലസ്"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tantalos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tantalus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Tantal"
+    },
+    "os": {
+      "language": "os",
+      "value": "Тантал"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tantal"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tântalo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Tantal"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тантал"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tantal"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Tantalos"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Tantal"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Тантал"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Тантал"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Tantal"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tantalos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tantalos"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Тантал (мифология)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тантал"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Tantal"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tantalus"
+    },
+    "war": {
+      "language": "war",
+      "value": "Tantalus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "坦塔洛斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "坦塔洛斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "坦塔洛斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "坦塔洛斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "坦塔洛斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "坦塔洛斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "坦塔洛斯"
+    }
+  },
+  "lastrevid": 17544602,
+  "modified": "2025-09-17T08:47:36Z",
+  "ns": 860,
+  "pageid": 160102,
+  "sitelinks": {},
+  "title": "Item:Q131717",
+  "type": "item"
+}

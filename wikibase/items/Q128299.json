@@ -1,0 +1,412 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria Komnene, Queen of Hungary"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q128299$6DD73524-E9C7-411A-A80F-6389DBAA2454",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "307007"
+          },
+          "hash": "d27ddd367b6776826a063d49beec70fe4a4cbaca",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q128299$F00282AE-1455-4597-B4A0-4310BE60364B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q128299$22A84CB3-4543-4D75-AFC6-88DE7A071FB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q128299$103C4BD8-F07D-443D-95D4-4E18E2F2454A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria_Komnene,_Queen_of_Hungary_(1)"
+          },
+          "hash": "5cfc47a1b57b5989661c02e25105614475bc8670",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q128299$C3851A92-81E8-4305-B26E-D8F6E132EF47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127942",
+              "numeric-id": 127942
+            }
+          },
+          "hash": "3f17e9c62e880b6dd58879021996c7f78338b6e2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q128299$CC931D67-6B76-49CF-9699-6F9B82C6088E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122223",
+              "numeric-id": 122223
+            }
+          },
+          "hash": "feb84d8625e30da3a7fd4ab98dd6ddc6415efe58",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q128299$6A16090B-CD15-457D-B7CA-3293938107A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q128299$F0DC8D17-DAA3-4CB1-9E40-D40D792590DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1144-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "33417ae0f86a9ed5a784e61b97290772bf7e6f7b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q128299$18CC2835-B08A-4419-8318-0C09464EBDD3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1190-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e6b055307b7a1d5c23a3c148db6363f6c841a780",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q128299$5FB3D7AC-4343-4666-9D0F-6479DF50F10F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q260019"
+          },
+          "hash": "70fc74af8fbb51338e36c294bc564534c4f530d0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q128299$3D46C4CC-CE71-4990-8B14-A04E679EF066",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.6001"
+          },
+          "hash": "319fb09dc023ea7297de15b6e9db733ac94be681",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q128299$286E4215-4116-4ADC-B394-5A95ECD4FABA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria Komnene, Queen of Hungary Arms.svg"
+          },
+          "hash": "dc564a7467021c26c635a4ef3472012d954318ad",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийска принцеса и унгарска кралица"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "reina consort d'Hongria"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "provdána za uherského krále Štěpána IV."
+    },
+    "de": {
+      "language": "de",
+      "value": "Königin von Ungarn"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασίλισσα της Ουγγαρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen of Hungary"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Nećakinja cara Manuela I. Komnena"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "(1144?-1190?) királyné, IV. István felesége"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koningin uit Byzantijnse Rijk (1144-1190)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Венгрии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Macaristan kraliçesi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "венгерская королева, внучка византийского императора Иоанна II Комнина"
+    }
+  },
+  "id": "Q128299",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Мария Комнина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maria Comnena"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marie Komnéna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maria Komnene von Byzanz"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Maria Komnene von Byzanz"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρία Κομνηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria Komnene, Queen of Hungary"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Maria Komnene, Queen of Hungary"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Maria Komnene, Queen of Hungary"
+    },
+    "es": {
+      "language": "es",
+      "value": "María Comnena"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marie Comnène"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Marija Komnena, kraljica Ugarske"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Komnéna Mária magyar királyné"
+    },
+    "id": {
+      "language": "id",
+      "value": "Maria Komnena, Ratu Hongaria"
+    },
+    "it": {
+      "language": "it",
+      "value": "Maria Comnena (regina d'Ungheria)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マリア・コムネナ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Maria Comnena"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maria Komnena"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Maria Komnena"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария Комнина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марија Комнин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Maria Komnena"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Maria Komnini"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марія Комніна (королева Угорщини)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Мария Комнина"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "玛利亚·科穆宁娜"
+    }
+  },
+  "lastrevid": 17541337,
+  "modified": "2025-09-17T08:03:46Z",
+  "ns": 860,
+  "pageid": 155524,
+  "sitelinks": {},
+  "title": "Item:Q128299",
+  "type": "item"
+}

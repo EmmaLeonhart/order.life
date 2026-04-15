@@ -1,0 +1,778 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Neptune"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q130670$2F051EB4-9A16-4B9C-98DC-1E71490CA766",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130670$F6D21AA2-23EA-4EEC-B4BD-AE688980641A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q130670$0EF47F97-2D63-40FD-BA38-C9D413EE846F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130005",
+              "numeric-id": 130005
+            }
+          },
+          "hash": "7f3ab5179f6bfa0fcb7dc36cd64bd00682ae3d80",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130670$DB30DB1F-623A-4035-80ED-90A2E4E5C52A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132141",
+              "numeric-id": 132141
+            }
+          },
+          "hash": "a4a871873063999e798d9355dd33612a8208bceb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130670$D677407F-7E27-4B49-9AF8-51C3A7304EF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130872",
+              "numeric-id": 130872
+            }
+          },
+          "hash": "b7af37685844838ebcb444a6057a398fbf7777f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130670$5E6F8FBF-A43C-4E0E-9A68-D60391C2B7DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132142",
+              "numeric-id": 132142
+            }
+          },
+          "hash": "39254ebfa5b716d26973adf44f1037e165f3d9fb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q130670$200A3A69-292B-45BE-AB34-539AB7AB0D26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132028",
+              "numeric-id": 132028
+            }
+          },
+          "hash": "a97d62001d8bf2aa910f51c0ba62cf3031fe83c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q130670$88C15BF9-ED76-4060-8B30-656059B38A50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q130670$221C69FB-A5A7-48BD-B844-FD221B003B65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3954"
+          },
+          "hash": "57ce61f433da1b9e7444c5f1925dac559b18c6b5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q130670$E2B07821-9A86-4D63-881A-2F54B23F72F8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Neptune Arms.svg"
+          },
+          "hash": "a070437f1e35a77e0b902ebb30d9366097ca75f5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إله المياه والبحار في الأساطير الرومانية، يُعتبر معادلًا للإله الإغريقي بويسدون"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "рымскі бог мора"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "শুদ্ধ জল ও সমুদ্রের রোমান দেবতা"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský bůh vod"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk havgud"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Gott der fließenden Gewässer und des Meeres"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman god of water, particularly the sea, considered equivalent to the Greek Poseidon"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Roman god of water and the sea"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "romia dio de la maro"
+    },
+    "es": {
+      "language": "es",
+      "value": "dios romano del agua dulce y del mar"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalaisten veden jumala"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dieu de la mythologie romaine"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Dia Rómhánach uisce agus na farraige"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Römischi Gott vom Meer und Wasser"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "jee Raueagh awiney as ny marrey"
+    },
+    "he": {
+      "language": "he",
+      "value": "אל הים הרומי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Rimski bog mora"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "A vizek és a tengerek istene a római mitológiában"
+    },
+    "it": {
+      "language": "it",
+      "value": "dio del mare nella mitologia romana"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ神話における海の神"
+    },
+    "la": {
+      "language": "la",
+      "value": "deus Romanus, Graece Poseidon, ad maria fontes lacus et terrae tremores pertinens"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "réimesche Gott"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "dia de la Roma antiga"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Jūras dievs romiešu mitoloģijā"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "havguden i romersk mytologi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "een figuur uit de Romeinse mythologie. Hij was oorspronkelijk een god van de golven en van alle stromend water; later meer bepaald een god van de zee"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk havgud"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਨੈਪਟੁਨ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski bóg"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "deus romano da água e do mar"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "deus romano da água e do mar"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "zeu roman al apei și al oceanelor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "в древнеримской мифологии бог морей и потоков"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "diu di l'acqua ntâ mituluggìa rumana"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "starorímsky boh mora a riek, ekvivalent starogréckeho Poseidóna"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски бог воде и мора"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk havsgud"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma mitolojisinde deniz ve su tanrısı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньоримське божество хмар, дощу й вод"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "thần La Mã"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马的神祇"
+    }
+  },
+  "id": "Q130670",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Neptunus (mitologie)"
+    },
+    "an": {
+      "language": "an",
+      "value": "Neptún"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "نبتون"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "نبتون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Neptunu"
+    },
+    "az": {
+      "language": "az",
+      "value": "Neptun"
+    },
+    "ban": {
+      "language": "ban",
+      "value": "Néptunus (mitologi)"
+    },
+    "be": {
+      "language": "be",
+      "value": "Нептун, міфалогія"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Нэптун"
+    },
+    "bew": {
+      "language": "bew",
+      "value": "Nèptunus"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Нептун"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "নেপচুন (পুরাণ)"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཉི་ཕུའུ་ཏུན།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Neptunus"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Neptun"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Neptú"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "نێپتوون"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Neptun"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Neifion (duw)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Neptun"
+    },
+    "de": {
+      "language": "de",
+      "value": "Neptun"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Neptun"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νεπτούνους"
+    },
+    "en": {
+      "language": "en",
+      "value": "Neptune"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Neptune"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Neptune"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Neptuno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Neptuno"
+    },
+    "et": {
+      "language": "et",
+      "value": "Neptunus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Neptuno"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نپتون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Neptunus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Neptune"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Netun"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Neiptiún"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Neptuno"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Neptun"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Neptioon"
+    },
+    "he": {
+      "language": "he",
+      "value": "נפטון"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "नेप्च्यून"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Neptun"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Neptunus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Նեպտուն"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Neptuno"
+    },
+    "id": {
+      "language": "id",
+      "value": "Neptunus"
+    },
+    "io": {
+      "language": "io",
+      "value": "Neptunus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Neptúnus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nettuno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ネプトゥーヌス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ნეპტუნი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "넵투누스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Neptunus"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Neptunus"
+    },
+    "la": {
+      "language": "la",
+      "value": "Neptunus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Neptun"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Netun"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Neptūnas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Neptūns"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Neptiona (andriamanitra)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Нептун"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "നെപ്റ്റ്യൂൺ"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯅꯦꯞꯇꯨꯟ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "नेपच्यून"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Neptunus"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Nettunu"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Nettuno (dio)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Neptun"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Neptunus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Neptun"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Neptune"
+    },
+    "os": {
+      "language": "os",
+      "value": "Нептун"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Neptun"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Netun"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "نپتون (خرافات)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Neptuno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Netuno"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Neptun"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нептун"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Нептун"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Nittunu"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Neptun"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Neptún"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Neptun"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Neptuni (mitologji)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Нептун"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Neptunus"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Neptuni"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "நெப்டியூன்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Neptün"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Нептун"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "Нептун"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нептун"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Neptun (xudo)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Neptune"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Neptunus (mythologie)"
+    },
+    "war": {
+      "language": "war",
+      "value": "Neptune"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "尼普顿"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "涅普頓"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尼普顿"
+    }
+  },
+  "lastrevid": 17543588,
+  "modified": "2025-09-17T08:33:36Z",
+  "ns": 860,
+  "pageid": 158708,
+  "sitelinks": {},
+  "title": "Item:Q130670",
+  "type": "item"
+}

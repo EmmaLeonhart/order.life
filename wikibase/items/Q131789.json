@@ -1,0 +1,601 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Endymion"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q131789$7E5110E5-92A0-4365-AAC9-2C6A42BA4F39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "395119"
+          },
+          "hash": "4c3d79d952ffed2cabd774b16e10a1ce395f9c1f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q131789$98855CA9-01F9-4551-9995-BE923E1A235B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133030",
+              "numeric-id": 133030
+            }
+          },
+          "hash": "c91c919207b6c46c09f03eb0fd019bd68930e206",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131789$8255399D-CA4F-4A5F-BC38-32E36250B15A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133027",
+              "numeric-id": 133027
+            }
+          },
+          "hash": "988050959cd5ea43b7e6ab10a99d3e67fd90b6ca",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131789$35A869BF-ACD7-4DFA-A9E6-DEFEE9A4B549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133029",
+              "numeric-id": 133029
+            }
+          },
+          "hash": "cae0aee7a55e7a5075c4130737b2340a8bf3543e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131789$93D238A7-3A97-4638-80C4-D53569F43F06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133028",
+              "numeric-id": 133028
+            }
+          },
+          "hash": "d7ab2de86703cec04b480ee365a80f56e9b8d0c0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q131789$59EBBA76-0B1D-4C6D-A8DA-1BCCA2F3F550",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131789$03C1F29C-3B0C-44D8-9C48-366B5A35E7DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q131789$9481DBCE-0293-44DB-8316-107B4A00B691",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133025",
+              "numeric-id": 133025
+            }
+          },
+          "hash": "3b9f17e074c85c825f6cac6c30e597a1cb3f693f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131789$11F64232-D5F2-4A61-BDC6-E8624FB9C451",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133026",
+              "numeric-id": 133026
+            }
+          },
+          "hash": "a5d1cb5b3891134de1b0b9669c926829c4ab796b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131789$EE17D578-A67C-4287-9CDA-79F90A5F0797",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132991",
+              "numeric-id": 132991
+            }
+          },
+          "hash": "4c57d49e2069df015c9f3eefe876c6ed0b4f222e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131789$A74C21B7-F817-4F42-913A-C8552383FB3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130602",
+              "numeric-id": 130602
+            }
+          },
+          "hash": "4000c80235d77fd5d8ba85748a515ecc93b55faf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q131789$698407A8-E8CC-456D-BED8-C84C4E0C00A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134160",
+              "numeric-id": 134160
+            }
+          },
+          "hash": "4f4028821594ab097bd7badeabb50d1ba86b80f9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q131789$0B9B2E4F-1D7F-4DBF-8FF6-1B4357D42CB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131775",
+              "numeric-id": 131775
+            }
+          },
+          "hash": "bb9c6f366aaa806051214797850606216da54057",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q131789$FDE225EF-B9AC-42AE-99D4-F318898129F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132607",
+              "numeric-id": 132607
+            }
+          },
+          "hash": "71133620a86236f2e9b1559e7af452bf6d3b89b5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q131789$F6E8F35A-B353-424E-BF2A-2F9AC8CA4FDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q131789$473D6B62-2E4D-492A-937F-9CAD7738DBE1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q272047"
+          },
+          "hash": "ccb74927610ad693af6478b2a310b6a529e9433c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q131789$5C820588-191E-4770-BF26-FEA202B25869",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Endymion Arms.svg"
+          },
+          "hash": "42c3d187cd572f5d6c51874ebe0e7b53fa07afc0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "'n aantreklike Aioliese skaapwagter, jagter of koning"
+    },
+    "az": {
+      "language": "az",
+      "value": "Qədim Roma mifologiyasında ov ilahəsi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Aethlius in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje del mito griego"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות במיתולוגיה היוונית"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Etlio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話の登場人物"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화의 등장인물"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "oseba v grški mitologiji; Etlijev sin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "yngling i den grekiska mytologin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古希腊神话"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "希腊神话人物"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "希腊神话人物"
+    }
+  },
+  "id": "Q131789",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Endumion (mitologie)"
+    },
+    "az": {
+      "language": "az",
+      "value": "Endimon"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ендимион"
+    },
+    "br": {
+      "language": "br",
+      "value": "Endymion"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Endimió"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Endymión"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Endymion"
+    },
+    "de": {
+      "language": "de",
+      "value": "Endymion"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ενδυμίωνας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Endymion"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Endimiono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Endimión"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Endimion"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اندومیون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Endymion"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Endymion"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Endimión"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἐνδυμίων"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנדימיון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Endümión"
+    },
+    "io": {
+      "language": "io",
+      "value": "Endimion (mitologio)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Endimione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エンデュミオーン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ენდიმიონი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "엔디미온"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Endîmion"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Endîmion"
+    },
+    "la": {
+      "language": "la",
+      "value": "Endymion"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Endimionas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ендимион"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Endymion"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Endymion"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Endymion"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Endimião"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эндимион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Endimion"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Endymión"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Endimion"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ендимион"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ендимион"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Endimion"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Endymion"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Endymion"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ендіміон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "恩底弥翁"
+    }
+  },
+  "lastrevid": 17544672,
+  "modified": "2025-09-17T08:48:32Z",
+  "ns": 860,
+  "pageid": 160174,
+  "sitelinks": {},
+  "title": "Item:Q131789",
+  "type": "item"
+}

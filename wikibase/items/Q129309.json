@@ -1,0 +1,865 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isaac"
+      },
+      {
+        "language": "en",
+        "value": "Isaac son of Abraham"
+      },
+      {
+        "language": "en",
+        "value": "Isaac  son of Abraham"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129309$252B2CE5-BD9A-41E1-B965-9A37ECE865B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "336060|79273|322093"
+          },
+          "hash": "3f1e9f41348fcb6cf3caefb06f6aab80126d6ecc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q129309$0696AA39-A101-4E75-BF08-D0F06EA6B9CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85871",
+              "numeric-id": 85871
+            }
+          },
+          "hash": "95ff0e4d7bbe898502b514faa19cf34f7b5d42f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129309$14BB1ABC-931C-4994-837B-2E0ECE9AA824",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85226",
+              "numeric-id": 85226
+            }
+          },
+          "hash": "52289db4f4edeab48f627b91dd9ad92a08e307e5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129309$10D33285-1FF7-4D9E-8E62-E85B87F223C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129309$A2ABC926-01DB-42BC-8B23-8385AA837090",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129309$55A3133A-78B8-45D4-9987-EC6440466FF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86387",
+              "numeric-id": 86387
+            }
+          },
+          "hash": "2655d5f23267bbf22000394e5bafb4fcb308c8e8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129309$FCB12A3F-DF36-4AF2-8571-47B13FDE288A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85228",
+              "numeric-id": 85228
+            }
+          },
+          "hash": "6ebf12ae95b8b6cdbd47fa23fc1f1d67ebdcfaaa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129309$4596862E-FD93-44F5-96B6-B923647A1DD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86389",
+              "numeric-id": 86389
+            }
+          },
+          "hash": "3548e360066ba9473d832be3ab1cf83d4bd05388",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129309$9F69B7C2-EFCA-4645-A98D-987B111CE48C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129309$301E1750-5212-4F75-A377-5C1AA32E3268",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1851-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5570ec3c84bb1165d6b5fbb2850c506db69316d1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129309$445AEDFB-7499-4318-82F0-CD6F5D037CF3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1533-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e543b919821d7edf69739dbf563cc35d50b7f479",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129309$DF7F0850-3784-4921-8A15-F345CA4E3327",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q671872"
+          },
+          "hash": "dd9b99996408415abe2f819aa51095ab3a32f05d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q129309$132E829C-CB02-485A-A33E-57FE14665D16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002452409934"
+          },
+          "hash": "f63ad7a8e3f20d498e8044e36614fe515d31ed79",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129309$5C2BC3C3-8123-4B21-96CE-76E899BE2C60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isaac Arms.svg"
+          },
+          "hash": "3bdf066cbea8f42e3d13506220c2326522c17191",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q129309$F6071B59-0129-40DD-88A6-EB573A289CD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/3e12fd0e-ff2e-4dd2-ab64-cca290b0462d"
+          },
+          "hash": "db372977cffab6af04070dd5b30e66273b629c6c",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "نبي عند الاسلام والمسيحية واليهودية، ابن إبراهيم"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "বাইবেলীয় চরিত্র"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "segon fill d'Abraham, després d'Ismael"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "исламан пайхамар"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "کوڕی ئیبراھیم"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblický patriarcha"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ffermwr, heusor (1851-1671)"
+    },
+    "da": {
+      "language": "da",
+      "value": "bibelsk person"
+    },
+    "de": {
+      "language": "de",
+      "value": "zentrale Figur des jüdischen Glaubens"
+    },
+    "el": {
+      "language": "el",
+      "value": "πρόσωπο της Παλαιάς Διαθήκης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical character"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "homo menciita en la Biblio kaj la Korano, filo de Abrahamo"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la Biblia, hijo de Abraham y Sara"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پیامبری در ادیان ابراهیمی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Raamatun patriarkka"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la Bible et du Coran, fils d'Abraham et de Sarah"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "fáidh agus naomh ón Sean-Tiomna"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "en Sohn vom Abraham"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחד משלושת אבות עם ישראל"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bibliai személy"
+    },
+    "id": {
+      "language": "id",
+      "value": "adalah putra Abraham dari istrinya Sara"
+    },
+    "it": {
+      "language": "it",
+      "value": "eroe e patriarca degli ebrei, figlio di Abramo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖書の登場人物"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "иудаизм, христиан және ислам діндердің тұлғасы"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "pêxember"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "библиски лик, син на Авраам"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aartsvader"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać biblijna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "personagem bíblico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Авраама"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İslam Peygamberi"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "bibliyadagi personaj, Avraamning oʻgʻli"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "theo do thái giáo, kitô giáo và hồi giáo: vị tổ phụ thứ 2 của người do thái và người Ả Rập, sau Tổ phụ Abraham"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希伯来圣经人物、亚伯拉罕之子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "希伯來聖經人物、亞伯拉罕之子"
+    }
+  },
+  "id": "Q129309",
+  "labels": {
+    "ace": {
+      "language": "ace",
+      "value": "Ishaq"
+    },
+    "af": {
+      "language": "af",
+      "value": "Isak"
+    },
+    "am": {
+      "language": "am",
+      "value": "ይስሐቅ"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "إسحاق"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اسحاق"
+    },
+    "az": {
+      "language": "az",
+      "value": "İshaq"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ісак"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ісаак"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Исаак"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ইসহাক"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཨི་སཱག"
+    },
+    "br": {
+      "language": "br",
+      "value": "Izaag"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Isak"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Isaac"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Исхьакъ"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Isaac"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیسحاق"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Izák"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Isaac"
+    },
+    "da": {
+      "language": "da",
+      "value": "Isak"
+    },
+    "de": {
+      "language": "de",
+      "value": "Isaak"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "İshaq"
+    },
+    "ee": {
+      "language": "ee",
+      "value": "Isak"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ισαάκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Isaac"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Isaak"
+    },
+    "es": {
+      "language": "es",
+      "value": "Isaac"
+    },
+    "et": {
+      "language": "et",
+      "value": "Iisak"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Isaak"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسحاق"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Iisak"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Ísakur"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Isaac"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Izaäk"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Íosác"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Isaac"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Isaak"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Ishaaq"
+    },
+    "he": {
+      "language": "he",
+      "value": "יצחק"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "इसहाक"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Izak"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Izsák"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Իսահակ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ishaq"
+    },
+    "it": {
+      "language": "it",
+      "value": "Isacco"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イサク"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Iskak Darmo Suwiryo"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ისააკი"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Isḥaq"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Ысқақ"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಐಸ್ಯಾಕ್"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이사악"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Îshaq"
+    },
+    "la": {
+      "language": "la",
+      "value": "Isaac"
+    },
+    "lad": {
+      "language": "lad",
+      "value": "Its.hak"
+    },
+    "lbe": {
+      "language": "lbe",
+      "value": "ИсхӀакъ идавс"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Izaokas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Īzāks"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Isaka"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Исак"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഇസ്ഹാഖ് നബി"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Isak"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Izaäk"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Patriarken Isak"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Isaac"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Izaak"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "حضرت اسحاق"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "اسحاق"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Isaac"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Isaac"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Isaac"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Isac"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Исаак"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Ысхаак"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "اسحاق عليہ السلام"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "حضرت اسحاق علیہ السلام"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Izak"
+    },
+    "so": {
+      "language": "so",
+      "value": "Nabi Isxaaq C.S."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Isaac"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Исак"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Isak"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Isaka"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஈசாக்கு"
+    },
+    "te": {
+      "language": "te",
+      "value": "ఐజాక్"
+    },
+    "th": {
+      "language": "th",
+      "value": "อิสอัค"
+    },
+    "tk": {
+      "language": "tk",
+      "value": "Yshak"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Isaac"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İshak"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "ئىسھاق ئەلەيھىسسالام"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ісаак"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "اسحاق"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Isaak"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Isaac"
+    },
+    "war": {
+      "language": "war",
+      "value": "Isaac"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "以撒"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "יצחק אבינו"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "以撒"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "以撒"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "以撒"
+    }
+  },
+  "lastrevid": 17542331,
+  "modified": "2025-09-17T08:16:53Z",
+  "ns": 860,
+  "pageid": 156881,
+  "sitelinks": {},
+  "title": "Item:Q129309",
+  "type": "item"
+}

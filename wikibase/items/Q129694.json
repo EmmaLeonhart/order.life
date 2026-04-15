@@ -1,0 +1,566 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Miriam"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q129694$65CD5045-F102-4821-9568-A7E293D1C33B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "421535"
+          },
+          "hash": "75053b1f2cfc8f3301ad3abc315011ebc4ff877f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q129694$B5CC1D4B-D909-4259-8445-7261305A846C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129694$74C1983A-CECB-48E3-AD2E-0BA7F4189B1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q129694$1B7B07C5-5101-4FDA-8264-A3D768ED78CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129684",
+              "numeric-id": 129684
+            }
+          },
+          "hash": "2cb8ae1f4fdf2e0ebdab78dc12a58b17a1a8e4ca",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q129694$88C3F77E-93DA-4C3D-961E-DF8C75B65E2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129803",
+              "numeric-id": 129803
+            }
+          },
+          "hash": "71c1fbb5655991415c349b32bec28d13a21fae36",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q129694$33235B82-0733-47B1-9CAB-1D810AAD481E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85220",
+              "numeric-id": 85220
+            }
+          },
+          "hash": "90b38457447c45d7c351e27b0e08807c11e9b366",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q129694$A1B8C347-1B17-4459-8D2F-A714C04BFD52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129590",
+              "numeric-id": 129590
+            }
+          },
+          "hash": "d80ad622deb9dbf0259ce473c92d1dc1ad814239",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q129694$B8090D16-2737-4152-AAC4-75A3D5231391",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q129694$7381B8E0-9B77-441F-A281-DBD04DEE3E66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e7df256e389e91afb4bf544e4fd35740c5bb3f3d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q129694$26422B05-84B9-4056-92E8-B5AC69EB4EFF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1274-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c77932ac3c56b34afc5e55298a3ae4c4e23e51ba",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q129694$C888E5DE-81BA-456D-96E8-C1AF89741E8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1938388"
+          },
+          "hash": "9dee6f346c753a458b80309d1a5e339a4d4a32b8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q129694$3D4D13A2-A0A8-41D2-B48D-3704ECCBB0C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Miriam Arms.svg"
+          },
+          "hash": "c6a6377cb0da7e5a61b7a9ed50642035a7ea3958",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أخت النبيين موسى وهارون -عليهما السلام-"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "библейски персонаж"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "বাইবেলের পুরাতন নিয়ম অনুসারে মুসার জ্যেষ্ঠ্য ভগিনী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "personatge bíblic, germana de Moisès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická prorokyně, sestra Mojžíšova"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schwester Moses und Aarons und eine Prophetin, altes Testament"
+    },
+    "en": {
+      "language": "en",
+      "value": "sister of Moses and Aaron"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje bíblico, hermana de Moisés y Aarón"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Raamatun henkilö"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sœur de Moïse"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, בת עמרם ויוכבד, משבט לוי, אחות אהרון ומשה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Mózes és Áron testvére, ószövetség"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Աստվածաշնչյան կերպար: Մովսեսի և Ահարոնի քույրը"
+    },
+    "it": {
+      "language": "it",
+      "value": "sorella di Mosè e Aronne"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Schwëster vum Moses an Aaron"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "søsteren til Moses og Aron"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dochter van Amram, zus van Mozes"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "sòrre de Moisés dins l'Ancian Testament"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "księzniczka"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "personaj biblic, sora lui Moise"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, дочь Амрама и Иохаведы, сестра Аарона и Моисея"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "enligt Gamla Testamentet syster till Aron och Mose"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "שוועסטער פון משה אום אהרן"
+    }
+  },
+  "id": "Q129694",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ሜሪያም"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "مريم أخت موسى وهارون"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܡܪܝܡ (ܚܬܗ ܕܡܘܫܐ)"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مريم اخت موسى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марыя"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мириам"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মিরিয়াম"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ལུང་སྟོན་མ་མིར་ཡམ།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Míriam"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mirjam"
+    },
+    "da": {
+      "language": "da",
+      "value": "Mirjam"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mirjam"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαριάμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Miriam"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Mirjam"
+    },
+    "es": {
+      "language": "es",
+      "value": "Miriam"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میریام"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Mirjam"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Myriam"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Mirjam"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Miriam"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרים הנביאה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Miriám"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մարիամ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Miryam"
+    },
+    "it": {
+      "language": "it",
+      "value": "Miriam"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ミリアム"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "미리암"
+    },
+    "la": {
+      "language": "la",
+      "value": "Maria (Moysis soror)"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Mirjam"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Mirjama"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Миријам"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mirjam"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mirjam"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Miriam"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਮਿਰੀਆਮ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Miriam"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Miriã"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Miriam"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мириам"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mirjam"
+    },
+    "so": {
+      "language": "so",
+      "value": "Miryama"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Miriami"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Мирјам (библија)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mirjam"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Mariamu (dada wa Musa)"
+    },
+    "th": {
+      "language": "th",
+      "value": "มิเรียม"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Miryam"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Міріам"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مریم"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "מרים"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米利暗"
+    }
+  },
+  "lastrevid": 17542683,
+  "modified": "2025-09-17T08:21:28Z",
+  "ns": 860,
+  "pageid": 157397,
+  "sitelinks": {},
+  "title": "Item:Q129694",
+  "type": "item"
+}

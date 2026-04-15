@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Башкорд"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q127128$290A4E32-E793-4161-86FC-9226F867516D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q127128$363C01B3-926E-4BCE-AE1A-84C1BE9AD5C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q127128$0B4AF921-DCD1-441F-8DA8-11C76E87FC18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121346",
+              "numeric-id": 121346
+            }
+          },
+          "hash": "df10fe7f24209b2334eadde91c9eab7cb767dfff",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q127128$56E7D1F5-FEFF-454B-8C6B-BF1B9AF1D244",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q127128$02085F7A-FBD4-4F8E-AEB1-9BE0BF61669A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fdbc0ae74f9ddb30925435ee14575ddd56f1e64",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q127128$DE49681B-12EA-4D83-B5C9-327E3A3CCEA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q32361824"
+          },
+          "hash": "d1c0b4204421b90981ed6a21045b91ed16708223",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q127128$ADB373E0-334D-4388-822C-B7E1243BF740",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=baszkord;n=de coumanie"
+          },
+          "hash": "1bdcaa45a513936ce7350c475ffff9bb691921cd",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q127128$7BC7CFE6-2A92-44A0-A781-A69A62D728BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Башкорд Arms.svg"
+          },
+          "hash": "0ba3c5316665a4d2e0770e704e6582cba2bf8c35",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cuman chieftains"
+    }
+  },
+  "id": "Q127128",
+  "labels": {
+    "ba": {
+      "language": "ba",
+      "value": "Башҡорт хан"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Башкорд"
+    },
+    "en": {
+      "language": "en",
+      "value": "Башкорд"
+    },
+    "es": {
+      "language": "es",
+      "value": "Башкорд"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bashkord"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Башкорд"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Baszkord"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Башкорд"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Башкорд"
+    }
+  },
+  "lastrevid": 17540219,
+  "modified": "2025-09-17T07:49:00Z",
+  "ns": 860,
+  "pageid": 153952,
+  "sitelinks": {},
+  "title": "Item:Q127128",
+  "type": "item"
+}
