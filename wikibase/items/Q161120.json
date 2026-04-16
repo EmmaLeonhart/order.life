@@ -1,0 +1,730 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Astyages"
+      },
+      {
+        "language": "en",
+        "value": "Astyages, king of the Medes"
+      },
+      {
+        "language": "en",
+        "value": "الملك أستياجس  بن الملك سياخاريس"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74410$1787250E-5874-458B-8D7F-1A08F7E86B29",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "95786"
+          },
+          "hash": "2bcb7d263e2a9f1673f1683ea7b2eace379f176d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74410$8A9638BD-90DA-4A66-81D7-A63C87CEA929",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738295"
+          },
+          "hash": "47634bbe95662b2b0f07461edd17c90b19372bdc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74410$12E30371-1802-4B06-8E5F-2E026C39CC85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74368",
+              "numeric-id": 74368
+            }
+          },
+          "hash": "13247c7287b75f29b4685eafb4e35249963291cc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74410$6DA3B391-1587-445C-9ED6-251CA6C39F59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135515",
+              "numeric-id": 135515
+            }
+          },
+          "hash": "51469e26252927e2201f1a182f3672fc6242c15c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74410$14094052-5905-41DD-A525-B8627CD331F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99450",
+              "numeric-id": 99450
+            }
+          },
+          "hash": "cef0cf934d4734a8ad083da9b5f320ed4888c92d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q74410$0D8B32DF-9506-4DDD-B9BD-198202F60E5F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك أستياجس"
+            }
+          },
+          "hash": "1845ce4fb2620b27163ce96ec41424367d1a55a1",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74410$780EAD73-C5CB-4D9A-BC1B-0990465E3E06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74410$75370365-7E82-4651-A624-5D2B49DA749D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q74410$71A6FC1D-13A2-4D94-8BD9-FE939327FBE7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "بن الملك سياخاريس"
+            }
+          },
+          "hash": "02cff4d883d3734937f296c7987f93f9e073c717",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74410$242BBE10-6937-4A99-83F1-A4064FCBE244",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74413",
+              "numeric-id": 74413
+            }
+          },
+          "hash": "174cdb831e2ceb17a7e0490edf4ff554a3764562",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74410$8AC3A1D4-FB66-463B-9BD6-B5DCD098B177",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74455",
+              "numeric-id": 74455
+            }
+          },
+          "hash": "41048588ec70d3a1dbd831e28ddd47daae793f62",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74410$FA3FB8E3-1178-499D-9EB9-66536AA6B8B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74452",
+              "numeric-id": 74452
+            }
+          },
+          "hash": "97f5a58cc6add0f298676e51260459dfe957aa69",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74410$CCAEF2C1-6F48-4DB2-AF58-84F5D07921D6",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "الملك أستياجس /بن الملك سياخاريس/"
+            }
+          },
+          "hash": "b6a5e3c29da089c280f121e3c5c2885ec4805b7b",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74410$EFD74C7B-88C2-4A75-8008-EDB0705D22D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74410$CC7E24D5-A07E-45D9-9630-B40013FADE90",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ead4b176d2f630cc476effcc8864a5df658a825e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74410$614AD7EF-7048-43B0-8F05-71FB6C8FFDCF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca0f7e18475fc648e1a286f4ce5787e81e10b187",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74410$B634D2FF-4804-461C-A570-845E18E9714D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q271527"
+          },
+          "hash": "735cdd235acd791580caf3e6561da56174aba12a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74410$2547E0AD-886B-4B4B-BB14-4B7D72B5A7B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006079286768"
+          },
+          "hash": "b48f662f83792e34364ab05161f86a9b41c0cd7e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74410$81C76D52-0207-4D53-940B-A362D32D1222",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007177971808"
+          },
+          "hash": "fed4eac1e1da4c920865da36bb08348cb2569145",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74410$C60E9E41-A1A4-4E9A-B715-74397FA6F41D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Astyages Arms.svg"
+          },
+          "hash": "53ca7290612541540046a0dbd3e96f48210aa54f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "medischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "The fourth and last king of the Medes (585–550 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cuarto y último rey de Media"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "چهارمین و واپسین پادشاه ماد (۵۸۵–۵۵۰ پ.م)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi mède"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Méd Birodalom utolsó uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "re dei medi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "メディア王国の最後の王"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Último Rei da Média (Império Medo)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Último Rei da Média (Império Medo)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Medien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Med kralı"
+    }
+  },
+  "id": "Q74410",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أستياجيس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "استياجيس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Astiaq"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "آتاکوسارا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Астыяг"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Астиаг"
+    },
+    "br": {
+      "language": "br",
+      "value": "Astiages"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Astíages de Mèdia"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیشتوویگوو"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Astyagés"
+    },
+    "da": {
+      "language": "da",
+      "value": "Astyages"
+    },
+    "de": {
+      "language": "de",
+      "value": "Astyages"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αστυάγης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Astyages"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Astjago"
+    },
+    "es": {
+      "language": "es",
+      "value": "Astiages"
+    },
+    "et": {
+      "language": "et",
+      "value": "Astyages"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Astiages"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ایشتوویگو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Astyage"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Astiaxes"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀστυάγης"
+    },
+    "he": {
+      "language": "he",
+      "value": "אסטיאגס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Astijag"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Istuviga"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Աստիագես"
+    },
+    "id": {
+      "language": "id",
+      "value": "Astyages"
+    },
+    "it": {
+      "language": "it",
+      "value": "Astiage"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アステュアゲス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ასტიაგე"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아스티아게스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Astiyag"
+    },
+    "ku-arab": {
+      "language": "ku-arab",
+      "value": "ئاستیاگ"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Astiyag"
+    },
+    "la": {
+      "language": "la",
+      "value": "Astyages (rex Medorum)"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Astiagas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Астијаг"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Astyages"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "آژیدهاک"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Astyages"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Astyages"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Astyages"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Astyages"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Astíages"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Astíages"
+    },
+    "qu": {
+      "language": "qu",
+      "value": "astuaes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Астиаг"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Astijag"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Astjag"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Астијаг"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Astyages"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Иштувегу"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Astyages"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Astiages"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іштувегу"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Astyages"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿斯提阿格斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿斯提阿格斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿斯提阿格斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿斯提阿格斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿斯提阿格斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿斯提阿格斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿斯提阿格斯"
+    }
+  },
+  "lastrevid": 17487328,
+  "modified": "2025-09-16T19:01:24Z",
+  "ns": 860,
+  "pageid": 89241,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74410",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74410"
+    }
+  },
+  "title": "Item:Q74410",
+  "type": "item"
+}

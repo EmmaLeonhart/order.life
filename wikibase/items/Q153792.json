@@ -1,0 +1,933 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q153792$56391280-4871-0b01-53e7-74bd1f2e5013",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153791",
+              "numeric-id": 153791
+            }
+          },
+          "hash": "eda996af061522ec33cb2b634c57d7711186d9cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q153792$713DB209-5BD3-4DBA-9CA9-A9EDE97B73DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q153792$95F3F4F8-385C-426E-8D6C-72DDFDF96B79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q153792$046fb323-4c22-1994-7f63-152e2ca26b1f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153793",
+              "numeric-id": 153793
+            }
+          },
+          "hash": "263e07d7740d20a14d131a1e98dafe1d04f5e415",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q153792$73566039-4cc9-115d-6ef0-75658232e481",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q153792$b33604bd-4c96-a69e-79ac-8771f0c83ea4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q33923"
+          },
+          "hash": "fe99f5c98a6b0c7d2aee8dae866c678eaf4a5583",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "الرسول والبابا الأول"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "apóstol y primer papa"
+    },
+    "az": {
+      "language": "az",
+      "value": "Roma Katolik Kilsəsinin 1-ci Papası, Antakya Patriarxı və İsa Məsihin Həvarisi"
+    },
+    "be": {
+      "language": "be",
+      "value": "апостал, 1-ы Папа Рымскі (43 — 64/67), 1-ы Патрыярх Антыяхійскі (45—53)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "апостал Хрыста"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রোমান ক্যাথলিক চার্চের ১ম পোপ, অ্যান্টিওকের প্যাট্রিয়ার্ক এবং যিশু খ্রিস্টের বারোজন প্রেরিতের মধ্যে অন্যতম"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "papa de l'església catòlica"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "apoštol Ježíše Krista a první papež"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "apostol a'r pab cyntaf"
+    },
+    "de": {
+      "language": "de",
+      "value": "Apostel"
+    },
+    "el": {
+      "language": "el",
+      "value": "ένας από τους 12 Αποστόλους του Χριστού και ιδρυτής της Εκκλησίας της Ρώμης"
+    },
+    "en": {
+      "language": "en",
+      "value": "first pope of the Catholic Church, patriarch of Antioch, and apostle of Jesus Christ"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "apostle and first pope"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "1st Pope of the Catholic Church, Patriarch of Antioch and Apostle of Jesus Christ"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "papo de la katolika eklezio"
+    },
+    "es": {
+      "language": "es",
+      "value": "apóstol de Jesús y primer papa según la tradición católica"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش سوری"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "yksi Jeesuksen opetuslapsista ja apostoleista"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "apôtre du Christ et premier pape de l'Église catholique"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "un dos doce apóstolos de Xesús"
+    },
+    "he": {
+      "language": "he",
+      "value": "כהן דת ממוצא סורי, אחד מאבות הנצרות, בכיר 12 השליחים של ישו"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "apostol i prvi papa"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "japoštoł"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "őskeresztény apostol, püspök"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "հիսուսի աշակերտներից մեկը"
+    },
+    "id": {
+      "language": "id",
+      "value": "salah satu dari dua belas murid Yesus dan Paus pertama dalam Gereja Katolik"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "nasapa a daulo ti Kristiano ken maysa kadagiti sangapulo ket dua nga apostol ni Hesus"
+    },
+    "it": {
+      "language": "it",
+      "value": "apostolo di Gesù, santo e primo pontefice della Chiesa cattolica"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "初代ローマ教皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ქრისტეს თორმეტი მოციქულიდან ერთ-ერთი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "초대 교황 (1–66)"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Apostel Péitrus"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "apòstolo de Gexù, sànto e prìmmo Pàppa gêxa catòlica"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "апостол и прв папа"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "एक प्राचीन ख्रिश्चन पुढारी व येशू ख्रिस्ताच्या १२ प्रचारकांपैकी एक प्रचारक"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "l-ewwel Papa tal-Knisja Kattolika Rumana u appostlu"
+    },
+    "my": {
+      "language": "my",
+      "value": "ယေရှု၏ တစ်ကျိပ်နှစ်ပါးသော သာဝကများမှ တစ်ပါး"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "apostel en eerste paus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "apòstol del Crist e primièr papa de la Glèisa Catolica"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "święty chrześcijański, apostoł i męczennik, wg tradycji pierwszy papież"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Apóstolo de Jesus Cristo, fundador e primeiro Papa da Igreja Católica"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Apóstolo de Jesus Cristo e primeiro papa da Igreja Católica"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "personaj biblic"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "один из двенадцати апостолов (учеников) Иисуса Христа"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "apoštol Ježiša Krista a prvý pápež"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "apostol, prvi papež, mučenec in svetnik"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "апостол и хришћански светитељ"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Католички папа, светац и Исусов апостол"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "en av Jesu tolv apostlar"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "apostōł, podle tradycyje piyrszy papiyż"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระสันตะปาปาพระองค์แรกแห่งคริสต์จักรโรมันคาทอลิก อัครบิดรแห่งแอนติออก และสาวกของพระเยซู"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsa'nın 12 havarisinden biri ve Katolik Kilisesi'nin ilk papası (MÖ 1–MS 65)"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Гайсә Мәсихнең апостолы"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "один з дванадцяти апостолів (учнів) Ісуса Христа, перший Папа"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đại Lễ mừng Ngài là Sứ đồ trưởng của 12 Sứ Đồ, Ngài được Chúa Giêsu trực tiếp trao quyền cai quản Giáo Hội, lễ này được cử hành trọng thể vào ngày 29 tháng 6 cùng với Thánh Phaolô hằng năm"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "耶穌的十二使徒之一、天主教會首任教宗"
+    }
+  },
+  "id": "Q153792",
+  "labels": {
+    "ace": {
+      "language": "ace",
+      "value": "Petrus"
+    },
+    "aeb-arab": {
+      "language": "aeb-arab",
+      "value": "بطرس"
+    },
+    "af": {
+      "language": "af",
+      "value": "Simon Petrus"
+    },
+    "am": {
+      "language": "am",
+      "value": "ቅዱስ ጴጥሮስ"
+    },
+    "an": {
+      "language": "an",
+      "value": "Sant Pero"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بطرس"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܫܡܥܘܢ ܟܐܦܐ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "القديس بطرس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "San Pedru"
+    },
+    "az": {
+      "language": "az",
+      "value": "Müqəddəs Pyotr"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "پطرس"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Petrus"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Pedro"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пётр"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Пётар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Петър"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "প্রেরিত পিতর"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "པེ་ཏྲོ།"
+    },
+    "bpy": {
+      "language": "bpy",
+      "value": "সাও পেড্রো"
+    },
+    "br": {
+      "language": "br",
+      "value": "Pêr"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Sveti Petar"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sant Pere"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Báe̤k-dŏ̤-lṳ̆k"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Simón Pedro"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پێترۆس"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "svatý Petr"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Петĕр апостол"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Pedr"
+    },
+    "da": {
+      "language": "da",
+      "value": "Apostlen Peter"
+    },
+    "de": {
+      "language": "de",
+      "value": "Petrus"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Petrus"
+    },
+    "dtp": {
+      "language": "dtp",
+      "value": "Santo Peter"
+    },
+    "el": {
+      "language": "el",
+      "value": "Απόστολος Πέτρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Peter"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Peter"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Saint Peter"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Simono Petro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pedro"
+    },
+    "et": {
+      "language": "et",
+      "value": "Peetrus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Petri"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پطرس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pietari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pierre"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Petrus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Naomh Peadar"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Pedro"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πέτρος"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Simon Petrus"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "1 Bitrus"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Pí-tet"
+    },
+    "he": {
+      "language": "he",
+      "value": "פטרוס"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "सैंट पीटर"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Petar"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "Syman Pětr"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Pyè"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Péter apostol"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պետրոս առաքյալ"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Պետրոս առաքեալ"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "San Pietro Apostolo"
+    },
+    "iba": {
+      "language": "iba",
+      "value": "Sante Peter"
+    },
+    "id": {
+      "language": "id",
+      "value": "Simon Petrus"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "San Pedro"
+    },
+    "io": {
+      "language": "io",
+      "value": "Santo Petrus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Pétur postuli"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pietro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペトロ"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Simon Petrus"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პეტრე"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "베드로"
+    },
+    "kv": {
+      "language": "kv",
+      "value": "Петыр лун"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Peder"
+    },
+    "la": {
+      "language": "la",
+      "value": "Petrus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Péitrus"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "San Petro"
+    },
+    "li": {
+      "language": "li",
+      "value": "Petrus"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Sàn Pê"
+    },
+    "lld": {
+      "language": "lld",
+      "value": "Apostul Pire"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "San Peder"
+    },
+    "ln": {
+      "language": "ln",
+      "value": "Sántu Petelo"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Apaštalas Petras"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Svētais Pēteris"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Petera"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Апостол Петар"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "പത്രോസ് ശ്ലീഹാ"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Гэгээн Петр"
+    },
+    "mo": {
+      "language": "mo",
+      "value": "São Pedro"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "सेंट पीटर"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Santo Peter"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Pietru"
+    },
+    "my": {
+      "language": "my",
+      "value": "စိန့်ပီတာ"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "پطرس"
+    },
+    "nah": {
+      "language": "nah",
+      "value": "Simón Pedro"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Pí-tek"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Apostelen Peter"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Simon Petrus"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Petrus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Petrus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Apostelen Peter"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Saint Pierre l'Apôtouère"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Sant Pèire"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Piotr Apostoł"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Simon-Pero"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "پطرس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "São Pedro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "São Pedro"
+    },
+    "qu": {
+      "language": "qu",
+      "value": "Simun Pidru"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Simon Petrus"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Simon Petru"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Апостол Пётр"
+    },
+    "rup": {
+      "language": "rup",
+      "value": "Sâm-Chetru"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "San Petru apostulu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Saunt Peter"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sveti Petar"
+    },
+    "si": {
+      "language": "si",
+      "value": "ශුද්ධවූ පේදුරු තුමා"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "svätý Peter"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "پطرس"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "sveti Peter"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shën Pjetri"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Свети Петар"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Апостол Петар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Petrus"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Mtume Petro"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "Pyjter Apostoł"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பேதுரு"
+    },
+    "te": {
+      "language": "te",
+      "value": "సెయింట్‌ పీటర్"
+    },
+    "th": {
+      "language": "th",
+      "value": "ซีโมนเปโตร"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "San Pedro"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Peto"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Petrus"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Апостол Петр"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Petro"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Петро"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پطرس"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Avliyo Pyotr"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "San Pièro"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thánh Phêrô"
+    },
+    "war": {
+      "language": "war",
+      "value": "San Pedro"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "聖伯多祿"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "პავლე მოჩქვაფირი"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Pétérù Mímọ́"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "聖伯多祿"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Petrus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "彼得"
+    }
+  },
+  "lastrevid": 17582230,
+  "modified": "2025-09-17T17:41:16Z",
+  "ns": 860,
+  "pageid": 252405,
+  "sitelinks": {},
+  "title": "Item:Q153792",
+  "type": "item"
+}

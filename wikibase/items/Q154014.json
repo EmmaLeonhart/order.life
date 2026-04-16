@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "NN /NN/"
+      },
+      {
+        "language": "en",
+        "value": "Person Q154014"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q154014$43362BEE-A9EE-69AA-DCDC-4C79BD44BB41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q154011",
+              "numeric-id": 154011
+            }
+          },
+          "hash": "d770dba7b1b0aac1d1c12671341578254c5d87e3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q154014$7482F60D-3B3F-4B21-A38F-E16F173567AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166862",
+              "numeric-id": 166862
+            }
+          },
+          "hash": "bbdab605cc4139bd30b5ca51cdaf2e28cf8b5ca1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q154014$D8C4CB5B-2C88-41F8-B3DF-0273587FA58D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q154014$6AF2DAAD-B57C-4DCA-B8AA-DCBC44B7A669",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q154014$FD75B496-466F-2779-E817-98BB7C490AF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q154013",
+              "numeric-id": 154013
+            }
+          },
+          "hash": "559b7e94aa045615984b4da5c36bb9060ddbfab0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q154014$2E60A040-0A82-674B-DC12-FDE855E0185A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166827",
+              "numeric-id": 166827
+            }
+          },
+          "hash": "feb9d1d1fc174377cfc6d62747f3502cc68cd70f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q154014$5460274F-32DE-529C-F493-7D993EFF2978",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q154016",
+              "numeric-id": 154016
+            }
+          },
+          "hash": "2acf708c63fe2f50815c20e1cc2cb166763155d4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q154014$C283897C-2C24-E2C8-EF8B-2D5A48C44D8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q154014$8BC6033D-D39C-B5FA-3E3C-07C5868D430B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000181159169901"
+          },
+          "hash": "12fe4f74eb207470c18dbda8e772255dc2c0ec28",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q154014$4379AC2A-D5CE-44CF-9BB6-1784790D45EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Person Q154014 Arms.svg"
+          },
+          "hash": "b3b9c8e4b0109b87fcc21508a754a3aa0947c8a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q154014",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "N.N."
+    }
+  },
+  "lastrevid": 17582260,
+  "modified": "2025-09-17T17:41:41Z",
+  "ns": 860,
+  "pageid": 202814,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q154014",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q154014"
+    }
+  },
+  "title": "Item:Q154014",
+  "type": "item"
+}
