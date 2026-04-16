@@ -115,6 +115,8 @@ Chapters emerge at the writing desk, not here.
 | ~509 BCE | Roman Republic |
 | ~500 BCE | Upanishads |
 | ~500 BCE | Laozi (traditional) |
+| ~400 BCE – 200 CE | Mahabharata composed / edited |
+| ~400 BCE – 300 CE | Ramayana composed / edited |
 | ~490–479 BCE | Persian Wars |
 | ~450 BCE | Pericles |
 | ~427 BCE | Plato |
@@ -152,6 +154,10 @@ Chapters emerge at the writing desk, not here.
 | ~712 CE | Kojiki |
 | ~720 CE | Nihon Shoki |
 | ~750–1258 CE | Abbasid, House of Wisdom |
+| ~800–1100 CE | Early Sufi orders coalesce (Baghdad / Khorasan) |
+| ~1058–1111 CE | al-Ghazali |
+| ~1165–1240 CE | Ibn Arabi |
+| ~1207–1273 CE | Rumi |
 | ~793 CE | Lindisfarne raid, Viking Age opens |
 | ~794 CE | Heian period begins |
 | ~800 CE | Charlemagne crowned (gateway ancestor) |
@@ -180,6 +186,7 @@ Chapters emerge at the writing desk, not here.
 | ~1370–1405 CE | Timur |
 | ~1316–1377 CE | Gediminid dynasty peak, pagan Lithuania |
 | ~1387 CE | Lithuania Christianized (book-never-written chapter) |
+| ~1400–1500 CE | Wali Sanga (Nine Saints of Java) — Islam-Hindu-local syncretism in the Malay world |
 | ~1405–1433 CE | Zheng He voyages |
 | ~1429 CE | Joan of Arc |
 | ~1440 CE | Gutenberg press |
