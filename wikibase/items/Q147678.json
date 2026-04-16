@@ -1,0 +1,222 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rostyslav Ivanovych"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147678$5C0A567D-E1BA-4AA8-B250-1B99BE2DE988",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "428961"
+          },
+          "hash": "19fcf9fb011bd42ca5d30fdaaf3b4d68e4710f56",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147678$8D6F791E-5A3D-48F6-9C5F-7B544E4CD665",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147678$1E8BC1F6-15F9-473F-8B6E-2184C344560D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147678$CFCE506A-C8A2-467F-98E4-82DB402CE989",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143858",
+              "numeric-id": 143858
+            }
+          },
+          "hash": "772c9a8190bd577cb59f73fbecc22e5d46f381c9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147678$4E7E29BF-6EA0-435E-8175-FD9B05D67BF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147678$92A4C5A1-B812-4A6B-8005-1F3C43724B38",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1189-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1e47ae5fcc40bdc63111f2cff94dd17e9172abea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147678$BA07A5E8-860F-4985-970B-7CAD1A6E31EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4398423"
+          },
+          "hash": "978d5a7bbdeffb3d085ce3d0f9e17737aace8c55",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147678$8B8F9368-09FA-4C80-A8D4-4A422F0C993E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=rostislav;n=rurikides;oc=9"
+          },
+          "hash": "410f3c98e427330ede91c49513100949e27447a2",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147678$CA5DA259-5623-43D9-907B-97298682ADA5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rostyslav Ivanovych Arms.svg"
+          },
+          "hash": "c00266020726aa551a3db9c8152c1659a1e51757",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ru": {
+      "language": "ru",
+      "value": "русский князь"
+    }
+  },
+  "id": "Q147678",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Rostyslaw Iwanowytsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rostyslav Ivanovych"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロスチスラフ・イヴァノヴィチ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ростислав Иванович"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ростислав Іванович"
+    }
+  },
+  "lastrevid": 17572340,
+  "modified": "2025-09-17T15:24:48Z",
+  "ns": 860,
+  "pageid": 175931,
+  "sitelinks": {},
+  "title": "Item:Q147678",
+  "type": "item"
+}

@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice de l'Aigle"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q148893$6808C8F1-671F-4077-8095-4F55314DDF8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148894",
+              "numeric-id": 148894
+            }
+          },
+          "hash": "a620b89429b0838f18904be0d15de2ad9ddcbdf6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q148893$2490FD68-01F0-41D6-B674-6D866EDABA4A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I5417"
+          },
+          "hash": "8f4b97d863923994c8fa9dc431ef1ea9188e061d",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148893$CF9746AD-C0A3-4D24-A9DF-0E948F49DAFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148893$993EBBE7-0EB6-4F6E-B9E0-F49DEAB2013F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148893$746C4A24-9E1D-4221-81AE-009109B73BAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144871",
+              "numeric-id": 144871
+            }
+          },
+          "hash": "7fd8c58b9a20aff018c6a2c89d2c96009dc1f0ad",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q148893$887E453C-63F7-439A-AA46-845C957761BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p19079.htm#i190785"
+          },
+          "hash": "c90b4e5dc1205bf8498a64e46db1208de6138821",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148893$9EDFB651-6BDC-41CB-888B-C7C0494AE21E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127844",
+              "numeric-id": 127844
+            }
+          },
+          "hash": "c922169ba8650d53b2bec72be662bc7ddc53a8a4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148893$CF7B7CDB-753A-481F-8939-B56DE7C00574",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148893$8C8DB33A-A0F8-48A4-A492-D75547E285EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1216-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "38f1c26e2fbd2b8cc69609ecfad1aca5b5c2a27a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148893$3C673E5A-C893-4A9F-9DE5-417921677FF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75519879"
+          },
+          "hash": "b006ed59abee89c3580ee98283105a7260eb201b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q148893$1637E725-81F9-4C1F-AD88-487426322697",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000004382755728"
+          },
+          "hash": "f133a2985a395bf8e7aca06013dfc994065c0b58",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148893$B97EE6BF-1A94-4589-905A-6890D78B687F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice de l'Aigle Arms.svg"
+          },
+          "hash": "6e244d5757aafdfb5c6021208fc8336f61e21ab7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=190785"
+    }
+  },
+  "id": "Q148893",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alice de l'Aigle"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alice de l'Aigle"
+    }
+  },
+  "lastrevid": 17574292,
+  "modified": "2025-09-17T15:51:54Z",
+  "ns": 860,
+  "pageid": 177346,
+  "sitelinks": {},
+  "title": "Item:Q148893",
+  "type": "item"
+}

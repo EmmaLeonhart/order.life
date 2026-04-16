@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agnes Jones"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q150391$91416285-A74F-40FB-BDC4-4161DE88AF85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Jones-89833"
+          },
+          "hash": "77aded0c9ed715be1b33165f0159c27bd6dca481",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150391$954C3FA5-7A3D-4A0A-9C6E-DAF4D87131CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150391$3419AE3C-E54F-4F7B-90ED-FBB78387E301",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150391$67E0037E-2D4A-43D4-B3AD-982938F9051B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p43353.htm#i433523"
+          },
+          "hash": "e04a6fac1dda00068d084f96516ed440b322dd50",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150391$DFA475D9-E519-4298-AF01-39740298B629",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145846",
+              "numeric-id": 145846
+            }
+          },
+          "hash": "7c9d99d640d7c8d066d19cfc0eeaa17f608d2f7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150391$8BE80F18-8C42-4198-9743-7207305E3BE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145847",
+              "numeric-id": 145847
+            }
+          },
+          "hash": "e220ddcbef749cf32c1802792367964c3c9595bd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150391$F1DBEC66-59E9-4AA0-A4F8-BAFE2FF480B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150391$D69F9A4D-236A-4481-91C2-0B92DD62DA57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1590-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77976a6849dfe0de5ce3b168002c77be944370c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150391$3441DA42-8541-413E-8C59-CC003371EC72",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1630-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e584041459b542680717a78019ae8fcbb969f057",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150391$B7764D43-A56C-4AF9-8191-A705D7949588",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75963089"
+          },
+          "hash": "c561c9fc3466ca96f1366013a855cf299df789c1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150391$B8BA7054-51A9-4471-9060-6CD43A896195",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnes Jones Arms.svg"
+          },
+          "hash": "ec127f509c5355a77e831c1e6d75a3e349019a5f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=433523"
+    }
+  },
+  "id": "Q150391",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أغنيس جونز"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "অ্যাগনেস জোন্স"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agnes Jones"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agnes Jones"
+    }
+  },
+  "lastrevid": 17577266,
+  "modified": "2025-09-17T16:32:23Z",
+  "ns": 860,
+  "pageid": 178844,
+  "sitelinks": {},
+  "title": "Item:Q150391",
+  "type": "item"
+}

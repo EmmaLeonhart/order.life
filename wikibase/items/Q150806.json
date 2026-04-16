@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Wogan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150806$A6BE22DD-70DC-4630-99A6-4517EAAA6128",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00696642"
+          },
+          "hash": "e33a1cdcbc6c0df82b09ed15ea05801a3fe99d37",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150806$5074A21A-FD14-412D-9306-801E7C4760CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wogan-91"
+          },
+          "hash": "a170655beafff8aeedd633845a4ffc6ddb7618f5",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150806$49891426-24FB-4CD2-83ED-5908EFDE5B24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150806$5C872990-B8CA-4554-A6B6-23C9775DC326",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150806$3C602EBD-15B3-4BCF-848C-6057656A1E8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146149",
+              "numeric-id": 146149
+            }
+          },
+          "hash": "0eb510dc8ef5bba0bfa36de47bd59470b7125bb9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150806$8D26DDE5-704F-4CE7-B188-D06EEBB864E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150806$8F9C55A3-116B-4E48-A5DF-A3DEE5C112D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1557-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5cf96e2b34e4532da1df9fd44d7db5fc5f50f771",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150806$1F853EED-8E3C-4A3F-A35E-305A6C8B217A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6264715"
+          },
+          "hash": "faa037f90641e15e2fcdd5695bcc5c105b8156e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150806$61A30682-9039-44D3-B547-21DCB930FF37",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Wogan Arms.svg"
+          },
+          "hash": "e66e2214eca80e3b7ab1cd33178bd50962847351",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "English politician d 1557"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnalité politique britannique"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "англійський політик"
+    }
+  },
+  "id": "Q150806",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "John Wogan"
+    },
+    "de": {
+      "language": "de",
+      "value": "John Wogan"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Wogan"
+    },
+    "es": {
+      "language": "es",
+      "value": "John Wogan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Wogan"
+    }
+  },
+  "lastrevid": 17578094,
+  "modified": "2025-09-17T16:43:47Z",
+  "ns": 860,
+  "pageid": 179260,
+  "sitelinks": {},
+  "title": "Item:Q150806",
+  "type": "item"
+}

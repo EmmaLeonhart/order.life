@@ -1,0 +1,389 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Laelius Sapiens"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151564$4FA915DE-296E-4C44-BA69-98F0D293EE12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736253"
+          },
+          "hash": "1de0a2a926a328d3adcc43c22813cc91c345d4e9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151564$52161A29-DF6F-4FB3-BFFE-51FDF740F94C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151565",
+              "numeric-id": 151565
+            }
+          },
+          "hash": "e19df1f216ec7030c1702755d368c895d259bbec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151564$96D2E172-E475-49E5-A1D4-5DEE434FC930",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148204",
+              "numeric-id": 148204
+            }
+          },
+          "hash": "15317dc753f04052a903b2ff9c2b9e790dcea956",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151564$C8E1278C-5BFB-43DD-9018-2CDFC2ACE67D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151564$E0B72812-90A7-4733-B00B-6C5AB19DB987",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151564$8856B88C-2955-4A5E-8701-02903FC6DC64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151656",
+              "numeric-id": 151656
+            }
+          },
+          "hash": "4e3e997e644ab32a24240698bc6498a692d56fe6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151564$2D58AFAD-7684-4339-8778-EB7F3D5B83D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151564$3FEF5F09-0B85-46F2-9320-BD2F6DE18AA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0190-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c4fa6f55ce9a31894aa2c4c6d36819a6fa90f165",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151564$73BC0456-3D64-41B0-AB92-7A4171750B05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0147-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc1ef440b811fabe43c6d3088cd9774a8317e316",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151564$85C2FFF9-AD66-4651-9F7D-C353DB81DE5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1283514"
+          },
+          "hash": "46524a61c03a8177f18a0232a0c029cc38884666",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151564$6B0C73E9-26B8-4F9E-8D56-796C1696F667",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Laelius Sapiens Arms.svg"
+          },
+          "hash": "bbb51683d3347b5028eb31f14f352dfb2cd0b08a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 140 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 140 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 140 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 140 a. Cristo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 140 av. J.-C."
+    },
+    "id": {
+      "language": "id",
+      "value": "Negarawan Romawi"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q151564",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Лелий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Leli Sapient"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gaius Laelius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Laelius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Λαίλιος Σάπιενς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Laelius Sapiens"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Lelio Sapiens"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Laelius Sapiens"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיוס לאליוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cayo Lelio Sapiens"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gaius Laelius Sapiens"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Lelio Sapiente"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・ラエリウス・サピエンス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Laelius Sapiens"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Laelius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gajusz Leliusz Sapiens"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Lélio Sapiente"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Lélio Sapiente"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Лелий Мудрый"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaius Laelius Sapiens"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Gaius Laelius"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Laelius Sapiens"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Лелій Сапіенс"
+    }
+  },
+  "lastrevid": 17579528,
+  "modified": "2025-09-17T17:03:37Z",
+  "ns": 860,
+  "pageid": 180018,
+  "sitelinks": {},
+  "title": "Item:Q151564",
+  "type": "item"
+}

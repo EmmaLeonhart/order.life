@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Helvidius Priscus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151505$56D439FB-8D51-413B-948C-5B9D61A74EF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151362",
+              "numeric-id": 151362
+            }
+          },
+          "hash": "db3e779471c6b56c3e805b790aa9322729f7d70f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151505$4AD54864-93E7-4095-BB32-E7D513AE084E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151506",
+              "numeric-id": 151506
+            }
+          },
+          "hash": "d9cfb1564749a34015532c069f4aea6f31e15f04",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151505$2A88711B-03DC-4D31-9963-F6B6BF6CCDEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151505$28549643-7854-4E3E-A137-27167221758B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151505$42DC4546-9D65-4646-B734-2084E53631BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151617",
+              "numeric-id": 151617
+            }
+          },
+          "hash": "27f1ea55c1ff9f320007234d90db426d3cb2e033",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151505$4A35D109-A05D-489C-8234-9A3D86008700",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151505$A71DF440-8D19-4ADC-8E29-6E1DAC511F2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151505$00CA5FEB-07F6-46BF-8691-1E92FD6731A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0075-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4944d6c617624413e4e47c068f8e27003db92bf4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151505$D7EB8923-0C4C-496C-9A9C-11EB3D2226E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1390986"
+          },
+          "hash": "51d90da633d20c3cefdb2c55ee09b94a88d87a51",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151505$D7CCF39C-7632-426A-B58C-94F0E9EEB92C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Helvidius Priscus Arms.svg"
+          },
+          "hash": "1be6ca37c6069cdd31cd77792e5074b705e86c24",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filòsof romà"
+    },
+    "de": {
+      "language": "de",
+      "value": "stoischer Philosoph und Politiker zur Zeit der Kaiser Nero und Vespasian"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος φιλόσοφος και πολιτικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman philosopher and statesman"
+    },
+    "es": {
+      "language": "es",
+      "value": "filósofo y estadista romano del siglo I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "philosophe stoïcien et homme politique"
+    },
+    "it": {
+      "language": "it",
+      "value": "filosofo romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "filosoof uit Oude Rome (-75)"
+    }
+  },
+  "id": "Q151505",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Helvidius Priscus"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Helvidi Prisc"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Хелвидий Приск"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Helvidi Prisc"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Helvidius Priscus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελβίδιος Πρίσκος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Helvidius Priscus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Helvidius Priscus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Helvidius Priscus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Helvidio Prisco"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Helvidius Priscus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Helvidius Priscus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Helvidius Priscus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Elvidio Prisco"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヘルウィディウス・プリスクス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Helvidius Priscus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Helvidius Priscus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Helvidius Priscus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Гельвідій Приск"
+    }
+  },
+  "lastrevid": 17579420,
+  "modified": "2025-09-17T17:02:11Z",
+  "ns": 860,
+  "pageid": 179959,
+  "sitelinks": {},
+  "title": "Item:Q151505",
+  "type": "item"
+}

@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mindia Matidia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148289$690C4EBC-782B-4BA4-B62C-D782AEC559EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "414078"
+          },
+          "hash": "cdd200074357b43b090c97b37334409912d54d6b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q148289$58190893-8C36-4B3E-BBFD-1F136E17EEAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800954"
+          },
+          "hash": "840347a9853a17147a9cba2d8f884e39d9be5093",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148289$5F57DC4B-C957-4E11-80B4-4B03C07197F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148289$329C24EE-A77F-44D6-9307-5A9908175CDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148289$4B762B78-5675-467C-9518-5FD3BC8AC4CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148313",
+              "numeric-id": 148313
+            }
+          },
+          "hash": "f0a58371c9a29045951a365c9041524416e60b26",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148289$EAC5B5A8-C4EC-4993-8CBE-89F9BC3857EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151438",
+              "numeric-id": 151438
+            }
+          },
+          "hash": "25dc281fe5af7cdbcd9bf9a70dda38dba8f8feb3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148289$5A380752-C51B-4A1F-9A8C-D075FE5EF92A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148196",
+              "numeric-id": 148196
+            }
+          },
+          "hash": "11ec6c9be3fe3a394f478cdb6ed3d2d442d4849a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148289$2E7A27F1-13B5-4D26-97AE-452406B5A4F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148289$FA5E6DB6-0145-4475-9F18-BED910CDC076",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0085-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18a622e22c54750f4d63766815d0cab53cf01ac4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148289$B63E0622-30B7-44C0-9196-82B6F69DF55C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55aa545168bc6f261b176e92922d351c65bd390f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148289$E1339E3B-AC7E-428E-BAB4-A61F9C55287D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3655752"
+          },
+          "hash": "f906dd57cd60847ad24e67577a4fb7784d24c0c2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148289$481BD8B7-D0FE-40FD-B843-E8B301334041",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mindia Matidia Arms.svg"
+          },
+          "hash": "6eaa9f57db915c5c48cce0a89c639356d66ac35e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "half-sister of Roman empress Vibia Sabina"
+    },
+    "es": {
+      "language": "es",
+      "value": "media hermana de la emperatriz Vibia Sabina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "belle-soeur de l'empereur romain Hadrien"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana"
+    }
+  },
+  "id": "Q148289",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Матидия Младша"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matidia Minor"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ματιδία η Νεότερη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mindia Matidia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matidia la Menor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Matidia Minor"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mindia Matidia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mindia Matidia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Matidia Minor"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Matídia Menor"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Matídia Menor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Матидия Младшая"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mindia Matidia"
+    }
+  },
+  "lastrevid": 17573156,
+  "modified": "2025-09-17T15:36:01Z",
+  "ns": 860,
+  "pageid": 176742,
+  "sitelinks": {},
+  "title": "Item:Q148289",
+  "type": "item"
+}

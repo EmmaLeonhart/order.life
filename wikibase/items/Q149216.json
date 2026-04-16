@@ -1,0 +1,799 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elizabeth of Rhuddlan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q149216$7C7654D6-D8A2-4408-B63B-C5B5AA47BA69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11898"
+          },
+          "hash": "7accc7d22ba80928d578b6e7889e5fca8f943a04",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q149216$5F14B289-3C61-4A5F-B15C-0A04E309D52C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00005912"
+          },
+          "hash": "bb9fbfc5006db5e9aa6b834fd2afe3f658a56570",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149216$4C4079AB-67B8-4DA6-B610-A575A1EFD69F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149391",
+              "numeric-id": 149391
+            }
+          },
+          "hash": "8adf202288b86dd03c0e941c297542e2b86fcdbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$00B31309-AA32-45A1-8038-582B6ADDCE44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149388",
+              "numeric-id": 149388
+            }
+          },
+          "hash": "b0350cb33816186b5dc9b5a89b7637cfbac4a60d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$E3EAB964-6A3F-4670-A071-ADC1F35A6638",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149389",
+              "numeric-id": 149389
+            }
+          },
+          "hash": "b10369518412bf76472da55fc23574d818c7f120",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$DB64F173-1F51-46BB-A266-15F3FF18FCEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149392",
+              "numeric-id": 149392
+            }
+          },
+          "hash": "340e2ee0fbfe811b4f209cddfa753144d9798476",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$7FDC4F05-8E53-4A6A-A08A-C0D907EFB571",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149387",
+              "numeric-id": 149387
+            }
+          },
+          "hash": "550217f13adb79d7bdea88cf53af1f43eea27df6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$F4AF7934-9990-4AA4-8B3A-C90A33ABFAC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149390",
+              "numeric-id": 149390
+            }
+          },
+          "hash": "67a7cde121a988544f2945f9aa37353095cefa6b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$B98D4AB3-EC77-4972-9466-955D7F9F8116",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149394",
+              "numeric-id": 149394
+            }
+          },
+          "hash": "45238e489bacf2a53cd85dda8548ba7734239670",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$62334BE2-3BE4-49F3-A7FD-73E2E570F5D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149395",
+              "numeric-id": 149395
+            }
+          },
+          "hash": "b807d955d5dd5f95c11eb975f5fb56306ed4a3b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$83DB3504-0F35-42CD-9C22-1CE159183EAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149393",
+              "numeric-id": 149393
+            }
+          },
+          "hash": "3ab1d21f5586728f223012cdb5b5daeb62d3ea50",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$1F57ADCF-D098-466F-A702-BFD6E6CFF170",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149396",
+              "numeric-id": 149396
+            }
+          },
+          "hash": "0a5c8df98011264aa93628373ce808cc0525debf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$954B0D58-E08A-4B8A-81F2-DFB4E5E45C18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149397",
+              "numeric-id": 149397
+            }
+          },
+          "hash": "0a491e3881d25e247809562b477fb47056f880d0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149216$E5AAA857-AF4B-4B3A-9278-251EBDD81FA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Plantagenet-533"
+          },
+          "hash": "b5d8b552bea7afe7115052a925a6ed5f4e52d23f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q149216$40495F59-19AB-4BBD-9847-7FE4F3E66B6D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I2338"
+          },
+          "hash": "fa461e8c3eb0b601dea0008289f80c126aa4df18",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149216$E9BA92C6-6F7B-4350-925B-B007E96E28A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149216$8FD8C973-6AA9-4701-8182-CB2E183EE589",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149216$5908FA63-71A2-42B8-A52E-C417C090EB76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth_of_Rhuddlan_(1)"
+          },
+          "hash": "f2ccb3cf65905342f2be0056cc27550bcc3d28ef",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149216$11ABC549-AFCD-4070-94DC-C646560A9379",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145154",
+              "numeric-id": 145154
+            }
+          },
+          "hash": "f0197423c062fa62597bb4ae060885cb8481d43b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149216$234E465D-8506-4456-949B-7619EDFA40D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10192.htm#i101916"
+          },
+          "hash": "3d6c51d73a22f5028d7769cb1a2dd74aa450adfb",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149216$DBCF4366-E24C-47CD-98D5-827C9C11EDFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145068",
+              "numeric-id": 145068
+            }
+          },
+          "hash": "545e3904da46384bc34195a6cd1d07537f309a4d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149216$1E0735AD-D8E7-42AB-9B21-A424DC7FA8E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54825",
+              "numeric-id": 54825
+            }
+          },
+          "hash": "c6ca9a1d6c8e47d68ca34c148e5f321fc417d817",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q149216$CDE6A3B9-2315-46AD-BFC4-5DD52FF57865",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "12535575"
+          },
+          "hash": "bb374f373bc62a36932f40a2f88b6920083b491d",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149216$76F7AA80-99CA-417C-9861-59E3B1952180",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149216$E3FD5D6A-BB7D-4AC5-A996-F7D56BC80D44",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1282-08-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "33cb75c72de5595b704a734460f6c1d5fadbf6e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149216$146D5027-4A38-464A-8A53-1C378830C3C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1316-05-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4ccc3ddb6e20b3236b6dcdc64faf8555ae42b4df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149216$69BD1C41-6C81-43BD-92C4-246D3419FF23",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2435894"
+          },
+          "hash": "f23e31dc7d0a62cc1a8156191c30d3923ce52e5f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q149216$51D508FF-1FBE-4C6E-B2E9-F2A5A183E6E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009189190206"
+          },
+          "hash": "7f74335918ecef559caa5199ad394c0f37bba482",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149216$538F2BFA-CD39-421F-8D12-E1F8428DDE21",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth of Rhuddlan"
+          },
+          "hash": "31fdbb9121f7b05cdd145aa9e0557cb97ab81a65",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149216$E6D0F047-D805-4D61-A73B-8C7647710B87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=elizabeth;n=plantagenet;oc=1"
+          },
+          "hash": "dd9c9d317b7eccf3d69025d0af25d16cd58583a5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149216$BC3D3BFF-D98B-43B6-B6F8-B3DC32605B65",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth of Rhuddlan Arms.svg"
+          },
+          "hash": "0b863ab8e41455697b885a477fad43b1933f7bd5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كونيسة هولندا القرينة"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "tywysoges a anwyd yng Nghymru"
+    },
+    "de": {
+      "language": "de",
+      "value": "englische Königstochter, Gräfin von Holland und Countess of Hereford"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγγλίδα πριγκίπισσα"
+    },
+    "en": {
+      "language": "en",
+      "value": "English princess, born in Wales"
+    },
+    "es": {
+      "language": "es",
+      "value": "condesa de Holanda, Hereford y Essex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse anglaise (1282 - 1316)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "gravin van Pembroke"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "английская принцесса"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "английська принцеса"
+    }
+  },
+  "id": "Q149216",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "إليزابيث من روديان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Лізавета Рудланская"
+    },
+    "br": {
+      "language": "br",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alžběta Anglická"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Elisabeth o Ruddlan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελισάβετ του Ρούντλαν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Elizabeth de Rhuddlan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sabela de Rhuddlan"
+    },
+    "he": {
+      "language": "he",
+      "value": "אליזבת מריד'לן, דוכסית הולנד"
+    },
+    "id": {
+      "language": "id",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elisabetta d'Inghilterra"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エリザベス・オブ・リズラン"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Elizabeth av Rhuddlan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elisabeth van Rhuddlan"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Elizabeth de Rhuddlan"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Isabel de Rhuddlan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Isabel de Rhuddlan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Елизавета Рудланская"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Elizabeth av Rhuddlan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Єлизавета Рудланська"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Elizabeth of Rhuddlan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊莉莎白"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "伊丽莎白·斯图亚特 (波希米亚王后)"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "庐德兰的伊丽莎白"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "伊麗莎白·斯圖亞特"
+    }
+  },
+  "lastrevid": 17574928,
+  "modified": "2025-09-17T16:00:41Z",
+  "ns": 860,
+  "pageid": 177669,
+  "sitelinks": {},
+  "title": "Item:Q149216",
+  "type": "item"
+}

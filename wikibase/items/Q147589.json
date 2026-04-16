@@ -1,0 +1,301 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Doukas"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147589$A055E7F0-347F-40C4-B28C-59EC7B0A9E56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147589$9190572C-00D5-47AB-83B1-21BE4B77E96F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147589$98BF16EE-F759-490E-8D6B-DA4997BD4B14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147583",
+              "numeric-id": 147583
+            }
+          },
+          "hash": "2582280b7dd6aae17cfd04e7e8c9ba73df87d9b7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147589$0A727127-1B74-492B-B20C-0BA95309C529",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147585",
+              "numeric-id": 147585
+            }
+          },
+          "hash": "2d22732076d90639cf8686dc51ea093614dffad4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147589$F337BCF0-71FD-45E4-B8AB-B6D6B4E8D789",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147589$AD26A1A7-30A4-4F8A-B7FE-D07D0B124FF3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1064-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "453b6ce83c4757800d060077398f6b66607d90aa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147589$637DAB4E-7B10-418A-8F5C-CD79BBEB046D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3131293"
+          },
+          "hash": "d70a831b2f701ab1036aeab52478af85b9ce0525",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147589$B86858DF-C0B7-4EB9-948B-4C856BCE4B25",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Doukas Arms.svg"
+          },
+          "hash": "0ed8729517a27d837fc65b5be6cbf5020f87f51c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Byzantine admiral"
+    },
+    "es": {
+      "language": "es",
+      "value": "gobernador bizantino y megaduque"
+    },
+    "id": {
+      "language": "id",
+      "value": "laksamana Romawi Timur"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Byzantijnse Rijk (1064-1136)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "византийский адмирал"
+    }
+  },
+  "id": "Q147589",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Дука"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan Ducas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ioannes Doukas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Δούκας"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Doukas"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John Doukas"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John Doukas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan Ducas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean Doukas"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yohanes Doukas"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨハネス・ドゥーカス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Doukas"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Dukas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Ducas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Ducas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Дука"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John Doukas"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Дука"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yannis Doukas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іоанн Дука (мегадукс)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "約翰·杜卡斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "约翰·杜卡斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "约翰·杜卡斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "約翰·杜卡斯"
+    }
+  },
+  "lastrevid": 17572256,
+  "modified": "2025-09-17T15:23:40Z",
+  "ns": 860,
+  "pageid": 175887,
+  "sitelinks": {},
+  "title": "Item:Q147589",
+  "type": "item"
+}

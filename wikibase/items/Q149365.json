@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alan de Percy"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149365$C31E514C-7775-4FAB-B5B9-A870774A5197",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Percy-185"
+          },
+          "hash": "66d7138c4538b9f51a9b1e88092e82bf37d01deb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149365$4E3562C4-49A0-4DE9-9634-61E1D33FEFA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149365$0965A089-2606-4924-8312-23BC7E170E15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149365$7B8B8E04-CAE6-48FA-B27E-3461C5EA4FCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15825.htm#i158250"
+          },
+          "hash": "06a86dc696922fa95cd2d3722987d9890b3d97e2",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149365$4CD31DE8-FD0A-4C30-B2A4-F3BC05526DD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145138",
+              "numeric-id": 145138
+            }
+          },
+          "hash": "fa5b4f3b632397da269f79fad184f28df55859d5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149365$ED0FC540-B532-4982-976A-86D8DD4F6A2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149365$89353625-D8A2-46CF-92D2-6B5DFD6EC725",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1372-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "23cb66cb445923861581a34fb882271c7a2f8431",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149365$6B84842E-D092-4829-90D0-6394FA3ECA81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75463909"
+          },
+          "hash": "e4e7502d99a97675cb1843413c6b9e4b7ba65d86",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149365$E1D0D951-3AA3-4359-A94A-B1A0FA28DE0E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alan de Percy Arms.svg"
+          },
+          "hash": "c37cb4dac072543968cb78a9eb03ecadeb71ef8b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=158250"
+    }
+  },
+  "id": "Q149365",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alan de Percy"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alan de Percy"
+    }
+  },
+  "lastrevid": 17575226,
+  "modified": "2025-09-17T16:04:42Z",
+  "ns": 860,
+  "pageid": 177818,
+  "sitelinks": {},
+  "title": "Item:Q149365",
+  "type": "item"
+}

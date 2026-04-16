@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William Gerrard"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q148479$C86F53B9-1BB3-4835-AB07-072FC1191670",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gerard-50"
+          },
+          "hash": "d898b5dfd01f9fe91801f5507a2f2bd7e0346e62",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148479$661DD4B3-21D2-42B2-9706-91E6A701EBD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148479$0E888476-1798-4742-8EFE-EA2AEE102A6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q148479$FE2B21B6-18FA-4955-B743-A72A58C8C938",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p41835.htm#i418341"
+          },
+          "hash": "e6de6dc8bf913ffb121704a81754883383f24f8e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148479$0371EC6B-227A-4133-BEAE-673A619401A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144511",
+              "numeric-id": 144511
+            }
+          },
+          "hash": "e915613983c60a8d135181833ebe8af9458454dc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148479$A3674545-FAD5-49B6-81CF-02C72ABD537A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148478",
+              "numeric-id": 148478
+            }
+          },
+          "hash": "eea83dd711b56f20bfadc3e4b492eefcc0124158",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148479$02E2162E-9C87-4E05-85A3-7B1EEF0B777A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148479$D1400551-3D67-4B91-AF9E-94247D8A7128",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1275-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3b556f44c642c1c26d7bf29eb64d9e6b175f37a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148479$BEBE7294-514C-43AB-B8CD-6CD1CFA85C55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1352-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "47b9c8252f26f0b3eda5baf6a4df9be9d06d359f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148479$395ECB03-89FA-4C69-B195-A45A8A87EEC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75942424"
+          },
+          "hash": "1b15f426bf57712b9d72d4ff9641075b97e24428",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148479$294F67EF-FD25-4A70-A302-1495159ABB1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William Gerrard Arms.svg"
+          },
+          "hash": "10959ffe724a65d14214bb3a0a3020476588cbbf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=418341"
+    }
+  },
+  "id": "Q148479",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "William Gerrard"
+    },
+    "en": {
+      "language": "en",
+      "value": "William Gerrard"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William Gerrard"
+    }
+  },
+  "lastrevid": 17573464,
+  "modified": "2025-09-17T15:40:20Z",
+  "ns": 860,
+  "pageid": 176932,
+  "sitelinks": {},
+  "title": "Item:Q148479",
+  "type": "item"
+}

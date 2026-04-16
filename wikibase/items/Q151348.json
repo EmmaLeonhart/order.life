@@ -1,0 +1,668 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pupienus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151348$6D7DA974-104E-42B7-9433-FE7683B65B17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716753"
+          },
+          "hash": "6d7ee40bcc794e1fe771621fb552b5d4e65cd060",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151348$E69390FA-EB84-4009-96A5-6E1EF5AAB776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151350",
+              "numeric-id": 151350
+            }
+          },
+          "hash": "a30a513621d6836c64d16c5d9d8b3122d7d7f260",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151348$B0943D13-51F3-4BD6-AE3C-9A6A3E9E8200",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151330",
+              "numeric-id": 151330
+            }
+          },
+          "hash": "c997d909a226c6e1adc317f56d7f164947b6573c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151348$860BF661-97A0-4603-A5EA-3907ECC9C465",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151348$5E2CB740-BDB0-4630-B963-0E493AC3F4F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151348$469BAAB5-D223-4F1F-B7F6-446AD781854A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151349",
+              "numeric-id": 151349
+            }
+          },
+          "hash": "682d89147a75b50a79154922b2c04b52d7a96a80",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151348$759CD5E0-EA9C-4AF0-BBAA-DA40BDC92DC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151451",
+              "numeric-id": 151451
+            }
+          },
+          "hash": "dc8fc3ce9fbf830af6375cc7a535670518cefa92",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151348$973D4D05-1CD5-4997-98CB-B0603976E915",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151452",
+              "numeric-id": 151452
+            }
+          },
+          "hash": "340ef8738c1b9c2abefd3bb407c87c85cf5f05dc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151348$1068CF60-D276-4FCA-AE13-20F986779682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151348$12677661-5CC5-4AAE-9809-3486011DFA6A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0170-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5dc915741755c549efda31a73cb5dbcf01b97be",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151348$00DE8007-DC74-40A9-BE26-EBB580DE3578",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0238-07-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3eea76caee27e7ad3efb6e17f0904cb492ca1065",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151348$C7A28F64-958D-4883-8F40-2AE33633BA05",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1797"
+          },
+          "hash": "7570a8d4db3358935016ad97a286c7f6fd74e534",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151348$108669C0-C505-4D5A-A5D0-2A60B7962D80",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pupienus Arms.svg"
+          },
+          "hash": "5f3e490af70fa0dd24faaf290de94cb0e50a5e96",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q151348$8644244E-65DA-41B3-B16A-9F1608679252",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/a1f1d20f-e098-4a34-b330-6257ac5e95b9"
+          },
+          "hash": "0cf9dcd1b29d05b06089309cb8546f1aa6c2dc3f",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "римски император"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer roman"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà (238)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser (* um 167; † Juli 238)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (238)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain en 238"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "impire Rómhánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano no 238"
+    },
+    "he": {
+      "language": "he",
+      "value": "נבחר כקיסר משותף של רומא ביחד עם בלבינוס על ידי הסנאט בשנת 238"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi yang memerintah pada tahun 238 bersama dengan Balbinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano (r. 238)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Romeinse Keizerrijk (170-238)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski, współcesarz z Balbinem"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский император"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Romersk kejsare"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римський імператор у 238 році"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی شہنشاہ"
+    }
+  },
+  "id": "Q151348",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بابينوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بابينوس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "پوپینوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пупіен"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Пупіен"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пупиен"
+    },
+    "br": {
+      "language": "br",
+      "value": "Pupienus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pupiè"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pupienus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Pupienus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pupienus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pupienus"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Pupienus"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Pupienus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πουπιηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pupienus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pupienus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pupienus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Pupieno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pupieno"
+    },
+    "et": {
+      "language": "et",
+      "value": "Pupienus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pupieno"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پوپینوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pupienus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maxime Pupien"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pupienus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Pupieno"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Pupienus"
+    },
+    "he": {
+      "language": "he",
+      "value": "פופיאנוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pupijen"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pupienus római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պուպիենուս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pupienus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pupieno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・クロディウス・プピエヌス・マクシムス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პუპიენუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "푸피에누스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Pupienus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Пупијан"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "पुपिएनस"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Pupienus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pupienus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pupienus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Maxime Pupien"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pupien"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pupieno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pupieno"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pupienus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пупиен"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Marcu Clodiu Pupienu Massimu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Pupienus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pupijen"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pupien"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pupieni"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Пупијен и Балбин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pupienus"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Pupienus"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิพูพิเอนัส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Pupienus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Pupienus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пупієн"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پوپینوس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Pupienus"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "普皮恩努斯"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "პუპიენუსი"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Pupienus"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "普皮恩努斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普皮恩努斯"
+    }
+  },
+  "lastrevid": 17579144,
+  "modified": "2025-09-17T16:58:31Z",
+  "ns": 860,
+  "pageid": 179802,
+  "sitelinks": {},
+  "title": "Item:Q151348",
+  "type": "item"
+}

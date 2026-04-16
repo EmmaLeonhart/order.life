@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Daniel de Béthune, Seigneur de Béthune"
+      },
+      {
+        "language": "en",
+        "value": "Daniel de Bethune, Seigneur de Bethune"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q149947$E8442FA4-AC01-472D-9528-C6B8670A2DE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11650"
+          },
+          "hash": "365e8ccf46fdd25bcc66b6be0ef4fb50e94e03e8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149947$8F5AA3A2-CF4C-489D-9FB8-EDE13F882F88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Béthune-615"
+          },
+          "hash": "ca8476961799a7a5946872ed4af7c97010e5fb34",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149947$F49591E6-2E90-4554-9046-6CB7474C7F40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149947$BFD881D2-A368-4547-904B-708847C29A3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149947$FFBDFF88-30F2-4851-89E0-8422ADC322E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p70906.htm#i709051"
+          },
+          "hash": "43936b3cf73948615fb22847b9a692457d4433d8",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149947$AA760195-A4C1-46A5-868C-7ECDEFCB89C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145466",
+              "numeric-id": 145466
+            }
+          },
+          "hash": "84d20bc459e408a23eec2f96c10d8294a7ac9af8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149947$B153C3A0-2AD5-48A9-A542-317ED5060DBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149947$0D7EE9D2-3B5D-41F0-824C-8472148EFBE8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1194-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "62204ab3f36a99f8bf551b8c1cc73060a526d245",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149947$28EF8475-CC47-4D97-8C7D-36C30533E09D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1226-10-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "718863e1621f5a70627dbf3128981fbd6a0595f1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149947$8FEA6969-F0D8-4AE0-87C5-AB0F9195D9DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76356035"
+          },
+          "hash": "dcb91d2af37c984c3a11ad3a32b34fee1eec2e2d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149947$34DDB5EE-E4FE-416F-B1F1-05F89E6FE2F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=daniel;n=de bethune"
+          },
+          "hash": "a146c59d4de5ecb03ea240fd699436fd9cd6b741",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149947$1ACEB6C2-F282-43F2-A2DC-1E1480048416",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Daniel de Béthune, Seigneur de Béthune Arms.svg"
+          },
+          "hash": "e3914d70cfe51cee009197962c3ed6f4d78198e6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=709051"
+    }
+  },
+  "id": "Q149947",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Daniel de Béthune, Seigneur de Béthune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Daniel de Béthune, Seigneur de Béthune"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Daniel de Béthune, Seigneur de Béthune"
+    }
+  },
+  "lastrevid": 17576384,
+  "modified": "2025-09-17T16:20:27Z",
+  "ns": 860,
+  "pageid": 178400,
+  "sitelinks": {},
+  "title": "Item:Q149947",
+  "type": "item"
+}

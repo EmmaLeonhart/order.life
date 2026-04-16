@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rudolph, Count of Montfort-Feldkirch (d.1302)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147988$F0D5FC42-DC4A-4D3C-978A-1C0A5F4BB5A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "913493"
+          },
+          "hash": "c78dcb6f4e4c6fa1f6ed16914032769dc14baef3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q147988$C38EE2BB-01C7-4FCD-B665-3EC7D7C5DF8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00112574"
+          },
+          "hash": "f86481b42f8404ddf954c938ca1f5060107feeda",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147988$63BB7BB7-D60C-4788-AB2F-3A00633F3534",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Montfort-Feldkirch-2"
+          },
+          "hash": "1a727915f4e1273d4997e25c320bcf64644a4ebd",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147988$8C0D20AF-F330-43F3-9D65-E60693B410CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147988$C2FB9ECC-49B0-4D33-8EAD-3FF2BE7EFDAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147988$31BB7D3A-9639-41E6-956F-F1AC8E4B780D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144001",
+              "numeric-id": 144001
+            }
+          },
+          "hash": "d3a0aca56e295cbf384bce010bfb5d8c8a18b88b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147988$79A2AFA7-3E97-4651-988C-CF757D74D052",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147980",
+              "numeric-id": 147980
+            }
+          },
+          "hash": "0fd5ec72763fa20614c459fd1ea2b87982d6bdaf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147988$C68F86F9-AE14-4A98-8802-0570544D3A98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147988$CCE3EF8D-A8E0-4E7E-93D8-B794686E16E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147988$244D3969-879C-4CF7-82CD-4C37EB38EA2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1302-10-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "00c0fe772e39e0ba716cba1878087281e5d24dfe",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147988$57A2366A-FB38-4B5F-A322-DAC6CAB49D3B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2173035"
+          },
+          "hash": "8a998d1f2fca6acad4c6f0b8f9f9038902b14975",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147988$08048123-FCB4-4981-A719-A582D0C697CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=rudolf;n=von montfort"
+          },
+          "hash": "f7dfd35d3b4ff2c1f2fe20523bcfeda8aaec1524",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147988$D82B2689-B2CB-418B-9935-C67604269EE9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rudolph, Count of Montfort-Feldkirch (d.1302) Arms.svg"
+          },
+          "hash": "8908aff2a62c7804f72a78913b8174cdb529489a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Montfort-Feldkirch, Begründer der Feldkircher Linie der Pfalzgrafen von Tübingen"
+    },
+    "en": {
+      "language": "en",
+      "value": "German count"
+    }
+  },
+  "id": "Q147988",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Rudolf II. von Montfort"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Рудолф II фон Монфор-Фелдкирх"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Rudolf II. z Montfortu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rudolf II. von Montfort"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rudolph, Count of Montfort-Feldkirch (d.1302)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rudolf II van Montfort-Feldkirch"
+    }
+  },
+  "lastrevid": 17572640,
+  "modified": "2025-09-17T15:28:50Z",
+  "ns": 860,
+  "pageid": 176084,
+  "sitelinks": {},
+  "title": "Item:Q147988",
+  "type": "item"
+}

@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rapoto IV"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147136$66A43202-3C7E-44BD-937B-E9FB7E0A99EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00080227"
+          },
+          "hash": "ef285e2ccf51ff50700e77691cb309d3f6489938",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147136$7068CCA7-9EFF-468D-8FDA-E0FE7AB0F861",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147136$DCDCD944-FAD6-4989-B8DA-8557152FFFA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147136$076B91D2-4C6B-4F9A-923F-167D593754B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p64709.htm#i647088"
+          },
+          "hash": "8d4f33e83d6136b872993aa71a84cabe57da442f",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147136$80C891BF-C922-419F-8997-B5759A326AC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128143",
+              "numeric-id": 128143
+            }
+          },
+          "hash": "3ac3d14b62a7d9a98c4f17fdd501bfacef756a86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147136$E7412E11-1BA3-45CE-AB56-290750CE9170",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147133",
+              "numeric-id": 147133
+            }
+          },
+          "hash": "261460039a7189f9f6748d22dbfadb6e07c3da6e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147136$CB1AB71F-A1E2-468C-9171-AA98DE1C60C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147136$F753538E-7EE5-46F1-AB51-E4D48F598214",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147136$5F754A24-4CC4-470E-821E-AE93FA2C4C4B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1296-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b3e9eef5f0cc51fe60183243034c8785b2029d5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147136$5AA66026-8A50-410E-9540-FFB1A7831129",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2131594"
+          },
+          "hash": "f9cc2ceaba88cc5d8a17d60445083b444765428a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147136$2625C1C3-9CA2-4B21-B3FF-385C3FEC373B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=rapoto;n=von ortenburg;oc=3"
+          },
+          "hash": "cc7446c029f7b7e3254055c315c9bc402e1d5f95",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147136$7B94DFFA-139B-4B54-845D-3B1580D0351C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rapoto IV Arms.svg"
+          },
+          "hash": "2be383d1654ed3124bdfc4f92c4f24cd2a222d3e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Stammhalter der Grafen von Ortenburg, Graf von Ortenburg und Murach"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Ортенбурга и Мураха"
+    }
+  },
+  "id": "Q147136",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Rapoto IV."
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Рапото IV"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Rapoto IV. Ortenburský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rapoto IV."
+    },
+    "en": {
+      "language": "en",
+      "value": "Rapoto IV"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rapoto IV van Ortenburg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рапото IV"
+    }
+  },
+  "lastrevid": 17571646,
+  "modified": "2025-09-17T15:15:11Z",
+  "ns": 860,
+  "pageid": 175521,
+  "sitelinks": {},
+  "title": "Item:Q147136",
+  "type": "item"
+}

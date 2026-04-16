@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anne Alice Walcot"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150691$296B9B4A-72DA-4B73-9826-D337D712257A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00109282"
+          },
+          "hash": "48ca6af94ab2795297f2ce46b2bd3f4ad2a2241d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150691$BBE70636-FC02-4281-A71A-345E99F4F9F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Walcot-5"
+          },
+          "hash": "262aed3dc429c51e5a0183e5b6b1e660702c4d40",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150691$6F32DB20-61C5-4FF8-90FF-20233B7B7A9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150691$8CA4A551-223F-4029-B12D-2C559071EB4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150691$D618DB21-B98B-42D4-AF74-27C1CFDA248C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146055",
+              "numeric-id": 146055
+            }
+          },
+          "hash": "945c8caef7d0e9f64e45a984f4a828e09d417120",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150691$226EBDC6-F0C8-446A-AC4D-258167A991F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150691$675C912F-4A44-46C7-B099-146959D70681",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1470-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "403d24a45d3f485ed75e07a53736ad697289834a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150691$078201A5-2E3F-46BD-9956-879056A959C8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1534-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "09e96058449e891be5dcf4e5b3033504a8530d7e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150691$C6326092-5F14-4C32-80DD-A3E79E46C30E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q105826286"
+          },
+          "hash": "95e6789b21238d45eb886711a0d7f14dcac794f8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150691$64DD9D5F-ADC9-42BE-B3DD-3DEC56BDEE60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anne Alice Walcot Arms.svg"
+          },
+          "hash": "8ae9678ada399362014915c4b3ff750d01cb711a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(date will proven)"
+    },
+    "en": {
+      "language": "en",
+      "value": "- Bef 30 Jan 1534 (date will proven)"
+    }
+  },
+  "id": "Q150691",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Anne Alice Walcot"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anne Alice Walcot"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anne|Alice Walcot"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Элис Уолкот"
+    }
+  },
+  "lastrevid": 17577864,
+  "modified": "2025-09-17T16:40:36Z",
+  "ns": 860,
+  "pageid": 179144,
+  "sitelinks": {},
+  "title": "Item:Q150691",
+  "type": "item"
+}

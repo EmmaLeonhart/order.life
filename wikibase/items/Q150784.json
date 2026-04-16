@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Vaughan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q150784$E9D4AAA0-A526-4FEA-8C0B-C0FE7162C4CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "601630"
+          },
+          "hash": "1a41e791fcafeb9ccf8e0321bf4bddf2e6e4cfcc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q150784$7009FC31-601B-4FD9-A78E-F9C0606D6644",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00314003"
+          },
+          "hash": "0e4cde42e6b0cf4fa830379abd4912a1478cf9ee",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150784$C5888EF5-A56F-4604-AE46-C7EF0A4E3668",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150784$C3F9922C-476E-4BB4-82BA-CC3453FFCAE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150784$F22C39EA-295D-426E-BCC5-D9DBB04F5ECD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146136",
+              "numeric-id": 146136
+            }
+          },
+          "hash": "78f869ee54ff0e67a2bad6a109465746e2132af5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150784$E9B26642-5EEF-4896-A4CE-34326C78E291",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150784$49E74D36-BDFB-42E5-A141-E53CE5B33E96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1525-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "023660ca1a9bc9351dadf7c90c2f8f26f42e124d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150784$36B2700A-E9A5-4CC2-A8E9-2876D816E84F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1574-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9772f5d681a71dbcdb1b4cc4b042a4a47ad28a5a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150784$F5F07064-15E6-41C6-8FF8-1A0600C7F7AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6261866"
+          },
+          "hash": "36691c8485252de882f80caba4afdd2bc48e7467",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150784$B125591A-9323-4E74-8873-46E86B31AF08",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Vaughan Arms.svg"
+          },
+          "hash": "cce64b511bd5e2999c0016bda2cba8c7174ba958",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "gwleidydd (16th century)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Walisischer Politiker (16. Jahrhundert)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh politician (16th century)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "politicien gallois (16ème siècle)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Koninkrijk Engeland (1525-1574)"
+    }
+  },
+  "id": "Q150784",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "John Vaughan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "John Vaughan"
+    },
+    "de": {
+      "language": "de",
+      "value": "John Vaughan"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Vaughan"
+    },
+    "es": {
+      "language": "es",
+      "value": "John Vaughan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John Vaughan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Vaughan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "John Vaughan"
+    }
+  },
+  "lastrevid": 17578050,
+  "modified": "2025-09-17T16:43:11Z",
+  "ns": 860,
+  "pageid": 179238,
+  "sitelinks": {},
+  "title": "Item:Q150784",
+  "type": "item"
+}

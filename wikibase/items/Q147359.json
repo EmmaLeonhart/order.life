@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emmeline de Broyes"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147359$B0422807-257C-4D92-8271-724FD14D6E40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1426361"
+          },
+          "hash": "cdd4a7b3d034c08c9f6ed62999afdbd9f3136902",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q147359$38B55466-3907-4245-B184-9943945FCEA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00197507"
+          },
+          "hash": "86f8a34a18278c7f8513ae7b55b79dc413c169a8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147359$D337ACF5-6F34-489C-B23A-FD0845865127",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147359$4DF1A88E-A1FD-440D-A029-880EA4507EE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147359$92C412A7-0A8A-464C-8424-AE11F523C650",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126319",
+              "numeric-id": 126319
+            }
+          },
+          "hash": "cf2bc707805a9494c7b0e21ff70778f9f1af743f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147359$DEB668C0-94CF-4FC7-AF30-2E4DE78E4177",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124631",
+              "numeric-id": 124631
+            }
+          },
+          "hash": "84f7466567a976d7d26d598293b29683ef4e94b1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147359$AC63AFC7-F2D7-44AF-8AFF-297BD7000007",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124972",
+              "numeric-id": 124972
+            }
+          },
+          "hash": "8d8d29e3cc3d2c171c249f8a092e4eab3e0257f1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147359$59AFE04F-415B-4BBA-A035-72318DC872B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147359$53694545-23D6-454F-9794-17FE41F8FD17",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1248-11-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f915a11a1ebb2ae2528aa3b369c065da203962d7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147359$52DE00BA-E7D8-446A-8485-6478DCB1194D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109105356"
+          },
+          "hash": "068fadfdb00f3bc072bb0bf81d2ebf14b1da0eb4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q147359$C57338A9-ED2F-4F66-A41B-2315A80A88B2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Emmeline de Broyes"
+          },
+          "hash": "cac731e75dc47142545c540d721832a46eadd87f",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147359$22CA9EF5-D48B-4F8A-AA20-8D592FFB071C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=emmeline;n=de broyes"
+          },
+          "hash": "484d8e8879d2f3f30433ed267a765add40d1be7c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147359$9AAD2B57-E9E8-48EE-A918-6D49E3AAA881",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emmeline de Broyes Arms.svg"
+          },
+          "hash": "b8672eff258665c49d21977ebc2f32b65994969f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q147359",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Emmeline de Broyes"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Emmeline de Broyes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Emmeline de Broyes"
+    }
+  },
+  "lastrevid": 17572018,
+  "modified": "2025-09-17T15:20:15Z",
+  "ns": 860,
+  "pageid": 175744,
+  "sitelinks": {},
+  "title": "Item:Q147359",
+  "type": "item"
+}

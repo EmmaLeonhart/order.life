@@ -1,0 +1,326 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ralph of Sudeley"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149103$C6050B87-B905-45F1-8136-CE8F95BE86BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00570526"
+          },
+          "hash": "5b467d3e930e9db3efc83ab34862f7c06bc7a699",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149103$490642D6-262A-42A9-87A4-BC5E00653EFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149507",
+              "numeric-id": 149507
+            }
+          },
+          "hash": "8769fc2881a520ea4f774a8e0ae4b8ce57f21025",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149103$874CD8B6-EEA4-4C11-8C4D-72C2D86BBE78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sudeley-14"
+          },
+          "hash": "aef0d81d3dfc770e5a0d58d422cd02515fa9a182",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149103$2924AD00-7281-417C-AC32-D67949720D27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149103$D4B7364C-FFE4-447E-9473-2DF073F10C44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149103$42B76660-10D0-46D9-9046-D089E0A383F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p58843.htm#i588429"
+          },
+          "hash": "b91a5c35b914a2a4a4032315371ac2da4029e2bc",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149103$6939DC0F-294B-4944-8470-A35188AF2593",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146803",
+              "numeric-id": 146803
+            }
+          },
+          "hash": "03b89705d34a8dfb90a07659f59894abbb18b447",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149103$1842DC93-CC2C-4A62-AD91-4756EC336326",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144999",
+              "numeric-id": 144999
+            }
+          },
+          "hash": "f7952bca650a1b695c8fbae3ddedd32f83cf335f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149103$30D29D46-B2F8-4F2A-83A3-2E73A38E00DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149103$B2AA2705-2BD4-439A-8A8D-D6AD3F55E9E8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1162-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9132cca6c31b401dd1de41b92ad24155e7e9702",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149103$F3902D68-9104-4CA2-90C6-490D6D807442",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1222-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4681337c234ea8762746f27210e88e871ae0e094",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149103$AE825170-46D8-438D-ADEF-0D3D84AFE740",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18674358"
+          },
+          "hash": "692c3d3e1cb96964bd34ca9fb8f29373a7d9a580",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149103$BDB6B5E5-EBE4-4E58-9292-D021B899955C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ralph;n=de sudeley"
+          },
+          "hash": "d947fb82eb4ff2841e49925add98b530c94466ce",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149103$A494EF7A-E273-499D-89BF-B3BE4BA73A86",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ralph of Sudeley Arms.svg"
+          },
+          "hash": "a7ac65aab97f573e25a33be835b992f69cadce3a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "English knight (d. in or before 1222)"
+    }
+  },
+  "id": "Q149103",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ralph of Sudeley"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ralph of Sudeley"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ralph of Sudeley"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ralph of Sudeley"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ralph de Sudeley"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ralph of Sudeley"
+    }
+  },
+  "lastrevid": 17574708,
+  "modified": "2025-09-17T15:57:47Z",
+  "ns": 860,
+  "pageid": 177556,
+  "sitelinks": {},
+  "title": "Item:Q149103",
+  "type": "item"
+}

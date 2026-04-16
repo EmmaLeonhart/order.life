@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Richard 'the younger' de Stackpole, of Stackpole"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150328$2036576C-A923-408F-B891-E8827B1E8A09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00674066"
+          },
+          "hash": "fe86b5542d4b5af8fea691f89d450e3e19fc6d3e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150328$5D94E2F2-3C11-4A44-9CFE-3FF29B047AEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145800",
+              "numeric-id": 145800
+            }
+          },
+          "hash": "2b8aa1296c3d7d4ea11780e0f93887bcaf9106c5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150328$80349B85-EBAE-4962-A29D-90BDF231D6D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Stackpole-7"
+          },
+          "hash": "5df55b8312972d7df940da3a55c90287f1c28dd8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150328$0A1AA356-B184-40A6-A3F3-A1D205B0DA6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150328$8AC6708C-11BD-4053-AA04-52686E87EA21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150328$C4F5E0E7-EE71-47B2-B042-970DF839EF1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150329",
+              "numeric-id": 150329
+            }
+          },
+          "hash": "d79e849cc662a1453d31be12d84db68730d290e3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150328$5AC317D4-E477-4C35-B5BC-5CFF9600BF9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150328$C21E3A81-D52E-4457-8F27-242AF947EC9E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1290-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9c643eba1c0a6206a07451ef866c12d5c20081b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150328$BD208493-C2F7-419B-896E-2EA7328D48C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1326-04-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c707db282955854afdf8aaafd65474cd84d55e12",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150328$2E3FFB3D-0ACC-48F8-9D4A-A5B701A08C11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99154393"
+          },
+          "hash": "d0d0697ba0813644082b83f104eb9d25824febaf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150328$4FA7A76D-6879-49FF-B24A-DD15189081CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Richard 'the younger' de Stackpole, of Stackpole Arms.svg"
+          },
+          "hash": "bce84da515542dc92698c521135fd3f329033356",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1290-1326)"
+    }
+  },
+  "id": "Q150328",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Richard 'the younger' de Stackpole, of Stackpole"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Richard 'the younger' de Stackpole, of Stackpole"
+    }
+  },
+  "lastrevid": 17577142,
+  "modified": "2025-09-17T16:30:45Z",
+  "ns": 860,
+  "pageid": 178781,
+  "sitelinks": {},
+  "title": "Item:Q150328",
+  "type": "item"
+}

@@ -1,0 +1,955 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Caracalla"
+      },
+      {
+        "language": "en",
+        "value": "Caracalla, Roman Emperor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148328$D8BC0584-C954-410E-AA88-C4A8928D7888",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351459"
+          },
+          "hash": "162cc82eea73afba01d90760628cba384b0a9a7f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q148328$CB60F10B-1008-4331-A25E-BB23657225E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446873"
+          },
+          "hash": "3f5d2f8ee098f83daef2a0b8bd40c7dd9cb5a959",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148328$A240CA58-6DC9-4C58-818A-6C84468CCFFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148330",
+              "numeric-id": 148330
+            }
+          },
+          "hash": "4165bfb29a953d5de541bf37ded63408b1840952",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148328$F80C85B2-CDD2-49AE-B075-B98C396A2BE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166245",
+              "numeric-id": 166245
+            }
+          },
+          "hash": "e2e8469d0eb6ce36416ff8ca3d473ae53d054d77",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148328$37FB580E-B787-496E-A94D-B85BF93D8DA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148328$8E8B922A-C6E7-4035-9216-025A6AF006E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148328$961D5D24-2A69-4A8E-870C-969744D70AD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Caracalla_(1)"
+          },
+          "hash": "562d398e27afb7972ee0c7ad3139841ae5b9310a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148328$4096516F-7C2A-4F2D-A004-D5B1E2082A85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151863",
+              "numeric-id": 151863
+            }
+          },
+          "hash": "3cbbf89e8c55d217ebedcbdfe902bcfa469c259a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148328$4AF101FD-3025-4DDB-A0E5-40BCD5D7A2A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166259",
+              "numeric-id": 166259
+            }
+          },
+          "hash": "3eea3f8f67d7f7fad62513b8eaffd0de9e5ef4f2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148328$248093A3-E90D-44F9-8ABA-64A894AA7776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148329",
+              "numeric-id": 148329
+            }
+          },
+          "hash": "3eebf44f5e3354126bf4f73baf4e808dafd75c40",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148328$BE0CD714-5BD2-4A32-A154-4DE3841482DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63879",
+              "numeric-id": 63879
+            }
+          },
+          "hash": "36d886537be9d3a621dd907ba4e746698d12e8e3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148328$0D80419B-B6F4-4A3A-9414-4356387F27E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63846",
+              "numeric-id": 63846
+            }
+          },
+          "hash": "61959b7ef71f9d3e427fe07efce706431e750a7b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q148328$6332498E-D5A9-4D7E-B65A-552B9CB5E231",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "35109436"
+          },
+          "hash": "0836e8275156bebb6aab10f4091bc2ff0a28ea30",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148328$5B3B6F63-B1DC-475A-8BB6-1978459FD704",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148328$87AB5329-4144-4511-8AE3-895C54ABAC01",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0188-04-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f57dfc32a3e5a15c6876513150fb20fa61a150b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148328$59114502-3B01-41EE-AD4D-3E08DB5CF66F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0217-04-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7eec2ee58227475000999334240bc8275001d9e6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148328$2CBB882C-439F-4EEA-9914-7D3E361273ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1446"
+          },
+          "hash": "592e65ec5b3c00bc0acee0a80cc275c01e4d4e3c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q148328$19EB3625-40C5-4239-8160-4AE5301BA7A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010569656543"
+          },
+          "hash": "141c7aea032ab21860a138d29bbcfedb9229f164",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q148328$E32D3295-C5D3-48C7-BA16-4F73DA6A6E64",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:33862"
+          },
+          "hash": "db30f2f61acba8ff780ec6d7a78a9c8500a262db",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148328$FC8F6B34-69C2-4BBC-B660-5DC5FF184D8A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Caracalla Arms.svg"
+          },
+          "hash": "396550ea617fa15e97c052d78458c77677582a0d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q148328$753620C3-F3AE-4C77-A4C4-A08AD7D651AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/8e45ab39-b22e-4ef8-aa68-834981d55aa8"
+          },
+          "hash": "f9cc2470d5ff5b37fd44816da67c1ff9c9ed2cfa",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà del 211 al 217"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆرێکی ڕۆمانی (١٩٨–٢١٧ز)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ymerawdwr Rhufeinig"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman emperor from 198 to 217"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Emperor of the Roman Empire (198-217), Co-Emperor with Geta (209-211)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Romio de la 3-a jarcento"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (198-217)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور روم از سال ۱۹۸ تا ۲۱۷"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiikin Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain de 211 à 217"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano entre 198 e 217"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "römische Kaiser"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומא משנת 211 ועד למותו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi yang memerintah bersama ayahnya, Septimius Severus, dari 198 hingga 211 dan kemudian sebagai penguasa tunggal hingga 217"
+    },
+    "it": {
+      "language": "it",
+      "value": "ventunesimo imperatore romano (r. 209-217)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ皇帝"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "amenkad arumani seg 211 ar 217"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Romas imperators no 198. līdz 217. gadam"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Maharaja Rom"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Syrië (188–217)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador do Império Romano (198-217), Co-Imperador com Geta (209-211)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador do Império Romano (198-217), Co-Imperador com Geta (209-211)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărat roman"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Римский император"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Rimski cesar"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Romersk kejsare"
+    },
+    "th": {
+      "language": "th",
+      "value": "นายท่านค่ะ"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی شہنشاہ (188-217)"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗马帝国的皇帝"
+    }
+  },
+  "id": "Q148328",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Caracalla"
+    },
+    "an": {
+      "language": "an",
+      "value": "Caracalla"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "كاراكلا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كاراكلا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Caracalla"
+    },
+    "az": {
+      "language": "az",
+      "value": "Karakalla"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "کاراکالا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Каракала"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Каракала"
+    },
+    "br": {
+      "language": "br",
+      "value": "Caracalla"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Karakala"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Caracal·la"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "کاراکالا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Caracalla"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Caracalla"
+    },
+    "da": {
+      "language": "da",
+      "value": "Caracalla"
+    },
+    "de": {
+      "language": "de",
+      "value": "Caracalla"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Caracalla"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Caracalla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Καρακάλλας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Caracalla"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Caracalla"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Caracalla"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Caracalla"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Karakalo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Caracalla"
+    },
+    "et": {
+      "language": "et",
+      "value": "Caracalla"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Karakala"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Caracalla"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاراکالا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Caracalla"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caracalla"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Karakalla"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Caracalla"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Caracalla"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Caracalla"
+    },
+    "he": {
+      "language": "he",
+      "value": "קרקלה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Karakala"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Caracalla római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կարակալլա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Caracalla"
+    },
+    "is": {
+      "language": "is",
+      "value": "Caracalla"
+    },
+    "it": {
+      "language": "it",
+      "value": "Caracalla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カラカラ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კარაკალა"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Karakalla"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Caracalla"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Каракалла"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "카라칼라"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Caracalla"
+    },
+    "la": {
+      "language": "la",
+      "value": "Caracalla"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Caracalla"
+    },
+    "lrc": {
+      "language": "lrc",
+      "value": "کاراکالا"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Karakala"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Karakalla"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Каракала"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "കാരകാല്ല"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Каракалла"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "कॅराकॅला"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Caracalla"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Caracalla"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Caracalla"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Caracalla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Caracalla"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Caracalla"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Caracalla"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Karakalla"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Caracala"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caracala"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caracala"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Caracalla"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Caracalla"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Каракалла"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Caracalla"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Caracalla"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Karakala"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Caracalla"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Karakala"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Caracalla"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Каракала"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Caracalla"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Caracalla"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิการากัลลา"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Caracalla"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Caracalla"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Каракалла"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کاراکالا"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Caracalla"
+    },
+    "war": {
+      "language": "war",
+      "value": "Caracalla"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "卡拉卡拉"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "კარაკალა"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Caracalla"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "卡拉卡拉"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡拉卡拉"
+    }
+  },
+  "lastrevid": 17573208,
+  "modified": "2025-09-17T15:36:45Z",
+  "ns": 860,
+  "pageid": 176781,
+  "sitelinks": {},
+  "title": "Item:Q148328",
+  "type": "item"
+}

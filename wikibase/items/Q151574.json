@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Calpurnius Piso"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151574$3BAE5782-0F5D-47E0-B440-8E48045D6AC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151573",
+              "numeric-id": 151573
+            }
+          },
+          "hash": "7ff30988e71527a95bd389702fa9e6376c1f9308",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151574$9A6631E1-D267-47AC-B866-17B1F58F4348",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151574$F0AC0123-D6A2-4490-8FB6-9E4FEA8C9C65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151574$B8A13749-1B08-4768-844F-36A738A9DAE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151659",
+              "numeric-id": 151659
+            }
+          },
+          "hash": "a6f521031b0de169ddd5b7bde090b892dd91dcff",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151574$8C95552F-CB19-4262-BBF3-5B704D631BCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151574$1CB7E898-697F-44F7-AFE7-AF8E7094B2F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151574$43EF8FA7-31DF-4978-8880-2FCAE5AE0DF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q102350968"
+          },
+          "hash": "ae631b2b169339c13ce1b3391cfbbce827f4a86b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151574$37F3873E-4C31-40C9-A708-7C1155FBEA46",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Calpurnius Piso Arms.svg"
+          },
+          "hash": "d8cf14ecdd68f282dd24450e184593dda0f6af86",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman officer during the Second Punic War who was defeated by Mago"
+    },
+    "es": {
+      "language": "es",
+      "value": "oficial del Ejército romano en Sicilia durante la segunda guerra púnica"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire romain durant la deuxième guerre punique"
+    }
+  },
+  "id": "Q151574",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Calpurnius Piso"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Calpurnius Piso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Calpurnio Pisón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Calpurnius Piso"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Calpurnio Pisone"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Calpurnius Piso"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Calpurnius Piso"
+    }
+  },
+  "lastrevid": 17579548,
+  "modified": "2025-09-17T17:03:54Z",
+  "ns": 860,
+  "pageid": 180028,
+  "sitelinks": {},
+  "title": "Item:Q151574",
+  "type": "item"
+}

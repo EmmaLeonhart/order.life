@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Walter de Dunstanville"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149493$A83E17BD-E061-4BC4-9F04-77B912716AFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dunstanville-22"
+          },
+          "hash": "35fd80e5d3de5636eb5b922b59a93c71a3909eed",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149493$D723AE5C-9AC6-4809-AE07-4C59D00A8D8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149493$F3B58CDC-20F0-40BD-B252-9D449D7547C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149493$C1B7301B-0523-4C2B-9F3A-098E75E938D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145211",
+              "numeric-id": 145211
+            }
+          },
+          "hash": "2cac1c6161067a7616364458fb3baffd5ce72759",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149493$D92B4F76-EF52-4277-9E45-5D874045970F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149493$5C2301D9-6282-49BB-8FE4-1473D49FA3A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149493$FA7BEA04-042F-4022-B3C8-66418D318B41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1195-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6619bf8a92e96c754b6367c905774394252e1198",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149493$F37E4673-2FC3-4A0F-9FFB-3CE6E739ECAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18577128"
+          },
+          "hash": "4e3e3568adacb04e82faa39951d04a696c8e4ffc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149493$6D1637D9-908A-41C3-A1AE-594FC1C87F7B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Walter de Dunstanville Arms.svg"
+          },
+          "hash": "849972b151707da64252fe9b1d8e53ae0df011a0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "(† um 1195)"
+    },
+    "en": {
+      "language": "en",
+      "value": "est. 1143 - 1190"
+    }
+  },
+  "id": "Q149493",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Walter de Dunstanville"
+    },
+    "de": {
+      "language": "de",
+      "value": "Walter de Dunstanville"
+    },
+    "en": {
+      "language": "en",
+      "value": "Walter de Dunstanville"
+    },
+    "es": {
+      "language": "es",
+      "value": "Walter de Dunstanville"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уолтер I де Данстанвиль"
+    }
+  },
+  "lastrevid": 17575478,
+  "modified": "2025-09-17T16:08:24Z",
+  "ns": 860,
+  "pageid": 177946,
+  "sitelinks": {},
+  "title": "Item:Q149493",
+  "type": "item"
+}

@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ulf Karlsson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151259$B809083E-2533-4020-9630-844C7DC1F014",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00280475"
+          },
+          "hash": "1f4c0413d6fee1afedbd334292ed4f9286887fe7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q151259$ABE6B34D-DA26-486A-8A46-47B7AD2BD65E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Karlsson-944"
+          },
+          "hash": "5eb391663d680a0e2f4ee837f83064f2ce36b3ce",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151259$CB1E8F88-7D23-4922-93E0-DCC2EB6CCC7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151259$EA142F08-065A-4EC6-B3C5-39A221405A70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151259$ED781B33-948B-41D5-865B-216DC0AF1D8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146537",
+              "numeric-id": 146537
+            }
+          },
+          "hash": "35bc20a4a40cad036f1ac9c4738dc34f79c2ca86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151259$656D29C6-A310-4259-B225-7CBBC991C4F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151259$FF39FDBF-F06B-480F-807B-699D3CF120D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151259$4628D2C5-42DC-432A-8671-EF014BF300CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1281-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c66d0fb34646a513535f553004925e3b9890bed",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151259$33B29769-FC1E-47FB-853A-D381D54E0512",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6219155"
+          },
+          "hash": "064f0aa1a224787c2e635f99e605ec33975ea8cb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q151259$08635F0E-C7BB-4313-B096-973726D76C44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ulv;n=ulv"
+          },
+          "hash": "4edc4500d92b846d2746a1764c15c03073de4572",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151259$F2919157-12C1-4524-AFD8-F89C4C32529F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulf Karlsson Arms.svg"
+          },
+          "hash": "ceb2df9e35f888b4f1707b968ed29fee5488db45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1247-1281)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "svensk riddare, riksråd och drots"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1247-1281)"
+    }
+  },
+  "id": "Q151259",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ulf Karlsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ulf Karlsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ulf Karlsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ulf Karlsson (Ulv)"
+    }
+  },
+  "lastrevid": 17579000,
+  "modified": "2025-09-17T16:56:36Z",
+  "ns": 860,
+  "pageid": 179713,
+  "sitelinks": {},
+  "title": "Item:Q151259",
+  "type": "item"
+}

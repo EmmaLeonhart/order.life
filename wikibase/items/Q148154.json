@@ -1,0 +1,264 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Titia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148154$55FA8708-A050-480E-843C-64AB54C44CC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00801096"
+          },
+          "hash": "e575b578907dac24fd7c44bd443e5586adafa320",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148154$62B26CED-56D4-41A6-B5E0-73983638849D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144190",
+              "numeric-id": 144190
+            }
+          },
+          "hash": "218b1816474f0fdb4e02ba48c436bf5fa9aa3e41",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148154$C712B7AB-1170-45A7-954F-605DE5FFAA02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148154$96906F72-8BB7-4661-996E-8D3142C17B62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148154$73C1971D-6D21-4F64-A7B9-97CF208353D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148153",
+              "numeric-id": 148153
+            }
+          },
+          "hash": "32133ae8963cda8a23e68096b0c1576516ccef69",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148154$CA9F1A35-B221-46C3-80A3-8D7FCF00FC7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151384",
+              "numeric-id": 151384
+            }
+          },
+          "hash": "fb2d7189a060e615f9c28173a197d7525e16da57",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148154$A3DCCD9C-4296-4E08-82CC-50A217BCA0A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148154$9A7F7440-C1DF-4609-B9FE-6EECE70FC7CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0023-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "89fdcdc666bb60555a7b02a9c4aba1e55a4a2684",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148154$C4BBE2A4-7217-4621-A72F-5882E15736D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108946525"
+          },
+          "hash": "774ba96a8d7eebef29bdccc3961410f94fe6d4d9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148154$9CACBC9B-5B0C-40B0-B701-5F0F173486D5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Titia"
+          },
+          "hash": "8abb303181c3d6636be193026ba3716b838670e3",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148154$14776D8A-1055-4712-A7D7-37BEB1C0C671",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Titia Arms.svg"
+          },
+          "hash": "24a49f6701de7c3c910780c420498a27ccc22300",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "àvia de l'emperador Otó"
+    },
+    "en": {
+      "language": "en",
+      "value": "grandmother of emperor Otho"
+    }
+  },
+  "id": "Q148154",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Titia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Titia"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Titia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Titia"
+    }
+  },
+  "lastrevid": 17572918,
+  "modified": "2025-09-17T15:32:41Z",
+  "ns": 860,
+  "pageid": 176385,
+  "sitelinks": {},
+  "title": "Item:Q148154",
+  "type": "item"
+}

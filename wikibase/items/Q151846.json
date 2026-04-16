@@ -1,0 +1,305 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Claudius Sabinus Regillensis"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151846$DA9314B2-7461-478B-B21C-F69E6C360A5E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "132732"
+          },
+          "hash": "95db681fe37b70bd44997a12e5a229d86437aa45",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151846$D8F0836E-CE13-42FC-9733-1E9A9A5C93A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151846$938FCFAB-9DD0-49CB-90F1-442562A88E6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151846$F52DB99A-6170-4355-8349-168D6D94E322",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151844",
+              "numeric-id": 151844
+            }
+          },
+          "hash": "1c693df44253f00932a71277e3e8b474356e0c53",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151846$295215A2-41C9-4AE9-B2DC-0E650CB76D83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151846$2BE76AC8-F3F8-4E1E-9394-6FA6023E632D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151846$E7E4DC12-0A67-4F42-A8BE-C14DA2EF6A7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q683347"
+          },
+          "hash": "bf7cfa1d9cb35f8052f733abe29aac1ccee79641",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151846$42B53D8D-14AC-4C4E-8C02-1B5C32448B01",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Claudius Sabinus Regillensis Arms.svg"
+          },
+          "hash": "fe7de790f156757ede60c54ae2d809fcbf2044c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 460 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator, consul in 460 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul en el año 460 a. Cristo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 460 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (500v Chr-445v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q151846",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Клавдий Инрегиленсис Сабин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Claudi Sabí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Claudius Sabinus Regillensis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Κλαύδιος Σαβίνος Ρεγιλένσις"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Claudius Sabinus Regillensis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Claudio Sabino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Claudius Sabinus Regillensis"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cayo Claudio Irregilense"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Claudio Crasso Inregillense Sabino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Claudius Ap.f. Inregillensis Sabinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cayo Claudio Irregilense"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Cláudio Crasso Inregilense Sabino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Cláudio Crasso Inregilense Sabino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Клавдий Сабин Инрегиллен"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Claudius Sabinus Regillensis"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Клавдій Сабін Регіллен"
+    }
+  },
+  "lastrevid": 17580020,
+  "modified": "2025-09-17T17:10:10Z",
+  "ns": 860,
+  "pageid": 180300,
+  "sitelinks": {},
+  "title": "Item:Q151846",
+  "type": "item"
+}

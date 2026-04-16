@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Thomas Gamage, of Rogiad & Coyty"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149607$3849EFA9-B147-43C8-8B90-EA058877A9CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00282623"
+          },
+          "hash": "d1f3494c33c66ef6bc7bbc8e26285feb3ffefa03",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149607$1288A663-4E17-4109-AD84-E1B42C3F40E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150508",
+              "numeric-id": 150508
+            }
+          },
+          "hash": "92b8f3ced57b2a471d6a88d69a01810b2bcce685",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149607$02C72137-EA87-4EE5-B8CE-EE9A645803C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gamage-9"
+          },
+          "hash": "959f8baa52afaa72afe046c919ead44c43d1cd5f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149607$D6CC3B95-1601-4B39-9C78-DD80BDAE78CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149607$EF754574-D005-4515-9BE9-F64DB63D9A4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149607$2742E253-E08A-490E-A1E6-24CC58E17C29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145270",
+              "numeric-id": 145270
+            }
+          },
+          "hash": "352b7ac3c96be9775cc3511678d73c2deaba8e76",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149607$E0A344A4-A584-4935-95A4-1E2E31E26AF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149607$878F4891-3675-44BA-B3DB-177FDAAC26E6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1404-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f0de59638c3e31a222788c6c151e68ec69f06d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149607$BE092583-97ED-47A7-AA9F-D9F9579A9F16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1475-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4e736c9f091d3bd11234baa05b521b689197a92b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149607$F0CA5972-51B6-4CFF-B93B-D56CDEC2F95F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99068137"
+          },
+          "hash": "b8666cfa61af5973b480b9710d9052d54ac42ec6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149607$19A40862-A5BB-4CBA-B3CF-49D4F65BF508",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Thomas Gamage, of Rogiad & Coyty Arms.svg"
+          },
+          "hash": "9cd60c92864b16ca28a51d5f48332d9621ef251a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(c.1408- )"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abt 1408 -"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "уэльсский аристократ"
+    }
+  },
+  "id": "Q149607",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Thomas Gamage"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sir Thomas Gamage, of Rogiad & Coyty"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Thomas Gamage, of Rogiad & Coyty"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Томас Гэмидж"
+    }
+  },
+  "lastrevid": 17575706,
+  "modified": "2025-09-17T16:11:26Z",
+  "ns": 860,
+  "pageid": 178060,
+  "sitelinks": {},
+  "title": "Item:Q149607",
+  "type": "item"
+}

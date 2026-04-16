@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas le Blount, 1st Lord Blount"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149977$9E082CFC-96B0-41C5-B85D-1127F13CE929",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Blount-968"
+          },
+          "hash": "e97c92655683d7620d89a7abc54aed9995e4d5ec",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149977$75BC2D23-789B-4A95-8855-7BED0A0B9884",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149977$8E4F48FB-19D2-4D51-A6D3-28DFB1389821",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149977$4EE880B6-A501-4B90-B67C-B0C7BC18E2C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145491",
+              "numeric-id": 145491
+            }
+          },
+          "hash": "261dd1a4a4f6e9b45667604b886cbfb79966ff31",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149977$168E639F-2343-4FA8-A5D9-13F4DAE46C8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p12564.htm#i125639"
+          },
+          "hash": "114cd1309924ded686715b60c19404c17a4a4905",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149977$1069C29D-7B32-4134-BB9F-8AE6F7584F9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149977$839FE1FF-8B7D-432C-9E7E-02ABA740B146",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149977$0849A1C2-0168-451C-A3BA-62A4941D7F09",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1328-09-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a893b3e2480c8e267af5e35af249291466883da0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149977$19614C4D-19E3-44A1-BC50-9098779CD7BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75412280"
+          },
+          "hash": "98fa9fcb11ff00e75b790a9aad51a271ac53635f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149977$ABE3C2A5-A9BB-4883-A1FF-53C4517D0D2B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas le Blount, 1st Lord Blount Arms.svg"
+          },
+          "hash": "6d2ba1fcf90ec2e328a6f9eab9281de462983ea4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=125639"
+    }
+  },
+  "id": "Q149977",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Thomas le Blount, 1st Lord Blount"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thomas le Blount"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thomas le Blount, 1st Lord Blount"
+    }
+  },
+  "lastrevid": 17576440,
+  "modified": "2025-09-17T16:21:13Z",
+  "ns": 860,
+  "pageid": 178430,
+  "sitelinks": {},
+  "title": "Item:Q149977",
+  "type": "item"
+}

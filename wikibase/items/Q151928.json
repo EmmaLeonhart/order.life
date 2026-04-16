@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Aurelius Gallus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151928$DCF26CD7-09F9-4D5F-B36A-44899CD30FB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151914",
+              "numeric-id": 151914
+            }
+          },
+          "hash": "b46c6a17231d8450881a5f94924e3c363dd41736",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151928$837D177C-28BE-4BE5-8943-766BE0B64052",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151929",
+              "numeric-id": 151929
+            }
+          },
+          "hash": "3b5d0db5ec574892054a2f259f2fcb4a9ce0cdcb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151928$6C70DDB8-51D9-4177-8CDA-97AE085478E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151928$4EEAD9EE-F8A3-4552-A50D-CE1E5BB8FE38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151928$A95BC8E1-6108-422F-A463-053569A386DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151940",
+              "numeric-id": 151940
+            }
+          },
+          "hash": "5088b43fece2ed48d14f868c78a3578717ad1777",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151928$977B9960-FC96-4425-AA66-C802ECE6456A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151928$0F4C577C-FD2F-4B2E-BE29-6D9C7E1D7273",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151928$BC229F1B-BB71-4808-9824-7B3C3B246FD2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1239524"
+          },
+          "hash": "0666c91d00a9713bad2dcf21dd328c341fd628be",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151928$B0F6F5E0-802E-4B88-A4DB-FF63AA723AAF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Aurelius Gallus Arms.svg"
+          },
+          "hash": "2494c3ebb786aac6e881291ca28cabaa59dc3690",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 174"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator and suffect consul in 174"
+    },
+    "es": {
+      "language": "es",
+      "value": "senador romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q151928",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Аврелий Гал"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Aurelius Gallus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Aurelius Gallus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Aurelio Galo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Aurelio Galo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Aurelio Gallo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Aurelius Gallus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Aurelius Gallus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Аврелий Галл"
+    }
+  },
+  "lastrevid": 17580148,
+  "modified": "2025-09-17T17:11:50Z",
+  "ns": 860,
+  "pageid": 180382,
+  "sitelinks": {},
+  "title": "Item:Q151928",
+  "type": "item"
+}

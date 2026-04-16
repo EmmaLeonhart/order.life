@@ -1,0 +1,193 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fergal, King of Ailech"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147776$B7A4DF35-43EE-4F21-8C25-7ED1442118FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147776$7A37C1FA-45BC-4949-B3F8-0428A346F22B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147776$E3A16D6F-AC2C-445B-AB7D-86263029A9EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p54617.htm#i546169"
+          },
+          "hash": "f7e12d500dce28c85fb9d4468e41f81699bd187e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147776$3819BE01-66ED-4EDD-8A7E-FF5E39C4430C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143921",
+              "numeric-id": 143921
+            }
+          },
+          "hash": "e3a5de201bd87f3ad089c8888a3d048ed58e6651",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147776$A4491724-C635-483C-94D0-F48933257423",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147776$4956AC6B-6FE2-4A2B-A803-25FD203DDCF7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a1a5786d44ddb8a2c4fdcee1bebdaf18f2ea8e17",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147776$D521C258-2B7F-4FD1-87B8-11E86CA7E23E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76121967"
+          },
+          "hash": "72235de03a8a5d0ee3f45fc3cf00bb610e82e3ec",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147776$23ECC404-72F3-463B-A1F1-49E1738455E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fergal, King of Ailech Arms.svg"
+          },
+          "hash": "cc135315e2e818d5727e9f4b520bcb2095760299",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=546169"
+    }
+  },
+  "id": "Q147776",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fergal, King of Ailech"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fergal, King of Ailech"
+    }
+  },
+  "lastrevid": 17572436,
+  "modified": "2025-09-17T15:26:05Z",
+  "ns": 860,
+  "pageid": 175979,
+  "sitelinks": {},
+  "title": "Item:Q147776",
+  "type": "item"
+}

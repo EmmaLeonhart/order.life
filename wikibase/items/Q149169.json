@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maud de Geneville"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q149169$01FDDB99-BAFC-4E5F-9F80-AAC1E0BDC199",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "599440"
+          },
+          "hash": "629d41ba21a89247f5121e0d33bd30fdb2090c4e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q149169$4AA496D8-5568-464D-9AD4-38D7B9DCF015",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00236582"
+          },
+          "hash": "f820f6920dfcc303428f4e1f4673ab660b5ce2c8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149169$780DD3AD-AD52-4D8B-93FC-846CC6A611F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "De_Geneville-15"
+          },
+          "hash": "0ab20ef0c8c71464d35c4510aae9db3f29b69074",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149169$2AA32F40-3611-4018-A3AD-456FF4C9E34C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149169$F18CA139-CB2B-4F0A-8149-849F2B4485AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149169$F22B3AD3-6010-45CF-90B4-08984BF51A58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145045",
+              "numeric-id": 145045
+            }
+          },
+          "hash": "ad7eb806cb560aae1a2c9a081c1170a97e8a74eb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149169$7B2B51CB-4044-46AD-A874-A68B4F2CBF6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149169$E5AEA8C1-E769-4B9A-B73E-5320E92E6D2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1310-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3fc234c292844c02bb13f8ef28b8ecc8711da73",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149169$DCCCFC61-3179-4112-8974-453EB22E917E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1345-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7bdb28e10f00ee8aa6f9dc65262d9faad7b0a200",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149169$92F157ED-045C-4FC5-994C-B1375E1BEFCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q100390592"
+          },
+          "hash": "9eef90fd0fe01fe1ed201abe9b89e321872b36c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149169$DF4A4751-9D03-4417-BF98-36045CD72CFA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Maud de Geneville"
+          },
+          "hash": "480bd61117892baedfe6096bf0536a513c99c128",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149169$BDF12917-8B57-4F75-A8DF-47F922EB1DA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=matilda;n=de geneville"
+          },
+          "hash": "b77298e7df90c120de233ffab602968d8a76fa19",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149169$93689E81-7B12-4E2A-9C69-207D0989C43E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maud de Geneville Arms.svg"
+          },
+          "hash": "7dcfef9d414e9fd009f9dea1a7479eb0646fc14d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1310 - 1345"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1310-1345)"
+    }
+  },
+  "id": "Q149169",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maud de Geneville"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Maud de Geneville"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maud de Geneville"
+    }
+  },
+  "lastrevid": 17574840,
+  "modified": "2025-09-17T15:59:32Z",
+  "ns": 860,
+  "pageid": 177622,
+  "sitelinks": {},
+  "title": "Item:Q149169",
+  "type": "item"
+}

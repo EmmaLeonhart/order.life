@@ -1,0 +1,605 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jean de Joinville"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q149157$10DC1864-7F5C-45A4-A81E-7E25AC59770A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "10349"
+          },
+          "hash": "f87a3d5eeff2ba4a3c52c9bd3bfe6f5e95ed1d02",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q149157$EF16A501-D032-4880-8172-77FB575430C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00028146"
+          },
+          "hash": "0ea16d6716173efb7e51cb286261ebe6fe617ea1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149157$24B125C1-AE9E-4324-8893-788026A124DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Joinville-1"
+          },
+          "hash": "038090ed2dc822134c9379c8264dcb45f74c3b9c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149157$0FEDE0A5-DAA8-4036-944D-C50F7F70A551",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149157$A120550C-43B4-4E10-97C5-F43083D8CD1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149157$57C33B07-B850-4E99-89F0-630152D5F703",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Jean_de_Joinville_(1)"
+          },
+          "hash": "c42f3e1225bd68f3062fa9cfa31a3b3fd6e3567a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149157$E36909CB-F690-4F5F-A98E-FDF392CF0547",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10693.htm#i106921|p40324.htm#i403238"
+          },
+          "hash": "e3bc8bd16d01f2c421a14de2c6d9a903c121a574",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149157$1F5968FA-4045-43FD-ACB7-8B7ED62A67D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149155",
+              "numeric-id": 149155
+            }
+          },
+          "hash": "229dd2f80aed0fae9043dbc53b83b9d166b54388",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149157$0B7C36B5-0BCB-4FCE-B917-756D2135CBE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149156",
+              "numeric-id": 149156
+            }
+          },
+          "hash": "6d214cd8eb2e4d2ecf27fd4d1ca3e9e94b0ed207",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149157$742B227C-7862-460F-A7B7-5DD976C1876D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149157$4A9529F6-A32A-4FEF-A069-1B251E1ED68A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1224-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "226a2fcc5544f28fd37505c0e3b5faa4a912dad9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149157$57B0F0C2-496E-4BEF-BED0-0A3DFA53180C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1317-12-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "218d221ce13fa29d9a9ff08baf8b2d32f6e1796f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149157$BBD996A3-9955-4399-9100-E35D7DA7FC52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q328747"
+          },
+          "hash": "6b1d65c465474a8144fdad15ea31a89e0f2e4764",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149157$08ED5220-C5AD-400B-A5F1-2D87D78EFFB2",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Jean de Joinville"
+          },
+          "hash": "34d1c722e4642396e8120a7574357aab078f0db7",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149157$51D7022C-6BA9-47E3-A029-2F6E6C9B9197",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=jean;n=de+joinville"
+          },
+          "hash": "3ffed7cf3cc8078db7cd694478deb928092f55c6",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8094": [
+      {
+        "id": "Q149157$0DEF8223-AD55-4DDC-B380-ECDBF2606661",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dejoinvillej"
+          },
+          "hash": "1283337cae6878bdea42f04591e8d40272bf79ec",
+          "property": "P8094",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149157$4553BCD3-64E5-4DA3-B3D2-C8739D5FBA54",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jean de Joinville Arms.svg"
+          },
+          "hash": "b1a0b65bcd7b0f7fa9b8107d299b7691d1e629b7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كاتب فرنسي"
+    },
+    "br": {
+      "language": "br",
+      "value": "skrivagner gallek"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "rytíř"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "France siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Seneschall von Champagne und Chronist von Ludwigs IX."
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάλλος χρονικογράφος, βιογράφος του Λουδοβίκου Θ'"
+    },
+    "en": {
+      "language": "en",
+      "value": "French chronicler"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "franca kronikisto"
+    },
+    "es": {
+      "language": "es",
+      "value": "cronista francés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Prantsuse kroonik"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نویسنده و تاریخنگار فرانسوی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur champenois, chroniqueur et biographe de saint Louis"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "croiniceoir Francach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "cronista francés medieval"
+    },
+    "he": {
+      "language": "he",
+      "value": "היסטוריון צרפתי"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "ֆրանսիացի գրող"
+    },
+    "it": {
+      "language": "it",
+      "value": "cavaliere e biografo francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans auteur"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "dziedziczny seneszal Szampanii"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "cronista medieval francês"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сеньор де Жуанвиль и сенешаль Шампани, французский хронист"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız yazar (1224-1317)"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Amanyɔni"
+    }
+  },
+  "id": "Q149157",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جان دي جوانفيل"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جان دى جوانفيل"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jean de Joinville"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jean de Joinville"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jean de Joinville"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jean de Joinville"
+    },
+    "ee": {
+      "language": "ee",
+      "value": "Jean de Joinville"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ζαν ντε Ζουανβίλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jean de Joinville"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jean de Joinville"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jean de Joinville"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jean de Joinville"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Jean de Joinville"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ژان دو ژوانویل"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jean de Joinville"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean de Joinville"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Jean de Joinville"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán de Joinville"
+    },
+    "he": {
+      "language": "he",
+      "value": "ז'אן דה ז'ואנוויל"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jean de Joinville"
+    },
+    "id": {
+      "language": "id",
+      "value": "Jean de Joinville"
+    },
+    "it": {
+      "language": "it",
+      "value": "Jean de Joinville"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジャン・ド・ジョアンビル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ioannes de Ionvilla"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Jean de Joinville"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jean de Joinville"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jan van Joinville"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Jean de Joinville"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Joinville"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Jean de Joinville"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jean de Joinville"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João de Joinville"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João de Joinville"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Жан де Жуанвиль"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jean de Joinville"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jean de Joinville"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jean de Joinville"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jean de Joinville"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Жан де Жуанвіль"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "让·德·茹安维尔"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "让·德·茹安维尔"
+    }
+  },
+  "lastrevid": 17574816,
+  "modified": "2025-09-17T15:59:14Z",
+  "ns": 860,
+  "pageid": 177610,
+  "sitelinks": {},
+  "title": "Item:Q149157",
+  "type": "item"
+}

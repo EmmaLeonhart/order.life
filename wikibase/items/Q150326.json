@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Thomas de Pype"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150326$EE2E34A0-5FEB-4958-AC51-5F74D3A514FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00674033"
+          },
+          "hash": "3906db13f4d720eae992246cd17a79fcc82a9621",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150326$2F4D11C9-846A-49A7-BFB4-B944E008F718",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145799",
+              "numeric-id": 145799
+            }
+          },
+          "hash": "0f0a7b0665b10173c288eecf4cf12bc1a46d7955",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150326$BB5D3B0B-1803-4682-8D49-F27993D9B4EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pype-2"
+          },
+          "hash": "0098e75a9a717f2e73d019e065e648e916c621f1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150326$5A49A3C5-40EA-4C5A-AE76-77FB835DB9B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150326$00C02D13-765A-4952-8F84-98A5A3825BCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150326$BEC97448-058C-40E6-89CF-17F8A0528CD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150327",
+              "numeric-id": 150327
+            }
+          },
+          "hash": "d63ac3245509df6323410370f5440e78788b2b7e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150326$BC195620-892A-4952-BEEB-B0B69372FC0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150326$F2C908AF-AF24-407A-BE29-4A23581141F2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a30e929c8128e528cb4df0827a2224a6c9d8c3b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150326$D95567DD-23A6-4A63-8CBC-935BDEBD046F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1326-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bdc889c06c5b6749d0c3cd6bd77d33c79fafffe6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150326$2A3BB075-5FE9-484B-B35D-747645B07E03",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116058367"
+          },
+          "hash": "0c607322a4b40af534386f632f9e5f55cfa6e45f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150326$EDDDD6C3-D509-4DB8-B443-55DF6F9FA57E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Thomas de Pype Arms.svg"
+          },
+          "hash": "941a467d345c9031954c14e7c5e5165eca4a401a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1260 - 1326"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1260-1326)"
+    }
+  },
+  "id": "Q150326",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Thomas de Pype"
+    }
+  },
+  "lastrevid": 17577138,
+  "modified": "2025-09-17T16:30:41Z",
+  "ns": 860,
+  "pageid": 178779,
+  "sitelinks": {},
+  "title": "Item:Q150326",
+  "type": "item"
+}

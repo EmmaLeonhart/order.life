@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Heinrich II Graf von Ortenburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147134$A596CD4B-16DE-4B0D-9359-5E403E857839",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00545946"
+          },
+          "hash": "bf29fdf3a71bd6b390f0c3ea2d224aeea76bebbc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147134$A7466B45-C957-4CCB-8F21-ACB042378627",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147134$1F6CB6D9-F052-4640-9C62-137443B83EBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147134$7A298135-685D-4698-8324-CB091B45C6BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p64709.htm#i647082"
+          },
+          "hash": "d0a6fdaf558354bc75c0e613bf6155309882ece3",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147134$F51CC6D9-F8F3-47E4-A488-067E405895BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128143",
+              "numeric-id": 128143
+            }
+          },
+          "hash": "3ac3d14b62a7d9a98c4f17fdd501bfacef756a86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147134$122C10C5-1640-42FF-A845-72536CC48417",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127499",
+              "numeric-id": 127499
+            }
+          },
+          "hash": "f80044f1c1d8f054aa46985cc2a1fefede9fd775",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147134$4C4529EB-9BA3-40C4-977E-4432180E8114",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147134$1D851BB7-7BD7-4165-82E5-CB1BC6ACFDCA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147134$B57D1452-E8C3-4CE0-91A0-4D4E63C6458B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1257-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae3e15dfb0f6c3683714ab81aa01ea04c8e58284",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147134$ADF7F3E6-B2D7-4A83-87F5-A52DBF81DE19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1597755"
+          },
+          "hash": "aceaecc060b24dacae719c1c8521d9c5f9df7d70",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147134$0F4577AA-CAD0-4082-B22B-2515836F9985",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heinrich II Graf von Ortenburg Arms.svg"
+          },
+          "hash": "ee29cddb8452f3003e9b1ae40428f869fc18113a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Ortenburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=647082"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Ортенбурга"
+    }
+  },
+  "id": "Q147134",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Heinrich II."
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих II (Ортенбург)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich II. Ortenburský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Heinrich II Graf von Ortenburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik II van Ortenburg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих II"
+    }
+  },
+  "lastrevid": 17571642,
+  "modified": "2025-09-17T15:15:08Z",
+  "ns": 860,
+  "pageid": 175519,
+  "sitelinks": {},
+  "title": "Item:Q147134",
+  "type": "item"
+}

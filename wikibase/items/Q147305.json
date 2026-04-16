@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gostomysl"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147305$25E5F9D2-CB7B-438C-B7B1-D77FDCB4D36C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "35806"
+          },
+          "hash": "7f18601f32eed4f252c5ab8e3174763f8238630e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147305$2B3CAAB5-820F-45DE-8474-D18CFEEB1F4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143762",
+              "numeric-id": 143762
+            }
+          },
+          "hash": "bedd26c163320640628471886389aa376a11a6f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147305$C4D2B360-8319-4D6F-9CE6-3ACF2CB856CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147305$063A8FC5-D34A-49F0-A5D3-8C38B7886B1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147305$7A646E42-FFD4-4398-8E99-22FDDC40BC5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147305$6EFE3F74-97E6-482C-A9F7-261277D68971",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0860-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6f4a73d313e35264668bf27246b65c5fd5f9fa45",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147305$174B4279-6C9F-4EEA-9BE7-C57D73E4746B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1268485"
+          },
+          "hash": "22a8eecf747fdb04c220d5b8a31ff85dc12a3f81",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147305$FDD09686-8247-4FA7-A524-8B117B93BB0A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gostomysl Arms.svg"
+          },
+          "hash": "0b7d052021f3d9debfb86387026b8a51aa5f22df",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Folk posadnik of Novgorod"
+    },
+    "es": {
+      "language": "es",
+      "value": "líder legendario de los eslavos de Ilmen en el siglo IX, mencionado en crónicas como posádnik o príncipe de Nóvgorod"
+    },
+    "it": {
+      "language": "it",
+      "value": "gran principe di Novgorod"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "легендарный старейшина или князь ильменских словен (ладожских земель)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Кнез ладожских земаља"
+    }
+  },
+  "id": "Q147305",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جوستوميسل"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гастамысл"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gostomysl"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gostomysl"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gostomysl"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gostomysł"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gostomysl"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gostomysl"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gostomisl"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gostomysl degli Slavi di Ilmen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゴストムィスル"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gostomysl"
+    },
+    "os": {
+      "language": "os",
+      "value": "Гостомысл"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gostomysł"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гостомысл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gostomisl"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гостомисл"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Гостомисл"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Gostomisl"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gostomysl"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гостомисл"
+    }
+  },
+  "lastrevid": 17571934,
+  "modified": "2025-09-17T15:19:08Z",
+  "ns": 860,
+  "pageid": 175690,
+  "sitelinks": {},
+  "title": "Item:Q147305",
+  "type": "item"
+}

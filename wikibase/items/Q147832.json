@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto I von Dießen"
+      },
+      {
+        "language": "en",
+        "value": "Otto I von Dieen"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q147832$43AFEBF7-B6A0-4393-BC89-80869CA72C3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Count_of_Diessen-4"
+          },
+          "hash": "a3b341a0a30468bc313a355ed23eac7d168cdec0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147832$C834E789-DF3D-4534-9A79-54EC8443455C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147832$FD26AA2A-1B43-4176-8C8C-9E28EE8672AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147832$28166D84-C487-445D-BB0E-780906B47B3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125606",
+              "numeric-id": 125606
+            }
+          },
+          "hash": "2a81cb3150d72b29190d0bf93f25dcabe0e14cc8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147832$BC2D90B1-861D-4118-84A3-756E1F575B1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147832$7EBA91C8-A15D-4E2D-B616-4E60B90FDD5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147832$EB432314-BB13-4EBC-8686-DE645F1376BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65224794"
+          },
+          "hash": "678245af324b602e8ceb8d2d6cec2c5667264d20",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147832$BF9DB3D5-EF00-46F8-A877-1A42DDC9A552",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto I von Dießen Arms.svg"
+          },
+          "hash": "757fd36a1f36f39e633910d406ea76ef34df788e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1017 - aft. 1060"
+    }
+  },
+  "id": "Q147832",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Ото I фон Дисен"
+    },
+    "de": {
+      "language": "de",
+      "value": "Otto I von Dießen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otto I von Dießen"
+    }
+  },
+  "lastrevid": 17572488,
+  "modified": "2025-09-17T15:26:47Z",
+  "ns": 860,
+  "pageid": 176007,
+  "sitelinks": {},
+  "title": "Item:Q147832",
+  "type": "item"
+}

@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hugo, Count of Montfort-Tettnang (d.1309)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147982$7B22EF01-2BB7-4968-9D95-B46D64028789",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "913483"
+          },
+          "hash": "5585810cacd20f3cd0e0cd630c7ebacf0476f04f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q147982$C1CFC4DB-57DB-438F-BB43-18A74159A728",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00107922"
+          },
+          "hash": "ff4813083a22c29ba5a7fda45a7ec09b65411374",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147982$8E016429-3384-4933-BBE8-4E715DBAA990",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147982$1602B9A5-7751-4265-81C9-F4FDA720FBAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147982$5F41D6E8-897C-44AF-B394-21980A5C7290",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144001",
+              "numeric-id": 144001
+            }
+          },
+          "hash": "d3a0aca56e295cbf384bce010bfb5d8c8a18b88b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147982$16FD201E-FF95-488C-8B3B-50A94C722FC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147980",
+              "numeric-id": 147980
+            }
+          },
+          "hash": "0fd5ec72763fa20614c459fd1ea2b87982d6bdaf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147982$72998386-394F-4638-944E-7C16D2A1E7CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147982$DA85793F-9390-4B90-882F-E4DEDE6C83F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147982$F69452F0-1452-4529-B8AA-9306BED58655",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1309-05-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "42d76ad39e83515555c47527c209adbce628cdb9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147982$DEAE66BB-4D9A-40A2-A2E4-A3BB7AC506D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q93520931"
+          },
+          "hash": "7b7c877821f7c3f75dc969e37b41598cff06020f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147982$C3F5704D-F7F7-427F-ABA3-A3635BDB1B11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hugo;n=von montfort;oc=8"
+          },
+          "hash": "c4352844a8946e9442cc7f693e81424051fb5de5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147982$751FC86E-0410-4254-9E1B-D6B819A23EDE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugo, Count of Montfort-Tettnang (d.1309) Arms.svg"
+          },
+          "hash": "2e29cec6e21da73b5d81bdfe2c4f301ad096ee90",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Adliger, Graf von Montfort-Tettnang, Ahnherr der Grafen von Montfort-Tettnang und Montfort-Tettnang-Bregenz, gest. um 1309"
+    },
+    "en": {
+      "language": "en",
+      "value": "German count"
+    }
+  },
+  "id": "Q147982",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Хуго III фон Тетнанг-Монфор-Шеер"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hugo III. z Montfortu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hugo III. von Montfort"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hugo, Count of Montfort-Tettnang (d.1309)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hugo III van Montfort-Tettnang"
+    }
+  },
+  "lastrevid": 17572634,
+  "modified": "2025-09-17T15:28:46Z",
+  "ns": 860,
+  "pageid": 176081,
+  "sitelinks": {},
+  "title": "Item:Q147982",
+  "type": "item"
+}

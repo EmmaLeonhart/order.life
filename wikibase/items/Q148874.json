@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Morgeneu ab Elystan ap Gwaithfoed ap Gwynnan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148874$441802C1-CC1C-4817-9270-F4B919C251B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00760190"
+          },
+          "hash": "9573b71c477e7bb324d329f32756f50e14251242",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148874$63FDF743-93E0-4529-A2C2-DC29371E24C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144854",
+              "numeric-id": 144854
+            }
+          },
+          "hash": "21344a2c9826e07e487efd49629a59f16103539c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148874$FF51A8C3-F9E3-4ABF-94F0-00EE4405E9C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ab_Elystan-2"
+          },
+          "hash": "75dcbcc340315e66f6ccc4420724bedd2f095175",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148874$B96F5262-CF28-4828-A51C-3325DAA75A6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148874$D010F7B2-500D-4F22-8B20-7ACC26536A9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148874$0955F1D8-3C97-4ED6-A98B-634DCF162622",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148874$FC1AA90E-F957-4934-8B83-A49F1A76DA50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148874$DE9FD719-AFE4-4C86-A475-D1A293AEE643",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1064-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e5e1eeeae12a794073720ec6d74d5b9984838285",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148874$3B374BB7-7B91-44D7-9375-6EBDBDA5DC94",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110582696"
+          },
+          "hash": "ed9f1d3638fd4296f1721a7324b4dae94a0e3362",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148874$FA3C781D-C23C-428D-A395-0815C415C163",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Morgeneu ab Elystan ap Gwaithfoed ap Gwynnan"
+          },
+          "hash": "6abbbb733a028e505ea468b693222152b7c609ba",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148874$48528F34-BB30-46C1-A670-083C68BFB07E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Morgeneu ab Elystan ap Gwaithfoed ap Gwynnan Arms.svg"
+          },
+          "hash": "b5f0fda6edec7cb496002a9f9fac0bdb528b7c26",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1000 - 1064"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1000-1064)"
+    }
+  },
+  "id": "Q148874",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Morgeneu ab Elystan ap Gwaithfoed ap Gwynnan"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Morgeneu ab Elystan ap Gwaithfoed ap Gwynnan"
+    }
+  },
+  "lastrevid": 17574254,
+  "modified": "2025-09-17T15:51:22Z",
+  "ns": 860,
+  "pageid": 177327,
+  "sitelinks": {},
+  "title": "Item:Q148874",
+  "type": "item"
+}

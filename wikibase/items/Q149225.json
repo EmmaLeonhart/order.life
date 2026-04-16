@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice of England"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149225$3B5A7E07-CF32-4FE5-A104-BE07AE195EFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Plantagenet-220"
+          },
+          "hash": "1a44e42171708f34c6def351a2e4de3f93d2d161",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149225$C9597BCC-A2EB-4C9C-9E8C-44EE01178FA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149225$F12B63DE-0413-4FBE-8915-0FCB8C1F172C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149225$E48FC593-91E0-4798-9A75-1F7DA0655ACF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p418.htm#i4180"
+          },
+          "hash": "3459bbe9a2d0aad0d63e660df5cd8f788cfad036",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149225$DBC65FC1-9457-4F4D-8BAB-0EBFC1D1443A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145068",
+              "numeric-id": 145068
+            }
+          },
+          "hash": "545e3904da46384bc34195a6cd1d07537f309a4d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149225$7B6AEC57-0530-4AE0-8B60-D99F53B06611",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54825",
+              "numeric-id": 54825
+            }
+          },
+          "hash": "c6ca9a1d6c8e47d68ca34c148e5f321fc417d817",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149225$A262A0C5-9BEC-4B59-9A42-4780CED6218E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149225$1AED104E-0498-4D8F-B31E-7947A9B8BB9D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1279-03-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "86134aa00a374fcbcd21157d72a55b3361c360a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149225$A30FEC36-D73F-4C0C-8FD0-1683C44B2287",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1291-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2548aace7808243379244063bfa31454aec0ce94",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149225$A3847F75-E27C-4EF2-80B6-F2FA388E814E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75241982"
+          },
+          "hash": "95d7b2616aeb329b062cf6c04ce734e7ec128ccc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149225$4C077B19-AE68-48F3-BFA0-DA020FB47A68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alice;n=plantagenet"
+          },
+          "hash": "fe511eee0b6ff21f4dd2de3f0fa02c708fd65b51",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149225$8F377FB7-D5CA-4353-B2B1-91C843AE94B0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice of England Arms.svg"
+          },
+          "hash": "5e20ba514e68a7ff663bf6ba8b65adc1db7c063e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1280-1291)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1280-1291)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "(1280-1291)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1280-1291)"
+    }
+  },
+  "id": "Q149225",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Alice o Loegr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alice of England"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Alice Shasana"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Alicia de Inglaterra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alice of England"
+    }
+  },
+  "lastrevid": 17574946,
+  "modified": "2025-09-17T16:00:55Z",
+  "ns": 860,
+  "pageid": 177678,
+  "sitelinks": {},
+  "title": "Item:Q149225",
+  "type": "item"
+}

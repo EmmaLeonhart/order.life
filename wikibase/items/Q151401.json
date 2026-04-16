@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Atilius Serranus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151401$18EDAAB2-0505-46E6-9783-3891179A6E3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151536",
+              "numeric-id": 151536
+            }
+          },
+          "hash": "309361a984d9ce6cc1560ca5d29b4e38ae478e44",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151401$2B90FBA9-72A9-4359-A0C3-4CFDC82ECC19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148138",
+              "numeric-id": 148138
+            }
+          },
+          "hash": "bcd52c730d2ac488a7f29ad70188c84499391764",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151401$EC09F1A3-EAA8-45C5-8C0A-B9246587C296",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151401$64AE89FF-B30C-4EBA-806F-E99E8AF84886",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151401$57079DCE-A6C8-4650-BC62-676E994B3525",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151532",
+              "numeric-id": 151532
+            }
+          },
+          "hash": "69cda030ce92e8d955213de5ed70aed1201086f7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151401$04FE047D-00E2-42A9-865A-3E76F9D27D45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151401$2B016368-AEBB-41A8-8796-0C77E166A27F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0215-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94ea70a0084209c7225ebeaa7be9014c510431a9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151401$799CE012-F1C8-4E7D-A1A7-10EF39421F26",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11935084"
+          },
+          "hash": "f13e186337ebec3f449b03658053036cd3e6a4d6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151401$F68CA898-9F8F-4B00-808F-CA62FFB85059",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Atilius Serranus Arms.svg"
+          },
+          "hash": "2e8daec3b177c187f4c502f3519bbad563e05a3f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "en": {
+      "language": "en",
+      "value": "colonial triumvir in 190 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 174 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q151401",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Атилий Серан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Atili Serrà (triumvir)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Atilius Serranus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Atilius Serranus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Atilio Serrano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Atilius Serranus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Atilio Serrano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Atilius Serranus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Атилий Серран"
+    }
+  },
+  "lastrevid": 17579236,
+  "modified": "2025-09-17T16:59:45Z",
+  "ns": 860,
+  "pageid": 179855,
+  "sitelinks": {},
+  "title": "Item:Q151401",
+  "type": "item"
+}

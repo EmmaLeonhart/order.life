@@ -1,0 +1,403 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John I, Count of Salm"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q149163$57046155-0CB2-4554-BF73-189FDD254CEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "10346"
+          },
+          "hash": "55dc63a42a08ee82e348a3bb2c6fb0f94d7d19b7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q149163$681A6DAF-A9FD-4795-A4B4-3DD1E5AE1D58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00065099"
+          },
+          "hash": "f12a0a40822fec1b4688ac8a23405db8101d1cd9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149163$C10F1373-BFA7-473D-8F64-153C2FD27806",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149166",
+              "numeric-id": 149166
+            }
+          },
+          "hash": "27cd1f6055f6e3999f672bd31a53f81d98ee06a8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149163$24F3420D-2CB6-49DF-9541-261FEB55398C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149167",
+              "numeric-id": 149167
+            }
+          },
+          "hash": "0a1711d3e7d4b9bf80744a536287eb5838540db6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149163$CF251473-248C-4684-A197-AF37AA81511E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149168",
+              "numeric-id": 149168
+            }
+          },
+          "hash": "1fdabd75fa10a0de7569367a140fa08f515ef412",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149163$A37C5C54-F445-4893-8048-0AD7B889A949",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149165",
+              "numeric-id": 149165
+            }
+          },
+          "hash": "80287138dc706cdb415f34d885b578d2f51bc510",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149163$58D5CDE8-0B7E-47C8-844C-188337000757",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Salm-60"
+          },
+          "hash": "0ac6437c782c3e52f809d674cd2374e81b2ab596",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149163$536988FD-6157-45E2-9987-2EDDA607A682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149163$83C8939A-2830-420E-8149-271DE9B470A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149163$2FF4FE86-EDC3-4473-8358-2A15FD394473",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145044",
+              "numeric-id": 145044
+            }
+          },
+          "hash": "a24c82c1ae50c9d546e2ffc1b7e105157000f1d3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149163$59966AEE-9BEC-4283-941B-DCA91C54DB90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149163$666F4E52-661A-4F26-A023-5D9959F70CF6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1247-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "882f7ed4a3ae6601b64ec79aa1d9f79d99ad087c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149163$9F37A446-D960-4211-B20A-241A02B1822E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1338-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2a490a9f1ee41053e9e4b4d0306a7ad40f2a6316",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149163$D74FC200-7484-4822-ACFE-C5AA6F118B67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q31192745"
+          },
+          "hash": "5b662db0001e02ba3df445681c54d6dfc0b06cf1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q149163$E96BA2C3-C229-4923-AE16-2B7982B882CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003827488463"
+          },
+          "hash": "1a77627291601d6dacca5d13ba3301f0d0accd65",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149163$A08B0511-9673-43C1-A658-F9550B2C2CFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=johann;n=zu+salm;oc=6"
+          },
+          "hash": "3ba702552a4d91ac6b585d3f49ef15500ce75ceb",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149163$8AABA919-EFA1-4E7B-88C4-1ED53CD16539",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John I, Count of Salm Arms.svg"
+          },
+          "hash": "409f537280b4f98a86663bfa182761eb680e85ad",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "graf von Salm"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Upper Salm"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф фон Зальм"
+    }
+  },
+  "id": "Q149163",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Johann I of Salm"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йохан I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan I. ze Salmu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johann I von Salm"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Α΄ κόμης του Ζαλμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "John I, Count of Salm"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean Ier de Salm"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jan I van Salm"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоганн I фон Зальм"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Johann I of Salm"
+    }
+  },
+  "lastrevid": 17574828,
+  "modified": "2025-09-17T15:59:23Z",
+  "ns": 860,
+  "pageid": 177616,
+  "sitelinks": {},
+  "title": "Item:Q149163",
+  "type": "item"
+}

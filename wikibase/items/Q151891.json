@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Paccia Marciana"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151891$5ED818F3-2E4F-4C88-AF02-0CA77AE389E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446871"
+          },
+          "hash": "fff472d2893fe8e35a165a4b6b3c35e36b6f0351",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151891$EC624D3C-B265-4F46-B4BB-69A93512C557",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151862",
+              "numeric-id": 151862
+            }
+          },
+          "hash": "2eeb74b3576cecdea0da64c641186b5da2b7cdd4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151891$A5F668E5-F719-45FD-97B2-B82FBE2403F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151861",
+              "numeric-id": 151861
+            }
+          },
+          "hash": "70e2023a5fa6f26abefe81ddc7a5ce000e3840d0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151891$0AA71C59-CD5A-475C-B983-550B6E6A4A0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151891$86F0F20F-C5EC-4715-9A78-B7C2CF2FB1E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151891$4ABD0C0E-7CA5-4251-B91B-A4A7334C8C69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q63879",
+              "numeric-id": 63879
+            }
+          },
+          "hash": "da35d6a60487b8532f8f10e6203307da23b7f647",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151891$B614B562-1265-42AC-9EE4-94FA30318609",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151891$FA2A26B2-7A2B-4F77-B9AB-B0F252F2AEC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151891$2132AD95-CD33-44C8-B6CB-4EF946F96CA4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0186-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61748738f7123966d4b8040fe227454fffa03e75",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151891$321134A7-0E1B-4EA1-AA3F-A929405986D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q50989199"
+          },
+          "hash": "6e12651195fe46a6a368fb56b6300e8e2ba7f96a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151891$20F61397-852F-4613-9DC6-887EB145CEBC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Paccia Marciana Arms.svg"
+          },
+          "hash": "cdc95da983e39634df226bd83378335ccb5401ef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "primera esposa de Septimi Sever"
+    },
+    "en": {
+      "language": "en",
+      "value": "first wife of future Roman emperor Septimius Severus"
+    },
+    "es": {
+      "language": "es",
+      "value": "fue una mujer romana, primera esposa del futuro emperador Septimio Severo"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "перша дружина римського імператора Септимія Севера"
+    }
+  },
+  "id": "Q151891",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Paccia Marciana"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Màrcia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Paccia Marciana"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πακία Μαρκιανή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Paccia Marciana"
+    },
+    "es": {
+      "language": "es",
+      "value": "Paccia Marciana"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Paccia Marciana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Paccia Marciana"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пацція Марціана"
+    }
+  },
+  "lastrevid": 17580096,
+  "modified": "2025-09-17T17:11:09Z",
+  "ns": 860,
+  "pageid": 180345,
+  "sitelinks": {},
+  "title": "Item:Q151891",
+  "type": "item"
+}

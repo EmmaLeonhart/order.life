@@ -1,0 +1,266 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Pedanius Fuscus Salinator"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151555$FD8D4FC8-49EC-4C84-911E-6D283196B4CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151557",
+              "numeric-id": 151557
+            }
+          },
+          "hash": "ce01cf4db09413a43b65aba798958d479d363f00",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151555$C5C256DD-E348-470C-8976-781450801A92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151555$910A7C70-0A0C-4F72-86FD-5D1898CD541A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151555$936E6065-D0D4-4328-8EE5-5617F25339AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151426",
+              "numeric-id": 151426
+            }
+          },
+          "hash": "d1201a3b921e4567190da080bb914ae4e358b0f6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151555$47FF682B-31C4-4CB7-A36F-254793664BB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151647",
+              "numeric-id": 151647
+            }
+          },
+          "hash": "3409e0624108c13459a90e62ebab6c7962282826",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151555$EB837CBA-28D1-4937-91A4-2902F45C786D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151555$902BD246-F9EA-44AF-AF37-A99066ADBD47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151555$5B9FCB8A-EF89-49C9-A229-7740001DBCC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12277061"
+          },
+          "hash": "07b0df733832eb2883a77588016b0137cbe1d424",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151555$A4050164-C40D-45B4-B300-3006A335D433",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Pedanius Fuscus Salinator Arms.svg"
+          },
+          "hash": "2d91c51733d22757eebc87d6eba276f97affa599",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul (61)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator and suffect consul in 61"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 61"
+    },
+    "la": {
+      "language": "la",
+      "value": "consul 61"
+    }
+  },
+  "id": "Q151555",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Педаний Фуск Салинатор"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Pedanius Fuscus Salinator"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Πεδάνιος Φούσκος Σαλινάτωρ (ύπατος το 61)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Pedanius Fuscus Salinator"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Pedanio Fusco Salinator"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Pedanius Fuscus Salinator"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Pedanio Fusco Salinatore"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Pedanius Fuscus Salinator"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Pedânio Fusco Salinador"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Pedânio Fusco Salinador"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Педаний Фуск Салинатор"
+    }
+  },
+  "lastrevid": 17579512,
+  "modified": "2025-09-17T17:03:25Z",
+  "ns": 860,
+  "pageid": 180009,
+  "sitelinks": {},
+  "title": "Item:Q151555",
+  "type": "item"
+}

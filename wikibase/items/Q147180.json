@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Izyaslav Yaroslavich"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147180$2FB81787-1DB1-48F8-BCE5-3F5A8ABABF66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147180$837BC524-72DC-4D91-BCCD-0F1975B5ADDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147180$7646746D-7E5B-423F-96F5-A41FE8AF4A10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127040",
+              "numeric-id": 127040
+            }
+          },
+          "hash": "2a3528060356f6f5e3ed0971cf58dec4102ea148",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147180$712E2FF9-3297-4160-A2F3-98D157D17F8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147180$FC06A9EA-AA4E-45F6-AC2F-CB367A4401D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1198-07-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "40a7fbd882d5335f5abe19dcbdc5e4b9260459a9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147180$2A012824-FF90-4CAF-8FDD-86133995B139",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4198932"
+          },
+          "hash": "6bcfd1facea353697c5952cf5429f54b81adde44",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147180$6EB3AB8A-B9CC-48D3-AC5F-EEC7F6B56698",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=isiaslav;n=rurikides;oc=11"
+          },
+          "hash": "8bbaaaafdf88096849f4d3143ee3cfafbf230b6a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147180$3E423E7C-F624-4011-B4AD-49DF2756B9F9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Izyaslav Yaroslavich Arms.svg"
+          },
+          "hash": "8c261ed288cd201f801984c1619b81252b379a82",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "prince of Luki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь лукский"
+    }
+  },
+  "id": "Q147180",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Isjaslaw Jaroslawitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Izyaslav Yaroslavich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Изяслав Ярославич"
+    }
+  },
+  "lastrevid": 17571720,
+  "modified": "2025-09-17T15:16:13Z",
+  "ns": 860,
+  "pageid": 175565,
+  "sitelinks": {},
+  "title": "Item:Q147180",
+  "type": "item"
+}

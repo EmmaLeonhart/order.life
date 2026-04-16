@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agnes of Amboise"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148971$152C4831-FB76-4B4F-BBF9-5A275815A487",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00295606"
+          },
+          "hash": "676087815967171afb95590c3e4fe7b515a63ce9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148971$AE57C18C-58E9-40B0-B1F5-B791E9A18BF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148971$0C87BAAA-DE9C-4159-9E30-407F3598740C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148971$831849D5-A2BC-4F86-8BAD-75B5FB97B0A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnes_d'Amboise_(1)"
+          },
+          "hash": "51755cecd69b34370c1f52c57c24c3681de8e2dc",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148971$896824B3-FABE-43A5-B9AF-5D0ADA86A27C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144911",
+              "numeric-id": 144911
+            }
+          },
+          "hash": "82b748966a110e2ef47fa3e7376acabc677292de",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148971$44491DCB-7E97-4532-9980-13E10ACC1243",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148971$5DBE20E2-53A2-407C-A67C-54860D19B462",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48547670"
+          },
+          "hash": "a4d32281325b6f8c4c6fe4cbbc11e16d70a68e70",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q148971$A5C87641-E006-447A-9B68-6E98DF1B297A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=agnes;n=d amboise"
+          },
+          "hash": "aa01af4b8f9226a494ebb757cfa37afacbb881d0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148971$558B8D79-F223-4208-B295-FD13E44D79CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnes of Amboise Arms.svg"
+          },
+          "hash": "2b6efeaeb9f77a855dae0f0b7b18e88643838808",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "comtesse d'Evreux"
+    }
+  },
+  "id": "Q148971",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Agnes of Amboise"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agnès d'Amboise"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agnes of Amboise"
+    }
+  },
+  "lastrevid": 17574444,
+  "modified": "2025-09-17T15:54:04Z",
+  "ns": 860,
+  "pageid": 177424,
+  "sitelinks": {},
+  "title": "Item:Q148971",
+  "type": "item"
+}

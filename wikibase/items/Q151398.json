@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Junius Silanus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q151398$EF690CD3-819C-4033-95F7-2BE2718017E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151398$E381B752-03D1-4600-B584-A00131BEE162",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151398$942010E2-86F9-483E-A024-A34D43256A50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151529",
+              "numeric-id": 151529
+            }
+          },
+          "hash": "503ce9153c60ba43facc64964489c23a2d969625",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151398$665C7ADC-0A23-489E-8425-1F9E61EB2006",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148137",
+              "numeric-id": 148137
+            }
+          },
+          "hash": "d2de0c7b54b4dcc65f1789b56cd3d59ec35ca78a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151398$442ECCA8-9B36-465E-9278-B9C7CEB0A2F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151396",
+              "numeric-id": 151396
+            }
+          },
+          "hash": "ddc987f8311d01015a0afe58eeeee171ec839f9b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151398$FBCE183F-D58A-45B9-86E7-085ECB001582",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151398$1B20A6CD-7432-48DB-AE1B-F0713441DCA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151398$5CC0CF40-4C60-4965-A178-1B2E29982B1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q102076242"
+          },
+          "hash": "9a6b2284b99e1194eaf6d385b1ea6da5540a1647",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151398$1BD8DB9E-D3CA-4F6A-83C0-65F77F10A5F5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Junius Silanus Arms.svg"
+          },
+          "hash": "5d58245ca2ab6afe8920d42272f16d20f2210871",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "legate in 53 BC under Julius Caesar"
+    },
+    "es": {
+      "language": "es",
+      "value": "legado militar del Ejército cesariano en la guerra de las Galias"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "légat sous César en 53 av. J.-C."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "legat under Julius Caesar år 53 f.Kr"
+    }
+  },
+  "id": "Q151398",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Marcus Iunius Silanus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Junius Silanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Junio Silano"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Marcus Junius Silanus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Junius Silanus"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Iunius Silanus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Junius Silanus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Junius Silanus"
+    }
+  },
+  "lastrevid": 17579232,
+  "modified": "2025-09-17T16:59:41Z",
+  "ns": 860,
+  "pageid": 179852,
+  "sitelinks": {},
+  "title": "Item:Q151398",
+  "type": "item"
+}

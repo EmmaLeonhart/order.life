@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard Newton"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150848$EC8E7822-8C57-4A01-A7D5-848E330A9643",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00198928"
+          },
+          "hash": "3c8df0368aa6a129e2c013dfc678c0dc320a531a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150848$7E4BBD36-0F67-446F-8862-6BEA9C4E7097",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Newton-1146"
+          },
+          "hash": "37983aa89147c31e4694525ade985a98674035e4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150848$FC750B5B-2177-4F13-8358-1E7592402B85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150848$5ECAC167-017F-4D40-BE26-6C0C4EDFA152",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150848$21EE55C6-D07D-4A50-BA5C-D0AD329E428E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p58985.htm#i589847"
+          },
+          "hash": "7b17033b986d36778cdf33946b55fe3f5def5958",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150848$D57AD33A-9D48-48BA-B54C-C2D1715C526A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146188",
+              "numeric-id": 146188
+            }
+          },
+          "hash": "74a578012673d5f335b224c0cfdb3712e73fcee8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150848$A5CC1802-3794-49E0-8859-36B65EDB1DE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150848$FDDBA8B0-1CF6-44E0-B691-3598C2AAAC88",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1462-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eabcb82b9066bd6fa0d3086bed6b1031ecf8a8b5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150848$B3598822-E7D3-4A2D-B53F-864AF26E7192",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1501-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eafc4dbcbe53b7af553504efdf84fdf5cf443731",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150848$612F3759-3604-427D-8B38-2CB9F96DA6BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76186100"
+          },
+          "hash": "25194ca5d7773d218eafb984d4b02014ecc5c2c3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150848$C05D1041-D2CA-4711-9873-E07FDFB759DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard Newton Arms.svg"
+          },
+          "hash": "cea47b63da3f3516e240f3b05117d1f90e4c45b9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=589847"
+    }
+  },
+  "id": "Q150848",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "রিচার্ড নিউটন"
+    },
+    "en": {
+      "language": "en",
+      "value": "Richard Newton"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Richard Newton"
+    }
+  },
+  "lastrevid": 17578178,
+  "modified": "2025-09-17T16:44:56Z",
+  "ns": 860,
+  "pageid": 179302,
+  "sitelinks": {},
+  "title": "Item:Q150848",
+  "type": "item"
+}

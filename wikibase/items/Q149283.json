@@ -1,0 +1,377 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Owain Lawgoch"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149283$C8119D10-1F95-4DDF-B6BA-AE8761FEF2CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lawgoch-1"
+          },
+          "hash": "d0e79718ce8c424f7bb41a9a4fd06718cae1d1b6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149283$3389AF15-4AE2-439B-8225-95C9CAC18A22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149283$D0F4DE21-E328-4018-A5D4-F42FF792F058",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149283$B7FA91D2-A5FB-4B00-8577-C03FB4072843",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Owain_Lawgoch_(1)"
+          },
+          "hash": "7a9279b90d3aaf7cc4213970536e3e292497122a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149283$75AF7853-A3B6-4C02-9386-389342BB0EFE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10685.htm#i106841"
+          },
+          "hash": "61a7aa92aee83200befec748de3cb3b2abb6d104",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149283$AA3B0EDD-368F-449D-AF4D-B6BD12048979",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145102",
+              "numeric-id": 145102
+            }
+          },
+          "hash": "efabc042727ca3ea0c33ef8c274b043ab683c54a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149283$4696740A-6A7A-4745-A584-BE97AB0C9A0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149283$550E58E2-C68B-47E1-8886-2C4B34539876",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1330-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9721adbf005a997c8f910d0bea1a62d0f7f19b00",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149283$2B39E9F1-5227-45F7-982C-A1175A602975",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1378-07-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4fa23b3d1b671ea2a645d07779d0b96b6d28d9a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149283$B7DDDC76-58C6-4039-A47F-5BB84A4AEB9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2738520"
+          },
+          "hash": "9389bda67f81af827a764cdfe4f6ea3fa8fad586",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q149283$6016EA56-B13D-44EA-9985-7337EC50F824",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006444798568"
+          },
+          "hash": "1d949c7618d9837dbbbe015ec63f79606dfc0261",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149283$2BD6B6B2-DD9C-4169-99CB-D502D73EF148",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=owen;n=of gwynedd;oc=1"
+          },
+          "hash": "4ae8de110aaf79e63c259c5e696e49355867a8ee",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149283$FE265F3F-31AE-4330-A7D1-88E5175836D1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Owain Lawgoch Arms.svg"
+          },
+          "hash": "eefb1ea5a85729ebf706e4d70d1c01f5ce5eafc4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "milwr wrth ei grefft ac ymhonnwr i dywysogaeth Cymru"
+    },
+    "de": {
+      "language": "de",
+      "value": "walisischer Söldnerführer und Anwärter auf den Titel Fürst von Wales"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Gwynedd and Wales"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano gallese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Wales (1330-1378)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "valižanski najemniški vodja in pretendent za naziv valižanski princ"
+    }
+  },
+  "id": "Q149283",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوين لاوجوتش"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Owain Lawgoch"
+    },
+    "da": {
+      "language": "da",
+      "value": "Owain Lawgoch"
+    },
+    "de": {
+      "language": "de",
+      "value": "Owain Lawgoch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Owain Lawgoch"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Owain Lawgoch"
+    },
+    "es": {
+      "language": "es",
+      "value": "Owain Lawgoch"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yvain de Galles"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Owain Lawgoch"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Owain Lawgoch"
+    },
+    "it": {
+      "language": "it",
+      "value": "Owain ap Tomas ap Rhodri"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オーワイン・ラウゴッホ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Owain Lawgoch"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Оуайн Лаугох ап Томас"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Owain Lawgoch"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Owain Lawgoch"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Owain Lawgoch"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "欧文·劳戈赫"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "欧文·劳戈赫"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "歐文·勞戈赫"
+    }
+  },
+  "lastrevid": 17575062,
+  "modified": "2025-09-17T16:02:30Z",
+  "ns": 860,
+  "pageid": 177736,
+  "sitelinks": {},
+  "title": "Item:Q149283",
+  "type": "item"
+}

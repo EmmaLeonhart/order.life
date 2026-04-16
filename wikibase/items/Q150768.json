@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elinor Jones"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150768$718F4B9D-E0DB-4931-9A46-298080CF5629",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00314000"
+          },
+          "hash": "67cbb9d7d5d1c916bd63f30259c2a4486fa2efb6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150768$5E631532-27D2-4279-9C6C-A266DF577D2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Johnes-22"
+          },
+          "hash": "f71106f39b42fd52a9cf2fd147708213f2615d96",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150768$5A0288B1-A97B-4678-86BD-816809CE71A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150768$4379E147-FA49-406D-B3A9-1134DC5DDC96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150768$E0477A07-68FC-4A03-8CFA-64CC70301234",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p39435.htm#i394348"
+          },
+          "hash": "11f40954dd25a66d854a64908dd7823c0e143e33",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150768$B938D9A3-B926-423B-8881-326707BACBC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146124",
+              "numeric-id": 146124
+            }
+          },
+          "hash": "e889878dea75faa09639cfb435be3ee799ca4407",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150768$F1E159BD-FFA0-472D-A75B-4215ECB2CC7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150768$3D121785-2559-4F6D-9F81-0FFEFDC084C8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1529-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ce46997754ddf885911a2a228ab5270c6c406336",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150768$A2AE6768-C639-477E-8C05-FEAB3864CF2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1560-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4ff434ba163c0e7172ad25ce36af6beea477c654",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150768$AA625822-8C78-4395-8304-376593298952",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75905288"
+          },
+          "hash": "a4fb7846513a156a2786db876284927972856eb3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150768$916C2487-6503-46FD-8544-0FB9352FBAC8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elinor Jones Arms.svg"
+          },
+          "hash": "3c1e18a9a4337e452788afecddf2770755a7c1e6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "o dras fonheddig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=394348"
+    }
+  },
+  "id": "Q150768",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Elinor Jones"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elinor Jones"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elinor Jones"
+    }
+  },
+  "lastrevid": 17578018,
+  "modified": "2025-09-17T16:42:44Z",
+  "ns": 860,
+  "pageid": 179222,
+  "sitelinks": {},
+  "title": "Item:Q150768",
+  "type": "item"
+}

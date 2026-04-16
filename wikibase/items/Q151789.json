@@ -1,0 +1,380 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tranquillina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151789$ED96E097-7EB7-4DE9-B941-5333FC3C37B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716756"
+          },
+          "hash": "c72c8f9291e9d15e9384e5193bba65f09162ef21",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151789$C187B739-610B-484D-BB77-E5F647A867F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151790",
+              "numeric-id": 151790
+            }
+          },
+          "hash": "79d78018a5102ad29f4d182a7d0e420699289a86",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151789$D16C3330-A733-4E01-B11E-818AD6F926D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151789$76845199-E1E9-4200-8EBB-206736386033",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151789$0E51347F-41FD-46EE-88ED-E9B7DA3A0268",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75853",
+              "numeric-id": 75853
+            }
+          },
+          "hash": "00bc3ed56ba5ba95d1a3bc812d9a8d337f289b2f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151789$FD9EAF6A-EB11-428A-B9E4-343235B74556",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151821",
+              "numeric-id": 151821
+            }
+          },
+          "hash": "923d169e543ff6c8ddffb7e1d141185b7cc6102e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151789$D54AFEB0-2D83-4E91-B2A8-C1888FFF406A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151789$CD99B365-B219-4611-B4C3-4CD7D1C62298",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0225-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "654cfbd4dce5911948266149f11d71a1e4a7c3ef",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151789$54F2DFD3-DD4F-43F5-BC18-15B3BC6B339D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2293889"
+          },
+          "hash": "78e05226d2593ff37cddbff078559bd3021ee01b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151789$EBAF3CE1-B798-4805-B8A1-35E95A69F35E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tranquillina Arms.svg"
+          },
+          "hash": "8add6a4dad067a9116c857617fd29d175c64dc66",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q151789$ABF6E94E-8DBF-4D9A-B321-BF8D71702C53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/f31287aa-44de-408e-97a1-63e83dca638e"
+          },
+          "hash": "65ddc3cfebd0c5032f4df3f452bcc20f4610cfd1",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "esposa de Gordià III"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ehefrau des römischen Kaisers Gordianus III."
+    },
+    "en": {
+      "language": "en",
+      "value": "consort to Roman Emperor Gordian III (born c.225)"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice de Rome"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Gordiano III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarzowa rzymska"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римская императрица"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "antik romersk kejsarinna"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "імператорка Риму"
+    }
+  },
+  "id": "Q151789",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tranquilina"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Транквилина"
+    },
+    "br": {
+      "language": "br",
+      "value": "Tranquillina"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fúria Sabínia Tranquil·lina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Furia Sabinia Tranquillina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τρανκουιλλίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tranquillina"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Tranquillina"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Tranquillina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tranquilina"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوریا سابینیا ترانکوئیلینا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tranquilline"
+    },
+    "it": {
+      "language": "it",
+      "value": "Furia Sabina Tranquillina"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tranquillina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Furia Sabinia Tranquillina"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Tranquillina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Trankwilina"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tranquilina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tranquilina"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Tranquillina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фурия Сабиния Транквиллина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Транквилина"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tranquillina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фурія Сабінія Транквіліна"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "弗里亚·萨比尼亚·特兰奎利娜"
+    }
+  },
+  "lastrevid": 17579918,
+  "modified": "2025-09-17T17:08:47Z",
+  "ns": 860,
+  "pageid": 180243,
+  "sitelinks": {},
+  "title": "Item:Q151789",
+  "type": "item"
+}

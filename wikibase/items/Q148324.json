@@ -1,0 +1,330 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manius Laberius Maximus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q148324$101E9099-2812-48F9-8B7F-29F159232F18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144402",
+              "numeric-id": 144402
+            }
+          },
+          "hash": "02a36d8f694c6979fef2f7d7f255a0e9671802d0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148324$5983A9BD-2B0C-43A2-BE21-266755F61DD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148324$3ACE4656-2D9C-4A85-A185-DCE2C621785B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148324$41771A15-CFC4-45BD-B1D8-329740CA2916",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Manius_Laberius_Maximus_(1)"
+          },
+          "hash": "b6ea6ade1f84388e3377024420ea2239b9384d38",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148324$0DF71BB1-CB58-4291-88B0-048D3EFEE70C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151854",
+              "numeric-id": 151854
+            }
+          },
+          "hash": "e13fec658ed4272196ee9315c29276cfd700266e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148324$C4593934-0758-44D8-A124-E39241109D62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148324$5E3A2E2F-722D-4DA4-A3ED-A80F90833FA4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148324$9A5486E1-CC99-475A-B9BD-09ED56AF461F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55aa545168bc6f261b176e92922d351c65bd390f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148324$40A77F18-2014-406B-9BF0-F3867DC874FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1234303"
+          },
+          "hash": "356e1fd8122826cd1ce69ea9e0418600f01295f9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148324$42FE48A5-B88B-4FB9-B6A6-252802B2D78B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manius Laberius Maximus Arms.svg"
+          },
+          "hash": "723dd57085d45d9a5bc71f1ca8f5ae12c3198960",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 89 und 102 und Militär"
+    },
+    "en": {
+      "language": "en",
+      "value": "late 1st/early 2nd century Roman senator, consul and general"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سرباز در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 89 et en 102"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "서기 1세기 후반/2세기 초 로마의 원로원 의원, 집정관, 장군"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soldaat uit Oude Rome"
+    }
+  },
+  "id": "Q148324",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Маний Лаберий Максим"
+    },
+    "de": {
+      "language": "de",
+      "value": "Manius Laberius Maximus"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Manius Laberius Maximus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάνιος Λαβέριος Μάξιμος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manius Laberius Maximus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Manius Laberius Maximus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Manius Laberius Maximus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manio Laberio Máximo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Manius Laberius Maximus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Manio Laberio Máximo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Manio Laberio Massimo"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마니우스 라베리우스 막시무스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Manius Laberius Maximus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Manius Laberius Maximus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mânio Labério Máximo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mânio Labério Máximo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маний Лаберий Максим"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Manije Laberije Maksim"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Manius Laberius Maximus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Маній Лаберій Максим"
+    }
+  },
+  "lastrevid": 17573200,
+  "modified": "2025-09-17T15:36:38Z",
+  "ns": 860,
+  "pageid": 176777,
+  "sitelinks": {},
+  "title": "Item:Q148324",
+  "type": "item"
+}

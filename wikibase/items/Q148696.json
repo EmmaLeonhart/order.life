@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John (I) Lestrange"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148696$A3EFC065-D10C-4D81-936F-7E6AC7CF60F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00140324"
+          },
+          "hash": "a860fc94ec9df4678709fcfc3a91dcdb5f7cdb0b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148696$5BC69DAC-562B-48E0-AFF4-C585754022A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144691",
+              "numeric-id": 144691
+            }
+          },
+          "hash": "b436f80e803095e299f179156927ee0f24b1fe89",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148696$B1985A4A-31F8-45A7-9C3C-62829E1AE9EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Strange-22"
+          },
+          "hash": "0562111a0d9bec4350dc63f6a345f323609fa554",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148696$96406E66-E70A-4432-A050-32C048589310",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148696$1F984422-6E8B-429B-98B0-B2C797CFE50D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148696$56687D1D-C1B6-423D-8481-D6CD81CA0E05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148697",
+              "numeric-id": 148697
+            }
+          },
+          "hash": "60c816547b152a8e89401f21db75059fd19f2bda",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q148696$C76DE9F0-92D2-44A2-B1BF-56A307FF10F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p56828.htm#i568276"
+          },
+          "hash": "5ee7a9046abb5a725239a2d460423d3a09cadd3b",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148696$F02CE187-1781-472D-8B51-843CE28FC3EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148696$51D0C0D4-5434-4E3C-B765-31F7E442A3A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b94cbbb41a40c755e4a573bf340664e48047400",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148696$B60CEE71-29D8-4475-864E-54B351007BAD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1178-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0e86f8745f138af51c9452a5df8faec9dc258bfc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148696$F63D50F4-0E34-4ED5-A6E7-3CEF0B0D0D8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76154568"
+          },
+          "hash": "e8b0e3fed35d31d7993eb511314641c415bee1cb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148696$3285DB2E-59FC-45E5-80F7-9B8E21ADB449",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John (I) Lestrange Arms.svg"
+          },
+          "hash": "5fa4af4ebfb3dc0147788f7f89d858a93cdc0e9e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=568276"
+    }
+  },
+  "id": "Q148696",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John (I) Lestrange"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John"
+    }
+  },
+  "lastrevid": 17573898,
+  "modified": "2025-09-17T15:46:21Z",
+  "ns": 860,
+  "pageid": 177149,
+  "sitelinks": {},
+  "title": "Item:Q148696",
+  "type": "item"
+}

@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John de St John"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150001$D92EF0D4-D446-42FF-9379-B450C0AB6B14",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00075123"
+          },
+          "hash": "12a57c6cbad8a1a7a18ea906f86fb5654b0b17f4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150001$69AD1FA4-5387-498A-82A4-6420D0F4C0CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "St_John-256"
+          },
+          "hash": "11d505ce6d68d9beb8a2bf62d2105b9f437e85f0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150001$326FFBCE-A95B-46DD-8091-BAA9176E1793",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150001$FE24BCC8-5005-41DE-8222-6BEBBBBDCB93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150001$1C173B5A-5FA1-4E5C-94AD-72820C9B083D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p930.htm#i9295"
+          },
+          "hash": "72ff7bd8c86d525047c995a7debb565f0262d1b4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150001$A3574A82-5287-4B97-9246-749F673D772B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145515",
+              "numeric-id": 145515
+            }
+          },
+          "hash": "83591ee6bdf40e94c1923b71aef125680224f2b1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150001$4E954265-BC44-4CA6-8ABA-D496E9B80853",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150001$CD8E75FA-33D9-4398-9BBF-005BEC6BDB93",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150001$6DAB6E54-A07E-4EE1-A512-5D64F0EEF712",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1302-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "167b3306b31897bc2b8c936c0bd56e190bf7dc10",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150001$E1525566-C9AB-4E15-9A36-2CA8AB191A69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18810849"
+          },
+          "hash": "cabf431718f5bdc0a9872f38a2d1d7cb5206478f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150001$2D84A3E7-F1BD-473A-AEEE-49C0CE146D21",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John de St John Arms.svg"
+          },
+          "hash": "19543ba776dad09eb19c10a2080f74edc46ea955",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger, Militär und Diplomat"
+    },
+    "en": {
+      "language": "en",
+      "value": "English soldier and diplomat"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "diplomate anglais"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イングランドの軍人、外交官"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "английский военачальник и дипломат"
+    }
+  },
+  "id": "Q150001",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "John de St John"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "John de St John"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "John de St John"
+    },
+    "da": {
+      "language": "da",
+      "value": "John de St John"
+    },
+    "de": {
+      "language": "de",
+      "value": "John de St John"
+    },
+    "en": {
+      "language": "en",
+      "value": "John de St John"
+    },
+    "es": {
+      "language": "es",
+      "value": "John de St John"
+    },
+    "et": {
+      "language": "et",
+      "value": "John de St John"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "John de St John"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John de St John"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "John de St John"
+    },
+    "it": {
+      "language": "it",
+      "value": "John de St John"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジョン・ド・セイント・ジョン"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "John de St John"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John de St. John"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "John de St John"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "John de St John"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "John de St John"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "John de St John"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джон де Сент-Джон"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "John de St John"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "John de St John"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John de St John"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "John de St John"
+    }
+  },
+  "lastrevid": 17576488,
+  "modified": "2025-09-17T16:21:52Z",
+  "ns": 860,
+  "pageid": 178454,
+  "sitelinks": {},
+  "title": "Item:Q150001",
+  "type": "item"
+}

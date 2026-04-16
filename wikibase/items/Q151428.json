@@ -1,0 +1,292 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Licinius Murena"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151428$EAAB15A3-1116-4713-A386-88EB9316452C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151429",
+              "numeric-id": 151429
+            }
+          },
+          "hash": "c5b3938500c3ca82dc931609862182695bffaabb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151428$59A0A8EA-D76E-4141-A27F-7083000A3C31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148180",
+              "numeric-id": 148180
+            }
+          },
+          "hash": "fc99b53dd6d5a67c331692565ea52f2ae4ef38dd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151428$1B1B5639-4097-454D-A560-8D189FD528BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151428$1EC6BC7A-EA70-4FE9-ADE3-86B7B244F5B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151428$DED746AC-BB8F-4372-84F4-494AC9350947",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151428$AF59AF0E-40DC-4A55-AB59-3DE01E80F844",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151428$1056B74E-958C-4D4E-9063-9EE0C991E820",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3622118"
+          },
+          "hash": "48e9faba1b816601d744f63d34525e65476eb385",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151428$6A173578-B3CB-42DB-9430-1A524CEBEA45",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Licinius Murena"
+          },
+          "hash": "1463ebb74c3fd303491c90aa8343141377640f4b",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151428$4B857D78-8BC5-4F81-8F95-0762B0B2223D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Licinius Murena Arms.svg"
+          },
+          "hash": "6a3593203174aa38a43c3b5823a31b40d4f07b13",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "praetor 88 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "padre"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 88 av. J.-C."
+    },
+    "ja": {
+      "language": "ja",
+      "value": "共和政ローマの政治家・軍人"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "претор 88 года до н. э."
+    }
+  },
+  "id": "Q151428",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Лициний Мурена"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Licini Murena"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Licinius Murena"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Licinius Murena"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Licinio Murena"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Licinius Murena"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Licinio Murena"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Licinio Murena"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・リキニウス・ムレナ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Licinius Murena"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lucius Licinius Murena"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Luci Licini Murena"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucius Licinius Murena"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Лициний Мурена"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Luci Licini Murena"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucius Licinius Murena den äldre"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Ліциній Мурена (претор 88 року до н. е.)"
+    }
+  },
+  "lastrevid": 17579286,
+  "modified": "2025-09-17T17:00:24Z",
+  "ns": 860,
+  "pageid": 179882,
+  "sitelinks": {},
+  "title": "Item:Q151428",
+  "type": "item"
+}

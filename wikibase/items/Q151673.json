@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberius Julius Rhescuporis IV"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151673$61EBC0FE-1A00-4D25-8BA6-68A2CACC8D83",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736392"
+          },
+          "hash": "4da869b645b85b925234ab6928ca23d4c6860f9e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151673$DB67246F-E2BB-4906-9CC5-8210B03CE11A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151673$1DEF88F3-5E06-49E7-BBC1-654D9F4FBD7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151673$034A08E3-129A-4305-9437-46179594D59C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123550",
+              "numeric-id": 123550
+            }
+          },
+          "hash": "60bd3f82235080a526137d480c633cbac498482f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151673$92EA9C65-38F0-4917-B600-01E15C39BD9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151673$6CCC6E1B-8664-43DA-B6C7-6D80374E2092",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0235-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa27668db7d58fa986f5046c252e8d6f1d3ab78f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151673$DC3B3BBB-60DC-4A6A-8F80-DDBDAAF40490",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3530990"
+          },
+          "hash": "6f7a44a7d7a40932d64357eb8810e7c45ef0ec6a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151673$F8C366E1-501F-4FCD-9CA7-B535154F6966",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberius Julius Rhescuporis IV Arms.svg"
+          },
+          "hash": "309d54ea04aefff9470f10f7abf81bb28593f333",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "ruler of the Bosporan kingdom from 233 to 235"
+    },
+    "es": {
+      "language": "es",
+      "value": "gobernante del Reino del Bósforo entre 233 y 235"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi du Bosphore"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Bosporu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Боспора в 233—235 годах"
+    }
+  },
+  "id": "Q151673",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Tiberius Iulius Rhescuporis IV"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιβέριος Ιούλιος Ρησκούπορις Δ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberius Julius Rhescuporis IV"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rescuporis III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhescuporis III du Bosphore"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tiberius Julius Rhescuporis IV"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Reskuporis III"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рескупорид IV"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tiberius Julius Rhescuporis IV"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Рескупорід IV"
+    }
+  },
+  "lastrevid": 17579712,
+  "modified": "2025-09-17T17:06:04Z",
+  "ns": 860,
+  "pageid": 180127,
+  "sitelinks": {},
+  "title": "Item:Q151673",
+  "type": "item"
+}

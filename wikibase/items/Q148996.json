@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elizabeth Le Strange"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148996$2F0A3EEE-7795-4562-A820-53B566E8A2BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00228137"
+          },
+          "hash": "a5538222c812ef7b5b6aecd45e342dd3fe51f1e9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148996$7D1DD2AD-7A64-4693-B234-49769E8A36DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Strange-151"
+          },
+          "hash": "8ecbfbf2509f588bd7c3eb19def4a6ce5a43de84",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148996$B695966C-9BFA-4611-AF70-46CCE5A51DF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148996$AB2430D2-07C1-4FF3-AB24-66FB215CBC11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148996$A8DCF20D-2749-4848-A674-020ED5189DD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148704",
+              "numeric-id": 148704
+            }
+          },
+          "hash": "f827dba187440e9c94f6289b380b1003e549f2b1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148996$993EFB72-4A6F-4B2F-98CF-8D58C009DE36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144929",
+              "numeric-id": 144929
+            }
+          },
+          "hash": "a5faadf78e2a9549ecaf09bdab93a53bd7448fe9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148996$F5A29968-BCB8-4176-9A98-70FE9B740D1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148996$375C978D-63E5-49C7-80BD-23100AA81264",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1308-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81df63cc75d68e4f07813160cf24ec9efa6b6d79",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148996$07F3BF92-F97F-4DAB-A217-EC26D93CDBE0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1381-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ddce58902d5b65f68b3b4adab18ab3819c549678",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148996$ED1AEB41-A7EA-4350-84F9-5DA1EBBFE19F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q100900759"
+          },
+          "hash": "46aa3aa867eaeafefcadd49e248ff3851effcfb2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148996$3569105A-A4D8-420B-A1AC-419AE7BFCEBC",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth Le Strange"
+          },
+          "hash": "56fcc59e1824239f983447d93b2d3311fbb2848b",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148996$0B3501F3-1BDA-439D-8D27-1462ECE66949",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth Le Strange Arms.svg"
+          },
+          "hash": "e99806ed88965e13feae0969692e47aa16da60f1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1308 - Nov 1381"
+    }
+  },
+  "id": "Q148996",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elizabeth Le Strange"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Elizabeth Le Strange"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elizabeth Le Strange"
+    }
+  },
+  "lastrevid": 17574494,
+  "modified": "2025-09-17T15:54:46Z",
+  "ns": 860,
+  "pageid": 177449,
+  "sitelinks": {},
+  "title": "Item:Q148996",
+  "type": "item"
+}

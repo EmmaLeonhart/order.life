@@ -1,0 +1,577 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Scipio Aemilianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148063$2FFBF799-E692-47DC-A368-127C238C6EB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735625"
+          },
+          "hash": "3220443e680a18d7b9ebf2103e80101b5d71ab64",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148063$97932313-9C5E-458E-A66A-F6F64ABED3AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148063$53752D6B-120E-4AE6-B5BF-5334A22BE75D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148063$B168BF20-6E47-4CCF-9C79-40793B201500",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Scipio_Aemilianus_(1)"
+          },
+          "hash": "050e011702947799320f01058e8afac27a97ef23",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148063$D6CF53D6-F123-4A64-A49D-A360179D0C50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144058",
+              "numeric-id": 144058
+            }
+          },
+          "hash": "814f5e48e04a78eb61eab5410481e26e58d0a722",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148063$A84A5B1E-9DCD-4ACA-8B16-06F69AEB8E6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148059",
+              "numeric-id": 148059
+            }
+          },
+          "hash": "a55bc5ffa157faa0b7e1e2884e1e7b1a34e7f217",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148063$C8377A63-EFDA-45BE-9D6D-4BEED65A7049",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151487",
+              "numeric-id": 151487
+            }
+          },
+          "hash": "eba594072aae319298838a5866e4ea24dfaf1877",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148063$656D0136-3AA2-4955-9E9A-9619CC01403A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148063$4CA38BEE-0C63-47CB-92B2-5A620DB7F25D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0185-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "90c4c945418a11858ddc6e927b83515b7aa61285",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148063$0E7FD71C-B313-473E-9198-F2B429EF8F12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0129-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ac13cb457e6d163ceabda17dae7b0ac946ab0628",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148063$299E0EE9-48B1-455A-AEA3-6C655E77DE76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2307"
+          },
+          "hash": "e17c9903692dad5210d585cd3d64bc4af0146e48",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q148063$3262C41E-4C63-4AE9-8AFD-339F0F05AFD2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041217707007"
+          },
+          "hash": "29257669b11f13014f3e4dd9d87abc585abfa8d4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148063$72E1E82F-DA60-4087-8109-04DB25C475FD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Scipio Aemilianus Arms.svg"
+          },
+          "hash": "9df241cb8d4a604f945df4261794b9d4b564f068",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "римски политик и военачалник"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític i militar romà del segle II aC"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský generál a politik"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk feltherre"
+    },
+    "de": {
+      "language": "de",
+      "value": "jüngere Sohn von Lucius Aemilius Paullus Macedonicus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος στρατηγός (185-129 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician and general (185–129 BC)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "romia generalo"
+    },
+    "es": {
+      "language": "es",
+      "value": "militar y político romano del siglo II a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général romain (185-129 av. J.-C.)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "militar e político romano do século II a. C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e generale romano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "共和政ローマ中期の政務官・執政官"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk hærfører"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (185v Chr-129v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski dowódca i polityk"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский полководец и государственный деятель, разрушивший Карфаген"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "генерал и политичар у старом Риму"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗马共和国的将领和执政官"
+    }
+  },
+  "id": "Q148063",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سكيبيو اميليانوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سكيبيو اميليانوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Ssipion Afrikalı"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Сципион Емилиан Африкански"
+    },
+    "br": {
+      "language": "br",
+      "value": "Scipio Aemilianus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Escipió Emilià Africà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Scipio Aemilianus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Scipio den yngre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Scipio Aemilianus Africanus"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Publius Cornelius Scipio Aemilianus Africanus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σκιπίων Αιμιλιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Scipio Aemilianus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Scipio Aemilianus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Scipio Aemilianus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Scipiono Afrika la Juna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Escipión Emiliano"
+    },
+    "et": {
+      "language": "et",
+      "value": "Publius Cornelius Scipio Aemilianus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Eszipion Emiliano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسکیپیو امیلیانوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Scipio Aemilianus Africanus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Scipion Émilien"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Scipio Aemilianus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Escipión Emiliano"
+    },
+    "he": {
+      "language": "he",
+      "value": "פובליוס קורנליוס סקיפיו אמיליאנוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Cornelius Scipio Aemilianus Africanus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կոռնելիոս Սկիպիոն Էմիլիանոս Աֆրիկացի կրտսեր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Scipio Aemilianus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Scipio Aemilianus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Scipione Emiliano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スキピオ・アエミリアヌス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სციპიონ აფრიკელი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스키피오 아이밀리아누스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius Scipio Aemilianus Africanus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Scipio den yngre"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Scipio Aemilianus Africanus minor"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Scipio den yngre"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Scypion Afrykański Młodszy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cipião Emiliano Africano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cipião Emiliano Africano"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Scipio Aemilianus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Корнелий Сципион Эмилиан Африканский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Scipion Emilijan"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Scipio mladší"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Scipion mlajši"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Scipio Aemilianus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Публије Корнелије Сципион Емилијан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Scipio Aemilianus"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சிபியோ ஏமிலியனஸ்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Scipio Aemilianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Сципіон Еміліан Африканський Молодший"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小西庇阿"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "小西庇阿"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "小西庇阿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "小西庇阿"
+    }
+  },
+  "lastrevid": 17572766,
+  "modified": "2025-09-17T15:30:33Z",
+  "ns": 860,
+  "pageid": 176152,
+  "sitelinks": {},
+  "title": "Item:Q148063",
+  "type": "item"
+}

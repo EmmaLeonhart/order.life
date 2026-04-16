@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eustace de Say"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148818$760F08FB-B966-4E9C-B6A7-5875EBFFF7A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00398068"
+          },
+          "hash": "0d2bdf86a5378c932ff53771946f4432fc6262be",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148818$7C762FEB-B30C-4309-9ADF-1ED26A8F7E73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144788",
+              "numeric-id": 144788
+            }
+          },
+          "hash": "38cadfb80941f53624a0f170a1c1ee2acbac3745",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148818$4C89824E-87B4-4E92-BF58-33DF334BCBF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148818$5D0ECD8E-F122-42E3-BABA-733A1CAA2B17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148818$1065B20B-A953-42E0-A501-169E59C740D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142057",
+              "numeric-id": 142057
+            }
+          },
+          "hash": "0d2dbf5a88f7660dfcc1b334186baa88ae821a74",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148818$FBFC1B93-8123-4FBA-BC3E-ED0AB1454FE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148818$EC034A86-5B55-4B3F-816F-51466CBEACA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q113633091"
+          },
+          "hash": "0050b164c7f60de30d1345c85b3e770d6f7c25e1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148818$54728901-62B9-4FF5-9427-0B461A6AFCEA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Eustace de Say"
+          },
+          "hash": "6866d32b160fb4dc729c86550d8dce715e9ff167",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148818$9D33CA1A-7C3E-44E2-8AEC-3233038F56D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eustace de Say Arms.svg"
+          },
+          "hash": "750804b4558457a3ddb3af0b5bef71fde3be3fa6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q148818",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Eustace de Say"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Eustace de Say"
+    }
+  },
+  "lastrevid": 17574142,
+  "modified": "2025-09-17T15:49:47Z",
+  "ns": 860,
+  "pageid": 177271,
+  "sitelinks": {},
+  "title": "Item:Q148818",
+  "type": "item"
+}

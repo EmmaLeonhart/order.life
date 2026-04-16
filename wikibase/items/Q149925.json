@@ -1,0 +1,372 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yolanda of Lusignan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149925$F56E1452-6428-4E64-AAFD-AAD5D2B2F1BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00613361"
+          },
+          "hash": "ee319e7ce0e693948cd2caed0b84d2102bd0ea3c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149925$80A1C861-F05A-4ADA-84FB-FEDA3BF6DA2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149925$1F480C90-6322-4B5E-88E2-33D257A0AC0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149925$5885C9DA-8F09-4CEE-A4DD-1BF59FC98610",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Yolanda_of_Lusignan_(1)"
+          },
+          "hash": "20ab7e6939ec127a617b9229bd579ad9464d19f8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149925$BE8DA016-C299-40B8-8797-2EDA592EFE94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145455",
+              "numeric-id": 145455
+            }
+          },
+          "hash": "f446fe9933f044bd807c16a06373de6803c866ba",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149925$35CCA69C-F51E-4BD7-88AE-E8456576A91E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149922",
+              "numeric-id": 149922
+            }
+          },
+          "hash": "c50f1f97a76519beb2b62b15a5028c24697e948e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149925$B055329F-5E0B-4508-A728-A2D20B39BE3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149925$E32808C5-9703-44FE-BCA2-069486454DE0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1257-03-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d330e5e3bde661f3b0e8737825ae5ab4fd1c601",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149925$93B25E5E-60DC-4445-9665-C0C5FB41CD9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1314-10-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0f6eddf4e3d2b4edeee6367574336ba6f734e00e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149925$DD833961-CFD4-4EB6-A466-A57590FBF4C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q459175"
+          },
+          "hash": "13ce752ee76632c07211e8eadf5fec6bb4eec0c5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149925$B03FCA49-687D-4FFF-BD30-F2B42C833932",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=yolande;n=de lusignan;oc=1"
+          },
+          "hash": "c784d4a8c74155bd5c80fff8e8d6dd648b12cae7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149925$B8E02295-6C58-4D9A-AB75-F88CF1605D55",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yolanda of Lusignan Arms.svg"
+          },
+          "hash": "a2d5edb901b9ba1fb7487fb1acba2278f32e39e4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "política francesa (1257–1314)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "política francesa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herr von Lusignan, Graf von La Marche und Angoulême"
+    },
+    "en": {
+      "language": "en",
+      "value": "Countess of La Marche (1257-1314)"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble francesa, condesa de La Marche, de Angoulême, señora de Fougères, de Porhoët y de Lusignan (1257-1314)"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari frantziarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dame de Lusignan, comtesse de la Marche et d'Angoulême, dame de Fougères et de Porhoët"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "política francesa"
+    },
+    "it": {
+      "language": "it",
+      "value": "politica francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans politica (1257-1314)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "política francesa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız siyasetçi (1257-1314)"
+    }
+  },
+  "id": "Q149925",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "يولاندا من لوزينيان"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Iolanda de Lusignan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Yolande van Lusignan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jolanda I. von Lusignan"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γιολάντα του Λουζινιάν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yolanda of Lusignan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yolanda de Lusignan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yolande de Lusignan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Yolande de Lusignan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Yolande de Lusignan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yolande van Lusignan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Iolanda de Lusignan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Iolanda de Lusignan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоланда де Лузиньян"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Yolande de Lusignan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yolande de Lusignan"
+    }
+  },
+  "lastrevid": 17576340,
+  "modified": "2025-09-17T16:19:53Z",
+  "ns": 860,
+  "pageid": 178378,
+  "sitelinks": {},
+  "title": "Item:Q149925",
+  "type": "item"
+}

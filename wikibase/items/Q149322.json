@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Edward Burnell, 1st and last Lord Burnell"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149322$42B775BF-89D3-4CFE-BF62-92092269EAF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Burnel-1"
+          },
+          "hash": "e50ead3f0b7af43c9a5989159a1a56e67e043d09",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149322$E5211C41-8558-42FF-9D05-954C16E6D23B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149322$1D706D5B-8A73-4CFA-B11D-346C2EBE17EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149322$7B43FC8B-B81B-4CD5-A8A0-A9EF56C5D689",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145227",
+              "numeric-id": 145227
+            }
+          },
+          "hash": "31549f01e7dcd76fe57ecafe87a6a1a73ccd09c8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149322$DFEEEFE5-7B61-44C6-B3A6-CBEEC69DF463",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p19098.htm#i190979"
+          },
+          "hash": "6edda40b1e1f319da149e62dc4c69a8b0a2b22fa",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149322$717BDE65-13DB-49FC-B007-C34670E21627",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149320",
+              "numeric-id": 149320
+            }
+          },
+          "hash": "e28e9e4f0f62eff24feb9d22aae6d1072fcca237",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149322$E2878EA3-3A33-4745-861D-FA7A0D4F00F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145126",
+              "numeric-id": 145126
+            }
+          },
+          "hash": "a241adb52d9e5c4109f141bb97aaa2294095ac55",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149322$F96ED041-F5CE-4C87-B27B-C4F3DB2CFB46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149322$3E5D55B1-64B5-4ACE-AF73-634F0956209A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1286-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbcc2bca8d6fbe5bd570fcfaaf0ccb247149b678",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149322$FA6CC2A2-6C22-4679-B0A4-EDDBFFD5C89E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1315-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9dfabdf2c3deec82c9644cb586f6a9e518bf66e2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149322$64463370-B9A3-483A-9E84-84097A14C2B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q29025406"
+          },
+          "hash": "b3bb685b770aba0bc2ac411f2d0ebe89d8bc6103",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149322$3328A3B0-B2C3-4063-8FB1-B73307A22205",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Edward Burnell, 1st and last Lord Burnell Arms.svg"
+          },
+          "hash": "e94ea1c6f65f3fe987287a391359f7b5f8edc568",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=190979"
+    }
+  },
+  "id": "Q149322",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Edward Burnell, 1. Baron Burnell"
+    },
+    "de": {
+      "language": "de",
+      "value": "Edward Burnell, 1. Baron Burnell"
+    },
+    "en": {
+      "language": "en",
+      "value": "Edward Burnell, 1st and last Lord Burnell"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Édouard Burnell (1er baron Burnell)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Edward Burnell, 1. Baron Burnell"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бёрнелл, Эдуард, барон Бёрнелл"
+    }
+  },
+  "lastrevid": 17575140,
+  "modified": "2025-09-17T16:03:32Z",
+  "ns": 860,
+  "pageid": 177775,
+  "sitelinks": {},
+  "title": "Item:Q149322",
+  "type": "item"
+}

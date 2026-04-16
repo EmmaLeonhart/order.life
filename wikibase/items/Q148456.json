@@ -1,0 +1,214 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Olivia FitzGerald"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q148456$BA203D42-0702-4CB6-B64F-5AEB6E78E457",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzGerald-3889"
+          },
+          "hash": "51627e0a3cf4de758e8d02200672abd7688021b3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148456$92864F70-A52D-4725-9D11-C6F8B0A7753D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148456$2FE19773-4264-44B5-B8A7-6B282A7F1863",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q148456$CCD97397-2462-4DE8-80EB-649B88285066",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p37090.htm#i370897"
+          },
+          "hash": "83a5cb0b896b1e35e77ac74ac024f6ceb98d385c",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148456$760F781E-FFB3-4778-A687-F3BA97949CB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144491",
+              "numeric-id": 144491
+            }
+          },
+          "hash": "9c99966a67481c427035d7e40607db79401fa7f9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148456$E024E7F6-D4E0-4B04-B4A7-8C800E6C5878",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148456$CB18BCB4-0914-4F89-890D-7FB8F2A5CBC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a30e929c8128e528cb4df0827a2224a6c9d8c3b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148456$19D52212-CF3C-4930-9600-856C298D4BA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75872625"
+          },
+          "hash": "9e9168c15045c5307cc05a67977c2940e5e13526",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148456$9710A5C6-DE5E-454F-AFE0-F8D54AC7A099",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Olivia FitzGerald Arms.svg"
+          },
+          "hash": "36f3ea27ed25ad51d0ba0560adb9fbdeb2b1e687",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=370897"
+    }
+  },
+  "id": "Q148456",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "অলিভিয়া ফিটজেরাল্ড"
+    },
+    "en": {
+      "language": "en",
+      "value": "Olivia FitzGerald"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Olivia FitzGerald"
+    }
+  },
+  "lastrevid": 17573418,
+  "modified": "2025-09-17T15:39:43Z",
+  "ns": 860,
+  "pageid": 176909,
+  "sitelinks": {},
+  "title": "Item:Q148456",
+  "type": "item"
+}

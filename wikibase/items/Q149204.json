@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard Champernoun, of Modbury"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149204$89C27989-F9F0-4CA3-8447-6F2A679BF768",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00561652"
+          },
+          "hash": "dd08ce58f7cff7a371e1db1482e1d25c48edbd04",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149204$BB317C7F-65DF-4864-B3AF-C2CB1B4D1249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149206",
+              "numeric-id": 149206
+            }
+          },
+          "hash": "1feff2afb85e18efd25c0a54387968fa06016a79",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149204$1C10B371-FF01-486A-AE67-F76836033B8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149205",
+              "numeric-id": 149205
+            }
+          },
+          "hash": "18f909bc83299f6e9b5f5da5169cc9e0c556b3f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149204$38860F7C-C10C-429E-91BA-2E5D7B8121AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Champernon-29"
+          },
+          "hash": "6fb9d74a5f546127deb080e2c18c49de9ca66b7b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149204$0CBA9141-633F-4452-93BB-5C3E0E6BC2FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149204$898E39C6-12D1-4C1C-ABDE-0617C1E309E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149204$F40E045D-FA58-4A53-88AA-EE6C85F2011F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145065",
+              "numeric-id": 145065
+            }
+          },
+          "hash": "a27eae124f537f529af2f18f52f8cf846184d9ee",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149204$748582F6-5FED-4C45-A5F5-82BC2AF1F44E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149204$306B244A-4EF3-4FE4-9A3D-FD1E69E97906",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1255-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "543104dc414904fa60d4437c1ec8843effacb57d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149204$C7C0A684-943F-4B15-BF89-869335029457",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1310-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ab8112efc08287c96e542e5e834581bd5e2c1ad5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149204$2B2E3DF8-1CAF-44B5-A1C4-4605271475F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96238063"
+          },
+          "hash": "81c34008f5a1f124482b5a84bf0a2d92754903b0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149204$1F7F32E5-5504-4C77-ABAB-9292FF7531E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard Champernoun, of Modbury Arms.svg"
+          },
+          "hash": "59ffe1c2eae342572715ffced941eed43c70d352",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Abt 1246 Modbury, Devon -"
+    }
+  },
+  "id": "Q149204",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Richard Champernoun, of Modbury"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Richard Champernoun, of Modbury"
+    }
+  },
+  "lastrevid": 17574906,
+  "modified": "2025-09-17T16:00:23Z",
+  "ns": 860,
+  "pageid": 177657,
+  "sitelinks": {},
+  "title": "Item:Q149204",
+  "type": "item"
+}

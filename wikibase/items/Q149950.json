@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hugh de Hastings, Lord of Fillongley"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149950$F2CE696A-8562-4D65-B824-2FD7FABEB9EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00140349"
+          },
+          "hash": "6877e6c2f02cd79c2a9b47fe2f786f86e5e554a7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149950$9C80C387-2D3A-43C2-8EEA-E4F4F8A67ADE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145470",
+              "numeric-id": 145470
+            }
+          },
+          "hash": "474f993f4b46f869ee7b5cadf774ef664822a09c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149950$32E5CDD2-4F72-4527-BC00-E2EDF8FD741B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hastings-628"
+          },
+          "hash": "f50eb9a7d9a56796a7030a5fab3d18fc6d9f5ec8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149950$C55C6140-A5C2-4B1A-8597-1C24E0AB09F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149950$23F523D9-A83C-4B3E-A22F-640EDBE6393A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149950$C971108C-C86B-4CAE-AB4E-A34D1E1DF925",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149951",
+              "numeric-id": 149951
+            }
+          },
+          "hash": "436b7cdf915db04262e926ccd250e331c6155f2f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149950$1D5A454F-08D0-42BD-8BD4-EFAA238B6003",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149950$8A3B586B-BF5A-4F8F-B774-B965C9E6FA1F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b94cbbb41a40c755e4a573bf340664e48047400",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149950$A67172A1-C87F-4B51-A385-87B1851370A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112964628"
+          },
+          "hash": "7d1e5c490d20fdf6ef59ebb5a26b056eee3a514d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149950$570A1619-72C6-4FE2-8B85-1AB5850B9A55",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugh de Hastings, Lord of Fillongley"
+          },
+          "hash": "d025874a71dab36e0ec0264a8424bb70e23f828f",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149950$D16A8994-80FC-43EE-95A8-843268287B0F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugh de Hastings, Lord of Fillongley Arms.svg"
+          },
+          "hash": "a81314453a3a1bd50a6b8c1543ed19fed0a6da2f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1115 - before 1166"
+    }
+  },
+  "id": "Q149950",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hugh de Hastings, Lord of Fillongley"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Hugh de Hastings, Lord of Fillongley"
+    }
+  },
+  "lastrevid": 17576390,
+  "modified": "2025-09-17T16:20:32Z",
+  "ns": 860,
+  "pageid": 178403,
+  "sitelinks": {},
+  "title": "Item:Q149950",
+  "type": "item"
+}

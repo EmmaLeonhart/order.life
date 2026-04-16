@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Roman Ingvarevich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147228$D31DB443-E7FF-4614-8A89-4B20450C2306",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "282034"
+          },
+          "hash": "6b04fa82b9da332ffe5389315cf51a8e0b129610",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147228$1E616834-D98A-4386-B892-1C9021D12D71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147228$76B882DA-E885-4E6F-980F-E578863028C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147228$F0DA7FB3-7A1D-403D-BD47-DF5D4696CEAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143687",
+              "numeric-id": 143687
+            }
+          },
+          "hash": "ab30f43c5d1c0b69360e59ed105d97fa23f7a11c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147228$F7979AA5-63DE-4AC6-B8A1-59A76D0BB57C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147228$721044AC-29A2-443B-9572-DB254D9F41D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1238-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "48d1b0f88cd7526e491ad2bffe1bdf0df9fe2a74",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147228$87DBAD49-3C76-496D-BAB5-435659D027EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4397028"
+          },
+          "hash": "d11cb0c85e29b17f90f94e3d08aebce0763538c2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147228$8E83A848-4BD3-4D6B-A252-5160217F3F47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=roman;n=rurikides;oc=16"
+          },
+          "hash": "e38a098d816f819b288bd530d6d6970d1fc636f7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147228$B870D40A-752A-4FE5-9AF7-A195796AB57B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Roman Ingvarevich Arms.svg"
+          },
+          "hash": "4f602aa5284a99a695b8b8d94d8042bf07e79c1b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q147228",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Roman Ingwarewitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Ingvarevich"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ロマン・イングヴァレヴィチ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роман Ингваревич"
+    }
+  },
+  "lastrevid": 17571788,
+  "modified": "2025-09-17T15:17:11Z",
+  "ns": 860,
+  "pageid": 175613,
+  "sitelinks": {},
+  "title": "Item:Q147228",
+  "type": "item"
+}

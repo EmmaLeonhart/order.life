@@ -1,0 +1,783 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Clement I"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q151553$B549D55C-E051-4B1E-BFEA-9F8049A5CBFF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Romanus-6"
+          },
+          "hash": "4ec43fab00293bc83caa8756fe675e48c2b94cb2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151553$4918A027-202C-4842-BE1D-2A9A6D4F13DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151553$0605EC8F-202A-464D-B9F6-4624EDB2C251",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151553$4932BD48-74E0-4231-8CC7-08896FDB1B4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151425",
+              "numeric-id": 151425
+            }
+          },
+          "hash": "c90be9e2ace5faebdea714d47faa7020ab7ce425",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151553$28C63DD0-437A-4D6F-814C-91BD86D81AE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151551",
+              "numeric-id": 151551
+            }
+          },
+          "hash": "af94ae50742f36cb51a8d31ffdcecd1fde866243",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151553$F83A1F52-F03E-48C3-B838-4DD7586F115E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151553$C45E18B2-F500-4C25-87B7-613693ADCC31",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151553$8A87A5D4-6AAD-4A23-BEC9-4A9EFC7A755C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0099-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b41170fb446f74cbfd75191fbce794e4059c3661",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151553$FED2481B-286E-470C-95D5-901CD2BCB811",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q42887"
+          },
+          "hash": "8fb42545f3ab9aa4cb8afb90879dcfaf1a2d2a68",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151553$61CFBAD9-4692-40BB-874B-EDBB98EF4482",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Clement I Arms.svg"
+          },
+          "hash": "05743f401e2c16773850b14481cf8b520a61b010",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q151553$2D442925-6611-4E8A-9124-9E6037CEB726",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/3902dbc1-ca3e-4e19-bee2-3ebd3068d6ac"
+          },
+          "hash": "23c654b3dfdb2384a024631a0549dedf68e2ed6e",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "4-ы Папа Рымскі (88-90 — 97-99), святы"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "četvrti Papa Katoličke Crkve"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "papa de l'església catòlica"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "papež"
+    },
+    "da": {
+      "language": "da",
+      "value": "italiensk præst"
+    },
+    "de": {
+      "language": "de",
+      "value": "Papst und einer der Apostolischen Väter"
+    },
+    "el": {
+      "language": "el",
+      "value": "4ος Επίσκοπος Ρώμης και Πάπας"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th Pope of the Catholic Church"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "papo de la katolika eklezio"
+    },
+    "es": {
+      "language": "es",
+      "value": "santo cristiano y 4.º papa de la Iglesia Católica"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش ایتالیایی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "paavi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prélat catholique, évêque, saint chrétien"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "4° papa da igrexa católica"
+    },
+    "he": {
+      "language": "he",
+      "value": "האפיפיור הרביעי, בין השנים 88-97."
+    },
+    "hr": {
+      "language": "hr",
+      "value": "papa"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "1. századi püspök, ókeresztény író"
+    },
+    "id": {
+      "language": "id",
+      "value": "Paus Gereja Katolik ke-4"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Papa ti Katoliko a Simbaan"
+    },
+    "it": {
+      "language": "it",
+      "value": "4º vescovo di Roma e papa della Chiesa cattolica dal 92 al 97"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "第4代ローマ教皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "რომის პაპი მე-4 საუკუნეში"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "제4대 교황 (?–101)"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "മാർപ്പാപ്പ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "italiensk prest"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "paus tijdens het Romeinse Keizerrijk (40-99)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "italiensk prest"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "czwarty papież, święty"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quarto papa da Igreja Católica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "папа римский"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "поглавар Римокатоличке цркве"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fjärde Påve, helgon och martyr i romersk-katolska kyrkan"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கத்தோலிக்க திருச்சபையின் நான்காம் திருத்தந்தை"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Giáo hoàng thứ 4 của Giáo hội Công giáo Rôma - Thành quốc Vatican (88?-97?)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "天主教會第4任教宗"
+    }
+  },
+  "id": "Q151553",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Pous Clemens I"
+    },
+    "an": {
+      "language": "an",
+      "value": "Climent I"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "كليمنت الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "القديس كليمنت الاول"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Clemente I"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Klement"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Clemens vo Rom"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Papa Clemente I"
+    },
+    "be": {
+      "language": "be",
+      "value": "Клімент I"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Клімэнт I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Климент I"
+    },
+    "br": {
+      "language": "br",
+      "value": "Klemañs Iañ"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Papa Klement I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Climent I"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Gáu-huòng Clemens 1-sié"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پاپا کلێمێنسی یەکەم"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Klement I."
+    },
+    "da": {
+      "language": "da",
+      "value": "Pave Clemens 1."
+    },
+    "de": {
+      "language": "de",
+      "value": "Clemens von Rom"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Clemens von Rom"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Clemens I"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πάπας Κλήμης Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Clement I"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pope Clement I"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pope Clement I"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Klemento la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Clemente de Roma"
+    },
+    "et": {
+      "language": "et",
+      "value": "Clemens I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Klemente I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کلمنت"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pyhä Klemens I"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Klæmint I Pávi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Clément de Rome"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Pape Clement I"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pápa Cléimeans I"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Clemente I"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Clemens von Rom"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Kau-fòng Clemens 1-sṳ"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלמנס הראשון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Klement I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Kelemen pápa"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կղեմես I"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Ս. Կղեմէս Հռոմայեցի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Paus Klemens I"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Papa Clemente I"
+    },
+    "io": {
+      "language": "io",
+      "value": "Clement di Roma"
+    },
+    "is": {
+      "language": "is",
+      "value": "Klemens I"
+    },
+    "it": {
+      "language": "it",
+      "value": "papa Clemente I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレメンス1世"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Paus Clemens I"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კლემენტ I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "교황 클레멘스 1세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Papa Klement I"
+    },
+    "la": {
+      "language": "la",
+      "value": "Clemens I"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Clemente 1"
+    },
+    "li": {
+      "language": "li",
+      "value": "Clemens I (paus)"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Klemensas I"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Klements I"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Clément Ier"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Папа Климент I"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ക്ലമന്റ്"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "पोप क्लेमेंट पहिला"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Paus Clement I"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Papa Klement I"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "کلمنت"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kàu-hông Clemens 1-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Klemens I"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Clemens vun Rom"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Paus Clemens I"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Pave Klemens I"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Clamenç de Roma"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Klemens I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Papa Clemente I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Papa Clemente I"
+    },
+    "qu": {
+      "language": "qu",
+      "value": "Climinti"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Papa Clement I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Климент I"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Climenti I"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Pape Clement I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Papa Klement I"
+    },
+    "si": {
+      "language": "si",
+      "value": "පළමුවන ක්ලෙමන්ට් පාප් වහන්සේ"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kliment I."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Papež Klemen I."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Papa Klementi I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Папа Климент I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Clemens I"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Papa Klementi I"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "முதலாம் கிளமெண்ட்"
+    },
+    "th": {
+      "language": "th",
+      "value": "สมเด็จพระสันตะปาปาเคลเมนต์ที่ 1"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Clemente"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Clemens"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Климент I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پوپ کلیمنت اول"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Clemente I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Giáo hoàng Clêmentê I"
+    },
+    "war": {
+      "language": "war",
+      "value": "Papa Clemente I"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "克莱孟一世"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Pópù Clement 1k"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "聖克勉一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "教宗克肋孟一世"
+    }
+  },
+  "lastrevid": 17579508,
+  "modified": "2025-09-17T17:03:21Z",
+  "ns": 860,
+  "pageid": 180007,
+  "sitelinks": {},
+  "title": "Item:Q151553",
+  "type": "item"
+}

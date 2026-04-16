@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Renaud of Vaudémont"
+      },
+      {
+        "language": "en",
+        "value": "Renaud of Vaudemont"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147867$52550A43-D2F0-4F4D-81DB-3C126D86B719",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147867$8FFAB880-2620-4BDB-B0C3-FCBBC16AF4FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147867$CC579A06-3DB3-43C8-B8FB-0403E600EDCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128563",
+              "numeric-id": 128563
+            }
+          },
+          "hash": "338833f97346434a5de4a37f6df576da32fb4de5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147867$D7FA0B49-14FB-4068-9E8B-E91304E50355",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147865",
+              "numeric-id": 147865
+            }
+          },
+          "hash": "eb4e9460f1525bb2d2b177386f133d9145836e17",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147867$7C022119-D1C2-4B17-B6FB-B9A0C9B52C38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147867$632F004E-7ECC-4254-8B3C-B65ED830EA2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1252-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "841aa3b1a3ee83878642bdd629d82557bc6256fe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147867$E499CC86-E4DE-41AA-AD20-D0B2F7A4C1D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1279-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0fcccf6cdbbdc7490d004721b34437264f89bcd9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147867$A247F108-8098-415C-BDD3-F57F1D1885E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3424987"
+          },
+          "hash": "f359e2555746b2447b52edbde103537df5c6463a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147867$8179EADB-D33D-41A4-BE78-920F7DADD265",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=renaud;n=de vaudemont"
+          },
+          "hash": "6b385a2f4814aebad4f3f52d3e31c58502aeda50",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147867$DF1DA8E6-6734-4BB8-B195-18B90763910D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Renaud of Vaudémont Arms.svg"
+          },
+          "hash": "8297a1f74c6478b1ecdd0db32fa2abf6da145322",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q147867",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Ρενώ του Βωντεμόν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Renaud of Vaudémont"
+    },
+    "es": {
+      "language": "es",
+      "value": "Renaud of Vaudémont"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Renaud de Vaudémont"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Reinoud van Vaudémont"
+    }
+  },
+  "lastrevid": 17572522,
+  "modified": "2025-09-17T15:27:14Z",
+  "ns": 860,
+  "pageid": 176024,
+  "sitelinks": {},
+  "title": "Item:Q147867",
+  "type": "item"
+}

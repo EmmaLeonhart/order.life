@@ -1,0 +1,214 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147403$597BC255-3DF9-4A69-A4D7-5E795D7C8685",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147403$9A9C708D-574C-498A-8A29-1512D95D73C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147403$8CFD8440-5E98-416D-B668-A15AD819E25B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147400",
+              "numeric-id": 147400
+            }
+          },
+          "hash": "275f5df406192946de7fa8c7246976885813c77e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147403$72CEB451-A2FC-4A06-9020-384EFCF8D61A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129083",
+              "numeric-id": 129083
+            }
+          },
+          "hash": "9ca63a8f6791a39f783fdc4314d6c4b2e4b6a5eb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147403$C19D6355-5194-41AB-AACA-FBE50D358ECC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147403$46E03F70-D16A-49C2-92C3-FD4ED90108D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1184-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b83d7bd21b7bf52dd23fb6db35ec352f3cc069db",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147403$08F81EC1-2DA1-489E-BE3C-AD9CC67C0635",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1207-07-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2aa84d75322dff5ee26e008739b97011bf978248",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147403$48E1EC9F-5360-4BFD-9C5B-B60B351428D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q134983894"
+          },
+          "hash": "29732ddee1cdfea1460ae7510d3f2842d9a61f5b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147403$5865F00B-2EE8-4A81-8CF6-6F0C5C3E647A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maurice III de Craon Arms.svg"
+          },
+          "hash": "d6c44f611daa6890cb8b92b40692c3ba26b0dec2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "Seigneur de Craon"
+    }
+  },
+  "id": "Q147403",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maurice III de Craon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maurice III de Craon"
+    }
+  },
+  "lastrevid": 17572094,
+  "modified": "2025-09-17T15:21:17Z",
+  "ns": 860,
+  "pageid": 175788,
+  "sitelinks": {},
+  "title": "Item:Q147403",
+  "type": "item"
+}

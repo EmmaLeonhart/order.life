@@ -1,0 +1,344 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hendrik van Bourbourg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147086$41E7FB8A-2825-452B-B7DB-A5CF04649E0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00451633"
+          },
+          "hash": "d9661dea9e31585582b9d013d1e0c4af1049083f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147086$E75D291E-DB37-4A24-A53B-E2FF71B5316C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147087",
+              "numeric-id": 147087
+            }
+          },
+          "hash": "c66947363d84b1150710b2f9fca8b6f6bc0107b2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147086$BCB54B9F-89B9-4F80-AAD1-5438F59786ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bourbourg-3"
+          },
+          "hash": "84790c4d5ca0c151c17d3c5177c9267588060837",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147086$990C615B-E084-4C05-AE24-E37E8DAF57F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147086$CE9C9113-B047-4AB2-8077-4DA85DFE8116",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147086$F15ECC89-F35E-4327-9101-40E0C4A20277",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143621",
+              "numeric-id": 143621
+            }
+          },
+          "hash": "81577b0e585d28f58677314e675efa687fed80ac",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147086$5604CD94-18FD-4AD7-84F9-C24181E30BE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147086$B804B7FB-37C2-4D60-BA1C-8607D68D79A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1115-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f697a4278819401c444f9e8032b952ab46dbf799",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147086$08756C62-49AE-45DA-9C1E-98C15A07E9F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1168-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "abbda8bcca64a7d79cec985292b1677a27ce3473",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147086$B88BCD8B-3EC4-466B-8A51-D4F7FAB40F85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2088259"
+          },
+          "hash": "cbd13274d42703597fcd97a79b2b4b00dbf8f513",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147086$FA8F6298-A070-4E38-84A6-2ACB391A0439",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=henri;n=de bourbourg;oc=1"
+          },
+          "hash": "2e1205dd79b5eaa9f6174dbab7c64c3903a38f2c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147086$268A844F-D3F7-43E1-97E5-AA01ADDA3FD1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hendrik van Bourbourg Arms.svg"
+          },
+          "hash": "3dff1f0e78a3ce0943016cbecaa1de8368e02cd6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1162"
+    }
+  },
+  "id": "Q147086",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hendrik van Bourbourg"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hendrik van Bourbourg"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Hendrik van Bourbourg"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hendrik van Bourbourg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hendrik van Bourbourg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hendrik van Bourbourg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hendrik van Bourbourg"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Hendrik van Bourbourg"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri de Bourbourg"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Hendrik van Bourbourg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hendrik van Bourbourg"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hendrik van Bourbourg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik van Bourbourg"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hendrik van Bourbourg"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hendrik van Bourbourg"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Hendrik van Bourbourg"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Hendrik van Bourbourg"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hendrik van Bourbourg"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hendrik van Bourbourg"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hendrik van Bourbourg"
+    }
+  },
+  "lastrevid": 17571570,
+  "modified": "2025-09-17T15:14:07Z",
+  "ns": 860,
+  "pageid": 175471,
+  "sitelinks": {},
+  "title": "Item:Q147086",
+  "type": "item"
+}

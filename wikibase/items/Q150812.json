@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Frances Winchcombe"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150812$C49CF8AA-957C-4954-BF82-A3569DF2D156",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00232087"
+          },
+          "hash": "31045016c53c0995a1ffa29deb2d867a325a9649",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150812$82DAD78E-EFB2-471C-B79C-FB142C7418A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146153",
+              "numeric-id": 146153
+            }
+          },
+          "hash": "97488f7d026cc526e54ae8a5f384ae5e03bf5302",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150812$26FF1F0E-97A5-4DC2-BBC4-584A169C21C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Winchcombe-5"
+          },
+          "hash": "8a2f03dca0c8a79ebdb39fc4580d2f571e6e4b62",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150812$EAE8DAB1-5620-49BF-A9E0-1AA083EF4639",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150812$9D96A8AD-329A-453C-87FD-CF0620E251E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150812$02D95E08-0A45-4D66-8756-6C3CBBA32D71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142949",
+              "numeric-id": 142949
+            }
+          },
+          "hash": "40c0bef1ffee7bd4c4071037179e8b1cc283d389",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150812$562568FD-FE13-4236-9489-8AA20CE890D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150812$FFD8080D-D5CE-4A06-9490-EF99E586ACE1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1445-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "78a3625efef287031e765e86f3326977e28655fb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150812$ACFCDDE9-E0AE-4F70-B976-8319485212FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1483-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecd5d8afd15e30f8cb06e099e51c1a6b582a3202",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150812$807398DE-70F8-42D2-95EA-C0FBB6E6C7B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99800569"
+          },
+          "hash": "24d38804632459a02157d2f852f0f5ec5aa56f3d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150812$21032911-1831-4F37-B2BD-4C6AE4362217",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Frances Winchcombe Arms.svg"
+          },
+          "hash": "3a8044cf03d2c5c39262b7d6db58becdbad57344",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- Bef 1483 (date will proven)"
+    }
+  },
+  "id": "Q150812",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Frances Winchcombe"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frances Winchcombe"
+    }
+  },
+  "lastrevid": 17578106,
+  "modified": "2025-09-17T16:43:57Z",
+  "ns": 860,
+  "pageid": 179266,
+  "sitelinks": {},
+  "title": "Item:Q150812",
+  "type": "item"
+}

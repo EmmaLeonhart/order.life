@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aulus Hostilius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151568$684C840A-80E6-40DB-939A-4F9133FC8631",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148212",
+              "numeric-id": 148212
+            }
+          },
+          "hash": "c8599dae7b15ff1fa678f6b5b6ebb8bdb0e9ad0b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151568$B84E03E9-FA76-4224-BD9C-C13411A4BC89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151569",
+              "numeric-id": 151569
+            }
+          },
+          "hash": "08078fc11c89a0d3872005671e0161bd8628c26f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151568$0412E48A-8DA3-445D-BC0B-C08B985A99C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151568$14785D4D-EA1F-4C6A-830D-DB849A46695E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151568$674546BD-CC16-4314-BB40-CF33C881B37C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151568$8FC032AB-0571-4823-9AAD-D0DDD7337B49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151568$A926A17A-DF85-4263-A9B0-BBB635B3A049",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q97139304"
+          },
+          "hash": "086149ebb6034e843bf107d77cbe2d36927a83ee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151568$D74BABB0-483C-4161-87CB-D4F40FC45232",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aulus Hostilius Arms.svg"
+          },
+          "hash": "022e28e80c3ce1306ea826bd2f77b0a2fd0a7544",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "ancestor of the Hostilii Mancini"
+    },
+    "es": {
+      "language": "es",
+      "value": "antepasado de los Hostilios Mancinos"
+    }
+  },
+  "id": "Q151568",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aulus Hostilius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aulo Hostilio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aulus Hostilius"
+    }
+  },
+  "lastrevid": 17579536,
+  "modified": "2025-09-17T17:03:44Z",
+  "ns": 860,
+  "pageid": 180022,
+  "sitelinks": {},
+  "title": "Item:Q151568",
+  "type": "item"
+}

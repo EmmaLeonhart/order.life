@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aimery X de Rochechouart"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q149874$ABDAB2AF-A886-4E15-BEFE-8513F7D602D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1052812"
+          },
+          "hash": "12386c899475f6b755f95a84234ca5317e5a91d3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149874$681E4312-2A89-4EC3-9E40-434E3A890E49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149874$47D22075-7579-4FD9-8463-4F598BFCDA63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149874$BB89ABBC-C955-4172-AF68-BEDD3E342F54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145426",
+              "numeric-id": 145426
+            }
+          },
+          "hash": "6b61c8f75d0ca9ba2155c301b6d3bea5a271dd87",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149874$046D84CF-5AA7-45BA-8C7C-30D1932B47C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149872",
+              "numeric-id": 149872
+            }
+          },
+          "hash": "8539975296c2ed90c945afb7569bf48ca8bb79a9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149874$DFDFE758-5215-4C2C-A0FE-F4D67C8E521D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149874$08B90C24-0EBB-4231-9133-F5F4ED032E59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1269-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9eba670b2c62436efea06c1dd9454afa6705f94d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149874$3E0FB7F9-0D20-42EB-9225-FE2B012211E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q93644657"
+          },
+          "hash": "528c4becf03d9c4456557e9e6c06ccfa720bf6fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149874$FC022CE6-CA2C-4EA0-9470-EE3430C9E599",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=aimery;n=de rochechouart;oc=10"
+          },
+          "hash": "7f17e7dba0da0bb4cb7a1718e0ce871cf832a9b7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149874$281889F0-BEC5-4CE4-A89C-49E1867F8B9D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aimery X de Rochechouart Arms.svg"
+          },
+          "hash": "6485e377f91f9e729a7e1028313964a86ce2b17e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "13th century French noble"
+    }
+  },
+  "id": "Q149874",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Aimery X de Rochechouart"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aimery X de Rochechouart"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aimery X de Rochechouart"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aimery X de Rochechouart"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aimery X de Rochechouart"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aimery X de Rochechouart"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aimery X de Rochechouart"
+    }
+  },
+  "lastrevid": 17576240,
+  "modified": "2025-09-17T16:18:31Z",
+  "ns": 860,
+  "pageid": 178327,
+  "sitelinks": {},
+  "title": "Item:Q149874",
+  "type": "item"
+}

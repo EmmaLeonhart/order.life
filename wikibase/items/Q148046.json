@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Lentulus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148046$7B974275-8A73-46C4-BF9F-6BD9DBC7722D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465141"
+          },
+          "hash": "bd600ad2e9978060965f5c8b584fd7cf13c54544",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148046$AD22049E-957D-4E83-8B25-DEEB8453BBFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148046$E60B9388-DED7-48EE-8B6B-222AE3B1249F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148046$BC0357C6-07D6-4498-9A6B-D42F9D5E8A7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148043",
+              "numeric-id": 148043
+            }
+          },
+          "hash": "ed846632641e0b9c4090202e4efcdf6b2c5c304c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148046$20E8A8CD-67FD-445A-B6ED-3545D71B075A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148046$A9072DCE-D53F-4579-8786-7CCA2B277B8B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0245-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9123060bd07da0d4ead6c938163d7aa7a57e6d87",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148046$922BB12A-B557-4F90-B735-2974C5213C8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0172-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2a244b73c62e479c74c9a5dc40a7369fa109b354",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148046$BC5DA911-2473-4DE9-AF89-B7CA85D82B44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12129786"
+          },
+          "hash": "1f32a420a01a29a7552c1a5a66cc0bb96c513072",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148046$4B7443E5-C8E1-49DA-900E-81D7555C00B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Lentulus Arms.svg"
+          },
+          "hash": "d064a1507c08d3908510a8a2e82ce889d70e6dab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "legate under Marcellus in 209 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 211 av. J.-C."
+    }
+  },
+  "id": "Q148046",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Léntulo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Lentulo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Лентул (претор 211 року до н. е.)"
+    }
+  },
+  "lastrevid": 17572738,
+  "modified": "2025-09-17T15:30:10Z",
+  "ns": 860,
+  "pageid": 176135,
+  "sitelinks": {},
+  "title": "Item:Q148046",
+  "type": "item"
+}

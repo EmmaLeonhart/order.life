@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Augaire mac Ailella"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148759$6B477812-B439-40DC-98F8-BC6BA0935460",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00424536"
+          },
+          "hash": "18203a21204947fc051c2c789dc1c70df23e1ad5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148759$333AA293-AEE3-46C6-B4BA-529B494A362E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144743",
+              "numeric-id": 144743
+            }
+          },
+          "hash": "4e42fa44a7fc54ea1dc7a98361cb05fafd93dbfc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148759$F7AFEB39-88E9-4272-8D62-428BF0E8B6FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Leinster-37"
+          },
+          "hash": "b1927db68402fcc455584643f9175894fa13081d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148759$56612DF5-B0DA-45B1-977D-C9ACAD2AE319",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148759$ED868781-70E3-4757-ABCF-DDED3B07FDCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148759$BDC2C6A9-CE33-4265-92BD-5998D4C653A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Augaire_mac_Ailella_(1)|Ugaire_Leinster_(1)"
+          },
+          "hash": "f811494a1c1a43f1fc65d3d869a6c601cc48e390",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148759$F6D72D20-72AA-4F45-8DC6-E9FE83204682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148759$513960A6-5DE2-461A-97B0-205C0EE267F4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0801-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ce48f790b489c3fd33363941089a3578a58ed55b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148759$34EFD286-88D4-4369-A1E3-3DFF443893F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0917-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1ad0e0867c81c94199396d8fa43335a9d26a77f0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148759$71F6421F-EA8B-4FFC-8296-3A8A871F0F4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2870895"
+          },
+          "hash": "37d424dba66ca11680d9335b5a7bfc546a17e2e0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q148759$B86EDAA1-64F5-4932-BCFE-92F80A9914FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ugaire;n=mac ailill"
+          },
+          "hash": "37be8c3fab278b1c886ed74249381b894c5b49a0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148759$72D67CF1-8D40-4AA8-8831-AF74A30C7E0B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Augaire mac Ailella Arms.svg"
+          },
+          "hash": "e12b9579fdf24870e89e7329f67d32668faf7b23",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "35. König von Leinster, Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Leinster"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí Laighean"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Лейнстера"
+    }
+  },
+  "id": "Q148759",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Augaire mac Ailella"
+    },
+    "en": {
+      "language": "en",
+      "value": "Augaire mac Ailella"
+    },
+    "es": {
+      "language": "es",
+      "value": "Augaire mac Ailella"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Augaire mac Aililla"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aughaire mac Ailealla"
+    },
+    "id": {
+      "language": "id",
+      "value": "Augaire mac Aililla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Augaire mac Ailella"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аугайре мак Айлелла"
+    }
+  },
+  "lastrevid": 17574024,
+  "modified": "2025-09-17T15:48:06Z",
+  "ns": 860,
+  "pageid": 177212,
+  "sitelinks": {},
+  "title": "Item:Q148759",
+  "type": "item"
+}

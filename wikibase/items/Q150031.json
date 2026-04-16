@@ -1,0 +1,181 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip ap Madog ab Adda"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150031$D0D81FB0-C79A-438E-A50B-30ECBDC903A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737240"
+          },
+          "hash": "0b2c94c921f125dc1e369b884755897343c1962e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150031$DB02D741-D2A7-4DF5-914F-38E743003759",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145550",
+              "numeric-id": 145550
+            }
+          },
+          "hash": "4d9c6d62b9ca08af3d3533749c10f5699673b9d6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150031$44DB0AC2-35A6-47C2-9224-BD2F3DAAA380",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150031$DD0A06BF-3108-46CF-A587-2288CDB479C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150031$49B18BFD-B83A-4900-B182-A022AFEBDCA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150031$15D20C4E-9386-4C2F-BBE9-934145787B0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110662792"
+          },
+          "hash": "fac03d7737ff332c1293a3081a73633c8185e8e8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q150031$DC800AF0-9110-491E-9595-7C4F546F784B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip ap Madog ab Adda"
+          },
+          "hash": "ce60067084a178e3e1b316a08daaaf661848f2bb",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150031$E131288D-176A-4521-B050-7B9FCA320568",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip ap Madog ab Adda Arms.svg"
+          },
+          "hash": "bcc7c2e1e45298d560bc1c0676c5c3a37e613e3f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q150031",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Philip ap Madog ab Adda"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Philip ap Madog ab Adda"
+    }
+  },
+  "lastrevid": 17576548,
+  "modified": "2025-09-17T16:22:40Z",
+  "ns": 860,
+  "pageid": 178484,
+  "sitelinks": {},
+  "title": "Item:Q150031",
+  "type": "item"
+}

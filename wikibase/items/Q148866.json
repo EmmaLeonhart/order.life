@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ifor ap Llywelyn ap Bledri Latimer ap Cydifor Fawr"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148866$EF58C4F0-D7F3-4EE9-B29E-132A05CD24ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736945"
+          },
+          "hash": "f3e831354343c9be5929d5205f34c4bff92ac612",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148866$9F052F98-8878-4D67-ABBB-DE98F70B260D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144843",
+              "numeric-id": 144843
+            }
+          },
+          "hash": "87bb223dffd4102a08e5ceeff32d78626aa9a1b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148866$17753DD5-4BC7-46AD-81C8-A9C1C0A1AE1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Llewelyn-63"
+          },
+          "hash": "0db3d525d20d0f39e35d7681206f0306cbf2cf2d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148866$350112F0-531A-41D7-919D-09EA0C840DCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148866$66517808-71E9-44AE-B78F-F7915DF29BDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148866$3A124C49-4692-4855-9AB4-43374923C404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142112",
+              "numeric-id": 142112
+            }
+          },
+          "hash": "cca8d935091e8f921b6ed9cf369912295834c005",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148866$32BE8A3B-7234-4DB8-9FC2-69EF76B8FBC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148596",
+              "numeric-id": 148596
+            }
+          },
+          "hash": "801c9f303885aa5a54b14f1e2eb46412c9b145da",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148866$4F44A118-BC63-4C42-82C6-1AA3330E8767",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148866$6333EDAC-2211-4982-A3DD-1F80061A95FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec722479c752f99ddc531564cc0d81140c8fcbc3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148866$62BCFF98-B4BF-47FD-867A-C402D81DEE56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99211913"
+          },
+          "hash": "6300891b41055823eeda034aaf953ffa7d7731f4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148866$7EB61C63-1441-4975-BE0E-FE36A55E5CF9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ifor ap Llywelyn ap Bledri Latimer ap Cydifor Fawr Arms.svg"
+          },
+          "hash": "1cc16bb7c1045ddf549e7b1f264c594e9b4aeeb8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1170"
+    }
+  },
+  "id": "Q148866",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Ifor ap Llywelyn ap Bledri Latimer ap Cydifor Fawr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ifor ap Llywelyn ap Bledri Latimer ap Cydifor Fawr"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ifor ap Llywelyn ap Bledri Latimer ap Cydifor Fawr"
+    }
+  },
+  "lastrevid": 17574238,
+  "modified": "2025-09-17T15:51:09Z",
+  "ns": 860,
+  "pageid": 177319,
+  "sitelinks": {},
+  "title": "Item:Q148866",
+  "type": "item"
+}

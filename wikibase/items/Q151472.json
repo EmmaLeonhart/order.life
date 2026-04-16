@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Appius Claudius Russus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151472$DBC74782-44B6-4BB3-A932-A691E39E1596",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736136"
+          },
+          "hash": "d90daea7aef6ecfc8120a68ca3e109b2947bc1ea",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151472$26E08F92-CABE-4CD9-AFB8-7D963C731E49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151472$F8C83617-5C2C-4B4A-9EFC-100AE1982890",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151472$A2117106-2241-4015-B968-C7D416FD3A32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73782",
+              "numeric-id": 73782
+            }
+          },
+          "hash": "761b9d7cfef9c4191c4dc357eabcc9bc8e9ba74a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151472$0BAB184B-2266-4471-AECA-E9F52074ED2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151472$B4FE0766-4D63-4725-89C4-641032848837",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "368dc1e752474150a1da591be3284477af436fc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151472$7B20E779-652B-4B8D-B62E-CDEEA069C160",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0268-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae90a6d0817cb2e3f30555906a19bab68bd6cb06",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151472$00B82476-6B86-47D9-8BBF-EC9C9EF325E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2352992"
+          },
+          "hash": "65e822006c451c71a7fc5a13d235741843c9553f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151472$3F42BC09-B61D-4902-82AB-B6012AA4AC99",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Άππιος Κλαύδιος Ρούσος"
+          },
+          "hash": "78aaea86b6200dd5748d1f4364c628d6f2433171",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151472$5FD6AF86-8724-4D2B-84B3-B7D027830EB6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Appius Claudius Russus Arms.svg"
+          },
+          "hash": "5e6d1d081a6eab917f0a39cb213e47ad8bb1b6e0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 268 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 268 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 268 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 268 AEC"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Console romano nel 268 a.C."
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "консул Римської республіки"
+    }
+  },
+  "id": "Q151472",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Апий Клавдий Рус"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Api Claudi Rus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Appius Claudius Russus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Appius Claudius Russus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άππιος Κλαύδιος Ρούσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Appius Claudius Russus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Apio Claudio Ruso"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Appius Claudius Russus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Apio Claudio Craso"
+    },
+    "it": {
+      "language": "it",
+      "value": "Appio Claudio Russo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アッピウス・クラウディウス・ルッスス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Appius Claudius Ap.f. Russus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Άππιος Κλαύδιος Ρούσος"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Appius Claudius Russus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ápio Cláudio Russo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ápio Cláudio Russo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аппий Клавдий Русс"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Appius Claudius Russus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аппій Клавдій Русс"
+    }
+  },
+  "lastrevid": 17579364,
+  "modified": "2025-09-17T17:01:26Z",
+  "ns": 860,
+  "pageid": 179926,
+  "sitelinks": {},
+  "title": "Item:Q151472",
+  "type": "item"
+}

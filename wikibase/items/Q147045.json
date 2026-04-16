@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kunigunde von Wasserburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147045$DC015ABC-05C2-4A05-B8B8-29FFC50044F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00080315"
+          },
+          "hash": "355df3150f656499aff415c921485931c400cb03",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147045$98813BF2-F551-4361-B72C-61662B36CC53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wasserburg-1"
+          },
+          "hash": "6f4961e61b96287c909847ba42d68703b2fdfbfb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147045$B155BBAC-E6E2-48D0-8B12-22C80FFE1154",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147045$0E6B2BAB-55FC-4C4F-82A4-0A07D77AEF29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147045$5033F992-E672-4DA2-9CDC-28F1B2835160",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Kunigunde_Von_Wasserburg_(2)"
+          },
+          "hash": "2210ed7ee3af7f88c4b9684774984b94a186d219",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147045$0C0A072D-A012-4948-81C4-CE8CCF2CEB63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143610",
+              "numeric-id": 143610
+            }
+          },
+          "hash": "b3ed71343906940af5773e88b4d2614cc63d4ca0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147045$B7245F36-7842-4917-92C0-E24F5FBAF498",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147045$5E9991D0-A350-4B53-93C8-675ED7E7BD5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1130-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16c81f4c995c5dfb15be6ce4996341ca3801bd58",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147045$A24921E9-570C-41EF-B284-C74C9D666D4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1168-09-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e6222aa89e6b673ae4a06fc338dd23d821349dc7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147045$73A83965-8C9B-4D54-BBB6-B27533ED6974",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108838903"
+          },
+          "hash": "020b4dc0928e4fc7d28e4880453b04a4de68c72f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147045$4480A5F4-0DF8-44E2-8A77-0ECB97C3B066",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=cunegonde;n=von wasserburg"
+          },
+          "hash": "0cf5e41f38c6086c88133a2a0ee87f6b03f39290",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147045$82C94BA3-AE42-45A1-85E6-DED03D1FCF1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kunigunde von Wasserburg Arms.svg"
+          },
+          "hash": "b75a87e8a1b6a3c836b099e675b5d900be20f017",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1130 - 4 Sep 1168"
+    }
+  },
+  "id": "Q147045",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Kunhuta Wasserburská"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kunigunde von Wasserburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kunigunde von Wasserburg"
+    }
+  },
+  "lastrevid": 17571504,
+  "modified": "2025-09-17T15:13:11Z",
+  "ns": 860,
+  "pageid": 175430,
+  "sitelinks": {},
+  "title": "Item:Q147045",
+  "type": "item"
+}

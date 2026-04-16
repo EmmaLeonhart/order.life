@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John St. John"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150448$8D843281-0416-43B1-BF30-BF7879E19BB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00076291"
+          },
+          "hash": "ac7678a2720b342201450728e04caf8194649e47",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150448$BAD83BA7-7B43-4CA1-92B6-42069E43260D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "St_John-186"
+          },
+          "hash": "9186be79f4661314d98184e263b0504b1feaa38e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150448$7A9052C8-8C5D-4F9E-9679-300B6C6B6186",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150448$48F06FB2-ED32-406C-81CB-619438C19EBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150448$6D5AE96B-BA3C-4543-9370-775BBF140921",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p2758.htm#i27580"
+          },
+          "hash": "69b07fe5999f625cb419bc4a3cf06c21dd80d5e9",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150448$03818CA5-A819-456A-BF72-D19C0D0E1A24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150447",
+              "numeric-id": 150447
+            }
+          },
+          "hash": "80dfb07a93f037b68020fe46fc684f5c0e500c9a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150448$97959E19-B3B8-4125-8FB8-077BAA2C19BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145890",
+              "numeric-id": 145890
+            }
+          },
+          "hash": "2a62e2e564c9afa5f0e7e195018a8b04bb8ab3da",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150448$2FDDD1BB-08E4-4502-80A5-0FA362DB5CC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150448$9E773E23-7886-48E7-9D62-B0D456C06A77",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1495-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbe26cb8a5e6e6bc29eb70edd3a80b90bbac7915",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150448$E0E1DB5F-A628-4BEF-BA85-300922D5530B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1562-08-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "12a7db7e07eeb41ea8df91eb465412e5acc62174",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150448$5A29D566-3E51-4CF4-B240-EA5D7829161C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q29029638"
+          },
+          "hash": "65d391c8d683c9ac50b67c38fd475eae8695e850",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150448$1D34705B-9843-4558-AA34-D4361A0E6C83",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John St. John Arms.svg"
+          },
+          "hash": "957c4ae462a3bf34b6c537d50f521cba248a4e04",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "gwleidydd (1495-1558)"
+    },
+    "en": {
+      "language": "en",
+      "value": "English politician, died 1558"
+    }
+  },
+  "id": "Q150448",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "John St. John"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জন সেন্ট জন"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "John St. John"
+    },
+    "en": {
+      "language": "en",
+      "value": "John St. John"
+    },
+    "es": {
+      "language": "es",
+      "value": "John St. John"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジョン・シンジョン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John St. John"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джон Сент-Джон"
+    }
+  },
+  "lastrevid": 17577380,
+  "modified": "2025-09-17T16:33:53Z",
+  "ns": 860,
+  "pageid": 178901,
+  "sitelinks": {},
+  "title": "Item:Q150448",
+  "type": "item"
+}

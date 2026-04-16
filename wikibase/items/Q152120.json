@@ -1,0 +1,154 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q152120$0A201D68-BB5B-40D0-B6CB-B66DA8605426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q152120$464EB832-F839-4B3F-AADE-4CBE73334307",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P49": [
+      {
+        "id": "Q152120$1C1302CA-8385-44A0-A395-D1D125805036",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+100', 'unit': '1'}"
+          },
+          "hash": "b344fbc49f1fbe7788c1cc939379793de9ad9c15",
+          "property": "P49",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P50": [
+      {
+        "id": "Q152120$7508BB89-2BC7-4A92-9471-39BD1D185F3B",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+16', 'unit': '1'}"
+          },
+          "hash": "c73965857b4b12111a06b2bf19bd847f05c2e95a",
+          "property": "P50",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P51": [
+      {
+        "id": "Q152120$57C00296-6E73-4DE9-812B-6FD59BD2AD2F",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+15', 'unit': '1'}"
+          },
+          "hash": "52a354eb99a442d70aed618a17527e07c07bf853",
+          "property": "P51",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P52": [
+      {
+        "id": "Q152120$A19E2195-8347-45C3-847C-AB900B78E082",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+2', 'unit': '1'}"
+          },
+          "hash": "f435e8a22d169510c645f0f822dc779a709e1162",
+          "property": "P52",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q152120$510D8CB2-BA47-43A4-BD8A-6CEF0CCC193F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pisces 16 Arms.svg"
+          },
+          "hash": "c3b9bd88bc4bd1986a12ea0d5af792edf68050aa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "100th day of the year in the Gaiad calendar, 16th day of Pisces"
+    }
+  },
+  "id": "Q152120",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pisces 16"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "4宮16日"
+    }
+  },
+  "lastrevid": 17580306,
+  "modified": "2025-09-17T17:14:09Z",
+  "ns": 860,
+  "pageid": 180554,
+  "sitelinks": {},
+  "title": "Item:Q152120",
+  "type": "item"
+}

@@ -1,0 +1,412 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Porcius Cato"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151391$55F3FD29-2080-4B1F-85AB-D7952C38008B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735637"
+          },
+          "hash": "4f88e318b3a2c20d460330a6a58bb7a77ba5bcaf",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151391$2AC4A8B5-6450-4446-BEC7-3E52C7E049EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151525",
+              "numeric-id": 151525
+            }
+          },
+          "hash": "218eb46561e9474274cfe7ff70fb6d486d35e1a6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151391$5B903340-D48A-4B3F-9B6D-1C8429DB7C77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151391$8F3AB369-FE6D-4EE5-8066-CC40C15FAFE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151391$59A6AFF2-646C-4F4B-8C15-CD22572784F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148135",
+              "numeric-id": 148135
+            }
+          },
+          "hash": "05614488282d35651f4da006421a07700def1fc5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151391$4CDD5B90-5935-4232-BDE3-8C4C8B66BFD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151390",
+              "numeric-id": 151390
+            }
+          },
+          "hash": "f25a4dcb72b98192fcc5c82b4a7ac214a31d0c8f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151391$878CD6E6-836F-4B4A-BF23-0CF68E96419B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151391$FD66FF80-6BE2-49AE-B4A5-EA6BF99EDEB6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0157-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98988abd782cd50b57e7559c2f803a4f8d739830",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151391$61A775BA-2DAF-4271-985F-A7340F4DB938",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "535ccc0701e0738a953e70f2adc3ade105ff0676",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151391$A0B0671E-8248-449C-B246-F14318A110DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q714670"
+          },
+          "hash": "41426f5a353942d0ad8788c67b8059a791f97bf7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q151391$87F7CFBF-7D39-40F0-8991-816FA4F7FDFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:25596"
+          },
+          "hash": "227c0915e78e2b64e22a2bdfa810c11cd7d09c1a",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151391$665115C0-23BD-4449-BB8D-D9C221863511",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Porcius Cato Arms.svg"
+          },
+          "hash": "c0fabf654654328392ec86c4bac5b25fa3579d01",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 114 aC, fill de Cató Licinià"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 114 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 114 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 114 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 114 av. J.-C."
+    },
+    "gl": {
+      "language": "gl",
+      "value": "cónsul romano no 114 a. C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 114 v.Chr."
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q151391",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Порций Катон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Porci Cató"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gaius Porcius Cato"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Porcius Cato"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Πόρκιος Κάτων (ύπατος το 114 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Porcius Cato"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Porcio Catón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Porcius Cato"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Caio Porcio Catón"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cayo Porcio Catón"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Porcio Catone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・ポルキウス・カト"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Porcius Cato"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Porcius Cato"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Pórcio Catão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Pórcio Catão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Порций Катон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Porcije Katon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Porcius Cato"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Порцій Катон"
+    }
+  },
+  "lastrevid": 17579220,
+  "modified": "2025-09-17T16:59:32Z",
+  "ns": 860,
+  "pageid": 179845,
+  "sitelinks": {},
+  "title": "Item:Q151391",
+  "type": "item"
+}

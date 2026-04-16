@@ -1,0 +1,654 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Simeon I of Bulgaria"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147308$F89B3FAA-E1B1-41AA-AE8A-F603B08D305A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "148811"
+          },
+          "hash": "c3169335a34703dc7a540f4cc6841dddff413b77",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q147308$18CE5E66-2486-4403-A225-D80735C1BB9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00766038"
+          },
+          "hash": "cc0e471076140bc06a3890f024ba3584d003c518",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147308$87FB54D8-F7E4-4E98-A64D-B4F944986A31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147308$F10DDB6F-BF6B-4111-AE99-98EABE3E9B81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147308$83E51997-AF0C-4FDD-9732-7FF5DB25ED71",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Simeon_I_of_Bulgaria_(1)"
+          },
+          "hash": "78cc1cb07d66ccd98c0e01d87b7d464fbe899ef0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147308$8EC19ED4-4E59-4092-96E3-76ED053801FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p14552.htm#i145512"
+          },
+          "hash": "e9de9a6ebfb0e647a081eed536d9f774aaba09be",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147308$D12B3A6D-0813-43CA-B83E-41937E510EEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147306",
+              "numeric-id": 147306
+            }
+          },
+          "hash": "908de4dff263139bab75bbdd5f1a474cabe68634",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147308$5F850928-47C2-423A-B1DA-C4083CDBAAEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147307",
+              "numeric-id": 147307
+            }
+          },
+          "hash": "2b0d434ee888298b168eb558a5a2bcbd29779244",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147308$EB582EFA-3C62-4A6A-9CFD-BE9FDF832F6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147308$51F8CD23-8002-4A39-8576-419FC9218531",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0864-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71f64d336cded2519defa7a4adf678c1d2ca824e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147308$9A3FB55A-E895-437A-99F1-A86B4D40F398",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0927-05-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1259db2e63e6f7b7d14d9be383808690494e663f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147308$80CDAB5E-C625-4CFD-8A47-64319FC1864D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q192264"
+          },
+          "hash": "c76fc815f7dd0995af6530ad7a1272cafada115e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q147308$267BD651-9D44-40DD-BA02-6E8A69F97716",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006568482568"
+          },
+          "hash": "adb374b065f542a7358e787f078d4240539275f4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147308$9D275EBC-0E53-4E6F-8933-22806481D2E5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Simeon I of Bulgaria Arms.svg"
+          },
+          "hash": "4e6e4c4fa137595e6ae1233c8467e4df4ce0bf27",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "цар Баўгарыі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "български цар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador búlgar"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "bulharský car"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zar der Bulgaren"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τσάρος της Βουλγαρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bulgarian Tsar who ruled from 893 to 927"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reĝo de Bulgario"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Bulgaria (893-897)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khan puis empereur de Bulgarie de 893 à 927"
+    },
+    "he": {
+      "language": "he",
+      "value": "שליט האימפריה הבולגרית הראשונה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "bugarski car od 893. do 927."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Bulgária uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano bulgaro"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "бугарски владетел"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Eerste Bulgaarse Rijk (864-927)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "car Bułgarii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Болгарии"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "бугарски владар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "forntida kung"
+    }
+  },
+  "id": "Q147308",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Simeón I de Bulgaria"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سيميون الأول ملك بلغاريا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سيميون الاول ملك بلجاريا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Simeón I de Bulgaria"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Simeon"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بؤیوک سیمئون"
+    },
+    "be": {
+      "language": "be",
+      "value": "Сімяон I"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сімяон I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Симеон I"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Simeon I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Simeó I el Gran"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Symeon I."
+    },
+    "cu": {
+      "language": "cu",
+      "value": "Сѷмєѡнъ А҃ Вєликъ"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Simeon I, ymerawdwr Bwlgaria"
+    },
+    "da": {
+      "language": "da",
+      "value": "Simeon 1. af Bulgarien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Simeon I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Συμεών Α΄ της Βουλγαρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Simeon I of Bulgaria"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Simeono la 1-a de Bulgario"
+    },
+    "es": {
+      "language": "es",
+      "value": "Simeón I de Bulgaria"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Simeon I.a Bulgariakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیمئون یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Simeon I Suuri"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Siméon Ier de Bulgarie"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Síomóin I na Bulgáire"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Simeón I de Bulgaria"
+    },
+    "he": {
+      "language": "he",
+      "value": "סימאון הראשון, שליט בולגריה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Simeon"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Simeon bolgár cár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սիմեոն Առաջին"
+    },
+    "id": {
+      "language": "id",
+      "value": "Simeon I dari Bulgaria"
+    },
+    "it": {
+      "language": "it",
+      "value": "Simeone I il Grande"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シメオン1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სიმეონ I"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "I Симеон"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "시메온 1세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Simeon"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Simeons I"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Simeon I of Bulgaria"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Симеон I"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Simeon I dari Bulgaria"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Simeon I av Bulgaria"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Simeon I van Bulgarije"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Simeon Ièr lo Grand"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Symeon I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Simão I da Bulgária"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Simão I da Bulgária"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Simeon I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Симеон I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Simeon I"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Simeon I."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Simeon I. Bolgarski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Симеон I"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Симеон I"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Simeon I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Simeon I av Bulgarien"
+    },
+    "th": {
+      "language": "th",
+      "value": "ซีแมออนที่ 1 แห่งบัลแกเรีย"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Simeon"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Симеон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Simeon I của Bulgaria"
+    },
+    "war": {
+      "language": "war",
+      "value": "Simeon I han Bulgarya"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "西美昂一世"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "西美昂一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西美昂一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "西美昂一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "西美昂一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "西美昂一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "西美昂一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "西美昂一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "西美昂一世"
+    }
+  },
+  "lastrevid": 17571940,
+  "modified": "2025-09-17T15:19:13Z",
+  "ns": 860,
+  "pageid": 175693,
+  "sitelinks": {},
+  "title": "Item:Q147308",
+  "type": "item"
+}

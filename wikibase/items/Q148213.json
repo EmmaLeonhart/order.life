@@ -1,0 +1,359 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Calpurnius Piso"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148213$BD897826-4B06-454F-8CB6-1433E1AD5145",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800990"
+          },
+          "hash": "191371acef99558b05e21cbcb980e7f93e19c638",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148213$0F351D19-FD31-4027-A80F-14B52F72350A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151572",
+              "numeric-id": 151572
+            }
+          },
+          "hash": "5dbde0e49b45ffb59c5dacbc4eb598b4b0303259",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148213$9357C142-A649-46F8-B6C3-029BD6DCC455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148213$9851CBF4-04DE-42A9-ADDC-E50D271EF2BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148213$F7634F28-2ED2-4298-9EFD-2EF0BB160A7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148211",
+              "numeric-id": 148211
+            }
+          },
+          "hash": "e357b2cb2dd48f7d36251b5399db2aeba0209ec1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148213$95F6A297-BEFD-454B-8709-004C14B2DB0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148212",
+              "numeric-id": 148212
+            }
+          },
+          "hash": "e8c093c6a4c31cb77a331c322803a5e81ad2199b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148213$ACCE56BE-A930-495E-8757-59CF7FA61793",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148213$0F944B8C-CCD4-4028-8DFC-DA8340C52337",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0180-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dcf2ac482ee72ef95ed692ae698dbe4e881b734a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148213$B821F0F1-3F48-4067-8CE1-E73D6EFB283B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148213$FB4FFE38-E4B7-4A2A-91DC-5FE8954FE530",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q955356"
+          },
+          "hash": "23fa6e7f3657c913778a40693ca5ffbb8d5b7c15",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148213$499B3964-720B-4283-AE60-C188C2DB164B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Calpurnius Piso Arms.svg"
+          },
+          "hash": "0d27b34862d48ed74eecc59c3d0378e36eed00b2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 135 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 135 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 135 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 135 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (190v Chr-135v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q148213",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Калпурний Пизон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Calpurni Pisó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Calpurnius Piso"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Καλπούρνιος Πίσων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Calpurnius Piso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Calpurnio Pisón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Calpurnius Piso"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quint Calpurni Pisó"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Calpurnio Pisone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・カルプルニウス・ピソ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Calpurnius Piso"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Calpurnius Piso"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Calpúrnio Pisão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Calpúrnio Pisão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Кальпурний Пизон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Calpurnius Piso"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Кальпурній Пізон"
+    }
+  },
+  "lastrevid": 17573026,
+  "modified": "2025-09-17T15:34:10Z",
+  "ns": 860,
+  "pageid": 176570,
+  "sitelinks": {},
+  "title": "Item:Q148213",
+  "type": "item"
+}

@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Manlius Capitolinus Imperiosus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151882$AE06B8C1-B72F-459A-980B-621AC045B83C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151883",
+              "numeric-id": 151883
+            }
+          },
+          "hash": "16d21076867d3d95a72cf147eb18fcbc4bda05b8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151882$C2D6E267-A744-4C8E-908A-069F5CBD2E24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151852",
+              "numeric-id": 151852
+            }
+          },
+          "hash": "b7a858b00f56f3aae0115cae3edb4adc50484196",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151882$194FF788-4E67-4EF8-AFFF-A6A88B20A461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151882$2C5F117F-56A0-4ABA-90CD-C22F1ECAAA32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151882$11D0DBD0-04E9-4C64-BE02-C4ABAF299CEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151907",
+              "numeric-id": 151907
+            }
+          },
+          "hash": "9110015e693952e707bb842b1aa43e731b62ad29",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151882$7F419BEC-0C72-49A9-8ACE-A043542B0411",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151882$010C47B1-8303-4BD2-BB53-FE2710614B0A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151882$C2489202-F4A5-45F2-AB73-287740FDD1E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151882$7887EEE6-6530-4B8D-A42D-8F6EB6A8F285",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1215407"
+          },
+          "hash": "e2d489d67962ce11a8c2fc7bb5db30f385639704",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151882$42F702B2-4002-425A-87E0-D542DC1ABA44",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Manlius Capitolinus Imperiosus Arms.svg"
+          },
+          "hash": "c3de655bc34d035dcc9c36bdb0abd2f20e06dc30",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político romano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dictateur romain en 363 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "диктатор 363 года до н. э."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політичний і військовий діяч Римської республіки"
+    }
+  },
+  "id": "Q151882",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Манлий Капитолин Империоз"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Manli Capitolí Imperiós"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Manlius Capitolinus Imperiosus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Manlius Capitolinus Imperiosus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Manlio Capitolino Imperioso"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Manlius Capitolinus Imperiosus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Manlio Capitolino Imperioso"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Manlio Capitolino Imperioso"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Manlius A.f. Capitolinus Imperiosus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Manlius Capitolinus Imperiosus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Mânlio Capitolino Imperioso"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Mânlio Capitolino Imperioso"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Манлий Капитолин Империоз"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Манлій Капітолін Імперіос"
+    }
+  },
+  "lastrevid": 17580084,
+  "modified": "2025-09-17T17:11:00Z",
+  "ns": 860,
+  "pageid": 180336,
+  "sitelinks": {},
+  "title": "Item:Q151882",
+  "type": "item"
+}

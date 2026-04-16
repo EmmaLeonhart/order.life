@@ -1,0 +1,340 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John de Courcy"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149624$B23F2F19-37A7-40E2-BB80-A6D3EB402F5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00546840"
+          },
+          "hash": "64781929f3113199b314dd714272006f8e44a45d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149624$5632A837-64BB-4904-82A6-DD55D53B32ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Courcy-8"
+          },
+          "hash": "7b840c74d9177edd451309a109fe7c8c237fd40b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149624$755923F9-B27E-4848-849C-64582ADB5369",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149624$04C522A2-0E14-4342-BC0D-00CBC3F09470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149624$E469BE3C-6864-4746-9DB8-E422EB658F0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "John_de_Courcy_(1)"
+          },
+          "hash": "74671087dc41d8487772e31eb3afacf2cd736f0a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149624$0328FFD1-E6B4-4D44-80ED-20667D8524A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145279",
+              "numeric-id": 145279
+            }
+          },
+          "hash": "5e6d84eb39d995c680a0d371904cfea01e4321c0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149624$81F5F402-B9DF-499E-B985-9E5F1B5E034D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149624$514E8C9E-D8E5-4467-83CE-7D047BCACF8C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1160-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4c3f2c1b5d07b067356393e0593d5fafdc49260",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149624$10D05F39-C595-495F-B61E-D25EF06A2E62",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1219-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5adb5c8c1cb9a9707aef1d2db0ccb9551b9e69ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149624$64F6B53D-3078-41C3-BCA4-ED551D6198A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q967212"
+          },
+          "hash": "4529c009fbf64ce949b29d1060778a331be11148",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q149624$79C4BFB8-1DEC-4243-ADF4-6557744B0291",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007151823972"
+          },
+          "hash": "3d48bdf1d70eadc5db03ac81ab1e3c2e4cdd4c07",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149624$4D4602FD-6B73-4D71-AD04-3C410F3F8133",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John de Courcy Arms.svg"
+          },
+          "hash": "5e4c63e08311ac90859d8aa9f49896ab8bc41c15",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Cavaller anglo-normand"
+    },
+    "de": {
+      "language": "de",
+      "value": "anglonormannischer Adliger und Justitiar von Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anglo-Norman knight"
+    },
+    "es": {
+      "language": "es",
+      "value": "caballero anglo/normando"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "chevalier anglo-normand"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ridire Angla - Normannach"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "англо-нормандский рыцарь"
+    }
+  },
+  "id": "Q149624",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "John de Courcy"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan de Courcy"
+    },
+    "de": {
+      "language": "de",
+      "value": "John de Courcy"
+    },
+    "en": {
+      "language": "en",
+      "value": "John de Courcy"
+    },
+    "es": {
+      "language": "es",
+      "value": "John de Courcy"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John de Courcy"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Seán de Cúirse"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジョン・ド・クーシー"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John de Courcy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джон де Курси"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John de Courcy"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Джон де Курсі"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰·德·柯西"
+    }
+  },
+  "lastrevid": 17575740,
+  "modified": "2025-09-17T16:11:53Z",
+  "ns": 860,
+  "pageid": 178077,
+  "sitelinks": {},
+  "title": "Item:Q149624",
+  "type": "item"
+}

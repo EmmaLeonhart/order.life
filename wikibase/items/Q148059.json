@@ -1,0 +1,624 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Cornelius Scipio"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148059$BF44087E-B634-4DCF-8479-C88F87B569BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "559909"
+          },
+          "hash": "6376c8a54f0599a52da911d40b91441653a807e8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148059$C4FECC3B-0F54-4422-9385-BD2936773670",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148063",
+              "numeric-id": 148063
+            }
+          },
+          "hash": "df8fb7a47f3873f10672548148b0e8078b7ef519",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148059$1D673834-F1E9-4F16-BE86-2B069024EDEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148059$CC64303A-6424-4D36-BAE8-23AFBD2C7F5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148059$B50C4175-4605-481A-908C-9C3C259CD7EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151487",
+              "numeric-id": 151487
+            }
+          },
+          "hash": "4a4c791d5527b0b3c8bcc8626b72ff3786210e6a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148059$D353BAA4-99C6-45A0-B207-74429D6B19F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73299",
+              "numeric-id": 73299
+            }
+          },
+          "hash": "3dcfde415e513acd85f395e3c272f4a2bab22fcf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148059$B7F0110A-52AC-41E3-BFD6-7B12EE35C2D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73296",
+              "numeric-id": 73296
+            }
+          },
+          "hash": "fdbe56537e26be1c657b3e5444d19e80118c52a0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148059$D10E892A-16C3-4E9D-9388-494D0A069747",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148059$8062286D-A806-4161-B248-75F9713A2F7C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0216-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "072ef8426b8338a85a32222b89b5f65d2225b2af",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148059$6403D4E9-DE77-4E80-BADA-2350FC233457",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93a0db64f3c0cfcbc27e9251a644e2e06a0bc2f7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148059$78D2709F-5058-4D8D-A750-FC00F97F2438",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1241388"
+          },
+          "hash": "e063b2967e48bc0d94282ae775e354ab28326a5b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148059$F816D33F-D77B-4C47-B346-6839E5A2EDB2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Scipio Arms.svg"
+          },
+          "hash": "91982e61de60f5fc5b1c3d1f11bb02344dc73d29",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "fill d'Escipió l'Africà"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Priester (Augur), Rhetor und Geschichtsschreiber, Prätor 174 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Eldest son of Scipio Africanus (died 170 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Escipión en Africano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "augure romain"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Fillo de Escipión o Africano"
+    },
+    "he": {
+      "language": "he",
+      "value": "פראיטור לשנת 174 לפנה\"ס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "augur"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "historicus uit Oude Rome (216v Chr-170v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski arystokrata i historyk"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "авгур"
+    }
+  },
+  "id": "Q148059",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "an": {
+      "language": "an",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Сципион (авгур)"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Escipió"
+    },
+    "co": {
+      "language": "co",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "dsb": {
+      "language": "dsb",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κορνήλιος Σκιπίων (γιος του Σκιπίωνα του Αφρικανού)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Cornelius Scipio"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Cornelio Escipión"
+    },
+    "et": {
+      "language": "et",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Cornelius Scipio Africanus Minor"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Publio Cornelio Escipión"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πόπλιος Κορνήλιος Σκιπίων Ἀφρικανός"
+    },
+    "he": {
+      "language": "he",
+      "value": "פובליוס קורנליוס סקיפיו"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Scipione"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius Scipio"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "li": {
+      "language": "li",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Scipio II"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "pdc": {
+      "language": "pdc",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "pfl": {
+      "language": "pfl",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "pi": {
+      "language": "pi",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Корнелий Сципион"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Сципіон"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Publius Cornelius Scipio Africanus"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Publius Cornelius Scipio Africanus"
+    }
+  },
+  "lastrevid": 17572760,
+  "modified": "2025-09-17T15:30:28Z",
+  "ns": 860,
+  "pageid": 176148,
+  "sitelinks": {},
+  "title": "Item:Q148059",
+  "type": "item"
+}

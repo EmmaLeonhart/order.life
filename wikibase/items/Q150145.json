@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Frances Graham-Clarke"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q150145$2EBCD385-A6FF-4326-950E-D3705555BF70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Graham-Clarke-5"
+          },
+          "hash": "dd43e1b841d11588cfb2086b89ecf127d1b98901",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150145$EF7AEA3C-0567-4CE7-8C43-3F8EBF0BD229",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150145$7292EF87-E2BA-4E55-AD9D-B0566DB9D988",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150145$E4D9B11A-4902-4053-ABBE-5895E9C0322B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p5820.htm#i58199"
+          },
+          "hash": "ea887cbd8ad9679e347ccf7827a409b11fcf3d89",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150145$C26924F3-D591-4FFA-B35B-21236FBF9DB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145640",
+              "numeric-id": 145640
+            }
+          },
+          "hash": "f5987c87297ed62eedaf97e2d5d2c5a44045331d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150145$E4E873A5-881D-4116-8BC9-946612448B2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150143",
+              "numeric-id": 150143
+            }
+          },
+          "hash": "121f61e05fcaef438db45edc645a75dc17140292",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150145$BBE1A42F-28C1-4818-8E8E-4D6CE342A388",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150145$D306EA1C-85E4-4D20-A917-15541D2A8A43",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1790-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cdf909882205920e7a8592559db8f6df0b0f663b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150145$63D0A6FF-E661-4803-BE1C-1469CEBAB7DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1868-08-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0152f129e96a3cff1dfd3ef2b5221830d12917ab",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150145$B55856B6-6C3A-4175-8553-BE621F720F5E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75316116"
+          },
+          "hash": "8cecc9f85a5b3fa2a172a4664c4812c5f4e2b23f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150145$747260C9-6F80-42C9-BF60-D1AF763FCE0A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Frances Graham-Clarke Arms.svg"
+          },
+          "hash": "d8f364568a1d2303ae605115e9ee12ed0a803852",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(died 1868)"
+    }
+  },
+  "id": "Q150145",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Frances Graham-Clarke"
+    },
+    "es": {
+      "language": "es",
+      "value": "Frances Graham-Clarke"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frances Graham-Clarke"
+    }
+  },
+  "lastrevid": 17576776,
+  "modified": "2025-09-17T16:25:53Z",
+  "ns": 860,
+  "pageid": 178598,
+  "sitelinks": {},
+  "title": "Item:Q150145",
+  "type": "item"
+}

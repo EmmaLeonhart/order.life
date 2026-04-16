@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Silius Nerva"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q148161$39A5C25E-6513-4F74-9FAB-A110844020C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148161$4C0806A6-5D96-47E2-BA56-82A0CF959C17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148161$07DF8A67-92A8-4D02-8EB5-BE868014818F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144196",
+              "numeric-id": 144196
+            }
+          },
+          "hash": "65758d2796d0f066ab42c70d5d14449eef887670",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148161$037165A7-D255-4054-AE16-23C47276683F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148161$9275DFE6-B5CD-4873-86D5-45328783B306",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148161$D04F65D0-E108-40A3-B886-7B428EEEAE67",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0099-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b41170fb446f74cbfd75191fbce794e4059c3661",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148161$E4FB4D4D-6ED5-4A00-AB66-71B8D3D2CF12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q784140"
+          },
+          "hash": "e24cbf8a958cb998be9d533b886373117708b78f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148161$9B595B76-E2FE-45EE-B42D-6F10B27FE371",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Silius Nerva Arms.svg"
+          },
+          "hash": "e6d83829f092d560c48eed282ca59f39de51b7f3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman consul 28 AD"
+    },
+    "es": {
+      "language": "es",
+      "value": "político"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 28"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 28 года н. э."
+    }
+  },
+  "id": "Q148161",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Силий Нерва"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Sili Nerva (cònsol any 28)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Silius Nerva"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Silius Nerva"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Silio Nerva"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Silius Nerva"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Silio Nerva"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Silius Nerva"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publi Sili Nerva"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Sílio Nerva"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Sílio Nerva"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Силий Нерва"
+    }
+  },
+  "lastrevid": 17572932,
+  "modified": "2025-09-17T15:32:52Z",
+  "ns": 860,
+  "pageid": 176407,
+  "sitelinks": {},
+  "title": "Item:Q148161",
+  "type": "item"
+}

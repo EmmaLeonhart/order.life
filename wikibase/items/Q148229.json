@@ -1,0 +1,422 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antigonus II Mattathias"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148229$EF87576D-EB11-4120-BDF3-39C41860CD24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738008"
+          },
+          "hash": "aeaba985bd7c792817a922d9df3e0237b62d8000",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148229$2303277A-3039-4045-89F8-C1D08B199D0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148229$B4D4E5E9-CE51-4237-8B11-82A270BD4856",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148229$CA37EA41-E6B8-459E-A193-D3BA666CA747",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antigonus_II_Mattathias_(1)"
+          },
+          "hash": "8d40bfd8040ac57e8f990e9681f14e9284b64745",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148229$9DAA11EB-8C5F-43A0-B141-ECF5F156B5BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78480",
+              "numeric-id": 78480
+            }
+          },
+          "hash": "6acbc5c8f63f63e85f4ec5bfd557444a943d3837",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148229$BB9BC561-DBFB-4B3A-8D98-A16EA03B0C2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148229$FFCCF10E-89EA-4C6B-993C-2C4406C38B81",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecde69b1f925ad90303f1a646574b6ab30ed130e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148229$062E9D41-E5DD-43C8-82F2-53062D30AA48",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0037-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dc59f91803f65e85e2e09a603e0e4e2c8f5440f4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148229$F2C27BFE-CE3F-4DB6-BDB6-38C3D1A9E5BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q359687"
+          },
+          "hash": "b959b5eea9f470f857f135cd0507421b6a6f5be3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148229$FA666D65-1696-41AD-8714-485C3726B14D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antigonus II Mattathias Arms.svg"
+          },
+          "hash": "025cead0b59189afa11ef0511908bb944ef38929",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "darrer dels reis macabeus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "panovník Judeje"
+    },
+    "de": {
+      "language": "de",
+      "value": "letzter Herrscher aus der Dynastie der Hasmonäer"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Judea"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey de Judea"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Juudean kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi hasmonéen"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחרון מלכי בית חשמונאי"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hasmoneeën"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Judei od 40 p.n.e. oraz arcykapłan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yahudiye kralı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Юдеї"
+    }
+  },
+  "id": "Q148229",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنتيجونوس الحشموني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انتيجونوس الحشمونى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антигон II Мататия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antígon de Judea"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antigonos Hasmonejský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antigonos der Hasmonäer"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Antigonos der Hasmonäer"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίγονος Β' Ματταθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antigonus II Mattathias"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Antigonus II Mattathias"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Antigonus II Mattathias"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antígono Matatías"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیگونوس دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antigonos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antigone II Mattathiah"
+    },
+    "he": {
+      "language": "he",
+      "value": "מתתיהו אנטיגונוס השני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Antigonosz Makkabeus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antigonus II Mattathias"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antigono II Asmoneo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティゴノス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티고노스 2세 마타티아스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antigonus II (rex Iudaeorum)"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Antigonosy II Matatià"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antigonos Mattathias"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antigonus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antygon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antígono"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antígono (filho de Aristóbulo II)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Antigon al II-lea Mattathias"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антигон II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antigon II Matatija"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antigonus II Mattathias"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антигон II Мататија"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antigonos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antigonus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антигон II"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "מתתיהו אנטיגונוס דער צווייטער"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "马塔蒂亚斯·安蒂冈努斯"
+    }
+  },
+  "lastrevid": 17573052,
+  "modified": "2025-09-17T15:34:31Z",
+  "ns": 860,
+  "pageid": 176621,
+  "sitelinks": {},
+  "title": "Item:Q148229",
+  "type": "item"
+}

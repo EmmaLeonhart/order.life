@@ -1,0 +1,193 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Julian de Pont de l'Arche"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q149803$08988F64-89AF-4168-9161-99D934843997",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149803$7BB2F9C3-AA12-4C75-A450-B8F7ADC67CC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149803$E9D05054-B2C1-4795-9224-B5E987937255",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p12962.htm#i129615"
+          },
+          "hash": "e1a282dc1fc8a36df0ad510f4f5a6193858014e2",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149803$79302554-BFAC-4FFB-B2AB-B47237C470FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145393",
+              "numeric-id": 145393
+            }
+          },
+          "hash": "035685a7902371d848c09fab701e3d7d315b5b2e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149803$BAE20A24-486E-4DE1-8FCC-C4965204FE0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149803$DCE310EB-E520-47FE-9E72-D2079E2F8F61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1217-11-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7908a5fc4c8a583c3934477b361f00432eff39f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149803$D840A355-61BB-423A-9859-A7665571D605",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75418760"
+          },
+          "hash": "48f1814536ac12f28e1f9a7d82bda3a58b4e0605",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149803$0ECA65E0-B74A-4DAF-8B1A-806F573462F2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julian de Pont de l'Arche Arms.svg"
+          },
+          "hash": "cac6581ced7c88b2805d8edf538cbe497f6a09cc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=129615"
+    }
+  },
+  "id": "Q149803",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Julian de Pont de l'Arche"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Julian de Pont de l'Arche"
+    }
+  },
+  "lastrevid": 17576098,
+  "modified": "2025-09-17T16:16:39Z",
+  "ns": 860,
+  "pageid": 178256,
+  "sitelinks": {},
+  "title": "Item:Q149803",
+  "type": "item"
+}

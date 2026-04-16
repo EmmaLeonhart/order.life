@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pelagia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148359$0A241BB3-8BBF-4C05-A7E6-D9663F3475F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1078627"
+          },
+          "hash": "948d73bc05f4b17cc10c7f8720632eee624b9042",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148359$754F4098-9AD5-46B4-8DDD-C1CD7CD1E3C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148359$99EE2345-08C8-4127-9D85-3623E36AFD16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148359$7DE3336D-F55D-4AD4-B3DE-3ABD07963EC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123640",
+              "numeric-id": 123640
+            }
+          },
+          "hash": "74a7424874347a36de36035d4a239d3316888782",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148359$515BB257-654F-4DFE-BFDB-3DD46EB04DD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148359$353A1F0C-1294-42B3-B388-8CDEFB0A1DF4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148359$8AD7DD22-BE47-4887-8C5A-2CAA532E464D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3898864"
+          },
+          "hash": "881ac83e9effd02f77fff19e2ee0be5649e4ec9f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148359$0EAE0B63-BBE8-46EF-8F94-F48F92881069",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pelagia Arms.svg"
+          },
+          "hash": "e8394e6a846c3151e91968f2e23d02968023dadc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Muller d'Aeci"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Flavius Aetius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse wisigothe"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "zahodnogotska princesa; žena Flavija Ecija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fru till Flavius Aetius"
+    }
+  },
+  "id": "Q148359",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pélagie"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пелагея"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пелагия"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pelàgia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pélagie"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pelagia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πέλαγι"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pelagia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pelagia (esposa de Aecio)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pélagie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pelagia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Pelagia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pelagia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пелагея"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pelagija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pelagia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пелагея"
+    }
+  },
+  "lastrevid": 17573256,
+  "modified": "2025-09-17T15:37:24Z",
+  "ns": 860,
+  "pageid": 176812,
+  "sitelinks": {},
+  "title": "Item:Q148359",
+  "type": "item"
+}

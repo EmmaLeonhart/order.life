@@ -1,0 +1,295 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Laelia Major"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148204$B48633D8-7188-45CA-9943-721872840BDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736252"
+          },
+          "hash": "7bb37e98824156dc969ced79a3f10f43db1d6cf5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148204$62A8B4CE-DA00-47AD-9FC3-C878F471DAA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144268",
+              "numeric-id": 144268
+            }
+          },
+          "hash": "a265956a21db190d313d883e1798cc2db074005c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148204$3765823A-36A7-491C-BF84-F2A2C100AF1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148205",
+              "numeric-id": 148205
+            }
+          },
+          "hash": "a9d90e433749494f72589ae93d952d33b7370f1b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148204$A77D4714-8F4D-4A07-9593-3802A640BDD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148204$AAD60E80-08F7-42CC-8B37-4733A5EF670B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148204$ED756D2E-2A81-4768-99F6-BBA412EE7C44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148203",
+              "numeric-id": 148203
+            }
+          },
+          "hash": "96c5ab232c622ebf3451b9776d41c1fcd74ea6bb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148204$26B911EB-6927-408C-95B4-22C749279EAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151564",
+              "numeric-id": 151564
+            }
+          },
+          "hash": "15da943459203408a67404b3271ac6b9e6326e66",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148204$E2CFB99D-0FD0-4FEA-B518-7855AE86A451",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148204$FAB5514D-18FC-4C0A-AEE0-8563E44DB041",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148204$3E4049BD-FFD4-4AAF-A0B4-BCE17C576E9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12284766"
+          },
+          "hash": "28e0bc66e0f3431572da0919b423df85aa29146e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148204$428AAB54-C310-46AB-B4D8-D82E545797B8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Laelia maior"
+          },
+          "hash": "65b10428139669b2f7a8b9e5574c8899e3415d6f",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148204$7E089E4D-F154-4C46-B6B4-09B15C060B07",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Laelia Major Arms.svg"
+          },
+          "hash": "ce9c70d77415795e458912040989c0c77397bd69",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Quintus Mucius Scaevola Augur"
+    }
+  },
+  "id": "Q148204",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Laelia Meior"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лелия Младша"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lèlia la major"
+    },
+    "en": {
+      "language": "en",
+      "value": "Laelia Major"
+    },
+    "es": {
+      "language": "es",
+      "value": "Laelia Meior"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Laelia l'Aînée"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Laelia maior"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лелия Старшая"
+    }
+  },
+  "lastrevid": 17573008,
+  "modified": "2025-09-17T15:33:56Z",
+  "ns": 860,
+  "pageid": 176542,
+  "sitelinks": {},
+  "title": "Item:Q148204",
+  "type": "item"
+}

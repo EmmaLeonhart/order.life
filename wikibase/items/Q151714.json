@@ -1,0 +1,320 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Junius Silanus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151714$F969AA4E-E266-4D25-BF13-48D4B2A9DA7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1466298"
+          },
+          "hash": "a3b464fcb432ab99fae1d9478979759d6228aa55",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151714$B0D05050-8ED0-47A9-B564-7C23E3870CA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151635",
+              "numeric-id": 151635
+            }
+          },
+          "hash": "5879862e0d41235fce59d9c0756497dca00bc772",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151714$F08B6562-5650-4615-BFB5-8D69E90DB8E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151715",
+              "numeric-id": 151715
+            }
+          },
+          "hash": "2f8d599dc92d058b8b9f53085777c4754daf7ee9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151714$E80751DF-7130-4D85-BAA2-B646A8A3F899",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151714$C37501E1-5D4E-467D-8C07-481EE7A4AB4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151714$083DBCD6-D6EC-449C-9BA5-7F6349FFA451",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151714$877D2455-05D6-49FF-BA06-F3403999C27B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151714$6F011B62-1A52-4A47-B19F-78325BB99614",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b759e7f5a58cca3bd092fbd5291b202d65fc47d1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151714$7C96F947-A982-4C7A-A5A9-5865699BE8AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1528929"
+          },
+          "hash": "87e7b44c36c7f081452b395a2d4679b4e7dc4016",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151714$8BC3DE22-6EBD-4BF1-BD0E-6D7CE7773715",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Junius Silanus Arms.svg"
+          },
+          "hash": "5d58245ca2ab6afe8920d42272f16d20f2210871",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "pretor el 212 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prätor, gewählt im Jahr 212 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "praetor 212 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 212 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "pretore romano al tempo della seconda guerra romano-punica"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q151714",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Юний Силан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Juni Silà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Iunius Silanus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Junius Silanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Junio Silano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Junius Silanus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Giunio Silano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Iunius Silanus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Iunius Silanus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Silano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Silano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Юний Силан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Junius Silanus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Юній Сілан"
+    }
+  },
+  "lastrevid": 17579782,
+  "modified": "2025-09-17T17:06:59Z",
+  "ns": 860,
+  "pageid": 180168,
+  "sitelinks": {},
+  "title": "Item:Q151714",
+  "type": "item"
+}

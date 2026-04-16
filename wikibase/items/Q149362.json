@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Thomas Percy"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149362$3C80DE14-19D3-46BD-B055-FC0BD4E0B407",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Percy-401"
+          },
+          "hash": "ceb48aca395d3cbe431757767702933d00dcfc29",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149362$C1B60FED-154D-448A-8BFF-D2F0F5785994",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149362$B9B7C8F4-52ED-4216-8BF2-0340218DB868",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149362$CE6B252F-9D1C-4792-8A7B-AAC3CD40688C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10917.htm#i109167"
+          },
+          "hash": "8d8a2e86e1c1ac1089f07f6cd8d62d31b42d5c97",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149362$BAB97989-EF4B-4CEE-B7A5-7716375555F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149360",
+              "numeric-id": 149360
+            }
+          },
+          "hash": "c66f6c25c534256832fbe1ca18ff7207505c888e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149362$E908ADCD-DAAA-404C-B2E3-4503EE705423",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145138",
+              "numeric-id": 145138
+            }
+          },
+          "hash": "fa5b4f3b632397da269f79fad184f28df55859d5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149362$95291075-ED8B-42A6-9EE8-ADD255FF6882",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149362$E5878343-95A5-482A-BD4D-6CB45E9A70B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1366-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c1d6777effea47bcdb2d0148c71a7cc50b00951",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149362$6DE8DC52-520B-42C9-BB87-DFFF4DDC3A96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1387-03-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "88906da0c5b8e04e92940f0f1621d3c677772d61",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149362$33673150-6AC2-4DDD-811E-B1D137C463F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75389442"
+          },
+          "hash": "eea217d63923dcbe5e75f1d92196fca15c2af6ac",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149362$F169EEE1-5A7C-4BC8-9C88-2A0B50AF6772",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Thomas Percy Arms.svg"
+          },
+          "hash": "8cdfd307eb0edc1e28bce0ba43ef083d8fa006af",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1366-1387)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "английский рыцарь"
+    }
+  },
+  "id": "Q149362",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "স্যার টমাস পার্সি"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sir Thomas Percy"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Thomas Percy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Томас де Перси"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sir Thomas Percy"
+    }
+  },
+  "lastrevid": 17575220,
+  "modified": "2025-09-17T16:04:37Z",
+  "ns": 860,
+  "pageid": 177815,
+  "sitelinks": {},
+  "title": "Item:Q149362",
+  "type": "item"
+}

@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Domitius Calvinus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151387$7E43736F-C470-443A-A223-D6BDF4F968A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78069",
+              "numeric-id": 78069
+            }
+          },
+          "hash": "e4b33775bdc1d781373c2a769424420b4b980abb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151387$0B617FD6-FDDC-4CF7-BD1F-AE10D8118AD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151387$9B4CEF5A-FC3A-4579-AA9F-80483C8FAC30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151387$AEDFCD90-E7BB-47B9-9F53-530B8D415A04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151387$E1BFB846-EECC-4399-9D35-DC593221211A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0121-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a2e87c8067384797ee0f7e2cf3e4ac5a447ed716",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151387$3E6C121B-EC98-42CC-AA88-2288CBB395F2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae4b7901178fe4b9778eeb183916a79bf8a4cfe1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151387$7E2394D3-4FF1-4BED-ACC3-568FC387CC53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6758133"
+          },
+          "hash": "626399dbbec65218e547fd65d964e1b840ec4be9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151387$E5F341C2-DFC1-4C30-A6D7-507A1107FB34",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Domitius Calvinus Arms.svg"
+          },
+          "hash": "11126ffdaa717f5822d4d83c505b0e073323da0e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "pretor l'any 80 aC"
+    },
+    "en": {
+      "language": "en",
+      "value": "praetor in 80 BC"
+    }
+  },
+  "id": "Q151387",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Marc Domici Calví"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Domitius Calvinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Domitius Calvinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Domicio Calvino"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Domizio Calvino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Domitius Calvinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Domício Calvino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Domício Calvino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Домиций Кальвин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Доміцій Кальвін"
+    }
+  },
+  "lastrevid": 17579212,
+  "modified": "2025-09-17T16:59:25Z",
+  "ns": 860,
+  "pageid": 179841,
+  "sitelinks": {},
+  "title": "Item:Q151387",
+  "type": "item"
+}

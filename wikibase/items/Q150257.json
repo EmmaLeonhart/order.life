@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eleanor ferch Lison ab Ieuan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150257$B8CB3B4B-29CD-4DCC-A15B-E15E91CFEA81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00757588"
+          },
+          "hash": "6f03bf51ab936bb43137f85779cefa3a6563fefa",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150257$088C7B8C-E663-46DF-B82E-D57717B965CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145740",
+              "numeric-id": 145740
+            }
+          },
+          "hash": "ad7677137c0ab86c1dcd4b18758c246eceaf67e0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150257$6387D18C-6DD9-4356-9F57-B4BCC1C16A88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150257$695EE7D2-D062-4F22-93D4-DA95E916219F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150257$59A77919-0E66-4575-A206-B16E3F6C3068",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142657",
+              "numeric-id": 142657
+            }
+          },
+          "hash": "ff712fb78631c251705baa2ca181cbecbb4b208e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150257$FB238C59-F5B8-4F34-89D9-D0F559378953",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150257$D92F57E8-78B1-4BF6-A95F-6D3506A6E9C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110636836"
+          },
+          "hash": "39e1ff0920483f1fc370f232dcc148818fcfdaba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q150257$15E200E3-D12D-400A-9D58-38529CA944DD",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Eleanor ferch Lison ab Ieuan"
+          },
+          "hash": "8554a318654b6742dafc820b2b622eeefc9f856c",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150257$1F8C69DE-0646-45E0-AC3B-E704DECCC865",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eleanor ferch Lison ab Ieuan Arms.svg"
+          },
+          "hash": "c5a538fced4402ed62a564ebedb7c3f318521224",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q150257",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Eleanor ferch Lison ab Ieuan"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Eleanor ferch Lison ab Ieuan"
+    }
+  },
+  "lastrevid": 17577000,
+  "modified": "2025-09-17T16:28:53Z",
+  "ns": 860,
+  "pageid": 178710,
+  "sitelinks": {},
+  "title": "Item:Q150257",
+  "type": "item"
+}

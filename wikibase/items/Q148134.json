@@ -1,0 +1,340 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Salonia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148134$D7A0E206-2B4B-4A10-9BA9-085E6AA49A43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716785"
+          },
+          "hash": "3f8fad7d3c0a9e28fb911600f824cb5ead9225c4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148134$95815094-40B9-426D-82C3-7171AEDF17C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144170",
+              "numeric-id": 144170
+            }
+          },
+          "hash": "65fa47ff28b7a74b91d20cc1997e5b1ebfd69216",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148134$AF182A6A-EDDE-45B9-8DD7-F486762604B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148134$96D36716-0DAA-4010-A06A-9726099CABB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148134$575073BC-D005-47DF-9D4E-9211462CFE5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148133",
+              "numeric-id": 148133
+            }
+          },
+          "hash": "d5cfbb312874023cb1a5ecfb2dea46da50c472b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148134$AB59F3EA-D9A8-44E5-A42D-C59E45D482D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151389",
+              "numeric-id": 151389
+            }
+          },
+          "hash": "40b1ac3cd5a0d94a4e478b112d3b413c1972e497",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148134$9D68AC41-EB3D-4D4F-90D6-C8114555E794",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148134$97AF8E04-D323-49D5-A362-5A1E8612A5D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148134$90BC55F0-32B6-4BE0-939F-FBC08C2E0191",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148134$A7E74E23-11EB-45C9-9A70-E334AD6B549C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q435959"
+          },
+          "hash": "4f03c16e9ed35eb073109320b7a3ad8130a546a0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148134$8B1C19EA-96B2-43AB-A754-A43205F519C8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Salonia"
+          },
+          "hash": "f186af2b32179914a8da226c067184add2cc6708",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148134$0D8C39AA-39AB-41E2-BE43-0DEB63F8A612",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Salonia Arms.svg"
+          },
+          "hash": "1a558f8ffbf8f06f398013c481343a7b2fc0a2c7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ehefrau von Marcus Porcius Cato der Ältere, freigelassene Sklavin"
+    },
+    "en": {
+      "language": "en",
+      "value": "second wife of Cato the Elder"
+    },
+    "es": {
+      "language": "es",
+      "value": "segunda esposa de Catón el Viejo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seconde épouse de Caton l'Ancien"
+    },
+    "it": {
+      "language": "it",
+      "value": "seconda moglie di Catone il Censore, figlia di Salonio"
+    }
+  },
+  "id": "Q148134",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Салония"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Salònia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Salonia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Salonia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σαλονία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Salonia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Salonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Salonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Salonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サロニア"
+    },
+    "la": {
+      "language": "la",
+      "value": "Salonia"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Salonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Salonia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Салония"
+    }
+  },
+  "lastrevid": 17572882,
+  "modified": "2025-09-17T15:32:10Z",
+  "ns": 860,
+  "pageid": 176322,
+  "sitelinks": {},
+  "title": "Item:Q148134",
+  "type": "item"
+}

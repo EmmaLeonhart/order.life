@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Béatrix de Guines"
+      },
+      {
+        "language": "en",
+        "value": "Beatrix de Guines"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147083$34932A31-64FE-4573-A20B-0DBF54A08A96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00584209"
+          },
+          "hash": "fc11ea688cf15d67278b287382a30db309623310",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147083$D6B3AF34-8820-4B51-92E7-475DD3900053",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Guines-23"
+          },
+          "hash": "46fe4e3eef8010abe98baa5df0c04386eff743d7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147083$A4ADF4FD-FF33-4F95-B1B0-F501523D4B7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147083$8F4049B7-1383-4D5C-8E12-6F0E589451B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147083$3058CA8F-D36B-4D2F-A489-956F405BA156",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Beatrix_de_Guines_(1)"
+          },
+          "hash": "ff7d5cd39d8479857f86bc43ccc40b26ac96efb5",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147083$1F694FD6-8F23-47BA-8EB7-78AD609D2E3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143619",
+              "numeric-id": 143619
+            }
+          },
+          "hash": "a45bf81b126bec296d2f9783c3c60bb34b5f13cb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147083$A4CF69C2-9592-4A01-BEF2-2C17DEFDD875",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147081",
+              "numeric-id": 147081
+            }
+          },
+          "hash": "0a22584d736829ecf88727f0a2ef17089f453293",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147083$F7E3570B-3627-4176-8E72-0DA473DF6432",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147083$87660C14-1EED-4768-AA4B-106F47896D64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147083$E51BD81D-7517-4812-B49C-1147BD691BC4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106686377"
+          },
+          "hash": "0e67ac15d2ed34f800394c5b70bd464d01c4ae99",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q147083$0967A640-7ED5-4DF9-AEBC-054A2D7725F6",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Béatrix de Guines"
+          },
+          "hash": "507facec5e208026b1cd6b40fb5e520e5d5a5c09",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147083$E7DB2338-6376-4065-B78B-08A0165136DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=beatrix;n=de guines;oc=1"
+          },
+          "hash": "3d356fbabcae6af34004de5b063a8fd6f5df5dee",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147083$1F66F2A8-47D4-4495-9F03-97E23C325DCD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Béatrix de Guines Arms.svg"
+          },
+          "hash": "0afd401e4b125dc2c4636107b885f1ead889b30b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1150"
+    }
+  },
+  "id": "Q147083",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Béatrix de Guines"
+    },
+    "es": {
+      "language": "es",
+      "value": "Béatrix de Guines"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Béatrix de Guines"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Béatrix de Guines"
+    }
+  },
+  "lastrevid": 17571564,
+  "modified": "2025-09-17T15:14:02Z",
+  "ns": 860,
+  "pageid": 175468,
+  "sitelinks": {},
+  "title": "Item:Q147083",
+  "type": "item"
+}

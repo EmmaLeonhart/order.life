@@ -1,0 +1,396 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jehan de Braine"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147348$CDD7C374-6C43-4D42-8CAB-60D16B0AE368",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11573"
+          },
+          "hash": "0877c881044092f2456bbed560afe518bf8c3455",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147348$27D5F276-FB41-4A3A-B558-21E65B28D2EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dreux-47"
+          },
+          "hash": "6f1ac3622296c422ecdd07b6d8172f3eb86bc871",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147348$8E2B76CF-F682-4EB9-B52E-FE32657EDA06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147348$43159D36-B913-4B5A-AED7-7F88EE4A8E1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147348$64786821-1DA2-44FF-97F3-9977383BEFD4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Jehan_de_Braine_(1)"
+          },
+          "hash": "405da6953bc7891b00d4033c47e227300d86e31f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147348$7FC18C2E-7FB6-41D9-A89E-91EAFDB569D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124962",
+              "numeric-id": 124962
+            }
+          },
+          "hash": "a0984701953f0c7fafa5c363ecb8e76da00e44e9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147348$926FDB03-3BB9-4E7D-AB98-9250D34041E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147348$AAA0F8C7-9CF6-4A22-B466-8D93C9B9C4C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1198-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af52230733b77e15b6839b1844112965e8e934ba",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147348$0D5C55BC-71C3-415E-8838-630321AF175F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1239-11-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dc15551c75178f9873d0392fc2e084268cedd175",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147348$0F5A7245-C928-4A8E-BE7F-9F3E13876BE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q937887"
+          },
+          "hash": "18ad4e8910dd9d9a7bbf4edde1e381ede7f1eceb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147348$60C42B36-543E-4A40-A950-C469AB8B25D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=jean;n=de dreux;oc=12"
+          },
+          "hash": "edd499d9cb7c213a73b78634cf4dd03d3e43c259",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147348$DF0B9647-9340-4133-A45C-9A6CCAA62798",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jehan de Braine Arms.svg"
+          },
+          "hash": "8eccdfc36d4b378212ace1bd225bab6cb2c21da0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملحن فرنسي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "compositor francés (1198–1239)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "compositor francès"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "cyfansoddwr a aned yn 1198"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Vienne und Mâcon"
+    },
+    "en": {
+      "language": "en",
+      "value": "French crusader"
+    },
+    "es": {
+      "language": "es",
+      "value": "compositor francés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "musikagile frantziarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "trouvère"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "compositor francés"
+    },
+    "it": {
+      "language": "it",
+      "value": "compositore francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans componist (1198-1239)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "compositor francês"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф де Макон"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız besteci (1198-1239)"
+    }
+  },
+  "id": "Q147348",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جيهان دى برين"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jean de Dreux"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jean de Dreux"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johann von Braine"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης του Μπραιν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jehan de Braine"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Jehan de Braine"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Jehan de Braine"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jehan de Braine"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean de Dreux"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jean de Dreux"
+    },
+    "it": {
+      "language": "it",
+      "value": "Jehan de Braine"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jean de Dreux"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jan van Dreux"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Жан де Дрё"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jean de Dreux"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jehan de Braine"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jean de Dreux"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jean de Dreux"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "布賴訥的熱翰"
+    }
+  },
+  "lastrevid": 17571996,
+  "modified": "2025-09-17T15:19:57Z",
+  "ns": 860,
+  "pageid": 175733,
+  "sitelinks": {},
+  "title": "Item:Q147348",
+  "type": "item"
+}

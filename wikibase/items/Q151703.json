@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Herennius Pollio"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151703$44F800C6-3C1F-4AF7-988A-35AB7F2BC5E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151618",
+              "numeric-id": 151618
+            }
+          },
+          "hash": "bb8f239dd4d39967167807ce4f8279fa4c787bab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151703$25F4B58E-D06F-4F57-9844-2463A5B7B92F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151703$891BA3CF-1C7E-44EC-B6E5-0AD2AEEA5629",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151703$75EF911C-4126-4100-B468-F48B8C33E08C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151703$2E8FC6B5-6A20-47C8-9A16-FEF0FB6BE59A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151703$28D99D6C-CEF6-4987-9130-ED09B89F7B9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12291743"
+          },
+          "hash": "5d23eca83d7dbbc4b823036f61a2242cb3920090",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151703$6058AB8F-C9F0-4BF0-B1DD-C2D18C763DB5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Herennius Pollio Arms.svg"
+          },
+          "hash": "3bbb943185095a6ba09584c0b135981a289cd521",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "suffect consul 85 AD"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "um senador romano"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q151703",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Херений Полион"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Herennius Pollio"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Herennius Pollio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Herennio Polión"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Herennius Pollio"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Erennio Pollione"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Herennius Pollio"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Herênio Polião"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Herênio Polião"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Геренний Поллион"
+    }
+  },
+  "lastrevid": 17579762,
+  "modified": "2025-09-17T17:06:44Z",
+  "ns": 860,
+  "pageid": 180157,
+  "sitelinks": {},
+  "title": "Item:Q151703",
+  "type": "item"
+}

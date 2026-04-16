@@ -1,0 +1,423 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Syphax"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151326$2B107A83-479C-4FB0-9908-EE8124831CBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "626224"
+          },
+          "hash": "482fd9f7e07adce3c334d37660576c85b16e51ab",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151326$BDD8E10F-B9A8-4899-8734-BF29C8513E6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151337",
+              "numeric-id": 151337
+            }
+          },
+          "hash": "f3911543ba8cb13db44dbe1e18b31d21224ded16",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151326$A64884D6-5AB9-4E93-BBA4-40F117B11807",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151326$4476F534-E385-4244-833D-8F488C810EC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151326$75123D2C-F80F-42F6-AA7B-DAC32C13520F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148222",
+              "numeric-id": 148222
+            }
+          },
+          "hash": "e2575fcff316c898b1052da759ecde614edc4478",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151326$F65964AC-3CD2-4538-B9C3-D91818B0DFE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151326$554499DD-1BB2-4430-836E-3047A2900ACC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "368dc1e752474150a1da591be3284477af436fc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151326$75EE5A0B-C401-4796-9BA1-01F4911AC266",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0202-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fbc22147bc63d566e1bf04f3656a3a1cdf8fde8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151326$8CBE1CF6-5984-4F2B-BF3D-B1CE80931623",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q353141"
+          },
+          "hash": "c70e4dafa322132e9d0a9783f35a9751fddf6085",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151326$19A8F3C6-A8BC-4255-BC42-0D97610FCF0F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Syphax Arms.svg"
+          },
+          "hash": "dd087bc74ed0fa339ea63313acbadc7e16d72840",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q151326$400DFA69-5033-4CC7-8AE1-FE09BF4D7C68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/3776c22d-8092-4bec-8ab1-109fe4ccdce8"
+          },
+          "hash": "c1dc7af46acacf49f4f32af3089e8a0dfbc89ea6",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سيفاكس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de Numídia"
+    },
+    "de": {
+      "language": "de",
+      "value": "König in West-Numidien; Herrscher der Massäsylier"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Numidia"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de la antigua tribu númida de los masesilos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Numidie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך נומידי (צפון אפריקה) במאה ה-3 לפנה\"ס"
+    },
+    "it": {
+      "language": "it",
+      "value": "re dei massesili"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь западных нумидян (массесилян)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "nordafrikansk kung"
+    }
+  },
+  "id": "Q151326",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "صيفاقس"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "سيفاكس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "صيفاقس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Сифакс"
+    },
+    "br": {
+      "language": "br",
+      "value": "Sifaks"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sífax"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Syfax"
+    },
+    "de": {
+      "language": "de",
+      "value": "Syphax"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σύφαξ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Syphax"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Syphax"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Syphax"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sifax"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Syfax"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Syphax"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Syffaks"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Σύφαξ"
+    },
+    "he": {
+      "language": "he",
+      "value": "סיפקס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Siface"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シュファクス"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Sifaks"
+    },
+    "la": {
+      "language": "la",
+      "value": "Syphax"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Syphax"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Syphax"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Syfaks"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sífax"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sífax"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сифакс"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sifaks"
+    },
+    "shi": {
+      "language": "shi",
+      "value": "Sifaks"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Софакс"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Syfax"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сіфакс"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西法克斯"
+    }
+  },
+  "lastrevid": 17579104,
+  "modified": "2025-09-17T16:58:00Z",
+  "ns": 860,
+  "pageid": 179780,
+  "sitelinks": {},
+  "title": "Item:Q151326",
+  "type": "item"
+}

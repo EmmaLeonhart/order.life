@@ -1,0 +1,514 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Fabius Maximus Verrucosus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151752$68577DF4-91C3-4D3B-A6F9-A2ED1E6924F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151692",
+              "numeric-id": 151692
+            }
+          },
+          "hash": "4bd4867cb57142e14e173baabb2915d8064b95ab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151752$897CD4BE-BBDE-444B-BA6B-C20E68F73B94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151752$713BBEA1-BDA3-44BA-A56C-DB1179C7986E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151752$3E6ECFAF-3E49-4FE4-BC7D-2825A19D9F25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151795",
+              "numeric-id": 151795
+            }
+          },
+          "hash": "1a6be7662d5b6daf555e67938027e4cacb200d5e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151752$92B8CC62-5DBE-4A90-BA60-1C8BCBA466F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151752$D7BA03F7-4E00-41BE-AD2F-F81DED6416C0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0203-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "46e88373c77d417a598ffe3c85aa2efb898018aa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151752$4989171D-F192-4294-9D09-0790CC2BC462",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q274545"
+          },
+          "hash": "89fc9cea2dc05ef8810bce6ff935ba66e462bb8b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151752$24963F79-AACF-45B9-824D-0EAB97D3F06A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Fabius Maximus Verrucosus"
+          },
+          "hash": "670c725f83de61a063a23231400d3b69b5bd2623",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151752$0DF1041F-D903-4708-A0DE-169E9267D48E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Fabius Maximus Verrucosus Arms.svg"
+          },
+          "hash": "cdd72d1f9f47b40a5455358ad2d05f0f083a89df",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský konzul a vojevůdce"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Feldherr der punischen Kriege und Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman statesman and general (c. 280 – 203 BC)"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Roman statesman, designed the Fabian Strategy against Hannibal"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalainen sotilas, konsuli ja diktaattori"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain à cinq reprises"
+    },
+    "he": {
+      "language": "he",
+      "value": "קונסול ומצביא רומי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus és hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "共和政ローマの政治家、将軍。執政官。監察官。"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-203v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримский военачальник и политический деятель"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski konzul in general (ok. 280–203 pr. n. št.)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "275–203 yılları arasında yaşamış Romalı devlet adamı ve asker"
+    }
+  },
+  "id": "Q151752",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فابيوس ماكسيموس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فابيوس ماكسيموس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Kvint Fabi Maksim Kunktator"
+    },
+    "be": {
+      "language": "be",
+      "value": "Квінт Фабій Максім Кунктатар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Фабий Максим"
+    },
+    "br": {
+      "language": "br",
+      "value": "Quintus Fabius Maximus Verrucosus Cunctator"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Fabi Màxim Berrugós"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Quintus Fabius Maximus Cunctator"
+    },
+    "da": {
+      "language": "da",
+      "value": "Quintus Fabius Maximus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Fabius Maximus Verrucosus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φάβιος Μάξιμος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Fabius Maximus Verrucosus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Quintus Fabius Maximus Verrucosus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Quintus Fabius Maximus Verrucosus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Fabio Máximo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Fabio Maximo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فابیوس ماکسیموس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Fabius Maximus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Fabius Maximus Verrucosus"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Quint Fabi Massim"
+    },
+    "he": {
+      "language": "he",
+      "value": "פאביוס מאקסימוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quintus Fabius Maximus Verrucosus Cunctator"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Փաբիոս Մաքսիմոս"
+    },
+    "is": {
+      "language": "is",
+      "value": "Fabius Maximus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Fabio Massimo Verrucoso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・ファビウス・マクシムス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კვინტუს ფაბიუს მაქსიმუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "퀸투스 파비우스 막시무스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Fabius Maximus"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "費邊"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Quintus Fabius Maximus Verrucosus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Fabius Maximus"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "क्वीन्ट फावी मैक्सिम"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Fabius Maximus Cunctator"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Fabius Maximus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Fabiusz Maksimus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fábio Máximo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fábio Máximo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Fabius Maximus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Фабий Максим Веррукоз"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fabije Maksim"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Fabius Maximus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Fabij Maksim"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Fabius Maximus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Квинт Фабије Максим"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Квинт Фабије Максим"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Kvint Fabije Maksim"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Quintus Fabius Maximus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Quintus Fabius Maximus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Фабій Максим Веррукоз"
+    },
+    "war": {
+      "language": "war",
+      "value": "Quintus Fabius Maximus Verrucosus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "費邊"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "费边"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "费边"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "費邊"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "費邊"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "费边"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "費邊"
+    }
+  },
+  "lastrevid": 17579852,
+  "modified": "2025-09-17T17:07:55Z",
+  "ns": 860,
+  "pageid": 180206,
+  "sitelinks": {},
+  "title": "Item:Q151752",
+  "type": "item"
+}

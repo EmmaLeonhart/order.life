@@ -1,0 +1,271 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Clementia of Kyburg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147974$BB4C4964-3FA8-4F54-9EFC-C50979C09AFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00108803"
+          },
+          "hash": "2d82b4ffbd9e3162aa52079bfb1afe9b974978e1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147974$29AA35B2-D9EF-4B3D-B247-A807562A6D9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147978",
+              "numeric-id": 147978
+            }
+          },
+          "hash": "19f7b134e34be2fa2f9c15400c9c4b6ae88a87fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147974$1761A158-3659-4DB3-9CDE-A517C930A102",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147976",
+              "numeric-id": 147976
+            }
+          },
+          "hash": "74f62173eb5915a43e70ced92198aed0bc2f0d15",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147974$B72DAF19-B864-4DA6-9A76-1AE9358056E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Kyburg-11"
+          },
+          "hash": "aabf39372e7781559160401de017bfd06efda675",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147974$1F54BB7C-72A0-4AC5-B12B-9BFE90932EC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147974$E0551EF2-CEA4-499D-9176-254FA4EFCF90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147974$D28DF7A5-76DB-46BB-917A-A1FC34BD7531",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143999",
+              "numeric-id": 143999
+            }
+          },
+          "hash": "da854a1373164487e687983cc0230204d8c30afa",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147974$F2A3CDFA-856B-435B-8FB8-9E36726FC11B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147974$7842CA9F-2CC3-4130-8D64-796E8C4F4DC9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1249-12-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3773dc0501115782dc851780ae45c04164896dc5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147974$645EBABC-E3B2-492B-8A13-A29D3502A1A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110570675"
+          },
+          "hash": "78e9699016a92dec60c07c0892da918adb037601",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147974$C9157E3C-34FA-4F77-810B-C5153E22DAE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=clementa;n=von kyburg"
+          },
+          "hash": "acd33f57a4a4753945668093df9ab8d24263bc42",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147974$5B267A7B-49FC-4B9F-9003-2B76D7850A87",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Clementia of Kyburg Arms.svg"
+          },
+          "hash": "25a2f7a3e513693662f49632b22a717e451e1cd9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "German countess"
+    }
+  },
+  "id": "Q147974",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Klemencie Kyburská"
+    },
+    "en": {
+      "language": "en",
+      "value": "Clementia of Kyburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Clementia van Kyburg"
+    }
+  },
+  "lastrevid": 17572626,
+  "modified": "2025-09-17T15:28:39Z",
+  "ns": 860,
+  "pageid": 176077,
+  "sitelinks": {},
+  "title": "Item:Q147974",
+  "type": "item"
+}

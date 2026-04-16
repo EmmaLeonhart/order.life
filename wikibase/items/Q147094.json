@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Godfried II, Heer van Breda"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147094$DAAA7B46-1BF9-42E3-9527-6AD588547B86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "277095"
+          },
+          "hash": "e25d7f069b6cb3ae385bdf6f7d7ba38cfec6e7fd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q147094$E31E83A2-C567-4F21-BF28-74680F09EABF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00197091"
+          },
+          "hash": "9ea8a34d0635aa6d5be3ca69dce57a2c5d0ceb6d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147094$BBE8556F-5A10-4BA9-9A50-D9EB6A0170E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Breda-31"
+          },
+          "hash": "b53018747081658f9eeda8024d295ddd22fb6958",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147094$BCFA15EC-91ED-42FE-B1F6-70DDFCA3D04E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147094$A642AC58-C042-4DAC-8E82-FE68CD5C3378",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147094$C3013E2A-395E-457C-8FD7-4CE6E7461777",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143625",
+              "numeric-id": 143625
+            }
+          },
+          "hash": "02b30fe42ea7e4436ba29a240a9b5fb2cf411776",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147094$E64DB8B5-B308-4B02-8EE8-9FCD1DD16B71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147094$A0521DA9-B61D-44B4-BE41-60E90FFAD3A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec722479c752f99ddc531564cc0d81140c8fcbc3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147094$A9B2C487-4470-4967-A9F7-E3AA4D41EB61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1216-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "38f1c26e2fbd2b8cc69609ecfad1aca5b5c2a27a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147094$AD72F4AD-F188-433A-803A-0CC7164B4AEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q105983186"
+          },
+          "hash": "42ad8213bbe03e1ff445e2e683e37fdc3be1aa47",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q147094$B514B261-91DE-4689-8DAB-9BDC3A975622",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Godfried II, Heer van Breda"
+          },
+          "hash": "f69b9836f0d4d7a692c746752c1fb794c74380e7",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147094$050FA36F-DDDF-4E69-847D-53C896853D2E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Godfried II, Heer van Breda Arms.svg"
+          },
+          "hash": "3a58626b12cb26cc715af632da01fda2c4e2a938",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1170-1216)"
+    }
+  },
+  "id": "Q147094",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Godfried II, Heer van Breda"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Godfried II, Heer van Breda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Godfried II, Heer van Breda"
+    }
+  },
+  "lastrevid": 17571576,
+  "modified": "2025-09-17T15:14:12Z",
+  "ns": 860,
+  "pageid": 175479,
+  "sitelinks": {},
+  "title": "Item:Q147094",
+  "type": "item"
+}

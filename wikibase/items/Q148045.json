@@ -1,0 +1,281 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Lentulus Lupus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148045$A80A920A-57AE-4616-8FAC-AA44560F0014",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465144"
+          },
+          "hash": "6296339c41ebb6a5035215a25ab71227970e6566",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148045$58D598DA-AB86-43F8-B28A-ADDDADB8CEF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148045$BE6FCA1B-7E95-4F96-B3D9-DB56EBF47792",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148045$9910073A-2AAB-467E-83B3-00D5651DE312",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144047",
+              "numeric-id": 144047
+            }
+          },
+          "hash": "edf3e906f602896f5bb5175b0ce63b0fda849217",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148045$2F7D3B3F-32D6-4C66-9720-3BFF7FA32FDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148045$6B460FEC-6767-4141-A8B5-932D5B04B00B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0199-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "06080b360de509990f6b98ac5dad97b95dc659b6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148045$90F79067-A99A-474D-97DD-9AEACE63407C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1873583"
+          },
+          "hash": "bf1bbc690ebbae3a790563677ce89f475e19123c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148045$DB427A8E-A843-4029-9D05-438FCE5E9D51",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Lentulus Lupus Arms.svg"
+          },
+          "hash": "3be29d2a0ca6ef964c9d4c92d15400aad467dcf1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 156 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 156 v. Chr."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος πολιτικός. Ύπατος το 156 π.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 156 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 156 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 156 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e senatore romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (200v Chr-125v Chr)"
+    }
+  },
+  "id": "Q148045",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Лентул Луп"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Lèntul Llop"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Lentulus Lupus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Κορνήλιος Λέντουλος Λούπος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Lentulus Lupus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Léntulo Lupo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Lentulus Lupus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Cornelio Léntulo Lupo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Lentulo Lupo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・コルネリウス・レントゥルス・ルプス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Lentulus Lupus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Lentulus Lupus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cornélio Lêntulo Lupo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Cornélio Lêntulo Lupo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Лентул Луп"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Cornelius Lentulus Lupus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Лентул Луп"
+    }
+  },
+  "lastrevid": 17572736,
+  "modified": "2025-09-17T15:30:08Z",
+  "ns": 860,
+  "pageid": 176134,
+  "sitelinks": {},
+  "title": "Item:Q148045",
+  "type": "item"
+}

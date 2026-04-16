@@ -1,0 +1,690 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Snorri Sturluson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q147693$F330A14F-A7C8-4F92-B565-581350CF3960",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sturluson-5"
+          },
+          "hash": "15927203dd0e32de5ab703c6a1f842abd178def4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147693$FAE017F4-4164-4431-A173-E21C34115D3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147693$58DE909D-8BEE-4D74-A2DF-362600C77017",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147693$6AFF4940-3937-4C59-8251-6F87A10FD413",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143872",
+              "numeric-id": 143872
+            }
+          },
+          "hash": "15045861c6d0d16000bd8ed6b9dff9128b10a757",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q147693$8364517E-0A14-4843-BD86-BAB53AE94CA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "22962296"
+          },
+          "hash": "452f0decad97e4466410db2ec518b842f7eea955",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147693$A6463AE9-98B0-4793-999F-CBC12D177AF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147693$DF4B92AA-6B29-4D4D-BBF6-8AFD46B2C660",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1179-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d9d8c776eaa4d01c7d0a2033a3dd84cf9a59e85b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147693$C44C82EC-68DF-425A-AB4E-2BB4E1F481B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1241-09-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "675f660321aa7079fe6fa6b73931525001ede07f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147693$7437BDC6-3BA0-4E9A-A9FF-603E5B14B82B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q102323"
+          },
+          "hash": "fcb5af0ed639da64481eea99ca697256d049ba16",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q147693$DD16B222-C6CF-474F-AA36-82A6E5375A3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "3250062"
+          },
+          "hash": "2ca3b7724b5374317a1f7aff81c071117ad9b14e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q147693$0C43251A-BFB7-4BD7-9398-9CE7F1F59950",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Snorri Sturluson"
+          },
+          "hash": "868be2d4c2ecd6f5e87c76bff235ebfcfc5f085f",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q147693$40032FF0-D036-4DC8-9CE5-221857621FAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26311"
+          },
+          "hash": "defb8a62319012806bd71b65a4caa048eee123e2",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147693$A51C6A3E-7D67-460E-809F-D90AF8305A6E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Snorri Sturluson Arms.svg"
+          },
+          "hash": "62e74240008e76fcad55ccbcbd2e515a8074a118",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q147693$E179CCDB-9189-4C66-9976-11AAD0B2C686",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/E0F40A1F-1F33-4789-9531-7E937E65024E"
+          },
+          "hash": "e1e5c931fb6e7fff4cd21afc624537328388c2d6",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ісьляндзкі скальд, празаік, гісторыёграф і палітык"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "islandský historik a básník"
+    },
+    "da": {
+      "language": "da",
+      "value": "islandsk høvding, forfatter og skjald"
+    },
+    "de": {
+      "language": "de",
+      "value": "altisländischer Skalde und Historiker"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Icelandic historian, poet and politician (AD 1179–1241)"
+    },
+    "es": {
+      "language": "es",
+      "value": "escritor, poeta e historiador de Islandia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نویسنده و شاعر آیسلندی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "islantilainen historioitsija ja runoilija"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique et écrivain islandais"
+    },
+    "he": {
+      "language": "he",
+      "value": "סופר ומדינאי איסלנדי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "izlandi költő, történetíró"
+    },
+    "is": {
+      "language": "is",
+      "value": "íslenskur sagnaritari, skáld og stjórnmálamaður (1179-1241)"
+    },
+    "it": {
+      "language": "it",
+      "value": "storico, poeta e politico islandese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アイスランドの詩人・政治家・歴史家"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "islandsk poet og skribent"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "IJslands schrijver"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "islandzki poeta, historyk i przywódca"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "исландский скальд, прозаик, историограф и политик"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "isländsk adelsman, hövding, lagman, politiker, historiker, författare och skald"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Saga yazarı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ісландський політик, поет-скальд, історіограф (1179–1241)"
+    }
+  },
+  "id": "Q147693",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Snorri Sturluson"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سنوري سترلسون"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سنورى ستورلسون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Snorri Sturluson"
+    },
+    "az": {
+      "language": "az",
+      "value": "Snorri Sturluson"
+    },
+    "be": {
+      "language": "be",
+      "value": "Сноры Стурлусан"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сноры Стурлюсан"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Снори Стурлусон"
+    },
+    "br": {
+      "language": "br",
+      "value": "Snorri Sturluson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Snorri Sturluson"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "سنۆری ستۆرلۆسۆن"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Snorri Sturluson"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Snorri Sturluson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Snorri Sturluson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Snorri Sturluson"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σνόρρι Στούρλουσον"
+    },
+    "en": {
+      "language": "en",
+      "value": "Snorri Sturluson"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Snorri Sturluson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Snorri Sturluson"
+    },
+    "et": {
+      "language": "et",
+      "value": "Snorri Sturluson"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Snorri Sturluson"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسنوری استورلسون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Snorri Sturluson"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Snorri Sturluson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Snorri Sturluson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Snorri Sturluson"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Snorri Sturluson"
+    },
+    "he": {
+      "language": "he",
+      "value": "סנורי סטורלוסון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Snorri Sturluson"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Snorri Sturluson"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սնորրի Սթուրլուսոն"
+    },
+    "id": {
+      "language": "id",
+      "value": "Snorri Sturluson"
+    },
+    "is": {
+      "language": "is",
+      "value": "Snorri Sturluson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Snorri Sturluson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スノッリ・ストゥルルソン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სნორი სტურლუსონი"
+    },
+    "kl": {
+      "language": "kl",
+      "value": "Snorri Sturluson"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스노리 스툴루손"
+    },
+    "la": {
+      "language": "la",
+      "value": "Snorro Sturlaeus"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Snorri Sturluson"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Snorri Sturluson"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Snorri Sturluson"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Snorri Sturlusons"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Снори Стурлусон"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Снорри Стурлусон"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "स्नोरी स्टुर्लसन"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Snorri Sturluson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Snorre Sturlason"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Snorri Sturluson"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Snorri Sturluson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Snorri Sturluson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Snorre Sturlason"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Snorri Sturluson"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Snorri Sturluson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Snorri Sturluson"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Snorri Sturluson"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Snorri Sturluson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Снорри Стурлусон"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Стурлусон Снорри"
+    },
+    "sgs": {
+      "language": "sgs",
+      "value": "Snorri Sturluson"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Snorri Sturluson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Snorri Sturluson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Snorri Sturluson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Snorre Sturlasson"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Snorri Sturluson"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "Snorri Sturluson"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Snorri Sturluson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сноррі Стурлусон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Snorri Sturluson"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Snorri Sturluson"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "斯诺里·斯蒂德吕松"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯諾里·斯蒂德呂松"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "斯诺里·斯蒂德吕松"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "斯诺里·斯蒂德吕松"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "斯諾里·斯蒂德呂松"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "斯諾里·斯蒂德呂松"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "斯诺里·斯蒂德吕松"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "斯諾里·斯蒂德呂松"
+    }
+  },
+  "lastrevid": 17572354,
+  "modified": "2025-09-17T15:24:58Z",
+  "ns": 860,
+  "pageid": 175938,
+  "sitelinks": {},
+  "title": "Item:Q147693",
+  "type": "item"
+}

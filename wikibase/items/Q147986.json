@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Frederick of Montfort"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147986$1B0539CC-0913-47DC-99F8-270AB17B2162",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147986$36536F62-D8F7-4F74-914A-772FCE25282B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147986$DAB7E812-9463-4EA7-9CFC-76479C911E5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144001",
+              "numeric-id": 144001
+            }
+          },
+          "hash": "d3a0aca56e295cbf384bce010bfb5d8c8a18b88b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147986$26FF8BBA-EE7F-41A8-9763-E82B4C0CA0E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147980",
+              "numeric-id": 147980
+            }
+          },
+          "hash": "0fd5ec72763fa20614c459fd1ea2b87982d6bdaf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147986$88DCEA4D-4497-4076-A0EA-7B1BDE936FE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147986$1D644FF8-26A2-40C7-B35C-A7FC4EEC5A59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "891a8fd1e3ea1f5ffde392231c3c7525a14fc1d6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147986$78EDEBD1-6B35-4CCC-BA9F-6ABC6D666141",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1290-06-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c6764ecbeefe40bb6d872bc9d93e49443b3df720",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147986$E31C34C9-0FC6-48DC-A15F-AF6C675DAA47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1463894"
+          },
+          "hash": "effe4833d97ee9b301c4ffee543d4d9aaa08d9fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147986$3D5BCA66-364D-4FE5-93EB-849FDFF64FA9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Frederick of Montfort Arms.svg"
+          },
+          "hash": "16bb0150be80fbfaa9741452ffa2731448678aa3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Chur"
+    },
+    "en": {
+      "language": "en",
+      "value": "bishop of the Roman Catholic Church"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "katholiek bisschop"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "єпископ Римсько-католицької церкви"
+    }
+  },
+  "id": "Q147986",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Friedrich von Montfort"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фридрих фон Монфор"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bedřich z Montfortu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Friedrich von Montfort"
+    },
+    "en": {
+      "language": "en",
+      "value": "Frederick of Montfort"
+    },
+    "es": {
+      "language": "es",
+      "value": "Friedrich von Montfort"
+    },
+    "it": {
+      "language": "it",
+      "value": "Friedrich von Montfort"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frederik van Montfort"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Friedrich von Montfort"
+    }
+  },
+  "lastrevid": 17572638,
+  "modified": "2025-09-17T15:28:49Z",
+  "ns": 860,
+  "pageid": 176083,
+  "sitelinks": {},
+  "title": "Item:Q147986",
+  "type": "item"
+}

@@ -1,0 +1,459 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cornelia Africana Major"
+      },
+      {
+        "language": "en",
+        "value": "Cornelia Scipionis Africana Minor"
+      },
+      {
+        "language": "en",
+        "value": "Cornelia Scipionis Africana Maior"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73131$1EEC14F3-C9FE-4F29-9B43-8F27F283A3BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735584"
+          },
+          "hash": "0d10b9593afd60025859573229c04f931fd3072f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73131$50CC1117-6A61-4372-B9A5-A12CE0B4CF95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72957",
+              "numeric-id": 72957
+            }
+          },
+          "hash": "e9cfaccf0d34c9e39d9e0d300a9a018066e43071",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73131$D2656596-4028-4CC0-986B-7A4929E158EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148071",
+              "numeric-id": 148071
+            }
+          },
+          "hash": "bc8f88645e0b156c5969f881277a430fc5b952b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q73131$BC37233F-68A8-4B22-AA8D-ACB3B581CAB1",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Cornelia Scipionis Africana Minor"
+            }
+          },
+          "hash": "9b1ef3e25fdbfb0f7f083b43d86cf08a9a40b11e",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73131$5DE6627F-F0D1-488D-B95E-AB373B932987",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73131$FB36F113-2500-4ABC-A67C-18E760C6004D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73131$7599B9D8-9C3A-4A84-BBF1-77B94FF6CC0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cornelia_Africana_Major_(1)"
+          },
+          "hash": "e6f5f1e780c2e040eececc0c71a541c5698e8549",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73131$512CAB24-4F8D-4130-80D7-61274A3C9B84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73128",
+              "numeric-id": 73128
+            }
+          },
+          "hash": "7e52e21c8cc2c2cffcdb6af74cfad36d9f811689",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73131$DBB3BD76-CA92-4D61-A336-B5CA303A4AA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73299",
+              "numeric-id": 73299
+            }
+          },
+          "hash": "3dcfde415e513acd85f395e3c272f4a2bab22fcf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73131$D2393A41-9CD0-408F-9308-CF974A6C4E06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73296",
+              "numeric-id": 73296
+            }
+          },
+          "hash": "fdbe56537e26be1c657b3e5444d19e80118c52a0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q73131$0E0C88A8-B9D1-42B0-9423-D55F49207C33",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Cornelia Scipionis Africana Minor //"
+            }
+          },
+          "hash": "71387ee2fa7f0aba3c9fcd9d974ae3ae96c7b6c5",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73131$D7CC6DC7-3FF9-460D-99B4-C308D99E614A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73131$42C9EAFD-9BBE-4B41-B369-D5DFC4A2F192",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "491a281d4a97b007a8f7eda5336cc0a21e0da813",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73131$75E0F463-A7DF-4C62-A19D-FC27AD632744",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5171151"
+          },
+          "hash": "1eba7ee952fbbc8054604ce4f7b11317e790b54f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73131$1479416E-BD31-4D22-B3E8-E11BE6F7E7B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001412420076"
+          },
+          "hash": "857deaa8755f484f3de187493094e27c043ba5c4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73131$27F5595D-67F2-4CB9-862E-B789A0031F80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005953845689"
+          },
+          "hash": "a6ce03b22fc2932c2d5f290022771255b5ed0ceb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73131$D458480D-0338-4EC4-9804-626D56B5E35D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cornelia Africana Major Arms.svg"
+          },
+          "hash": "97d99abdd46af6abb013db3c113fec67e4401e04",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filla d'Escipió l'Africà"
+    },
+    "da": {
+      "language": "da",
+      "value": "Romersk adelskvinde"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "la mayor de las hijas de Escipión el Africano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, fille de Scipion l'Africain et d'Aemilia Tertia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymska patrycjuszka, siostra Kornelii Młodszej, matki Grakchów"
+    }
+  },
+  "id": "Q73131",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Корнелия Африканска Старша"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cornèlia Africana la Major"
+    },
+    "da": {
+      "language": "da",
+      "value": "Cornelia Africana Major"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cornelia Africana Major"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κορνηλία Αφρικανή η πρεσβύτερη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cornelia Africana Major"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cornelia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cornelia Africana Major"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cornelia Africana Major"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cornelia maior"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cornelia Africana Major"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kornelia Afrykańska Starsza"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Cornelia Africana Major"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Корнелія Африкана Старша"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞姆普罗妮娅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "塞姆普罗妮娅"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "塞姆普羅妮婭"
+    }
+  },
+  "lastrevid": 17485814,
+  "modified": "2025-09-16T18:40:11Z",
+  "ns": 860,
+  "pageid": 87962,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73131",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73131"
+    }
+  },
+  "title": "Item:Q73131",
+  "type": "item"
+}

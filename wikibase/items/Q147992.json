@@ -1,0 +1,281 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gisela von Saarbrücken"
+      },
+      {
+        "language": "en",
+        "value": "Gisela von Saarbrucken"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147992$A02ADC98-4728-4F2F-A6A0-0F1E5939643D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00164598"
+          },
+          "hash": "7b1c7b7f2bc8688d79a0d13cfb6f07269623e081",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147992$0750D3D9-F7DA-4ABD-B450-A06E8C44A2E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144002",
+              "numeric-id": 144002
+            }
+          },
+          "hash": "8a9eddec05951833ab20dba4b7cbd9056c5981d0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147992$A57C6DE0-CB0A-40ED-9A9E-622959559F59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Saarbrücken-15"
+          },
+          "hash": "08002237f90f4e2a8fa74937cd42d3ee7331b80d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147992$774F6E04-68B1-458E-9D30-A1A00223B859",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147992$A7106AE7-C7BD-4769-8C44-67779F512E84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147992$6D83AFFF-73F6-443F-B2E6-24BACAF72C1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147990",
+              "numeric-id": 147990
+            }
+          },
+          "hash": "2b3ad2c9fc0c2824d058f419351830cb3cb89b80",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147992$453C3C7F-9700-4BF4-AC77-7C078ECE4483",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127192",
+              "numeric-id": 127192
+            }
+          },
+          "hash": "4486ef449ed066af59cf919dda01e0a0c4047c50",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147992$7B8C5CD1-A8ED-4744-9FBE-17E2D83D1C09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147992$20408787-B23E-45B4-8937-DC964067A145",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1265-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98f2c82ac9ebbf72b0835403deef2ae4e8120e28",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147992$410CDA6D-36B0-40A5-AE4D-607865D29D4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116004942"
+          },
+          "hash": "d9866e2a650ccfd5df78c2354c8cd51a071e0563",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147992$8FA5F857-39BC-4E47-B03E-6DD43E632A55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gisela;n=von saarbrucken"
+          },
+          "hash": "fda9f28731484d338791d405452226a806a38295",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147992$86B4F065-CEFC-4B1C-ADA6-79A915B0EB39",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gisela von Saarbrücken Arms.svg"
+          },
+          "hash": "bae4e1436f34e5e7df3f97bb4f309735bdc9cfe3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1265"
+    }
+  },
+  "id": "Q147992",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Gisela Saarbrückenská"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gisela von Saarbrücken"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gisela von Saarbrücken"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gisela van Saarbrücken"
+    }
+  },
+  "lastrevid": 17572644,
+  "modified": "2025-09-17T15:28:53Z",
+  "ns": 860,
+  "pageid": 176086,
+  "sitelinks": {},
+  "title": "Item:Q147992",
+  "type": "item"
+}

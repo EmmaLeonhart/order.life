@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fáelán mac Forbasaig"
+      },
+      {
+        "language": "en",
+        "value": "Faelan mac Forbasaig"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q147751$E367D202-803A-45E5-9BE4-79D3D2613E81",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mac_Forbasaig-1"
+          },
+          "hash": "eaab7aead818c77272a58bee705370f5a9083283",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147751$E06F46A0-D433-44F2-B648-71EE66C2B4E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147751$C43A2602-D100-465C-93D8-3E7282308466",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147751$F9A5EA71-33AF-418A-A681-C92EE456C9F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Fáelán_Mac_Forbasaig_(1)"
+          },
+          "hash": "91bac6e4da540d551ccd166efd4ebbd3590a0b47",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147751$C0CD2393-CFB5-4CCA-99D4-48F96C8E5E59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143910",
+              "numeric-id": 143910
+            }
+          },
+          "hash": "085ef5a532cbf87b1e3be5f7fe687199a1bdbd1b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147751$B0BED7AE-5CE1-4893-907D-4B490C9FE8CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147751$0FD1E5AA-9E3A-469F-9DAE-922970095E67",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0786-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b94e12dc1d07aaf4922c0af2a3de1619c2dc0ac",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147751$E69868BB-D967-4CE9-8574-E761053D33F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5511386"
+          },
+          "hash": "88b495279c4e4f20594629e2ea8ff2931ce264cb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147751$AF360664-C718-4832-9E2F-8334598F8449",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fáelán mac Forbasaig Arms.svg"
+          },
+          "hash": "31242f80c4df3dba22a4bf3a1e98052d7190649e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Osraige"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí na nOsraí"
+    }
+  },
+  "id": "Q147751",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fáelán mac Forbasaig"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fáelán mac Forbasaig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fáelán mac Forbasaig"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fáelán mac Forbasaig"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fáelán mac Forbasaig"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fáelán mac Forbasaig"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fáelán mac Forbasaig"
+    }
+  },
+  "lastrevid": 17572412,
+  "modified": "2025-09-17T15:25:46Z",
+  "ns": 860,
+  "pageid": 175967,
+  "sitelinks": {},
+  "title": "Item:Q147751",
+  "type": "item"
+}

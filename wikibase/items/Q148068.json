@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Servilius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q148068$EB9F2497-94E7-4438-A414-BC39C01064E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144062",
+              "numeric-id": 144062
+            }
+          },
+          "hash": "e33324fce70c363763ed3a0e9eed71725b1413cd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148068$B233AD11-21AF-479D-A308-8C174B742D08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148068$2CA9C5C2-C5BC-437E-A945-5E5F21622844",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148068$A9BC3C0B-00AD-4AD9-926C-43F88D118F80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151494",
+              "numeric-id": 151494
+            }
+          },
+          "hash": "d39ef99958222bccb0dbeac80e6728a7f7282886",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148068$B2417F60-C1E3-4EE5-8D63-701723468539",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148068$1281E78A-5E13-4D4B-B757-85217E839BA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q31193394"
+          },
+          "hash": "e0cd43fb33fc1e056498fd2e046376adab4ccba3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148068$E9C048BD-1CCF-48C4-A81E-5BC593CF3590",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Servilius Arms.svg"
+          },
+          "hash": "a3e803b5be7c75525e4712f0f97199ebf582ae00",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman military tribune in 181 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tribun militaire et pontife romain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider"
+    }
+  },
+  "id": "Q148068",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Marcus Servilius Geminus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Servilius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Servilius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Servilio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Servilius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Servilio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Servilius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Servilius"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Servilius Geminus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Сервілій Гемін"
+    }
+  },
+  "lastrevid": 17572774,
+  "modified": "2025-09-17T15:30:39Z",
+  "ns": 860,
+  "pageid": 176157,
+  "sitelinks": {},
+  "title": "Item:Q148068",
+  "type": "item"
+}

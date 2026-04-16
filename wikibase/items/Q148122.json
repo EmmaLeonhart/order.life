@@ -1,0 +1,512 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Tullius Cicero"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148122$72F16EEC-C1C0-4CA7-BD3F-9ECE6A6717D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "412185"
+          },
+          "hash": "c1e39a042a09140991a8c45cd9087fe1ac68d07e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148122$C474A041-E125-4A6D-8F2F-37C591F151E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148123",
+              "numeric-id": 148123
+            }
+          },
+          "hash": "6dce72501e3b7e406f8aa22e4dc957be7f1e48ba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148122$FFB73049-03F8-4214-8313-E0E64018C12B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148122$631A98DD-981A-4A8F-AFB7-1C4EBDA94C9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148122$C4C7F14D-C146-458D-AA69-651CF1C10F0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144140",
+              "numeric-id": 144140
+            }
+          },
+          "hash": "27668175da965acdd69d22b6c54cf21ecac3f44c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148122$D768D424-EF32-4C55-80DE-25D6B615FC06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151371",
+              "numeric-id": 151371
+            }
+          },
+          "hash": "2708e9b80a142bbb18ec967ee6b65960761d02b1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148122$0413286A-C171-4A21-B4E8-39E40E28F861",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151372",
+              "numeric-id": 151372
+            }
+          },
+          "hash": "0d9b8c4334ac1d62a8ca81683dfbafc14c2a904c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148122$265A3C6A-0F57-4265-9F40-C33A32697F46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148122$FCC3D782-61D7-4A16-A414-55FBA1845C25",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0102-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d6f7db0a740beee75bf19146bb7954f473bc6ebd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148122$0E732C39-8F97-4A37-83DB-96BB7429D034",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0043-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fecb8ad9ad1a27d4044497a5512d95c0951a93e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148122$6F614377-9D19-4B97-BE5E-78F98E850F6D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q316054"
+          },
+          "hash": "bd48484bfd9f9416607fe5312bd8985db903f1e7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148122$6A77AF6E-C256-42A9-AEB2-753EA684A356",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Tullius Cicero Arms.svg"
+          },
+          "hash": "01ef4c38045a9b4bd24bcbee61248c17178d0cff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "římský politik a vojevůdce"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brawd Marcus Tullius Cicero"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "brother of Marcus Tullius Cicero"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Romia polikisto; frato de la fama oratoro Cicerono"
+    },
+    "es": {
+      "language": "es",
+      "value": "hermano de Cicerón"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalainen sotilas ja Marcus Tullius Ciceron veli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, frère cadet de Cicéron"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחיו הצעיר של  מרקוס טוליוס קיקרו"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Romeinse Republiek (102v Chr-43v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "dowódca legionu rzymskiego"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "político romano, irmão de Marco Túlio Cícero"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Фәлсәфәче Цицеронның бертуганы"
+    }
+  },
+  "id": "Q148122",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كوينتوس توليوس سيسيرو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Quintu Tuliu Cicerón"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Тулий Цицерон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Tuŀli Ciceró"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Quintus Tullius Cicero"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Quintus Tullius Cicero"
+    },
+    "da": {
+      "language": "da",
+      "value": "Quintus Tullius Cicero"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Tullius Cicero"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Τύλλιος Κικέρων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Tullius Cicero"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kvinto Tulio Cicerono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Tulio Cicerón"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کوینتوس تولیوس سیسرو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Quintus Tullius Cicero"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Tullius Cicero"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Quintus Tullius Cicero"
+    },
+    "he": {
+      "language": "he",
+      "value": "קווינטוס טוליוס קיקרו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quintus Tullius Cicero"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Tullio Cicerone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・トゥッリウス・キケロ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "퀸투스 툴리우스 키케로"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Tullius Cicero"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Quintus Tullius Cicero"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Quintus Tullius Cicero"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Tullius Cicero"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Quintus Tullius Cicero"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwintus Tulliusz Cycero"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Túlio Cícero"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Túlio Cícero"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Туллий Цицерон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Tulije Ciceron"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Tullius Cicero"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Quintus Tullius Cicero"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Quintus Tullius Cicero"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Quintus Tullius Cicero"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Квинт Туллий Цицерон"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Цицерон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昆图斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "昆图斯·图里乌斯·西塞罗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "昆图斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "昆圖斯"
+    }
+  },
+  "lastrevid": 17572862,
+  "modified": "2025-09-17T15:31:54Z",
+  "ns": 860,
+  "pageid": 176285,
+  "sitelinks": {},
+  "title": "Item:Q148122",
+  "type": "item"
+}

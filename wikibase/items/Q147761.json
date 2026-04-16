@@ -1,0 +1,193 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Murchad, King of Ailech"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147761$196336A7-C68F-42D4-9B5E-533D0934A24F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147761$6854273E-93D0-4453-AE9D-81030A89EF79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147761$D137C26C-0883-4D9A-9691-796E1FE0508F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p54615.htm#i546150"
+          },
+          "hash": "244448bbd46172f67e145426dcf07040e9344e2e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147761$800676FE-ECD4-4A6C-B292-4B0C29C49C04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143913",
+              "numeric-id": 143913
+            }
+          },
+          "hash": "d741211cf646e7dc0501bad6dc2f64d14bb28d85",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147761$1F83DB92-C1C8-4445-8B7A-5E8291142297",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147761$42826BEE-A30A-4AFC-BFBC-5CF199873FCC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0887-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05642be23937be14a7454520e0efe13d9d37799d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147761$74F2825A-9D4B-48E9-9A6C-6B13417CA5E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76121940"
+          },
+          "hash": "2dbe3f0d4eca4c83da6a121ef88054c88a9031c9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147761$3A3CBC07-4CAA-4B63-9A96-CF2C4421D9BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Murchad, King of Ailech Arms.svg"
+          },
+          "hash": "002a937add1ff049cdc85797fb48bbb211a7fc09",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=546150"
+    }
+  },
+  "id": "Q147761",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Murchad, King of Ailech"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Murchad, King of Ailech"
+    }
+  },
+  "lastrevid": 17572422,
+  "modified": "2025-09-17T15:25:54Z",
+  "ns": 860,
+  "pageid": 175972,
+  "sitelinks": {},
+  "title": "Item:Q147761",
+  "type": "item"
+}

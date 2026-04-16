@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elsbeth|Elizabeth ferch Thomas ap Watkin Vaughan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150767$E3E72E36-1107-445A-BBC7-758D665FA168",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00636984"
+          },
+          "hash": "cb10e3a6a4dca0a34e137c5139cba0437aeb11d1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150767$53EA2992-4B71-4231-9089-116060E02BA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146124",
+              "numeric-id": 146124
+            }
+          },
+          "hash": "2031d0f2751abbb2ef272194e200f1d66b716fbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150767$1A6E58CC-4F4E-4541-9E0F-A49ACAA54F5E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vaughan-1244"
+          },
+          "hash": "3023ad71b2196bf4f1c073e25423660fc77e9b2b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150767$3868D987-60DA-4599-91A4-3C500C566ED3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150767$4079A99F-659E-49B3-B66E-94F61944FDF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150767$57E1B0B9-262C-44E8-83AD-29B7499F265D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142934",
+              "numeric-id": 142934
+            }
+          },
+          "hash": "b6d2d2f03a162228093dbc1521f56c21a21845d8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150767$A5ADF48D-A0C6-4080-BDE5-CC6B9C3AFB36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150410",
+              "numeric-id": 150410
+            }
+          },
+          "hash": "920fc3a6edee9e8de1e890da1c028e1fbfcba860",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150767$34045995-74C5-4924-80E1-834CDDE58F94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150767$D10550FD-87AE-4211-9DCB-017B80482BC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1470-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "403d24a45d3f485ed75e07a53736ad697289834a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150767$796F3404-4177-46AB-8812-A1779E28838B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99066584"
+          },
+          "hash": "1a3fb91143beb67b84b618c19872f2e8cd317b46",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150767$08660361-446C-4AA1-9580-6837B580DF77",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elsbeth|Elizabeth ferch Thomas ap Watkin Vaughan Arms.svg"
+          },
+          "hash": "016aac8cfd391a029e8710d169eade59b54694d0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1470"
+    }
+  },
+  "id": "Q150767",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elsbeth|Elizabeth ferch Thomas ap Watkin Vaughan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elsbeth|Elizabeth ferch Thomas ap Watkin Vaughan"
+    }
+  },
+  "lastrevid": 17578016,
+  "modified": "2025-09-17T16:42:42Z",
+  "ns": 860,
+  "pageid": 179221,
+  "sitelinks": {},
+  "title": "Item:Q150767",
+  "type": "item"
+}

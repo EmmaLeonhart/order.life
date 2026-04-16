@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Vibius Rufinus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q151542$9574582F-1AED-44F8-8E97-92E60BBB5890",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151542$C90BD15F-BE1F-41BE-95F3-25A3B41B9125",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151542$CA760038-608F-450E-87E2-0A81B05801F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151541",
+              "numeric-id": 151541
+            }
+          },
+          "hash": "a5a5679075926811999341a517f40ae775d25dee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151542$5C6E67E4-1B0F-4CD2-B79C-FDCAA93E2EAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151405",
+              "numeric-id": 151405
+            }
+          },
+          "hash": "47dee6bd0f605532e91bc7a3684faf288ce2d539",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151542$4DBB86C8-277C-4AE5-B1F8-D19393FF2FEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151542$9994BC82-E947-4D36-9EEF-78C255A93249",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151542$23D56204-0886-456D-8AED-CD374EDC8EFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1216102"
+          },
+          "hash": "2f404e81610b80e4c3181fa6126a3fd9eb8cc1f3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151542$97978181-FD6F-466F-836F-FD222DD64360",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Vibius Rufinus Arms.svg"
+          },
+          "hash": "898e50d430411a4a628ce7cbca5920e16a718b10",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "early 1st century AD Roman senator, consul and governor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Senador romano y cónsul sufecto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain vers la fin du Ier s."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q151542",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Вибий Руфин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Vibi Rufí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Vibius Rufinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Vibius Rufinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Vibio Rufino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Vibius Rufinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Vibio Rufino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Vibius Rufinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gai Vibi Rufí"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Víbio Rufino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Víbio Rufino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Вибий Руфин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Vibius Rufinus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Вібій Руфін"
+    }
+  },
+  "lastrevid": 17579490,
+  "modified": "2025-09-17T17:03:06Z",
+  "ns": 860,
+  "pageid": 179996,
+  "sitelinks": {},
+  "title": "Item:Q151542",
+  "type": "item"
+}

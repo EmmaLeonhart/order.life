@@ -1,0 +1,440 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Birger Filipsson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q147719$CA01CBA1-FBD2-4072-8852-E1F80796DDFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Filipsson-7"
+          },
+          "hash": "8c02d4204498444be68b65d8d7c404d1607e2574",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3217": [
+      {
+        "id": "Q147719$96048063-58AF-40FC-B47D-72B6C72FC866",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "18894"
+          },
+          "hash": "21b0ebbe558876bc5bdb5856d75cbcd69e113206",
+          "property": "P3217",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147719$FF43B500-5473-436F-B59F-27F5BDD062D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147719$0A55769A-A6CC-4E78-9DE0-ECCC2466B700",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147719$1DA712D0-3700-4120-B795-C20BC5485302",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147717",
+              "numeric-id": 147717
+            }
+          },
+          "hash": "1e26f1e32d176bb8b9316a312ee3b93b96089f1c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147719$F4E9F4BA-07BE-4998-9F2F-ABF1E78EADC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143889",
+              "numeric-id": 143889
+            }
+          },
+          "hash": "edf564afa53fb79d65c0b8203da74e4df055e720",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147719$CD762973-744D-4005-B4E8-CFCDBB2F5BDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147719$79CABF44-EEF5-44AA-B900-511F391A26C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147719$31298CC7-2074-478A-98A0-6CEB4A0BEC48",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1280-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "392f9e34ebe96f5973d606bf8ffb66c06fab2805",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147719$C835817B-E394-49B9-8825-016E4A4193C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5576547"
+          },
+          "hash": "b1ad8386dc77f663879dad310057399c5aeb8721",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q147719$5BD31636-ECB5-4390-ACBB-2BDFDCBD7DCD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005436735213"
+          },
+          "hash": "ba89a280cb10a5dec8afd5982c316924cabd1281",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147719$0E270FF7-5CCA-4D68-ADCD-95EB47E1A44C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Birger Filipsson Arms.svg"
+          },
+          "hash": "d841c5ebd615d47fd131b564367d16b9728c55a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي سويدي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu suecu (1250–1280)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সুয়েডীয় রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític suec"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "švédský politik"
+    },
+    "da": {
+      "language": "da",
+      "value": "svensk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "schwedischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Swedish politician"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Swedish politician"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Swedish politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político sueco"
+    },
+    "et": {
+      "language": "et",
+      "value": "Rootsi poliitik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari suediarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار سوئدی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique suédois"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir Sualannach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político sueco"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי שוודי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "švedski političar"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico svedese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スウェーデンの政治家"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스웨덴 정치인"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "svensk politikar"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko suiso"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político sueco"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician suedez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "шведский политик"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan suedez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "storman från Östergötland"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "шведський політик"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "chính trị gia người Thụy Điển"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瑞典政治人物"
+    }
+  },
+  "id": "Q147719",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Birger Filipsson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Birger Filipsson"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Birger Filipsson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Birger Filipsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Birger Filipsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Birger Filipsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Birger Filipsson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Birger Filipsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Birger Filipsson"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Birger Filipsson (Aspenäsätten)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Birger Filipsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Birger Filipsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Birger Filipsson"
+    }
+  },
+  "lastrevid": 17572380,
+  "modified": "2025-09-17T15:25:21Z",
+  "ns": 860,
+  "pageid": 175951,
+  "sitelinks": {},
+  "title": "Item:Q147719",
+  "type": "item"
+}

@@ -1,0 +1,485 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Judah Maccabee"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151293$A9AE603F-0C39-496A-ABC8-2CC1F0E51D10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "597641"
+          },
+          "hash": "61de18f9850789c406a1ba122b2f67053fe2bdb6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151293$EDAF4D34-7158-404D-B766-8840CD47EA92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151293$1BDD6786-7255-4C8C-BD2F-9D8EA437D3EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151293$803EAB05-E94F-4D98-B75A-0ACA54FBB31B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78836",
+              "numeric-id": 78836
+            }
+          },
+          "hash": "cf614adebe31a5325d4c9c02f2dac172f5242b05",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151293$16891DE0-A7E1-40D2-8F82-07DCE72BE2DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151293$C5690357-3D25-49D5-BF8A-4A6DEC4CAF60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151293$486600F4-02F0-4F53-828C-62E9D60E0F53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "535ccc0701e0738a953e70f2adc3ade105ff0676",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151293$8799A5D6-A15A-44D9-8D5C-24EAA35EB981",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111559"
+          },
+          "hash": "ca7878eb542af162fd5d1a49c936c12fadc244da",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151293$80FEFC02-92A5-4BAA-B98B-A470084E96C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Judah Maccabee Arms.svg"
+          },
+          "hash": "8697d12c1c0d37c5e266a23e5862d25523031cd1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "židovský revolucionář"
+    },
+    "de": {
+      "language": "de",
+      "value": "jüdischer Freiheitskämpfer"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century BCE Jewish priest and leader of Maccabean Revolt against the Seleucids"
+    },
+    "es": {
+      "language": "es",
+      "value": "líder de la Revuelta de los Macabeos"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "juutalainen kapinajohtaja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dirigeant juif du IIe siècle av. J.-C., à la tête des forces juives pendant la révolte des Maccabées"
+    },
+    "he": {
+      "language": "he",
+      "value": "מנהיג מרד החשמונאים"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Mattatia, eroe dell'ebraismo"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마카베오 반란의 지도자"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "cohen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "herói israelense"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "preot evreu și conducător în Revolta Macabeilor împotriva Imperiului Seleucid"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yahudi devrimci"
+    }
+  },
+  "id": "Q151293",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يهوذا المكابي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يهوذا المكابى"
+    },
+    "az": {
+      "language": "az",
+      "value": "İuda Makkavey"
+    },
+    "be": {
+      "language": "be",
+      "value": "Іуда Макавей"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Юда Макавей"
+    },
+    "br": {
+      "language": "br",
+      "value": "Youdas Makabai"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Judes Macabeu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Juda Makabejský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Jiwdas Maccabeus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Judas Makkabæeren"
+    },
+    "de": {
+      "language": "de",
+      "value": "Judas Makkabäus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιούδας Μακκαβαίος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Judah Maccabee"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jehuda Makabeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Judas Macabeo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Judas Makabearra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یهودای مکابی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Juudas Makkabi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Judas Maccabée"
+    },
+    "he": {
+      "language": "he",
+      "value": "יהודה המכבי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Júdás Makkabeus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հուդա Մակավեյ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yudas Makabe"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giuda Maccabeo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユダ・マカバイ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "유다 마카베오"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Маккавей иуда"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iudas Maccabeus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Judas Makabiejus"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Jūda Makabejs"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Jodasy Makabeo"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Judas Makkabeus"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Judas Makkabäus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Judas Makkabeüs"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Judas Makkabeus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Juda Machabeusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Judas Macabeu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Judas Macabeu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iuda Macabeul"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иуда Маккавей"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Juda Makabejac"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Judah Maccabee"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јуда Макавеј"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Judas Mackabaios"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Yuda Mmakabayo"
+    },
+    "th": {
+      "language": "th",
+      "value": "ยูดาสมัคคาบี"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yehuda Makkabi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юда Маккавей"
+    },
+    "war": {
+      "language": "war",
+      "value": "Judas Maccabeus"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "יהודה המכבי"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "猶大·馬加比"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "犹大·马加比"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "犹大·马加比"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "猶大·馬加比"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "猶大·馬加比"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "犹大·马加比"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "猶大·馬加比"
+    }
+  },
+  "lastrevid": 17579052,
+  "modified": "2025-09-17T16:57:17Z",
+  "ns": 860,
+  "pageid": 179747,
+  "sitelinks": {},
+  "title": "Item:Q151293",
+  "type": "item"
+}

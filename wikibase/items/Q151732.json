@@ -1,0 +1,465 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Frontinus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151732$466D1632-5D12-436B-A4CB-532648FCF8CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151781",
+              "numeric-id": 151781
+            }
+          },
+          "hash": "bc13109e8ba1b34dd6d74513b3374b703ad87582",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151732$03B7D16B-4FC6-482B-B9FC-C8ACB4FC3081",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151732$404B00EC-AB7C-477C-8442-13ECA46665A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151732$EB2303F8-B4C3-4629-8546-87AABC72259A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151732$5AD07D89-8CDD-4568-9709-FD7EE06D7899",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0030-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c25e453ebe88b68d4c3359f3f661dcd1e23005eb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151732$7762945D-4D14-4873-9E46-FB47EA4CD6F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0103-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "86b0e0324e0ba521aadbc18ad391a3a642b0c294",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151732$EB8AFDD6-DC0B-4141-A0A6-5CE3479CB4D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q297377"
+          },
+          "hash": "f4e7bfde21dc114d04825c7ca89d8b97a8b81991",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q151732$3C3C5069-BB36-472D-BB5B-0B4833997CC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:53701"
+          },
+          "hash": "a09af54086212f0ed21bb0a55b163bffdb970693",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151732$7B166624-0775-4D0C-8D3F-ACA9337CBBF9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Frontinus Arms.svg"
+          },
+          "hash": "c49a852a11439c16bb9432621ca043099c02c4ac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "римски инженер, военен и политик"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític, militar i escriptor romà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský spisovatel"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "peiriannydd sifil Rhufeinig, awdur, milwr a seneddwr (30-103)"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Senator, Soldat und Schriftsteller"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman civil engineer, author, soldier and senator (c. 30 – 103 AD)"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Roman senator"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Roman senator"
+    },
+    "es": {
+      "language": "es",
+      "value": "ingeniero civil, autor, soldado y senador romano"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalainen sotilas, virkamies ja insinööri"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique et écrivain romain"
+    },
+    "he": {
+      "language": "he",
+      "value": "מהנדס, חייל ומדינאי רומי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori római író"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico, funzionario e scrittore romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (30-103)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski żołnierz, polityk, inżynier i pisarz"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримский политический деятель"
+    }
+  },
+  "id": "Q151732",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فرونتينوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فرونتينوس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Sestu Julio Frontino"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Секст Юлий Фронтин"
+    },
+    "br": {
+      "language": "br",
+      "value": "Sextus Julius Frontinus"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Sextus Julius Frontinus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sext Juli Frontí"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sextus Iulius Frontinus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Sextus Julius Frontinus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sextus Julius Frontinus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sextus Iulius Frontinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σ. Ι. Φροντίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Frontinus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Frontinus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Frontinus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Frontinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sexto Julio Frontino"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Frontino"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فرونتینوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sextus Julius Frontinus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Frontin"
+    },
+    "he": {
+      "language": "he",
+      "value": "סקסטוס יוליוס פרונטינוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Frontinus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Frontinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sesto Giulio Frontino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セクストゥス・ユリウス・フロンティヌス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프론티누스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sextus Iulius Frontinus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sextus Julius Frontinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sextus Iulius Frontinus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Sextus Julius Frontinus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sekstus Juliusz Frontyn"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sexto Júlio Frontino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sexto Júlio Frontino"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Frontinus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Секст Юлий Фронтин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sekst Julije Frontin"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Sextus Iulius Frontinus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sextus Iulius Frontinus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sekstus Julius Frontinus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Секст Јулије Фронтин"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Секст Јулије Фронтин"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Sekst Julije Frontin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sextus Julius Frontinus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Frontinus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Секст Юлій Фронтін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "弗朗提努斯"
+    }
+  },
+  "lastrevid": 17579816,
+  "modified": "2025-09-17T17:07:26Z",
+  "ns": 860,
+  "pageid": 180186,
+  "sitelinks": {},
+  "title": "Item:Q151732",
+  "type": "item"
+}

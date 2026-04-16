@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice de Courcy"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q147411$B3DE58D3-9D05-499B-AA9A-54CC8B3C8E44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148931",
+              "numeric-id": 148931
+            }
+          },
+          "hash": "1fead3bae878e006bc9112d117c87721faae3ad2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147411$D532733E-263D-4ABA-BC56-C89D904AF52C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Courcy-16"
+          },
+          "hash": "bcae236312efac625906add79073ae077971952e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147411$5F9EA456-8B94-4F1F-A928-5FF1199FF280",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147411$5D124A69-8E34-4BC8-8A81-9D4CA1DFBC0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147411$DBCC1CBC-6EEB-4733-8C4A-C7BA9F43E51E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p90.htm#i895|p931.htm#i9303"
+          },
+          "hash": "b1e3d3a579dad9586a5ac021de3347e4b6e2c074",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147411$27B1B6B0-7A81-4B33-89D1-0C4E4D2C08D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147410",
+              "numeric-id": 147410
+            }
+          },
+          "hash": "46537739f5a977c84b114275e5547fdbedf05818",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147411$D34E4300-40D7-4D58-9F6E-1356C16416B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143800",
+              "numeric-id": 143800
+            }
+          },
+          "hash": "52bf0dd11bedd1e27a9f2afffdfe741dfd7918a6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147411$3076F85A-01EA-4215-AFC1-3FC53398C354",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147411$5B0EDD10-C96C-4E0D-AD4B-29250EDE353A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1218-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb1caf2c164b38e9f468fb80490df2be9de48ffe",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147411$B00BB049-0981-4002-B26D-D6B63CF6D0B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75238241"
+          },
+          "hash": "bd5487ac30301f1dfa6aa7d95c402242737a46fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q147411$5AD2A4B9-31FC-4028-9DA5-5D26F0D18A79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003210397426"
+          },
+          "hash": "a673bc062def9cc95870f85b1ac21e587b0cbadf",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147411$F44B7D5B-98BD-4314-B7A1-E3E7FEBCA1CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alice;n=de+courcy;oc=1"
+          },
+          "hash": "06c4e96b0bdbe74c482d61bb6370afd746f2c8b4",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147411$AD4128CA-486F-4DE0-A588-757C83A60507",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice de Courcy Arms.svg"
+          },
+          "hash": "d24ecbfc7124e30b70864b32d4535c61af0d499f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=895"
+    }
+  },
+  "id": "Q147411",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alice de Courcy"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alice de Courcy"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alice de Courcy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Алиса де Курси"
+    }
+  },
+  "lastrevid": 17572110,
+  "modified": "2025-09-17T15:21:29Z",
+  "ns": 860,
+  "pageid": 175796,
+  "sitelinks": {},
+  "title": "Item:Q147411",
+  "type": "item"
+}

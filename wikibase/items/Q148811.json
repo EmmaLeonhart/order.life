@@ -1,0 +1,214 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elizabeth Wake"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q148811$4166A993-B736-4334-9019-FD536DA24E84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148811$303DDF31-C6AA-49B6-8477-BE168075760B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q148811$BC36EF0D-E199-4372-A286-009642CA758C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p60130.htm#i601296"
+          },
+          "hash": "a3b991fa2f46e01179dc673f8f91d71309eede83",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148811$50A24099-F7D4-43A8-A14F-12D6F9A1DAAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144783",
+              "numeric-id": 144783
+            }
+          },
+          "hash": "0af9e3c78daf6c6df6c69c0730302513dc1209fc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148811$59F32D58-F8E3-4F78-B5F9-8FBCBAF41F96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148808",
+              "numeric-id": 148808
+            }
+          },
+          "hash": "ce2b4a2a511e9587ad9bd75376ccabb16708fada",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148811$DBD6BBBE-E4F3-4C82-AE41-14A780B0AD17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148811$4928F652-2B61-4176-8003-473B1CA15E79",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1314-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "10ed6e3fa9726fbb8a47640de9c3543b0472b541",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148811$69B2484A-0E4B-47DA-8784-FCAB3A6EBD53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76203097"
+          },
+          "hash": "83235c0cd322164610f6524db76022301b147941",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148811$61451531-5B7A-4D6B-B204-3D1C9EE52189",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth Wake Arms.svg"
+          },
+          "hash": "3d645f93aa546241779437116776c5fec656625c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=601296"
+    }
+  },
+  "id": "Q148811",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elizabeth Wake"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elizabeth Wake"
+    }
+  },
+  "lastrevid": 17574128,
+  "modified": "2025-09-17T15:49:34Z",
+  "ns": 860,
+  "pageid": 177264,
+  "sitelinks": {},
+  "title": "Item:Q148811",
+  "type": "item"
+}

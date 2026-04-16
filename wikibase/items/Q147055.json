@@ -1,0 +1,239 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Heinrich I, Graf von Lechsgemünd und Frontenhausen"
+      },
+      {
+        "language": "en",
+        "value": "Heinrich I, Graf von Lechsgemund und Frontenhausen"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147055$974F3AC9-4832-4D67-BA13-E623F9C799FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00658950"
+          },
+          "hash": "4e7f7fe0822ec2be1bdf776c900669093717556f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147055$AA25B660-0489-4D17-ACD5-E788448A678B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lechsgemünd-9"
+          },
+          "hash": "41a43ff5d948fd583f788d8f932e2ae9a4e2606a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147055$7A7CDC04-CB35-466F-A77D-28EE41B3C8ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147055$5AE9DF5E-FFE3-475A-86B3-C5A5437F5345",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147055$A63877AA-163C-450D-B3BD-D9CE8540F68D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128215",
+              "numeric-id": 128215
+            }
+          },
+          "hash": "48c7b64a3ea56f47a50fb7c741d8c28c05f36cb1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147055$417ABB29-621C-49FC-A23E-2B69F3B9909E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147055$126E788C-F45D-4A42-983B-9430C8BD389B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147055$18F6DD59-702F-49A5-BCFA-7BA1B0A69F20",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q61140617"
+          },
+          "hash": "df2e9ad5ebb1f933ab00666b3d773448255d562f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147055$14E2E5E9-F8F2-4B8A-A272-D9E2B4533576",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=heinrich;n=von frontenhausen"
+          },
+          "hash": "e0ead67d95968a966635ebfbbe5b9df0d3de220e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147055$ECCC6991-5BF7-430D-A2E0-C13E2CD7B8D1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heinrich I, Graf von Lechsgemünd und Frontenhausen Arms.svg"
+          },
+          "hash": "7131c8e9484b65fdc55fc460063d33cc00cd4644",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Est 1075 - 11 Mar 1142"
+    }
+  },
+  "id": "Q147055",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих I фон Лехсгемюнд"
+    },
+    "en": {
+      "language": "en",
+      "value": "Heinrich I, Graf von Lechsgemünd und Frontenhausen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Heinrich I, Graf von Lechsgemünd und Frontenhausen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Heinrich I, Graf von Lechsgemünd und Frontenhausen"
+    }
+  },
+  "lastrevid": 17571524,
+  "modified": "2025-09-17T15:13:29Z",
+  "ns": 860,
+  "pageid": 175440,
+  "sitelinks": {},
+  "title": "Item:Q147055",
+  "type": "item"
+}

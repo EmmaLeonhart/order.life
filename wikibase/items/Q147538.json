@@ -1,0 +1,570 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isaac I Komnenos"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147538$37D64223-3ED6-46FD-ABD1-77AF900FCF27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "148849|546759"
+          },
+          "hash": "a2c91fbd954b2462b78096370002a7b5559fcd59",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q147538$62FC48D6-A2B7-455F-9142-112BBDBA91A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00703913"
+          },
+          "hash": "84cde8dd5fff3f20582215937da3173b396dd773",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147538$5F956576-879D-4CDE-8B81-EB2A0CA0EDAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Komnenos-8"
+          },
+          "hash": "b942fab3e2fd55a32dd80877033690f341d1816d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147538$4BCEBB15-F8FF-42C4-B78D-61351473CBC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147538$B6D01692-1A0B-4573-8470-30B3E3709BAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147538$75F0ED9A-0041-42D0-A1A6-C07313A6C0AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor_Isaak_(2)"
+          },
+          "hash": "2dd443d5725d9de2ff060ae189fcd5f6f1069ada",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147538$2265A822-BB4D-4582-BD6C-E14376222676",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15023.htm#i150221|p21207.htm#i212063"
+          },
+          "hash": "47b5a03de16acdde58a298367f3a31a7c9b5822e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147538$E2AC58E5-0A2E-4615-B5EC-450D678F27CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147536",
+              "numeric-id": 147536
+            }
+          },
+          "hash": "3c898697999a0630148be1b837f274897a709912",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147538$05D1B28A-D29D-455B-8342-046149AD8D1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147538$AF4349CD-6D7E-482B-9243-2C1C8758A0EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1007-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1cdf23f1d18a71834e3ae6c00ab47059c28295c6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147538$6E0DA5AA-3FD2-4B11-BDE6-E95A0853E889",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a28b8b513b840ad131a41f5a1434d069679875f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147538$3025CA84-FE65-46BC-9AE9-4E20817B3EB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q41643"
+          },
+          "hash": "818586b908f3dcc7474176382ccfcad31fb1b35c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147538$EF3DF70F-4528-4B1B-A3CA-2CD953445871",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isaac I Komnenos Arms.svg"
+          },
+          "hash": "a2016f1bb68ba076ee549c9f6f23192a3e195274",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q147538$A51CA616-0977-46F7-9A2F-8BBEB960DFE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/99ec152d-4885-4deb-a038-fae135c2b938"
+          },
+          "hash": "f83b3dce4b0aa446987154c1e6933744c28c2c00",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски император"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà d'Orient"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "byzantský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Byzanz"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine Emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador bizantino"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bysantin keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur byzantin de 1057 à 1059"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bizánci császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore bizantino (r. 1057-1059)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "東ローマ帝国の皇帝"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "византиски цар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "officier uit Byzantijnse Rijk (1007-1060)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz bizantyjski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "први византијски цар"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بازنطینی شہنشاہ"
+    }
+  },
+  "id": "Q147538",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Isak I Komnenos"
+    },
+    "an": {
+      "language": "an",
+      "value": "Isac I Comneno"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "إسحاق الأول كومنين"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اسحاق الاول كومنين"
+    },
+    "az": {
+      "language": "az",
+      "value": "I İsaak Komnenos"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی ایزاک"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ісаак I Камнін"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ісак I Камнін"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Исак I Комнин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Isaac I Comnè"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Izák I. Komnenos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Isak I Komnenos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Isaak I."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Isaakios I"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ισαάκιος Α΄ Κομνηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Isaac I Komnenos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Isaac I Comneno"
+    },
+    "et": {
+      "language": "et",
+      "value": "Isaak I Komnenos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Isaak I.a Komneno"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ایزاک یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Isaak I Komnenos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Isaac Ier"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Isaac I Comneno"
+    },
+    "he": {
+      "language": "he",
+      "value": "איסאאקיוס הראשון קומננוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Izak I. Komnen"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Iszaakiosz bizánci császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Isaakius I Komnenos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Isacco I di Bisanzio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イサキオス1世コムネノス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ისააკ I კომნენოსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이사키오스 1세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Isaacius I Comnenus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Izaokas I Komninas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Исак I Комнин"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Isaac I Komnenos"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Isak I Komnenos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Isaäk I Komnenos"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Isak I Komnenos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Izaak I Komnen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Isaque I Comneno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Isaque I Comneno"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Isaac I Comnenul"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Исаак I Комнин"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Isaac I Komnenos"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Isak I Komnin"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Izák I."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Izak I. Komnen"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Исак I Комнин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Isak I Komnenos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. İsaakios Komnenos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ісаак I Комнін"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آئزک اول کومنینوس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Isaakios I Komnenos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊萨克一世"
+    }
+  },
+  "lastrevid": 17572206,
+  "modified": "2025-09-17T15:22:52Z",
+  "ns": 860,
+  "pageid": 175862,
+  "sitelinks": {},
+  "title": "Item:Q147538",
+  "type": "item"
+}

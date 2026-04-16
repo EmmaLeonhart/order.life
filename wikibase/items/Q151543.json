@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Petronius Turpilianus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151543$62E85213-BE10-4E1D-8B3D-82FAE26459FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151544",
+              "numeric-id": 151544
+            }
+          },
+          "hash": "72f5aaee5f079081197e91c7801b90dd7fd3f66d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151543$45282F03-3802-41E4-9439-46677A364EEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151408",
+              "numeric-id": 151408
+            }
+          },
+          "hash": "7cb966852f4e1143eed82139850acd4367eb67c2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151543$8CB5163B-8D2D-42C7-9A10-1E339507BF52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151543$453A7B7D-9376-4B0C-A400-4CA5EC1220D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151543$F66746CA-DF35-477E-9DFE-1F31BEB87E30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151642",
+              "numeric-id": 151642
+            }
+          },
+          "hash": "74f094b85106f6cfb6bf295eccdf45490ae39e4c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151543$AE36B9E3-5EC0-47FF-AFFB-C3783D406493",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151543$7EECDDF0-F91A-4B1D-88C1-032CCDA03A99",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151543$B8957792-18DA-4F13-8BE6-EB4368702DB8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q349580"
+          },
+          "hash": "2915e1664f5e5c533f2b51cd9df9ea759b2b9417",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151543$20FEA1C9-2590-465B-8B18-10AFBC3AE912",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Petronius Turpilianus Arms.svg"
+          },
+          "hash": "e6ab64c7816981a96662c3745e8a67268ab1583e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "italiensk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Münzmeister"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician and moneyer"
+    },
+    "es": {
+      "language": "es",
+      "value": "triunviro de la moneda"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار ایتالیایی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "italialainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "triumvir monétaire sous Auguste"
+    },
+    "it": {
+      "language": "it",
+      "value": "magistrato monetario romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "italiensk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Romeins politicus en muntmeester"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "italiensk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker och myntmästare"
+    }
+  },
+  "id": "Q151543",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Petroni Turpilià"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publio Petronio Turpiliano"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Petronio Turpiliano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Petroni Turpilià"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Petronio Turpiliano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・ペトロニウス・トゥルピリアヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Publio Petronio Turpiliano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Publio Petronio Turpiliano"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publio Petronio Turpiliano"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Publius Petronius Turpilianus"
+    }
+  },
+  "lastrevid": 17579492,
+  "modified": "2025-09-17T17:03:08Z",
+  "ns": 860,
+  "pageid": 179997,
+  "sitelinks": {},
+  "title": "Item:Q151543",
+  "type": "item"
+}

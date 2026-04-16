@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Arderne, of Aldford & Alvanley"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149645$E855BF2D-1E1F-4A64-AB7E-5F06B7B56EDA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00718017"
+          },
+          "hash": "e03c83a187e8355ca5ef87d1435dc1fbdf998700",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149645$8E607D6E-ED68-43B6-B376-4AD0F3A85F96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Arderne-8"
+          },
+          "hash": "599340f74244aa86c5185e8a7c10bd177a409758",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149645$A55ED4B0-96A3-4C67-B38F-B7C0790D45E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149645$634B6666-5509-4D10-ADDB-9C598348DEE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149645$CD2C92F3-EDB2-41C4-B8E4-D0E3742EEF55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145292",
+              "numeric-id": 145292
+            }
+          },
+          "hash": "23abd01518263aac5c3a3a8c77bc28d6115cb7c9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149645$6D0236C6-3411-4651-B7DD-D2E18696170E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149645$0599B53D-073B-4000-8C1C-1178D6DB3D81",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1266-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aea95ff93b5242e20e91ce6ce1d678beda784e07",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149645$DF9E0B03-BF53-40B8-B6BE-18B945A5F8D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1308-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77ac133aee9f44383d720706cb6201418bb574e6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149645$AE17B368-12BD-47D9-B3D3-0F7F029A4D7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99156163"
+          },
+          "hash": "53288a90862cf91eac064698eaec3a8b19642dc5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149645$2C04614E-736C-41FD-851A-1FD6BAF14D9D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Arderne, of Aldford & Alvanley Arms.svg"
+          },
+          "hash": "a883832faa45f628e0914a0b4345a203f0cb8269",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1266-1308)"
+    }
+  },
+  "id": "Q149645",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Arderne, of Aldford & Alvanley"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Arderne, of Aldford & Alvanley"
+    }
+  },
+  "lastrevid": 17575782,
+  "modified": "2025-09-17T16:12:27Z",
+  "ns": 860,
+  "pageid": 178098,
+  "sitelinks": {},
+  "title": "Item:Q149645",
+  "type": "item"
+}

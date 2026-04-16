@@ -1,0 +1,211 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Oliver St.John"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149617$ED915282-517C-4AB5-B103-EE3933F927C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00360161"
+          },
+          "hash": "e5f5c2221066274b1c18d2e49c1d44264c79fd7a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149617$2746BEF5-32D4-4969-8D4B-815EBE79217B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145275",
+              "numeric-id": 145275
+            }
+          },
+          "hash": "d6d57ded45de5f9c6d7ecc2e1df9d0569d2d9b93",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149617$440EE162-A554-4635-A77B-31B9DA390BC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "St_John-623"
+          },
+          "hash": "2e95cf44d4682b76f40c61e7c1707f8f15c7d73b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149617$FB9B108E-25B4-4B25-B308-744E05331E9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149617$475C74D8-7065-4B3D-A1C7-454E89A453A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149617$2786C9EF-6E62-4DBC-AC80-417EA08BE442",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142335",
+              "numeric-id": 142335
+            }
+          },
+          "hash": "e312d5e8f754b54a5dabead99c4489e90b2721a8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149617$550A4E15-F810-436F-A55E-D798FB519484",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149617$AA93B04E-426E-4F67-A962-E47FCFFD488C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99083505"
+          },
+          "hash": "5d0d122d3e0ba9b1f40852f423d64d5daa0dc3c9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149617$8CD44CF5-76F0-4E72-8B97-3A62C819B96E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Oliver St.John Arms.svg"
+          },
+          "hash": "3eaeba1c6491dfc13a59572844a34e055d4e1d5b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1373"
+    }
+  },
+  "id": "Q149617",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Oliver St.John"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sir Oliver St.John"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Oliver St.John"
+    }
+  },
+  "lastrevid": 17575726,
+  "modified": "2025-09-17T16:11:41Z",
+  "ns": 860,
+  "pageid": 178070,
+  "sitelinks": {},
+  "title": "Item:Q149617",
+  "type": "item"
+}

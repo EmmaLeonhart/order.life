@@ -1,0 +1,291 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gruffudd ab Owain Glyndŵr"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149629$BB5E954D-65F2-426D-8ED3-76D23689A505",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ab_Owain-13"
+          },
+          "hash": "3bdb121e5d947c65290efa3853f90db283824495",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149629$F730928F-4E46-4B3A-A523-58F56123DE7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149629$F1FE7124-4117-4E2E-9B9B-0360862DB2A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149629$116A7A4A-762C-4609-9895-E9AED6106045",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gruffudd_ab_Owain_Glyndŵr_(1)"
+          },
+          "hash": "8dac429588392adf09cf234665a4ce57e807b3e0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149629$24134569-30D8-4C18-8B93-210CA6CCC9B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145284",
+              "numeric-id": 145284
+            }
+          },
+          "hash": "1eebb9e75182da55c36c0a71e1d46b660124f99b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149629$06AC8452-B657-4A14-A16D-F2F56B0742C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145332",
+              "numeric-id": 145332
+            }
+          },
+          "hash": "fb8c8092530cffc94811ac9db78e9bcff657bb9c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149629$C9736FE4-E9F6-475A-A888-89E1B38D90A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149629$BE56EB85-0E8A-4DBF-9A10-5916D4A5192E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1375-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3eb2e46633102c4985fbd969723689e83c4d8f95",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149629$C6B719FE-170B-42CB-8F63-D1681A0DF70F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1412-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f880e37812d0a877b5291c4f7a1a73c55c12b11",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149629$E142A1FC-E517-43F7-8AB8-BBEA33257759",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5611979"
+          },
+          "hash": "503fa1eec4fb0246436fd1dbe57ab53cb4da0c5e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149629$0789D2F4-7403-47CE-8EF2-7BE913F986FA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gruffudd ab Owain Glyndŵr Arms.svg"
+          },
+          "hash": "6c172078d6c8cd15a76b8efedebec091db33390e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1375-1412)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh prince"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnalité historique galloise"
+    }
+  },
+  "id": "Q149629",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gruffudd ab Owain Glyndŵr"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gruffudd ab Owain Glyn Dŵr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gruffudd ab Owain Glyndŵr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gruffudd ab Owain Glyndŵr"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gruffudd ab Owain Glyndŵr"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gruffudd ab Owain Glyndŵr"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gruffudd ab Owain Glyndŵr"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gruffudd ab Owain Glyndŵr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Грифид ап Оуайн Глиндур"
+    }
+  },
+  "lastrevid": 17575750,
+  "modified": "2025-09-17T16:12:01Z",
+  "ns": 860,
+  "pageid": 178082,
+  "sitelinks": {},
+  "title": "Item:Q149629",
+  "type": "item"
+}

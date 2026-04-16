@@ -1,0 +1,349 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hiempsal I"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q148224$C0DDFA3A-6F52-45BE-9606-B8F32D5BB2F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148224$5480E381-F429-4894-9625-7CE55F1DD924",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148224$56CF4C68-B6B5-4C94-9CD3-0FFC7BF30E5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144293",
+              "numeric-id": 144293
+            }
+          },
+          "hash": "5e75381fa2bb71a7d16a5809bb45998951f151c0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148224$3DC317C0-13C3-4761-8F7D-879A126DC186",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148224$0189A8B4-D1C3-4B4F-AE80-5DAA9767C529",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148224$25A01A27-BA39-436B-BE8C-78BA3243A1EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0117-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c8a1f68c661eb38503ead5be887ee9602b3d608",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148224$8515F1B5-DACC-4B49-9744-F423A7538C0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q523301"
+          },
+          "hash": "0d188c58ec170a3f5bb555871cf7f9ff51040789",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148224$71A1CF92-C2F9-45FC-B8B0-AD7727DB3A0E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hiempsal I Arms.svg"
+          },
+          "hash": "ad84cc86b7ac8530b2acc5c6f1ef13e4ffcc1495",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q148224$F52E4306-F1A4-4A73-A45D-D131F33AB9D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/0c26902d-097d-45ea-9490-b8491e034de1"
+          },
+          "hash": "c739e48a649eb943449ebb1ab63fe74da994f593",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك مملكة نوميديا"
+    },
+    "de": {
+      "language": "de",
+      "value": "König in Numidien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλέας της Νουμιδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berber King of Numidia"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey bereber de Numidia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Numidie"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Numidia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Нумидии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Numidien"
+    }
+  },
+  "id": "Q148224",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هيمبسال الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هيمبسال الاول"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гіемпсал I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хиемпсал I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hiempsal I"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hiempsal 1."
+    },
+    "de": {
+      "language": "de",
+      "value": "Hiempsal I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιέμψαλος Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hiempsal I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hiempsal I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hiempsal Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "היימפסל הראשון"
+    },
+    "it": {
+      "language": "it",
+      "value": "Iempsale I"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hiempsal"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hiempsal I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hiempsal I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hiempsal"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hiempsal I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hiempsal I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гиемпсал I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hijempsal I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hiempsal I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гіемпсал I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希耶姆普萨尔"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "希耶姆普萨尔"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "希耶姆普萨尔"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "希耶姆普薩爾"
+    }
+  },
+  "lastrevid": 17573046,
+  "modified": "2025-09-17T15:34:27Z",
+  "ns": 860,
+  "pageid": 176606,
+  "sitelinks": {},
+  "title": "Item:Q148224",
+  "type": "item"
+}

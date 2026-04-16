@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice Le Botiler"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149663$DD65EA66-33E2-47FC-9736-5413C9AC7941",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00414042"
+          },
+          "hash": "ef4e0be7179163a5d5ac69a3744a0e99a4af62fb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149663$848679FF-EB66-4A51-830F-112ED3CB1D1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Boteler-160"
+          },
+          "hash": "b6f425012f4f2c50cb5e5e9710ae692a5b396043",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149663$01F19D2A-1A30-4846-A05A-67D707434BF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149663$7ED4C9BF-BBDE-4B60-882B-E29BAC8D9A00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149663$8E408A44-A3CB-4421-AFFA-0819F572EC62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145299",
+              "numeric-id": 145299
+            }
+          },
+          "hash": "ccd97c6d1606bf712c4f2e6eb8f75f6ad7b92479",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149663$9C596B2A-F526-4CC7-ACA9-4526379CA205",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149663$7D3CD05D-F1C4-4D72-B71E-3340C585DF14",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1310-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3fc234c292844c02bb13f8ef28b8ecc8711da73",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149663$4519E8CD-1377-454D-AF3D-CAFBDF3EB675",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104472998"
+          },
+          "hash": "eb7309a53369145e15952e615a5c5e53958b808a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149663$91AAFA8A-9431-485B-B715-81480F3D01DF",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice Le Botiler"
+          },
+          "hash": "ac612ecf35053a3788c8f8b0de025640142b52a3",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149663$540103AA-A8C8-4525-80DD-E84DC9790368",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice Le Botiler Arms.svg"
+          },
+          "hash": "d8df6305b7f93044771701964e0e8ffd1bb682c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 1376"
+    }
+  },
+  "id": "Q149663",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alice Le Botiler"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Alice Le Botiler"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alice Le Botiler"
+    }
+  },
+  "lastrevid": 17575818,
+  "modified": "2025-09-17T16:12:56Z",
+  "ns": 860,
+  "pageid": 178116,
+  "sitelinks": {},
+  "title": "Item:Q149663",
+  "type": "item"
+}

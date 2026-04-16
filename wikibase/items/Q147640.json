@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Uroš II of Rascia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147640$78CC8150-722D-4319-B18F-0F03BE7C7961",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "369426"
+          },
+          "hash": "8d59b9655b7e46fb914bc0b5177b0c6d3a13a7a8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147640$BD2AD0F5-402D-482D-98FE-D08F63AAAF49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147640$94E1DB4C-0BBC-41E2-808B-1153F3D74D72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147640$7F056E32-3D83-4BF8-ADE7-8555F2502974",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Uroš_II_Prvoslav_(1)"
+          },
+          "hash": "be8ea6982e2a6f1176fe37e85c499102a43cd4d2",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147640$7B590D78-8AEF-4C5E-A458-AE8473514B7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128253",
+              "numeric-id": 128253
+            }
+          },
+          "hash": "a7d37add652dd33ab0b4a1f48c88d3fbc054f4c9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147640$6A529F41-F962-489F-84C7-BF7E429BBF6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128255",
+              "numeric-id": 128255
+            }
+          },
+          "hash": "99200e38647f8b8cb4efba852b879b75e1caa93f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147640$B0402133-2931-4EB3-91BF-D9E754F26BDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147640$EAD36091-64AF-4FEF-990E-B4CCCE859168",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147640$9330A92B-EB3B-41EF-8D07-3D9C30B3362F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1162-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a9e08b9dd40ca50c40c3f12e7323dad2f8317cd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147640$C84C019D-000F-432E-9FEF-759C26086DA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1932643"
+          },
+          "hash": "96f041ecd675527fd1c89a572910d053757045d7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147640$8AD47C1F-DCB3-4AC8-A6D8-D48FDF449606",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Uroš II of Rascia Arms.svg"
+          },
+          "hash": "b196d48e0ec373c4e6659d54324124f03f1e38ee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "велик жупан на Велико княжество Сърбия от династията Вукановичи, управлявал през 1145 – 1162 година"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "srbský velkožupan"
+    },
+    "de": {
+      "language": "de",
+      "value": "serbischer Groß-Župan (ca. 1140–1161)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Grand Prince of Serbia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "le fils ainé d'Uroš {{Ier}} Vukanović, Grand-Prince de Rascie"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Raški veliki župan"
+    },
+    "it": {
+      "language": "it",
+      "value": "gran principe di Serbia (r. 1145-1162)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "najstarszym synem wielkiego żupana Raszki Urosza I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "grão-príncipe da Sérvia de ca"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "veliki župan Raške (vladao oko 1145—1162) iz dinastije Vukanovića"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "велики принц Србије"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "serbisk monark"
+    }
+  },
+  "id": "Q147640",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Урош II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Uroš II. Srbský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Uroš II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ούρος Β΄ Πρίμισλαβ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Uroš II of Rascia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Uroš II de Rascia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Uroš II Primslav"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Uroš II."
+    },
+    "it": {
+      "language": "it",
+      "value": "Uroš II di Rascia"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Урош II Примислав"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Uroš II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Urosz II Wukanowicz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Urosh II da Ráscia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Urosh II da Ráscia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Урош II Примислав"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Prvoslav Vukanović"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Урош II Примислав"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Урош II Примислав"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Uroš II Primislav"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Uroš II av Serbien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Урош II"
+    }
+  },
+  "lastrevid": 17572304,
+  "modified": "2025-09-17T15:24:18Z",
+  "ns": 860,
+  "pageid": 175912,
+  "sitelinks": {},
+  "title": "Item:Q147640",
+  "type": "item"
+}

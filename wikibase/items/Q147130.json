@@ -1,0 +1,386 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dietrich V, Count of Cleves"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147130$4C069524-AA5E-4073-A1F0-A5A53DF895F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147130$55311E78-5F9A-4974-88DC-E1D292BB1210",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147130$98A8D326-1D45-4DB3-8E31-A517BD6FBECF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127642",
+              "numeric-id": 127642
+            }
+          },
+          "hash": "3f3a992746311e7f3fd4ce3cd2da0db857559cb7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147130$9ECF270F-372F-46DF-9F4D-F7A742DAED24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147129",
+              "numeric-id": 147129
+            }
+          },
+          "hash": "c5ca71291f9afaea2861127230fbc45cd01f2bf1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147130$9A8CE1D7-53F3-4063-82DA-9ABDCF100131",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147130$C10FEE6D-78CB-4B82-86E5-1DBC8F230B7F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1202-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a70d7c5dd576acc6d00c1a9c69717c62c247aaf3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147130$9A981617-C4DE-4851-9CDD-41C7031FC818",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1260-06-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cee7b5433459d560ff96e75d87b158d63db38609",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147130$B2B98CFC-6C40-4ADD-9B9E-067A2F33E475",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q78797"
+          },
+          "hash": "a3d328ca15b5c5412a5d515c1ec6b27437fb0aa9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q147130$465F7BBB-7375-4DFC-B4ED-DAE7E862E72A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Paul Wranitzky"
+          },
+          "hash": "fb61c0fa4e04bd6d53eb4ab52f1d024f7aced6ef",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147130$5200091C-B8C0-47E8-881D-F49513992AE2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Paul Wranitzky Arms.svg"
+          },
+          "hash": "845ccb8cbf77384c5d7d7e7c64f05b4ab7cfe3f0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "моравски композитор"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "český houslista a hudební skladatel"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "cyfansoddwr a aned yn 1756"
+    },
+    "de": {
+      "language": "de",
+      "value": "österreichischer Komponist"
+    },
+    "en": {
+      "language": "en",
+      "value": "Czech violinist and composer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "compositeur autrichien"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "cseh-osztrák zeneszerző"
+    },
+    "it": {
+      "language": "it",
+      "value": "compositore e violinista ceco"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "체코 작곡가, 바이올리니스트"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dirigent uit Oostenrijk (1756-1808)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "czeski kompozytor, dyrygent, skrzypek"
+    }
+  },
+  "id": "Q147130",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Paul Wranitzky"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "پول ورانيتزكى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Павел Враницки"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Paul Wranitzky"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pavel Vranický"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pavel Vranický"
+    },
+    "de": {
+      "language": "de",
+      "value": "Paul Wranitzky"
+    },
+    "en": {
+      "language": "en",
+      "value": "Paul Wranitzky"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pavel Vranický"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Paul Wranitzky"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Paul Wranitzky"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Paul Wranitzky"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pavel Vranický"
+    },
+    "it": {
+      "language": "it",
+      "value": "Paul Wranitzky"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パヴェル・ヴラニツキー"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "파울 브라니츠키"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Paul Wranitzky"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Paul Wranitzky"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pavel Vranický"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Paul Wranitzky"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Paul Wranitzky"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pavel Vranický"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Paul Wranitzky"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Paul Wranitzky"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пауль Враницкий"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Paul Wranitzky"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Paul Wranitzky"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Paul Wranitzky"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "帕维尔·弗拉尼茨基"
+    }
+  },
+  "lastrevid": 17571634,
+  "modified": "2025-09-17T15:15:02Z",
+  "ns": 860,
+  "pageid": 175515,
+  "sitelinks": {},
+  "title": "Item:Q147130",
+  "type": "item"
+}

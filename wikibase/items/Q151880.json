@@ -1,0 +1,323 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Valerius Maximus Basilius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151880$31D2BD25-92D2-48B9-99D1-86C3B62698B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "271058"
+          },
+          "hash": "6ea892c6c8f89749e81d8078df74e3f1fdc26141",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151880$0D620B2A-91C7-40B3-9524-F425AE40CC88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151880$719DDAC4-60B7-478A-A58A-A9D1D24DC438",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151880$AA1B32C2-8D5D-4053-91E5-BBD9976FCD08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Valerius_Maximus_Basilius_(1)"
+          },
+          "hash": "c71cd5dc73941f72697fc38caae399c7f38bcf9f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151880$ED6F63B9-58F6-4ACC-A10D-5DED3BCDF6E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151905",
+              "numeric-id": 151905
+            }
+          },
+          "hash": "98cd09dbfa3c6e59cce57765a34cbff742cc5cea",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151880$367BE090-7793-409A-AC71-51A490552206",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151850",
+              "numeric-id": 151850
+            }
+          },
+          "hash": "36c85b76a5ff67a478416e61e4f3dc8c6cfb8272",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151880$784F277E-318B-48DA-AC37-F1F729A5B4CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151880$758D9F95-A869-467F-A2CD-690FBCC362E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0330-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6df5a509f25bb54583991a07bce2ac0866a5e2bf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151880$FBC48A18-3CAB-4B0B-A2C8-68376A4BFC98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0364-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "033d7012faab3d1410086320dff03772c579338f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151880$392D642F-D9C3-4213-865A-76977A071043",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3305547"
+          },
+          "hash": "faf462a48a1a96a80fe18f890a73b6e0f83d4201",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151880$E1D35B6F-C493-4950-BCD0-12182EBF492B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Valerius Maximus Basilius Arms.svg"
+          },
+          "hash": "de3d4e9ae6458d15edd9f04059864710fcfbed46",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th century Roman proconsul"
+    },
+    "es": {
+      "language": "es",
+      "value": "procónsul de Acaya y prefecto romano"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (330-364)"
+    }
+  },
+  "id": "Q151880",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فاليريوس ماكسيموس باسيليوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Валерий Максим Василий"
+    },
+    "de": {
+      "language": "de",
+      "value": "Valerius Maximus Basilius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βαλέριος Μάξιμος Βασίλειος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Valerius Maximus Basilius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Valerio Máximo Basilio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Valerius Maximus Basilius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Valerio Massimo Basilio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Valerius Maximus Basilius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Valerius Maximus Basilius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Valério Máximo Basílio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Valério Máximo Basílio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Валерий Максим Басилий"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Valerius Maximus Basilius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Валерій Максим Василь"
+    }
+  },
+  "lastrevid": 17580080,
+  "modified": "2025-09-17T17:10:56Z",
+  "ns": 860,
+  "pageid": 180334,
+  "sitelinks": {},
+  "title": "Item:Q151880",
+  "type": "item"
+}

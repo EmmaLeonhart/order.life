@@ -1,0 +1,307 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Báetán mac Ninneda"
+      },
+      {
+        "language": "en",
+        "value": "Baetan mac Ninneda"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148278$B708E5B2-579F-4B52-AABC-8C16ED0110F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "87882"
+          },
+          "hash": "ee146f78a8986401f2d60caf8b9f459970244505",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148278$18358EC0-4566-499D-8A27-25C508B5FEEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mac_Ninnid-1"
+          },
+          "hash": "ddb9f5ca241ffb38da3fd789c8049671a43bd9c4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148278$4F6CD6AF-234E-44D2-AC5A-885EA2E45F87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148278$199B9975-4E1C-4B9D-9A66-B1D085CA421C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q148278$2B07AEC2-1FFD-4181-AB48-F794F5766F88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15007.htm#i150069"
+          },
+          "hash": "7df13a431de76f5105c6bfa449f9c019a4f551c4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148278$D1301409-7FB2-4406-ADE4-F629816D1106",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144359",
+              "numeric-id": 144359
+            }
+          },
+          "hash": "a7b88cae5b21725ea906d5e583376cf9bf8ef570",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148278$7EEA738E-B7A5-4021-8F7E-E20775D20808",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148278$4CC33B7E-3708-4EF0-9721-679FE887FDF1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148278$81BC2B48-566E-4280-B5E5-0A58D0FF1587",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0586-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9e90986205ddb207a329274c28f49f0eb9df7aa5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148278$33A0E9C0-D7FE-4EC1-8F0D-EE8AFFC5149B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1261185"
+          },
+          "hash": "4c7c7b0e74b344bc0f62b80249ce5a2d7d71ed14",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148278$C1EDE4A5-E2F7-4818-AAE3-48BDF1868248",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Báetán mac Ninneda Arms.svg"
+          },
+          "hash": "c5e2e68a02c1fa783195754e9f985f4f079a9ac6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish king"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí Éireannach"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "rei irlandês dos Cenél Conaill, um ramo dos Uí Néill do norte"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Кенел Конайлл, верховный король Ирландии"
+    }
+  },
+  "id": "Q148278",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Báetán mac Ninneda"
+    },
+    "en": {
+      "language": "en",
+      "value": "Báetán mac Ninneda"
+    },
+    "es": {
+      "language": "es",
+      "value": "Báetán mac Ninneda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Báetán mac Ninnedo"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Báetán mac Ninnedo"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Báetan mac Ninnedo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Báetán mac Ninneda"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Báetán mac Ninneda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Báetán mac Ninneda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Баэтан мак Ниннедо"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Báetán mac Ninneda"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Баетан мак Ніннедо"
+    }
+  },
+  "lastrevid": 17573134,
+  "modified": "2025-09-17T15:35:42Z",
+  "ns": 860,
+  "pageid": 176731,
+  "sitelinks": {},
+  "title": "Item:Q148278",
+  "type": "item"
+}

@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Junius Silanus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148220$6698BDCE-0902-4B42-8DD2-61AC2166596D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465193"
+          },
+          "hash": "5e355724010ad4a2b5f480be684e44a38849f478",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148220$74560035-F383-421D-AED0-B743ECC25AF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144289",
+              "numeric-id": 144289
+            }
+          },
+          "hash": "3a6de263db8adfb299a2ef7480c88b7ff17f3132",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148220$D8B0FF5B-2851-4A3C-ABB3-1E3243DBE0BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148220$11E916DC-4511-4ABF-8E8A-B9102795B1F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148220$C1FC4958-8EE4-431E-81BE-65AE4F5DB32D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148220$4AB7DB56-A96F-4453-A94D-2DE466767485",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148220$7C59F4A7-430C-41A4-BF18-74096E100656",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q389950"
+          },
+          "hash": "39f68dfaebd52ca27f2e05a9cd25bb4177c8e4b6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148220$78BF6C44-E3D6-4418-930B-A41CD75713EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Junius Silanus Arms.svg"
+          },
+          "hash": "c3fe301594b57e9b002e6bbbe0dbfe313e74cca1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "consul 17 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 17 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q148220",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Юний Силан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Juni Silà (cònsol 17 aC)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Iunius Silanus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Ιούνιος Σιλανός (ύπατος το 17 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Junius Silanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Junio Silano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Junius Silanus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cayo Junio Silano"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Giunio Silano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Iunius Silanus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Junius Silanus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Júnio Silano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Júnio Silano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Юний Силан (консул 17 года до н. э.)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Junius Silanus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Юній Сілан"
+    }
+  },
+  "lastrevid": 17573040,
+  "modified": "2025-09-17T15:34:21Z",
+  "ns": 860,
+  "pageid": 176593,
+  "sitelinks": {},
+  "title": "Item:Q148220",
+  "type": "item"
+}

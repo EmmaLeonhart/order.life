@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Antistius Vetus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q151435$9A784F2E-1646-4922-BF0D-0556A23154CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151435$5759A99F-3BF6-4A42-BEB3-4CEFD36A60EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151435$38A88A43-6975-4B85-94BA-41E41BC5D119",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148188",
+              "numeric-id": 148188
+            }
+          },
+          "hash": "031894cd43563fc25936da50145faa7e5ba28ddc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151435$294FDE90-1365-4AB5-999F-034951E7B6D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151435$8C7DA507-5FAD-4EC9-BD3C-C19D246767B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151435$7B3CDDCF-A76E-4236-AD17-2DB2A4635206",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q778856"
+          },
+          "hash": "7dce3ed3c719a7c69a7e6445f67f6fdee30758ab",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151435$3A239CA0-3C36-4489-A0AD-0C47124DACEB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Antistius Vetus Arms.svg"
+          },
+          "hash": "77e1f78eb40b328347be728f763cfc44401718ce",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 96"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 96 AD"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 96"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 96"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q151435",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Антисций Вет"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Antisti Vet (cònsol any 96)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Antistius Vetus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Antistius Vetus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Antistio Veto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Antistius Vetus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cayo Antistio Vétere"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Antistio Vetere"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Antistius Vetus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gai Antisti Vet"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Antístio Veto"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Antístio Veto"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Антистий Вет"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Antistius Vetus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Антістій Вет"
+    }
+  },
+  "lastrevid": 17579298,
+  "modified": "2025-09-17T17:00:34Z",
+  "ns": 860,
+  "pageid": 179889,
+  "sitelinks": {},
+  "title": "Item:Q151435",
+  "type": "item"
+}

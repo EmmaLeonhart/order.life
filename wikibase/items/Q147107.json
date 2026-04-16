@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thietmar von Süpplingenburg"
+      },
+      {
+        "language": "en",
+        "value": "Thietmar von Supplingenburg"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147107$D329DC1A-B1B7-40F9-88E4-A063169FF228",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147107$923C6997-278A-440B-92A9-BA74B64999EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147107$1B7ADA4D-BACE-490F-B4AE-CA7923D0FE01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143630",
+              "numeric-id": 143630
+            }
+          },
+          "hash": "73261eb0a42735b02ce58ad24ace634b21c9e897",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147107$52193930-4D0F-4AA2-BC82-221AF3CA8E7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143631",
+              "numeric-id": 143631
+            }
+          },
+          "hash": "91ad0377f334d3b040178e02cb1ee47c16e731bd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147107$488E4F30-D0EA-470B-92EC-2F26469D90B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147107$E5FEA74B-94E3-41AE-A66E-C8AA5B5A6208",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147107$8F5704B5-67AF-4567-B053-01D782C5E0D4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1093-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "150d7eaadda2bd86c9b57097783da43c295ed542",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147107$E798CD67-AB9C-4BB3-A088-94B8A6EC0D1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q88212465"
+          },
+          "hash": "71cdec37c280a2e9510471651b84528d992d0a92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147107$CBAD9876-11F0-436D-8BAF-16E309EB86A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thietmar von Süpplingenburg Arms.svg"
+          },
+          "hash": "b0cf9f145feffa8c2ff35f44660218d7556544ca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q147107",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Дитмар фон Суплингенбург"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thietmar von Süpplingenburg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Thietmar von Süpplingenburg"
+    }
+  },
+  "lastrevid": 17571602,
+  "modified": "2025-09-17T15:14:35Z",
+  "ns": 860,
+  "pageid": 175492,
+  "sitelinks": {},
+  "title": "Item:Q147107",
+  "type": "item"
+}

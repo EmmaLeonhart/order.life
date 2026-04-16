@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John de Lisle, 2nd Baron Lisle"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149506$BDC8C352-97E8-40C1-AF61-E856BADFC488",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00462664"
+          },
+          "hash": "9bb05f955ee54d587b69b2b44fb1d0a2b5006e88",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149506$7F2B0340-5394-4581-8182-A424D4F24202",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lisle-132"
+          },
+          "hash": "6f7d43f3cc7bb0fcba84425abf1899dbce27c122",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149506$C3D75247-42F2-4A75-B8E2-985CF996E960",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149506$B8F669BC-B064-4182-952C-0A35FF5788BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149506$DDDC84B8-EBCC-42A0-AEDF-2970606254FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145218",
+              "numeric-id": 145218
+            }
+          },
+          "hash": "629670c01deacf1f066b9d282ae06be2763fb2fa",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149506$A6C92E67-C4FF-47BF-88EE-B55C1EDBF05A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149506$AD12E55D-3086-4A7D-B309-22A954F85895",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1319-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b75e6aa3e9d19eaf3f2ccfef808bf0b5b2057a3e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149506$E7ED8E35-E5CF-43A4-835A-0033EF724561",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1355-10-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa0138bbea332b759965c65433aa617ddb8921c1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149506$6D2EA9B1-661D-481A-A292-77F5C39E3FA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6265574"
+          },
+          "hash": "1f4c97af2a258dff6d88fa66c60c2fa71af00b10",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149506$60401B80-BB43-4414-B596-4BEAC655CE4A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John de Lisle, 2nd Baron Lisle Arms.svg"
+          },
+          "hash": "a2b8c7b5f1465be84a779956795140ea70aee0e3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger und Militär"
+    },
+    "en": {
+      "language": "en",
+      "value": "English peer"
+    }
+  },
+  "id": "Q149506",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "John de Lisle, 2. Baron Lisle"
+    },
+    "en": {
+      "language": "en",
+      "value": "John de Lisle, 2nd Baron Lisle"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John de Lisle"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John de Lisle, 2nd Baron Lisle"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João de Lisle, 2.º Barão Lisle"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João de Lisle, 2.º Barão Lisle"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джон Лайл, 2-й барон Лайл из Ружемонта"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "第2代鲁日蒙特的利斯勒男爵约翰·利斯勒"
+    }
+  },
+  "lastrevid": 17575504,
+  "modified": "2025-09-17T16:08:46Z",
+  "ns": 860,
+  "pageid": 177959,
+  "sitelinks": {},
+  "title": "Item:Q149506",
+  "type": "item"
+}

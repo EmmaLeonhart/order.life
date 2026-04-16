@@ -1,0 +1,458 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ulpia Marciana"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148098$95112E9E-42D0-4AB2-B807-08065D36C55D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446838"
+          },
+          "hash": "6c598917e3ec9141a80677074f186a206c69c7e7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148098$A0F7E42A-1AFA-483F-8B9B-728D3F096F01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148196",
+              "numeric-id": 148196
+            }
+          },
+          "hash": "bdc640727031ef430fa7c314b482da5932c5756a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148098$205F7FB2-8365-4A81-A979-D35A6A164676",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148098$7E213D97-B331-449F-A1D9-FACBB9E376E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148098$15AA53A9-5FDF-4216-BFA7-15432F858443",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulpia_Marciana_(1)"
+          },
+          "hash": "d9d2371f4545dfa056fc7833c5403b5ecbc714a3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148098$FE70D131-1BFB-4246-9121-93F9E63D4A37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151380",
+              "numeric-id": 151380
+            }
+          },
+          "hash": "cc66d88a4c312ce0311f97cfb28b4f9895c480b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148098$2B4F3696-6E46-4C64-96B2-62E966EF9DAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68223",
+              "numeric-id": 68223
+            }
+          },
+          "hash": "02c9630aac4ed3ccf34cec25187c4ae12f595e23",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148098$F06C3C49-ADBD-47D3-890E-7E688898DE9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68256",
+              "numeric-id": 68256
+            }
+          },
+          "hash": "b4b3483322335fc950f629bf38f2e84a4244d08b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148098$162483C0-4992-4826-BE81-8195B23A96A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148098$A418ABC0-FEB1-4A9E-98CF-A58AF9CAC08E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0048-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ffcd15b62d6ddc51d8b6397002b9a67927071125",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148098$5A923A8F-1D0D-4B5F-A5EF-8C1ED1161D62",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0112-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "574ad31e0b155a485e1fe90f82385717bee26a0f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148098$386E09F4-3E7E-41AF-B577-90B9F208D9B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q237622"
+          },
+          "hash": "b3a61ed39dcf58e228b08412f5a6aac4f6d605f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148098$EF3C1592-2ECE-4988-A968-788376C758A0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulpia Marciana Arms.svg"
+          },
+          "hash": "dbee61f389b849f5ce6707e8cd28bdd0048baba7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q148098$7749B538-A7E3-45B2-AE29-2AAF5A7BE996",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/c2a45096-f7a8-4b98-aed1-7a2b2b04e9b6"
+          },
+          "hash": "6158f772122bf6498127dfbbc31816174260f947",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "ältere Schwester des römischen Kaisers Trajan"
+    },
+    "en": {
+      "language": "en",
+      "value": "elder sister of the Roman Emperor Trajan (48-112)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sœur ainée de Trajan"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "irmá maior do emperador romano Traxano"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחותו של קיסר רומי טראיאנוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana, sorella di Traiano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizerin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сестра римского императора Траяна"
+    }
+  },
+  "id": "Q148098",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Улпия Марциана"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marciana"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ulpia Marciana"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ουλπία Μαρκιανή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ulpia Marciana"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marciana"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ulpia Marciana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ulpia Marciana"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ulpia Marciana"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ulpia Marciana"
+    },
+    "he": {
+      "language": "he",
+      "value": "אולפיה מרקיאנה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ուլպիա Մարցիանա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ulpia Marciana"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ulpia Marciana"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウルピア・マルキアナ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "울피아 마르키아나"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ulpia Marciana"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Ulpia Marciana"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ulpia Marciana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ulpia Marciana"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ulpia Marciana"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ulpia Marciana"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ulpia Marciana"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ulpia Marciana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ульпия Марциана"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ulpija Marcijana"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ulpia Marciana"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ульпія Марціана"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "乌尔皮亚·马尔基亚娜"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "乌尔皮亚·马尔基亚娜"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "烏爾皮亞·馬爾基亞娜"
+    }
+  },
+  "lastrevid": 17572826,
+  "modified": "2025-09-17T15:31:23Z",
+  "ns": 860,
+  "pageid": 176209,
+  "sitelinks": {},
+  "title": "Item:Q148098",
+  "type": "item"
+}

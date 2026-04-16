@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Bellicius Natalis Tebanianus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151511$BE73E858-9B35-4FBE-910C-7AE4939CAF90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151512",
+              "numeric-id": 151512
+            }
+          },
+          "hash": "fce03f6f26373765baef522dc7f7342a8b8f2586",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151511$D4B22C98-66FC-428A-AFF2-DC9410869A79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151511$B51B1670-D94A-4643-96BA-A55EC0261EEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151511$EC468829-8704-475D-BDCD-EE19A3E67588",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148216",
+              "numeric-id": 148216
+            }
+          },
+          "hash": "dc66cf52171b715dc236d9fd9470ed303dd53f2c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151511$35402AA3-4AAF-494D-8683-B178E1B3BA25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151621",
+              "numeric-id": 151621
+            }
+          },
+          "hash": "7c80095aff25911cb1562ac36ef4a28e2d968723",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151511$D6B4AC83-7608-49EB-B75E-059F4092658A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151511$CAC9723D-AE94-47DE-90A8-E23E56CBA648",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151511$B45985B1-AB19-4238-A553-15336DF614EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1237483"
+          },
+          "hash": "b32aecff580b39ef2bb1a12acdf4a0054b99dbed",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151511$5F47D963-7CE5-4EFF-8D92-51F6598BF429",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Bellicius Natalis Tebanianus Arms.svg"
+          },
+          "hash": "21484bb8163b8ead46c97c2d83114beeb8149c93",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 87"
+    },
+    "en": {
+      "language": "en",
+      "value": "suffect consul 87 AD"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cónsul sufecto del Imperio romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 87"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q151511",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Белиций Наталис Тебаниан"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Bellicus Natalis Tebanianus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Bellicius Natalis Tebanianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Belicio Natal Tebaniano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Bellicus Natalis Tebanianus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Bellico Natale Tebaniano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Bellicus Natalis Tebanianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Bellicius Natalis Tebanianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Belício Natal Públio Gavídio Tebaniano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Belício Natal Públio Gavídio Tebaniano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Беллиций Наталис Тебаниан"
+    }
+  },
+  "lastrevid": 17579432,
+  "modified": "2025-09-17T17:02:20Z",
+  "ns": 860,
+  "pageid": 179965,
+  "sitelinks": {},
+  "title": "Item:Q151511",
+  "type": "item"
+}

@@ -1,0 +1,211 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Helvius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151514$4A9352DF-75DB-4AA2-9B15-50273BAC1801",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151372",
+              "numeric-id": 151372
+            }
+          },
+          "hash": "b22813045a1823760974d83bebcb648cc2e8126d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151514$D22AC0B7-19AE-4951-A0A8-5069D5BFED81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151515",
+              "numeric-id": 151515
+            }
+          },
+          "hash": "67cadb126c0458dda55ba6356baec2766478d6a2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151514$BA27B304-7A0A-439D-B2B6-E131E28F0846",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151514$5A6CDE5F-C73A-4C20-99AE-540027D1AC08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151514$BAADC65E-CF81-490D-93A0-60C2A71B95F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151514$AC2B99D6-EEE6-4120-A56B-8BB5E90C6B00",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151514$C1FEFE92-2DF2-4D67-B7BE-7CA480E9F885",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q92435761"
+          },
+          "hash": "a28b7dff7433bb56a563298f7a25849cd0411d9f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151514$EE30496C-76C8-4CBC-8FB8-F63187B86272",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Helvius Arms.svg"
+          },
+          "hash": "775e7905275612a321736a697ea2336dbe98e110",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "grandfather of Cicero"
+    },
+    "es": {
+      "language": "es",
+      "value": "abuelo materno de Cicerón"
+    }
+  },
+  "id": "Q151514",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Helvius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Helvius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Helvio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヘルヴィウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Helvius"
+    }
+  },
+  "lastrevid": 17579438,
+  "modified": "2025-09-17T17:02:25Z",
+  "ns": 860,
+  "pageid": 179968,
+  "sitelinks": {},
+  "title": "Item:Q151514",
+  "type": "item"
+}

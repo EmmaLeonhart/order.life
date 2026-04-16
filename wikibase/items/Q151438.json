@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Mindius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151438$1F3A12D5-E16F-472D-B8D9-3E1E271249DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "414079"
+          },
+          "hash": "d519b30823a974a84c72d88b92ef26b12d5a8a80",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q151438$F98BE05A-E760-40B7-BEC0-9A7F08421C51",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800955"
+          },
+          "hash": "14d594cffdde8df5a4857ff959207508af482f72",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151438$E0DEA096-39AA-4580-8739-5CD9274A7889",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148289",
+              "numeric-id": 148289
+            }
+          },
+          "hash": "3db5be1d01e229c7e46dc1dbe6088784ec05302d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151438$D7975D39-7E7B-44B2-99BF-A5C693D042AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151438$21A3B7F0-6CAB-42E6-A7AC-F383DC760299",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151438$6D19764B-07CC-4D6D-942B-49C01C02BEE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148196",
+              "numeric-id": 148196
+            }
+          },
+          "hash": "b28c0d55bea46e020411b492b0d9dd3e6665f991",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151438$E31B6B28-020F-4615-A918-7BD4E879FA4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151438$4F31EE62-744E-4BCE-8983-5FB6D060470F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151438$01B402B3-42BB-4DD3-8F4C-89D1A454840C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0085-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "57f62383a043ea47e7d45d4f04bac6f8c8034b27",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151438$9768D47F-BB7F-423C-BC6E-05475ECD8B23",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6697579"
+          },
+          "hash": "96cf462c8b96aa58a719693f366c12b23e299bf0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151438$A4093637-CE62-4442-A83D-21082614BDB8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Mindius Arms.svg"
+          },
+          "hash": "b6a2f6775dd16ce2523a6a46742b8e492a287025",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "father of Mindia Matidia"
+    }
+  },
+  "id": "Q151438",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Lucius Mindius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Μίνδιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Mindius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Mindio"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Mindio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Mindius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Míndio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Míndio"
+    }
+  },
+  "lastrevid": 17579302,
+  "modified": "2025-09-17T17:00:37Z",
+  "ns": 860,
+  "pageid": 179892,
+  "sitelinks": {},
+  "title": "Item:Q151438",
+  "type": "item"
+}

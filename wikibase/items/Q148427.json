@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Annora"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148427$F59E9EA2-5517-4A6D-A221-4C39AFCD25D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00385362"
+          },
+          "hash": "4fc5b0939fe2d89b4ddab132a85e903663085690",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148427$EBC6B8CD-443E-49E1-9BBC-D47B2642DA72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144467",
+              "numeric-id": 144467
+            }
+          },
+          "hash": "cbffff21dfbbee9e8e9c76f7578c216377deef34",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148427$A6318DFC-A517-4200-8ECF-1FFBCA90C1CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "UNKNOWN-18919"
+          },
+          "hash": "06f543be62900617a470f272763b14346d14ef92",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148427$11C8FEA8-603C-420D-872D-7C94C9EA58DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148427$6E5977DB-B8C2-4EE4-8B1D-951D65A70929",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148427$3297F92E-7AAF-423E-8877-623D064030C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127798",
+              "numeric-id": 127798
+            }
+          },
+          "hash": "ee23e2e2dba6dd3d7017e52100cc7aba2a5323b7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148427$3B5C00BA-E553-42C1-8BE7-B06623659BDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148427$E616A3A5-F3A7-45E3-BFB0-C14624BFA6D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1199-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c23f0be32998d2f6f5d2e0e9db9736b29a8479d9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148427$24AF5067-B7FF-4BDA-A1B1-A0C23E31C534",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1223-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71268f99aaaf9aac93ccc6dcfc455f8839ce2d8a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148427$45EFB4E1-4D1F-4052-88EE-B99F9177D5BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116172115"
+          },
+          "hash": "0a9f9971249c0247b72d87ecca0854a3506f1153",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148427$715E77DB-415C-4D34-A3E1-101A7E005DE0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Annora Arms.svg"
+          },
+          "hash": "72135aea6f961815c211ba2167eb6dcb1eeb7567",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1199 - 1223"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1199-1223)"
+    }
+  },
+  "id": "Q148427",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Annora"
+    }
+  },
+  "lastrevid": 17573362,
+  "modified": "2025-09-17T15:38:54Z",
+  "ns": 860,
+  "pageid": 176880,
+  "sitelinks": {},
+  "title": "Item:Q148427",
+  "type": "item"
+}

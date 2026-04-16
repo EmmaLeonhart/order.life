@@ -1,0 +1,223 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bernhard I von Kakelingen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147108$35F432B1-8934-4F8E-8923-9B01EAC74D98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1093253"
+          },
+          "hash": "b7cedf3840b556edee8fd788989ca92498b7656c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147108$6A249133-A71B-44AA-8BB7-8063E02CE7DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127160",
+              "numeric-id": 127160
+            }
+          },
+          "hash": "9f02786657a8d51562b19b2a7d2cf86e0e4c3f41",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147108$C86BF9D3-ADAA-4403-A04D-7A87ED2F20F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Kakelingen-2"
+          },
+          "hash": "65d8a66e42cd84cdf7c0845dd587718e847f6f10",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147108$7FD4CDED-AFA8-4AD8-8AC5-FC21B22845E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147108$D94A957E-2FF2-457F-9CD4-97AEB0CD71E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147108$D9A0C783-465F-4ACF-A592-C0F36EA557BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147108$89FEBEC5-41FD-4B68-BE20-0B43E7F93327",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1030-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d276bd668ca8aa1ce201c60caf171d46a0607063",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147108$7A172DD9-736C-481B-8130-1AB135E9B032",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q118189175"
+          },
+          "hash": "c22d08a09e8b8d7c1cbf85df3e2a0507ebc01ad0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147108$61604568-2EB5-4BE6-B5E6-301AD3D6B6F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=bernhard;n=von kakelingen;oc=1"
+          },
+          "hash": "7a7e75d0e2ff0c8582c4df351565652ca56c8418",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147108$EA020FCB-840B-4A88-BF5D-211EC42F700B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bernhard I von Kakelingen Arms.svg"
+          },
+          "hash": "1150f0d965263e9af668a992ce5d08529abc6b5e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1030 -"
+    }
+  },
+  "id": "Q147108",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Bernhard I von Kakelingen"
+    }
+  },
+  "lastrevid": 17571604,
+  "modified": "2025-09-17T15:14:37Z",
+  "ns": 860,
+  "pageid": 175493,
+  "sitelinks": {},
+  "title": "Item:Q147108",
+  "type": "item"
+}

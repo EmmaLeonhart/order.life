@@ -1,0 +1,385 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Cocceius Nerva"
+      },
+      {
+        "language": "en",
+        "value": "Consul (36 BC) - Marcus Cocceius Nerva"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q71445$8BDBE353-96C0-464D-916F-3F70C25B0C00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70502",
+              "numeric-id": 70502
+            }
+          },
+          "hash": "ce81220a067df5479e824558d69187a5c6959acd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q71445$4EED350E-F3E0-48A1-A5EA-F86669DA4ACE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q71445$65FA0CCD-0103-4E82-8619-2DB858F7EEF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q71445$9AC28931-5FF5-4551-ABD5-D3E36BCD0C0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71475",
+              "numeric-id": 71475
+            }
+          },
+          "hash": "84b84f266562c45cee7f7a70c578faec9a7c2525",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q71445$7723C71A-BD56-47AB-A3F4-12A2EA2C82C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q71445$9235F50A-652C-44BF-A043-E99A4DCF5986",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecde69b1f925ad90303f1a646574b6ab30ed130e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q71445$CD9891AB-2CD7-4B8C-A91A-9C99A0D2D9AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94f88214bf3994a254f4048f613bd3d206e99077",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q71445$881BF08E-A97C-43B0-981A-33D3CA3E8EAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1275480"
+          },
+          "hash": "22fa2752ed82b63088cc8e510b43458c698543ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q71445$98579494-A31C-49EA-B308-B0AE100F95DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041303734510"
+          },
+          "hash": "893ae4fc5131202970bcaf1a02c08a1ba3efab37",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q71445$6422368F-1431-4240-856D-BA12489402F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Cocceius Nerva Arms.svg"
+          },
+          "hash": "732c43d23b89781db8678eb8a3dc08764c16872a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "Conswl Rhufeinig 36 CC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 36 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 36 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul en 36 a.C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 36 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk konsul 36 f.Kr."
+    }
+  },
+  "id": "Q71445",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Кокцей Нерва"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Cocceu Nerva I"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Marcus Cocceius Nerva"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Cocceius Nerva"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Κόκκειος Νέρβας (ύπατος το 36 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Cocceius Nerva"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Coceyo Nerva"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Cocceius Nerva"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Coceyo Nerva"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Cocceio Nerva"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・コッケイウス・ネルウァ (紀元前36年の執政官)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마르쿠스 코케이우스 네르바"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Cocceius Nerva"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Cocceius Nerva"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Coceio Nerva"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Coceio Nerva"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Кокцей Нерва"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Kokcej Nerva"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Cocceius Nerva"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Cocceius Nerva"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Кокцей Нерва"
+    }
+  },
+  "lastrevid": 17483594,
+  "modified": "2025-09-16T18:08:52Z",
+  "ns": 860,
+  "pageid": 86276,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q71445",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q71445"
+    }
+  },
+  "title": "Item:Q71445",
+  "type": "item"
+}

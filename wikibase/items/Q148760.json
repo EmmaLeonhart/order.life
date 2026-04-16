@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Augaire mac Tuathail"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q148760$B47A703D-99D0-45FA-9339-6F1487FF77B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mac_Tuathail-4"
+          },
+          "hash": "403aea2e1d957ed16acdf5840bbe542a46b141ba",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148760$DE0FF58C-B73E-46D1-9873-AEF51B47CBBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148760$FED3E31C-5D5F-45D2-B671-A02C201FD195",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148760$0CA1F06D-B928-4226-A876-63EE3F4B5815",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144743",
+              "numeric-id": 144743
+            }
+          },
+          "hash": "04043f43e735067561afb3abce9c2110e435d579",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148760$D65745B0-6602-4519-8C69-FFCF996A2BA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148760$5C03A9E6-0A9F-4B47-8116-A930DCDA8434",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0978-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "437774b2cbee854cf4e6a714332126e9d9c72990",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148760$AC57D787-E7F6-4F48-A319-51C1F4940163",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q70594175"
+          },
+          "hash": "ab59ffdc2b7b2b87c6d954082ddc65896e03046e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q148760$C5634348-5388-4C6C-BA19-1343FF63990C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=augaire mactuathal;n=o muiredaig"
+          },
+          "hash": "2a853d728fd9c2301635221b1cc7a79f01520503",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148760$BAAE0F0D-5EC5-4C46-8CC4-8C886EA43E1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Augaire mac Tuathail Arms.svg"
+          },
+          "hash": "15f374f5fadf89148816e2705558a54e90150a03",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "monarch"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí na Laigean"
+    }
+  },
+  "id": "Q148760",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Augaire mac Tuathail"
+    },
+    "en": {
+      "language": "en",
+      "value": "Augaire mac Tuathail"
+    },
+    "es": {
+      "language": "es",
+      "value": "Augaire mac Tuathail"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Augaire mac Tuathail"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Augaire mac Tuathail"
+    },
+    "id": {
+      "language": "id",
+      "value": "Úgaire mac Túathail"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Augaire mac Tuathail"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Augaire mac Tuathail"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Augaire mac Tuathail"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аугайре мак Туатал"
+    }
+  },
+  "lastrevid": 17574026,
+  "modified": "2025-09-17T15:48:07Z",
+  "ns": 860,
+  "pageid": 177213,
+  "sitelinks": {},
+  "title": "Item:Q148760",
+  "type": "item"
+}

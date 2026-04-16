@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maurice de Berkeley"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149249$8282A3C8-5AF3-4EC9-857B-09712B4A703E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Berkeley-216"
+          },
+          "hash": "0fcda1816c1f9f50fbbb34709938e77d51acb017",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149249$FB303BD5-00AC-4B2F-B28E-3C47195E9E09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149249$1DC8252A-50F9-4800-8AAC-A31505C0AAD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149249$A5FC62A7-76DB-4687-8620-B8BD5B230358",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p12963.htm#i129625"
+          },
+          "hash": "bf48d1ab0c8450c35d25fa783a7b4a2106cf0bf2",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149249$E3FB0D8C-CEF4-419E-AB10-855389356D8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149245",
+              "numeric-id": 149245
+            }
+          },
+          "hash": "0421fe3bf2068d9dcd5c3e58b1aa6871073dc294",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149249$65E9751B-65B6-43CE-A542-2DD981D5D298",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145077",
+              "numeric-id": 145077
+            }
+          },
+          "hash": "886190cf60d2d1b8950a83c89daa281fb7e7d154",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149249$A64CDEBA-DC1B-4035-9BCB-4458F028B620",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149249$DF7491A9-ED8F-40E0-96F1-177BDFD7545B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1243-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94d63bfe0c10b07e108e4707165d53d4f544d145",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149249$B6BA86FA-91F7-4F75-A3C8-87A451A443AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1279-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f058f9e0ce772f3f71c1a5f69dde7eb79d5872eb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149249$702847BC-761A-4239-8DC9-26A6972B1D1F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75418779"
+          },
+          "hash": "a90046f39088d54f1803b7800568e03d4e6c967a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149249$3133DF52-8A09-4FD0-A4C2-14ADB59A4D2D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maurice de Berkeley Arms.svg"
+          },
+          "hash": "2558207da9a522341daca2577809691516cf5958",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=129625"
+    }
+  },
+  "id": "Q149249",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maurice de Berkeley"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maurice de Berkeley"
+    }
+  },
+  "lastrevid": 17574994,
+  "modified": "2025-09-17T16:01:34Z",
+  "ns": 860,
+  "pageid": 177702,
+  "sitelinks": {},
+  "title": "Item:Q149249",
+  "type": "item"
+}

@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John de Beauchamp, 1st Baron Beauchamp"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149502$1E0BA4AD-B057-442A-BAB9-0D53EBAD35AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00232100"
+          },
+          "hash": "bcef31bad58587da9546498aee3499fad185c887",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149502$942AE793-81B6-4AD0-B6C7-22B1A5076FF3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Beauchamp-3439"
+          },
+          "hash": "064edfef9bc6ddd79634584c23c6369b75176ebd",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149502$ADE28BDA-2A52-4E50-B957-7F5EACB135CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149502$E74DC0E3-38CD-49DA-8D8A-441E68BBA30A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149502$140AC099-C995-485B-BC08-9DE708270484",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11859.htm#i118583"
+          },
+          "hash": "0bb33f25c7918a1a4bea687da47bba7511de0265",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149502$3817C227-CCE9-49D1-AF61-AC59DA37CFC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145216",
+              "numeric-id": 145216
+            }
+          },
+          "hash": "133c539ad06192f25c920d1c1fa797dd34df254f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149502$09C53B88-E684-4D2D-AED6-654F7165136B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149502$830B319E-AD18-48D4-9CD5-F8DAED8B6370",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1339-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc54a875075e71849a440381bf77c82a4d4d460d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149502$01E3DD26-5A5F-4CFF-946A-7C8681866018",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1388-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "586c642a75468fbb61228500b4582e480388e39e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149502$CEB2C48A-047F-4764-91C9-303C51083A5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6265477"
+          },
+          "hash": "800841133fc975c7523c310f4d6e3d7cbc802431",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149502$0F96E616-9C59-4C83-990E-F6E0B140670D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John de Beauchamp, 1st Baron Beauchamp Arms.svg"
+          },
+          "hash": "ca5aa5e4bc01683fe0edd2525fa68ed123444521",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "English politician and Baron"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q149502",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John de Beauchamp, 1st Baron Beauchamp"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John de Beauchamp"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジョン・ド・ビーチャム (初代ビーチャム男爵)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John de Beauchamp, 1st Baron Beauchamp"
+    }
+  },
+  "lastrevid": 17575496,
+  "modified": "2025-09-17T16:08:39Z",
+  "ns": 860,
+  "pageid": 177955,
+  "sitelinks": {},
+  "title": "Item:Q149502",
+  "type": "item"
+}

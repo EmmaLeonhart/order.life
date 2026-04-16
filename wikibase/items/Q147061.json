@@ -1,0 +1,305 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gottfried I of Cappenberg"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147061$1455F38C-D73D-424B-8637-7877137FD31F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00444567"
+          },
+          "hash": "df0d4a95b7b8589d8e82421a06b9d99f0761727e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147061$CE1D66F9-955D-4F2C-9F16-51FC58A2CD7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147064",
+              "numeric-id": 147064
+            }
+          },
+          "hash": "da30e4bb48aa63924018378fa0b7db451068124f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147061$CBD1FFD7-698F-4D3E-BF9D-68D4B4F0DE84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147062",
+              "numeric-id": 147062
+            }
+          },
+          "hash": "6559ae2aeb7b96fe5fac249ef9eaf8249a58fabb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147061$CB9252E2-B91A-467E-A0C8-C75BE2128D37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147063",
+              "numeric-id": 147063
+            }
+          },
+          "hash": "e6874a5af5bd9606dfd4ef87243d0576cee74697",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147061$E4AE4846-EAE5-4198-A807-B50FFBA30151",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147061$E58DE0C4-042B-4BF6-B67B-DC3F942D3CB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147061$76F20348-FD1F-41FC-A28C-429737E8E4A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126674",
+              "numeric-id": 126674
+            }
+          },
+          "hash": "47ff8a79e33ee24556907641c3bcd72b4bc7f4d2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147061$4823FF38-A39F-41DD-9FFB-29CDCA3001B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147061$826AECFD-7143-4B20-885A-43FE1C31D4C0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147061$60759F32-9267-426A-AFDE-E3B19F865CDA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1106-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "80ba597f8207d354f8d39417d93864027f07dace",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147061$49323790-BEC8-4A3D-8A4A-A1EFD6D92B13",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65224111"
+          },
+          "hash": "ca2bbc48a667a87c5aae18e4156c9022b43e29de",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147061$58366B59-31C4-40DB-BF0E-17C67C40C927",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gottfried;n=von cappenberg"
+          },
+          "hash": "0a56ee57ed4b13f00ded51c87500c1f670d84b5b",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147061$B1B8F53A-510F-458D-B8DE-ED305BC1BC94",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gottfried I of Cappenberg Arms.svg"
+          },
+          "hash": "4812e266b79d61a7f940f5dc0ac1b8c726c37fc2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "German noble"
+    }
+  },
+  "id": "Q147061",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gottfried I von Cappenberg"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Готфрид I фон Капенберг"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gottfried I von Cappenberg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gottfried I of Cappenberg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gottfried I von Cappenberg"
+    }
+  },
+  "lastrevid": 17571536,
+  "modified": "2025-09-17T15:13:39Z",
+  "ns": 860,
+  "pageid": 175446,
+  "sitelinks": {},
+  "title": "Item:Q147061",
+  "type": "item"
+}

@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Margery d'Eivile"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q147415$30F175FF-F736-4F0D-B44C-C0CE646BCBED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eiville-4"
+          },
+          "hash": "b39dc89cd2f713a52a959bc5065d4089542d5fa6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147415$20CC2FE8-D258-44D3-8E9F-1F02A3149433",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147415$00AD1B5F-F219-4CAF-A6B8-631DCAD2DD69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147415$73279548-021B-438A-8F84-8A97708477F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124459",
+              "numeric-id": 124459
+            }
+          },
+          "hash": "4c78cede5914519a1c8e1a27ed01962869496159",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147415$7A8D382A-9AF3-40F6-99D8-76C5A4AAE936",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p72102.htm#i721015"
+          },
+          "hash": "81a452c57116a5c6d8462fda7ae10bdb5dca577d",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147415$92500925-ED4E-4ABE-BC6D-94BD0F496DEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147415$DA57D58F-D5DD-405B-B843-A6B5B232BD8D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1145-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f4fa2f46359f65744b111bb9a33235935dead80",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147415$FEF965F5-0C77-4851-865C-F8A297728100",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76375281"
+          },
+          "hash": "c009e0bd78988aaab44a9ad8fdd61f6347c46a92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147415$62AE3DC7-0EA6-457D-8CD7-B9A91CB0C52C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Margery d'Eivile Arms.svg"
+          },
+          "hash": "bed4d462998dc27c88d01fb4a361684ab25bae51",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=721015"
+    }
+  },
+  "id": "Q147415",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Margery d'Eivile"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Margery d'Eivile"
+    }
+  },
+  "lastrevid": 17572118,
+  "modified": "2025-09-17T15:21:35Z",
+  "ns": 860,
+  "pageid": 175800,
+  "sitelinks": {},
+  "title": "Item:Q147415",
+  "type": "item"
+}

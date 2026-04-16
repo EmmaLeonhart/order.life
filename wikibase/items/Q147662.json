@@ -1,0 +1,230 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vladimir Yurevich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147662$FBFEAE0A-6CF7-48AF-83D9-C20390BF60E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "651"
+          },
+          "hash": "a0a419b0aa1eb6c0acf005862ac2a39b6e1eb6fb",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147662$970E4995-45D9-4309-B5E5-86FC1F1DD853",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147662$2A7F8FD3-27E7-47EC-B8AE-61EFD3B92586",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147662$E43229CC-C88F-49F3-A100-24EF445881A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143851",
+              "numeric-id": 143851
+            }
+          },
+          "hash": "c6ea527a64e0f857b4dc426d248d1521eea6660e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147662$7FBBE89F-CDCC-4F55-A137-8D8F8F658E9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147662$0CEDFEB4-72F9-49CD-AD1B-6A28049CFD64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1205-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e81e369c8516608ea50b01725e1bd48cfed1ee9b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147662$85ECD355-0E58-4180-A1E1-7AEB604B8371",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4113072"
+          },
+          "hash": "f25982ba0ab23cf95f3549f1743cdba1687389a2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147662$AF1B44AB-8E5F-48CA-8B5C-7C6635E5767B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=vladimir;n=rurikides;oc=32"
+          },
+          "hash": "6e60211d0c52f73e7be041242cb5df4230938d65",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147662$E5E48A49-71A3-4433-A18F-F2607485240C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vladimir Yurevich Arms.svg"
+          },
+          "hash": "3405f954e5aad1fc70b6bf62dd3020639387bd0d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Russian noble, died 1205"
+    }
+  },
+  "id": "Q147662",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Vladimir Yurevich"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wladimir Jurjewitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vladimir Yurevich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vladimir Yurevich"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウラジーミル・ユーリエヴィチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vladimir Yurevich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Владимир Юрьевич (князь муромский)"
+    }
+  },
+  "lastrevid": 17572324,
+  "modified": "2025-09-17T15:24:34Z",
+  "ns": 860,
+  "pageid": 175923,
+  "sitelinks": {},
+  "title": "Item:Q147662",
+  "type": "item"
+}

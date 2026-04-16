@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alan II de Dunstanville"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149494$77455C20-0832-4FE1-84C7-70121D84D9C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dunstanville-33"
+          },
+          "hash": "4237d7f0d9b0bd0f93690a412019d1027a4fcad0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149494$E3FE04FE-4A7A-44BE-8E91-DB7F8E17FFDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149494$4BDF4F95-7134-43EC-A871-AF47B673D285",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149494$F3A518B5-CCD9-44E6-92F9-2B27986AFFF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145211",
+              "numeric-id": 145211
+            }
+          },
+          "hash": "2cac1c6161067a7616364458fb3baffd5ce72759",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149494$0C05AEF5-91C2-4370-8ACF-12A5F76CFD2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149494$9218872E-E42C-4A41-8160-C57C717280E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149494$C1559FF9-B33D-4D2E-B604-82FC843145D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18526340"
+          },
+          "hash": "4f327678050ecb2a0ac2e595d5ba977c66de53cf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149494$77762DBA-51B5-4F78-A231-5D9FF1812B52",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alan II de Dunstanville Arms.svg"
+          },
+          "hash": "620ffe26fd21b303e31e5aae79b3b90c7f5ac051",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Ritter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Member of the de Dunstanville family"
+    }
+  },
+  "id": "Q149494",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Alan de Dunstanville"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alan de Dunstanville"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alan II de Dunstanville"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alan de Dunstanville"
+    }
+  },
+  "lastrevid": 17575480,
+  "modified": "2025-09-17T16:08:26Z",
+  "ns": 860,
+  "pageid": 177947,
+  "sitelinks": {},
+  "title": "Item:Q149494",
+  "type": "item"
+}

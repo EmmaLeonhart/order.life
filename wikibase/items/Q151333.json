@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Capussa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q151333$0AB77646-7DFD-4997-8B4A-43A7D66323EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151333$C9BFA00D-CA6B-419B-BAE2-52A5DE10AA61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151333$1775148C-8648-491F-99B3-713853608744",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151324",
+              "numeric-id": 151324
+            }
+          },
+          "hash": "a41082fe315680946de456408008873f8c99c731",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151333$05BEC0FB-EFA5-4DFF-AE16-EFBBD3B7C832",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151333$743AB1A5-8C8B-4993-A295-E1F566A29BAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0210-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2c81e748c19ffaca64ebb038d4b134e94d35e92",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151333$3FEBDDA2-B1A0-43CA-A5A3-CD48EE7B8C96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3658073"
+          },
+          "hash": "b165fe59211710417a6b88332e9f2e067818db33",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151333$D1B0A717-B2D6-411C-863F-14E4C49637BC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Capussa Arms.svg"
+          },
+          "hash": "f70fc78a12247740ecd5560ec4ef194d38fff324",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Numidian king"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Numidie"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Numidia"
+    }
+  },
+  "id": "Q151333",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كابوسا ( أمير)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Capusa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Capussa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Capusa"
+    },
+    "ff": {
+      "language": "ff",
+      "value": "Capussa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Capussa"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Capussa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Capussa"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Kabusa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Capussa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Капусса"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Капусса"
+    }
+  },
+  "lastrevid": 17579116,
+  "modified": "2025-09-17T16:58:09Z",
+  "ns": 860,
+  "pageid": 179787,
+  "sitelinks": {},
+  "title": "Item:Q151333",
+  "type": "item"
+}

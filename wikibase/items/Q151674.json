@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberius Julius Ininthimeus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151674$23E25D2C-61BF-44BB-B7D0-65860D227B58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "401200"
+          },
+          "hash": "2d5f656edb5ac37e18206fb616b231264abeaa75",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q151674$0C66A022-7F8C-41CB-B7E2-229FDB1BFE96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736393"
+          },
+          "hash": "8e3023ecb21bf9a1d1188177ffe54fdfd54e0075",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151674$BE2BC5EE-0AF9-4F72-8463-2863850E0F21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151674$8EE323D2-6E59-456E-9F5A-53E5074D5127",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151674$CDBED835-DECA-4AC0-9FDD-F2FFA1C537F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123550",
+              "numeric-id": 123550
+            }
+          },
+          "hash": "60bd3f82235080a526137d480c633cbac498482f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151674$6FBC6769-016E-46C6-B53B-0824329164E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151674$58D7752E-B5A0-405C-82CC-10364F2DE005",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0201-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32b6e79c84cd05b7b38ef20482652e1a86e6d567",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151674$A921D731-0210-4D1F-B234-6FE4EB3496CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0240-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa63a97f65736219313466c18144923765404b2f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151674$FFBC920B-62B9-4F9E-AECE-5C6714B24E08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3072469"
+          },
+          "hash": "813ed1e7500a67927ef423b47e0d42059f7c9781",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151674$824AD6AD-3E79-4239-AD64-527B73EB5403",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberius Julius Ininthimeus Arms.svg"
+          },
+          "hash": "e9f65726919dd1ef5114e2deacee75052ec1003b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Roman client state Bosporus from 234 to 239"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi du Bosphore"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Bosporu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Боспора"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "царь Боспору"
+    }
+  },
+  "id": "Q151674",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Inintemeros"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tiberius Iulius Ininthimeus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιβέριος Ιούλιος Ινινθίμεος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberius Julius Ininthimeus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Inintimeo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ininthimeos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tiberio Giulio Inintimeo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Tiberius Iulius Ininthimeus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tiberius Julius Ininthimeus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Inintimajos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ининтимей"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tiberius Julius Ininthimeus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Інінтімей"
+    }
+  },
+  "lastrevid": 17579714,
+  "modified": "2025-09-17T17:06:05Z",
+  "ns": 860,
+  "pageid": 180128,
+  "sitelinks": {},
+  "title": "Item:Q151674",
+  "type": "item"
+}

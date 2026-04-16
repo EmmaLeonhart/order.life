@@ -1,0 +1,222 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mikhail Vsevolodovich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147676$4DA9990A-6360-4380-B75B-80BF98C2F91D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "530663"
+          },
+          "hash": "fc6bff44cfaf552a2b5ec68b8d6a88fe37635a08",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147676$E60AF680-DA15-49E5-8ADE-9A1F5E8B41B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147676$B0D8F80E-2440-4A67-A84D-6C0129420680",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147676$F32A9CF0-D5F9-461D-9EFD-A2DB65DC1CDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143855",
+              "numeric-id": 143855
+            }
+          },
+          "hash": "f5cd03ea929fa9b4a7d80cddf5f3f5956b5ec7a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147676$03DD12C8-73F3-4202-9C3E-FB855A4E845E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147676$D5E48B13-36FA-41D8-B1EC-F01E5849729A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1217-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "208304aa11446bbcb54bbe745778a146b6db683e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147676$79B4BD32-8A4A-456D-AEFA-E7E6DD227F4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4297173"
+          },
+          "hash": "33ccca10e1294e2caf66fb87820331db03a68252",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147676$0AC9AF79-F51B-4566-8C9A-2C52B7382A39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=mikhail;n=rurikides;oc=14"
+          },
+          "hash": "b33596099b7a663af3a86cbbad88bd2dd45d9ac1",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147676$85C06309-ABE5-44D7-9CBA-776F9728C7B0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mikhail Vsevolodovich Arms.svg"
+          },
+          "hash": "b6e330a46dddd814f9dd1d63caa202c0a5951ddb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "monarch"
+    }
+  },
+  "id": "Q147676",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Michail Wsewolodowitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mikhail Vsevolodovich"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ミハイル・フセヴォロドヴィチ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Михаил Всеволодович (князь пронский)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Михайло Всеволодович (князь Пронський)"
+    }
+  },
+  "lastrevid": 17572338,
+  "modified": "2025-09-17T15:24:46Z",
+  "ns": 860,
+  "pageid": 175930,
+  "sitelinks": {},
+  "title": "Item:Q147676",
+  "type": "item"
+}

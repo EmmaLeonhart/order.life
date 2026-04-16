@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ivan Mstislavich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147233$28F62FE7-A4B3-4E1F-864C-A5594EBA43D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "857"
+          },
+          "hash": "587b239b80a7f339425f3a757aff539c958c2bed",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147233$772FD83A-C31D-4DB8-9237-B1F906CF3B07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147233$CC66877A-26B8-4738-A6E1-AF9AA0F4FAC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147233$BAA08E11-5D2B-49DE-AA4E-A823472E0C88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143692",
+              "numeric-id": 143692
+            }
+          },
+          "hash": "3d7b27fce7feda1cbb6b22c6092d69b22f484bbc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147233$F6A35EEC-E30A-4FCA-89FC-55A760EFCE16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147233$D3465D25-139E-4ED0-81BC-33712781815F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1238-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da3a08c245cad81a582e4aedf1cbc8b7a94ac0ea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147233$B6784FCB-FDB2-417B-B4C2-4D23009F750E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12073596"
+          },
+          "hash": "5b02f87bdad16cc1797e34ada3c491c579421e54",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147233$4F6707BB-34B3-449F-824C-4C74FB92EDA5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ivan Mstislavich Arms.svg"
+          },
+          "hash": "9028fc15cd36ab290c79b2c820db46bf94b97a55",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "noble russe du 13e siècle"
+    }
+  },
+  "id": "Q147233",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Iwan Mstislawitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ivan Mstislavich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ivan Mstislavitch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イヴァン・ムスチスラヴィチ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иван Мстиславич"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іван Мстиславич"
+    }
+  },
+  "lastrevid": 17571798,
+  "modified": "2025-09-17T15:17:19Z",
+  "ns": 860,
+  "pageid": 175618,
+  "sitelinks": {},
+  "title": "Item:Q147233",
+  "type": "item"
+}

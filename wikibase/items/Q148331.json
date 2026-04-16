@@ -1,0 +1,903 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Severus Alexander"
+      },
+      {
+        "language": "en",
+        "value": "Alexander Severus, Roman Emperor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148331$7CA893F8-B55B-494C-8AD0-77D5E0D6F7C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "933364"
+          },
+          "hash": "c509855a8dd08718bb9a53ec68823d97072ccdf2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q148331$E37726F4-3928-4FDB-B33C-FB6E283EB1F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446889"
+          },
+          "hash": "24d25e65e1542b64ff7d9f173395ddde8ea1a6f6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148331$D1D59F4F-8365-49BA-8B1C-C1DD502810D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148331$3ED190DD-48A2-4B44-AF0B-A7F45D09AF2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148331$CC84FC94-5659-4B56-B177-2FBFD2C45440",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexander_Severus_(1)"
+          },
+          "hash": "f9a0edd90ecbc8173181741829d35fad975ee289",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148331$27C6A27F-BF26-4BD0-87AE-30EBCFD2A72A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151867",
+              "numeric-id": 151867
+            }
+          },
+          "hash": "89f4eaf8ebe630f52d47b3c5e8c7fa7b60c12578",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148331$6EB2D134-364C-44DD-8CA8-87F2716D412F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151868",
+              "numeric-id": 151868
+            }
+          },
+          "hash": "c38f8e846d10b7da7015b4aea766eff757db01c9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148331$7F6A73BE-348F-4D32-9F5D-41CCCB0E19B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166295",
+              "numeric-id": 166295
+            }
+          },
+          "hash": "f70f8a297178dfe46ba365769be7c9f70c27676d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148331$F2AA4FB4-1AFE-4361-ADEE-7701BB3BD2F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166296",
+              "numeric-id": 166296
+            }
+          },
+          "hash": "000df8fbca6e0dc285dfe390f500ea06739522ff",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148331$B369AAED-8307-4175-A2BD-ABAF8743B5ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166297",
+              "numeric-id": 166297
+            }
+          },
+          "hash": "75d9fec54b810dc27dabcb1957313fe8d5f6cd52",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148331$F97F1641-4777-43D3-ACAE-329483882C1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144407",
+              "numeric-id": 144407
+            }
+          },
+          "hash": "74ecf1f4854359596ef1067efd1ea1b7799a9d8e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148331$8BDF13A7-7BB0-476E-A5A3-74B52C246B95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166247",
+              "numeric-id": 166247
+            }
+          },
+          "hash": "489aa33f6733ebeb9e77cb533636ff9186e3198f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148331$87A3B538-7EDC-4504-8F33-188D92858F5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4681",
+              "numeric-id": 4681
+            }
+          },
+          "hash": "057f80ca291923f78675cd6e0c78a5a0c91c9ac6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148331$FE775A5F-33A7-45B2-864D-31C0293D84F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166205",
+              "numeric-id": 166205
+            }
+          },
+          "hash": "f2f389aabfab0f52ccf7b76885838b2b2156553f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q148331$A5EB52BF-ABD5-486F-BED0-A0866B32F7CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "35343418"
+          },
+          "hash": "d2c187c74badc5b0095ebdde3bbb81fc70606b28",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148331$A5BA88B9-C7BD-45FC-A8FF-642E62197E1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148331$71E6D0F0-2F99-4466-AA2B-00F9ED0C345A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0208-10-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6ed75f309c843f82fb41abef7a9dd9a82ed58b03",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148331$FA1DC679-0AEC-45C7-9A25-2CAD0A85F56C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0235-03-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8bdfe8c8e47263ec5cb5a407339d183743cb7a77",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148331$6A8D03A1-ADA8-4634-8DBF-2D26B9A93388",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1769"
+          },
+          "hash": "49cc64321c5e806db92f10b0dd06295332d525e6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q148331$475E3A8B-54CD-437B-A991-CF53C2DD2CFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000035213405854"
+          },
+          "hash": "d90a3b33d2748310268d7795c61b9aedccb08da2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q148331$59AA9646-C9DB-4B21-94CB-D1B24FC6E998",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:34010"
+          },
+          "hash": "840dc49f7dacce299b65edce9447c856a0d69587",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148331$2570BA4D-D2CD-4526-A5C5-10613455A6FD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Severus Alexander Arms.svg"
+          },
+          "hash": "fcfa34a0fc3b96535702cc2dc33e84f9b7710636",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q148331$F67FFD39-394D-44CF-AF3C-D86443DE5E67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/c8d33ce5-bbff-4707-af7b-fba15624d78a"
+          },
+          "hash": "fad1725b6b2efb88d7bf61c3e9243a1d41224d83",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk kejser i 222-235 e.v.t."
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser bis März 235"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Emperor (208-235)"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Last emperor of the Severan dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (222-235)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiikin Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain de 222 à 235"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano entre 222 e 235"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi yang memerintah dari tahun 222 sampai 235 Masehi"
+    },
+    "is": {
+      "language": "is",
+      "value": "rómverskur keisari frá 222 til 235"
+    },
+    "it": {
+      "language": "it",
+      "value": "ventiquattresimo imperatore romano (r. 222-235)"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Romas imperators no 222. līdz 235. gadam"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk keiser"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (208-235)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Último imperador da dinastia dos Severos"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Último imperador da dinastia dos Severos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский император, последний из династии Северов"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски император"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk kejsare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma İmparatoru (222-235)"
+    }
+  },
+  "id": "Q148331",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Severus Alexander"
+    },
+    "an": {
+      "language": "an",
+      "value": "Aleixandre Severo"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سيفيروس ألكسندر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الكسندر سيفيروس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Aleksandr Sever"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "الکساندر سوروس"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Severus Alexander"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аляксандр Север"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Александър Север"
+    },
+    "br": {
+      "language": "br",
+      "value": "Severus Alexander"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Aleksandar Sever"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alexandre Sever"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alexander Severus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Alexander Severus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Alexander Severus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Severus Alexander"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Severus Alexander"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Alexander Severus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλέξανδρος Σεβήρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Severus Alexander"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Alexander Severus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Alexander Severus"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Severus Alexander"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aleksandro Severo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alejandro Severo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Severus Alexander"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Alexandro Severo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "الکساندر سوروس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Severus Alexander"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sévère Alexandre"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Aleksander Severus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Alexander Severus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Alexandre Severo"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Severus Alexander"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלכסנדר סוורוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Aleksandar Sever"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Severus Alexander római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ալեքսանդր Սևերոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Alexander Severus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Alexander Severus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alessandro Severo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレクサンデル・セウェルス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ალექსანდრე სევერუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "세베루스 알렉산데르"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Severus Aleksander"
+    },
+    "la": {
+      "language": "la",
+      "value": "Alexander Severus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Aleksandras Severas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Severs Aleksandrs"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Sévère Alexandre"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Александар Север"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "सेव्हेरस अलेक्झांडर"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Severus Alexander"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Alexander Severus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Severus Alexander"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Alexander Severus av Romarriket"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Sever Alexandre"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aleksander Sewer"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Lissànder Sever"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alexandre Severo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alexandre Severo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Alexandru Sever"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Александр Север"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Alissandru Severu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Alexander Severus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Aleksandar Sever"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Alexander Severus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Aleksander Sever"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aleksandër Severus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Александар Север"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alexander Severus"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Alexander Severus"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิแซเวรุส อาแล็กซันแดร์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Alexander Severus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Alexander Severus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олександр Север"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سویروس ایلیکساندر"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Severus Alexander"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "亚历山大·塞维鲁"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ალექსანდრე სევერუსი"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Alexander Severus"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "亞歷山大塞維魯斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亚历山大·塞维鲁"
+    }
+  },
+  "lastrevid": 17573214,
+  "modified": "2025-09-17T15:36:50Z",
+  "ns": 860,
+  "pageid": 176784,
+  "sitelinks": {},
+  "title": "Item:Q148331",
+  "type": "item"
+}

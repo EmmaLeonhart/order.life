@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peronelle, Comtesse de Bar"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147345$159CA34F-D330-4411-8CFC-FFDEEDBF73CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00199416"
+          },
+          "hash": "a9af6df60b606fbea55bf5d2fb10158fff5dbebe",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147345$ABD86749-B69A-4783-A9A2-378F85B8B78A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147345$60C03CF8-2758-4CA2-9237-A4A4DFDFAE4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147345$DDDF1ADA-301F-44D7-B22D-F84D6535E586",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124407",
+              "numeric-id": 124407
+            }
+          },
+          "hash": "a2e89bbcbd6b56e2fd0a684517fc05e1ef6cab58",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147345$E4504CA9-63A4-49C8-99D0-6F8B083381CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11997.htm#i119961"
+          },
+          "hash": "81bfd12f8a7d96c01f5adb4139090006d61896d6",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147345$A85F0A29-5082-4DC9-BF86-5A75721E032E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147342",
+              "numeric-id": 147342
+            }
+          },
+          "hash": "982657249d15e52e20cd8b00fb855e5e59859f9b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147345$FC57470B-52D4-4C94-A58C-0CD0A9F2C70C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124960",
+              "numeric-id": 124960
+            }
+          },
+          "hash": "0085ef12f4dc06f8aa21f30b0fcaecc25f9a089f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147345$B21F4173-4682-4B86-B7CD-B76CC713633B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147345$A1CAD135-8F63-4D09-BF9F-AE34DD41EE45",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1189-11-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3ab98453f179df59f51b6b3d0119890fe4139e76",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147345$470783F9-6802-4CED-8AC5-F7408E3E42AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48755353"
+          },
+          "hash": "0d44ee6245a72d23df83880b4535a5ffe40aecde",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147345$C932C629-1C29-49FA-BF72-92330893CF2F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=petronille;n=de brienne;oc=1"
+          },
+          "hash": "78905e051a593c5d541eb3f515006f5006458fe0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147345$529628E9-B21F-4221-B087-E8944682A0A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peronelle, Comtesse de Bar Arms.svg"
+          },
+          "hash": "e7d794b41e6cbd26058af023a1eb141a0266aa29",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=119961"
+    }
+  },
+  "id": "Q147345",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Peronelle, Comtesse de Bar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pétronille de Bar-sur-Seine"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Peronelle, Comtesse de Bar"
+    }
+  },
+  "lastrevid": 17571994,
+  "modified": "2025-09-17T15:19:55Z",
+  "ns": 860,
+  "pageid": 175730,
+  "sitelinks": {},
+  "title": "Item:Q147345",
+  "type": "item"
+}

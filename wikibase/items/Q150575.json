@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "unknown Stafford"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q150575$B6D6D8D5-FF92-4ABA-B473-511BDBEE447B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Stafford-287"
+          },
+          "hash": "f19a88646bf7cd43a5e176fd78033d1eb4aa2d1c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150575$B183CB20-A7F3-47CC-BB3C-D5DABBE9C327",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150575$E5C8A97C-72FA-4F6E-BC24-9EA2B6E2E660",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150575$7F0201DB-C287-4DF1-AC08-1F5A669C8D55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145979",
+              "numeric-id": 145979
+            }
+          },
+          "hash": "58dda8dca7806a36dc63bcf356c6c087555f3d0c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150575$90BDF270-6573-4A71-86AE-5F4566D8342C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p12964.htm#i129636"
+          },
+          "hash": "d4e40f3bbd79ac8abbb03be4666ccb636a30df89",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150575$39A15A54-D2C5-4513-82E1-2E9F042F505F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150575$3E4CDEAD-3864-4E3D-843C-7FD3207D36F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1408-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84796a749985d4bc0c667ab1b47c80913cd8df3a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150575$570193CE-71C3-4AB2-A4CC-FDCE12A7C282",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75418793"
+          },
+          "hash": "1dfb45ad1133927688ee828e8f8ac9af8e767950",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150575$7183A9C5-B9CA-4A44-991B-ACCDF9D99196",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "unknown Stafford Arms.svg"
+          },
+          "hash": "c384604af7ecd1039d3c8c9cc9f63165582a78cd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=129636"
+    }
+  },
+  "id": "Q150575",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "unknown Stafford"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "unknown Stafford"
+    }
+  },
+  "lastrevid": 17577632,
+  "modified": "2025-09-17T16:37:11Z",
+  "ns": 860,
+  "pageid": 179028,
+  "sitelinks": {},
+  "title": "Item:Q150575",
+  "type": "item"
+}

@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hywel ap Rhys"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148821$76069531-5C7E-4EDA-9EE2-32C18FAD70AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759120"
+          },
+          "hash": "cba20cbb759036ac61ad097736296e2fe0590a7e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148821$A86A6E0D-49C6-45D7-9F54-0B65B69296A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148822",
+              "numeric-id": 148822
+            }
+          },
+          "hash": "4957eddbb8839855a5ab24435c489f2a983facc4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148821$C9F702DB-2C2E-40B2-AA50-E6DCBDCCD377",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144791",
+              "numeric-id": 144791
+            }
+          },
+          "hash": "045cbb1c4bd092ea022e2d347fd78bd5198045e8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148821$5024E9D1-4D1F-4C79-A721-634A241049F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Rhys-98"
+          },
+          "hash": "96216437c1a958157cf565a80962fca3068516a0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148821$CD3CAA41-B8E5-46AA-AE3D-BC47A5B998DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148821$9606C90F-4DD5-4442-9281-E7A75BF5A03E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148821$C4346D65-8D42-45A3-949B-915026B8403E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148821$D4B02357-E2F5-4DAF-8767-312EF713B756",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0830-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e0cd6897461e97422e84182a4d442696b2adf046",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148821$C2374DAB-3C54-4863-B2B1-E3A7DB259560",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0886-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7fe43e4608320a441fbbf4cd7efc860ffa75ef30",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148821$D6E76900-260A-4AE0-B4D8-7AEFCF81D8F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3144469"
+          },
+          "hash": "89c3a56556cf1f2fe75b2c62487131c1e210d681",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148821$E8E591EB-772A-48C3-BA0E-3C57DF82C00B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hywel ap Rhys Arms.svg"
+          },
+          "hash": "4099dfc47e283b3cb71ce0546e17786a40553203",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenhin rhan neu oll o Glywysing"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of part or all of Glywysing"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi du Glywysing"
+    }
+  },
+  "id": "Q148821",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hywel ap Rhys"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Hywel ap Rhys"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hywel ap Rhys"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hywel ap Rhys"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hywel ap Rhys"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hywel ap Rhys"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハウエル・アプ・リース"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hywel ap Rhys"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хивел ап Рис"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hywel ap Rhys"
+    }
+  },
+  "lastrevid": 17574148,
+  "modified": "2025-09-17T15:49:52Z",
+  "ns": 860,
+  "pageid": 177274,
+  "sitelinks": {},
+  "title": "Item:Q148821",
+  "type": "item"
+}

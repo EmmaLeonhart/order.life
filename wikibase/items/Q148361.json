@@ -1,0 +1,227 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hoedlyw ab Ithel ab Edryd ab Inethan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148361$29D3BE6E-E735-4E99-903E-64B43D5FA2A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00757388"
+          },
+          "hash": "cd3da1b0fb2ea28ed00e69b4782d79da67d8b1d9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148361$8437E4D8-C418-478A-82EE-19F14142A61D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144438",
+              "numeric-id": 144438
+            }
+          },
+          "hash": "75e7c09d32e068610160c1c092aaf38408888207",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148361$FDE0C602-FB39-471C-8BC8-BE77362CF207",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ab_Ithel-5"
+          },
+          "hash": "c51cb5f53130bcd4904ea5ee9448ee4a3e0ed15c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148361$7F3D262A-B489-439A-AD0B-05ABCC9D1D1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148361$CAD0DE24-1FBB-4F3E-8F4E-CC9F06022492",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148361$A236F0A8-B429-420B-A6D0-AC3689E08790",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148361$018D90F1-9360-4936-896F-380BA31F0E26",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1051-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "52357ab399110015fac7d210d3e57469525939de",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148361$DA0B9E6F-3CBC-4D7D-94B9-80385D7C4502",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110582740"
+          },
+          "hash": "ccfebdac902e1a9366cf361080f7bbfc69891e84",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148361$79DA06DF-E688-4051-8A9A-B79C0446CF8C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Hoedlyw ab Ithel ab Edryd ab Inethan"
+          },
+          "hash": "353ec6c43d3c5656859e84ab2c0bc0ecfefabbe2",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148361$DEAA17DB-AD4E-453E-B26E-B80FE967425F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hoedlyw ab Ithel ab Edryd ab Inethan Arms.svg"
+          },
+          "hash": "f13f3be8e23d6d89b96382a43e49ade55a54ffce",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1051 -"
+    }
+  },
+  "id": "Q148361",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hoedlyw ab Ithel ab Edryd ab Inethan"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Hoedlyw ab Ithel ab Edryd ab Inethan"
+    }
+  },
+  "lastrevid": 17573258,
+  "modified": "2025-09-17T15:37:26Z",
+  "ns": 860,
+  "pageid": 176814,
+  "sitelinks": {},
+  "title": "Item:Q148361",
+  "type": "item"
+}

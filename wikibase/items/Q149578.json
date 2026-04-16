@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John IV Comyn, Lord of Badenoch"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149578$2C1B8A8D-66A3-42AF-9AF3-D5DEC34871CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106030"
+          },
+          "hash": "097a26d32b1b2e587291a28128b35270f23e9f64",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149578$A389F844-5D56-42A5-AA1A-7F0EA4650C51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149578$18234C3E-B221-47BF-B1CE-ABEB41972FD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149578$A067BD34-F7F9-4271-8364-776D03571AE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148813",
+              "numeric-id": 148813
+            }
+          },
+          "hash": "6a2e3e7565484b86b51d3b27079aa379a5693d93",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149578$61B9D158-47E0-49DF-A0D5-3B2DBE0A1AB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10700.htm#i106991"
+          },
+          "hash": "c90d66e059bb257c3a729eca2eaff8c366816c4e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149578$25BB75E7-B58F-4657-9731-26F61729A2D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145253",
+              "numeric-id": 145253
+            }
+          },
+          "hash": "5a40f77ea38aaf0bfe29ca737a6b1134c576e78e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149578$2E66CB96-3727-463D-8DBA-94F7BAC8D0D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145254",
+              "numeric-id": 145254
+            }
+          },
+          "hash": "9637c43aaf7c645afff303c6fa03e6c41eea3429",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149578$83B9E953-FE29-4D5E-BB57-05BCFCF1111F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149578$0AD5EFA5-D0F7-45C1-A778-EB357D6A08FE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1290-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c22f42a7fb7df46c1109606409c9eb236cf037de",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149578$067994CF-661A-4C1B-90DC-8ED79E2DF226",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1314-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8388ae412f4c2774c0b0c57c4d044a696f6122fe",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149578$2A00D7B2-685F-4140-8725-788B77340C7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q23614507"
+          },
+          "hash": "ad216fc96c815cb2f445d3899491030dfe5b8e11",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149578$954E1722-0802-4626-B969-A823B31EA765",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John IV Comyn, Lord of Badenoch Arms.svg"
+          },
+          "hash": "31d34e5cbcfacb2c1b0ed6b51fe110c89588a271",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Schottischer Adliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "14th-century Scottish nobleman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble d'Écosse du 14e siècle"
+    }
+  },
+  "id": "Q149578",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "John Comyn"
+    },
+    "en": {
+      "language": "en",
+      "value": "John IV Comyn, Lord of Badenoch"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John IV Comyn"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジョン・カミン4世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John IV Comyn"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джон IV Комин"
+    }
+  },
+  "lastrevid": 17575648,
+  "modified": "2025-09-17T16:10:40Z",
+  "ns": 860,
+  "pageid": 178031,
+  "sitelinks": {},
+  "title": "Item:Q149578",
+  "type": "item"
+}

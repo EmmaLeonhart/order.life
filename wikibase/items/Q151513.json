@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Tullius Cicero"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151513$5C5B7172-B61E-4B07-85CB-85268CD5ACF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151430",
+              "numeric-id": 151430
+            }
+          },
+          "hash": "8c38cfbd7e88ee7e930ddf3115cdbcc094642257",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151513$7EBE8AD0-DC7E-4FAD-AB4B-ABB77BDFCA83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151371",
+              "numeric-id": 151371
+            }
+          },
+          "hash": "8632c6f65ea817008431ee4024c2823f32892534",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151513$3B7E3A46-0492-4BB2-B94C-595A20679F68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151513$9B636FC7-967C-412B-830F-D0FDCF93AC09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151513$C32BA132-D1B1-4404-B42B-B6A0E0F6AD8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148200",
+              "numeric-id": 148200
+            }
+          },
+          "hash": "7e032a27741ca60bfe0b28caca82ec0b17aefebf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151513$495B04A1-4D56-43E5-88A5-6C7650CD9632",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151513$8FF15EB8-AE6E-46CC-9F79-CB0DC13BA4A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151513$971648CE-B3E8-4B42-ABC9-9488330AB621",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0106-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "887156dbef6af3f843f3ec427b22eee27ce787ef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151513$3124CBDA-0BF6-44DF-B6E4-8BF7BDF7DF6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20109060"
+          },
+          "hash": "12a8af3b18f53400434ed687e10aad3f7dbd2696",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151513$6699ACEC-689D-4919-B89C-058679566A9B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Tullius Cicero Arms.svg"
+          },
+          "hash": "052e24180d630368edc45cb29b336907382ea46f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "taid yr areithiwr Cicero"
+    },
+    "en": {
+      "language": "en",
+      "value": "grandfather of the orator Cicero"
+    },
+    "es": {
+      "language": "es",
+      "value": "abuelo paterno de Cicerón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "grand-père de Cicéron"
+    },
+    "it": {
+      "language": "it",
+      "value": "nonno di Marco Tullio Cicerone"
+    }
+  },
+  "id": "Q151513",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Marc Tul·li Ciceró I"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Marcus Tullius Cicero"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Tullius Cicero"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Tullius Cicero"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Tulio Cicerón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Tullius Cicero"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Tullio Cicerone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・トゥッリウス・キケロ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Tullius Cicero"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Тулий Цицерон"
+    }
+  },
+  "lastrevid": 17579436,
+  "modified": "2025-09-17T17:02:23Z",
+  "ns": 860,
+  "pageid": 179967,
+  "sitelinks": {},
+  "title": "Item:Q151513",
+  "type": "item"
+}
