@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Severus ap Cydifor Wynwyn ap Cadvan ab Owain"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137437$AA2394E5-6B22-4434-9BD1-89374898F0E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00752297"
+          },
+          "hash": "5994273195aefc47f311ac190c7d7c6dda51ee36",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137437$3AFD3D9D-37D0-4CA0-9D79-5CE18D12A7C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138094",
+              "numeric-id": 138094
+            }
+          },
+          "hash": "e984fd7545b6a84d8dbe828868ab3d74035e3361",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137437$A3D1EC5A-017C-4129-AB56-959F5445F738",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136991",
+              "numeric-id": 136991
+            }
+          },
+          "hash": "fe0a65cbe1446bf3de2d10454cfceee39e98ae13",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137437$E01886D3-662F-4F44-B435-24B00D5D2074",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Cadwr-2"
+          },
+          "hash": "3cfb30975690e7fd9bd4fe17afa40a7b7c1fc0b7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137437$A50658FD-9C31-4730-BBC3-C0C82BAD14A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137437$531B56FE-C824-4F9B-9680-7648A059F6E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137437$D2CFD1E9-014B-4F5D-A6F1-DC27EEF8281F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137263",
+              "numeric-id": 137263
+            }
+          },
+          "hash": "a7c66c1ca2c65337c3d2b283a8d033891502d962",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137437$5541A09A-21BC-46C9-8B88-1BA85D709B9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137437$E4072017-19A8-4499-900C-16FC7241ED57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0870-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22c16d2e73ca951354b1dffb0e75a7e2d415095a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137437$8BAAE58D-7ACD-4445-915A-0C77C4BA1692",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108180088"
+          },
+          "hash": "736e2a579c746fd1e2c0a8b2ed513ef67ef6d389",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137437$5D090052-6500-4447-86FB-95A9AE7A577C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Severus ap Cydifor Wynwyn ap Cadvan ab Owain Arms.svg"
+          },
+          "hash": "b1afc465034c790dce964b996197bed2af8ffe44",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(870- )"
+    },
+    "en": {
+      "language": "en",
+      "value": "(870- )"
+    }
+  },
+  "id": "Q137437",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Severus ap Cydifor Wynwyn ap Cafan ab Owain"
+    },
+    "en": {
+      "language": "en",
+      "value": "Severus ap Cydifor Wynwyn ap Cadvan ab Owain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Severus ap Cydifor Wynwyn ap Cadvan ab Owain"
+    }
+  },
+  "lastrevid": 17554799,
+  "modified": "2025-09-17T11:11:13Z",
+  "ns": 860,
+  "pageid": 165822,
+  "sitelinks": {},
+  "title": "Item:Q137437",
+  "type": "item"
+}

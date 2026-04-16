@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cú Cherca mac Fáeláin"
+      },
+      {
+        "language": "en",
+        "value": "Cu Cherca mac Faelain"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139414$80D387C8-248D-42FA-BA70-25324A40FAAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138280",
+              "numeric-id": 138280
+            }
+          },
+          "hash": "5925be3cee0ac38c70a4ee8476cd36c93577957d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q139414$5CCF27C5-E2F1-44B2-987C-811DADEE73CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mac_Faelain-1"
+          },
+          "hash": "3f073c448597f5ac57d4ac5da7293a6f3e55c862",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139414$60449BB3-05C7-4FBC-9ABD-60E4ECE5C981",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139414$C3C2024D-0E42-488E-9BB3-F773CADEA12B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139414$C1EE4435-F77A-4598-9A3C-6BE0A2AD34FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cú_Mac_Fáeláin_(1)"
+          },
+          "hash": "3dff56ec642a3f94915786857a4bde4ed8e29a4d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139414$A5483F65-9779-402C-9E21-24C96114F34B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139414$85E045E5-6B4C-40DB-9C55-F2D4CA6C454B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0712-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ce53856ac48b5719db0a5fc1d41324b8296d096d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139414$115C927E-5D78-4E57-B91D-96692E2CDBAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5202787"
+          },
+          "hash": "d83dac6bdc74f1021f8e87bf317b11b84d21147c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q139414$0AF9FEFA-200C-45B8-B274-02AE73BA5629",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=cucaircheach;n=mac faelan"
+          },
+          "hash": "51a7c7f5876b536e930085418d7618aa80dbff18",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139414$A8BCEE42-8250-4C82-BB02-97CED0AB44A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cú Cherca mac Fáeláin Arms.svg"
+          },
+          "hash": "66b1d241a0d65afb9f7c6dd46f00b95654edde45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish king"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Osraige"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí Éireannach"
+    }
+  },
+  "id": "Q139414",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cú Cherca mac Fáeláin"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cú Cherca mac Fáeláin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cú Cherca mac Fáeláin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cú Cherca mac Fáeláin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cú Cherca mac Fáeláin"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cú Cherca mac Fáeláin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cú Cherca mac Fáeláin"
+    }
+  },
+  "lastrevid": 17557855,
+  "modified": "2025-09-17T11:54:44Z",
+  "ns": 860,
+  "pageid": 167799,
+  "sitelinks": {},
+  "title": "Item:Q139414",
+  "type": "item"
+}

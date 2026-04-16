@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Atia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138414$52ACECEA-B99A-4148-B21A-598B7CD39214",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735634"
+          },
+          "hash": "0209628571600b87dda1be026398569b153242ff",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138414$AB4CC2BF-EAD5-4916-99E7-80A6CFFEE697",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139576",
+              "numeric-id": 139576
+            }
+          },
+          "hash": "3c4a4cc3f287f2985ef78767c58a78cdef6044e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138414$B7CE95EE-F7DA-42B0-8E2F-C2F22BB4395A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138414$4D75EC39-9F08-468B-9843-BA2B75A2AA4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138414$2941F99A-C61F-4AB7-92BC-A92AE363471B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139575",
+              "numeric-id": 139575
+            }
+          },
+          "hash": "f0a9197268c0851e40228f55f13922c675d248c8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138414$2D7A1B3B-1EE4-46C5-AD9E-DFE6654C21C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72873",
+              "numeric-id": 72873
+            }
+          },
+          "hash": "de7cc030a2b6d555fadb76be4d2cbd2ef0782282",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138414$737967F8-D80C-433A-B330-63B337B7EF1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72876",
+              "numeric-id": 72876
+            }
+          },
+          "hash": "f834c670d2d8219814c883eb37073bb35212e9ee",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138414$7FB3614E-7880-4A68-ABBA-698DB8D58978",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138414$70573FFD-54BF-41DE-8E78-BA667703CA68",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138414$0945C2E8-7B87-416C-BCB2-929E19FE75DB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138414$0E14961E-06FF-4EAD-B117-3B672A40410C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q25338418"
+          },
+          "hash": "3ae3eeb1c0aced86ac1646bb916e878915b9de76",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138414$FE655CA1-4642-46B9-8251-611395020293",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Atia Arms.svg"
+          },
+          "hash": "00abbb39f0148bf25c3789dc348c24b58c3e2b74",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "aunt of Augustus and wife of L. Marcius Philippus, consul in 38 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "tía de Augusto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, tante d'Auguste"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "yngre moster till Kejsaren Augustus"
+    }
+  },
+  "id": "Q138414",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Atia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Atia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Atia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Acia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Atia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Atia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Atia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Atia"
+    }
+  },
+  "lastrevid": 17556249,
+  "modified": "2025-09-17T11:32:00Z",
+  "ns": 860,
+  "pageid": 166799,
+  "sitelinks": {},
+  "title": "Item:Q138414",
+  "type": "item"
+}

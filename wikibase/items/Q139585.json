@@ -1,0 +1,356 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sextus Appuleius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139585$84A04572-F37C-47D4-85A3-DC8D53887201",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735973"
+          },
+          "hash": "f80447c31c3fa73da6e5c170ae53d545f9ae3c21",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139585$83BE3DE0-96E4-44AA-B6EF-E4CCC8A70AAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141443",
+              "numeric-id": 141443
+            }
+          },
+          "hash": "1c63d3d18b73ec50fdd8423004950c0e6a764fbb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139585$348FA4A9-84C3-4EA2-9F8D-BADD6A092146",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139585$EA7C893F-F5DB-47DC-A231-B9F833E8CA67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139585$6DEC2247-145A-4B01-BFCB-91BBBE516629",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141425",
+              "numeric-id": 141425
+            }
+          },
+          "hash": "9dba7c486e37267c15eb8c9d4dc401f7cd4e8e26",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139585$85464288-A505-4BBF-870C-3D0A5E1FE619",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138418",
+              "numeric-id": 138418
+            }
+          },
+          "hash": "b3246b9147318716620e86fbc61b0bfd805e6174",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139585$1C9076C5-7168-49FB-BBD6-180A61BC72AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139584",
+              "numeric-id": 139584
+            }
+          },
+          "hash": "c2eaf1bd4c3dad7fdbab81aed6ad4b44a75f1858",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139585$635F9A79-4B5D-47C5-9139-ED7F5E1FDF23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139585$AD6344CA-FC26-4270-939F-4E68354E9551",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0020-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b966ac308bc3b07369cbd42035a1ce935900b75",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139585$E63FC210-2C14-4374-A1FA-9DBCDC3FB92C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139585$03ED099F-3408-4AFB-BB7B-72712247CC5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q660112"
+          },
+          "hash": "174258d54986eb8f508cf7aa8ba8dcf1ec7a4941",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139585$A97E5D80-9666-4616-BF0E-D2171D0B4226",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sextus Appuleius Arms.svg"
+          },
+          "hash": "c18b1f0dfbd85d22b8861e6fd61bb2cd6fb4476d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 14 dC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 14"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in AD 14"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 14"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e console romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 14"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 14 года"
+    }
+  },
+  "id": "Q139585",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Секст Апулей"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sext Apuleu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sextus Appuleius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sextus Appuleius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sexto Apuleyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sextus Appuleius"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sexto Apuleyo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sesto Appuleio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sextus Appuleius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sextus Appuleius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sexto Apuleio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sexto Apuleio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Секст Аппулей"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Секст Аппулей"
+    }
+  },
+  "lastrevid": 17558147,
+  "modified": "2025-09-17T11:58:51Z",
+  "ns": 860,
+  "pageid": 167970,
+  "sitelinks": {},
+  "title": "Item:Q139585",
+  "type": "item"
+}

@@ -1,0 +1,266 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhys Ieuanc"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q140086$85492B5F-D09B-465C-97E3-2B5608790993",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "926251"
+          },
+          "hash": "2fce9c0a4bc8fab352dc95b0f975f114d1d709dc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140086$69D3EAEE-D9C3-4E1E-9225-84AFDDC295AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140086$0F5DE29A-29E5-418F-B3F5-D7A8483B8426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q140086$0F1E395E-8B82-4623-89A2-7DA481883861",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhys_Gruffudd_(3)"
+          },
+          "hash": "d809d722e30eb651a1b52f5be6f899bc5b4f1cff",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140086$E64A3E0D-F440-4BDB-9468-72A2A56902B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138745",
+              "numeric-id": 138745
+            }
+          },
+          "hash": "7925db90e2a85c245cc7e37e40b8bcd82a7f6e8c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140086$8F69E1F4-6936-4DB8-8DAB-83D44FE23211",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140086$42EBE506-EDA0-4F34-8A15-28D8BCA34A63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q140086$F3C18F07-1185-441B-A9BD-A6BCBB64300C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1222-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "837d6cb3de396540e8e6b870f290026fb39615c0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140086$02384536-DDC2-4CBD-BD0B-C3D4AC340AE0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17325889"
+          },
+          "hash": "57a653ed2f8c5bbe4ec386a78723855839de8a8f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140086$03F6C5B7-3CE5-4972-93D2-5138F99D1B24",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhys Ieuanc Arms.svg"
+          },
+          "hash": "b1d01e4178ba8ca3949ffc9f94ccf1720fcaeb4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1200-1222)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lord von Deheubarth in Südwales"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1200-1222)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1200-1222)"
+    }
+  },
+  "id": "Q140086",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Rhys Ieuanc"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Rhys Ieuanc"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rhys Ieuanc"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rhys Ieuanc"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Rhys Ieuanc"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rhys Ieuanc"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhys Ieuanc"
+    }
+  },
+  "lastrevid": 17559007,
+  "modified": "2025-09-17T12:11:15Z",
+  "ns": 860,
+  "pageid": 168471,
+  "sitelinks": {},
+  "title": "Item:Q140086",
+  "type": "item"
+}

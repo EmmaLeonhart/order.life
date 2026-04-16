@@ -1,0 +1,370 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sextus Aelius Catus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139680$C5070F59-ADF9-4EBA-915D-3F370AC5CC69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00801068"
+          },
+          "hash": "310e38d7b86e3450e8877d8829d6b3c368194e98",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139680$69DD65CD-906E-4001-AA3F-077DCA1DA5A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139683",
+              "numeric-id": 139683
+            }
+          },
+          "hash": "99756d4167c8d0ed8ae4740e7755f487205dbef0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139680$4F3A0A4B-CFA9-47C8-AB04-0F34DCCD78B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138471",
+              "numeric-id": 138471
+            }
+          },
+          "hash": "1a48964404d21c62800102b2bf1eeb87392710c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139680$B0F26874-17E1-476A-9606-42C3CE9FC473",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139680$0656ADB6-74AB-4289-A1F4-008A5342C7AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139680$C9FC3F76-A5A3-470D-BC98-FEDB668FE716",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141581",
+              "numeric-id": 141581
+            }
+          },
+          "hash": "eb9345a97bb00dfce92ceb47a78a1995fd26c6aa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139680$93EFE9DC-6518-4926-94C4-6844D02A3849",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70331",
+              "numeric-id": 70331
+            }
+          },
+          "hash": "5ed737b36dffec0e3395eee7bf335b05e0bf9775",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139680$0804E657-AC89-4509-89A9-BB22841F4DA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139680$E6DF888E-55A2-4691-A29D-9319C7CCBF3B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139680$05C47351-F408-496B-8D34-4CF55A11F074",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19585ebc3231970eccfe06ed51100345dc7e3572",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139680$EE329AF0-8C43-4664-B88D-D121D4A04C5E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q778051"
+          },
+          "hash": "7decd908b072540f3b7cb5a69f97a757dbafea8c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139680$05DEEF1B-F813-4515-A5A7-D5A6CF93DBDF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sextus Aelius Catus Arms.svg"
+          },
+          "hash": "ff68393493d81c8e54f9ce76acbe35857bac6e09",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker der frühen Kaiserzeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 4 AD"
+    },
+    "es": {
+      "language": "es",
+      "value": "senador romano a principios del siglo I."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 4"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    }
+  },
+  "id": "Q139680",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سكستوس ايليوس كاتوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Секст Елий Кат"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sext Eli Cat"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sextus Aelius Catus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sextus Aelius Catus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέξτος Αίλιος Κάτος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sextus Aelius Catus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sexto Elio Cato"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sextus Aelius Catus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sextus Aelius Catus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sextus Aelius Catus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sesto Elio Catone"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sextus Aelius Catus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sextus Aelius Catus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sexto Élio Cato"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sexto Élio Cato"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Секст Элий Кат"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sextus Aelius Catus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Секст Елій Кат"
+    }
+  },
+  "lastrevid": 17558299,
+  "modified": "2025-09-17T12:01:01Z",
+  "ns": 860,
+  "pageid": 168065,
+  "sitelinks": {},
+  "title": "Item:Q139680",
+  "type": "item"
+}

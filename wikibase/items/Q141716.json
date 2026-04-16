@@ -1,0 +1,777 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oliba Cabreta I de Cerdanya"
+      },
+      {
+        "language": "en",
+        "value": "Oliba Cabreta I, comte de Cerdanya"
+      },
+      {
+        "language": "en",
+        "value": "Oliba Cabreta"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q102772$659AD3C0-935A-4870-913A-BDB4811B658E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1320717"
+          },
+          "hash": "20c85a0a0b2873b04beb53eb51788f420e867ceb",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q102772$86929796-E20A-4EDA-8230-5D7AFFB8A2AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00197490"
+          },
+          "hash": "2b68a10c74b72580a96582a5227588a85580cadb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q102772$52B0EB21-788D-4F20-8489-9B0AB1145084",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104640",
+              "numeric-id": 104640
+            }
+          },
+          "hash": "677a80697ab598a86f4bfd8f2c0cc49ee7d64717",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$DE82DA8F-D230-45D5-9122-1B81C550074E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112292",
+              "numeric-id": 112292
+            }
+          },
+          "hash": "77a29dea0681c02265afb599c8af5a79ab1f0483",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$710B4029-3E75-4187-8831-6E67DD920F3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112284",
+              "numeric-id": 112284
+            }
+          },
+          "hash": "765dae1f04a37e33cd8fa96c3c356a3e99ba285c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$0759EDD6-23F5-434F-B9DC-894021765F3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112286",
+              "numeric-id": 112286
+            }
+          },
+          "hash": "a24edac1b083daf67a90c2c47edd34798e90bb1d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$1386A8A4-37DB-4945-BF00-F5C009ACA51F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112288",
+              "numeric-id": 112288
+            }
+          },
+          "hash": "fc6d8b74b39479116e857efaed8cb7dae4f0e6c0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$E1F47FA6-A1A5-437D-B0D2-C7D9C4F47ABC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112282",
+              "numeric-id": 112282
+            }
+          },
+          "hash": "ff39ab237ea300cc075dd146194ea247789429f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$3B322775-8423-447F-825D-18096C2FA162",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104644",
+              "numeric-id": 104644
+            }
+          },
+          "hash": "2c88966ce74ecb426a344e8d5c9180bd3806ea2e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$A94DCEAE-2882-4989-83B5-596977B9A3F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104646",
+              "numeric-id": 104646
+            }
+          },
+          "hash": "ebd8621f6e27550dd82a9e5b9a267dc85078114f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$CF40EEF7-0ABE-4372-95E2-73D38BC4C370",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104648",
+              "numeric-id": 104648
+            }
+          },
+          "hash": "a373b2a84f1675e6746b4abf51867157e3446085",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$958C956A-9A84-4BC1-8D9C-928E4215B52A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104650",
+              "numeric-id": 104650
+            }
+          },
+          "hash": "566cc4f71baa9101d282c8afba18c6a0470549d1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$79CEBCF7-B01A-43E3-8C86-4E6058ACFE92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104652",
+              "numeric-id": 104652
+            }
+          },
+          "hash": "354af9ed77539a879c4082dcc3219ae31bb438c0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$25FE7E9E-CE40-4E79-A0DF-25DDAD04866F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112290",
+              "numeric-id": 112290
+            }
+          },
+          "hash": "6383adf3030823a0c92abda4b184eddedb1e0742",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q102772$A595F4FD-9488-472C-A682-B37D235D880B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cerdanya-11"
+          },
+          "hash": "6cf1037ceaa970ab73be9ee4a5a329b9f273991e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q102772$78981E55-5D17-4F50-B50C-F1BD369AD4EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$076534C8-02FF-4AE2-BD4A-010AA782F320",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q102772$A6FFF7FB-2A0E-4AF2-8F19-98B9E7085A6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Oliba_Cabreta_(1)"
+          },
+          "hash": "39d1a6d9c05e1b7b2e423a145f9e8e1436ef60f3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q102772$18080F70-A9A0-48A4-9F1E-DE1DC5E40EC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104638",
+              "numeric-id": 104638
+            }
+          },
+          "hash": "8eada5b9ecaad8b950a209295bf4bde268c4a6b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$9C6B8624-70E4-4083-80D2-A8CE0D738B8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104642",
+              "numeric-id": 104642
+            }
+          },
+          "hash": "c40368d39a2902ae2709a4523f0d85d4d91fef67",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$BFE37243-EED0-4311-B7E5-B3D875001075",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104654",
+              "numeric-id": 104654
+            }
+          },
+          "hash": "1dbbf65bd3893ccdd60721ef1575024e333d0803",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$06703237-9CA4-43A7-8809-46086411B0EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113542",
+              "numeric-id": 113542
+            }
+          },
+          "hash": "ad119ea9f7a596312c8c37aee86ee9c2cca2d983",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q102772$266F1EDF-0C21-49C1-B272-E9EE87E8B88D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102765",
+              "numeric-id": 102765
+            }
+          },
+          "hash": "0e84e131e3440bcc8686f93d0796daf3286fca22",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$75D61114-33CF-488C-87B9-8A7193BA05C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111442",
+              "numeric-id": 111442
+            }
+          },
+          "hash": "417afbe751f59d6e382349483487d63c2ba89e1e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q102772$FD8D5CDA-865C-4EC5-9D62-B03232EAF38B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101589",
+              "numeric-id": 101589
+            }
+          },
+          "hash": "a9d429947c4a59df3668adf7a568c11ae5655428",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q102772$A6DBC925-7384-4393-A1E4-235C6BF78958",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110870",
+              "numeric-id": 110870
+            }
+          },
+          "hash": "a0996f5bfbf9c5c994c047e1cb3312eddaa3f0ba",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q102772$0CD5B79F-9C02-480C-8F1A-4D733DA2BEF0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "comte de Cerdanya"
+          },
+          "hash": "2056ccc468a498c2df30a38f02f41cc18d8a56fa",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q102772$AADCE4E2-B463-408A-806A-05B0B4C2A8E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q102772$64760986-7E33-438B-B277-D49152BADD93",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0920-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "230af232b164806859b6921634724fb072379943",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q102772$7B1A906D-CBA9-449B-8696-29346D8829C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0990-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec90c50802c265531331f71644bc973b58c96bb2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q102772$7AC1CBB0-1F2E-44EC-9092-CE67A782A5BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2499376"
+          },
+          "hash": "81eb3530f75fc339dabcec9be7a4a156d662422d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q102772$F29ACCE8-CD83-4004-AD35-E8B8521E41FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5096010198730109069"
+          },
+          "hash": "8cd665c183102b6f6dbae9c3c13279d1dc4cd020",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q102772$CAF33038-FF3B-4D4A-B124-0C0FC473850B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=oliba;n=de cerdanya;oc=1"
+          },
+          "hash": "3e838ad611df35446f4678c4fe3cef8d7520bdc7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q102772$540DF0DF-A464-4E49-978B-43E1DC0F9D6E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oliba Cabreta Arms.svg"
+          },
+          "hash": "d54ae8caee23d26eb430285dfb274b3662a10d9e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "عامل اجتماعي ألماني"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Comte i monjo s. X"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Cerdanya, Conflent und Besalú aus dem Haus Barcelona"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ισπανός ευγενής, κόμης της Σερδάνια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Spanish noble and count of Cerdanya and count of Besalú (c.920-990)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nobile spagnolo e conte di Cerdanya e di Besalú (c. 920-990)"
+    }
+  },
+  "id": "Q102772",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوليبا كابريتا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Oliba Cabreta"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аліба Кабрэта"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Oliba Cabreta"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oliba Cabreta"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ολίβα Καβρέτα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oliba Cabreta"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oliba Cabreta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Oliba Cabreta"
+    },
+    "id": {
+      "language": "id",
+      "value": "Oliba Cabreta"
+    },
+    "it": {
+      "language": "it",
+      "value": "Oliba Cabreta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oliba Cabreta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Oliba Cabreta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Oliba Cabreta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Олиба Кабрета"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Oliba Cabreta"
+    }
+  },
+  "lastrevid": 17515599,
+  "modified": "2025-09-17T01:50:52Z",
+  "ns": 860,
+  "pageid": 121267,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q102772",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q102772"
+    }
+  },
+  "title": "Item:Q102772",
+  "type": "item"
+}

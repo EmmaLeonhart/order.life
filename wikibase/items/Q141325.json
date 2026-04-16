@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hugues IV de Bassigny"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141325$07D1104E-5782-4C13-8112-86351A106842",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141325$7D37087E-7501-4204-AC5C-95303D7FD11D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141325$736424FE-3C94-4521-94D8-AE523E96F9AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139467",
+              "numeric-id": 139467
+            }
+          },
+          "hash": "cb765a3df40c31290551f36a9eb02f5a9d8e13f0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141325$9ABEFAFD-A376-466B-B8BA-3198D51CDB1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141325$BACAD9CE-AC24-47F4-9643-70344D123D22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0961-08-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f1b041ee4a27356e9bcb3527400e6cbdfe75fa63",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141325$24D2ECD9-B751-403D-AA8D-FC0CD9CA5859",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3142591"
+          },
+          "hash": "b65a675ef0dafcfdea8a8bc38c9c1b414926577d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141325$71BBC7D2-D757-4FDE-8A86-C1FA468BE818",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hugues;n=de laon"
+          },
+          "hash": "8abc52493c73f3727b152c95beda0e7352405319",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141325$7D140996-A30D-4F8D-9BF6-76DB567FD7EC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugues IV de Bassigny Arms.svg"
+          },
+          "hash": "54f2c6c9dd14a59c0d7fcc8d630c5f8d7f726c75",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q141325",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hugues IV de Bassigny"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hugues IV de Bassigny"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hugues IV de Bassigny"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hugues IV de Bassigny"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hugues IV de Bassigny"
+    }
+  },
+  "lastrevid": 17561088,
+  "modified": "2025-09-17T12:42:14Z",
+  "ns": 860,
+  "pageid": 169710,
+  "sitelinks": {},
+  "title": "Item:Q141325",
+  "type": "item"
+}

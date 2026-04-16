@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dyddgu ferch Madog ab Idnerth ab Cadwgan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141891$44DD918B-FE61-4460-B2E0-354FC6D263DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759936"
+          },
+          "hash": "8dfcc1fbce4de12855f41801d7bd24f740377691",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141891$2550F687-B0D3-4A62-ADC6-558176A0F51B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139949",
+              "numeric-id": 139949
+            }
+          },
+          "hash": "35a6de2aa4212ad9192775c566a980b6d8156957",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141891$DF8C5AC0-90F1-414A-808A-12A50D20ABF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Madog-10"
+          },
+          "hash": "b6798fa5e27b7eb533e695c1da6e60565a5c5f50",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141891$5A33CA4C-043D-4307-9782-F53C05D19FE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141891$8A90EFAA-B628-4BF3-A51A-E57C7F04B891",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141891$8E66EBF7-4BE9-409C-BB60-2BD65F4FC3CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141928",
+              "numeric-id": 141928
+            }
+          },
+          "hash": "317a9532beacf145802350ff602c747944b36db1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141891$41E95DD0-BA8D-46BA-BD7F-EFC2E62A59ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139916",
+              "numeric-id": 139916
+            }
+          },
+          "hash": "e65f5fa6da1faad42b7d517ed856544fdefa89c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141891$D9C933C0-DBC9-4909-ABB3-0D65AD9D5F75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141891$77C5DD61-7D99-4202-B38E-6CA59EADD1D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1120-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7dcebff35cd4b29d069ca4177d79c1f74b5713c9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141891$5F690A80-AB9D-4B4D-AB25-827D6733F3F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116054851"
+          },
+          "hash": "86f305695acff4e899697ec64a8360cdc5920fd1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141891$472412E1-09F8-4465-8EDA-479261BFAFEF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dyddgu ferch Madog ab Idnerth ab Cadwgan Arms.svg"
+          },
+          "hash": "9af58087acadb4eeba83de72bcfde590f3858615",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1120 -"
+    }
+  },
+  "id": "Q141891",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Dyddgu ferch Madog ab Idnerth ab Cadwgan"
+    }
+  },
+  "lastrevid": 17562030,
+  "modified": "2025-09-17T12:55:49Z",
+  "ns": 860,
+  "pageid": 170276,
+  "sitelinks": {},
+  "title": "Item:Q141891",
+  "type": "item"
+}

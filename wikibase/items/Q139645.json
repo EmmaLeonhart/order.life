@@ -1,0 +1,410 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Haterius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139645$E0B06FB0-69B3-4F59-A972-1B4F7BABD36C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "167469"
+          },
+          "hash": "c16822fac4c740d5c6e02d1dc9169362a40f370c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q139645$CCA95164-7EEE-4FAB-B433-6A204B1E0FE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735927"
+          },
+          "hash": "d97eff71b92752de2b483be6fbb22d76eee8df2e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139645$DBF0866F-8EBE-4AFE-A850-1D0F6CABD963",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139646",
+              "numeric-id": 139646
+            }
+          },
+          "hash": "36451881f6f6c46c3a91aec03da09f35225425a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139645$FBD963B4-27E7-4736-A0C8-DD812032E5A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138442",
+              "numeric-id": 138442
+            }
+          },
+          "hash": "cf3a09c51b9970dd95a586e28d7b0c610fc131ac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139645$72C0F18D-267C-40BD-A9DE-9159C116E9C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139645$53B6EF9F-6371-4DED-8792-FC67C5FB14F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139645$D16CDFD0-C450-4706-B5CE-D545BCC1586E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139606",
+              "numeric-id": 139606
+            }
+          },
+          "hash": "6b3d26beafa66f11ee474b57057954d3f7599987",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139645$A6F99013-8AC3-419E-83A5-77EEEAC4F03A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139645$4D648FA8-6FD8-47CB-A026-242704CE7D52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0060-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b98e80082d823002cf6c3fa6f4113e9b7c461679",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139645$996F00E4-482B-488C-8256-5B57755FD5A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0026-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "64edb8b434becb40409af4a18794296cbe317dd7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139645$61B2119C-B5D4-453B-A29A-3F58E4ED1F74",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1088287"
+          },
+          "hash": "171186900923aca8e095c502977a627b32013785",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139645$80CED64E-5A5A-4B26-A633-D6BDA166309B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Haterius Arms.svg"
+          },
+          "hash": "ed7fedb1505cc3b4001d51f8819e6862a4bbeacd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Senator"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician and orator during the reigns of Augustus and Tiberius (c.63 BC-AD 26)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori római szónok"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e oratore romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-26)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q139645",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Хатерий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Hateri"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Haterius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Ατέριος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Haterius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Haterio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Haterius"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quintus Haterius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Aterio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クイントゥス・ハテリウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Haterius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Haterius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwintus Hateriusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Hatério"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Hatério"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Гатерий"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Quintus Haterius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Гатерій"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昆图斯·哈特里乌斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "昆图斯·哈特里乌斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "昆图斯·哈特里乌斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "昆圖斯·哈特里烏斯"
+    }
+  },
+  "lastrevid": 17558239,
+  "modified": "2025-09-17T12:00:11Z",
+  "ns": 860,
+  "pageid": 168030,
+  "sitelinks": {},
+  "title": "Item:Q139645",
+  "type": "item"
+}

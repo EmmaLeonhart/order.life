@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Calpurnius Piso Frugi"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141610$6E168CA8-AF9B-4E4E-8E26-79CE28A34DA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736006"
+          },
+          "hash": "bec0cda3331ee26e96f7c5aa64725f0ef123fed0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141610$0D337FA2-59B8-4762-B59F-78D0EE075DD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141611",
+              "numeric-id": 141611
+            }
+          },
+          "hash": "1f728db4560919a0a9b03e513bd17c1d60ebefa2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141610$7E7B04BF-82E6-4292-BC65-1B19D8054F89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72278",
+              "numeric-id": 72278
+            }
+          },
+          "hash": "073adade45352fad73c88c450a21c9d2c877c9f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141610$B0E5EC91-89BB-4403-A314-91317F5511BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141610$457A8D9F-97A4-4D9B-9666-8769B7479B1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141610$2B200D4B-BB38-4731-811C-79572833A02B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144275",
+              "numeric-id": 144275
+            }
+          },
+          "hash": "50a52f30a8d2f75b605519773cb34618028eb8e1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141610$72597656-7EA4-46D6-830E-FC66F5856B4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141610$032BC0EC-4DD6-4EB2-B991-5763900F9613",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141610$EEDB0DD9-E322-44F8-B211-524DB7BA12BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0111-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c25accffdc0dec8fe1f3e19b7b5bd3fb0faa417",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141610$048B4028-A2A9-42AE-9C14-8938A263D641",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12118997"
+          },
+          "hash": "c10fda77687d82574988038ec6ecb7fb5b9cf7fc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141610$9E882D9C-6CC2-4E98-A210-BE3A1F795EC5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Calpurnius Piso Frugi Arms.svg"
+          },
+          "hash": "c099a1d620739cb29bf261b92dc9c90bbee0dc34",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman praetor 112 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "gobernador de Hispania Ulterior en el periodo 113-111 a. C"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 112 av. J.-C."
+    }
+  },
+  "id": "Q141610",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Luci Calpurni Pisó Frugi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Calpurnius Piso Frugi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Calpurnius Piso Frugi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Calpurnio Pisón Frugi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Calpurnius Piso Frugi"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Calpurnio Pisone Frugi"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Calpurnius Piso Frugi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Кальпурний Пизон Фруги"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Calpurnius Piso Frugi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Кальпурній Пізон Фругі (претор)"
+    }
+  },
+  "lastrevid": 17561568,
+  "modified": "2025-09-17T12:49:13Z",
+  "ns": 860,
+  "pageid": 169995,
+  "sitelinks": {},
+  "title": "Item:Q141610",
+  "type": "item"
+}

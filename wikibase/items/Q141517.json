@@ -1,0 +1,358 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Porcius Cato"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141517$BC67803B-282C-42C9-B414-3B4AD24854B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00695417"
+          },
+          "hash": "963888f8d92980659967d9c487dfd564cf05f204",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141517$57C7745A-4CC8-41C4-9B40-BCCE63F531BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141438",
+              "numeric-id": 141438
+            }
+          },
+          "hash": "20e242140db222f2c5e88b44045c5eb3f51ea4f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141517$C59F624B-E89D-4865-80B3-D05AA402F424",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139642",
+              "numeric-id": 139642
+            }
+          },
+          "hash": "d072edb9f66b4ef28b2ae635cd45d8720e7caa32",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141517$FB34B35F-F7AA-4873-AF0C-3829313DE29F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141517$C7DB367B-3D1B-48AB-82DC-D4E2A55F4FF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141517$3E4800DC-7813-4953-AD67-4D8DC188DBE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72624",
+              "numeric-id": 72624
+            }
+          },
+          "hash": "07c17e5d7f6e2b4733a0630e5f962d15cbfab617",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141517$2032E050-26DB-451F-BCB5-35665223D44E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144170",
+              "numeric-id": 144170
+            }
+          },
+          "hash": "1c1bbd133b4c22d5dd589ec11011aa50b2182b2b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141517$077173E1-3B66-4BBC-843F-E9B7937BF04C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141517$2D6174C0-62B3-408F-B6AF-3240CD56F697",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141517$ED159AC4-D417-4CE5-883D-C7B4E2E0B31E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0093-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84709ebe8969d3c9544c6f99733ed5eda4f8f5a3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141517$862F257C-7B1E-42CB-AAE1-B237F4D463AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1372970"
+          },
+          "hash": "31da42f52bd63a3cdfa4c892184592c636ea7c48",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141517$11BFACA6-6B62-4A3B-83AF-6A8F0BFE75E1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Porcius Cato Arms.svg"
+          },
+          "hash": "89491da14159688d9566d25dd6ba6cd8f6be0559",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "fill de Cató Salonià i pare de Cató d'Útica"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vater des Cato Uticensis"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Rome politician"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי ברומא העתיקה, אביו של קאטו הצעיר"
+    },
+    "it": {
+      "language": "it",
+      "value": "padre di Catone Uticense"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "tribunus plebis"
+    }
+  },
+  "id": "Q141517",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Порций Катон Салониан Млади"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Porci Cató"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Porcius Cato Salonianus den yngre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Porcius Cato Salonianus der Jüngere"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Πόρκιος Κάτων (πατέρας του Κάτωνα του Νεότερου)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Porcius Cato"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Porcio Catón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Porcius Cato"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס פורקיוס קאטו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Porcio Catón Saloniano el Joven"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Porcio Catone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・ポルキウス・カト"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Porcius Cato"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Porcius Cato"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Порций Катон Салониан Младший"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Порцій Катон Салоніан Молодший"
+    }
+  },
+  "lastrevid": 17561412,
+  "modified": "2025-09-17T12:47:00Z",
+  "ns": 860,
+  "pageid": 169902,
+  "sitelinks": {},
+  "title": "Item:Q141517",
+  "type": "item"
+}

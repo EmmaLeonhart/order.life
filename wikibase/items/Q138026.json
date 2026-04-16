@@ -1,0 +1,284 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ieuan ap Llywelyn ap Cynwrig ap Hywel ap Madog of Radyr"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138026$F9BD1F99-8257-4044-8EA9-0AC79209C27B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00707737"
+          },
+          "hash": "0d7d71cce88c0fae646a6833ae714f81b0d7528a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138026$5450F5A8-DA86-4979-8805-BFFAC8D10B55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138994",
+              "numeric-id": 138994
+            }
+          },
+          "hash": "b0aa20244446a99c04ff0d89ccb8edbbde548799",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q138026$E28056A1-38A0-45FD-B0A7-3789304FD51B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Llywelyn-24"
+          },
+          "hash": "50b2c5fb346c3d99b29206b106b2c0183b0fd5da",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138026$D0798BBD-49AF-4173-9624-B1752AB5EEC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138026$85619146-783F-4C26-A7FC-8FEA6AE8E4B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138026$3CD0B597-A090-40D3-A45A-E5D2B2069D3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140562",
+              "numeric-id": 140562
+            }
+          },
+          "hash": "831748175cff8449b44e833d3ea9d47de23ff4f7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138026$F219E2F5-A2DD-4D01-856A-4AECB20330F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137393",
+              "numeric-id": 137393
+            }
+          },
+          "hash": "931a3e1b28467145a93837ca739b00e5db369fcf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138026$78C638F6-7975-4C35-969B-7627D53D6391",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138026$C63AEE6D-D472-437F-A6A9-A28D6026A987",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1278-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b1ec9075f0ff02800d20604cca3d367dceebbf83",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138026$037314DB-0B18-442E-83BA-D70E09ADE3F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1340-11-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5639f3250e8492e0f4298596bc94fd510a7f9a0d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138026$76EE0B32-0D49-40F3-A281-5313E1F1AFC4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99084460"
+          },
+          "hash": "0123877dee1e533efe005c5972c545335991b4ae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138026$E792A4D5-C46A-48DB-8909-17E657CB3AD3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ieuan ap Llywelyn ap Cynwrig ap Hywel ap Madog of Radyr Arms.svg"
+          },
+          "hash": "3bf3625db0fd7a6af0939c68cb18b67ef3cc4657",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1279-1341)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1279-1341)"
+    }
+  },
+  "id": "Q138026",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Ieuan ap Llywelyn ap Cynwrig ap Hywel ap Madog o Radyr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ieuan ap Llywelyn ap Cynwrig ap Hywel ap Madog of Radyr"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ieuan ap Llywelyn ap Cynwrig ap Hywel ap Madog of Radyr"
+    }
+  },
+  "lastrevid": 17555719,
+  "modified": "2025-09-17T11:24:25Z",
+  "ns": 860,
+  "pageid": 166411,
+  "sitelinks": {},
+  "title": "Item:Q138026",
+  "type": "item"
+}

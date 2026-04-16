@@ -1,0 +1,582 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sallust"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141527$16EF0EA8-4E7F-4322-B0E8-1ABC96B8A2FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141527$DB73A11D-D769-428B-879A-F9324FA8A0D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141527$E0CDF18A-6DD3-4336-99BA-6B79C0CBAFE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144177",
+              "numeric-id": 144177
+            }
+          },
+          "hash": "68a0eed98553631d21074da0cf83d31ad17080a6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141527$7BB868DC-42DD-4AFD-A27D-386341C54C86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141527$693A94EA-7CAF-4B20-BE2F-9EAAC697D533",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0086-10-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f9e174a0e9ed064a88d3ecdc193242a34aa244b6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141527$D3019D89-CBD6-46B2-AAC0-A1360124FB3B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0035-05-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a636c172106dc9b38a71378e902ddac8937b1e0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141527$351E905A-2981-45C9-9E39-F7BB02E220A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7170"
+          },
+          "hash": "402b356c48e01b5bb697ac6c1b24610ad77797b1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q141527$8372BE83-51D4-4287-A76E-067B987D61F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:27224"
+          },
+          "hash": "a8149c69b8386ecd27d47b3581179c1d737e8ba8",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141527$4DDE4E6F-A00A-41A7-9ADB-6568A50EC514",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sallust Arms.svg"
+          },
+          "hash": "a27d5bfc07a0b4837ded8b022e3562d1f767b028",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q141527$88FECF0D-E502-4755-9838-46446D3EF7D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/07C36F79-2C68-42CB-A9A3-99F88F2E8A65"
+          },
+          "hash": "1ac1a1019aa8282d5efeba73e31076a6d971026c",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "شاعر من روما القديمه"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "древноримски политик и историк"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "historiador romà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský politik a historik"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "hanesydd a gwleidydd Rhufeinig"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Geschichtsschreiber und Politiker"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος πολιτικός, στρατιωτικός και ιστορικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman historian and politician (86 BC - c. 35 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "historiador y político romano del siglo I a. C."
+    },
+    "et": {
+      "language": "et",
+      "value": "Vana-Rooma ajalolane ja poliitik"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار، نویسنده، و تاریخنگار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen historioitsija ja poliitikko (86 eaa. – 34 eaa.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique, militaire et historien romain"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "historiador romano"
+    },
+    "he": {
+      "language": "he",
+      "value": "היסטוריון רומי"
+    },
+    "it": {
+      "language": "it",
+      "value": "storico e senatore romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "римски историчар и политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "historicus uit Oude Rome (86v Chr-34v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski historyk i polityk"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримский историк"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski zgodovinar in politik (86 pr. n. št. – ok. 35 pr. n. št.)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk historiker"
+    }
+  },
+  "id": "Q141527",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "an": {
+      "language": "an",
+      "value": "Gayo Salustio Crispo"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سالوست"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "سالوستيوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سالوست"
+    },
+    "az": {
+      "language": "az",
+      "value": "Qay Krisp Sallyusti"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гай Салюсцій Крысп"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Салустий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Sal·lusti Crisp"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sallustius"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Sallust"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sallust"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sallust"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σαλλούστιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sallust"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Sallust"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Sallust"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Salustio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Salustio"
+    },
+    "et": {
+      "language": "et",
+      "value": "Sallustius"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Salustio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سالوست"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sallustius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Salluste"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Salusti"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Sallustius"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Salustio"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיוס סאלוסטיוס קריספוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Salustije"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Caius Sallustius Crispus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գայուս Սալյուստիուս Կրիսպոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "io": {
+      "language": "io",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Sallústíus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Sallustio Crispo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・サッルスティウス・クリスプス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სალუსტიუს კრისპუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "살루스티우스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Salustio"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Saliustijus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Салустиј"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Sallust"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Cai Sallusti Crisp"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Salustiusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Salústio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Salústio"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Саллюстий Крисп"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Caiu Sallustiu Crispu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Sallust"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Salustije"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Gaius Sallustius Crispus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Salust"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sallust"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Салустије Крисп"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sallustius"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sallustius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Саллюстій"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薩盧斯特"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "薩盧斯特"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薩盧斯特"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薩盧斯特"
+    }
+  },
+  "lastrevid": 17561428,
+  "modified": "2025-09-17T12:47:14Z",
+  "ns": 860,
+  "pageid": 169912,
+  "sitelinks": {},
+  "title": "Item:Q141527",
+  "type": "item"
+}

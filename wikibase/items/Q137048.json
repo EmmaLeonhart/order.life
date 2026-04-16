@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kåre Sigurdsson"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q137048$A0162A01-6F7C-49C4-AA7E-69DE93A36E07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137536",
+              "numeric-id": 137536
+            }
+          },
+          "hash": "79621d9fd1b04981e825fcb673318bed9038ab9c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137048$B736EBE9-FD7B-4EA6-B906-9E8AFA2C508C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136659",
+              "numeric-id": 136659
+            }
+          },
+          "hash": "95b4435798033bb17391950d59851df9371443fa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137048$979FCF0D-047C-4186-A731-DA9522C52DEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sigurdsson-19"
+          },
+          "hash": "6cb498cddba120069f939eebde2f7f1c639226e0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137048$F6FC82AA-76E6-4CCA-A16D-27884DB4FB92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137048$1730003F-5C34-4228-8291-9A6472922F54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137048$CC418274-46B3-47BA-97FB-AB814493998D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137048$C1B52F67-CA92-4FE2-834A-7C8C79F24F1C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0865-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b76534359db9e3a06ac0239105189e97bb00363",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137048$6E0D8084-726C-4801-8C8D-33ABE0EA42E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0910-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e59e9fb11237b3fd4bef662d9816c70ccb299bfc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137048$D235EED2-37FE-4FC1-8672-BB3459356A69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6161921"
+          },
+          "hash": "c52d3bf73d10423cb6afeb34f633cd1436138477",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137048$63A2C69B-480F-4896-BD88-8FC0AA171695",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kåre Sigurdsson Arms.svg"
+          },
+          "hash": "9fada17fa79086c664aa872a2b82bd0fe1eed2ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ru": {
+      "language": "ru",
+      "value": "древний скандинавский военачальник IX века"
+    }
+  },
+  "id": "Q137048",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Viking-Kåre"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kåre Sigurdsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Viking-Kåre"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Viking-Kåre"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кор Сигурдссон"
+    }
+  },
+  "lastrevid": 17554113,
+  "modified": "2025-09-17T11:01:34Z",
+  "ns": 860,
+  "pageid": 165433,
+  "sitelinks": {},
+  "title": "Item:Q137048",
+  "type": "item"
+}

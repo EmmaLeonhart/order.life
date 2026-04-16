@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Sempronius Tuditanus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141388$BA87BAEB-641E-4D31-B32F-8EF4D4FB3010",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139543",
+              "numeric-id": 139543
+            }
+          },
+          "hash": "b2e6e90d1c43a7f82d50cb5ebed677dd63e6e22b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141388$BF10F872-4B1F-4BAC-B9C8-4A4635F08CD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141388$10F660B1-04B1-49F5-8444-840BC2E5FAD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141388$530A7C80-1419-4B59-AD31-0B5F69295119",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144050",
+              "numeric-id": 144050
+            }
+          },
+          "hash": "1f2f644f0d6944d3fc1d9f9907a8bb119f164fad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141388$ABE51F7B-84B1-4448-A904-A873053C3B11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141388$8EFE66F3-0F9D-4913-97D4-3E9A41510E31",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141388$CF53E986-5F45-45CC-AEC2-BEFECCA2BFCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11017318"
+          },
+          "hash": "45a2a03cf56eb0b2777e39baced02eb3deb8217a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141388$06BB6C01-CB53-4718-8866-631262544098",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Sempronius Tuditanus Arms.svg"
+          },
+          "hash": "fc14fc4385a3bb06b3f9bbc319c95fa3354cb4b9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "es": {
+      "language": "es",
+      "value": "embajador en los años 146-145 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "légat romain"
+    }
+  },
+  "id": "Q141388",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Семпроний Тудицан (сенатор)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Semproni Tudità (magistrat)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Sempronius Tuditanus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Sempronius Tuditanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Sempronio Tuditano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Sempronius Tuditanus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Sempronio Tuditano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Sempronius Tuditanus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Семпроний Тудитан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Sempronius Tuditanus"
+    }
+  },
+  "lastrevid": 17561198,
+  "modified": "2025-09-17T12:43:49Z",
+  "ns": 860,
+  "pageid": 169773,
+  "sitelinks": {},
+  "title": "Item:Q141388",
+  "type": "item"
+}

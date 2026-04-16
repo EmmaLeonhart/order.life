@@ -1,0 +1,294 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Licinius Lucullus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141417$360B8D19-B73A-4B11-A7BD-062347C889FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465203"
+          },
+          "hash": "684cb47a8eb5724fb456a63e1a65d576654b5e10",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141417$4B213ED8-5D10-469A-968D-0EC5BDCACE8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141417$166F9669-3CAB-4AFD-90AA-92EA1413B72D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141417$17014706-C7A0-4656-B312-A89596FA4342",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139559",
+              "numeric-id": 139559
+            }
+          },
+          "hash": "2cf482fe50a908b19f3238e053f913e3cc1fb144",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141417$4675A408-6FAA-48F8-B26B-EB564B3D9DCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141416",
+              "numeric-id": 141416
+            }
+          },
+          "hash": "2a524d3dff933d3dc25b7bd64fcd19ee6d32bb30",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141417$B05C5CD0-6C40-449F-A977-8E111C05C1E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141417$280D2078-31F1-4969-912D-BE738956D749",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0064-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "761a25b767a8c8f1d15079a7c7336f85cde186d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141417$9C2EED2A-9DBE-4144-AAE9-26BA40271C70",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0042-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84a4f10438a45dc90898de356dbff164b8bf2c82",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141417$FA909C6E-5595-4BF6-AB80-04B39FCF485D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11934113"
+          },
+          "hash": "ac01bce736462d98b3ffb6e508171ae11cdbcddc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141417$8B8AA58F-FF87-4C19-876D-5D2F710ADBC3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Licinius Lucullus Arms.svg"
+          },
+          "hash": "947f49775e4f421e8c23df750dc8eb7dfee86cf4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "fill de Lucul·le"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Lucullus and Servilia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Lucullus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider"
+    }
+  },
+  "id": "Q141417",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Marcus Licinius Lucullus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Licini Lucuŀle"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Licinius Lucullus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Λικίνιος Λούκουλλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Licinius Lucullus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Licinio Lúculo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Licinius Lucullus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Licinio Lucullo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Licinius Lucullus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Лициний Лукулл"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Licinius Lucullus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Ліциній Лукулл"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Marcus Licinius Lucullus"
+    }
+  },
+  "lastrevid": 17561248,
+  "modified": "2025-09-17T12:44:32Z",
+  "ns": 860,
+  "pageid": 169802,
+  "sitelinks": {},
+  "title": "Item:Q141417",
+  "type": "item"
+}

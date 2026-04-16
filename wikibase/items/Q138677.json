@@ -1,0 +1,291 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bledric ap Custennin"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138677$3AC15A0D-3C87-49DE-9BAE-80D95BB1842F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "331169"
+          },
+          "hash": "209008c0dd2031470a25f8209f4d7b74950e772c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138677$7480B057-F63E-42F3-916C-0450B9C858D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140000",
+              "numeric-id": 140000
+            }
+          },
+          "hash": "e6f11d1b5f0aadcfb01fd0021071ff72193ef0c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q138677$E4096CF7-8F31-4E2A-B3A9-EC31BCC3F6AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dumnonia-2"
+          },
+          "hash": "9d1cd5e1b507f563853a461ec363a96f11e8741e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138677$C9B1F3D8-B03B-40BE-BB4A-177B4DBB3ABE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138677$8B2D9FFD-338E-4536-B5A8-CA7295EEF427",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138677$E098F1A3-01B8-48A6-8114-4D63AC5FBAD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137854",
+              "numeric-id": 137854
+            }
+          },
+          "hash": "eac1df950d67e300663d9374c75341eab79b6df6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138677$57AFF4F9-3FA2-4AAF-A75D-C18014BDA6AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138677$5AC3D0C8-3A0A-4AA3-8FE4-F5E35BBB2C65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0554-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2d5f501c672c72e3fa9879c6f01ef6a04d5616d9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138677$CFD74011-25B3-45C3-B729-D9F17BF0E1BA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0613-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c9917dfa5e5997f0725d70f9c1dede023700894f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138677$7B630C06-8373-4022-A524-20D92378B33B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q374489"
+          },
+          "hash": "e98891221490ee0629c8480eeac4150476edc728",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138677$93105539-B71D-49EE-97F5-60B7F0633119",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bledric ap Custennin Arms.svg"
+          },
+          "hash": "16308387507aacff9186cebfe0d84de6bb7ced38",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "7th century ruler of Dumnonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Думнонии"
+    }
+  },
+  "id": "Q138677",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Bledric ap Custennin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bledric ap Custennin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bledric ap Custennin"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bledric"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Bledric ap Constantine"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bledric ap Custennin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бледрик ап Константин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Bledric ap Custennin"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Бледрик ап Костянтин"
+    }
+  },
+  "lastrevid": 17556677,
+  "modified": "2025-09-17T11:38:10Z",
+  "ns": 860,
+  "pageid": 167062,
+  "sitelinks": {},
+  "title": "Item:Q138677",
+  "type": "item"
+}

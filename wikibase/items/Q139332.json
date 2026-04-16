@@ -1,0 +1,421 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Magnus Erlendsson, Earl of Orkney"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q139332$7A8B0549-68D6-4323-AA66-2A1400763995",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139332$C922B618-2A7C-44E3-9A4C-53688CA92122",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139332$0DB1D21B-C6DC-42DB-85DC-2B0E0B949054",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Magnus_Erlendsson,_Earl_of_Orkney_(1)"
+          },
+          "hash": "9addc10e9d4154d0579868fed59f80aea8b7855a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q139332$DDEFB8E5-0FAF-4F41-AD98-E61E72B57B1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p19830.htm#i198300"
+          },
+          "hash": "b3ed7ab771139df884c8bd28db8f768af4a32f0a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139332$7C4ED2A2-221F-49E2-A5BB-0A33484F631A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127704",
+              "numeric-id": 127704
+            }
+          },
+          "hash": "9cdb0db4e039e6da803afea6b1de35e4c3642459",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139332$E97A7629-4085-4C3E-9377-C8936434439B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139331",
+              "numeric-id": 139331
+            }
+          },
+          "hash": "c72dd805525c1890fa293a28dd09b4721190c697",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139332$B24CE03C-D405-45C9-803B-97624ADE12B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139332$D55AB50F-34CF-425D-9235-CD0121E16F10",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1075-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7e196b181bf13f1ef20e862862973fac0dae07e9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139332$865FC540-6852-4C81-8068-A3AA43BFA813",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1117-04-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16ad017a8cc9c21a2aa0d671ce733f02bda39487",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139332$14C99A71-0EED-48D1-AC0C-8AB835221103",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q522317"
+          },
+          "hash": "3410b3c43d5d84eea2bbaaeab897c3f78f93c05c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q139332$1F3556C6-7F9A-49CC-A305-2D457DC89DCA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008248157090"
+          },
+          "hash": "d1398530f4b28baf3e4c143d0e9287c78b6b9421",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q139332$7A81297A-701B-4A4F-844F-DFC7B985D102",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:30670"
+          },
+          "hash": "b1b667f8fc8404f2b2b440c499b84019c3b3f6ef",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139332$EDC792D9-19C2-422F-B87A-A63453354DA1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Magnus Erlendsson, Earl of Orkney Arms.svg"
+          },
+          "hash": "585fb639234f4ab3bfdb3e568bcccf985a2cb2c8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "چارل من النرويج"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "gobernante noruegu (1075–1117)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "primer jarl de les Òrcades"
+    },
+    "da": {
+      "language": "da",
+      "value": "jarl af Orkney, martyr og helgen"
+    },
+    "de": {
+      "language": "de",
+      "value": "schottischer Märtyrer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Earl of Orkney from 1106 to c. 1117"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte des Orcades (de 1106 à environ 1117)"
+    },
+    "it": {
+      "language": "it",
+      "value": "conte delle Orcadi (1106-1117 circa)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Magnus Erlendsson, St. Magnus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Noors heerser (1075-1117)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "norsk härskare"
+    }
+  },
+  "id": "Q139332",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ماجنوس ارليندسون ايرل اوركنى"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Magnus Erlendsson"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Sant Magnus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sankt Magnus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Magnús Erlendsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Magnus Erlendsson, Earl of Orkney"
+    },
+    "es": {
+      "language": "es",
+      "value": "Magnus de las Orcadas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Magnus Erlendsson"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Magnus Erlendsson, Earl of Orkney"
+    },
+    "is": {
+      "language": "is",
+      "value": "Magnús Erlendsson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Magnus Erlendsson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マグヌス・エーレンドソン"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Magnus Orknøyjarl"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Magnus Erlendsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Magnus Orknøyjarl"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Магнус Оркнейский"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Magnus Erlendsson, Yerl o Orkney"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Magnus od Orkneya"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Magnus Erlendsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Magnus Erlendsson, Earl of Orkney"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Магнус Ерлендсон, ерл од Оркнија"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Magnus Erlendsson"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Magnus wa Orkney"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Магнус Оркнейський"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬格努斯·厄林德森"
+    }
+  },
+  "lastrevid": 17557759,
+  "modified": "2025-09-17T11:53:17Z",
+  "ns": 860,
+  "pageid": 167717,
+  "sitelinks": {},
+  "title": "Item:Q139332",
+  "type": "item"
+}

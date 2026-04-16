@@ -1,0 +1,405 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Livia Orestilla"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139664$15EDC79F-67F8-4B78-8F2B-407A71EB9364",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446795"
+          },
+          "hash": "b99f194f074667f435de1e84e04781c53b111e4d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139664$77EE6798-09D4-465C-970F-D516CE2F1797",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139664$F57FCFFD-64D6-416F-9C79-86A21F719500",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139664$6453F027-AAA3-4488-BBB4-F17C35AA9971",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141553",
+              "numeric-id": 141553
+            }
+          },
+          "hash": "c6aea9e4c2dbc21877d8aed18727e0be9bc6d08b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139664$E3217802-8F63-43EC-9586-03943DA5A123",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138457",
+              "numeric-id": 138457
+            }
+          },
+          "hash": "a3fd9e12cc3517f543e2ad37a90512351a6711f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139664$7F6ADB74-B349-46CA-95AF-D9ACA1B73196",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141552",
+              "numeric-id": 141552
+            }
+          },
+          "hash": "71a0d801da3360b2ee53092c357c6150ccd2e1d9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139664$C6C5C652-3BBD-43EC-889E-0117D4A6E994",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139664$4CC0EC03-2408-49D6-AA42-E85810DE6997",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0020-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b966ac308bc3b07369cbd42035a1ce935900b75",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139664$0BF2FA8C-0A40-4194-A68F-DFE18FA38F8B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139664$A55DABEA-8586-424F-BCDB-664F7F370383",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q241982"
+          },
+          "hash": "5ee5cad27b397a673be4f4af989565c396debf09",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139664$CF59D38C-2D24-40AF-91D1-DEEAE7C3B5A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Livia Orestilla Arms.svg"
+          },
+          "hash": "81a327c3e1619053b029b96e555b94727a16414f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "zweite Frau des römischen Kaisers Caligula"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαία αυτοκράτειρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "second wife of Roman Emperor Caligula"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rooman keisari Caligulan toinen vaimo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Caligula római császár második felesége"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Caligola"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Oude Rome (20-)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperatriz romana"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fru till Kejsare Caligula"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومن شہنشاہ کیلیگولا کی دوسری بیوی"
+    }
+  },
+  "id": "Q139664",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Livia Orestila"
+    },
+    "be": {
+      "language": "be",
+      "value": "Лівія Арэсціла"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ливия Орестила"
+    },
+    "br": {
+      "language": "br",
+      "value": "Livia Orestilla"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lívia Orestil·la"
+    },
+    "de": {
+      "language": "de",
+      "value": "Livia Orestilla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λιβία Ορεστίλλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Livia Orestilla"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Livia Orestilla"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Livia Orestilla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cornelia Orestila"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لیویا اورستیلا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Livia Orestilla"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Livia Orestilla"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Livia Orestilla"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Livia Orestilla"
+    },
+    "it": {
+      "language": "it",
+      "value": "Livia Orestilla"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cornelia Orestilla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Livia Orestilla"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Liwia Orestylla"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lívia Orestila"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lívia Orestila"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ливия Орестилла"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ливија Орестила"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Livia Orestilla"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Livia Orestilla"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лівія Орестилла"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لیویا اورستیلا"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "利维亚·欧瑞斯蒂拉"
+    }
+  },
+  "lastrevid": 17558267,
+  "modified": "2025-09-17T12:00:34Z",
+  "ns": 860,
+  "pageid": 168049,
+  "sitelinks": {},
+  "title": "Item:Q139664",
+  "type": "item"
+}

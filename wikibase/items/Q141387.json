@@ -1,0 +1,334 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Lentulus Niger"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141387$AC5D22FC-8618-4777-B301-9A6B7E6891D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465106"
+          },
+          "hash": "cc6ca3703236475659ae39d8d072218c0f76753e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141387$7623AB8E-65DA-46DC-8884-A4EF74556307",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139596",
+              "numeric-id": 139596
+            }
+          },
+          "hash": "da74ecd6b02edf04bc72928309200c0f8fe8be38",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141387$436ECD8C-DFDB-4728-BEE4-9E4152E3B905",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141456",
+              "numeric-id": 141456
+            }
+          },
+          "hash": "57a0d65943462e23c81a9cf89af251aa6e54d727",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141387$1878F7C5-04CD-41A8-A2D4-DD046E54261D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141387$61A7E95A-B329-4312-962E-FB39F4D5D106",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141387$30CAD6CF-FB02-4158-875B-F9AACD8B7A98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141455",
+              "numeric-id": 141455
+            }
+          },
+          "hash": "6cd360a4dbab1bad8f809caafa31848bcbd5579c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141387$D7FECBDA-B79C-47AF-81ED-7AE3892DCB33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139541",
+              "numeric-id": 139541
+            }
+          },
+          "hash": "55eeb8fcef89b96b89ccd1a5da2f9abb72d7e34a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141387$12553A70-34C2-4A6C-BA99-BF32BECA132B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141387$4FC64BB3-D5CD-4B9D-8307-D7B5E3DF0F55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2861262e63b20d3d6ef7873ba4255e813a49e04f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141387$26719ED0-83CC-4161-9412-262A1D8D8301",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0056-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1363ad3b96504567c54d93766cdd178c8c2e18b6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141387$CA597752-FEAF-4FE1-98A0-5903E56C975C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q348518"
+          },
+          "hash": "a3e61c2cd9ecb8d9f0921b29c111fda55d576144",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141387$5FF36A5A-3BA5-43AD-85D0-83AF585C871F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Lentulus Niger Arms.svg"
+          },
+          "hash": "ceb7ff7a748022f35dcb2ac18f5d9c5f96dc2566",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "judge against Publius Sestius 56 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, préteur au plus tard en 61 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Romeinse Republiek (-100--055)"
+    }
+  },
+  "id": "Q141387",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Лентул Нигер"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Lèntul Níger"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Lentulus Niger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Lentulus Niger"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Léntulo Nigro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Lentulus Niger"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Lentulo Nigro"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Lentulus Niger"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Lentulus Niger"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Лентул Нигер"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Cornelius Lentulus Niger"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Лентул Нігер"
+    }
+  },
+  "lastrevid": 17561196,
+  "modified": "2025-09-17T12:43:47Z",
+  "ns": 860,
+  "pageid": 169772,
+  "sitelinks": {},
+  "title": "Item:Q141387",
+  "type": "item"
+}

@@ -1,0 +1,464 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vonones I of Parthia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137725$A1F6B658-F783-497F-ABE0-A8561B5FED6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717515"
+          },
+          "hash": "3aa12a5b8b61b84c97fea615e42e9c4834737920",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137725$2F606B6E-6E5B-4A28-BBC5-A9A3D6872A99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138524",
+              "numeric-id": 138524
+            }
+          },
+          "hash": "a0f9e63b97c9d2817b95ec5cf01c225750b95f1b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137725$5FA4FAB8-FDBB-49F8-BBAC-5C6ED581B7E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137725$956ABB7C-6FA1-406B-ADC2-6EF30E494252",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137725$45AA5C69-E029-4C21-8343-9D805B93A6EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vonones_I_of_Parthia_(1)"
+          },
+          "hash": "f947c4e010cdb5ddf6dd728add6c7064ea1606af",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137725$3014A756-AB43-4CD8-9C51-C2DEE064639E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137170",
+              "numeric-id": 137170
+            }
+          },
+          "hash": "d813aa18d1b7fc05b014c58e25cb01b74f4c8e39",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137725$64F67D3C-566F-419C-84BB-C68242A91E91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137725$29FD197D-5D5E-4AD0-961C-5208D66F185B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137725$7927F228-8E4A-4357-81BF-C2C8F22A5BD4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0019-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2e050e89e7b46fe64b78d432ad4d1a64a650e5ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137725$5861B767-882A-4243-8644-8D278C85997B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q253888"
+          },
+          "hash": "30a5e0d942fb66089fbf42251b7684eef4c01fd5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q137725$57FCC857-CBB9-4B0F-82F0-6990CD3A98B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52237"
+          },
+          "hash": "cf57180e8a058b6c983bf5948d43b2e7aeeeb278",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137725$04D2026F-059D-44B1-AEAC-54BEED9A808A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vonones I of Parthia Arms.svg"
+          },
+          "hash": "3cb54a14422e1fad7c9e61e7602733415fafdfca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "حاكم الإمبراطورية الفارسية من حوالي 8-12 ميلادي، و الإبن الأكبر لفراتس الرابع"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "parthský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "parthischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century King of the Parthian Empire and then Armenia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "grand roi arsacide (8-12) puis roi d'Arménie (12-18)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "pártus király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Partia (r. 8-11) e d'Armenia (r. 12-18)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "konge av Parthia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kung av Partien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Part ve sonra Ermeni kralı"
+    }
+  },
+  "id": "Q137725",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Vonones I van Partië"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "فونونيس الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فونونيس الاول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Вонон I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Vonones I de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vonónés I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Vonones I."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Vonones I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βορώνης Α’ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vonones I of Parthia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Vonones I of Parthia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Vonones I of Parthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vonones I de Partia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Vonones I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ونون نخست"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vononès Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "וונונס הראשון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Vonon I. Partski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XIX. Arsak pártus király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վոնոն"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vonone I di Partia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴォノネス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვონონ I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "보노네스 1세"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Вонон I"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "ونن اول"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Vonones I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vonones I"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Vonones Ièr"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wonones I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Vonones I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Vonones I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вонон I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Vonon I od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Vonon I."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Vonones I"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Вунуни I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Vonones"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вонон I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vonones I của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "沃諾涅斯一世"
+    }
+  },
+  "lastrevid": 17555153,
+  "modified": "2025-09-17T11:16:18Z",
+  "ns": 860,
+  "pageid": 166110,
+  "sitelinks": {},
+  "title": "Item:Q137725",
+  "type": "item"
+}

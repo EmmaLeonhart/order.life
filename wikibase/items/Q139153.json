@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arddun ferch Llywelyn ab Owain ab Edwin"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139153$6A40FB71-C453-4AF2-B2F1-C0DEF6DADD2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00708192"
+          },
+          "hash": "fd6f3e7e5375adecf51b75fb12f3f2ce4795f5bc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139153$3F5A3CEA-34D0-4528-8E0C-1263D0C855BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138129",
+              "numeric-id": 138129
+            }
+          },
+          "hash": "8cf642ebc022ebb60a6a81c280a317da8d3b02d4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q139153$DE4725F4-90FC-44B9-B3C7-DB8444C4AC25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Llewelyn-76"
+          },
+          "hash": "8bfccce0448e7e586ce2e3d5c3ad1d0b62c1371a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139153$DFCD683A-55F2-40F6-BC41-266E93E7B4F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139153$EC575246-EAA7-4624-9EDF-00826FB562F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139153$74651849-C447-43B7-9423-F1DE904608E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137459",
+              "numeric-id": 137459
+            }
+          },
+          "hash": "d9ed2e5fe7ddf9d87637959d97621f9f1b04ed20",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139153$BA277BCF-F132-4FD1-8446-053D430F2577",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140819",
+              "numeric-id": 140819
+            }
+          },
+          "hash": "ec5259a4fa7c2476a900d78b6e9833442954aab6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139153$BF6A1E01-DFF9-4AF6-BCA2-6BF9D416B39E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139153$AD350DE7-54AD-4AA7-A0D8-CCACF285D5F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc14efe6d96336a34324dc61d6c96d5d9c81e3e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139153$B42EA3BB-7997-43D7-AC54-3D55F887B4CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110582392"
+          },
+          "hash": "d26dbb57a7b9f350d45f3a2984d716b4ca3c9be6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139153$1E622419-91FD-4FEB-AF7F-9B90A0116C80",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Arddun ferch Llywelyn ab Owain ab Edwin"
+          },
+          "hash": "7dadfc42555611832cb1c39a2e27eab6db42a629",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139153$2CB1FE88-043B-416D-ACC3-5C36479261DC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arddun ferch Llywelyn ab Owain ab Edwin Arms.svg"
+          },
+          "hash": "68fe4139c5983ba571fe47603f87701237e2388e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1100 -"
+    }
+  },
+  "id": "Q139153",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Arddun ferch Llywelyn ab Owain ab Edwin"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Arddun ferch Llywelyn ab Owain ab Edwin"
+    }
+  },
+  "lastrevid": 17557627,
+  "modified": "2025-09-17T11:51:26Z",
+  "ns": 860,
+  "pageid": 167538,
+  "sitelinks": {},
+  "title": "Item:Q139153",
+  "type": "item"
+}

@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zbraslav"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141026$502EB2FC-2A43-4F82-8EF2-F6A21AF6F21A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "53555"
+          },
+          "hash": "dc2e1dd05d869e0677722ebdd095f5409beb00b5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141026$C2085874-5BD3-41C5-8A48-74DA4F1C8AE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141026$3D9793AE-2123-48BC-8067-56C8C975A79D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141026$C43DD117-455E-4E03-AD12-CB4A094EDD3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139296",
+              "numeric-id": 139296
+            }
+          },
+          "hash": "5bd43021e7bd7a22864f001593cf50dd3028260f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141026$E3DB8161-A0A9-4D0A-A4E7-EBDFE5E55E92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141026$D63D41E9-16E2-450B-A922-F733DCDAFC04",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141026$10F4E518-1020-404E-B24C-E2282FDBC465",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9388589"
+          },
+          "hash": "72611af6dc1e87f40a21c83090146f1ece2b2fd2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141026$F03EF985-4F39-482E-A104-492440B13BDD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zbraslav Arms.svg"
+          },
+          "hash": "bc3aa87139c36deb48a112709d409253e0e94f82",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "syn svatého Václava"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of saint Wenceslaus"
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיך צ'כי, בנו של ואצלב הקדוש"
+    }
+  },
+  "id": "Q141026",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Zbraslav"
+    },
+    "da": {
+      "language": "da",
+      "value": "Zbraslav"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zbraslav"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zbraslav"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Zbraslav"
+    },
+    "he": {
+      "language": "he",
+      "value": "זברסלב"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Zbrasław"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Zbraslav"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Zbraslav"
+    }
+  },
+  "lastrevid": 17560641,
+  "modified": "2025-09-17T12:35:23Z",
+  "ns": 860,
+  "pageid": 169411,
+  "sitelinks": {},
+  "title": "Item:Q141026",
+  "type": "item"
+}

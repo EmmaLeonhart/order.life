@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Einion ap Gwalter ap Trahaearn ab Einion"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140054$7CD02E77-402D-4E0D-AD97-B175CFB7F7AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00760367"
+          },
+          "hash": "f76cda5b9cb34561e30bea39c012e2d4ae18c1e8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140054$74877740-A9D6-4A49-946C-D9C4B703EA3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138721",
+              "numeric-id": 138721
+            }
+          },
+          "hash": "cb8058b1a9c765f50a9a5d6fdb93f4c40b79226a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140054$3F4149F5-1EE4-493C-9A31-7031C43F67B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138719",
+              "numeric-id": 138719
+            }
+          },
+          "hash": "ed4dbd0e7a9ad9e0e758376b383a3e61ef227ec5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140054$00E25E89-FC31-4FF0-B72A-52BF289EED66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138720",
+              "numeric-id": 138720
+            }
+          },
+          "hash": "80576345c4857b82987e2dfe6dcad3d3f59a6d39",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140054$F19CFBC4-BF4F-4C77-BD23-06B455075B1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140054$973B4B10-1A41-4474-8BFA-CC261228D40F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140054$D80D19E7-F88D-43CB-AF01-178B64475277",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137889",
+              "numeric-id": 137889
+            }
+          },
+          "hash": "d22f6cd1e2ede60da74f9155042ef8d686327744",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140054$817E2BE7-A857-460E-8DB1-952A282A4DA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140004",
+              "numeric-id": 140004
+            }
+          },
+          "hash": "8e23060215388a1108eed67d59f3689931715fb2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140054$A52B267A-15CB-4ED5-97C3-8C9C1D0C5A0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140054$3C55E5B6-0208-4E61-A5B3-A68768F16D09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116812444"
+          },
+          "hash": "9ba51ea491f4f48f3b46f125222b7a443168d3ea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140054$52A95E97-C8B4-4BDE-834A-2C03C282D7C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Einion ap Gwalter ap Trahaearn ab Einion Arms.svg"
+          },
+          "hash": "d3a4d751906dfe438523c672f0987cb86a3563f4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q140054",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Einion ap Gwalter ap Trahaearn ab Einion"
+    }
+  },
+  "lastrevid": 17558943,
+  "modified": "2025-09-17T12:10:20Z",
+  "ns": 860,
+  "pageid": 168439,
+  "sitelinks": {},
+  "title": "Item:Q140054",
+  "type": "item"
+}

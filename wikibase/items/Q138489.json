@@ -1,0 +1,397 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Cinna"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138489$0B36FE3A-8ABE-483A-A68D-4F82FBC35EAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735992"
+          },
+          "hash": "673c17da36ed78adfd083bdd75c55c02c27aa60e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138489$80F1936E-B66C-4F85-9FDD-8A8040240D5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139712",
+              "numeric-id": 139712
+            }
+          },
+          "hash": "fa10e3c5f2bf5fe0c5fd1b5c186ca1dafbf18baa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138489$6A28E115-FB47-4517-89A3-0A042B6A2F6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138489$E4699331-512A-426D-A326-989549A279FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138489$E3A88371-C66A-46FE-8135-CDE171F8F558",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius_Cornelius_Cinna_(suffect_consul)_(1)"
+          },
+          "hash": "5d3253fb37f02aaf44b34156208df19d4dc48123",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138489$24A21BBC-CD6F-4B61-AEE3-93E00F8CAB6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72260",
+              "numeric-id": 72260
+            }
+          },
+          "hash": "d79876a8183a46896bfe4584cab5b59388a6a3d2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138489$79E69C59-0CAE-4FF8-97F9-9A4B78239503",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72263",
+              "numeric-id": 72263
+            }
+          },
+          "hash": "90b3df6d14b34e11c2889b5c85588d67c747265b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138489$F4E35290-AF2F-4C8B-8D1F-BD0BB1F64E8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138489$6352C3C6-5DEF-4255-930E-C7CFA1F926BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138489$BB75850E-3D4B-49B5-8443-95DB21B7B358",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q646993"
+          },
+          "hash": "d096f3c20b3bfeca04552ff7f2b9cb5b72ea3c84",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138489$4299D833-D2FF-4C98-96D1-DD06636EA9EA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Cinna"
+          },
+          "hash": "f242c210dc1bea6d8202b3be4f4c404d4941ef98",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138489$B672ED7D-06C3-4100-B0AB-841650B07C28",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Cinna Arms.svg"
+          },
+          "hash": "20f3268349d03b4799cdde85d9b3479e0a9008c6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "(s. II aC) pretor, fill del líder optimat"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century BC Roman politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "pretor romano en el 44 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 44 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "praetor in 44 v. Chr."
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julius Caesars svåger"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політичний і державний діяч Римської республіки"
+    }
+  },
+  "id": "Q138489",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Цина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Cinna"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Cina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Cinna"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Цинна"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Kornelije Cina Mlađi"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucius Cornelius Cinna"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Цинна (претор)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "路奇乌斯·秦纳"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "路奇乌斯·秦纳"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "路奇乌斯·秦纳"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "路奇烏斯·秦納"
+    }
+  },
+  "lastrevid": 17556369,
+  "modified": "2025-09-17T11:33:44Z",
+  "ns": 860,
+  "pageid": 166874,
+  "sitelinks": {},
+  "title": "Item:Q138489",
+  "type": "item"
+}

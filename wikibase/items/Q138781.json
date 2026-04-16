@@ -1,0 +1,596 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maud de Braose"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138781$BAEB8119-E696-4DE8-A4D0-05A835E585BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "259131|926273"
+          },
+          "hash": "e4b7065ea47d542e404b81bd213b5525e5ff49c2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q138781$ECDE9BB2-E759-4AD3-96B2-B7B4DFD86793",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00146980"
+          },
+          "hash": "f6dc6e5a899928e045a3544ad69267b4bff403d7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138781$145F801B-647E-4167-A8AC-5E48E9B008D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140163",
+              "numeric-id": 140163
+            }
+          },
+          "hash": "24817464ee16d2b9227235271c91a77e060444ee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138781$33E21BE1-E370-4D4A-A190-395551A9AB40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140162",
+              "numeric-id": 140162
+            }
+          },
+          "hash": "076670ada6794abec9bb13ab72bbac44972a97f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138781$5CDCE8FA-8189-4BC4-80B6-C13F89EF0FAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138762",
+              "numeric-id": 138762
+            }
+          },
+          "hash": "b301f3ff77489d327c26ad84e3a8fa681c19b7a2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138781$B171AF92-E2E7-490D-8C05-2E20EE80F9B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138783",
+              "numeric-id": 138783
+            }
+          },
+          "hash": "cf41363c739ead63d92b32c535816cba05d1d8c7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138781$41F4AB7D-B242-49F6-9095-4626A2C30A0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138782",
+              "numeric-id": 138782
+            }
+          },
+          "hash": "942eb29476cbc7b9f40fcc3e0932b12bcf9ff5cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138781$8677288F-2BFB-4FFA-BC60-193C898033D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140161",
+              "numeric-id": 140161
+            }
+          },
+          "hash": "8c1c581d46ce5afdeec805f9e1b169ee5c04f532",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138781$2E1FFB19-BE03-490E-8061-D2991AAC3907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140130",
+              "numeric-id": 140130
+            }
+          },
+          "hash": "17f519dd1ca3c93ad34129604e01229b82cc2b37",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138781$998BB3B9-10BA-46B6-9228-277CCA387029",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137916",
+              "numeric-id": 137916
+            }
+          },
+          "hash": "1ed5a8a7fc3334363aeed1622ab8f00d49c5ab55",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q138781$FBE58B1C-D84B-467B-9888-B7CABAA1ADD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "99KP-CPN"
+          },
+          "hash": "3094b6a8daf5adaa6b41ecf85be6b939e2b834e4",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q138781$D38E4978-1876-4AFB-AAC3-ACD852E409D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "St_Valéry-37"
+          },
+          "hash": "f4e823f5e4ce1c37fe88f5d3e5be6f4545b59f62",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138781$715347FC-BC1B-4D88-BC79-E0DDEFD14155",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138781$9C1B936E-E158-4877-9603-BAC9DFA9279C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138781$86512D09-B004-4BD9-9CD4-47605D9E4BD4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maud_de_Braose_(1)"
+          },
+          "hash": "f60f52db5a6ae9dee322fce52ba461f91798316a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138781$AA9B9BF1-5B70-4F0E-80CF-67777F4D37D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138780",
+              "numeric-id": 138780
+            }
+          },
+          "hash": "d6bffb6ba59bd6c1e7943ed3dcffa5d7c53c27c8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q138781$E3F5BD3B-6626-4085-9591-F5B0A656B6E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10253.htm#i102521"
+          },
+          "hash": "fbdf5ea0a996c840700e86763d8ade9b2705753e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138781$A3FBBE7F-9846-40A0-AC48-F94A1C1EA5C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140164",
+              "numeric-id": 140164
+            }
+          },
+          "hash": "6cb43ef4359fc029dda2e7464d8c53cc673074ad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138781$F4946DD8-1DF6-4CDB-A44D-A7DC16A83CBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140165",
+              "numeric-id": 140165
+            }
+          },
+          "hash": "3bcd0ee5bca075ae4551e93a3d6f8d725d9fcb11",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138781$B194F5E2-FFA6-437A-8CC8-8750D3D83E48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138781$E63F80BC-A216-4781-9DD0-7357648B7A39",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1155-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5fee5470c9115fd8515bfb068eff1186212c97c7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138781$85824034-9C26-4140-9F8A-03B12E18B4C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1210-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c5a53cff056cfc81a922d90bcf5c0330310b8cc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138781$53C5C8D5-3168-4D3C-878A-0F5D14F8E31B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q942269"
+          },
+          "hash": "c1a25550fd21e92766591af9954ab86afc2b4c8e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138781$B016FD72-73D1-42B8-A667-23EBD1468462",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000796896697"
+          },
+          "hash": "dbe119818c83ce05c8e8e4dc3e2337bdd5727876",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q138781$C850F112-D4AE-4A4C-B920-54AA9A663A9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=mathilde;n=de saint valery"
+          },
+          "hash": "62337bdac14db90f4c948c4e955786ff51f0b300",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138781$0EE3D3CD-F958-42D3-89ED-CF880F117A61",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maud de Braose Arms.svg"
+          },
+          "hash": "d4e7f16f59c97616c046fff9acb156c00e61aa9e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(c. 1155 – 1210)"
+    },
+    "de": {
+      "language": "de",
+      "value": "anglonormannische Adlige"
+    },
+    "en": {
+      "language": "en",
+      "value": "English noblewoman (c. 1155 – 1210)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate britannique"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile britannica"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "nobre inglesa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "леди Брамбер"
+    }
+  },
+  "id": "Q138781",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Maud de Braose"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maud de St Valery"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maud de Braose"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maud de Braose"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maud de Briouze"
+    },
+    "it": {
+      "language": "it",
+      "value": "Matilde de Braose"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maud de Braose"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Maud de Braose"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Maud de Braose"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Матильда де Браоз"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Maud de Braose"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Maud de Braose"
+    }
+  },
+  "lastrevid": 17556885,
+  "modified": "2025-09-17T11:41:06Z",
+  "ns": 860,
+  "pageid": 167166,
+  "sitelinks": {},
+  "title": "Item:Q138781",
+  "type": "item"
+}

@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Frodoald"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139453$2D99A526-BF6B-4823-AA04-AD391328832E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "926731"
+          },
+          "hash": "13e452b7f1ff6c09b427633cffbd0b64f9540461",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139453$190B6DEF-CA37-44F6-BDDB-70983DFA0E5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124060",
+              "numeric-id": 124060
+            }
+          },
+          "hash": "e924950c64f66df2c3a268341e0fd2ab26450afd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139453$08B41540-7280-4F9A-AAA0-D6BF5E990979",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139453$3CA39C46-4E43-40B7-BA33-B61713B30B87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139453$09EE1074-F04B-42C3-9D3B-985584EF9F9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139453$ABD10D65-6D34-4CC8-92AC-87BB61A82A94",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8163df404d9994b40f680a1364f0bb46039df56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139453$7FD85BE8-F2F5-4F79-91DF-484A069BC3FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0814-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a5bbfc000eee088d55d6f40e64ffa2b4f4d111a6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139453$F89D6069-9EDD-4C63-8F58-0C1898A8CD2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1997366"
+          },
+          "hash": "0b54f3673b38193b1898cf372d5701418443f8dd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q139453$D90EEBFF-A477-466A-AA01-156149DA987A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=frodald;n=n"
+          },
+          "hash": "5147830923391436be5fa80c39472b299518a021",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139453$C5E4611E-38EC-4D1A-B24B-593E9558E065",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Frodoald Arms.svg"
+          },
+          "hash": "fe6b1b78e2c99ffa8f86868e976b2679381bb39a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "comte de Vannes avant 799 jusque vers 814"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "граф Ванна"
+    }
+  },
+  "id": "Q139453",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Frodoald"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фродоалд"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Frodoald"
+    },
+    "en": {
+      "language": "en",
+      "value": "Frodoald"
+    },
+    "es": {
+      "language": "es",
+      "value": "Frodoald"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Frodoald"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Frodoald"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frodoald"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фродоальд"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Frodoald"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фродоальд"
+    }
+  },
+  "lastrevid": 17557917,
+  "modified": "2025-09-17T11:55:38Z",
+  "ns": 860,
+  "pageid": 167838,
+  "sitelinks": {},
+  "title": "Item:Q139453",
+  "type": "item"
+}

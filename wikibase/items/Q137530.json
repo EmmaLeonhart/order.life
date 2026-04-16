@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Einar Sigurdsson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q137530$9B2A1D5E-9462-4701-9C85-B024A25B554C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sigurdsson-131"
+          },
+          "hash": "316fa723441430ba4c0b6125d6865d9d28d44705",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137530$4EFCD1CB-08EB-4D0C-9BD0-D6A299A3D19D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137530$1E47D48E-D9AB-4C7A-B8BF-CEB8723C7CED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137530$73986E7C-1448-426F-A83F-B43E19718B4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Einar_Sigurdsson_(1)"
+          },
+          "hash": "822e51acab948ff150c6f327cceeb6a0f85412f3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137530$5B74A313-1413-486A-9571-3055D6A5D2DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126141",
+              "numeric-id": 126141
+            }
+          },
+          "hash": "f54d1244bbb12c11ec08e527dd75a872144f86f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137530$0FF4A7DF-6FBF-43B0-ABAB-20C081C97DE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137525",
+              "numeric-id": 137525
+            }
+          },
+          "hash": "9a51c180d8b42c5422ec396c1fae0c405ce019c6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137530$DE0195BD-D1B9-4ADB-B134-86D586D960DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137530$C4CEB504-623B-49D8-B187-A354091970E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0989-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6270dc7c6e8b177e8db2f2cc232ad4639cad4ce0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137530$B6DFC0B4-0DBF-4AF5-88D2-A43FBBE41454",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1020-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5649297c15d332712186bef37b2285f7ad0f5837",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137530$CF6D7835-6D6C-47F5-8F3F-CF50379D7E40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3049450"
+          },
+          "hash": "d1210226ad2c139175c679b1975455266ef8890c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137530$2D7CE1DC-3801-4C3F-A512-0D1255781A2E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000004333578987"
+          },
+          "hash": "58c73a425770e77e0210e246d92d16514b563a09",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137530$BB61649F-F75C-421B-83A9-485F546D9EBA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Einar Sigurdsson Arms.svg"
+          },
+          "hash": "ac9045d32a4692b82186af8d29ad3ad5dfb45988",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Norwegian Earl of Orkney"
+    }
+  },
+  "id": "Q137530",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Einar Sigurdsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Einar Sigurdsson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Einar Sigurdsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Einar Sigurdsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Einar Sigurdsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Einar Sigurdsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Einar Sigurdsson Vrangmunn"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Einar Sigurdsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Einar Sigurdsson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эйнар Сигурдссон"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Einar Sigurdsson"
+    }
+  },
+  "lastrevid": 17554889,
+  "modified": "2025-09-17T11:12:30Z",
+  "ns": 860,
+  "pageid": 165915,
+  "sitelinks": {},
+  "title": "Item:Q137530",
+  "type": "item"
+}

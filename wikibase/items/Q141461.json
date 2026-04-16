@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Aufidius Lurco"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q78303$26B4462E-63E0-4A94-8D63-DDE3CAE8D078",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735571"
+          },
+          "hash": "fa07519cd2e061928678dff41cc21a5521d1b858",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78303$141892ED-C3C2-4371-8535-D281FD1E4E60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78153",
+              "numeric-id": 78153
+            }
+          },
+          "hash": "9629bf60f0c0c54100f7a6dc71bf57fd2182148e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78303$0F35DC9C-C47A-4319-B9A3-8AF5C092C87C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78303$A765914B-5C63-4D05-8A05-CDBCD172E6FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q78303$DAA43947-E360-42F3-9C3F-3340CD8FA3B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Aufidius_Lurco_(1)"
+          },
+          "hash": "5a5b0314f2f68bee8674a1d339487d2772bce9d8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78303$1DCE0F31-04B5-4E85-B43F-15182AFAF337",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78303$2D63B735-0EE9-425F-8B5F-EC1DDF062117",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78303$C753FCA7-EA53-4F25-AC3D-F83271248FBB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q745693"
+          },
+          "hash": "8912eee1adbcb73aa17b8e2114203544c837b110",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78303$44C3BFA0-9257-4737-B3F7-52EA4DD222D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007484638189"
+          },
+          "hash": "69d82ab321a082f8f9d6792db01b1d623e628f2e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78303$EFE61CB9-1E62-439D-AE3E-D90A5BB4D56C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Aufidius Lurco Arms.svg"
+          },
+          "hash": "e4797de86a93e6d071bfd4f68aa9669301f7445a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "tribune of the plebs 61 BC"
+    },
+    "it": {
+      "language": "it",
+      "value": "magistrato romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "magistraat uit Oude Rome"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "народный трибун 61 г.ода до н. э."
+    }
+  },
+  "id": "Q78303",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Алфидий Луркон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Aufidi Lurcó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aufidius Lurco"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Aufidius Lurco"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aufidio Lurcón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Aufidius Lurco"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Aufidio Lurcone"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Aufidius Lurco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aufidius Lurco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Ауфидий Луркон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aufidius Lurco"
+    }
+  },
+  "lastrevid": 17492318,
+  "modified": "2025-09-16T20:11:40Z",
+  "ns": 860,
+  "pageid": 93134,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78303",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78303"
+    }
+  },
+  "title": "Item:Q78303",
+  "type": "item"
+}

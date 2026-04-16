@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artavazde III"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137654$21BA5F9B-FFA4-425C-AB6F-8CF61E39653D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137654$16A3E7D1-6D00-4C44-8587-7639A6811DAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137654$27FC787A-BCAA-4BD3-AAD1-FE061323C272",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137130",
+              "numeric-id": 137130
+            }
+          },
+          "hash": "33acd81960e293239efdba56d79c0f8c93e8b098",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137654$36D09AA4-6A90-475E-A810-22797F3AA52B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137654$CD86F58B-2213-4F1C-8973-E9993D06B956",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0b73d802fb7f925bd3bd4fb20dfc4848cc36948d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137654$930350BA-E5D1-4DC8-9D91-65F377211A12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0002-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de4ce344be385b768ac3cd3571b69abc58e3e4bf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137654$383A4B52-D8B4-4569-B06D-F29CDEFEAFC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2864795"
+          },
+          "hash": "13e22a1486195d9cf6c971bc009db81308ba163e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137654$5DBE667F-5715-4B43-B7C8-F81CC53908D5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artavazde III Arms.svg"
+          },
+          "hash": "3957989a0550b4f9394b5ff3dd6c997e9dbf1a02",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "king of Armenia from 5 to 2 BC"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kung av Armenien"
+    }
+  },
+  "id": "Q137654",
+  "labels": {
+    "avk": {
+      "language": "avk",
+      "value": "Artavazd III"
+    },
+    "az": {
+      "language": "az",
+      "value": "III Artavazde"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artavasdes IV d'Armènia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artavazde III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artavazde III"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արտավազդ Գ"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Արտաւազդ Գ․"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artavazde III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artavasdes III"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artavasdes III"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артавазд III"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Artavasdes III av Armenien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артавазд III"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔塔瓦兹德三世"
+    }
+  },
+  "lastrevid": 17555055,
+  "modified": "2025-09-17T11:14:55Z",
+  "ns": 860,
+  "pageid": 166039,
+  "sitelinks": {},
+  "title": "Item:Q137654",
+  "type": "item"
+}

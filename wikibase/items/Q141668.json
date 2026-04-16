@@ -1,0 +1,606 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Salome I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141668$ACFFCE0A-A3C2-4254-846D-6880695B6AAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "169742"
+          },
+          "hash": "ca53d341c894d23f76a76a503974bb0998dda633",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q141668$80CE055D-2FBF-495F-9A50-659F15FBD2C3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736524"
+          },
+          "hash": "fadaa3fe27dedd69d7516a1e36398a1d36914ee7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141668$E300BEEB-76F9-4119-AA02-9E7D888E08F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144304",
+              "numeric-id": 144304
+            }
+          },
+          "hash": "e80f201844d6a209f7f00a247627c3aaefadd0d9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141668$A0D3F73C-5B2F-477C-9D7A-5DB082A1664B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141685",
+              "numeric-id": 141685
+            }
+          },
+          "hash": "21bd78fd9c9ba92128ec465d58dbcd6579b29fa9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141668$DA84C2E6-408D-4360-ACBE-38E773C06E18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144305",
+              "numeric-id": 144305
+            }
+          },
+          "hash": "046180710aad474f9a2755b3faff7eb198cf435e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141668$77EB37FA-BF2D-4CD5-A556-651F24643E78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141668$7B4928AF-A238-404E-8D28-A47F379AB806",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141668$57E1C9D0-CB14-4D87-AEFF-31ADE3EAE00C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Salome_I_(1)"
+          },
+          "hash": "d8a267f6c9c145f51f2131ed1c5d914d149bcf82",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141668$7F5B9A64-BD4C-4FF7-9AD0-CAFBEEC7B9F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144301",
+              "numeric-id": 144301
+            }
+          },
+          "hash": "312a66c376c10a84300c3767ce5456de91b310f5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141668$895D656F-1441-4984-AD98-76FC10809742",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144302",
+              "numeric-id": 144302
+            }
+          },
+          "hash": "26d0ac9570d6e12d16f1c1786b1d9ae293c5061a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141668$DE14A3CE-CD29-4E8E-84E1-44CA0C5B7E7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144303",
+              "numeric-id": 144303
+            }
+          },
+          "hash": "6ef010f8327137a7f9ed5ea37f8d99aa1616544f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141668$B003A1AF-6CEC-4D72-B006-C78F7741E143",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141669",
+              "numeric-id": 141669
+            }
+          },
+          "hash": "771783eecd8ffccc10811ced05388e398a05e962",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141668$FF0D2537-7F43-4CE1-8D93-7F72E3D2E258",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78348",
+              "numeric-id": 78348
+            }
+          },
+          "hash": "fc6fc528126bc3070db7d180cb8291cc568de581",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141668$E0919235-6AD6-4F1C-9D2D-F8C0E5BA4515",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78351",
+              "numeric-id": 78351
+            }
+          },
+          "hash": "65eb4ff97707e2e8d977b7170f304f087de0035f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141668$FFB50AE7-86DF-4806-B0F8-DFDAB06E9AF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141668$1F79F8BB-6EF1-4F92-B9CA-8997750403E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0065-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c9f79ffd01c22d86642c42c4d0928f59c0509fb1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141668$EDA54692-CF25-47CD-82C7-381E688E5FF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0010-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "31b3663cb03338f74665f7e141764c0af06a90df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141668$9217C7E1-DC40-402C-ACA0-E0120F53B7D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q254920"
+          },
+          "hash": "05776cf1568a349d54e741d8a527fc22523c1477",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141668$2C4A5AD4-223E-48A0-B22B-B1AD20EF0BBD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041137333411"
+          },
+          "hash": "f8e266d1db37fc9788757516781f74368b6ef570",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141668$D53963DD-93A3-4087-831B-0699100C057A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Salome I Arms.svg"
+          },
+          "hash": "bb3daf300c1afbaeb2a3293e16c8c2f847eff7af",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schwester des Königs Herodes des Großen"
+    },
+    "en": {
+      "language": "en",
+      "value": "politician"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sœur d'Hérode le Grand"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחות הורדוס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina giudea"
+    },
+    "la": {
+      "language": "la",
+      "value": "politica"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичарка"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "política"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "política"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правительница, жена Костобара"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "sestra kralja Heroda Velikega"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikane"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "політична діячка"
+    }
+  },
+  "id": "Q141668",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سالومي الأولى"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سالومى الاولى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Саломе I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Salomé I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Salome"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σαλώμη Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Salome I"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Salomeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Salome I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Salome I.a"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Salomé"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Salome I"
+    },
+    "he": {
+      "language": "he",
+      "value": "שלומית"
+    },
+    "id": {
+      "language": "id",
+      "value": "Salome I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Salomè I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サロメ (女王)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "살로메 1세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Saloma"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Salome, søster til Herodes den store"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Salomé I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Salome I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Salomé"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Salomé"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Саломея I"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Saloma I."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Салома I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Salome I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Саломея І"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سلومی"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "莎樂美一世"
+    }
+  },
+  "lastrevid": 17561648,
+  "modified": "2025-09-17T12:50:21Z",
+  "ns": 860,
+  "pageid": 170053,
+  "sitelinks": {},
+  "title": "Item:Q141668",
+  "type": "item"
+}

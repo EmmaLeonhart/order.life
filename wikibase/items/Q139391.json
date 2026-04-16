@@ -1,0 +1,383 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Magnus Haraldsson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139391$58834770-89F0-4CDC-8AF8-722C51B4718D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00280205"
+          },
+          "hash": "dc93680157fa5254bd37820d09868fed2d2e7051",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139391$DF5E2789-53F9-43B9-9E05-A7E503537A6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139391$1778229D-AD81-4AD2-9684-0F0B4BAA0C81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139391$14A92FA8-5638-40D5-8C67-D57A9285B93C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Magnus_Haraldsson_(1)"
+          },
+          "hash": "c9c3fd7a586bc7bf8422ae9dacf14b1c6c941e3b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139391$CB8977DE-2FD6-489E-8AF2-2A68AE5A9AF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138267",
+              "numeric-id": 138267
+            }
+          },
+          "hash": "555f572be51a52b9ca9afd99d687afbf3cf9f692",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139391$AFA46B28-7CEC-4A93-B92D-3A46028760B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139391$02F463E6-23C7-4EB0-A3A4-D70AB0A497C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1135-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "925e369e694ecf7c412dfc5dc50e99fa5eba64e2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139391$CFBAC8B5-10BB-4A4F-9F9E-41BF45191DE6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1145-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2cdc06e681de00f2901b35df157f4310dd83790f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139391$41374262-45B5-46F4-9BB7-14970F8DAC30",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q29881"
+          },
+          "hash": "ea46d69786a9f0d469713b8228e661c1612e6798",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q139391$FEA12FFE-F97E-49BF-8C68-34862F2D8696",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187978983"
+          },
+          "hash": "3cc4d0d51fbe1a8fa4895dab200e41a7b578bcbc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139391$F89267E2-CB47-4DEF-BED2-17B58056D0DF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Magnus Haraldsson Arms.svg"
+          },
+          "hash": "5e6272cb2f4a0049ed5855c164aafa8c73cf2cad",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Norwegen"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Norway from 1142 until his death around 1145"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Noruega"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "co-roi de Norvège (1142-1145)."
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך נורווגיה בעבר"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ノルウェー国王（1142年－1145年）"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Noors jeugdacteur (1135-1145)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Norwegii z dynastii Yngling w latach 1142—1145"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Норвегии"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "vua Na Uy từ năm 1142 cho đến khi qua đời vào khoảng năm 1145"
+    }
+  },
+  "id": "Q139391",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Magnus Haraldsson"
+    },
+    "be": {
+      "language": "be",
+      "value": "Магнус Харальдсан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Magnus Haraldsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Magnus Haraldsson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Magnus Haraldsson"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάγκνους Χάραλντσον της Νορβηγίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Magnus Haraldsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Magnus Haraldsson"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماگنوس هارالدسون نروژ"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Magnus (V) Haraldsson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Magnus Haraldsson"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Magnus Haraldsson"
+    },
+    "he": {
+      "language": "he",
+      "value": "מגנוס האראלדסון"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マグヌス・ハーラルソン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "망누스 하랄손"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Magnus Haraldsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Magnus Haraldsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Magnus Haraldsson"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Magnus Haraldsson"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Magnus Haraldsson al Norvegiei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Магнус Харальдссон"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Magnus Haraldsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Magnus Haraldsson"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Magnus Haraldsson"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬格努斯·哈拉爾松"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馬格努斯·哈拉爾松"
+    }
+  },
+  "lastrevid": 17557809,
+  "modified": "2025-09-17T11:54:05Z",
+  "ns": 860,
+  "pageid": 167776,
+  "sitelinks": {},
+  "title": "Item:Q139391",
+  "type": "item"
+}

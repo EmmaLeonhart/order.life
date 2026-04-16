@@ -1,0 +1,333 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vagn Åkesson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140838$57CE1A64-BA07-4245-A2E6-524270D11DA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00079490"
+          },
+          "hash": "237d434598a4d370e70e57f054c5d995543551f7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140838$A592200F-31ED-43A9-9058-AE860F357A6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139165",
+              "numeric-id": 139165
+            }
+          },
+          "hash": "763bc887ea312ddca9061f86b1f95b73dac58b6b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q140838$8416B6FA-6F08-4907-8D3D-FCEC3510A32C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Agesson-1"
+          },
+          "hash": "ce34c40e04f3033cdf12f73e8a54a45b5c2cc470",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140838$DE92EC99-DC66-46EE-AF9A-2DEB2EFA5EC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140838$1D363B0D-0DB4-4300-BC2C-46E1075F43C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140838$F268B459-2980-4A3F-AB61-D4E57D67B6D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140839",
+              "numeric-id": 140839
+            }
+          },
+          "hash": "01281a21b8d135fa767e6fcd4c50d250468a7cdb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140838$5EF819D0-70E8-47CC-8D01-1236DFE3FB29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143266",
+              "numeric-id": 143266
+            }
+          },
+          "hash": "90a640f62223b65eda1a2cea1d721eab9104e797",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140838$7FE1335F-7BBA-4007-B9B3-0DFB968D0789",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140838$7EE6A66D-396D-4CA1-BBF7-7FFF94FA8CB5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140838$2CA00B28-7FD4-4E65-AA70-07EE36085E4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2974985"
+          },
+          "hash": "679eb46bbf716eecc390cddcb75db77f81dce84e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q140838$1567373F-1EB4-4D7A-B006-6A76FF7DCD28",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000040089350482"
+          },
+          "hash": "b008a956400b4dbb2b35e220a8a1f3fdef74767d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140838$CD6446EA-0B85-4973-9E35-E9B574CF4D41",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vagn Åkesson Arms.svg"
+          },
+          "hash": "043429b217ede5549f46caca5ffb94a0318e0574",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Norseman of the late 10th century, mentioned in the Jómsvíkinga saga"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ദേശപരിവേക്ഷകന്"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ontdekkingsreiziger"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "wiking"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "йомсвикинг конца X века"
+    }
+  },
+  "id": "Q140838",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Вагн Окесан"
+    },
+    "da": {
+      "language": "da",
+      "value": "Vagn Ågesen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vagn Åkesson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vagn born of Åke"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vagn Åkesson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vagn Åkesson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vagn Åkesson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Vagn Åkesson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vagn Åkesson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Vagn Åkesson"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wagn Akeson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вагн Окессон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Vagn Akesson"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "沃恩·阿卡森"
+    }
+  },
+  "lastrevid": 17560501,
+  "modified": "2025-09-17T12:33:15Z",
+  "ns": 860,
+  "pageid": 169223,
+  "sitelinks": {},
+  "title": "Item:Q140838",
+  "type": "item"
+}

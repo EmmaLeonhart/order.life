@@ -1,0 +1,747 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "St. James the Elder, Apostle"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141708$C329A354-2426-4E49-9228-05227F5E9972",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1230276|304126|505973"
+          },
+          "hash": "0aa6401edc130f4e4528c31021d5e6a276276006",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141708$67BDE0BE-A726-41F5-B4AB-29C9F4618081",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141708$294BCE59-3A4D-4720-82B1-A9BE1DE1A38A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141708$6748FF78-6FBE-4465-A766-7BB4F4FD6F09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141707",
+              "numeric-id": 141707
+            }
+          },
+          "hash": "39f4e2c44538aefaae070ab7c35463f6128b5eef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141708$CD38BEED-1CFC-4044-A849-F86651EFD991",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139789",
+              "numeric-id": 139789
+            }
+          },
+          "hash": "337e9e4a9c6a8a3875ea2fec920623ff946dcee5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141708$0094440F-9120-4B87-A698-06C34A2F72CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141708$212207EF-24C2-4329-9022-33030C3713F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0b73d802fb7f925bd3bd4fb20dfc4848cc36948d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141708$A1D1E8A5-673A-4682-BA80-8C7F70DDA919",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0044-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77349b6966f6f3fe2f3249530bb17285a93f248f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141708$E83F5C67-6D04-4798-A89B-DC356622EBA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q43999"
+          },
+          "hash": "78e4b5e510ca685e222b905a014caf1e3711d084",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141708$AF2F18ED-2D38-4DB3-B673-08644D06D16D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "St. James the Elder, Apostle Arms.svg"
+          },
+          "hash": "d6f92ba073245c7b5cf8cb24e88d1413f34610be",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q141708$533B31EF-9F38-4566-BC58-78D3F6BB07F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/f8a14cdb-776f-4ab1-bd54-77b1b9d4ca6e"
+          },
+          "hash": "f57d18a566ef01dd4c365b3d92a13ffaeca45e6b",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شقيق يوحنا ومن تلاميذ يسوع"
+    },
+    "be": {
+      "language": "be",
+      "value": "адзін з дванаццаці апосталаў"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "адзін з 12 апосталаў Хрыста"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "un dels dotze apòstols de Jesús"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "apoštol, světec"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "un o ddeuddeg apostol yr Iesu"
+    },
+    "da": {
+      "language": "da",
+      "value": "en af Jesus' tolv apostle"
+    },
+    "de": {
+      "language": "de",
+      "value": "Apostel Jesu Christi"
+    },
+    "en": {
+      "language": "en",
+      "value": "one of the Twelve Apostles of Jesus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "apostolo de Jesuo"
+    },
+    "es": {
+      "language": "es",
+      "value": "apóstol de Jesús"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jeesuksen opetuslapsi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "apôtre du Christ"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "un dos doce apóstolos"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "en Apostel vo Jesus Christus"
+    },
+    "he": {
+      "language": "he",
+      "value": "מתלמידי ישו"
+    },
+    "it": {
+      "language": "it",
+      "value": "apostolo di Gesù"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イエス・キリストの十二使徒のひとり"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Apostel, Hellegen"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "еден од дванаесетте апостоли"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "een van de twaalf apostelen van Jezus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "uczeń Chrystusa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "apóstolo de Jesus Cristo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "apóstolo de Jesus Cristo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "один из двенадцати апостолов Иисуса Христа"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "apoštol Ježiša Krista"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "eden od dvanajstih Jezusovih apostolov"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "апостол и хришћански светитељ"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "en av Jesu tolv apostlar"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இயேசு கிறித்துவின் பன்னிரு திருத்தூதர்களுள் ஒருவர்"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Một trong 12 Tông Đồ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "基督教傳統中的主要宗教人物和十二使徒之一"
+    }
+  },
+  "id": "Q141708",
+  "labels": {
+    "ak": {
+      "language": "ak",
+      "value": "Yakubu"
+    },
+    "an": {
+      "language": "an",
+      "value": "Sant Chaime o Mayor"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يعقوب بن زبدي"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܝܥܩܘܒ ܒܪ ܙܒܕܝ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "القديس يعقوب"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Jakobus da Äitere"
+    },
+    "be": {
+      "language": "be",
+      "value": "Якаў Зевядзееў"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Якаў Зевядзееў"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Яков Зеведеев"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সিবদিয়ের পুত্র যাকোব"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཡ་ཀོབ་ནི་ཟེ་བད་ཡཱ་ཞེས་བྱ་བའིབུ།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Jakez, mab Zebede"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jaume el Major"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Ngā-gáuk (Să̤-bī-tái gì giāng)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jakub Starší"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Iago fab Sebedeus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jakob den Ældre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jakobus der Ältere"
+    },
+    "el": {
+      "language": "el",
+      "value": "Απόστολος Ιάκωβος"
+    },
+    "en": {
+      "language": "en",
+      "value": "St. James the Elder, Apostle"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jakobo la pli aĝa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Santiago el Mayor"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaakobus (Sebedeuse poeg)"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Done Jakue"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یعقوب پسر زبدی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jaakob vanhempi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jacques de Zébédée"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Jaakob di Ääler"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Jakobus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Naomh Séamus, mac Zeibidé"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Santiago o Maior"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Jakobus de Älter"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Yakubu"
+    },
+    "he": {
+      "language": "he",
+      "value": "יעקב בן זבדי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Jakov Zebedejev"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "idősebb Jakab apostol"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հակոբոս առաքյալ"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Յակոբոս Առաքեալ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yakobus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giacomo il Maggiore"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヤコブ"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Yakobus"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იაკობ ზებედესი"
+    },
+    "km": {
+      "language": "km",
+      "value": "យ៉ាកុបកូនសេបេដេ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "야고보"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iacobus Maior"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Jacques den Eeleren"
+    },
+    "li": {
+      "language": "li",
+      "value": "Jacobus de Meerdere"
+    },
+    "lld": {
+      "language": "lld",
+      "value": "San Iaco"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Apaštalas Jokūbas vyresnysis"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Jēkabs"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Jakoba zanak'i Zebedio"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Апостол Јаков Зевдеев"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "വിശുദ്ധ യാക്കോബ്"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "James the Great"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Ġakbu l-Kbir"
+    },
+    "nah": {
+      "language": "nah",
+      "value": "Santiago in Hueyi"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Apostelen Jakob"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Jakobus de Öllere"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jakobus de Meerdere"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Apostelen Jakob"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Sant Jacme lo Màger"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jakub Większy Apostoł"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Giaco ël magior"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "یعقوب بن زبدی"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Santiago Maior"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tiago, filho de Zebedeu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iacob cel Mare"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иаков Зеведеев"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Giagu \"su Mazore\""
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Jakov Zabedejev"
+    },
+    "si": {
+      "language": "si",
+      "value": "ජේම්ස්, සෙබඩීගේ පුත්"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Jakub starší"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jakob Starejši"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jakobi i Vjetri"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јаков Заведејев"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jakob"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Yakobo Mkubwa"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "செபதேயுவின் மகன் யாக்கோபு"
+    },
+    "th": {
+      "language": "th",
+      "value": "ยากอบ บุตรเศเบดี"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Santiago, anak ni Zebedeo"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Jakopo suli"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Zebedi oğlu Yakup"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Ягъкуб Зебедәй улы"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Яків син Зеведеїв"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یعقوب بن زبدی"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Jàcomo el Major"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Giacôbê, con của Zêbêđê"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Sint Djåke li Grand"
+    },
+    "war": {
+      "language": "war",
+      "value": "Santiago, anak ni Zebedeo"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "雅各 (西庇太个儿子)"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "יעקב בן זבדי"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "聖雅各伯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "雅各"
+    }
+  },
+  "lastrevid": 17561720,
+  "modified": "2025-09-17T12:51:21Z",
+  "ns": 860,
+  "pageid": 170093,
+  "sitelinks": {},
+  "title": "Item:Q141708",
+  "type": "item"
+}

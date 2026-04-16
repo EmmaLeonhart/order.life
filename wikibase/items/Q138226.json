@@ -1,0 +1,723 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Macbeth"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138226$CBA177F4-5428-4116-A3E8-EE8DC18AA619",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "141520"
+          },
+          "hash": "f5d8cdca6932b5b6f941032b61a603024a1cdfcd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q138226$115DE812-E630-48EF-ACE6-98380D82F1F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00076177"
+          },
+          "hash": "71e07aa121521777ec16541c53c246a245743380",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q138226$543DFDA1-37F3-4732-A7B7-CBC618189CB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LZJH-C1Z"
+          },
+          "hash": "3f0c58db8a90e372828708faf6979e78e71cadbd",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q138226$23207385-CBDD-43FA-AF08-8487F30EE76F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Scotland-163"
+          },
+          "hash": "eb0f94cffe2f7e0a8115f8052140418615064e42",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138226$786D94FF-B6EB-48FC-B36E-E7A626A761FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138226$8629C6B4-ADF2-4D7A-A44A-B172CEA8ECBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138226$4C84FE8F-EF3A-459F-98B3-8B2E8BA05BA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Macbeth_of_Scotland_(1)"
+          },
+          "hash": "ef5e425f049463382a08d1a13b3a7e10e0bba03b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138226$A3FFED01-DCD7-42AA-ABBE-6096127E3E2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139330",
+              "numeric-id": 139330
+            }
+          },
+          "hash": "0e6419e5d742a02e1c52d27d411fcb050c7ceb12",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q138226$15DE3DEC-2002-4033-A8FA-2192C6775FEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10289.htm#i102887"
+          },
+          "hash": "9b48387ea054e9d72699edb2528e82a986eddbea",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138226$531A1C61-CDA5-4BB6-B3A4-8C38B195E15B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138225",
+              "numeric-id": 138225
+            }
+          },
+          "hash": "5db4df7cca758e0feb3ff86cadcdfac47efd084e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138226$C3BAA592-05F5-4A0D-BE00-862FC81EF7E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137526",
+              "numeric-id": 137526
+            }
+          },
+          "hash": "7578142a62bf90ebe2f7d2f7fcc27ff14d625148",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q138226$727AF947-DE21-470A-9AE3-45BB891E5193",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8886907"
+          },
+          "hash": "08b4bf8cc74cb141406b9f8e3f298f64b3105ca6",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138226$1D8650CC-5502-4C15-99CB-B26440CF4819",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138226$FB4A21DA-29B7-4AE4-8BA7-0DCA94C32AFC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1005-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fa3c01c4323f769092fce98173734eca0378f14e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138226$9B9A151C-20F1-45BA-80F4-39507004EAF9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1057-08-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2c7f4f5d43a47cc4934d2129d4359191639e53ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138226$FF8E7C63-A382-4C12-AB66-E1D2E7F0B02E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q244403"
+          },
+          "hash": "6b0c7c0b040d6a0d556f883e9387069680d94cde",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138226$61778C3D-553B-4E88-B0B5-35E08178075C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000307274753"
+          },
+          "hash": "fe25ba166ab03fd63dd9515e50faf9493ca739df",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q138226$4DE7A2B5-9021-47A7-8E4D-DB028F09A8BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=macbeth;n=of moray"
+          },
+          "hash": "771837eb39def002c7de753c22f367124c3028fa",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138226$D545C6DE-4642-4DC4-A39D-3F677AE006C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Macbeth Arms.svg"
+          },
+          "hash": "059758a07154353eadd6dbc5fb4a9110c30b90bf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي اسكتلندي"
+    },
+    "be": {
+      "language": "be",
+      "value": "кароль Шатландыі (1040—1057)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei d'Escòcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "skotský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Scotland from 1040 to 1057"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Escocia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مکبث نجیب و مهربان بود ولی با تحریک همسرش لیدی مکبث شخصیت شرور او نمایان شد"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Écosse au XIe siècle (vers 1005-1057)"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ardrí na nAlbanach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei de Alba  entre 1040 e 1057"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך סקוטלנד במאה ה-11"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "1040 से 1057 तक स्कॉटलैंड के राजा"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Skócia királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Scozia (r. 1040-1057)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "알바의 왕"
+    },
+    "la": {
+      "language": "la",
+      "value": "Scotorum Rex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Koninkrijk Schotland (1005-1057)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Szkocji"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "último rei gaélico da Escócia (1040 a 1057)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ Шкотске"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "historisk kung av Skottland"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "1032-1057 yılları arasında hüküm süren İskoçya kralı"
+    }
+  },
+  "id": "Q138226",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Macbeth van Skotland"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Macbeoþan Scotta Cyning"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ماكبث، ملك إسكتلندا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماكبث"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "مک بث"
+    },
+    "be": {
+      "language": "be",
+      "value": "Макбет"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Macbeth d'Escòcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Macbeth I."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Macbeth, brenin yr Alban"
+    },
+    "da": {
+      "language": "da",
+      "value": "Macbeth af Skotland"
+    },
+    "de": {
+      "language": "de",
+      "value": "Macbeth"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάκβεθ της Σκωτίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Macbeth"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Macbeth"
+    },
+    "es": {
+      "language": "es",
+      "value": "Macbeth de Escocia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Macbeth Eskoziakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مک بث"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Macbeth"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Macbeth Ier d'Écosse"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Macbeth fan Skotlân"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "MacBheatha mac Fhionnlaigh, Rí na nAlbanach"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "MacBheatha na h-Alba"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Macbeth de Escocia"
+    },
+    "he": {
+      "language": "he",
+      "value": "מקבת'"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "माकबेथ"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Macbeth, kralj Škotske"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Macbeth skót király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մակբեթ (Շոտլանդիայի թագավոր)"
+    },
+    "id": {
+      "language": "id",
+      "value": "Macbeth, Raja Skotlandia"
+    },
+    "is": {
+      "language": "is",
+      "value": "Makbeð Skotakonungur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Macbeth di Scozia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マクベス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მაკბეტი (შოტლანდია)"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Макбет"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "맥베스 맥 팬드렉"
+    },
+    "la": {
+      "language": "la",
+      "value": "Macbethus"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Macbeth, Raja Scotland"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Macbeth"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Macbeth av Skottland"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Macbeth van Schotland"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Macbeth av Skottland"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Makbet"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Macbeth da Escócia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Macbeth da Escócia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Macbeth al Scoției"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Макбет"
+    },
+    "sa": {
+      "language": "sa",
+      "value": "माकबेथ"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Macbeth, Keeng o Scotland"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Macbeth od Škotske"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Macbeth"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Магбет од Шкотске"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Macbeth av Skottland"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Macbeth"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Макбет"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "麦克白"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "麦克白"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "麦克白(苏格兰)"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "麦克白(苏格兰)"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馬克白(蘇格蘭)"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "馬克白(蘇格蘭)"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "麦克白(苏格兰)"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "馬克白(蘇格蘭)"
+    }
+  },
+  "lastrevid": 17555983,
+  "modified": "2025-09-17T11:28:12Z",
+  "ns": 860,
+  "pageid": 166611,
+  "sitelinks": {},
+  "title": "Item:Q138226",
+  "type": "item"
+}

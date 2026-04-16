@@ -1,0 +1,426 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberius Plautius Silvanus Aelianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q77269$BF197D37-21F0-4866-B301-CA4CFD081C1F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736108"
+          },
+          "hash": "67e7ebb0763e684efe23ad4174c5bda11ce76d4b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q77269$103CEFA1-AC57-4C31-8D67-2F6C46ADC6AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77038",
+              "numeric-id": 77038
+            }
+          },
+          "hash": "dc131c12c1a1930b9f0c4980d8cda485c40a86f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77269$1D8975D1-9D3D-49E8-9DCE-251A3498490B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144091",
+              "numeric-id": 144091
+            }
+          },
+          "hash": "352625981f0bfc38cecb9da3d852d5dfc673707b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77269$D4E18766-76C7-47D2-814E-25638AF5A79E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144090",
+              "numeric-id": 144090
+            }
+          },
+          "hash": "cff6874feb6ab85c2785e1bcf03fcad5279c7d1e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q77269$0C0B8BF6-295C-4751-BC12-718071B20283",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77269$F95A0F5D-7674-4076-A552-411364373D5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77269$ea1c463d-4f94-15a7-4d1c-08e1a235cae0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153800",
+              "numeric-id": 153800
+            }
+          },
+          "hash": "3b66e417f1e200d14b1e40ba27fab7789c815575",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q77269$DEC574D3-C520-415D-B85D-7F3BAE57B002",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77497",
+              "numeric-id": 77497
+            }
+          },
+          "hash": "007074db5300a0bbdc7289abf144606f004a5b9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77269$5F0349C2-1EB9-462D-AC40-B887B3F0B53F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144088",
+              "numeric-id": 144088
+            }
+          },
+          "hash": "254f13d66ea58b672fdd5107756d3bb25e2f289e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q77269$549F1FD9-087A-4BC8-B1D7-BF1C9C57008C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77494",
+              "numeric-id": 77494
+            }
+          },
+          "hash": "5b528029636c599b4d48afd1d2d0b7088966b464",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q77269$44B28C7D-DFF5-4836-9DE5-075C1FB8CE30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141426",
+              "numeric-id": 141426
+            }
+          },
+          "hash": "46aebafeac600569fe4c7f3b09843c3fc250dda4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q77269$C955673F-D980-48B3-A2F9-4952D2D0C9B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q77269$341B68D6-EAE8-4508-AB59-723367AFFEDA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0079-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "46a1e246421190a4c53c501a09220ecda1265cc0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q77269$B29C9F3D-5DBB-49D9-9DD5-DC065D47176E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q655711"
+          },
+          "hash": "8ad84ea9e9192a67c540c02c7087b02e8b03e450",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q77269$0087B333-C430-4EA5-86C7-22E539C8DAB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001511843037"
+          },
+          "hash": "3f9e30e2bb8600df43207770f8ba0a1c8241386f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q77269$D40876BD-62D8-423A-8100-D5EAAA73E30B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberius Plautius Silvanus Aelianus Arms.svg"
+          },
+          "hash": "1d886b851ef233d1f0358538c3b3fc40a7f324ca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "magistrat romà del segle i"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Senator"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century AD Roman senator and consul"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 45"
+    },
+    "it": {
+      "language": "it",
+      "value": "console, generale e pontefice romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-79)"
+    }
+  },
+  "id": "Q77269",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Тиберий Плавций Силван Елиан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Plauti Elià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tiberius Plautius Silvanus Aelianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιβέριος Πλαύτιος Σιλβάνος Αιλιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberius Plautius Silvanus Aelianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tiberio Plaucio Silvano Eliano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tiberius Plautius Silvanus Aelianus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tiberio Plauzio Silvano Eliano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Tiberius Plautius Silvanus Aelianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tiberius Plautius Silvanus Aelianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tibério Pláucio Silvano Eliano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tibério Pláucio Silvano Eliano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тиберий Плавтий Сильван Элиан"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тиберій Плавцій Сільван Еліан"
+    }
+  },
+  "lastrevid": 17597831,
+  "modified": "2025-09-17T21:10:45Z",
+  "ns": 860,
+  "pageid": 92100,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q77269",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q77269"
+    }
+  },
+  "title": "Item:Q77269",
+  "type": "item"
+}

@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gunnor d'Aunou"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141015$7F8D320F-DAFE-4E7A-946F-CFE34B93A7DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00079578"
+          },
+          "hash": "3107aad5ece7e6ae35052623a82697f6a72b08f2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141015$6B7AD039-0C54-4A33-B18E-065FBC1D53B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139288",
+              "numeric-id": 139288
+            }
+          },
+          "hash": "52949dacbabceb4bbe5165e172989bfc8e2359aa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141015$680E32EF-20B7-4833-BD35-2D8C83BDE7DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Aunou-3"
+          },
+          "hash": "9f6627d1abbabb33453aaed5bc170b95a4f4ecd6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141015$61B29628-5284-4C21-AD93-BB2286551971",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141015$AF8EB57F-E51B-427B-86C7-47675ECF1FA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141015$23869BE6-C14C-4882-96D0-69F9E278879E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138204",
+              "numeric-id": 138204
+            }
+          },
+          "hash": "dc7b827453664382956cbefcdd5a2ac57cb98ddf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141015$9C384641-4F75-4935-917B-C60CEE1D6389",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141015$28E1C62E-7CE5-4895-9624-1ECD92AB474C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141015$4D31818C-D02A-4F11-A2A2-014B8A8933D7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1024-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e5eb79e556e0966d16bae117768fd81bdd73b0fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141015$51224582-B5F1-417C-94E9-CFA95F6BB1CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116005816"
+          },
+          "hash": "e01de5a1d34af86a3351243ada1da3f0495d8047",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141015$B26C3294-077F-4983-8EFB-E61FCE0C3145",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gunnor d'Aunou Arms.svg"
+          },
+          "hash": "e15482c765f1290ae431c4ee2430c097e809740e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1000 - 1024"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1000-1024)"
+    }
+  },
+  "id": "Q141015",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gunnor d'Aunou"
+    }
+  },
+  "lastrevid": 17560619,
+  "modified": "2025-09-17T12:35:02Z",
+  "ns": 860,
+  "pageid": 169400,
+  "sitelinks": {},
+  "title": "Item:Q141015",
+  "type": "item"
+}

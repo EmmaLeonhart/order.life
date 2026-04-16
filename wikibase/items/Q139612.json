@@ -1,0 +1,415 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Decimus Junius Brutus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139612$6AD80959-FD30-4429-A407-2549847EACA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1464988"
+          },
+          "hash": "f7056836f526a2eacf836d699dc247f258b8107f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139612$CC29AE42-20E4-4E9B-91D7-AE62EDBFFF71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141477",
+              "numeric-id": 141477
+            }
+          },
+          "hash": "b98e978a4f7fa0743b250ee9346370d4829a7b49",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139612$82A5BEF8-4EA0-4BA3-83EA-4FB8B75D794E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139612$250899C9-A067-43D7-94F2-56219DB1D8EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139612$0D7445D2-26FA-49A9-A920-1F67F29872AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141475",
+              "numeric-id": 141475
+            }
+          },
+          "hash": "2f477fdc2b904ebc6502d6867f753ed5f5be883d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139612$71E2DE4B-4C05-4DEC-99C2-467EC0ABC3A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141476",
+              "numeric-id": 141476
+            }
+          },
+          "hash": "324e843fbbcba7c9a4cd6b3179f0cca33929a972",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139612$7EF71EF0-87E3-460A-AD9D-225615FE2130",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72909",
+              "numeric-id": 72909
+            }
+          },
+          "hash": "19c0af93efb1548a404554b4d15e6a2b94a9050f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139612$1D4AC30B-0AF1-4094-8A70-9DB9CC285DF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72912",
+              "numeric-id": 72912
+            }
+          },
+          "hash": "7992756b07cf55c9093dc51e8200da142f5001e6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139612$B0A23184-681A-4AD7-B73D-739D7FD2EDC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139612$7DFC5353-F760-4E1E-B04D-FD1DC19ACCA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139612$6985FD18-3477-4D56-B4ED-3ED5D8954B3E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139612$1BD62395-CA39-4D14-B7B4-B6D1619B78B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1181848"
+          },
+          "hash": "c518e22f4c1b37ed9f88657521885c49cafdb320",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139612$1AA1C9F4-E82E-4416-BFC6-C7D76B568F60",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Decimus Junius Brutus Arms.svg"
+          },
+          "hash": "4414de5bae3b2bbb39c6c28ba8f6a170a3c19f4d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 77 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 77 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 77 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 77 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 77 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "Console romano nel 77 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Romersk konsul 77 f.Kr."
+    }
+  },
+  "id": "Q139612",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Децим Юний Брут (консул 77 пр.н.е.)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dècim Juni Brut"
+    },
+    "de": {
+      "language": "de",
+      "value": "Decimus Iunius Brutus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δέκιμος Ιούνιος Βρούτος (ύπατος το 77 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Decimus Junius Brutus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Décimo Junio Bruto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Decimus Junius Brutus"
+    },
+    "he": {
+      "language": "he",
+      "value": "דקימוס יוניוס ברוטוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Décimo Junio Bruto"
+    },
+    "it": {
+      "language": "it",
+      "value": "Decimo Giunio Bruto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デキムス・ユニウス・ブルトゥス (紀元前77年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Decimus Iunius Brutus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Decimus Junius Brutus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Decymus Juniusz Brutus (konsul 77 p.n.e.)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Décimo Júnio Bruto (cônsul de 77 a.C.)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Децим Юний Брут (консул 77 года до н. э.)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Decim Junije Brut (konzul 77. pne.)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Decimus Junius Brutus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Decimus Junius Brutus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Децим Юній Брут (консул 77 р. до н.е.)"
+    }
+  },
+  "lastrevid": 17558181,
+  "modified": "2025-09-17T11:59:21Z",
+  "ns": 860,
+  "pageid": 167997,
+  "sitelinks": {},
+  "title": "Item:Q139612",
+  "type": "item"
+}

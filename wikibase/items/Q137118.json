@@ -1,0 +1,813 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pericles"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137118$FD77F6F8-3676-4FA8-B9D7-228578DF7129",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "482541"
+          },
+          "hash": "fef6ee26ebb3996c6cf55c6ea8b62a781bfb0c0c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137118$35848DB3-45A0-4E0F-AB4D-DCD14B2B9300",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136718",
+              "numeric-id": 136718
+            }
+          },
+          "hash": "1f0ad2c20f0f36b0678051d61d0defa5ef91b24c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137118$EA21B811-69C2-4403-8AC6-4D32FE71F05B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136719",
+              "numeric-id": 136719
+            }
+          },
+          "hash": "f1f52283cdb529cf5ca0e0719bc60135ba9b6833",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137118$8D24652B-8740-4368-BE1B-6968E9D85A11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137119",
+              "numeric-id": 137119
+            }
+          },
+          "hash": "60f2324a82939a59249cf615a701481b87481a48",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137118$B37C5632-D4FD-4D76-B9D2-8EA9725E4BA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137118$89116F3B-12A6-4615-8F6E-8C723B8A6501",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137118$3038B72E-75CF-4270-B22F-82B341A0298E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136717",
+              "numeric-id": 136717
+            }
+          },
+          "hash": "71146ae1f8ccaba72b28743b3d57f30f04999a39",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137118$9E10AB46-3A7A-4A29-9BCE-97FC618EDE8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137636",
+              "numeric-id": 137636
+            }
+          },
+          "hash": "780de394601a2d515aad0549f7ea0e196ab660a0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137118$3672DD19-5E3F-4A9A-915E-ECAFE1D56A2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137634",
+              "numeric-id": 137634
+            }
+          },
+          "hash": "f99c443a29cb406b1b36241fc9fd1f760557c518",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137118$59C1FA5A-7F08-460C-B339-6567E7821DB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137630",
+              "numeric-id": 137630
+            }
+          },
+          "hash": "07622c887f02ebd59ee65e0ed301ad5a07487262",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137118$617F17E9-F673-40AB-A721-E56E4BD71CBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137118$A8DA699C-87C5-45D4-B32B-25EDEAA98518",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0494-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a3f51976e08a1ee5535452eaed09a18dc2489a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137118$134A5D62-64F6-4EC3-A020-249083B48156",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0429-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8aff444bc4f5d58a186f6372bfdb72e15bc49d7f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137118$B9624AC3-5842-42E1-A6C4-C07F0AF43E70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q80398"
+          },
+          "hash": "96e9d0677eee0addb496c89b71f576eb02d28133",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137118$1092E531-41E2-4E32-B8CB-00F6B28C9C4F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pericles Arms.svg"
+          },
+          "hash": "9b29128fb29b3fd1213752ad8afa2ec097e351eb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "атэнскі дзяржаўны дзяяч"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "атински държавник"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "home del estat grec, orador i general d'Atenes"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "státník, řečník a generál starověkých Athén"
+    },
+    "de": {
+      "language": "de",
+      "value": "athenischer Staatsmann und General"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αθηναίος πολιτικός, ρήτορας και στρατηγός του 5ου αιώνα π.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "Athenian statesman, orator and general (c. 495 – 429 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "hombre de Estado griego, orador y general de Atenas"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiikin kreikkalainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme d'État, orateur et stratège athénien (vers 495-429 avant JC)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político, orador e estratego ateniense"
+    },
+    "he": {
+      "language": "he",
+      "value": "מדינאי ומצביא ביוון העתיקה"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Ք.Ա. 5-րդ դարու Աթենացի քաղաքագետ, սպարապետ եւ հռետոր"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico, oratore e militare ateniese"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "statsmann, taler og general i antikkens Aten"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus, redenaar en strategos uit het oude Athene (494-429 v.Chr.)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "estadista, orador e general ateniense (c. 495 – 429 a.C.)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Lider de stat al Atenei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "афинский государственный деятель"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "старогрчки државник, говорник и војсковођа из V века п. н. е."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "atensk statsman"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பண்டைய கிரேக்க அரசியல்வாதி, பேச்சாளர் மற்றும் ஏதென்சின் தளபதி"
+    },
+    "th": {
+      "language": "th",
+      "value": "รัฐบุรุษ, นักพูด และนายทหารแห่งนครรัฐเอเธนส์"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "афінський державний діяч часів Стародавньої Греції"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Là một nhà chính trị, nhà hùng biện, tướng lĩnh tài ba và có nhiều ảnh hưởng của Athena trong Thời đại Hoàng kim của thị quốc này"
+    }
+  },
+  "id": "Q137118",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Perikles"
+    },
+    "an": {
+      "language": "an",
+      "value": "Pericles"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بريكليس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بريكليس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Pericles"
+    },
+    "az": {
+      "language": "az",
+      "value": "Perikl"
+    },
+    "be": {
+      "language": "be",
+      "value": "Перыкл"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Пэрыкл"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Перикъл"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "পেরিক্লিস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Perikles"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Perikle"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pèricles"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Periklés"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Pericles"
+    },
+    "da": {
+      "language": "da",
+      "value": "Perikles"
+    },
+    "de": {
+      "language": "de",
+      "value": "Perikles"
+    },
+    "el": {
+      "language": "el",
+      "value": "Περικλής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pericles"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Periklo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pericles"
+    },
+    "et": {
+      "language": "et",
+      "value": "Perikles"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Perikles"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پریکلس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Perikles"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Périclès"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Pericli"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Perikles"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Peiricléas"
+    },
+    "gcr": {
+      "language": "gcr",
+      "value": "Périklès"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Pericles"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Περικλῆς"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Perikles"
+    },
+    "he": {
+      "language": "he",
+      "value": "פריקלס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Periklo"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Pericles"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Periklész"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պերիկլես"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Փերիքլիս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Perikles"
+    },
+    "io": {
+      "language": "io",
+      "value": "Perikles"
+    },
+    "is": {
+      "language": "is",
+      "value": "Períkles"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pericle"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペリクレス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პერიკლე"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Перикл"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "페리클레스"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Perikles"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Perikles"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Перикл"
+    },
+    "la": {
+      "language": "la",
+      "value": "Pericles"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Pericle"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Periklis"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Perikls"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "伯里克利"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Pericles"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Перикле"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "പെരിക്ലിസ്"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Перикл"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Pericles"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "پریکلس"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Perikles"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Perikles"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Perikles"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Pericles"
+    },
+    "olo": {
+      "language": "olo",
+      "value": "Perikles"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Perykles"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Péricle"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "پیریکلیز"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Péricles"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Péricles"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pericle"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Перикл"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Pèricli"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Pericles"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "پيريڪلس"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Perikle"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Perikles"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Periklej"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Perikliu"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Перикле"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Perikles"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Perikles"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பெரிக்கிளீசு"
+    },
+    "th": {
+      "language": "th",
+      "value": "เพริคลีส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Perikles"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Perikles"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Перикл"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پیری کلیز"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Perikl"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Perikles"
+    },
+    "war": {
+      "language": "war",
+      "value": "Pericles"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "伯里克利"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "პერიკლე"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Pericles"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "伯里克里斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伯里克利"
+    }
+  },
+  "lastrevid": 17554211,
+  "modified": "2025-09-17T11:02:58Z",
+  "ns": 860,
+  "pageid": 165503,
+  "sitelinks": {},
+  "title": "Item:Q137118",
+  "type": "item"
+}

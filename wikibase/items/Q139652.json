@@ -1,0 +1,418 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Statilia Messalina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139652$220F964F-3F04-4F70-85D0-E74FDAB8509C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446779"
+          },
+          "hash": "c73fc2caf2fe96a6dabfc02ae2933e6795bd3a22",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139652$37AD3C9A-A4D9-4FB3-9C53-5270E05212F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139652$E98DCDED-3D3F-4CB7-90E9-0B2768204DDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139652$6045213B-78E8-4C4E-9566-4AE1B5031EB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Statilia_Messalina_(1)"
+          },
+          "hash": "f9a92ee50181519147b43bfe1e8e73da93dfb3b7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139652$C1C565F7-0D4A-4183-AB94-4EA41933D1E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141544",
+              "numeric-id": 141544
+            }
+          },
+          "hash": "14b3dac3366ed3d6d1e71a742290e64abf606d85",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139652$5FDA9416-92AE-4BAF-B96B-32E22213C289",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138448",
+              "numeric-id": 138448
+            }
+          },
+          "hash": "42ba83382987f5437687cf1b2abd9847eb16d79e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139652$37E5E8A0-779A-425D-901A-69CDC17F8151",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141511",
+              "numeric-id": 141511
+            }
+          },
+          "hash": "c22c7c21a7b000b368c0a26d29bbbde0449e576d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139652$309103D9-F091-4124-AC32-6188CBA1330C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139652$1B526F4B-6642-4B4E-9A55-9D19AAF3862A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0035-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8cced33cb8e029b2c6866ead471a64bcebbb49b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139652$C54134AD-58E1-48BE-9E66-5AD2B58F54BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q241445"
+          },
+          "hash": "108134abcd498948fb2d373df9419e22f47d599a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139652$FF95D380-DF4B-41EC-9802-9147761A518E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Statilia Messalina Arms.svg"
+          },
+          "hash": "814eb2fd387c7606d7597e3da4757b8467c0948d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "br": {
+      "language": "br",
+      "value": "impalaerez roman"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "esposa de Neró"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "třetí manželka římského císaře Nerona"
+    },
+    "de": {
+      "language": "de",
+      "value": "dritte Frau des römischen Kaisers Nero"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαία αυτοκράτειρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "third wife to Roman Emperor Nero"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tercera esposa del emperador Nerón"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "keisari Neron kolmas vaimo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו השלישית של נירון קיסר"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Nerone"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperatriz romana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "жена Нерона"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "tredje fru till Kejsare Nero"
+    }
+  },
+  "id": "Q139652",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Estatilia Mesalina"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "استاتیلیا مسالینا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Стацилия Месалина"
+    },
+    "br": {
+      "language": "br",
+      "value": "Statilia Messalina"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Estatília Messal·lina"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Statilia Messalina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Statilia Messalina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Στατιλία Μεσσαλίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Statilia Messalina"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Statilia Messalina"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Statilia Messalina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Estatilia Mesalina"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "استاتیلیا مسالینا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Statilia Messalina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Statilia Messalina"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Statilia Messalina"
+    },
+    "he": {
+      "language": "he",
+      "value": "סטטיליה מסלינה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Statilia Messalina"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스타틸리아 메살리나"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Statilia Messalina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Statilia Messalina"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Statilia Messalina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Statilia Messalina"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Estatília Messalina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Estatília Messalina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Статилия Мессалина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Статилија Месалина"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Statilia Messalina"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Statilia Messalina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Статілія Мессаліна"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯塔蒂利亚·梅塞利娜"
+    }
+  },
+  "lastrevid": 17558253,
+  "modified": "2025-09-17T12:00:23Z",
+  "ns": 860,
+  "pageid": 168037,
+  "sitelinks": {},
+  "title": "Item:Q139652",
+  "type": "item"
+}

@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberius Claudius Balbilus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138522$5256FC89-9B3F-4968-BC45-45E091F7F26F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738786"
+          },
+          "hash": "a21931a9ca4bb3e91cd86f2b2b9baac1ccf5478d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138522$1449EAE3-2D71-41E3-BA38-72C647EBD72D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139769",
+              "numeric-id": 139769
+            }
+          },
+          "hash": "b2c1a482a77ce4ec53e2eea66e141910f4f287f2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138522$40554AF2-5481-45B7-91FA-214353DE7337",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138522$A538D609-91A1-41DF-8FD1-5B60D0EA2CC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138522$771DC823-E4B0-4EAF-A5B8-8DADC9364F8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138521",
+              "numeric-id": 138521
+            }
+          },
+          "hash": "3a8580b89245400533eaa6f80d9a785477718359",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138522$3CA070EA-A3EC-436C-B843-DC0AE2D3807D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137719",
+              "numeric-id": 137719
+            }
+          },
+          "hash": "b66afdc24ed256b7cf3f5817d81f9fb0bf05595c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138522$68A70DF2-5681-4A97-BE11-AC3C7DD73A3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138522$84E4BF6A-2B43-4D38-BAE0-B55A20E8DD61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "582856e366fcabcc5587bed2fb844a804e05280f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138522$269604E6-AB21-42D9-83A6-3A16F395CB02",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138522$019D9160-E095-42EF-9CD4-5358CFB3088F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q389558"
+          },
+          "hash": "04ab6ca9de9d334c2c98f98992613e5aeaae8c99",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138522$C9484017-7101-40AE-A973-A6FFD194B54B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberius Claudius Balbilus Arms.svg"
+          },
+          "hash": "d207112fc262c9ef82691668660afadc6486596b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "عالم وسياسي روماني"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Gelehrter, Astrologe und Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman scholar, politician and imperial court astrologer (AD 3-79)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "astrologue antique"
+    },
+    "it": {
+      "language": "it",
+      "value": "astrologo greco antico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "astroloog uit Oude Rome (-)"
+    }
+  },
+  "id": "Q138522",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تيبيريوس كلاوديوس بالبيلوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "تيبيريوس كلاوديوس بالبيلوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тиберий Клавдий Балбил"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tiberi Claudi Balbili"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tiberius Claudius Balbillus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βάλβιλλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberius Claudius Balbilus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tiberius Claudius Balbillus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tiberius Claudius Balbilus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tiberius Klaudius Balbilus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tiberio Claudio Balbillo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティベリウス・クラウディウス・バルビルス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Tiberius Claudius Balbillus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Тибериј Клавдиј Балбил"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tiberius Claudius Balbillus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Barbillus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tiberio Cláudio Balbillo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tiberio Cláudio Balbillo"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tiberius Claudius Balbilus"
+    }
+  },
+  "lastrevid": 17556411,
+  "modified": "2025-09-17T11:34:21Z",
+  "ns": 860,
+  "pageid": 166907,
+  "sitelinks": {},
+  "title": "Item:Q138522",
+  "type": "item"
+}

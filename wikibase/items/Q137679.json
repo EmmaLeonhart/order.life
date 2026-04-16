@@ -1,0 +1,433 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Scribonius Curio"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137679$8DA64CBF-1D2D-4A2B-86EC-5AA15E6217EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736041"
+          },
+          "hash": "415fe7630c78b89f8ed803ad6450a2880320fc08",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137679$7F4B8B5D-FF8B-4E0D-B42F-BFC73E2B5FCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137682",
+              "numeric-id": 137682
+            }
+          },
+          "hash": "96bc202dfe6606ef54fe860d056bf63dfacaa902",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137679$67AABBE6-62D5-4191-BE52-9D8A4C711341",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137679$739755CD-1EED-4CB7-B983-208ACE3ED430",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137679$DA8C4478-CDF5-48C9-9216-CA10B1A0EB2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137152",
+              "numeric-id": 137152
+            }
+          },
+          "hash": "ba22e81d373fad5f0c964f23d673091fff95ed54",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137679$6DA0D0B9-854B-4506-A6B2-1D282E7D876E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138405",
+              "numeric-id": 138405
+            }
+          },
+          "hash": "7f53f59fb38526223768bfbfd63661370f590e21",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137679$0EDB03A5-657B-47FE-904B-F0C22EE5F56D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138406",
+              "numeric-id": 138406
+            }
+          },
+          "hash": "c14faff711340146330a79e856a5bc7bc71be8f0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137679$7BDDF8E5-DC05-44C7-9DBF-1050BEF658E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137679$29BF297B-6C4B-48ED-BF85-9A38C973280A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0090-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "caa586f7bede845f4748eee6eb946b8678b8e27a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137679$4C4AE2BA-6597-4D0E-96BF-35B92260DCF3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0049-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60cbb987e54c3c5c81293575d2e55355ebe71c44",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137679$59F04F2E-C0B4-4944-84EB-4939100B8073",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q451516"
+          },
+          "hash": "bfb36388de076cfc37b6a54af12b3576932e9787",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137679$D6E02121-C708-492C-B944-B1FE3F4C1AE8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Scribonius Curio"
+          },
+          "hash": "239ca6bf36db107c8c64922680cba04264fa0a4d",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137679$6C04BACE-F7F7-43E3-B060-1E532DB63EB1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Scribonius Curio Arms.svg"
+          },
+          "hash": "7a56ce8a19fed5470b797c6a432a1dabfd060241",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "Politiker und Volkstribun in der römischen Republik"
+    },
+    "en": {
+      "language": "en",
+      "value": "general of Julius Caesar"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "volkstribuun"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski polityk I w. p.n.e., trybun ludowy w 50 p.n.e."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "följare av Marcus Antonius"
+    }
+  },
+  "id": "Q137679",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جايوس سكريبونيوس كوريو"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Скрибоний Курион"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Escriboni Curió"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Scribonius Curio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Σκριβώνιος Κουρίων (τριβούνος το 50 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Scribonius Curio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Escribonio Curión"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Curion"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיוס סקריבוניוס קוריו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gayo Escribonio Curión"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Scribonio Curione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・スクリボニウス・クリオ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "가이우스 스크리보니우스 쿠리오"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Scribonius Curio"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gaius Scribonius Curio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Scribonius Curio"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gajusz Skryboniusz Kurion"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Escribônio Curião"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Escribônio Curião"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Скрибоний Курион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Skribonije Kurion"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Scribonius Curio"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gaius Scribonius Curio"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Скрибоній Куріон Молодший"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蓋烏斯·斯克里波尼烏斯·庫里奧"
+    }
+  },
+  "lastrevid": 17555095,
+  "modified": "2025-09-17T11:15:29Z",
+  "ns": 860,
+  "pageid": 166064,
+  "sitelinks": {},
+  "title": "Item:Q137679",
+  "type": "item"
+}

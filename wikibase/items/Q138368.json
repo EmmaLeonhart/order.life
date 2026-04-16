@@ -1,0 +1,407 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artavasdes I of Armenia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138368$2C4C5C2C-AD4D-4C20-8841-0C43CA3B650C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736428"
+          },
+          "hash": "4f9bd50d839327acd45625fde7b503c34e5f9566",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138368$679BC608-B8D0-43BF-BE56-051173BBB6EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139521",
+              "numeric-id": 139521
+            }
+          },
+          "hash": "b1a8ccb5167dbe6513a9de76ff0bdbe6d7b4757a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138368$0AF34E2C-04AF-4770-AFAA-202204826821",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138368$E489BF4C-4073-4057-B63C-3B0A64FF69D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138368$C4068A1E-620A-44D5-8DB0-68C7C58B4D63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73224",
+              "numeric-id": 73224
+            }
+          },
+          "hash": "753e8dcf553d23b486026847305ba269723f0988",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138368$CA7F8477-A2B0-400B-91D0-D4F49D72AAE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73221",
+              "numeric-id": 73221
+            }
+          },
+          "hash": "35648fd04b59d9fa310e37b5dd5f3958e44abadc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138368$81AEA13B-55F1-4A30-AF37-FC2F173013E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138368$A14577D4-FC6D-4988-9616-48097FE0822A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138368$092397BF-0F51-4909-8185-4C19AA0A7E50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3acf3ed89c164a339f5a537086c60f40fb09de80",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138368$8B6133A0-BC5C-4354-95EC-CD629646102E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1265161"
+          },
+          "hash": "eb643f08b57609307ab29028f31d15dccedc22b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138368$A7C9389D-5C48-472F-A7D3-7C2980449062",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artavasdes I of Armenia Arms.svg"
+          },
+          "hash": "a7134a1a353a333ff0597079ae05fbe4b71f0438",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Armenien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Armenian king"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Arménie"
+    },
+    "it": {
+      "language": "it",
+      "value": "re d'Armenia (r. 160-115 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Armenië (?-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Великой Армении"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Armenije (vl. 160–115 pr. n. št.)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung över Armenien"
+    }
+  },
+  "id": "Q138368",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أرضافاسط الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارضافاسط الاول"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Artavazd I"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی آرتاوازد"
+    },
+    "be": {
+      "language": "be",
+      "value": "Артавазд I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Артавазд I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artavasdes I d'Armènia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artavasdes I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρταβάσδης Α΄ της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artavasdes I of Armenia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Artavasdo la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artavasdes I de Armenia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Artavasdes I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرتاوازد اول"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artavazde Ier d'Arménie"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Artavasdes I de Armenia"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארטאוואזד הראשון"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արտավազդ Ա"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Արտաւազդ Ա."
+    },
+    "id": {
+      "language": "id",
+      "value": "Artavasdes I dari Armenia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artavaside I d'Armenia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルタヴァスデス1世 (アルメニア王)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artavasdes I of Armenia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artawazdes I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artavasdes I da Arménia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artavasdes I da Arménia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артавазд I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Artavazd I od Armenije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Artavazd I."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Artavasdes I av Armenien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артавазд I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔塔瓦斯德斯一世"
+    }
+  },
+  "lastrevid": 17556177,
+  "modified": "2025-09-17T11:30:57Z",
+  "ns": 860,
+  "pageid": 166753,
+  "sitelinks": {},
+  "title": "Item:Q138368",
+  "type": "item"
+}

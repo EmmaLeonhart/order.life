@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Scribonius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137644$C04D858F-985E-47E7-87DA-1B132232717B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137644$4C2A552B-68BD-4C08-A54A-120FB8E85DE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137644$10D3997C-733D-4777-BEB0-26216AECD1A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137126",
+              "numeric-id": 137126
+            }
+          },
+          "hash": "7b0cd21a5d7cb4d19b3934ab41d2effe303afa8f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137644$6BB28A36-2C30-4268-97DD-2646FE28B54F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137644$CED74560-2F42-46E5-B428-93E3435439A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137644$59D8A2EE-0B31-431D-81C2-66FE8E385EC3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94f88214bf3994a254f4048f613bd3d206e99077",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137644$85385EA1-97E9-48E2-BE63-078E0B6118D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q589734"
+          },
+          "hash": "c46f4446f75472dc585ea980d175c3b2a49a6cce",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137644$E477962F-512A-4082-BE60-9F5C09FE87D5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Scribonius Arms.svg"
+          },
+          "hash": "7bce6d858ab01fe83670991b3bbb4df93f207f05",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König des Bosporanischen Reiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "claiment to the throne of the Bosporan Kingdom in 17 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "pretendiente al trono del Reino del Bósforo en 17 a. C."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Bosporanska riket"
+    }
+  },
+  "id": "Q137644",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Скрибоний"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Escriboni"
+    },
+    "de": {
+      "language": "de",
+      "value": "Scribonius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σκριβόνιος (σφετεριστής Βοσπόρου)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Scribonius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Escribonio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Scribonius"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スクリボニウス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Escriboni"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Skryboniusz"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Скрибоний"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Scribonius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Скрибоній"
+    }
+  },
+  "lastrevid": 17555041,
+  "modified": "2025-09-17T11:14:42Z",
+  "ns": 860,
+  "pageid": 166029,
+  "sitelinks": {},
+  "title": "Item:Q137644",
+  "type": "item"
+}

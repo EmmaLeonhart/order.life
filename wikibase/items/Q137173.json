@@ -1,0 +1,363 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariobarzanes II of Atropatene"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137173$89C9194D-8992-480A-A372-E3AE82F3EB54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736586"
+          },
+          "hash": "5a0554e3ab657c9d1e74e3fad29c686a6db07a77",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137173$8D80E978-015B-49CE-9666-8F3A9B398821",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137730",
+              "numeric-id": 137730
+            }
+          },
+          "hash": "bb19ebbc61eefe5daded4a42a8b083711bb42341",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137173$384B906C-3379-4DB8-B079-A870C9EF09E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137173$C8D7B275-B427-4A33-A363-D1EB5B118761",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137173$0635EAD1-781F-4C8C-89E4-46A9131C9CAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72353",
+              "numeric-id": 72353
+            }
+          },
+          "hash": "61e8b941fa8c7dcd2e3a3b6e7b67e6b5531cf812",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137173$B7E4AD95-FE2D-4E30-ADC1-591138E03C9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72350",
+              "numeric-id": 72350
+            }
+          },
+          "hash": "6c1e0d40d1eb0dbc0e27d9be5f6bfce65155f968",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137173$704FFD47-3CFC-4A97-87BD-0972AC63334F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137173$BA11E21E-C445-43B8-9626-C3A33D31B681",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0040-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a00ed194fc4ca6297a6f807647adfb17b769f01f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137173$3A67489A-6935-4CC9-8DB9-175601F487E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0004-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14ef8985412624d23193d0cb9ddd91a1aadfd7bc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137173$A21ACDFD-FC93-4B12-9881-D6473CFA1019",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2258574"
+          },
+          "hash": "394bd4825412c4fe81395f228fb6dd6924b269af",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137173$5A5A0FFA-0DA7-45D9-9016-D52F05A48924",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariobarzanes II of Atropatene Arms.svg"
+          },
+          "hash": "8003cdf3ec05ea88254ff46165c30d17c841b89c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Media Atropatene, dann von Armenien"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه آتورپاتکان از سال ۲۰ پ.م. تا ۲۰ میلادی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Arménie"
+    },
+    "it": {
+      "language": "it",
+      "value": "re della Media Atropatene"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Armenii"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kung av Armenien"
+    }
+  },
+  "id": "Q137173",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ariobarzanes II da Média Atropatene"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Ariobarzan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ariobarzanes d'Armènia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ariobarzanes II af Atropatene"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ariobarzanes II da Média Atropatene"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριοβαρζάνης Β΄ της Ατροπατηνής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariobarzanes II of Atropatene"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Ariobarzanes II of Atropatene"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Ariobarzanes II of Atropatene"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آریوبرزن دوم (آتورپاتکان)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariobarzane II d'Atropatène"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արիոբարզան"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ariobarzane II di Atropatene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アリオヴァルザネス2世 (アトロパテネ王国)"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არიობარზან II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ariobarzanes II of Atropatene"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ariobarzanes II z Medii Atropatene"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ariobarzanes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ariobarzanes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ариобарзан II Атропатенский"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ariobarzanes II av Atropatene"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿特羅帕特尼的Ariobarzanes二世"
+    }
+  },
+  "lastrevid": 17554301,
+  "modified": "2025-09-17T11:04:15Z",
+  "ns": 860,
+  "pageid": 165558,
+  "sitelinks": {},
+  "title": "Item:Q137173",
+  "type": "item"
+}

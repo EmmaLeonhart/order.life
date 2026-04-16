@@ -1,0 +1,366 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Pompeius Rufus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138492$6C02DA89-7BCA-404F-844A-A9CADA023C12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735486"
+          },
+          "hash": "4b8fed9481aee89c760f185f80aa45b745963a4b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138492$52BEF94A-6878-4E2E-9C8B-F49206E2B9F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138494",
+              "numeric-id": 138494
+            }
+          },
+          "hash": "fdbf27b00c1cffdb3bc80dee2cae6c230aa90a64",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138492$FA83B091-202B-491A-AA6E-FFEBC8098C86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137711",
+              "numeric-id": 137711
+            }
+          },
+          "hash": "55764161bf3d1aa1a1d57257a6d8ee41313acd7a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138492$626EB53B-B9F3-4286-A1A6-0DF6F5525CF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138492$668AC71D-F1D3-478F-9F3B-226EB06956F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138492$7BEA58ED-74AF-4CF5-909A-D87293E7191D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138493",
+              "numeric-id": 138493
+            }
+          },
+          "hash": "b22028007a0abfd2b244f540eb077a31e4e7e717",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138492$C505ADAA-4B43-4C5B-8B66-1C200D28BE15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139714",
+              "numeric-id": 139714
+            }
+          },
+          "hash": "e1cf341321ce0bdf5604d7609e8b61d19025f4a7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138492$24DF9FFD-0C8C-47EB-BE4B-0D6A177C80DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138492$78FF1BA1-9606-42B9-B766-D6BA886911F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0108-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d9318ef318c9b1e56c91eb2d61b8f6a4f3ca8da0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138492$EFB7C161-CAD2-4F69-8356-1D94979D2403",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0088-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b359f0b7f7387552143bd46f5059199ed634ccc7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138492$E2B0D56F-7BD8-441C-B926-343AFB5D98A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19716301"
+          },
+          "hash": "b6a4f5632901522c863e6f649922d73bdb665f21",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138492$6F929C95-7647-4354-83A5-84AB7CCA97F6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Pompeius Rufus Arms.svg"
+          },
+          "hash": "7eb3068f6d849e8d975794a3d56e4809ce48799a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان پوليتيسيان من روما القديمه"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "gendre de Sul·la"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Nobilis, Schwiegervater Caesars"
+    },
+    "en": {
+      "language": "en",
+      "value": "son-in-law of Roman dictator Sulla"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "son-in-law of Roman dictator Sulla"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique de la République romaine"
+    },
+    "it": {
+      "language": "it",
+      "value": "suocero di Cesare"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Romeinse Republiek (?-88v Chr)"
+    }
+  },
+  "id": "Q138492",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كوينتوس بومبيوس روفوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Помпей Руф"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Pompeu Rufus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Quintus Pompeius Rufus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Pompeius Rufus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Pompeius Rufus"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Quintus Pompeius Rufus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Pompeyo Rufo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Pompeius Rufus"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Քվինտուս Պոմպեուս Ռուֆուս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Pompeo Rufo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Pompeius Rufus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quint Pompeu Ruf"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Помпей Руф"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Quintus Pompeius Rufus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Помпей Руф"
+    }
+  },
+  "lastrevid": 17556373,
+  "modified": "2025-09-17T11:33:47Z",
+  "ns": 860,
+  "pageid": 166877,
+  "sitelinks": {},
+  "title": "Item:Q138492",
+  "type": "item"
+}

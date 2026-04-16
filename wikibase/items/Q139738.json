@@ -1,0 +1,350 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Caecilius Metellus Nepos Iunior"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139738$BC23210C-68A6-4B5F-B32D-2D4E1DC45703",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736050"
+          },
+          "hash": "98b791dc1bfc5ab7c10dcb6a4d7c25be72b75e3d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139738$07EC5541-504A-42FC-898E-FEBF04E6861E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139738$C220B3DC-A6BE-470C-A3A3-BB26ECA77E60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139738$7CFCFFC7-3632-4297-A5D4-84DBEC9D7E78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139552",
+              "numeric-id": 139552
+            }
+          },
+          "hash": "2adf305a2cdaf25989d1ef1a711219aadfdee28f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139738$72BFAE50-94CF-4AC3-946C-1758FA826564",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72454",
+              "numeric-id": 72454
+            }
+          },
+          "hash": "b0b970848424b319d23aa7e35bda8b3b00c007d0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139738$DA3E83F1-E46B-46CC-85F2-5BB3BBEFF8CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139738$7C9379D4-B417-4512-A4BC-7459261D0978",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139738$D72144DB-1C11-42FA-A01F-00E82B223C2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139738$8342BED1-CAA6-4CD1-AA52-7E511ED2D382",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q704362"
+          },
+          "hash": "b6d52b546fa8aaa7156f356c711797162e85a503",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139738$AAB49045-2ED4-432B-A63C-EECAD408195B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Caecilius Metellus Nepos Iunior Arms.svg"
+          },
+          "hash": "05485462b8b7ce2b1019ca68456e5d45eb36269f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 57 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el 57 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 57 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori római politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "officier uit Oude Rome (100v Chr-100v Chr)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "1° século D.C da política romana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 57 года до н. э."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "консул 57 до н. е."
+    }
+  },
+  "id": "Q139738",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Цецилий Метел Непот"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Cecili Metel Nepot"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Caecilius Metellus Nepos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Καικίλιος Μέτελλος Νέπως (ύπατος το 57 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Caecilius Metellus Nepos Iunior"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Cecilio Metelo Nepote"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Caecilius Metellus Nepos"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quintus Caecilius Metellus Nepos"
+    },
+    "id": {
+      "language": "id",
+      "value": "Quintus Caecilius Metellus Nepos Iunior"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Cecilio Metello Nepote Minore"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・カエキリウス・メテッルス・ネポス (紀元前57年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Caecilius Metellus Nepos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Caecilius Metellus Nepos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwintus Cecyliusz Metellus Nepos Młodszy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Cecílio Metelo Nepos"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Cecílio Metelo Nepos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Цецилий Метелл Непот"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Cecilije Metel Nepot Mlađi"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Caecilius Metellus Nepos Iunior"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Цецилій Метелл Непот"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小昆图斯·凯基利乌斯·梅特卢斯·尼波斯"
+    }
+  },
+  "lastrevid": 17558389,
+  "modified": "2025-09-17T12:02:18Z",
+  "ns": 860,
+  "pageid": 168123,
+  "sitelinks": {},
+  "title": "Item:Q139738",
+  "type": "item"
+}

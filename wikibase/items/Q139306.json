@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Osbeorn Bulax"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q139306$74FCE99F-599E-4E17-A5F1-146610A42143",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Northumbria-79"
+          },
+          "hash": "c219aa9e4c923baf6eb46e7171f63cae8781de9d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139306$B1AA150F-95AB-471F-84DE-CF332D13BA08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139306$4707872E-6A09-433E-AE83-B4FA83F9E09B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139306$AA851012-27A1-4D6A-BFBE-64242D9A0E88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Osbeorn_Bulax_(1)"
+          },
+          "hash": "fa1b8dab640b7aa12d17b1bd68d7b8818c98f684",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139306$0840742D-F2D4-4E04-A159-833B75C17C51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125721",
+              "numeric-id": 125721
+            }
+          },
+          "hash": "8750c992a7be88c3cd33da1feb17faede61d8ade",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139306$2925417C-7456-4410-8B0F-457D014BC963",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139306$99E16680-7396-4B32-B821-1BAE5B02CDCD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1054-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d4ec8a7d8e299e22c48d32e1a8542b79b05cfda8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139306$016DB68C-96C4-4A20-9B08-CFA31335FC4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7105730"
+          },
+          "hash": "1db8fcec407444518efcb14a82b574e6688ec3f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139306$1AFA3C8E-1D19-4597-B89C-573C200E95AB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Osbeorn Bulax Arms.svg"
+          },
+          "hash": "01db56862d906edd760beea02a7107dca5337afe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Anglo-Norman noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble anglo-norrois"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "англосаксонский аристократ"
+    }
+  },
+  "id": "Q139306",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Osbeorn Bulax"
+    },
+    "de": {
+      "language": "de",
+      "value": "Osbeorn Bulax"
+    },
+    "en": {
+      "language": "en",
+      "value": "Osbeorn Bulax"
+    },
+    "es": {
+      "language": "es",
+      "value": "Osbeorn Bulax"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Osbeorn Bulax"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Осбеорн Булакс"
+    }
+  },
+  "lastrevid": 17557737,
+  "modified": "2025-09-17T11:52:59Z",
+  "ns": 860,
+  "pageid": 167691,
+  "sitelinks": {},
+  "title": "Item:Q139306",
+  "type": "item"
+}

@@ -1,0 +1,421 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eadburh"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138331$1A890C6F-E4CF-40C9-BBB4-11A17ACD5A6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "112275"
+          },
+          "hash": "bd2b41c6e37bb99fc3753d87df40df2bd90b5c08",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138331$311ECEA1-2B19-40B9-90E0-145D1D010077",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138331$3D8A0FC0-B4D2-4E64-B6CE-E3AB0A7F84C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138331$ED150A1D-2E27-4BFE-93EC-8F4433F80822",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139494",
+              "numeric-id": 139494
+            }
+          },
+          "hash": "7bb44d6632e22e10f03909a0964499a59312ff22",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q138331$6F893DDD-0DAB-4F8B-9DF8-BCB88580D242",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p17538.htm#i175371"
+          },
+          "hash": "0b37a654f7ffa7224dab0100cfc19f1b2ac68ba2",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138331$819855C6-AA82-48D2-BBF3-82CBBB6ACC23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137620",
+              "numeric-id": 137620
+            }
+          },
+          "hash": "4b471dffce4cbde4435d35638f74ff760f1e3e47",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138331$6B5AF736-B0CC-4561-A7C9-DEDF39C2D1C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138326",
+              "numeric-id": 138326
+            }
+          },
+          "hash": "64ccb0af68e6fa47fcdb11b48ac55b7ad5d1e0f6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138331$1DB5B092-92B2-4AD9-A35B-CE1F395B074C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138331$EAF4F0CA-5865-4005-8FCE-4D4D9685DBAE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0701-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a554c7ff86988519b6b4b59e89ab9bb4e914800",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138331$C2CCBA90-C440-4BFB-AE3D-1584467280E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0801-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6ea3a45c44c8674dfa2d6f18bebb970fcff6fd45",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138331$B0D39DF1-FA8B-41D8-8C42-12B4867BC1EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q962190"
+          },
+          "hash": "18b5da5c2d7d6caf900dd303d226e5d2b209c271",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138331$E86B0629-9739-41F7-9F52-8657F5B1A01A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Eadburh"
+          },
+          "hash": "1bb8efe7655e79980ddd7af97b8c99d5675bb08c",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138331$2D7F145B-F30A-4A9B-A86C-ACDAE345D1F9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eadburh Arms.svg"
+          },
+          "hash": "8d0cd880e86e3a6c0890d36c5cc077e9c9794f37",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "angelsächsische Königin"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Beorhtric, King of Wessex"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija del rey Offa de Mercia y esposa de Beorhtric, rey de Wessex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille du roi Offa de Mercie"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrana britannica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brits zuster"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "córka Offy, anglosaskiego króla Mercji"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь короля Мерсии Оффы"
+    }
+  },
+  "id": "Q138331",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "يادبوره"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eadburh de Mercie"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Eadburh"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eadburh"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eadburh"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ίντμπουρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eadburh"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Eadburh"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Eadburh"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eadburh"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Eadburh"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eadburh"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Eadburh"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eadburh"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エアドブルフ"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Eadburh"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Eadburh"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Eadburh"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eadburh"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Eadburga"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Eadburh"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Eadburh"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эдбурга Мерсийская"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Eadburh"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Eadburh"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eadburh"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃德伯"
+    }
+  },
+  "lastrevid": 17556109,
+  "modified": "2025-09-17T11:29:59Z",
+  "ns": 860,
+  "pageid": 166716,
+  "sitelinks": {},
+  "title": "Item:Q138331",
+  "type": "item"
+}

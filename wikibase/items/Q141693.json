@@ -1,0 +1,338 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sohaemus of Armenia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141693$669514BD-0B86-498B-AB99-0E9EDFBAF368",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "897792"
+          },
+          "hash": "696682b67e532566f1fb9d451d9ef8691c42c5df",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q141693$5ABF256F-01CB-43AC-AF25-25EAD532847A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738735"
+          },
+          "hash": "22e995a8c1ef5b8a846b883d9033c1d827d25868",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141693$F8C1A478-EF80-4A03-8F73-02D6D56ECC20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141693$D5B62594-25F2-4F78-B6E7-4B390F1A0F88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141693$BFC827B3-39B5-4806-8753-CDF84133C6CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139766",
+              "numeric-id": 139766
+            }
+          },
+          "hash": "20f5a762926486f6f6442583343755756be8513e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141693$D7D27190-1275-41C1-9AD3-6CC415861A5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141693$58AC5594-A201-4B6E-80DC-5F9D01A09FED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141693$010A7DC7-A2B7-4C9D-96E0-19378A2BB9BA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0186-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f4466948ae619b21836a0a3f80051ec0717ec58",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141693$D2747796-EF9B-4425-A767-9F95CD93055A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2983181"
+          },
+          "hash": "532a8ccb4d757f03e18cb4301fadc1d8bff36b69",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141693$6F4E6E7E-C6B7-4E03-805D-22093175D548",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sohaemus of Armenia Arms.svg"
+          },
+          "hash": "040edec8930f54588e111e2c4da42cd154c245a6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك تابع للرومان في أرمينيا"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Großarmenien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman client king of Armenia (died 180)"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Armenia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Arménie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך קליינט רומי של ארמניה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մեծ Հայքի թագավորության արքա Արշակունիների տոհմից։ Կառավարել է 144-161, 164-186 թթ.։"
+    },
+    "it": {
+      "language": "it",
+      "value": "re d'Armenia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Oude Rome (180-186)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei cliente romano da Armênia (morreu em 180)"
+    }
+  },
+  "id": "Q141693",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سهيموس الأرميني"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sohemus d'Armènia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohaemus (Armenien)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sohaemus of Armenia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sohaemus de Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شوهیموس ارمنستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sohaemus d'Arménie"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սոհեմոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Soemo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ソハエムス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სოჰემოსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아르메니아의 소아이모스"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sohaemus of Armenia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sohemo da Armênia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sohemo da Armênia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сохэмос"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sohaemus av Armenien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сохемос"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "索赫姆斯"
+    }
+  },
+  "lastrevid": 17561694,
+  "modified": "2025-09-17T12:50:59Z",
+  "ns": 860,
+  "pageid": 170078,
+  "sitelinks": {},
+  "title": "Item:Q141693",
+  "type": "item"
+}

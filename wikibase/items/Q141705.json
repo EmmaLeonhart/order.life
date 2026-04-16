@@ -1,0 +1,641 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Simon the Zealot"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141705$37922DDD-46AE-4245-AEA9-63298390F3B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141705$80F69662-83D8-4A25-A039-629D07BE11BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141705$16C77495-514F-4B0C-9EE5-D737FE2CFFDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139788",
+              "numeric-id": 139788
+            }
+          },
+          "hash": "6df4cdd9129be10ad604a827bac7098fb379d523",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141705$85801B3C-AB51-4E69-BB2E-6B706F572352",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141705$75B18AB4-9D2B-4EFD-A1E0-08C98D0CE476",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141705$BB504315-72CD-4D4A-9D45-A353C875155E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0107-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3276a5111365e070156ff736e7ee85e6f268b84",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141705$210994C7-0764-49E1-8602-5A225D51BEFF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12871"
+          },
+          "hash": "8c2aeaec53f769c7cd9263c91bf1584f23ab23bf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141705$1C8D3B65-F189-44DB-B409-585CE8B77226",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Simon the Zealot Arms.svg"
+          },
+          "hash": "027208465e7bff17f7be647e88ebf3ec0db098ac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q141705$0D53D61C-302E-4CF7-88D9-0FCBD80EBA0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/5273f474-4ede-4579-9ede-c4f006626012"
+          },
+          "hash": "616b3399ba84be73e5060019af6fefd565976108",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "адзін з 12-ці апосталаў Ісуса Хрыста"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "যিশুর প্রেরিত শিষ্য"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Segons el Nou Testament, va ser un zelota i un dels Dotze Apòstols de Jesús de Natzaret."
+    },
+    "cs": {
+      "language": "cs",
+      "value": "apoštol Ježíše Krista a mučedník"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jünger Jesu Christi"
+    },
+    "el": {
+      "language": "el",
+      "value": "ένας από τους δώδεκα αποστόλους"
+    },
+    "en": {
+      "language": "en",
+      "value": "apostle of Jesus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "unu el la dek du apostoloj de Jesuo"
+    },
+    "es": {
+      "language": "es",
+      "value": "discípulo de Jesús"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jeesuksen opetuslapsi ja apostoli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "apôtre de Jésus-Christ"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "apóstolo cristián"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחד משנים עשר השליחים, תלמידיו של ישוע הנוצרי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jézus apostola"
+    },
+    "it": {
+      "language": "it",
+      "value": "apostolo di Gesù"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Apostel, Hellegen"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "appostlu Kristjan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "apostel van Jezus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "jeden z dwunastu Apostołów"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "um dos discípulos de Jesus Cristo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "apostol al lui Isus din Nazaret"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "один из 12 ближайших апостолов Христа"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "apoštol Ježiša Krista a mučeník"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "апостол и хришћански светитељ"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "en av Jesu tolv apostlar"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "mtume wa Yesu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsa'nın havarisi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Một trong 12 Tông Đồ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "耶穌的十二門徒之一"
+    }
+  },
+  "id": "Q141705",
+  "labels": {
+    "ab": {
+      "language": "ab",
+      "value": "Симон Кананит"
+    },
+    "an": {
+      "language": "an",
+      "value": "Sant Simón apóstol"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سمعان القانوي"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܫܡܥܘܢ ܩܢܢܝܐ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سمعان القانوى"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Simon Zelotes"
+    },
+    "be": {
+      "language": "be",
+      "value": "Сымон Кананіт"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Сымон"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Симон Зилот"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "প্রেরিত শিমোন"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Šimun Kanaanac"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Simó apòstol"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Chĭng Iô gì Să̤-muòng"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Šimon Kananejský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Simon y Selot"
+    },
+    "da": {
+      "language": "da",
+      "value": "Simon Zelotes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Simon Zelotes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σίμων ο Κανανίτης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Simon the Zealot"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Simon the Zealot"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Simon the Zealot"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Simono Zeloto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Simón el Zelote"
+    },
+    "et": {
+      "language": "et",
+      "value": "Siimon Kananaios"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Simon Zelotea"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شمعون قانوی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Simon Kananeus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Simon le Zélote"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Simon"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Síomón Díograiseoir"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Simón"
+    },
+    "he": {
+      "language": "he",
+      "value": "שמעון הקנאי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Šimun Kanaanac"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Simon apostol"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սիմոն Կանանացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Simon orang Zelot"
+    },
+    "is": {
+      "language": "is",
+      "value": "Símon vandlætari"
+    },
+    "it": {
+      "language": "it",
+      "value": "Simone il Cananeo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "熱心党のシモン"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Simon tiyang Zelot"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სვიმონ კანანელი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사도 시몬"
+    },
+    "la": {
+      "language": "la",
+      "value": "Simon Zelotes"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Simon Zelotes"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Apaštalas Simonas Kananietis"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Sīmanis Kānaānietis"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Simona Zelota"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Апостол Симон"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ശിമയോൻ ശ്ലീഹാ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Simon si Zilot"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Xmun l-Appostlu"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Apostelen Simon seloten"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Simon de Zelot"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Simon"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Apostelen Simon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Szymon Apostoł"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Simon ël Cananeo"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Simão, o Zelote"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Simão, o Zelote"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Simon Zelotul"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Симон Кананит"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Apostol Simon Kananit"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Šimon Horlivec"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Simon Gorečnik"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Simon the Zealot"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Симон Зилот"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Simon Ivraren"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Mtume Simoni Mkananayo"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "தீவிரவாதியாய் இருந்த சீமோன்"
+    },
+    "th": {
+      "language": "th",
+      "value": "ซีโมนเศโลเท"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Simon ang Cananeo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yurtsever Simun"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Симон Көрәшүче"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Симон Кананіт"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "شمعون زیلوتیس"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Simon apòstoło"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Simon Quá Khích"
+    },
+    "war": {
+      "language": "war",
+      "value": "Simon nga Zelote"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "奋锐党个西门"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奮銳黨的西門"
+    }
+  },
+  "lastrevid": 17561714,
+  "modified": "2025-09-17T12:51:16Z",
+  "ns": 860,
+  "pageid": 170090,
+  "sitelinks": {},
+  "title": "Item:Q141705",
+  "type": "item"
+}

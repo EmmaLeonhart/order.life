@@ -1,0 +1,617 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John the Evangelist"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141710$BB68286B-D57A-4E12-99CD-6D02FEFAE6BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141710$942B788E-C424-4996-AD7A-6102FFAF56A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141710$25508DDD-A333-4834-8BFB-1E17E71A2347",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141707",
+              "numeric-id": 141707
+            }
+          },
+          "hash": "39f4e2c44538aefaae070ab7c35463f6128b5eef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141710$AC87172F-3B59-4C49-9EF2-D8C55C1F514D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139789",
+              "numeric-id": 139789
+            }
+          },
+          "hash": "337e9e4a9c6a8a3875ea2fec920623ff946dcee5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141710$0C54329B-E846-48B9-9246-D0F9D291BF03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141710$26271C35-1597-4930-88F9-811362A50387",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0010-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "69fddfab783759b609d0e7476944dc813f5190e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141710$885FE9BC-FAEA-4E9E-A7F5-BB284CDC4A66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0098-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5121f0c99b765e8745ada53a84b31bbdee59461a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141710$4BC0AC8E-73C9-40FC-9544-97A8A065B9D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q328804"
+          },
+          "hash": "aa734f1a36da20c32a1fd1922c930338c270769c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141710$FDEA26A5-AEC8-4C56-805F-DF67B5F7DC35",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John the Evangelist Arms.svg"
+          },
+          "hash": "bad2fd2e96df17f6c9354e742f3833826138424f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مؤلف إنجيل يوحنا وهو حسب التقليد المسيحي الرسول يوحنا وكاتب سفر الرؤيا أيضاً"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "قديس قبطى"
+    },
+    "be": {
+      "language": "be",
+      "value": "евангеліст"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "autor de l’Evangeli de Joan; tradicionalment identificat amb Joan l’apòstol de Jesús, Joan de Patmos (autor de Revelació) i Joan el prevere"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "učedník Ježíše Krista"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "efengylydd yng Nghristnogaeth"
+    },
+    "da": {
+      "language": "da",
+      "value": "evangelist"
+    },
+    "de": {
+      "language": "de",
+      "value": "Verfasser des Johannesevangeliums"
+    },
+    "en": {
+      "language": "en",
+      "value": "author of the Gospel of John; traditionally identified with John the Apostle of Jesus, John of Patmos (author of Revelation), and John the Presbyter"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "aŭtoro de la Evangelio laŭ Johano; tradicie identigita kun Johano la Apostolo kaj Johano el Patmos (la aŭtoro de la Apokalipso de Johano)"
+    },
+    "es": {
+      "language": "es",
+      "value": "autor del Evangelio de Juan; tradicionalmente identificado con Juan el Apóstol de Jesús, Juan de Patmos (autor de Apocalipsis) y Juan el Presbítero"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "evankelista"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "auteur de l'Évangile selon Jean"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "nome dado tradicionalmente ao autor do Evanxelio de San Xoán"
+    },
+    "he": {
+      "language": "he",
+      "value": "מחבר הבשורה על-פי יוחנן"
+    },
+    "it": {
+      "language": "it",
+      "value": "apostolo di Gesù"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "요한복음의 저자"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "апостол"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Awtur tal-Evanġelu ta' San Ġwann; Wieħed mill-Appostli ta' Kristu"
+    },
+    "nia": {
+      "language": "nia",
+      "value": "Sanura Turia Somuso Dödö molo'ö Yohane awö Zura Yohane ba Sura Wama'ele'ö"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "evangelist"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "ewangelista i apostoł, święty różnych wyznań"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "autor do Evangelho segundo S. João; identificado com João apóstolo de Jesus, João de Patmos (autor da Revelação) e João o Presbítero"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "автор Евангелия от Иоанна"
+    },
+    "rue": {
+      "language": "rue",
+      "value": "автор Євангелія од Ивана"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "apoštol a evanjelista"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "avtor Janezovega evangelija; tradicionalno ga enačijo z Janezom Apostolom, Janezom s Patmosa (avtorjem Razodetja) in Janezom Prezbiterjem"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "автор Євангелія від Івана"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "《聖經·約翰福音》作者。一般認為同使徒約翰係同一個人"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "《约翰福音》作者，传统观点认为就是使徒约翰"
+    }
+  },
+  "id": "Q141710",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Sant Chuan Evanchelista"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يوحنا الإنجيلي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يوحنا الانجيلى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Xuan l'Evanxelista"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Johannes da Evangelist"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ян"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཡོ་ཧ་ནན།"
+    },
+    "br": {
+      "language": "br",
+      "value": "Yann an Avielour"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan Evangelista"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan Evangelista"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ioan"
+    },
+    "da": {
+      "language": "da",
+      "value": "Johannes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes der Evangelist"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης ο Ευαγγελιστής"
+    },
+    "en": {
+      "language": "en",
+      "value": "John the Evangelist"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Johano la Evangeliisto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan el Evangelista"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joan Ebanjelaria"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "جان انجیلی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Johannes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean l'Évangéliste"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eoin Soiscéalaí"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán o Evanxelista"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוחנן המבשר"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sveti Ivan Evanđelist"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "János evangélista"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հովհաննես Ավետարանիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yohanes sang Penginjil"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "福音記者ヨハネ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "복음사가 요한"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ioannes Evangelista"
+    },
+    "li": {
+      "language": "li",
+      "value": "Johannes"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "San Gioàn"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Jean"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Свети Јован Евангелист"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ജോൺ ദ ഇവാഞ്ചലിസ്റ്റ്"
+    },
+    "mo": {
+      "language": "mo",
+      "value": "São João Evangelista"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Yohanes Penginjil"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "San Ġwann Evanġelista"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Evangelisten Johannes"
+    },
+    "nia": {
+      "language": "nia",
+      "value": "Yohane"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johannes de Evangelist"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Joan Evangelista"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Ewangelista"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "یوحنا انجیلی"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "São João Evangelista"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "São João Evangelista"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ioan Evanghelistul"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Евангелист"
+    },
+    "rue": {
+      "language": "rue",
+      "value": "Иван Євангеліста"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ján Evanjelista"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Janez Evangelist"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gjoni (ungjilltar)"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "யோவான்"
+    },
+    "th": {
+      "language": "th",
+      "value": "ยอห์นผู้นิพนธ์พระวรสาร"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yuhanna"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іван Євангеліст"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یوحنا انجیلی"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Joani evanzełista"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thánh sử Gioan"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Djihan l' Evandjilî"
+    },
+    "war": {
+      "language": "war",
+      "value": "Juan nga Ebanghelista"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "福音書作者約翰"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "福音書作者約翰"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "福音书作者约翰"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "福音书作者约翰"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "福音書作者約翰"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "福音書作者約翰"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "福音书作者约翰"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "福音書作者約翰"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Johane"
+    }
+  },
+  "lastrevid": 17561724,
+  "modified": "2025-09-17T12:51:25Z",
+  "ns": 860,
+  "pageid": 170095,
+  "sitelinks": {},
+  "title": "Item:Q141710",
+  "type": "item"
+}

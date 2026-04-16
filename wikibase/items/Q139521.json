@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artaxias I of Iberia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139521$BAC6F016-0850-4672-BF69-E3DBA8DB0D6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738133"
+          },
+          "hash": "304c2ff49417c391f86cd4761be7bf5d76b87aee",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139521$4F1701CF-FB64-4D6A-8C67-83C972024036",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141365",
+              "numeric-id": 141365
+            }
+          },
+          "hash": "31b8d85aad94bcb040b5c586b4ad3ac0a6eb8580",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139521$D9B99783-B07E-4A37-81B6-15C1CCC3C24B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139521$1B30C301-FC2C-4F93-A5DE-F0F4A5F929BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139521$EF73BDBC-2294-4190-83AF-E7FF41B9DB21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138368",
+              "numeric-id": 138368
+            }
+          },
+          "hash": "b9f9215eb4510ec0a6fdd0740859f3f14b4e8970",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139521$C47A933C-9467-43C7-AADE-87C7D1442E00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139521$35804417-773A-4FB2-BB47-9B005670EFD2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139521$46E35631-40B2-401C-BCDD-EA806FABE4D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0078-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c3ea9e09d186b78eec232b3f1af4dbcc516249f9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139521$13B975AE-2B28-474B-9601-FB55E8B0FBBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1262514"
+          },
+          "hash": "ea6b1381bf6bdee2c4f63b63d1146c155758c422",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139521$FC6BFA67-58D9-45BB-B487-5C85A211EC52",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artaxias I of Iberia Arms.svg"
+          },
+          "hash": "27f797124b6425afd857e6022fa4bc042d03225c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "king of Iberia"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Iberia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Ibérie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך איבריה"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Kaukasisch Iberië (-78v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Иберии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Iberije"
+    }
+  },
+  "id": "Q139521",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "I Artaksias"
+    },
+    "be": {
+      "language": "be",
+      "value": "Аршак I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Àrsaces I d'Ibèria"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artaxias I of Iberia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arshak I de Iberia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Arshak I.a Iberiakoa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aršak I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artaxias Ier"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Arshak I de Iberia"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארשק הראשון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Aršak I. od Iberije"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արշակ Ա"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არშაკ I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artaxias I van Iberië"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artaxias I da Ibéria"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artaxias I da Ibéria"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аршак I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Artaksija I od Iberije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Artaksij I. Iberski"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Artaxias I of Iberia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аршак I Грузинський"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔沙克一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿尔沙克一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿爾沙克一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿爾沙克一世"
+    }
+  },
+  "lastrevid": 17558031,
+  "modified": "2025-09-17T11:57:14Z",
+  "ns": 860,
+  "pageid": 167906,
+  "sitelinks": {},
+  "title": "Item:Q139521",
+  "type": "item"
+}

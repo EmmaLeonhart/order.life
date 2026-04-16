@@ -1,0 +1,445 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mariamne"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141673$47DA3465-A989-472D-8C98-D4E39F41EC06",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737999"
+          },
+          "hash": "0c98846a30f6967de7b3a400340efa6b92fad72e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141673$E03D1E74-16CB-4A5F-BC5F-383575C0A2A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139755",
+              "numeric-id": 139755
+            }
+          },
+          "hash": "4b3401d9dfc56e15341b1c4b11593a455c24883d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141673$F19814EA-B12C-4882-AFBC-A2C06236BC73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141673$E290B836-4166-44E3-936F-57958286A41F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141673$31C12A12-8722-411C-9624-629EC1C6BC1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mariamne_(third_wife_of_Herod)_(1)"
+          },
+          "hash": "db54fd0c7ff5a13cd447b7023a756f8413bd920f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141673$C7ED8FA0-6E7C-470E-9CCE-631ACDB8F1B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78189",
+              "numeric-id": 78189
+            }
+          },
+          "hash": "c491ddc0ed5665b08e2c3b32fb84fe4e67a67ca8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141673$2F338825-C5F3-422A-BD38-6D8E58F15463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144309",
+              "numeric-id": 144309
+            }
+          },
+          "hash": "c2fc7a5b79f285aa89cffeac99bf6c6aa573ab4a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141673$B1576829-E979-4271-A7AC-1699963E0912",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141673$CAE1E304-6AC3-40DB-8488-562D7C2F2D2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141673$B6110821-0D7E-4F98-9958-00EE2D93B093",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94f88214bf3994a254f4048f613bd3d206e99077",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141673$0C580AE8-60D2-4678-8319-3B0A7EFF79C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q270607"
+          },
+          "hash": "2a7bdba37679e6e65cb5d836cd86db2d34a97dff",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q141673$3AAA4750-8C47-45FA-876C-9CE8FFCEBF0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007479707449"
+          },
+          "hash": "b87afb64ecd7507fcf9863fd3f6f0fd0935cc37f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141673$6758D66C-5907-4210-AC13-C49A38DD294E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mariamne Arms.svg"
+          },
+          "hash": "e2222c29c5f0531656c8e94670200f618ec42586",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "дъщеря на Симон Боет и третата (или седмата) съпруга на Ирод Велики"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "la filla del sacerdot jueu Simó Boet"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Simon Boethos, dritte Frau Herodes des Großen"
+    },
+    "el": {
+      "language": "el",
+      "value": "3η σύζυγος του Ηρώδη Α΄ του Μεγάλου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jewish noblewoman and a wife of Herod I"
+    },
+    "es": {
+      "language": "es",
+      "value": "nombre de uso frecuente en la Casa real herodiana."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "troisième épouse d'Hérode le Grand"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו השלישית של הורדוס מלך יהודה"
+    },
+    "it": {
+      "language": "it",
+      "value": "terza moglie di Erode il Grande"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "de derde vrouw van Herodes de Grote"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "filha de Simon ben Boethus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "третья жена иудейского царя Ирода Великого"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "judejska kraljica, odnosno treća po redu supruga kralja Heroda Velikog"
+    }
+  },
+  "id": "Q141673",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مريمان الثانية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مريمان التانيه"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марыямна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мариамна"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mariamne II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mariamne"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαριάμνη Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mariamne"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mariamna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mariamne"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Mariamne"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרים (בת הכהן הגדול)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mariamne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mariamne II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mariane"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mariane"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мариамна"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marijamna"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mariamne II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Маріамна"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مریمنے دوم"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米利暗二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "米利暗二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "米利暗二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "米利暗二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "米利暗二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "米利暗二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "米利暗二世"
+    }
+  },
+  "lastrevid": 17561656,
+  "modified": "2025-09-17T12:50:27Z",
+  "ns": 860,
+  "pageid": 170058,
+  "sitelinks": {},
+  "title": "Item:Q141673",
+  "type": "item"
+}

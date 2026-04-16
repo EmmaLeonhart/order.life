@@ -1,0 +1,388 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcia Regia"
+      },
+      {
+        "language": "en",
+        "value": "Marcia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73185$3E108C1A-7205-463B-A329-84A754D4698C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735686"
+          },
+          "hash": "a73c7b392d76e0edee1a6448563f19e98f662f3a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73185$675CD6D3-393E-410C-A8EC-DCF81C077378",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73029",
+              "numeric-id": 73029
+            }
+          },
+          "hash": "0f938b20d0a5e3448fcab5da40da94d953f09c48",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73185$DCA534DF-10E8-479F-A562-6B194C6C02D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138479",
+              "numeric-id": 138479
+            }
+          },
+          "hash": "d118e5275ea081afad1b961e350a5d6342d57051",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73185$1EFA16A8-0D8B-4D4A-B044-C2E89F8343B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138480",
+              "numeric-id": 138480
+            }
+          },
+          "hash": "746b6602f7514b2a2cc2ec68ae4e6b7105c15d3f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73185$50BA5153-C489-4EAE-A0B7-AC55E83F84DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73185$DF47503B-81ED-437A-81D3-147F6204102C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73185$6DB2A110-413C-4D3D-AAFC-32E9EADC2116",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73188",
+              "numeric-id": 73188
+            }
+          },
+          "hash": "41b77ee5bfaff4a457c0a1e8b7df7ed831d89509",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73185$7AF7B292-4BD0-44CC-B8AA-757A362A23ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73344",
+              "numeric-id": 73344
+            }
+          },
+          "hash": "be0e87bd6f27a37db90362eef53d5aa251721e13",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73185$74FE642B-0F59-46C0-9766-08C9FD727E76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73185$04A9C4D2-FDDC-4BD1-8B3D-46D2FD15E529",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73185$F9108900-5651-4029-85EA-A679DD7C40C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1893528"
+          },
+          "hash": "1c20ef632435f642373ed3d6407ec19b712fa7c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73185$B5F90A13-C1D8-46EF-991C-35DD5E132A5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645697517"
+          },
+          "hash": "97f72f994cc6e2a2f43fe510f22bc5b25dee2132",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73185$E7A6CEF5-5DCC-411E-8475-813032BEC5CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009458314295"
+          },
+          "hash": "389015691048c2636111b98b343d121241aa554c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73185$ACE63D59-4D51-41F6-B8FA-5D69AF13208F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcia Arms.svg"
+          },
+          "hash": "ac3f78e68c39beec06aaf692576436519d42029e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Großmutter Gaius Iulius Caesars"
+    },
+    "en": {
+      "language": "en",
+      "value": "paternal grandmother of Julius Caesar"
+    },
+    "es": {
+      "language": "es",
+      "value": "abuela paterna de Julio César"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, fille de Quintus Marcius Rex (préteur en 144 av. J.-C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "grootmoeder van Julius Caesar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "farmor till Julius Caesar"
+    }
+  },
+  "id": "Q73185",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марция (баба на Юлий Цезар)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρκία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marcia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Martia Regina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marzia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Márcia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Márcia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марция"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марція Рекс"
+    }
+  },
+  "lastrevid": 17485882,
+  "modified": "2025-09-16T18:41:18Z",
+  "ns": 860,
+  "pageid": 88016,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73185",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73185"
+    }
+  },
+  "title": "Item:Q73185",
+  "type": "item"
+}

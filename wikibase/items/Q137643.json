@@ -1,0 +1,353 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Asander"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137643$C515B7A1-B980-46D0-8C79-4268AB417537",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736377"
+          },
+          "hash": "424fc8f3bc67618e61621d8633e0a987252e0ac6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137643$F69E687E-253A-4313-8C7A-E82B7D0898F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137647",
+              "numeric-id": 137647
+            }
+          },
+          "hash": "07df9b23c1047ffb8130d6946de580eb5c92f2de",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137643$1D331222-CA75-444A-BCEF-FB60861E5BCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137646",
+              "numeric-id": 137646
+            }
+          },
+          "hash": "67839e37b72f764486103763201fa1286dc2bb3a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137643$00360DD7-5149-42A4-8CAA-42E49811B9EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137643$80198220-3AE1-49BA-BCC8-3556BDF992EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137643$47F41EE5-93C2-4CD6-BDDF-C9D5CE5F25F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137126",
+              "numeric-id": 137126
+            }
+          },
+          "hash": "7b0cd21a5d7cb4d19b3934ab41d2effe303afa8f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137643$C6CA4AC0-DC41-49D9-90D1-95071D593F29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137643$2F9751F5-4448-4A81-82E2-F460BFE3D191",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0110-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a2e21fcfe407cca43c862cdb022b9bb4756bda4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137643$01AB2A17-09F1-473E-B803-C254B5AFDABD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0017-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95827e1361c76c77fbfe9884b6e30e1aef1a1368",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137643$DE2533E3-AC29-4C00-83BA-0E6B2813301A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q720863"
+          },
+          "hash": "e18f248155f57ca9e27f1a7bf936d2fcef968e44",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137643$E636591B-AB60-45DF-B5E3-710A3598DD6C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asander Arms.svg"
+          },
+          "hash": "e5f9d1af96674a3a71e6f7af9c33f21a91b4abc2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König des Bosporanischen Reichs"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman client king of the Bosporan Kingdom"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey cliente romano del Reino del Bósforo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi du Bosphore"
+    },
+    "it": {
+      "language": "it",
+      "value": "re del Bosforo Cimmerio (r. 47-17 a.C.)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Bosporu"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Bosporanska riket"
+    }
+  },
+  "id": "Q137643",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Асандър"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Asandre del Bòsfor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Asandros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άσανδρος του Βοσπόρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Asander"
+    },
+    "es": {
+      "language": "es",
+      "value": "Asandro del Bósforo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Asandros du Bosphore"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἄσανδρoς Φιλορωμαῖος"
+    },
+    "he": {
+      "language": "he",
+      "value": "אסאנדרוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Asandro del Bosforo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アサンドロス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Asander"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Asander Filokajsar Filoromajos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Асандр"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Asander"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Асандер (босфорски краљ)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Philocaesar Philoromaios"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Асандр"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Asandros (Vua Bosporos)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿桑德"
+    }
+  },
+  "lastrevid": 17555039,
+  "modified": "2025-09-17T11:14:40Z",
+  "ns": 860,
+  "pageid": 166028,
+  "sitelinks": {},
+  "title": "Item:Q137643",
+  "type": "item"
+}

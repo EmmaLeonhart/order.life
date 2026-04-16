@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joseph Barsabbas"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q138544$30AD2DD7-1DC9-4CFE-A3D9-81919917F8B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138544$3CAE4F22-9704-45AA-A259-8EE2D4FF20A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138544$26283DD3-009E-4B36-8F2C-44DD5877717E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137751",
+              "numeric-id": 137751
+            }
+          },
+          "hash": "b179a4ac3ea876c7645ec0a09de43911cd96fdf6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138544$7D8EEA98-33C2-43CF-899C-32FC9BDCACF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138544$83F93F34-9026-4917-B208-F664FE2AB0CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138544$2C3E3D79-00E8-47FF-A06F-AF3CB09320A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q983883"
+          },
+          "hash": "f9e19fd86c5839d5717dfb3222d26e40f23126d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138544$996D084B-0A1B-4DFE-8383-41070002BA4B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joseph Barsabbas Arms.svg"
+          },
+          "hash": "19ddc89da97a7540db7a8ce367a8784db8decd88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "شخصيه من العهد الجديد"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická novozákonní postava"
+    },
+    "da": {
+      "language": "da",
+      "value": "bibelsk figur"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person im Neuen Testament, Apostelkandidat"
+    },
+    "en": {
+      "language": "en",
+      "value": "male human biblical figure in Acts 1:21-26"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la Biblia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage du Nouveau Testament"
+    },
+    "it": {
+      "language": "it",
+      "value": "discepolo di Gesù"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "personaj biblic"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "один из 70 апостолов, из евреев"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Elçilerin İşleri 1:21-26)"
+    }
+  },
+  "id": "Q138544",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يوسف باراباس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "چوزيف برساباس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Just d’Eleuteròpolis"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Bă-sák-bă"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Josef Barsabáš"
+    },
+    "da": {
+      "language": "da",
+      "value": "Josef Barsabbas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Joseph Barsabbas"
+    },
+    "en": {
+      "language": "en",
+      "value": "Joseph Barsabbas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Joseph Barsabbas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Joseph Barsabas"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yusuf Barsabas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giuseppe il Giusto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨセフ・バルサバ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იოსია (იოსტოსი) მოციქული"
+    },
+    "la": {
+      "language": "la",
+      "value": "Joseph Barsabas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Јосиф Варсава"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Joseph Barsabbas"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Józef Barsabbas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "José Barsabás"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iosif Barsaba"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иисус-Иуст"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Joseph Barsabbas"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Исус-Јуст"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Yosefu Barsaba"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yustus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ісус-Іуст"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "巴撒巴"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "巴尔撒巴"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "巴尔撒巴"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "巴爾撒巴"
+    }
+  },
+  "lastrevid": 17556453,
+  "modified": "2025-09-17T11:34:55Z",
+  "ns": 860,
+  "pageid": 166929,
+  "sitelinks": {},
+  "title": "Item:Q138544",
+  "type": "item"
+}

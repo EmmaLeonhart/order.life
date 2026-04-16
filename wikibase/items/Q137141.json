@@ -1,0 +1,449 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artabanus I"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137141$D1BE1F66-1C58-4165-845D-758B9CE91B09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717537"
+          },
+          "hash": "d89f48703968a7f94e32ca21461f5d65518f5e43",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137141$D61F3246-72FC-4F72-AFCF-24F1E56C3E1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137659",
+              "numeric-id": 137659
+            }
+          },
+          "hash": "b4cad70e4ae60d76db73630bea2d234a4c5265b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137141$619DB245-ABC1-47B6-A0CC-F7030348939D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137660",
+              "numeric-id": 137660
+            }
+          },
+          "hash": "9ce499d273b629f635ac7b92105119461a0cafb2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137141$7136C586-744C-40F6-8247-B4B7F54FAD4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137141$23FE3918-94A0-42A6-A30A-25F26A8B4C20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137141$965F1740-C8AC-49F4-8271-7E87E31532BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137140",
+              "numeric-id": 137140
+            }
+          },
+          "hash": "d4ec36ccf71931ba7eee5428fafd29fbb66c01ee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137141$8208203A-8909-4C3B-A527-46D84781B432",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137141$C002DF91-D0DF-40EA-A071-939FF65097E6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137141$6F0C24DC-7B13-47DD-BC94-90237ABFB3D7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0124-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a262ac89ae4324924114dd92fb598ad7eb802cdc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137141$5B99F8A4-38D9-4D26-9186-49CB87F8507C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q345053"
+          },
+          "hash": "ee4d03fbc56cfb133c1e56eabac50a9fdbca5b91",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137141$4979CBDC-FBE7-421A-87EA-6D015E2BFE31",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artabanus I Arms.svg"
+          },
+          "hash": "4376c59e3dfc65101cdfc54717ec42764e0b934b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei de Pàrtia"
+    },
+    "de": {
+      "language": "de",
+      "value": "parthischer König"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς της Παρθικής Αυτοκρατορίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "ruler of the Parthian Empire 128–124 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهنشاه ایران اشکانی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi des Parthes de 128 à 124 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "pártus király"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero partico (r. 127-123 a.C.)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "парфянский царь 120-х годов до н. э."
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Part kralı"
+    }
+  },
+  "id": "Q137141",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Artabanus I van Partië"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارتابانوس التانى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Артабан II Парфянскі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Артабан I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artaban II de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Artabanos I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Artabanos I."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Artabanos I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρτάβανος Α’"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artabanus I"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Artabanus II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Artabanus II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artabano I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Artaban I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اردوان یکم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artaban Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארדואן השני"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "अर्दवान प्रथम"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Artabanosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արտավան Բ Պարթև"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ardawan I dari Parthia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artabano I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルタバヌス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არტაბან II"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "اردوان اول"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Artabanes I av Parthia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artabanus I"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Artaban Ièr"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artabanus I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artabano I da Pártia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artabano I da Pártia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артабан I/II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Artaban I od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Artaban II."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Артабан I од Партије"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ардавони I"
+    },
+    "tk": {
+      "language": "tk",
+      "value": "Artaban I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Erdevân"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артабан II Парфянський"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Artabanus I của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿爾塔巴努斯一世"
+    }
+  },
+  "lastrevid": 17554255,
+  "modified": "2025-09-17T11:03:36Z",
+  "ns": 860,
+  "pageid": 165526,
+  "sitelinks": {},
+  "title": "Item:Q137141",
+  "type": "item"
+}

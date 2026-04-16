@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John ap Gwilym ap Hywel Fychan ap Hywel"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139024$368D028B-821C-4DE8-8892-3DB78ADFBC45",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00803535"
+          },
+          "hash": "b1d77111c3affb286897c05621f4241bcef5f7de",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139024$C8BA2A9A-4B94-4B22-89CC-8F6F5CA1D029",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140597",
+              "numeric-id": 140597
+            }
+          },
+          "hash": "3d6ca281daf0233f3135dbc6078b3bb8b69f16f5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139024$29CD44BB-8617-4379-8B4F-9F0D51759BA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139024$845ABDC5-57FF-4BF1-9446-B3110BAB641A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139024$6473DC63-3F17-4058-8C6A-3BC47D5AA9D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138052",
+              "numeric-id": 138052
+            }
+          },
+          "hash": "e3a32d4f1b469a06b844c79a92164f6826898736",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139024$95E51A74-E98A-45A0-AE9D-A6462DDD46D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140596",
+              "numeric-id": 140596
+            }
+          },
+          "hash": "4aa6fcc67fe0c6ea068919fa1ba6335a93d7d7ec",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139024$D8A110C5-7F0A-440F-9C73-A6B78432DF92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139024$890343F7-557A-49A4-A7DB-A4880BD742B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q127225264"
+          },
+          "hash": "d1deb19a3c931d89bb942a4a1f6c67e20e6407d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139024$ADA9C796-0C51-4D9F-915B-81F705E5D5B5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John ap Gwilym ap Hywel Fychan ap Hywel Arms.svg"
+          },
+          "hash": "f1252d9cc9956ac9aefd9d9a01da2d1b9c87e45d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q139024",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John ap Gwilym ap Hywel Fychan ap Hywel"
+    }
+  },
+  "lastrevid": 17557369,
+  "modified": "2025-09-17T11:47:55Z",
+  "ns": 860,
+  "pageid": 167409,
+  "sitelinks": {},
+  "title": "Item:Q139024",
+  "type": "item"
+}

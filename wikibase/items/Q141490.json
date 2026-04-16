@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Potitus Valerius Messalla"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141490$1CC308A2-B215-44FF-BB3C-9958A19A45C3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736169"
+          },
+          "hash": "b2762083739d260b352103d71da64e27848cfb9d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141490$C6ED0DD0-9C75-4B9B-B0B8-37EDB3E3F47A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144144",
+              "numeric-id": 144144
+            }
+          },
+          "hash": "ea9d67ecc866a847986193fc4a2c5a93e3a68f81",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141490$9BE7E1EC-33D3-4F37-99DE-7CC3B543AD7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144143",
+              "numeric-id": 144143
+            }
+          },
+          "hash": "2c1b5d9e2ba2820b26218cda4469bdae2708195e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141490$F1A9070C-3597-4E51-BD17-23F6104AE4FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141490$0BF6F979-BE25-4D1F-8245-CA8CDF302B76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141490$9A7BD381-C822-40DA-B395-48BB381E48F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141489",
+              "numeric-id": 141489
+            }
+          },
+          "hash": "c2a96416f1e3c1c9d0a8c782ef31ca384699efc6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141490$7F6875E3-E7F4-4F37-855F-FCBD33C1AF7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141490$6970995C-A28E-4AFF-86C7-BF90380AB819",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0070-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eae8f974fbfc64d244ec1918892a186bad4b670e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141490$C5CF1FDD-0ACA-4D4A-BB14-9E907CB80E98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0017-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95827e1361c76c77fbfe9884b6e30e1aef1a1368",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141490$569EEAD9-A328-4168-9C76-C68140D028A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1225430"
+          },
+          "hash": "319d0acd9f8ed9c89f55814ff21ccccc368d32e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q141490$AF7E66E9-F7F0-46BB-B9C9-71C1EA9A39B0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Potitus Valerius Messalla"
+          },
+          "hash": "94b7cad33dc9c775f5f44fb8ec9a8e0921ab0d53",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141490$AACB8143-6118-4507-954B-C61994F20A07",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Potitus Valerius Messalla Arms.svg"
+          },
+          "hash": "7fa60fb5e97d300552e36047ee3834b32304b8d7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Senator"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman suffect consul 29 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul en el año 29 a. C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (70v Chr-17v Chr)"
+    }
+  },
+  "id": "Q141490",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Поцит Валерий Месала"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Potit Valeri Messal·la"
+    },
+    "de": {
+      "language": "de",
+      "value": "Potitus Valerius Messalla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ποτίτος Βαλέριος Μεσάλλας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Potitus Valerius Messalla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Potito Valerio Mesala"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Potitus Valerius Messalla"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Potitus Valerius Messalla"
+    },
+    "it": {
+      "language": "it",
+      "value": "Potito Valerio Messalla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ポティトゥス・ウァレリウス・メッサッラ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Potitus Valerius Messala"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Potitus Valerius Messalla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Potitus Valerius Messalla"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Potito Valério Messala"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Potito Valério Messala"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Потит Валерий Мессала"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Potitus Valerius Messalla"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Валерій Мессала Потіт"
+    }
+  },
+  "lastrevid": 17561364,
+  "modified": "2025-09-17T12:46:21Z",
+  "ns": 860,
+  "pageid": 169875,
+  "sitelinks": {},
+  "title": "Item:Q141490",
+  "type": "item"
+}

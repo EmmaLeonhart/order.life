@@ -1,0 +1,536 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fulk le Rechin"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Fulk le Réchin"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q112699$DD56696B-902A-461F-8120-DB417051DDB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114550",
+              "numeric-id": 114550
+            }
+          },
+          "hash": "bd9e1c15375c10f053c9c01b830f82fc8323640a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112699$B271D58B-27CD-4499-B1D1-34C45CDB85DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112705",
+              "numeric-id": 112705
+            }
+          },
+          "hash": "5e2b806ac3de2bfa83a07783716f76e8553f711b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112699$604EBD9A-3E32-46FC-84E2-9145693AF325",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114552",
+              "numeric-id": 114552
+            }
+          },
+          "hash": "d7582e9fb4566c7a8579e55dd3ed4a8dd095d7b1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q112699$B4938CBC-98D8-4D62-BA67-5DE8FE108E5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112699$E9558547-9916-4A35-8C4D-2D955EF641A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q112699$5C555E6C-292F-4602-A3F4-24BFD1035896",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114540",
+              "numeric-id": 114540
+            }
+          },
+          "hash": "66774bfa12f345d28a1432b7e720373651d9cbaf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112699$063CF820-453A-4FA2-A257-7F3D33DCD08D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114542",
+              "numeric-id": 114542
+            }
+          },
+          "hash": "8b167d588d429b41d5a4d263a02b797721c4b183",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112699$FEF590AE-901E-473D-9A4B-73A44F810E3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114544",
+              "numeric-id": 114544
+            }
+          },
+          "hash": "11ce1491a7ad279b9d2b29bd29cf1784fba50c44",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112699$A6FEB889-6893-47B7-964E-82C1C57FCEA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114546",
+              "numeric-id": 114546
+            }
+          },
+          "hash": "8c6155c68d973d8b638aa50d0d66fe26e04d7d1d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q112699$E385D5D3-08C7-44CF-9B6F-B4401B666B70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114548",
+              "numeric-id": 114548
+            }
+          },
+          "hash": "f4d17abcc9a48e4732e34afc43749d4c2057902a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q112699$5D3E7FFF-66D3-4F2F-B8EE-59E0395CFBDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114197",
+              "numeric-id": 114197
+            }
+          },
+          "hash": "d3d0197ef4d5167deb82b3cf37a54a7c22f7ca08",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q112699$EA3857D7-676B-4BC4-911A-E324D95596B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112620",
+              "numeric-id": 112620
+            }
+          },
+          "hash": "09395edccf4b047cf655cb416b193f393c2987c8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q112699$6B3C01E2-FFD1-42E1-AAAA-7C7D465AD37E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q112699$3265CBD4-6792-4CB8-A649-89DFA9FB06DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48115"
+          },
+          "hash": "1899d8ecc54f37ce011f458e149109e62d3e7560",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q112699$C1B8AEF0-5225-4AAA-8B3F-EF73B922A480",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000005566826203"
+          },
+          "hash": "f2d3bf35441049ca2de4b45092c6f567a89dd133",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q112699$1BEF18D2-F4C3-4D17-A9B6-A271B27390A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fulk le Réchin Arms.svg"
+          },
+          "hash": "da900b98f61c0ef0e11c5e4be2c7a1c827a2c539",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "historiador francès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "hrabě z Anjou a Tours"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "hanesydd (1043-1109)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Anjou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Anjou and historian, much condemned by Orderic Vitalis in his history of the era"
+    },
+    "es": {
+      "language": "es",
+      "value": "historiador francés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte d'Anjou 1068-1109"
+    },
+    "it": {
+      "language": "it",
+      "value": "storico francese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans historicus (1043-1109)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "hrabia Andegawenii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "historiador francês"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Анжу"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fransk historiker"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Bá tước Anjou và nhà sử học, bị Orderic Vitalis lên án nhiều trong lịch sử thời đại của ông"
+    }
+  },
+  "id": "Q112699",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فولك الرابع كونت أنجو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فولك الرابع كونت انجو"
+    },
+    "be": {
+      "language": "be",
+      "value": "Фульк IV Ле Рэшэн"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фулк IV"
+    },
+    "br": {
+      "language": "br",
+      "value": "Foulk IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Folc IV el Tauró"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fulko IV. z Anjou"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Fulk Iv"
+    },
+    "da": {
+      "language": "da",
+      "value": "Foulques IV d'Anjou"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fulko IV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Φούλκων Δ΄ του Ανζού"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fulk le Réchin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fulco IV de Anjou"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فولک چهارم، کنت آنژو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Foulques IV le Réchin"
+    },
+    "he": {
+      "language": "he",
+      "value": "פולק הרביעי, רוזן אנז'ו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Foulques IV d'Anjou"
+    },
+    "id": {
+      "language": "id",
+      "value": "Foulques IV, Pangeran Anjou"
+    },
+    "it": {
+      "language": "it",
+      "value": "Folco IV d'Angiò"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フルク4世"
+    },
+    "la": {
+      "language": "la",
+      "value": "Fulco IV Andegavensis"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Foulques IV d'Anjou"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fulco IV van Anjou"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Foulques IV d'Anjou"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Fulko IV"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fulque IV de Anjou"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fulque IV de Anjou"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фульк IV Ле Решен"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Foulques IV od Anjoua"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Foulques IV d'Anjou"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Fulk IV, Count of Anjou"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фулк IV Анжујски"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fulko IV av Anjou"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fulk le Réchin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "富尔克四世"
+    }
+  },
+  "lastrevid": 17524409,
+  "modified": "2025-09-17T04:00:36Z",
+  "ns": 860,
+  "pageid": 134617,
+  "sitelinks": {},
+  "title": "Item:Q112699",
+  "type": "item"
+}

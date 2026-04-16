@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vsevolod I Svyatoslavich"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141184$D6948A58-A8AE-4F53-AB95-475575B9415D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "800"
+          },
+          "hash": "149d824e1c57c1b2546e1980a5b6fa8cf50616b3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141184$61852C4F-260F-46B4-86F1-A75ED47A9636",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143849",
+              "numeric-id": 143849
+            }
+          },
+          "hash": "ce7d9fa2d6b7609ed2842fc99c6a95990252ef6f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141184$877C1F11-C088-4BBA-AED9-3A81CB0C5EFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141184$0371F060-AC50-4E15-9265-30545C60CC1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141184$DC3D984A-E41D-4876-945E-3AEDE23E94CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127093",
+              "numeric-id": 127093
+            }
+          },
+          "hash": "2cb3195f7e60cb55bf245192c94da560ecb47ee2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141184$588401FF-4FB4-4D8F-9C44-86BF96A5DE45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126970",
+              "numeric-id": 126970
+            }
+          },
+          "hash": "527d59778325396e9d41ecd3549809bc248937e5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141184$00A3DBCC-5ADD-4DA1-AEA3-75A86852A5FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141184$20399244-DF25-4F41-BDA7-53574964C1AA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1196-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3909cd92a18eb60530fa392125654a37a98766bb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141184$1DE983FB-2DA1-4C60-BDD4-A8F9A6E69F41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4127288"
+          },
+          "hash": "9a54eed8a33b0d6943531108c9b9cc207ce2d151",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141184$18B52894-AC27-49D9-8D91-8AC2AD5FB7D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=vsevolod;n=rurikides;oc=10"
+          },
+          "hash": "0621591026340e4d71c548704b18b3513bddf3b4",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141184$12E5ADC3-0A77-4811-ACD7-54994C61F1E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vsevolod I Svyatoslavich Arms.svg"
+          },
+          "hash": "5ce1d35e690d781fa67db7fe52006d618864035a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Prince of Rus'"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince russe du 12e siècle"
+    }
+  },
+  "id": "Q141184",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Vsevolod I Svyatoslavich"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wsewolod Swjatoslawitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vsevolod I Svyatoslavich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vsevolod I Svyatoslavich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vsevolod Ier Sviatoslavitch"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フセヴォロド・スヴャトスラヴィチ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Всеволод Свјатославич"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vsevolod I Svyatoslavich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Всеволод Святославич Буй-Тур"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Всеволод Буй-Тур"
+    }
+  },
+  "lastrevid": 17560825,
+  "modified": "2025-09-17T12:37:58Z",
+  "ns": 860,
+  "pageid": 169569,
+  "sitelinks": {},
+  "title": "Item:Q141184",
+  "type": "item"
+}

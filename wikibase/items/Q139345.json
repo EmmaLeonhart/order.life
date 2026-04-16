@@ -1,0 +1,331 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ragnhild of Tälje"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139345$2AB6CA1B-7BC4-4B09-A61B-276BF38F3C40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00790175"
+          },
+          "hash": "6a53d95ec3b1e3904cd1dad77297953887e9001a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3217": [
+      {
+        "id": "Q139345$9A6574F7-D192-4B43-AFE2-9C5DF0A423DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "7498"
+          },
+          "hash": "96ffca9800975f3d1135821de24f8aba2b35d9c2",
+          "property": "P3217",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139345$0DF93865-BA01-4FEF-9D0E-90EEBA339B26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139345$954D3504-C4AA-4447-A220-5DD22ED90C0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139345$52C05261-14D0-425B-8DAF-1FEEFC635372",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138237",
+              "numeric-id": 138237
+            }
+          },
+          "hash": "80cb9cf4dc4f6e69b323e23cf65cb1d5b22596c1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139345$F18EE5D2-9159-4CA4-B1E1-B38E3EE3C59F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139345$F90E6609-DE8D-424F-9B88-588636BDFD3A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3227ad0fbe13b40f06cb84da99a9c8ea769bcd23",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139345$3CF94B74-E41D-4EE7-99CC-24697A11E534",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1117-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01240ed09a5010f94f2553769457c2bf71f76b01",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139345$BBEBAB67-4618-477E-8412-F555F5F7BFA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2303658"
+          },
+          "hash": "3f25e7e76dc04449eacfe0f3bb5a26a143783298",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139345$D04023B9-74BA-469B-82DD-5CAF1B5C0FD0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ragnhild of Tälje Arms.svg"
+          },
+          "hash": "2c102f8610f7d281a01c64b7dd470d9de18d198e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q139345$A5FDF16A-6C15-40D6-8E14-9944B1D05494",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/3bd66216-5aca-4369-8d55-a07e062ffed2"
+          },
+          "hash": "8995574efd71e879224c5f70934e8bf6190a0102",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "consorte sueca (1001–1117)"
+    },
+    "be": {
+      "language": "be",
+      "value": "мясцова шанаваная каталіцкая святая, чый культ зафіксаваны ў сераднявечнай Швецыі"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "каля 1117) — мясцовая шануймая каталіцкая сьвятая, чый культ зафіксаваны ў сераднявечнай Швэцыі"
+    },
+    "en": {
+      "language": "en",
+      "value": "local saint whose veneration is attested in late medieval Sweden and whose name was particularly associated with the church in Södertälje in the province of Södermanland and the diocese of Strängnäs"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sainte locale dont le culte est attestée dans la suède médiévale et dont el nom est associé avec l'église de Södertälje dans la province du Södermanland dans le diocèse de Strängnäs"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koningin-gemalin van Zweden in de periode van 1105 tot en met 1117"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "шведский антиквар Элиас Пальмскъёльд"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tälje-bornas skyddshelgon"
+    }
+  },
+  "id": "Q139345",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Рагнгільда Шведская"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Рагнгільда Швэдзкая"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ragnhilda z Tälje"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ragnhild of Tälje"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ragnhild van Telge"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ragnhild Täljeläinen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ragnhild"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テリエのラグンヒルド"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Рагнхилд од Телје"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ragnhild van Telge"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рагнхильда Шведская"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ragnhild van Telge"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ragnhild of Tälje"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ragnhild av Tälje"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Рагнгільд Шведська"
+    }
+  },
+  "lastrevid": 17557765,
+  "modified": "2025-09-17T11:53:22Z",
+  "ns": 860,
+  "pageid": 167730,
+  "sitelinks": {},
+  "title": "Item:Q139345",
+  "type": "item"
+}

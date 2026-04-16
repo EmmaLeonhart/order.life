@@ -1,0 +1,281 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Herman I"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141328$1D7D9983-B97E-4629-B398-A816105716C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141328$E2CE491B-D9A3-409A-8C34-87C018D9FA10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141328$594142CD-BC35-4438-99CC-EEEE831F1349",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Herman_von_Bliesgau_(1)"
+          },
+          "hash": "8faac03f03e21136a08e0d4f5edaf06ee5762bf7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141328$35C0DDE1-F525-4B98-8581-1C8C3DFBB229",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139471",
+              "numeric-id": 139471
+            }
+          },
+          "hash": "f25ca7c6eb678ae87f1825866d5ba6220caa49f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141328$30979B8A-A54A-439D-BBB6-043A74792215",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141328$DF4A0FF4-85B9-4711-BCC5-25B21635297C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0801-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ce48f790b489c3fd33363941089a3578a58ed55b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141328$A71EF965-C5A1-4AAF-8D0A-55259EE9E214",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0924-04-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e02d9dc3a5918063d5155972ef5b05095667dbbc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141328$93B98ACE-B5D8-4358-8D75-3B483EE1B05D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q896142"
+          },
+          "hash": "6a96332023a5c3127fe3f0c9c305a492707e76a1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141328$A2DA876C-40A8-446D-93AC-907A99CA89DB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Herman I Arms.svg"
+          },
+          "hash": "2ae643956ea388b48498cb940dde67c79fe80e6b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Erzbischof von Köln"
+    },
+    "en": {
+      "language": "en",
+      "value": "Archbishop of Cologne"
+    },
+    "es": {
+      "language": "es",
+      "value": "arzobispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "archevêque catholique"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "archiepiscopus catholicus"
+    }
+  },
+  "id": "Q141328",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "هيرمان الاول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Херман I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hermann I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Χέρμαν Α΄ της Κολωνίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Herman I"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Herman I"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Herman I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Herman I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Herman I van Keulen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Герман I (архиепископ Кёльна)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Herman I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Герман I фон Блісгау"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "科隆大主教赫爾曼一世"
+    }
+  },
+  "lastrevid": 17561094,
+  "modified": "2025-09-17T12:42:19Z",
+  "ns": 860,
+  "pageid": 169713,
+  "sitelinks": {},
+  "title": "Item:Q141328",
+  "type": "item"
+}

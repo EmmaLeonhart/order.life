@@ -1,0 +1,995 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Sulla Felix"
+      },
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Sulla Felix, Dictator of the Roman Republic"
+      },
+      {
+        "language": "en",
+        "value": "Sulla"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q72478$379EFDCA-7557-4A9A-B543-53287964C31B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "167376"
+          },
+          "hash": "379375ba9555223c35c24af47790d3e46411df2f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q72478$9692523F-42A5-40ED-89F6-0D2CEE786E27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735453"
+          },
+          "hash": "a0bbed4702a2b3c44a27c6f9d5bb4b55538ac127",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q72478$AD5DECE4-AB7D-46E6-B9CA-A33B9CBF1C7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72281",
+              "numeric-id": 72281
+            }
+          },
+          "hash": "3c74e5743c52b808f83ed955e4a25d38ccd5a904",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$B9632597-FB86-407D-BE91-CB532ECF2603",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78516",
+              "numeric-id": 78516
+            }
+          },
+          "hash": "f7253cc667a868c704d120f36c7927b895d945f2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$5A05D7E3-9C31-4CF8-821F-C955AC99CA2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78651",
+              "numeric-id": 78651
+            }
+          },
+          "hash": "3a52ef46683965254b16ed2f885fd581dd65e2db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$FD45B9D0-FBF0-4A2E-8977-C95F9E0305B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72756",
+              "numeric-id": 72756
+            }
+          },
+          "hash": "8ae95db4c39ed32d852ddf6fe5a24cf9905a182c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$C8083342-C66A-4EC5-A7FE-B464A2022231",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139718",
+              "numeric-id": 139718
+            }
+          },
+          "hash": "311adbe1fca93224c2be01b8de32591fa0f8cb6c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$73B2DF8B-437D-40D5-B1F1-D0E9017CBF03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139717",
+              "numeric-id": 139717
+            }
+          },
+          "hash": "7ac94f289cb54cfbc01bd08be5d8b130f1d9faf0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$AC669772-533E-4B5A-B9DB-65AF6B41D3CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139715",
+              "numeric-id": 139715
+            }
+          },
+          "hash": "f376e83d75a99a28607b3ac1614d3014ee208d21",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$C5B21A24-6B2A-4055-8543-A912CEC815DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138493",
+              "numeric-id": 138493
+            }
+          },
+          "hash": "2d723723cf388a6fad023881fb456ff74b912c35",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72478$3E09252E-A5C7-48ED-B113-A71AD43D10A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$D2F6162B-409A-4359-95C2-F2CF3D052D19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q72478$901D3B6F-A745-4DD9-A21E-13FAC99A57CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius_Cornelius_Sulla_(1)"
+          },
+          "hash": "3f952059d5dc4a01cb377e9ca730bf39430ecd17",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72478$581C4014-8820-4484-A23E-AE9963A8F71C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72475",
+              "numeric-id": 72475
+            }
+          },
+          "hash": "e76131ad2d79d5a2a018d8732e1b112bb043c3f8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$89AF05CD-03E8-4F4B-A359-EFA46E20E471",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72921",
+              "numeric-id": 72921
+            }
+          },
+          "hash": "7c2a4f7db8562a44523753deed88c613ab79514a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$533A2232-D80A-4DAA-B047-6C6D5CA71A3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141372",
+              "numeric-id": 141372
+            }
+          },
+          "hash": "1ba0a0f05fe7076a93160e273d1e4212d6ab6485",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$BE8E37CE-6B82-4A9E-ABDC-D33E1889C822",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141373",
+              "numeric-id": 141373
+            }
+          },
+          "hash": "6fa25665ae900dd98e4b26c1a39206cc82e8d589",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$EDF9075C-23EC-4B68-B847-FE8C14A50FA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141374",
+              "numeric-id": 141374
+            }
+          },
+          "hash": "c952690e02cb129bcbf5fce4a7866319777ede54",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72478$5867C6B7-853E-4D7B-8D83-D0FCE413D854",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138385",
+              "numeric-id": 138385
+            }
+          },
+          "hash": "5c6da6021e16672b072a46a98fcf2d5952f5f5cc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q72478$970CDB67-E0C2-4381-8569-7A4B99858245",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72666",
+              "numeric-id": 72666
+            }
+          },
+          "hash": "e4d74e2a2eca278b7bb5c891215c2abba9d72b2b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q72478$E105BCCA-441F-449B-9E87-620C81497E07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72669",
+              "numeric-id": 72669
+            }
+          },
+          "hash": "42e77825d3a17766569fc0419afacd0a81cc778b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72478$2DABDC6F-334A-41FD-B47C-854B6D6976C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q72478$3D80300F-BB05-4112-B83C-230A4C8B4A63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0138-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d6ab958e0609e03bda2200d82f0a650b4c5e2f6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q72478$F893805B-DC94-46EC-B718-A5DEEA7E0943",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0078-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01124a8068308ae812a60d928abd8de0dda880ea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72478$43E03302-5292-4CD7-B859-7792506C5051",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q483783"
+          },
+          "hash": "7e1819de260da5a4e0f39d9e4faa4608fe750b31",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72478$2A1F0D07-6270-44DA-B9CA-441ADD5A1D4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009553345029"
+          },
+          "hash": "26bb730e1c7882c10c5aebc18c54dac490956897",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q72478$819439A5-21F8-4BFF-B21E-8CAD355DFE78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:25659"
+          },
+          "hash": "40e7ea974c263b32c772a7699dc0b93788082fac",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72478$B37E18F0-7E66-4EE7-9FC7-978E2903CF57",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sulla Arms.svg"
+          },
+          "hash": "1a186047d5f71a19fe50edd3e42f2b02fc931ef4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "قائد وديكتاتور وقنصل روماني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "рымскі палітык і дыктатар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític i militar de l'Antiga Roma"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský diktátor a vojevůdce"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul und Diktator"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman dictator and general"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Romia diktatoro"
+    },
+    "es": {
+      "language": "es",
+      "value": "político y militar de la Antigua Roma"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalainen sotapäällikkö ja diktaattori"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul et dictateur romain"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político e xeneral romano"
+    },
+    "he": {
+      "language": "he",
+      "value": "מדינאי ומצביא"
+    },
+    "id": {
+      "language": "id",
+      "value": "Negarawan dan Jenderal Romawi"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "რომაელი მხედართმთავარი"
+    },
+    "la": {
+      "language": "la",
+      "value": "dictator rei publicae Romanae"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Senās Romas karavadonis un valstsvīrs"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Ancient Roman general, dictator"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Romeins politicus en generaal (138–78 v.Chr.)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримский государственный деятель и правитель, диктатор"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk diktator"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Romalı general ve devlet adamı"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古羅馬將軍，獨裁者"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "古罗马军事与政治人物"
+    }
+  },
+  "id": "Q72478",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Sulla"
+    },
+    "an": {
+      "language": "an",
+      "value": "Lucio Cornel Sila"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سولا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سولا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Sila"
+    },
+    "az": {
+      "language": "az",
+      "value": "Lutsi Korneli Sulla"
+    },
+    "be": {
+      "language": "be",
+      "value": "Луцый Карнелій Сула"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Люцыюс Карнэліюс Сульля"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Сула"
+    },
+    "br": {
+      "language": "br",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Sul·la"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sulla"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Sulla Felix"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Lucius Cornelius Sulla Felix"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Κορνήλιος Σύλλας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sulla"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Sulla"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Sulla"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Lucio Kornelio Sulao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sila"
+    },
+    "et": {
+      "language": "et",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Luzio Kornelio Sila"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لوسیوس کورنلیوس سولا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sulla"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sylla"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Sulla"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Lucio Cornelio Sila"
+    },
+    "he": {
+      "language": "he",
+      "value": "לוקיוס קורנליוס סולה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sula"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սուլլա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "is": {
+      "language": "is",
+      "value": "Súlla"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Silla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・コルネリウス・スッラ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სულა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "루키우스 코르넬리우스 술라"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Sulla Felix"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Lucijus Kornelijus Sula"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Lūcijs Kornēlijs Sulla"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Sylla"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ലൂച്ചസ് കോർണേലിയുസ് സുള്ള"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Luci Corneli Sulla"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਸੁੱਲਾ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sulla"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cornélio Sula"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sula"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Сулла"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kornelije Sula"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sula"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Корнелије Сула"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Корнелије Сула"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Kornelije Sula"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Lucius Cornelius Sulla Felix"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sulla"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Луций Корнелий Сулла"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Сулла"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Sulla Lutsiy Korneliy"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lucius Cornelius Sulla"
+    },
+    "war": {
+      "language": "war",
+      "value": "Sulla"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "络几维·阔拿武·苏拉"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "სულა"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "蘇拉"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卢基乌斯·科尔内利乌斯·苏拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "卢基乌斯·科尔内利乌斯·苏拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卢基乌斯·科尔内利乌斯·苏拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "盧基烏斯·科爾內利烏斯·蘇拉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "盧基烏斯·科爾內利烏斯·蘇拉"
+    }
+  },
+  "lastrevid": 17484960,
+  "modified": "2025-09-16T18:28:11Z",
+  "ns": 860,
+  "pageid": 87309,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q72478",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q72478"
+    }
+  },
+  "title": "Item:Q72478",
+  "type": "item"
+}

@@ -1,0 +1,460 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vologases III of Parthia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141700$38BEB55D-5615-43E5-A945-9E69C8A1F941",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139813"
+          },
+          "hash": "63d93a625a45272161f2a104270bf2e696560e36",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q141700$E4CCEDAB-0E23-48EB-844C-1670C86CFCFE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717498"
+          },
+          "hash": "b8b254ce4505fb0d810dfdf1721d73c81589e6a2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141700$F0224174-F17C-446C-A6E8-E51667EF825D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "King_of_Parthia-5"
+          },
+          "hash": "fafcabd9916716d7fb4cfd7e7d3680b012b5d2b3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141700$239EA10C-FFBF-4FFF-8B5E-ED8A7C71D776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141700$6FDA25D2-3956-414A-A040-B0320D915E0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141700$E01BD433-1103-4B97-8F7D-1957829C6EA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139777",
+              "numeric-id": 139777
+            }
+          },
+          "hash": "054b2a99a6219579d3e74521ec6b43945f55d88f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141700$471B2AAD-95C2-429F-BB82-0ED5B64E862B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141700$3DF634FD-D982-469E-95EC-5AAC1F93911B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "582856e366fcabcc5587bed2fb844a804e05280f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141700$EC8863AC-1582-4584-80DB-466EF75BFCF7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fd1e1335d54e460730b3321900450e794fd306b3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141700$25B796D1-CC10-4198-A3E0-6377E23FC19D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q315461"
+          },
+          "hash": "11edc8434416239630d8e1d41f5011bcb714d4b4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q141700$87BA7FA6-B8A4-437A-B660-B79BD3575154",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52246"
+          },
+          "hash": "5b7866f54838b39f3fa56fffb54d265b3ef7b4ba",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141700$D9D88A3F-D9E4-4085-AD3E-6402A00D145D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vologases III of Parthia Arms.svg"
+          },
+          "hash": "5a6a841df31295e5b39e1f48c79211377a653234",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König des Partherreiches (etwa 105–147)"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Parthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey del Imperio Parto"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Parthian kuningas (105–147)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi parthe"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "pártus király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պարթևստանի արքա"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero partico (r. 110-147)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Partherriket"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Part kralı"
+    }
+  },
+  "id": "Q141700",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Vologases III van Partië"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اوچونجو بالاش"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Вологаз III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Vologès III de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vologaisés III."
+    },
+    "de": {
+      "language": "de",
+      "value": "Vologaeses III."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Vologaeses III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βολογήσης Γ’ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vologases III of Parthia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Vologases III of Parthia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Vologases III of Parthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vologases III de Partia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Vologeso III.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بلاش سوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Vologases III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vologèse III"
+    },
+    "he": {
+      "language": "he",
+      "value": "וולוגסס השלישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Vologaz III. Partski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Vologaészész pártus király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վաղարշ Բ Պարթև"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vologase III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴォロガセス3世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვოლოგეზ III"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "ولاش سوم"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Vologases III av Parthia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vologases III"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Vologés III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wologazes III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Vologeses III de Pártia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Vologases III de Pártia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вологез III"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Vologas III od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Vologas III."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Vologases III of Parthia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Вологас III од Партије"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Vologases III"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Балоши II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Vologases"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вологез III"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vologases III của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "沃洛吉斯三世"
+    }
+  },
+  "lastrevid": 17561706,
+  "modified": "2025-09-17T12:51:09Z",
+  "ns": 860,
+  "pageid": 170085,
+  "sitelinks": {},
+  "title": "Item:Q141700",
+  "type": "item"
+}

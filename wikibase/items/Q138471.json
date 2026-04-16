@@ -1,0 +1,408 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aelia Paetina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138471$52AF2349-125A-4F3F-9864-7E3A19A1DAEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446802"
+          },
+          "hash": "5dc58f088c3e4d66a2125692dea148ca3f1de96b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138471$0D595286-4EA6-4B00-9EF6-1336EB11C460",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138474",
+              "numeric-id": 138474
+            }
+          },
+          "hash": "2a1caea6eff2bc52c8e6652d2419a0fe7608512d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138471$6808AB19-645C-4CD9-AC66-D9303E6ECBC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138471$3BE71089-B847-4CC8-A9E0-66B55B0D76C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138471$F8C6A626-56EF-47AE-A536-56589B7C008E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Aelia_Paetina_(3)"
+          },
+          "hash": "d8253ca119f556719afced41b8d8b4214e9ab8e7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138471$B545CFEA-1EA6-44AB-9482-E7706179E62F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99334",
+              "numeric-id": 99334
+            }
+          },
+          "hash": "0da85cde77f72d8cf216ad90b9db24db1880c55e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138471$6C9CF74C-3DDD-406A-8630-69D7A3104659",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139680",
+              "numeric-id": 139680
+            }
+          },
+          "hash": "1c2f03d05ef09c268a6e9ad6fe4ab2f2e29e8f7f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138471$9493C121-A7E8-41AF-A227-E03F5C5E8D03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138471$21FE61B5-C08E-47CC-BAD9-0AF84E47BA9E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0008-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b2be25657546fdf7f9cfcedf43ccdd698833047",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138471$21D10EAC-1549-4F67-924D-C42317BEDD51",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138471$358C6208-36E4-457A-85FA-AD0E513B8FCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q238448"
+          },
+          "hash": "80092eabaf54de7a5607b9ae112478a720b81efa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138471$2A7B2307-4A77-40BD-BF63-9CC189DAF06E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aelia Paetina Arms.svg"
+          },
+          "hash": "f52e2236fdb20f947d5f1d3a6a992e54064d8abd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ehefrau Kaiser Claudius"
+    },
+    "en": {
+      "language": "en",
+      "value": "second wife of Roman emperor Claudius"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו השניה של הקיסר הרומי קלאודיוס"
+    },
+    "id": {
+      "language": "id",
+      "value": "istri kedua kaisar Romawi Claudius"
+    },
+    "it": {
+      "language": "it",
+      "value": "seconda moglie dell'imperatore romano Claudio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aristocrate uit Oude Rome (8-)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fru till Kejsare Claudius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римська імператорка"
+    }
+  },
+  "id": "Q138471",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اليا بيتينا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Елия Петина"
+    },
+    "br": {
+      "language": "br",
+      "value": "Aelia Paetina"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Èlia Petina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aelia Paetina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αιλία Παιτίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aelia Paetina"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Aelia Paetina"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Aelia Paetina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Elia Petina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ælia Pætina"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aelia Paetina"
+    },
+    "he": {
+      "language": "he",
+      "value": "איליה פאיטינה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Aelia Paetina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elia Petina"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಡೆಲಿಯ ಪೆಯೇಟಿನ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aelia Paetina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aelia Paetina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Elia Petyna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aélia Paetina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Élia Pecina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Элия Петина"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Elija Petina"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aelia Paetina"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Елија Петина"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aelia Paetina"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aelia Paetina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Елія Петина"
+    }
+  },
+  "lastrevid": 17556341,
+  "modified": "2025-09-17T11:33:19Z",
+  "ns": 860,
+  "pageid": 166856,
+  "sitelinks": {},
+  "title": "Item:Q138471",
+  "type": "item"
+}

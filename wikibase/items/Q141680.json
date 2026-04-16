@@ -1,0 +1,320 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cypros"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141680$D902795A-C533-4153-9BEF-A138553FA61F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738018"
+          },
+          "hash": "14c3c3b10083ac60eab63377dfaf3ca9ba7550bb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141680$57C660CA-4ABE-4878-B256-796F5A6EB2D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144315",
+              "numeric-id": 144315
+            }
+          },
+          "hash": "8d41fd52a66b0a0801725fe72d33899cdb91be7a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141680$9402B7C8-3F32-4D71-9982-2069D900BE36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141680$BED2C0C1-BC47-4E08-965F-2DE5293ED3ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141680$64730809-89F1-423D-ABCD-24C3387E00F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144304",
+              "numeric-id": 144304
+            }
+          },
+          "hash": "0bc1217023b6f9d826214e5d6d1b4990623953aa",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141680$D3B3C58D-7ABD-4660-9B74-6831872EA6EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78189",
+              "numeric-id": 78189
+            }
+          },
+          "hash": "f3935e3bbccd431394bf6d10f71750a6f9e1b7f6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141680$1D74A233-1BA4-437A-BA08-01C1B12644B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78186",
+              "numeric-id": 78186
+            }
+          },
+          "hash": "f9e373c42fe6b7943edfbe28ca9ca9b22888780c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141680$78433D87-AD75-4967-9FA4-F78EA6834021",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141680$1704B817-E0C3-4EF4-B2EB-E745F6B34BCC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0029-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f8deaede5dcf71922d0e4d1db4b1523b5acd261b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141680$E31FEF1F-8BCA-4158-86B0-366F0F83EE2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11751802"
+          },
+          "hash": "369b32720a1c5933093de1a747866482eb2b4dfc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141680$E5F70737-6306-4AD7-A8E4-FE5E6B66137C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cypros Arms.svg"
+          },
+          "hash": "f578addc15a245196d5f96b180a410a5d7f39c80",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dcera Heroda Velikého"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Ηρώδη Α΄ του Μεγάλου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Herodian noble, daughter of Herod the Great"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse hérodienne, fille d'Hérode le Grand et de Mariamne"
+    },
+    "he": {
+      "language": "he",
+      "value": "בתו של הורדוס ממרים החשמונאית"
+    }
+  },
+  "id": "Q141680",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kypros II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cypros"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kypros"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kypros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κύπρος Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cypros"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cipros"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cypros"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cypros"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיפרוס (בת הורדוס ומרים)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cipro"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Κύπρος Β΄"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kypros II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кипра"
+    }
+  },
+  "lastrevid": 17561670,
+  "modified": "2025-09-17T12:50:38Z",
+  "ns": 860,
+  "pageid": 170065,
+  "sitelinks": {},
+  "title": "Item:Q141680",
+  "type": "item"
+}

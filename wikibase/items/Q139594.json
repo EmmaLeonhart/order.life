@@ -1,0 +1,393 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Cornelius Lentulus Marcellinus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139594$C629963F-DDBF-4CE2-84B1-9DA05BAEABE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735544"
+          },
+          "hash": "265ec54ff42b5a62be1b2b829e2d571f6ee4000a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139594$ACDDE001-277B-4888-BE76-B9DD1800331A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141454",
+              "numeric-id": 141454
+            }
+          },
+          "hash": "7d3aafcdc6eb81954deb7038cff9cdfbe3fe41c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139594$51B6AA1E-EB14-4A20-A46E-F754DB532557",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139594$DB378411-4B84-477B-9A48-B36075BD8F26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139594$7873B82E-0CAD-4447-94A2-0FCF099536B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72242",
+              "numeric-id": 72242
+            }
+          },
+          "hash": "7f75a2f08d36d890e5eba7cf4752f4334ef4416b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139594$8444105A-2A9E-4220-BC1F-8F51C9B4991A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141450",
+              "numeric-id": 141450
+            }
+          },
+          "hash": "aec0e0b3f830f10bd1232eb36a0d609b45f1de79",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139594$35CB8F73-60FD-4160-9331-DEFF124C6C7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141451",
+              "numeric-id": 141451
+            }
+          },
+          "hash": "55021a10199bcf6aa86ac07af8f5fcb1f0867624",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139594$8D6EC718-1E57-4326-864D-4E91D100C2CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139594$30CD6B19-8A9E-494E-9F8B-99A259EB05FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139594$07786E57-E8C8-4D84-AC05-482B2A071DF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q721788"
+          },
+          "hash": "ea7747e61aea8fcd469f0367f0a2b51e51fc9827",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139594$2FCA207F-BF9F-4163-B4F4-A8AD8FE543CA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Cornelius Lentulus Marcellinus"
+          },
+          "hash": "7c3b04caa94b0f3d3b27c59b67a56e558051c88f",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139594$06541C4D-D7C9-4083-A967-45117FE771BC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Cornelius Lentulus Marcellinus Arms.svg"
+          },
+          "hash": "da213e566df5f0017b5005b54ab552e76512a0a8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul of 56 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 56 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "קונסול רומאי"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e senatore romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q139594",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جنايوس كورنيليوس لينتولوس مارسيلينوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гней Корнелий Лентул Марцелин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Corneli Lèntul Marcel·lí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Cornelius Lentulus Marcellinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Κορνήλιος Λέντουλος Μαρκελλίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Cornelius Lentulus Marcellinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Cornelio Léntulo Marcelino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Cornelius Lentulus Marcellinus"
+    },
+    "he": {
+      "language": "he",
+      "value": "גנאיוס קורנליוס לנטולוס מרקלינוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cnaeus Cornelius Lentulus Marcellinus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gnaeus Cornelius Lentulus Marcellinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Cornelio Lentulo Marcellino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・コルネリウス・レントゥルス・マルケッリヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Cornelius Lentulus Marcellinus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gnaeus Cornelius Lentulus Marcellinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Cornelius Lentulus Marcellinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Cornélio Lêntulo Marcelino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Cornélio Lêntulo Marcelino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Корнелий Лентул Марцеллин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gnej Kornelije Lentul Marcelin"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gnaeus Cornelius Lentulus Marcellinus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Корнелій Лентул Марцеллін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尼亚斯·科内利斯·伦图鲁斯·马塞利努斯"
+    }
+  },
+  "lastrevid": 17558157,
+  "modified": "2025-09-17T11:59:00Z",
+  "ns": 860,
+  "pageid": 167979,
+  "sitelinks": {},
+  "title": "Item:Q139594",
+  "type": "item"
+}

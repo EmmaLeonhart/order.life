@@ -1,0 +1,452 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antipater"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139757$16601B26-C150-4147-A95C-4AFB1A20DE47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738010"
+          },
+          "hash": "e5971535d2729c39491799230170b188f92cf564",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139757$1A989DB2-9D9B-4B0A-B024-CE9EFF44CD1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139757$8A68A4A7-84B3-4ECE-95F2-07571A6009DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139757$E813BA4B-3C7F-4472-B159-887857E36420",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antipater_(son_of_Herod_the_Great)_(1)"
+          },
+          "hash": "f177655d21f17da8e2b175e10002111eb4c6011b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139757$943A2CA4-72A8-462F-A57B-AFF4746E1595",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139759",
+              "numeric-id": 139759
+            }
+          },
+          "hash": "48a83c485569299067a36c818004922bc6507f9b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139757$7B1275F7-5AB9-466A-8021-A62AA2A6E537",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78189",
+              "numeric-id": 78189
+            }
+          },
+          "hash": "f3935e3bbccd431394bf6d10f71750a6f9e1b7f6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139757$DB9C5DF9-A510-45AC-A3C4-A00B37729A3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141672",
+              "numeric-id": 141672
+            }
+          },
+          "hash": "87be697d0a443ee6b2b2f8d762cf1ecb18a6b666",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139757$8EF415C2-959E-472C-992A-836FB4D7D1F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139757$E01B886A-012C-465B-A750-26F12FA09E57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0046-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecf41df273781b0bdac721f9488f633519dbd98a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139757$979EEA90-3F55-42B5-8637-C97EC53B6268",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0004-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "550c66f369783a74a610d8d24648c368f96f0fe5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139757$66FF2DD9-2AD6-4DDA-ADDF-89D33F846E74",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q581668"
+          },
+          "hash": "5282a2bdb1be570d14c097d5d75023947454b834",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139757$B0463FE4-3991-4A51-BDE8-9F9056AA5E29",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antipater Arms.svg"
+          },
+          "hash": "e205e1a2bb622bb38c0ac2eae4162b3c8f525d7e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "сын Ірада Вялікага і Дарыды"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "fill d'Herodes el Gran"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn Herodes des Großen und der Doris"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Ηρώδη του Μέγα, διάδοχος στο βασίλειο της Ιουδαίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Herod and Doris, heir of Judea"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Herodes I el Grande"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "premier fils d'Hérode Ier le Grand"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנו הבכור של הורדוס הגדול"
+    },
+    "it": {
+      "language": "it",
+      "value": "primogenito di Erode il Grande"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zoon van Herodes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "primeiro filho de Herodes, o Grande"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "старший сын Ирода Великого от Дориды"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "sin Heroda in Doride, judejski dedič"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "herodiansk prins"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "або Антипар II - старший син Ірода Великого, страчений за державну зраду"
+    }
+  },
+  "id": "Q139757",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنتيباتر الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انتيباتر التانى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыпатр"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Антыпатэр"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антипатър (син на Ирод)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antípatre"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antipatros"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antipater"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antipatros"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Antipatros (Sohn des Herodes)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίπατρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antipater"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Antipater (son of Herod the Great)"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Antipater (son of Herod the Great)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antípatro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antipater"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Antapataer"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיפטרוס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անտիպատրոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antipatro"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antipater"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antipater"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antypater II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antipatro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antipatro"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Antipater"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антипатр"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antipater"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antipater II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антипатр"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "انتیپاترس"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安提帕特二世"
+    }
+  },
+  "lastrevid": 17558423,
+  "modified": "2025-09-17T12:02:46Z",
+  "ns": 860,
+  "pageid": 168142,
+  "sitelinks": {},
+  "title": "Item:Q139757",
+  "type": "item"
+}

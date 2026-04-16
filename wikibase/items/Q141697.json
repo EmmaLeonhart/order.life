@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Junius Rufus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141697$7B73C1F7-32FC-40D7-B3A7-98764853A706",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738789"
+          },
+          "hash": "55d795501a545d7aa38670c4ccb62b3a36e876b6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141697$C910933A-FD50-48DF-8708-739A17D1191D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141697$2392EBC2-5056-4540-B433-B8D63863EB69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141697$EF564502-00B0-43A1-A136-D16BEC2B62AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139769",
+              "numeric-id": 139769
+            }
+          },
+          "hash": "5d192441cdb5d6c7ce9a350bd0226478a7b43577",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141697$2E6F7036-271A-42F0-96D9-BF18DAAD3615",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141697$A1BD0098-008E-4BCD-BA2E-C62D83B7EE1E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141697$7C91F3B0-8A52-4D59-BFE9-E8FB1F68DA67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6758263"
+          },
+          "hash": "113a08e9290f3a9f3387f6398b00cf34954c737f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141697$A8D4245D-EF1E-436C-9DD0-F0344E7A8623",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Junius Rufus Arms.svg"
+          },
+          "hash": "35ef72d586da5b5b2110f2fd5c8b8ba0efe88fc5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1st century Roman eques and governor of Egypt"
+    }
+  },
+  "id": "Q141697",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Юний Руф"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Iunius Rufus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Junius Rufus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Junio Rufo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Iunius Rufus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Giunio Rufo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Iunius Rufus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Юний Руф"
+    }
+  },
+  "lastrevid": 17561702,
+  "modified": "2025-09-17T12:51:06Z",
+  "ns": 860,
+  "pageid": 170082,
+  "sitelinks": {},
+  "title": "Item:Q141697",
+  "type": "item"
+}

@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ælfflæd of Mercia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138327$46DFAB5D-1AAF-4706-84F4-26DD4B5AD5AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "112276"
+          },
+          "hash": "6ca30a6afa387123c950ca6b57ac17599e43bb58",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138327$467E9581-B9E2-415C-8C2A-8354143EE18A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138327$1D37C32A-BA4A-4B10-ABD9-1D12249E99E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138327$6694E846-7362-49DE-B430-921FA57240EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139492",
+              "numeric-id": 139492
+            }
+          },
+          "hash": "80b15c271086395f6f06cd883ba0d72a97f961f7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q138327$A00F3E86-11C0-493E-B77D-1F86048BDAE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15260.htm#i152592"
+          },
+          "hash": "98d67f9e6ba744f7f42c446f79e03ce08e3d9cd2",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138327$AA438B5C-0361-4B16-B7A9-AB35D34BBE1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137620",
+              "numeric-id": 137620
+            }
+          },
+          "hash": "4b471dffce4cbde4435d35638f74ff760f1e3e47",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138327$D3BC3BE0-133F-4267-BCEF-39868B3E3D20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138326",
+              "numeric-id": 138326
+            }
+          },
+          "hash": "64ccb0af68e6fa47fcdb11b48ac55b7ad5d1e0f6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138327$FF95D4CD-5F67-41D1-B498-34539E6A337A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138327$588F4204-0230-4BFA-A54A-C1A9E2796E37",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8163df404d9994b40f680a1364f0bb46039df56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138327$CB7565F8-E62A-43DF-AAB7-01E5FF86EB0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q380758"
+          },
+          "hash": "244db777ec147cab516b7e849c1f6ac3299df61d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138327$92BFF463-7895-4346-BA27-EB672054E291",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ælfflæd of Mercia Arms.svg"
+          },
+          "hash": "4d7231fc7e524f65deaabd47459dc7b8f07e34a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter Offas, des Königs von Mercia im angelsächsischen England"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Offa of Mercia"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Offa de Mercia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille d'Offa de Mercie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Offa merciai király lánya"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Offa di Mercia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Нортумбрии"
+    }
+  },
+  "id": "Q138327",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Ælfflæd Mercia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ælfflæd"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ælfflæd z Mercie"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ælfflæd of Mercia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aelfflaed"
+    },
+    "el": {
+      "language": "el",
+      "value": "Έλφλιντ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ælfflæd of Mercia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ælfflæd"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ælfflæd of Mercia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ælfflæd"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Aelfflaed"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ælflæd"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ælfflæd of Mercia"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Ælfflæd Seko Mercia"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Ælfflæd vu Mercien"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ælfflæd of Mercia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ælfflæd"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ælfflæd of Mercia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ælfflæd of Mercia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эльфледа"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ælfflæd of Mercia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ælfflæd of Mercia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃塞爾雷德"
+    }
+  },
+  "lastrevid": 17556101,
+  "modified": "2025-09-17T11:29:53Z",
+  "ns": 860,
+  "pageid": 166712,
+  "sitelinks": {},
+  "title": "Item:Q138327",
+  "type": "item"
+}

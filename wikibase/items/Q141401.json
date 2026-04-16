@@ -1,0 +1,367 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Caecilius Metellus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141401$7F4A8B3A-604F-4FC5-A43C-1B3EFA8D05C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735445"
+          },
+          "hash": "df8d4f8533a17046eb92eceab4b09013497e1297",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141401$4EEAE86A-069D-4217-88BD-5E5DCE641FE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141401$06667237-2944-46D0-B318-28D41441C0B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141401$9C0EDE7A-2789-4AC6-9045-5659484D87D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus_Caecilius_Metellus_(consul)_(1)"
+          },
+          "hash": "4c0da27087224dc3b2dd96e83782dc9e71b058e6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141401$AE1F88D6-DD9F-431E-9E01-C9D21A25B90E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72858",
+              "numeric-id": 72858
+            }
+          },
+          "hash": "f532867bc9ef3c66f1d94c997e5522643ca1b467",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141401$73F7A784-C626-4D2B-9FFB-A95C93457667",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141401$C0ABB31B-3BAF-4277-A4CF-F7D1C088186D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0158-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05c493fcd93832769741964018b9b7e3e3518eaa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141401$9438FCD5-7EB7-425D-9BB3-3B5EA5DE2537",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0111-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c25accffdc0dec8fe1f3e19b7b5bd3fb0faa417",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141401$DB8D2AD8-A35D-47E1-A329-0C33262298DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q521435"
+          },
+          "hash": "473b2ded92ee19d1b2397b5297ba8abc4a6d7768",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q141401$6EAD1664-3619-4BF1-B9F4-59C3FD68097A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:25593"
+          },
+          "hash": "87b7653dd0c8257d8949d95b0199c28844158a6d",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141401$9D205C54-7C65-47F3-810B-7A33A626E5CC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Caecilius Metellus Arms.svg"
+          },
+          "hash": "2b87021216bcb78c37ad38365e4bba83be03fb92",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman general"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 115 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (158v Chr-111v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q141401",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ماركوس كايسيليوس ميتيلوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Цецилий Метел"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Cecili Metel"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Caecilius Metellus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Καικίλιος Μέτελλος (ύπατος το 115 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Caecilius Metellus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Cecilio Metelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Caecilius Metellus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Marco Cecilio Metelo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Caecilius Metellus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Cecilio Metello"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・カエキリウス・メテッルス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Caecilius Metellus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Caecilius Metellus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Cecyliusz Metellus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Cecílio Metelo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Cecílio Metelo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Цецилий Метелл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Cecilije Metel"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Caecilius Metellus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Цецилій Метелл"
+    }
+  },
+  "lastrevid": 17561220,
+  "modified": "2025-09-17T12:44:08Z",
+  "ns": 860,
+  "pageid": 169786,
+  "sitelinks": {},
+  "title": "Item:Q141401",
+  "type": "item"
+}

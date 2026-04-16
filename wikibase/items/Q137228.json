@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Serena of Rome"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q137228$7CDFBF08-6025-4914-AA28-5692248A4AA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137231",
+              "numeric-id": 137231
+            }
+          },
+          "hash": "42f7a61d7f89ea87bb52a8ad9ad912979330af78",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137228$475E83EB-6B04-4642-B5DA-10655441799A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137228$C08ADF12-F59D-4321-8503-09A03B8AB70D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137228$54EA5C1C-7434-47CF-9F48-BD12519C5890",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136810",
+              "numeric-id": 136810
+            }
+          },
+          "hash": "ccb4f3ea6c0a2b003d63b7cf919cd9a53ea0a2cb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137228$0DBBE059-C7D5-41CC-BB1A-8D652B797EEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137228$B054A228-A601-4C08-B982-6F8B0CE64CA3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2cf3baf1964f1713bcc86859c083b1dfdb258ec3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137228$CFF13145-6717-48A7-8C43-1C1424170096",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q535053"
+          },
+          "hash": "8a8b20833dfbff89a91209a83798faf1da069cd4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137228$910C7609-20E8-4AA6-B553-A2A85D468CB6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Serena of Rome Arms.svg"
+          },
+          "hash": "3c1cb5b7733a229ce98f69bf1af47af0f7d068e4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "křesťanská mučednice"
+    },
+    "de": {
+      "language": "de",
+      "value": "Christliche Märtyrerin, Heilige"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary Roman saint and martyr"
+    }
+  },
+  "id": "Q137228",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Serena von Rom"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Svatá Serena"
+    },
+    "de": {
+      "language": "de",
+      "value": "Serena von Rom"
+    },
+    "en": {
+      "language": "en",
+      "value": "Serena of Rome"
+    },
+    "es": {
+      "language": "es",
+      "value": "Serena de Roma"
+    },
+    "it": {
+      "language": "it",
+      "value": "Serena di Roma"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Serena von Rom"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Serena von Rom"
+    }
+  },
+  "lastrevid": 17554395,
+  "modified": "2025-09-17T11:05:35Z",
+  "ns": 860,
+  "pageid": 165613,
+  "sitelinks": {},
+  "title": "Item:Q137228",
+  "type": "item"
+}

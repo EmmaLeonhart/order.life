@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiridates I of Parthia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141366$30E9F9C1-EA9D-471E-8C0B-61F3608A30A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141366$C0FDE273-21EF-4E8D-B048-76BD832F9F54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141366$EDD92928-8A7D-4C65-AAC5-B1600C3BE5CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139525",
+              "numeric-id": 139525
+            }
+          },
+          "hash": "ae45758bd07aa3002032b4dcf491e44b82451d29",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141366$9CED8F56-C5CA-4CBC-9D31-E27A3454152C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141366$A2A8F3F2-6CF7-418E-99F2-78DB12A4AC37",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141366$2EC7CF85-9D61-41C5-86C9-6B4218AC86A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q472423"
+          },
+          "hash": "67d81b3cbfe78eff83beecf525f0d2e0266af5c7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141366$6FC46536-B76A-45C8-B55E-40FC1E949477",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiridates I of Parthia Arms.svg"
+          },
+          "hash": "27f4ccffea203297849666bd67c895f5797c74fa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "monarca iranín"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de Pàrtia"
+    },
+    "de": {
+      "language": "de",
+      "value": "parthischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "brother of Arsaces I"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه اشکانی"
+    },
+    "it": {
+      "language": "it",
+      "value": "presunto sovrano partico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Parthen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "брат Аршака I, в ранней историографии — второй царь Парфии"
+    }
+  },
+  "id": "Q141366",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تيرداد الأول ملك فرثية"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тиридат I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tiridates I de Pàrtia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tiridates I."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Tiridates I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιριδάτης Α’ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiridates I of Parthia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Tiridates I of Parthia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Tiridates I of Parthia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tirídates I de Partia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Tiridates I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تیرداد یکم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tiridate Ier de Parthie"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Tiridat I. Partski"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tiridates I dari Partia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tiridate I di Partia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティリダテス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ტირიდატე I"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ടിറിഡേറ്റ്സ് I"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "تیرداد اول"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tiridates I av Parthia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tiridates I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tiridates I da Pártia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tirídates I da Pártia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тиридат"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tiridat I od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Tiridat I."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tiridates I of Parthia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тірідат I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "تیرداد اول"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiridates I của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "梯里達底一世"
+    }
+  },
+  "lastrevid": 17561162,
+  "modified": "2025-09-17T12:43:19Z",
+  "ns": 860,
+  "pageid": 169751,
+  "sitelinks": {},
+  "title": "Item:Q141366",
+  "type": "item"
+}

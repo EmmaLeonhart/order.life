@@ -1,0 +1,377 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tristan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137254$F4C4BFA5-3561-4B7A-A450-F8C6264015A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137254$A74093E8-AB91-41F6-B9C4-652F45A132FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137254$893163E0-946F-484A-9BBA-16375A33BAAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136845",
+              "numeric-id": 136845
+            }
+          },
+          "hash": "60fe058266d3024fd0ecbef3001356a3b8027e34",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137254$79E34F5D-E103-4B3B-A949-B8319DC1FDB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137296",
+              "numeric-id": 137296
+            }
+          },
+          "hash": "7c0924bd369a258fa13b4fdb4784f48219834cab",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137254$6EB05049-4B33-4056-832E-9E9B7A31E3AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137254$A4CE5F69-9D31-443D-865B-812155DC8C06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0585-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "99ebe9d2cd4f2235608c7c7230f794692c58be57",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137254$90205C07-0D0A-42E2-A83E-00F526E063C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q954012"
+          },
+          "hash": "c2b3ac456cd42c473b5a2e3377bad9ece052959b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137254$30369FDF-CD27-49E7-8261-0D97C7C471D7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tristan Arms.svg"
+          },
+          "hash": "c4d09ef90cfb56bda749751dddc960bf8d6e024e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "personatge heroic del cicle artúric"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "postava z artušovských legend"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sagenfigur der Artussage der walisischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cornish knight of the Round Table Arthurian legend"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje perteneciente al Ciclo artúrico"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "pyöreän pöydän ritari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "héros du cycle arthurien"
+    },
+    "it": {
+      "language": "it",
+      "value": "cavaliere del ciclo arturiano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "『アーサー王物語』などに登場する伝説の人物"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Корнубии с 560 года, легендарный персонаж"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kornijski vitez okrogle mize v arturijanskih legendah"
+    }
+  },
+  "id": "Q137254",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Тристан"
+    },
+    "bjn": {
+      "language": "bjn",
+      "value": "Tristan"
+    },
+    "br": {
+      "language": "br",
+      "value": "Tristan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tristany"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tristan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Trystan"
+    },
+    "da": {
+      "language": "da",
+      "value": "Tristan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Drystan fab Tallwch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tristan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tristan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tristán"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Tristan"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Tristan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tristan"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Tristán"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Տրիստան"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tristan"
+    },
+    "io": {
+      "language": "io",
+      "value": "Tristan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tristano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トリスタン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "트리스탄"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Trystan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tristan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tristan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tristan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tristão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тристан ап Мелиодас"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tristan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Tristan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tristan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Трістан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "崔斯坦"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "特里斯坦"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "特里斯坦"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "崔斯坦"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "崔斯坦爵士"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "崔斯坦"
+    }
+  },
+  "lastrevid": 17554433,
+  "modified": "2025-09-17T11:06:07Z",
+  "ns": 860,
+  "pageid": 165639,
+  "sitelinks": {},
+  "title": "Item:Q137254",
+  "type": "item"
+}

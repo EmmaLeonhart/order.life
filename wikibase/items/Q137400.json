@@ -1,0 +1,306 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ifor Bach"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137400$46305C1C-894B-426E-B591-3EC359A01432",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00581028"
+          },
+          "hash": "ade4d1bd794025136dc3b5edcf36e65b61bd2eb2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137400$C239C487-D1B1-4AC1-8B55-37A488BD3A4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138039",
+              "numeric-id": 138039
+            }
+          },
+          "hash": "750cbc7c73c467eb5e9829ca591c2773cf3bb8f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137400$D6C2CBB9-7AE9-4CD5-B02D-EE943B8416DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127814",
+              "numeric-id": 127814
+            }
+          },
+          "hash": "29ad448c7a7d3963c1c1edf88b0071a2c6c88194",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137400$1F87B0EF-8666-4406-9B9A-3F73E4D18A77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137400$3858DC9F-B927-4DCF-82BC-497DD51050DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137400$4852D0B9-83B7-4E61-A088-9AB57864BF43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138602",
+              "numeric-id": 138602
+            }
+          },
+          "hash": "202f670cb07886374d74da9232e48262bcbf5a2e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137400$C23A7CCF-CBAA-4ABB-A127-1F33D7B5F6B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136966",
+              "numeric-id": 136966
+            }
+          },
+          "hash": "f5b1bd7873364c716d9c16b3489a7fea92189bbf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137400$DC8F0439-544E-42A9-9C8D-4936067AADAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137400$26C565F0-BE5C-45B6-9158-9F3BE5BF9C94",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137400$A9C8E038-A32B-4C62-8832-7850357BA483",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "02b2491aa94aec01b5c4332e7b8454593d1a0ee3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137400$E0294A29-8927-4877-B9E4-3BA36774AFF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5991243"
+          },
+          "hash": "4e52b613570601acc33b5700e75ab2e7a90f613f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137400$4B976573-5620-4A90-8F7D-B39668AB36A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ifor Bach Arms.svg"
+          },
+          "hash": "b19786b0fe77898992ebdf3f999f6d8edccb2025",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "uchelwr Cymreig"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hauptling von Senghenydd (Südwales)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh nobleman"
+    }
+  },
+  "id": "Q137400",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ifor Bach"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ifor Bach"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ifor Bach"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ifor Bach"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Ifor Bach"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ifor Bach"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ifor Bach"
+    }
+  },
+  "lastrevid": 17554725,
+  "modified": "2025-09-17T11:10:10Z",
+  "ns": 860,
+  "pageid": 165785,
+  "sitelinks": {},
+  "title": "Item:Q137400",
+  "type": "item"
+}

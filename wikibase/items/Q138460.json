@@ -1,0 +1,441 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Julia Livilla"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q138460$17B2562E-01DA-4A3B-9DD8-201C79E19A1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Livilla-1"
+          },
+          "hash": "c3eb70ec3ed386050aa89204230e79cd156c984f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138460$8A93C00E-DFDB-483A-A1FA-ACECA0A771D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138460$67C2E05C-A195-40E8-A071-8667A73B5FA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138460$05799529-3DDE-48DF-9EA3-389E26FCB0E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Livilla_(1)"
+          },
+          "hash": "7c5b5975802fa262bf2fe1aff986cb828eade542",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138460$58BD6361-C0AE-4997-A31A-8AA9706DF9C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139670",
+              "numeric-id": 139670
+            }
+          },
+          "hash": "87291eb192b611782dfe93f872df816cbca52a11",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138460$0BD9ADB7-7C2E-4055-AF81-47210B7DE1F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137703",
+              "numeric-id": 137703
+            }
+          },
+          "hash": "9e19cf24e0626d8ce10f3c43d77653f7eaa83e62",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138460$DDC4CD29-8781-4191-88C3-5FB2A81DDEED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138456",
+              "numeric-id": 138456
+            }
+          },
+          "hash": "c54948a720b5ea467fd35d87d53a535d249ce54d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138460$7F67E8E9-0D29-402D-A513-0F9EBAFDDDF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138460$66CAED90-DF90-4CAA-88D3-F37C838C47FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0018-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "64e8603714dd389a64475641b059a1b9c72a952b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138460$A21ADFAD-59B3-4F38-8B0D-CCC3B3CB05DC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0042-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84a4f10438a45dc90898de356dbff164b8bf2c82",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138460$63890E69-A92A-4F06-BA36-6A4685AB54F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q237629"
+          },
+          "hash": "1dc3f6d1c9a542c317c452fc5c81fa2a7ea23563",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q138460$4FC79EFB-EBA2-4222-8FBF-56E83EB056C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26374"
+          },
+          "hash": "ac4df4d5b821ddfceeaf41f89192e969f26c1949",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138460$C5338B92-46ED-4A6A-9BCD-1C67DE5DEE25",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julia Livilla Arms.svg"
+          },
+          "hash": "4cee0c9508a7df3bd184d12e0ee829338b13fd89",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(c. AD 18-c. 41)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schwester Caligulas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νεότερη αδελφή του Ρωμαίου Αυτοκράτορα Καλιγούλα (περίπου 18 μ.Χ. - 41 μ.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "youngest sister of the Roman Emperor Caligula (c. AD 18-c. 41)"
+    },
+    "es": {
+      "language": "es",
+      "value": "miembro de la dinastía Julio-Claudia, hija de Germánico y Agripina la Mayor"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "irmã do imperador romano Calígula"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "yngsta syster till Kejsare Caligula"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньоримська матрона"
+    }
+  },
+  "id": "Q138460",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جوليا ليفيلا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Юлия Ливила"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Júlia Livil·la"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Julia Livilla"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Julia Livilla"
+    },
+    "de": {
+      "language": "de",
+      "value": "Iulia Livilla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιουλία Λιβίλλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Julia Livilla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Julia Livila"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Julia Livilla"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Julia Livilla"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Julia Livilla"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוליה ליווילה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giulia Livilla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユリア・リウィッラ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "율리아 리빌라"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iulia Livilla"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Julia Livilla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Julia Livilla"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Julia Liwilla"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Júlia Lívila"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Júlia Lívila"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юлия Ливилла"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Julija Livila"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јулија Ливила"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Julia Livilla"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Julia Livilla"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юлія Лівілла"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "جولیا لیویلا"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Julia Livilla"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朱莉娅·莉维拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "茱莉亞・莉維拉"
+    }
+  },
+  "lastrevid": 17556323,
+  "modified": "2025-09-17T11:33:05Z",
+  "ns": 860,
+  "pageid": 166845,
+  "sitelinks": {},
+  "title": "Item:Q138460",
+  "type": "item"
+}

@@ -1,0 +1,587 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleisthenes"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137114$50AC21F9-D5F9-46A1-A854-8E1EB097737E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "482511"
+          },
+          "hash": "4908edfb46a84500c4cbca233a1fb5beb18bcae8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137114$7B128D27-2DBA-4AD8-A96B-B040304974CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136715",
+              "numeric-id": 136715
+            }
+          },
+          "hash": "316eb013dadc75a7eb834f71283002172cef5ac1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137114$7D953574-8E66-41B6-A50A-CBBF668C4AD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137114$3CC16F2D-8D0B-45AB-8F86-7387029A76EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137114$140E7311-38DE-464F-BD45-767CAAF21F81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137626",
+              "numeric-id": 137626
+            }
+          },
+          "hash": "458962d88481ca5482b6f1acc338a7ea86e710cf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137114$A20E6598-D777-4E64-BF45-1764EDE677B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137627",
+              "numeric-id": 137627
+            }
+          },
+          "hash": "2fd5ef7e534b11cbe8d09c0b1053f5b5e1dc3676",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137114$1C37698D-8106-4683-B3D7-0FC402A0978B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137114$721E6B7A-5863-4AFD-A63B-0A0847B434FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0565-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "827b47eeab14ade27289ed198dea2e7050237790",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137114$EFE71041-5DB0-4196-84F1-0A10205ABDE1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0492-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a27a01d79b84ed1486ee47b155114a729c7f70ec",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137114$7807D9AC-6A45-4225-8158-76509FBC2EA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q207634"
+          },
+          "hash": "82014642feee66b787ccdb55b491427c35612a52",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137114$780F8FAD-05A4-4BE1-9D69-8BC2C020B853",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleisthenes Arms.svg"
+          },
+          "hash": "1ca74665eb9a470ee9b0f81d95b69eed2ebe41b4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من اثينا الكلاسيكيه"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "атэнскі палітык"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "athénský politik"
+    },
+    "de": {
+      "language": "de",
+      "value": "Athener Staatsreformer"
+    },
+    "el": {
+      "language": "el",
+      "value": "αρχαίος Αθηναίος πολιτικός και μεταρρυθμιστής"
+    },
+    "en": {
+      "language": "en",
+      "value": "late 6th century Athenian politician and reformer"
+    },
+    "es": {
+      "language": "es",
+      "value": "reformador de la antigua Atenas, considerado padre de la democracia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin kreikkalainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "réformateur et politicien qui instaura les fondements de la démocratie athénienne"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e legislatore ateniese"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ათენელი პოლიტიკოსი და რეფორმატორი"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Athensk statsmann og reformator"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Athene (565v Chr-492v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "ateński polityk"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "nobil și arhonte atenian"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஏதெனியன் அரசியல்வாதி மற்றும் சீர்திருத்தவாதி (கிமு 570 இல் பிறந்தார்)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "雅典政治家古代雅典的宪法改革,并将民主的基础"
+    }
+  },
+  "id": "Q137114",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Kleisthenes"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "كليسثنيس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كليسثنيس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Klisfen"
+    },
+    "be": {
+      "language": "be",
+      "value": "Клісфен"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Клістэн"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Клистен"
+    },
+    "br": {
+      "language": "br",
+      "value": "Kleisthenes"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Clístenes"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kleisthenés"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kleisthenes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleisthenes von Athen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλεισθένης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleisthenes"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Klisteno de Ateno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Clístenes de Atenas"
+    },
+    "et": {
+      "language": "et",
+      "value": "Kleisthenes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کلئیستنس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kleisthenes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Clisthène"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Clístenes de Atenas"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κλεισθένης"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Kleisthenes vo Athen"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלייסתנס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kleiszthenész"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կլիսթենես"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Քլիսթենիս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kleisthenes"
+    },
+    "is": {
+      "language": "is",
+      "value": "Kleisþenes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Clistene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレイステネス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კლისთენე"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Клисфен"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "클레이스테네스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Clisthenes Atheniensis"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Реформите на клистен во атина"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "کلیستنس"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kleisthenes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Clisthenes van Athene"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Kleisthenes"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Cleisthenes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Klejstenes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Clístenes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Clístenes"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Clistene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клисфен"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Cleisthenes"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Klisten"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kleisthenes"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Klejsten"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kleisteni"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Клистен"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Клистен"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Klisten"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kleisthenes"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கிளீசுத்தனீசு"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kleistenes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клісфен"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "قلیستھانس"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Clisten"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "კლისთენე"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "克里斯提尼"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "克里斯提尼"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "克里斯提尼"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "克里斯提尼"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "克里斯提尼"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "克里斯提尼"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "克里斯提尼"
+    }
+  },
+  "lastrevid": 17554203,
+  "modified": "2025-09-17T11:02:51Z",
+  "ns": 860,
+  "pageid": 165499,
+  "sitelinks": {},
+  "title": "Item:Q137114",
+  "type": "item"
+}

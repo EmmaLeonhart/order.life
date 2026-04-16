@@ -1,0 +1,368 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fausta Cornelia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139717$BFCFED24-E2EF-4BC9-BB4E-2AA4ED11D443",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736094"
+          },
+          "hash": "713495c2a3247811ae9247f25e0f0f13c9e46b84",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139717$02303CD0-E009-41F1-9CB4-F57710161F58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141419",
+              "numeric-id": 141419
+            }
+          },
+          "hash": "8fad03955b2cd8698b50b2a6fd552234e54113f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139717$C9CA5F1B-F474-4B2B-A1F8-B4F27A774177",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139717$32113644-9951-4A4B-8508-E1CE574FEDB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139717$7C6C5918-348D-4E0F-BCBC-A21C633B4579",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139565",
+              "numeric-id": 139565
+            }
+          },
+          "hash": "72dfef284eb235bdf436df1d908af8de5e20601a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139717$FF706A5A-A801-4A68-B2F5-EE63AB67722D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141609",
+              "numeric-id": 141609
+            }
+          },
+          "hash": "fc4cd665d3be928e897d6d6711af3fbb30573a5a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139717$9FF5F804-7F84-4DAF-B4DB-6F3503AA44BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72478",
+              "numeric-id": 72478
+            }
+          },
+          "hash": "cce19794a0a0f99f4de88c8fb9b50ec3bb689a18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139717$D25D59B0-FE61-4CE0-A8AF-D2CBDDBFB888",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72475",
+              "numeric-id": 72475
+            }
+          },
+          "hash": "8403df1cd2f971011d570066d693bf2d5a216d74",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139717$CBBB0BD4-07FB-4FAB-9204-C9C1B284CB91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139717$69310076-FF34-4535-BBEE-C7C9F64C6AF6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0030-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "09b7ea067b4122e2b4610f8d39dc86e2c1072792",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139717$1923D808-3B77-4475-90D0-73F372ED27AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q162456"
+          },
+          "hash": "c9e8880c9de5fb948b17c5ec60a16549f76e2396",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139717$647ABAA4-CF15-4AC9-AECD-D25CA5375115",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Fausta Cornelia"
+          },
+          "hash": "8fd4118889f10ef41d15e3cad60ad233538a018f",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139717$00605882-5951-4DDD-B78F-64C53DC373D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fausta Cornelia Arms.svg"
+          },
+          "hash": "1364ffa56b08a6bdc16a7f53aeaaf76145b0f6a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter des römischen Diktators Sulla"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Sulla"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Sila"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Sulla"
+    },
+    "he": {
+      "language": "he",
+      "value": "בתו של סולה"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dochter van Lucius Cornelius Sulla"
+    }
+  },
+  "id": "Q139717",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Корнелия Фауста"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fausta Cornèlia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cornelia Fausta"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φαύστα Κορνηλία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fausta Cornelia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fausta Cornelia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fausta Cornelia"
+    },
+    "he": {
+      "language": "he",
+      "value": "פאוסטה קורנליה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fausta Cornelia Silla"
+    },
+    "la": {
+      "language": "la",
+      "value": "Fausta Cornelia"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Fausta Cornelia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cornelia Fausta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Корнелия Фауста"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fausta Cornelia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фауста Корнелія"
+    }
+  },
+  "lastrevid": 17558359,
+  "modified": "2025-09-17T12:01:53Z",
+  "ns": 860,
+  "pageid": 168102,
+  "sitelinks": {},
+  "title": "Item:Q139717",
+  "type": "item"
+}

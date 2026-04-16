@@ -1,0 +1,287 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mariamne"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141681$3304CE1E-2174-4BEB-90D6-5564386D5A9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737998"
+          },
+          "hash": "c09bf716eb37ed8dc1bc0dd0595ae71fa14914a5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141681$72E175C1-5C4F-47A8-B517-E5C1679B1308",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144316",
+              "numeric-id": 144316
+            }
+          },
+          "hash": "c619da6191c0f5173bb47f8e692f96dafc939bc9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141681$EE568F45-6ABB-48ED-B964-FEAF02C22ADA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141681$88A6FFA2-F8A5-4296-98AD-E83DD2ED7DB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141681$B7821F01-E4A8-49EC-BC73-886302976152",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141687",
+              "numeric-id": 141687
+            }
+          },
+          "hash": "97dc781680a43e26dfa1b8beb03763d812c4056b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141681$00A7B3E7-2E79-49D5-9DBE-5D14E3AB4D7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139754",
+              "numeric-id": 139754
+            }
+          },
+          "hash": "7f703b37243916d6d376d5bd995d0c0fe7b653c0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141681$937F26C9-6802-4061-BBD7-F65D106AABE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141681$BBBEC3E8-F16F-48D1-AE28-E04790A120D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141681$17A9DBD8-9E5D-4778-BBB6-E0AEE5B1684D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10326261"
+          },
+          "hash": "8673044f49ba2513bc7487e82ac119cd8e5da641",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141681$AC2905FD-3449-4954-B958-D8ADA4C9D80C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mariamne Arms.svg"
+          },
+          "hash": "e2222c29c5f0531656c8e94670200f618ec42586",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Esposa d'Herodes de Calcis"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Ιωσήφ Γ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "first wife of Herod of Chalcis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse d'Hérode de Chalcis"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "prva žena Heroda Halkidskega"
+    }
+  },
+  "id": "Q141681",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Mariamne IV"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαριάμνη Ε΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mariamne"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mariamne"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mariamne"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרים בת אולימפיאס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mariamne IV"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mariamme V"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mariane (esposa de Herodes de Cálcis)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мариамна"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mariamna"
+    }
+  },
+  "lastrevid": 17561672,
+  "modified": "2025-09-17T12:50:40Z",
+  "ns": 860,
+  "pageid": 170066,
+  "sitelinks": {},
+  "title": "Item:Q141681",
+  "type": "item"
+}

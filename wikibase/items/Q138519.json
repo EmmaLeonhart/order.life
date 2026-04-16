@@ -1,0 +1,327 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aziz of Emesa"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138519$F26DAA4B-A389-4FFD-BFF0-FBED9C8EE25C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738833"
+          },
+          "hash": "4f6a872173cbf88ce485b0927094bb8a588ae642",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138519$CCC94129-4A60-4B9A-8192-259522D0B84D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138519$17ECC353-2797-4A56-B0E7-79F8D43BBECD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138519$D7C9C582-4504-4FC2-BDCB-94A29498CDB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139762",
+              "numeric-id": 139762
+            }
+          },
+          "hash": "293292f3940979faa6b05ed23b777fa0d3cd36b4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138519$CBB42755-8270-4851-9C52-D3A9A901C83F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70784",
+              "numeric-id": 70784
+            }
+          },
+          "hash": "25a680da14d2c3777722aa0ace8db73865852f08",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138519$B324073E-4B64-44EB-835F-645E0FF7E5D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70817",
+              "numeric-id": 70817
+            }
+          },
+          "hash": "682421c4360808cb663b65ec100528dd8bed182e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138519$84EC0DD1-6973-414F-AF81-D11294CBFAC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138519$AF72EA2E-5753-4EEC-8ECC-405C71DDC63F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138519$81510B67-5E9D-4232-801D-E8B8C553CACA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0054-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8f2a8ecce68bd2cdc30c09c2d1da1b2faaf5434",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138519$279CA400-9632-4A83-A85C-7DB3D64DB6AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2875177"
+          },
+          "hash": "60d61d0d3a30b54fac65cc0c91601b5b68ad7856",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138519$E528F4FB-274B-45E1-B9B6-9661BE09E19B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aziz of Emesa Arms.svg"
+          },
+          "hash": "631d36039b9b33644462b9ba2286f1931d83f204",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Priesterkönig von Emesa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Priest King of Emesa"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey-sacerdote de Emesa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi d'Emèse"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך אמסה"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Emesy"
+    }
+  },
+  "id": "Q138519",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Aziz von Emesa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αζίζ της Έμεσας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aziz of Emesa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aziz de Emesa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aziz d'Émèse"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Άζιζος"
+    },
+    "he": {
+      "language": "he",
+      "value": "עזיז מלך אמסה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Giulio Azizo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aziz of Emesa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gajusz Juliusz Azizos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Azizo de Emesa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Азиз Эмесский"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Азіз Емеський"
+    }
+  },
+  "lastrevid": 17556405,
+  "modified": "2025-09-17T11:34:16Z",
+  "ns": 860,
+  "pageid": 166904,
+  "sitelinks": {},
+  "title": "Item:Q138519",
+  "type": "item"
+}

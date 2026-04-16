@@ -1,0 +1,590 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Soběslav"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141028$4C748AFE-7FD1-465F-851D-4CACC066C330",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "927850"
+          },
+          "hash": "9296d7ebbaa5c3183d15638b9f68284e9de8b7db",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141028$ECE663F9-74B4-41AC-A407-B5872DE5B0AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141028$8641FC1F-5D59-4018-BF47-469DEC9DCBED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141028$4D419840-31E6-4201-AC65-8D8F4623F434",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141027",
+              "numeric-id": 141027
+            }
+          },
+          "hash": "c66064d9e1e89cfaf9bbab92b5a1402fae3fa2e9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141028$C4B0E861-A848-42C8-BDCC-FF9CA8FD4215",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139299",
+              "numeric-id": 139299
+            }
+          },
+          "hash": "e5db23f48b1fc8302ea635d37f5e71ae262e65bd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141028$AABFEC4A-2075-4393-BD03-34AB0D1EF43B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141028$476E0BF2-A036-4A12-9E75-2390FB7D0C5C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1000-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bfaeffd93c9ae612a427a0a168b2db21b0ead38e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141028$B149A7E7-CCD3-4A41-8483-B1C166A63F68",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1004-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "29abe13eddb6446b2fd97250d28b23fb231e3cb0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141028$B929BB4C-C571-414E-AF03-769A139E15B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2296534"
+          },
+          "hash": "65f3904372dc346e10b4124676594d426942c4b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141028$9D62352E-1524-4B66-A455-463E02A7CBB6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Soběslav Arms.svg"
+          },
+          "hash": "0512ceb8ff11c68b8bdd3133974ed84fc1a869a0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "člen rodu Slavníkovců"
+    },
+    "de": {
+      "language": "de",
+      "value": "Regent der Slavnikiden, letztes Mitglied des Geschlechts"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bohemian nobleman (c. 950 – 1004)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Boheemse edelman"
+    }
+  },
+  "id": "Q141028",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Soběslav"
+    },
+    "an": {
+      "language": "an",
+      "value": "Soběslav"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Soběslav"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Soběslav"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Soběslav"
+    },
+    "br": {
+      "language": "br",
+      "value": "Soběslav"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Soběslav"
+    },
+    "co": {
+      "language": "co",
+      "value": "Soběslav"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Soběslav"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Soběslav"
+    },
+    "da": {
+      "language": "da",
+      "value": "Soběslav"
+    },
+    "de": {
+      "language": "de",
+      "value": "Soběslav"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Soběslav"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Soběslav"
+    },
+    "en": {
+      "language": "en",
+      "value": "Soběslav"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Soběslav"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Soběslav"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Soběslav"
+    },
+    "es": {
+      "language": "es",
+      "value": "Soběslav"
+    },
+    "et": {
+      "language": "et",
+      "value": "Soběslav"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Soběslav"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Soběslav"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Soběslav"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Soběslav"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Soběslav"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Soběslav"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Soběslav"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Soběslav"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Soběslav"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Soběslav"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Soběslav"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Soběslav"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Soběslav"
+    },
+    "id": {
+      "language": "id",
+      "value": "Soběslav"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Soběslav"
+    },
+    "io": {
+      "language": "io",
+      "value": "Soběslav"
+    },
+    "it": {
+      "language": "it",
+      "value": "Soběslav"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Soběslav"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Soběslav"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Soběslav"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Soběslav"
+    },
+    "li": {
+      "language": "li",
+      "value": "Soběslav"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Soběslav"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Soběslav"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Soběslav"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Soběslav"
+    },
+    "min": {
+      "language": "min",
+      "value": "Soběslav"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Soběslav"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Soběslav"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Soběslav"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Soběslav"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Soběslav"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Soběslav"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Soběslav"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Soběslav"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Soběslav"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Soběslav"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Soběslav"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Soběslav"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Soběslav"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Soběslav"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Soběslav"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Soběslav"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Soběslav"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Soběslav"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Soběslav"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Soběslav"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Soběslav"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Soběslav"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Soběslav"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Soběslav"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Soběslav"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Soběslav"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Soběslav"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Собіслав"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Soběslav"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Soběslav"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Soběslav"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Soběslav"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Soběslav"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Soběslav"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Soběslav"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "索别斯拉夫"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "索别斯拉夫"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "索别斯拉夫"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "索別斯拉夫"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Soběslav"
+    }
+  },
+  "lastrevid": 17560645,
+  "modified": "2025-09-17T12:35:26Z",
+  "ns": 860,
+  "pageid": 169413,
+  "sitelinks": {},
+  "title": "Item:Q141028",
+  "type": "item"
+}

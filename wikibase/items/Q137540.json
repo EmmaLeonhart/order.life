@@ -1,0 +1,391 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eric Stenkilsson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q137540$C6F62F36-3383-4BCE-8F2E-99C0CE10497B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Steinkilsson-1"
+          },
+          "hash": "0ff98d0c2b3262860e20a9c5d7e18b27f851d101",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137540$ED642046-E4DD-4372-8567-3D00728B9078",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137540$E3743ABF-1686-41F5-8891-C366A9BDBC42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137540$7CD8D0CE-143B-42BA-B92C-5AEEDEC60319",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137050",
+              "numeric-id": 137050
+            }
+          },
+          "hash": "104159ea9aa2eb1eef6c4cea81f5f42430cb0e64",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137540$9A96A7D8-2A62-457A-8BFF-CB28B6DDDF81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137540$01620F4E-F9AC-48A9-9114-55FA8F9BB269",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1055-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aef629ddd31bdfa1d27d15b8e9ebd97a8b03f04f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137540$08FD20A7-2325-436D-A078-8817FA1F94F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1067-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fb2f544aaeeba5c1947d5d406ebae15efee57f9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137540$ED3FDB04-C77E-4934-B011-51D552A0C58B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1049817"
+          },
+          "hash": "7f7202b74ffcbd0999f0aa2b5d68930d3a38f46f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137540$2658A8C5-25D9-413B-B1C6-18915DCC8EC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002187757470"
+          },
+          "hash": "005feda32b97538810721eea5ce7812e51a285c4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q137540$46899D73-BC8C-467E-9511-7D463CE8BE2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=erik vii;n=ragnvaldsson"
+          },
+          "hash": "297694e8e08513ce2488d8bebf039cbe1bb4973d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137540$E7DDA638-D52D-4124-A65C-D2ECF5ECE4E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eric Stenkilsson Arms.svg"
+          },
+          "hash": "876fdcc3b70f2e2ff0d1e920f91418889fe74adc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "кароль Швецыі (1066—1067)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "švédský král"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Sweden (1066-1067)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Suède en concurrence (1066-1067)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Svédország királya"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Svezia (r. 1066-1067)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Szwecji w XI wieku"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "antaget namn på svensk tronpretendent"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç kralı (1055-1067; hd. 1066-1067)"
+    }
+  },
+  "id": "Q137540",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Эрык VII Стэнкільсан"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Erik Stenkilsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Erik Stenkilsson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eric Stenkilsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eric Stenkilsson"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Eriko la 7-a de Svedio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Erico VII Stenkilsson"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Erik Stenkilsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Éric VII de Suède"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VII. Erik svéd király"
+    },
+    "it": {
+      "language": "it",
+      "value": "Erik VII di Svezia"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Ēriks VII"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Erik Stenkilsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Erik Stenkilsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Erik VII van Zweden"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Eryk Stenkilsson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Érico VII da Suécia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Érico VII da Suécia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эрик VII"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Erik Stenkilsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Erik Stenkilsson"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Erik Stenkilsson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ерік VII Стенкілсон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃里克七世 (瑞典)"
+    }
+  },
+  "lastrevid": 17554905,
+  "modified": "2025-09-17T11:12:43Z",
+  "ns": 860,
+  "pageid": 165925,
+  "sitelinks": {},
+  "title": "Item:Q137540",
+  "type": "item"
+}

@@ -1,0 +1,400 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Memmius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139565$7EBB9405-109E-48E2-805F-351D8E2E6799",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736093"
+          },
+          "hash": "39088ab83e74ab12242982461eed73797c3f4b0a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139565$87CCA8C0-AACA-47D9-B068-6B08996365EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141419",
+              "numeric-id": 141419
+            }
+          },
+          "hash": "8fad03955b2cd8698b50b2a6fd552234e54113f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139565$CF939C60-2BC1-4DEE-A575-72F87F0E33B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139565$B946DC78-EF28-4B09-B0A1-8F92FA073039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139565$23D21C36-90D3-4229-95FE-448D8F821924",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139717",
+              "numeric-id": 139717
+            }
+          },
+          "hash": "ccdf5bdfc35eaf7184bf89a591f0dffdfdff54b6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139565$94E42D22-C043-4A2D-A388-7F399CBB6201",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139564",
+              "numeric-id": 139564
+            }
+          },
+          "hash": "1d3d91c1bac2a256205c55511020a4e88572f9cf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139565$0E66EAA5-CC95-4E15-A85F-641BC24AFF95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139565$3848EFCC-B7F2-487A-B308-D0715F2E0ED7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0099-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b135c070a2821c109d63fde0e31320f41d3eca1e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139565$CD959807-1385-4441-AF89-CDEE8BC6EC53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0046-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ef165a8493925e1cfd1938308c9a8655957e53ca",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139565$5F7AF127-84CC-47A3-BD71-C40624105803",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2472899"
+          },
+          "hash": "696677a6707b9dece72ca2a760fb0a8c1cca06de",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139565$8E51810B-6A99-4CDF-9BF2-4BED73E87F87",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Memmius"
+          },
+          "hash": "ac4c5930408d9447d0ca2ec89b579d4f0713d90a",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139565$920F34E6-8E51-43DC-A7A8-A9CD82711EFB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Memmius Arms.svg"
+          },
+          "hash": "a2e880197a389aec6d10b8e35597d6e0bc08e7a0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician, orator and poet"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poète et homme politique romain, préteur en 58 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "la": {
+      "language": "la",
+      "value": "politicus, poëta"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (99v Chr-46v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "народный трибун 66 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q139565",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غايوس ميميوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Мемий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Memmi Gemel"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gaius Memmius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Memmius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Μέμμιος (πραίτωρ το 58 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Memmius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Memio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Memmius"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיוס ממיוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gai Memmi Gemel"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Memmio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Memmius"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gaius Memmius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gaius Memmius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Memmius Gemellus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Gaius Memmius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gajusz Memmiusz"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Меммий"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Memmius"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gaius Memmius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Меммій Гемел"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "迈密乌斯"
+    }
+  },
+  "lastrevid": 17558111,
+  "modified": "2025-09-17T11:58:22Z",
+  "ns": 860,
+  "pageid": 167950,
+  "sitelinks": {},
+  "title": "Item:Q139565",
+  "type": "item"
+}

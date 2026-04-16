@@ -1,0 +1,428 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nominoe"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q140899$F0E829FC-1FF8-4164-B182-CA41EA78F992",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "141024|1371288"
+          },
+          "hash": "562cc1dbf82f705a1b1d8c17817c428284db1620",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140899$707EA45E-D397-4DDC-9216-4F67F5B0E591",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126149",
+              "numeric-id": 126149
+            }
+          },
+          "hash": "9c1cced22d9dcd6062c2ec9b7a8a93f2b19fe3cc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q140899$A4D33D63-C480-4C73-B540-2A79E791991D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bretagne-186"
+          },
+          "hash": "ad34e56b3dd383c0a97faebde084406303cf7876",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140899$2E6C2578-8B4D-47A3-AEAB-ADB60B5524E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140899$182BB18E-F736-4E20-B2DD-F67B0500D534",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q140899$0D4FCC39-C4B6-42AE-8A2A-664CBD931897",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Nominoe_(1)"
+          },
+          "hash": "6d275a1d928caa70bd51c4137fb54608047d9a6c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140899$630F9D58-4111-4710-8C02-3E477211643B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140899$A5D6821C-86D5-485D-9E81-FAA6C45D687F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0800-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d240ab2ead5742a62e159c6c19ff3d25f3c4d8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q140899$0682CD86-832A-4815-A14E-36D74AD0AB62",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0851-03-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d57c0f50e36b42e99ce5add9d05498dc601d19d3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140899$58CC7D51-EFEC-47D4-A4DE-5DF0892071A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q467708"
+          },
+          "hash": "b5a1e20c3a5448d9d44fc7c8da35b2bfc2445cca",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q140899$EC4237BF-52D6-453B-AF2F-0300AC9B48F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=nominoe;n=de bretagne"
+          },
+          "hash": "478eb52a26645fbb64468104c494a3a98d16ec3d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140899$B98FCAF5-C829-44F1-B5F8-2B5B6D837053",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nominoe Arms.svg"
+          },
+          "hash": "6ca472232696792d656db6ae293e56ecdc3d7c2f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "br": {
+      "language": "br",
+      "value": "penn Breizh, Missus an Impalaer, Priñs Breizh"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "primer rei de Bretanya"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin Llydaw gyfan"
+    },
+    "de": {
+      "language": "de",
+      "value": "bretonischer Fürst"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke and Prince of Brittany"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain breton"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "nobre bretón, primeiro gobernante da Bretaña"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "diuc y Vritaan"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "бретонски војвода"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "hertig av Bretagne"
+    }
+  },
+  "id": "Q140899",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "نومينى"
+    },
+    "br": {
+      "language": "br",
+      "value": "Nevenoe"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nominoe"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Nevenoe"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nominoë"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νομινόης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nominoe"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Nevenoeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nominoe"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Nominoë"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nominoë"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Nominoë"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Nominoe"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Nevenoe"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Nominoe"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Nevenoe"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nominoë"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ノミノエ"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Nevenoe"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Номиное"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nominoë"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nominoe"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nominoë"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Nominoë"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Номиноэ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nominoe"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Nominoe"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Номиное"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nominoe av Bretagne"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Номіное"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "诺米诺埃"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "诺米诺埃"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "諾米諾埃"
+    }
+  },
+  "lastrevid": 17560583,
+  "modified": "2025-09-17T12:34:28Z",
+  "ns": 860,
+  "pageid": 169284,
+  "sitelinks": {},
+  "title": "Item:Q140899",
+  "type": "item"
+}

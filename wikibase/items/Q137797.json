@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Ευσέβιος (ύπατος το 359)"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Eusebius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137797$D3727A06-E9F7-4BC9-A418-497EF1CAE384",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137797$92EBC32E-587D-4F0C-BEA5-82708D0D5B8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137797$5361039E-FF97-4493-B366-924D89A8992A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137249",
+              "numeric-id": 137249
+            }
+          },
+          "hash": "1c21f197f11fb973c4841496c1831a0d5418321e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137797$EBA53AF2-016F-439F-9FB2-A7696452593F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137797$7FE4F9A0-8F6E-4DD4-B19A-5BB14E9BD536",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137797$553F85B9-E320-46E8-A050-76CD9D1242B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q716670"
+          },
+          "hash": "fa04ed55d6cefcde2176b886f6296bd8389bdf4e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137797$8E49FF64-D244-4E1F-BFEF-E66A9E7D6ADE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eusebius Arms.svg"
+          },
+          "hash": "99a7e5d66661f1b0d1ce72fdfb97178170e8cc9d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Cònsol (359)"
+    },
+    "de": {
+      "language": "de",
+      "value": "spätantiker, römischer Beamter; Konsul 359"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος συγκλητικός, ύπατος το 359"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul (359)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 359"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q137797",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Евсевий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Flavi Eusebi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eusebius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ευσέβιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eusebius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eusebio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eusebius"
+    },
+    "he": {
+      "language": "he",
+      "value": "אוסביוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Flavio Eusebio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Flavius Eusebius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eusebius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Флавий Евсевий"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Флавій Євсебій (консул 359 року)"
+    }
+  },
+  "lastrevid": 17555263,
+  "modified": "2025-09-17T11:17:51Z",
+  "ns": 860,
+  "pageid": 166182,
+  "sitelinks": {},
+  "title": "Item:Q137797",
+  "type": "item"
+}

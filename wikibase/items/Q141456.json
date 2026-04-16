@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Lentulus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141456$0911F4DB-0738-4345-8842-C51057232E9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465109"
+          },
+          "hash": "ea4e177738a4bc349011e9f022750729a9546947",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141456$B6F6EE00-10AC-468B-98B8-EDE8E10E7925",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144107",
+              "numeric-id": 144107
+            }
+          },
+          "hash": "9500e3e369061046afeb07d5519ad81388a18ec8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141456$602E0E77-A517-4297-9143-DD11DDE4F97A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141456$6465BFE5-BE29-4D09-8A93-298DE0851E73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141456$17D331BD-8C4D-4859-8D06-17C875A4DFC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141387",
+              "numeric-id": 141387
+            }
+          },
+          "hash": "279ced75ece72467849a374492f74365c86e3459",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141456$06D08FD5-22E0-4386-99F6-310C9E2C042B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141455",
+              "numeric-id": 141455
+            }
+          },
+          "hash": "2be62661340902755e07d6574302e46958ca9882",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141456$D31F82CC-E0BB-4E59-8E05-25E15E0D86E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141456$2E4B2F3C-8CB7-4784-A0FD-D505FD5713E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecde69b1f925ad90303f1a646574b6ab30ed130e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141456$895614B9-2A55-4B7A-A6E3-AF8472FAA03D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4269984"
+          },
+          "hash": "96a11f54bab6ba88eaa808e7433ee72a2a0745e9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141456$C8C538E5-2EDD-467A-879A-5E4DAF8F2E98",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Lentulus Arms.svg"
+          },
+          "hash": "d064a1507c08d3908510a8a2e82ce889d70e6dab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "flamen of Mars and supporter of Julius Caesar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, père de Lucius Cornelius Lentulus (consul en 3 av. J.-C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q141456",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Luci Corneli Lèntul"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Lèntul (sacerdot)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Léntulo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Lentulo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Lentulus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Лентул (I век до н. э.)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Лентул"
+    }
+  },
+  "lastrevid": 17561318,
+  "modified": "2025-09-17T12:45:41Z",
+  "ns": 860,
+  "pageid": 169841,
+  "sitelinks": {},
+  "title": "Item:Q141456",
+  "type": "item"
+}

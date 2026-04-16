@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Llywelyn ap Merfyn"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137279$4B332350-AEED-4F52-A371-45C80FAE34AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "121940"
+          },
+          "hash": "a409652bf4fa8687aecc83ad396618388c55af2e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137279$2BD97C25-E8E3-4ABB-8E71-E9ABF68ED945",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Merfyn-21"
+          },
+          "hash": "47116cdf7c3af1d1a809e1440072b79ba0365631",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137279$CDB33C84-6BD1-47FF-8ECE-9D31C7CA11AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137279$9C8B0BFF-60F9-4FBF-ACBC-A26203933D14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137279$11E1303A-DF84-4018-A637-33111273C6C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Llewelyn_Merfyn_(1)"
+          },
+          "hash": "7ab6f1c9d7a63dc22ae868002d7bf23d8945eca6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137279$FDAD0988-D71B-47BB-8069-4F5152806EE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136879",
+              "numeric-id": 136879
+            }
+          },
+          "hash": "d5fc215d30d21c41fd5ec12c042ec3e14898b8ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137279$C24985A9-4EDB-49FC-B3A7-24CBF65742FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137279$0B7B720E-D48F-4680-B8F7-729B4DDA469E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0880-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ad3af04582c37bc149559eb147ac753b287fc169",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137279$0F35E458-B2B4-4FF5-991D-38C4AA4CB70E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0942-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f1f4cb0d351ccb0f7bc3b93904def2e873a3a6c9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137279$F80D4862-4400-456B-8AF2-06FA3EC6CA30",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2343906"
+          },
+          "hash": "3d48111f5f8e491a5b3dff0a7d4eabb8a06ffafe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q137279$6C7C5F13-EBDC-4309-B11A-289EEA5A7881",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=llywelyn;n=of powys"
+          },
+          "hash": "494cfcb958a55f320a601e9d18d6126e55b371e8",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137279$FD361566-492B-4109-87E9-E6924E1158A9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Llywelyn ap Merfyn Arms.svg"
+          },
+          "hash": "e1d8bb068d766475044d309fa901abc5662a4d0f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "ehemaliger König von Powys"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Powys"
+    }
+  },
+  "id": "Q137279",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "be": {
+      "language": "be",
+      "value": "Лівелін ап Мервін"
+    },
+    "br": {
+      "language": "br",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "en": {
+      "language": "en",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "es": {
+      "language": "es",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サウェリン・アプ・メルヴィン"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Livelinas ap Merfinas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лливелин ап Мервин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Llywelyn ap Merfyn"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卢埃林·阿普·梅尔温"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卢埃林·阿普·梅尔温"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "盧埃林·阿普·梅爾溫"
+    }
+  },
+  "lastrevid": 17554483,
+  "modified": "2025-09-17T11:06:50Z",
+  "ns": 860,
+  "pageid": 165664,
+  "sitelinks": {},
+  "title": "Item:Q137279",
+  "type": "item"
+}

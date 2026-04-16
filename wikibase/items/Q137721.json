@@ -1,0 +1,479 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Phraates III of Parthia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137721$70A26C2E-1CB7-46F0-8E9E-26AC8216630D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717529"
+          },
+          "hash": "42285092882551428b428cddbd0f93dbfcc07fe7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137721$AACB763E-5A7F-4580-B365-38B5D393C055",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137168",
+              "numeric-id": 137168
+            }
+          },
+          "hash": "a3d13343ab8c17b1a743e99926bcc5f192c3217d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137721$4DB8E224-3234-4248-8F6C-3F9F6DD93902",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137722",
+              "numeric-id": 137722
+            }
+          },
+          "hash": "cb02aa9dab9c479d43c0df8d9e8a2ba95f238a63",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137721$A15168FE-86BD-4479-9E81-2AC91B697455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137721$323B7687-A0E3-4CA0-B8BC-2F7E1DD254BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137721$55CBD577-13D4-49BE-BD40-21ACCB4D0169",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Phraates_III_of_Parthia_(1)"
+          },
+          "hash": "94392a2e0bda58a11b3333e61393892d714fdcfa",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137721$42450565-25D0-4EC1-A6BA-5493147E8EBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137660",
+              "numeric-id": 137660
+            }
+          },
+          "hash": "28e0cd806996519105aa4f76cf5a8660dd3829e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137721$BC0B0BF3-384F-4D24-AD8E-9E06CC3AB35F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137721$630FE3DC-A975-4D2F-AA1A-2E8E53863130",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137721$5938B398-D96E-4DCA-AEEE-8812EAFEF97C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0057-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe9f66f812e001226998b820ccb9ae827fce6e5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137721$94BFA346-0D85-4B6C-9E70-E5E482D03D8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q310978"
+          },
+          "hash": "be2bb0392773f1f6953b9670a2814cbb6927bfd3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q137721$D61EB475-B01D-4785-AEF8-48B12E012F2E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52230"
+          },
+          "hash": "79c76efa5551c87dfac2283037a88f8231d0c2ce",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137721$B233CA74-F551-4558-8353-D36D80128070",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Phraates III of Parthia Arms.svg"
+          },
+          "hash": "4e6f123436c8155f07063eff998b9fdb0a7f507c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "konge i Partherriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "parthischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "Parthian emperor (70 BC - 57 BC)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "grand roi arsacide (69-57 av. J.-C.)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "pártus király"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero partico (r. 70-57 a.C.)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Part kıralı"
+    }
+  },
+  "id": "Q137721",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Fraates III van Partië"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "فراتس الثالث"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фраат III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fraates III de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fraatés III."
+    },
+    "da": {
+      "language": "da",
+      "value": "Fraates 3."
+    },
+    "de": {
+      "language": "de",
+      "value": "Phraates III."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Phraates III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Φραάτης Γ’ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Phraates III of Parthia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Phraates III of Parthia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Phraates III of Parthia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Fraato la 3-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fraates III de Partia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Praates III.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فرهاد سوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Phraatès III"
+    },
+    "he": {
+      "language": "he",
+      "value": "פראטס השלישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Fraat III. Partski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XIII. Arsak pártus király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հրահատ Գ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fraate III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フラーテス3世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ფრაატ III"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프라아테스 3세"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "فرهاد سوم"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Fraates III av Partia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Phraates III Theos"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Fraates III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Fraates III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fraates III de Pártia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fraates III de Pártia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фраат III"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fraat III od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Fraat III."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Phraates III of Parthia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фраат III од Партије"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fraates III"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Фарҳоди III"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Fraates"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фраат III"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phraates III của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "弗拉特斯三世"
+    }
+  },
+  "lastrevid": 17555145,
+  "modified": "2025-09-17T11:16:11Z",
+  "ns": 860,
+  "pageid": 166106,
+  "sitelinks": {},
+  "title": "Item:Q137721",
+  "type": "item"
+}

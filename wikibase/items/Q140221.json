@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cynwrig Fychan ap Cynwrig ab Ithel Fychan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140221$5F44F101-E3D6-42D7-9341-245C2FC87208",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00311467"
+          },
+          "hash": "5cbdfea5a55928e9d68edfde6417ae15ae7ed2a0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140221$1BCA92E7-76EB-47CB-9A02-4F0C06132FFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140225",
+              "numeric-id": 140225
+            }
+          },
+          "hash": "b8bb4cc39c87735ae1fd8bb4a7266d5a633e7ad2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140221$727FCB2C-68F6-4807-A2F2-9F8332D1123C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140226",
+              "numeric-id": 140226
+            }
+          },
+          "hash": "aba016c918744e0afb44f39ff202a1253c7229b9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140221$49802920-E37C-4B4A-83ED-ECDB48098618",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142372",
+              "numeric-id": 142372
+            }
+          },
+          "hash": "51fed5ad91e5bb8f7a77462e81aeb2eb5258cab4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140221$7D363787-2584-41E5-98D1-850BAC59DEB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140221$C0B384AA-B4C7-4B29-9F29-E5B6F45FEC72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140221$5F0A96BA-395B-4447-BF4E-547BB7A0F89E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138801",
+              "numeric-id": 138801
+            }
+          },
+          "hash": "5b19dccfbfd3a911608b69a118d263887feff103",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q140221$C328102F-942E-4B4D-8077-7304102E9B6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140437",
+              "numeric-id": 140437
+            }
+          },
+          "hash": "cbd13d97cf9340c30b5dd26e4fe9c85aa14f65c9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140221$0B82A15E-03E4-4D35-AA1F-28E08AC0AF4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140221$7B6562B6-C642-4653-BEEF-746F88E2B4E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110636815"
+          },
+          "hash": "ca0f62877c5cab28bdb49fc8149a9fe050bdc830",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q140221$551ADA2F-F4BE-4E41-98A9-DAA6211740E0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Cynwrig Fychan ap Cynwrig ab Ithel Fychan"
+          },
+          "hash": "76f4e0e39e6ae623d03026f82e1176e14b2da93c",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140221$E977BA9F-06ED-4E12-8382-9CC77DD95D35",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cynwrig Fychan ap Cynwrig ab Ithel Fychan Arms.svg"
+          },
+          "hash": "a468e77136b4ca827e7af5d556571444dde3a05c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q140221",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Cynwrig Fychan ap Cynwrig ab Ithel Fychan"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Cynwrig Fychan ap Cynwrig ab Ithel Fychan"
+    }
+  },
+  "lastrevid": 17559273,
+  "modified": "2025-09-17T12:15:04Z",
+  "ns": 860,
+  "pageid": 168606,
+  "sitelinks": {},
+  "title": "Item:Q140221",
+  "type": "item"
+}

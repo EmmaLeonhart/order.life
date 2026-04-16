@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhianwen ferch Ednyfed ab Eingar"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140136$87C1C7A3-D954-48FC-8817-A6BC6164C3F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759036"
+          },
+          "hash": "3bd1ae3f4f6ecc8be667f45ef3206a5ae16ee6ba",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140136$F6554B80-3B0C-4FD2-9B11-CFD5F7E584C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138765",
+              "numeric-id": 138765
+            }
+          },
+          "hash": "7f0e67fcefb3e6c3b9463533b81ebbcec9db5b31",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q140136$05D00DB9-4E5A-4AAF-8F6F-702B2401D12D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Ednyfed-6"
+          },
+          "hash": "1739cfcee73a7f1eda385d1e5de3bce6096a8d94",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140136$25E186A2-FAED-4051-9666-F6109EFCA06C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140136$F9953A42-2F2D-41FC-9710-1B2ACB992748",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140136$1AF3F4B8-DFA0-45D5-A2EB-FB2305E37EF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139935",
+              "numeric-id": 139935
+            }
+          },
+          "hash": "4fa93a839cec4eae0f0ac64d8c9dc0e4e1a3611a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140136$F31CBB26-FFA5-4409-9E57-20D4E93B5290",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142178",
+              "numeric-id": 142178
+            }
+          },
+          "hash": "7d4dcd54925f0643f9ab73d393d782695f516893",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140136$20A8492E-50E6-424F-A7C6-CA3F85CF103C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140136$DE11D4BB-F704-4182-AB4F-19BA688D6DB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1010-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb1afa6144b95c79774fa2b2f6a37f1d223ee63e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140136$456A781E-5690-4CE1-8B7A-2153BCBCE0E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110152908"
+          },
+          "hash": "1420babc49ba44b560303ec9a0cca2dac5f37e92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q140136$AC91FFA0-1A34-4A4C-B929-40B6AF465EF4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhianwen ferch Ednyfed ab Eingar"
+          },
+          "hash": "9b525b9bd8176744f3c79d84e9d739f6858d5a45",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140136$597AF35B-FA95-415F-9421-AF81FAF94BB3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhianwen ferch Ednyfed ab Eingar Arms.svg"
+          },
+          "hash": "c35b2c8d4bdfab963ccb339961d91bb93fbb651e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1010 -"
+    }
+  },
+  "id": "Q140136",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rhianwen ferch Ednyfed ab Eingar"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Rhianwen ferch Ednyfed ab Eingar"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rhianwen ferch Ednyfed ab Eingar"
+    }
+  },
+  "lastrevid": 17559103,
+  "modified": "2025-09-17T12:12:38Z",
+  "ns": 860,
+  "pageid": 168521,
+  "sitelinks": {},
+  "title": "Item:Q140136",
+  "type": "item"
+}

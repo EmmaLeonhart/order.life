@@ -1,0 +1,339 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Llywelyn Bren"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138857$E4C71622-E69C-4501-9C04-B3FCC5D82FC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764519"
+          },
+          "hash": "66b040e3df7c3f6e8d084d684acebe17929ba3e9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138857$2CCEB84D-9FD1-43C2-A711-8A9329CC9FCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140318",
+              "numeric-id": 140318
+            }
+          },
+          "hash": "75369967217975539759dfa1e037e57cc29041bf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138857$32D20004-2FF9-4FA8-B22E-8A894F5ECEBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138857$3B5DC945-F22B-42EB-8B2C-C115EF8C285D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138857$0EBCE213-43CA-4D85-AD8A-EA30B7D507E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142545",
+              "numeric-id": 142545
+            }
+          },
+          "hash": "949246d01944a209172ed596fcf1a762c6079a30",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138857$B026F6FE-6CE5-470D-A8FF-3787778647ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137956",
+              "numeric-id": 137956
+            }
+          },
+          "hash": "bd4ceb836cfde2c0a9385acffde226ea5903d071",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138857$13E434EE-841A-4B39-88ED-3BD8BE479109",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138857$01014AB0-CEB8-4922-9DBA-3D2FFC9A62E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1267-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b3c27b5ff7a489072e83c35f26adcefd9032c43",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138857$B074D985-302B-4C75-B9B1-56C404E2E6D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1318-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f77e013274570a736150724b6d34b110cd723477",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138857$CD8E6C5F-B168-4883-A041-5E2273D46998",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1088032"
+          },
+          "hash": "5740e3f4ecfcfb0b434adedcd2e53c4be4672cea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138857$07A9C1C9-C5F5-46CC-A569-846B05BF46EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Llywelyn Bren Arms.svg"
+          },
+          "hash": "8884afeb9388a7ff8d0c02f1eb717f58eb4dd3db",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "revolucionariu galés (1267–1318)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "bonheddwr Cymreig"
+    },
+    "de": {
+      "language": "de",
+      "value": "walisischer Adliger und Rebellenführer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble et rebelle gallois"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "uasal Breatnach"
+    },
+    "it": {
+      "language": "it",
+      "value": "rivoluzionario gallese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "revolutionair uit Wales (1267-1318)"
+    }
+  },
+  "id": "Q138857",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Llywelyn Bren"
+    },
+    "br": {
+      "language": "br",
+      "value": "Llywelyn Bren"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Llywelyn Bren"
+    },
+    "de": {
+      "language": "de",
+      "value": "Llywelyn Bren"
+    },
+    "en": {
+      "language": "en",
+      "value": "Llywelyn Bren"
+    },
+    "es": {
+      "language": "es",
+      "value": "Llywelyn Bren"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Llywelyn Bren"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Llywelyn Bren"
+    },
+    "it": {
+      "language": "it",
+      "value": "Llywelyn Bren"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リュウェリン・ブレン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Llywelyn Bren"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Llywelyn Bren"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Llywelyn Bren"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лливелин Лесной"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Llywelyn Bren"
+    }
+  },
+  "lastrevid": 17557037,
+  "modified": "2025-09-17T11:43:16Z",
+  "ns": 860,
+  "pageid": 167242,
+  "sitelinks": {},
+  "title": "Item:Q138857",
+  "type": "item"
+}

@@ -1,0 +1,362 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Manlius Torquatus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141524$926CED57-53F0-43ED-A86C-2C02D879130C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139644",
+              "numeric-id": 139644
+            }
+          },
+          "hash": "57e053c917564e584d7153973fb5f2f117859d2a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141524$0F6C2D86-92E3-4297-9847-229C1714A475",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141525",
+              "numeric-id": 141525
+            }
+          },
+          "hash": "e637ab59738ddc3df810b5d1a67bdc584d27b84d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141524$94285186-3EA8-4AE3-80DD-4C5AA2C35AEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141524$3423B1BF-CEE8-48C6-96FD-4E23172F3C93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141524$B0B32237-3A67-4E10-B5FE-BFEC48599FB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144175",
+              "numeric-id": 144175
+            }
+          },
+          "hash": "6f790f546669e5f96bc61bf29913664a63fa9067",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141524$4C7E82BF-7B00-4E6A-A530-DAB387227484",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141524$6BCFB9BD-F3A0-4CAB-8C4E-B4DA5CF6936F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0110-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a2e21fcfe407cca43c862cdb022b9bb4756bda4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141524$20E5DFE2-630C-47EB-ABA2-C200B3C224B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1283539"
+          },
+          "hash": "6de824c4491bbdea38558247a8b45b42922080e2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q141524$F31D5A63-0574-489E-901B-6EA730A395DF",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Manlius Torquatus"
+          },
+          "hash": "c04815edb9454de92e5ac32ee54691d1758d42df",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q141524$4353436B-C7B9-4F3C-A724-55B6B20EADFF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:25658"
+          },
+          "hash": "a5ff328f30463cdb398dd2fb6e3c781c9a763982",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141524$212ACA1E-041A-47A6-95C6-6D30329ADFC6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Manlius Torquatus Arms.svg"
+          },
+          "hash": "c684d210fe0dc8c5f92e5cc4c29d550987e28223",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Konsul 65 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 65 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 65 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 65 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 65 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-47v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 65 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q141524",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Манлий Торкват"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Manli Torquat"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Manlius Torquatus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Μάνλιος Τορκουάτος (ύπατος το 65 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Manlius Torquatus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Manlio Torcuato"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Manlius Torquatus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Manlio Torcuato"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Manlio Torquato"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・マンリウス・トルクァトゥス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Manlius Torquatus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lucius Manlius Torquatus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Manlius Torquatus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Mânlio Torquato"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Mânlio Torquato"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Манлий Торкват"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Manlije Torkvat"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Manlius Torquatus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Манлій Торкват"
+    }
+  },
+  "lastrevid": 17561422,
+  "modified": "2025-09-17T12:47:09Z",
+  "ns": 860,
+  "pageid": 169909,
+  "sitelinks": {},
+  "title": "Item:Q141524",
+  "type": "item"
+}

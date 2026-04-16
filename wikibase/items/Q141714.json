@@ -1,0 +1,585 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "James, son of Alphaeus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141714$3C60A197-D423-4382-8A05-4F0BC2867EF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "407826"
+          },
+          "hash": "aedf4e0736fc1ed240d00d22fcdcacf8502131ab",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141714$3A44D7E1-EFC5-475C-A243-80E238FCECC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141714$2295DDA1-1754-4514-B508-07390B41CB7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141714$A1144767-1E5C-4E13-957B-B0443BC35633",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139791",
+              "numeric-id": 139791
+            }
+          },
+          "hash": "c9da51adc7d9d4be8e367ccd4cd9d09e9774d162",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141714$7DE92420-D1A6-4E07-9E2F-1ED6BD0388E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141714$F92EA0C9-1135-442A-899B-DD53DCF3AC25",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141714$372CB31B-8F8C-4E89-B76C-99B9CACBFDEC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0062-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "24f80b72f8a755b36982822bb6bbfaf45a8e6bd4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141714$EA480903-54C1-4DFB-B337-4376B92BB32C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q44047"
+          },
+          "hash": "3dce5f389d5b4eef1e40c46c5d477caf41d3e6b8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141714$A12B679C-CFD7-4A40-8B21-A386946B2F74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "James, son of Alphaeus Arms.svg"
+          },
+          "hash": "7d6c8e4a4fdee9ce5165e00d8fa4e3269778718b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "apoštol, světec"
+    },
+    "de": {
+      "language": "de",
+      "value": "christlicher Apostel"
+    },
+    "en": {
+      "language": "en",
+      "value": "one of the Twelve Apostles of Jesus Christ"
+    },
+    "es": {
+      "language": "es",
+      "value": "uno de los Doce Apóstoles de Jesucristo"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "yksi Jeesuksen kahdestatoista opetuslapsesta ja apostoleista"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "apôtre du Christ, fils d'Alphée"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Apóstolo de Xesús de Nazaret"
+    },
+    "it": {
+      "language": "it",
+      "value": "uno dei Dodici Apostoli di Gesù"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "예수 그리스도의 12사도 중 한 사람"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Apostel, Hellegen"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "appostlu Kristjan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zoon van Alfeüs"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "jeden z Dwunastu Apostołów"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "apóstolo de Jesus Cristo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "apóstolo de Jesus Cristo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "один из Двенадцати Апостолов Иисуса Христа"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "apostol Jezusa Kristusa, mučenec in svetnik"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "апостол и хришћански светитељ"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "en av Jesu tolv apostlar"
+    },
+    "th": {
+      "language": "th",
+      "value": "หนึ่งในสิบสองอัครสาวกของพระเยซูคริสต์"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Một trong 12 Tông Đồ"
+    }
+  },
+  "id": "Q141714",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Sant Chaime o Menor"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يعقوب بن حلفى"
+    },
+    "arc": {
+      "language": "arc",
+      "value": "ܝܥܩܘܒ ܒܪ ܚܠܦܝ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يعقوب ابن حلفى"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Jakobus da Jüngere"
+    },
+    "be": {
+      "language": "be",
+      "value": "Якаў Алфееў"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Якаў Алфееў"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Яков Алфеев"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আল্ফেয়ের পুত্র যাকোব"
+    },
+    "br": {
+      "language": "br",
+      "value": "Jakez, mab Alfe"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jaume el Menor"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Ngā-gáuk (Ā-lĕk-pĭ gì giāng)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jakub Alfeův"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Iago fab Alffeus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jakob Alfæus’ Søn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jakobus, Sohn des Alphäus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιάκωβος ο Μικρός"
+    },
+    "en": {
+      "language": "en",
+      "value": "James, son of Alphaeus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jakobo filo de Alfeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Santiago el de Alfeo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaakobus Alfeuse poeg"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Jakue, Alfeoren semea"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یعقوب پسر حلفا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jaakob Alfeuksen poika"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jacques d'Alphée"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Naomh Séamas Beag"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Santiago o Menor"
+    },
+    "he": {
+      "language": "he",
+      "value": "יעקב בן חלפי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Jakov (mlađi) Alfejev"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jakab, Alfeus fia"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հակոբոս Ալփյան"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yakobus anak Alfeus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giacomo d'Alfeo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヤコブ"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Yakobus anak Alfeus"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იაკობ ალფესი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "야고보"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iacobus filius Alphaei"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Jacques de Jonken"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Apaštalas Jokūbas jaunesnysis"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Jēkabs (Alfeja dēls)"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Jakoba zanak'i Alfeo"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Апостол Јаков Алфеев"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അല്ഫായിയുടെ മകനായ യാക്കോബ് ശ്ലീഹാ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Yakobus, anak Alfeus"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Ġakbu bin Alfew"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Apostelen Jakob, sønn av Alfeus"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Jakobus, Söhn vun Alphäus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jakobus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Jakob, son til Alfeus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jakub, syn Alfeusza"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Giaco d'Alfé"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tiago, filho de Alfeu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tiago, filho de Alfeu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iacob cel Tânăr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иаков Алфеев"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Jakov Alfejev"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Jakub mladší"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jakob Alfefjev"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jakobi (bir i Alfeut)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јаков Алфејев"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aposteln Jakob, Alfeus son"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Yakobo Mdogo"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "அல்பேயுவின் மகன் யாக்கோபு"
+    },
+    "th": {
+      "language": "th",
+      "value": "ยากอบ บุตรอัลเฟอัส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Santiago, anak ni Alfeo"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Jakopo lili"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Ягъкуб Һалфай улы"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Яків, син Алфеїв"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یعقوب بن حلفئی"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Jàcopo menor"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Giacôbê"
+    },
+    "war": {
+      "language": "war",
+      "value": "Santiago, anak ni Alfeo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "雅各"
+    }
+  },
+  "lastrevid": 17561732,
+  "modified": "2025-09-17T12:51:32Z",
+  "ns": 860,
+  "pageid": 170099,
+  "sitelinks": {},
+  "title": "Item:Q141714",
+  "type": "item"
+}

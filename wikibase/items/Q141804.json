@@ -1,0 +1,921 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwladus ferch Llywarch ap Trahaearn"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141804$E85DB384-BA66-440C-BD53-07ED719A1D6D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "137185"
+          },
+          "hash": "9271b044fc35f0ffa64e7437c9784de6538df844",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q141804$78725367-5EA9-4B8E-964A-AAC0AC43213D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00140279"
+          },
+          "hash": "25c03a71c2dc8a9c8ca43690fbc2f11c289bf744",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141804$4A068E9D-A3C0-4AEC-8436-C03C0A1802A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127890",
+              "numeric-id": 127890
+            }
+          },
+          "hash": "c4b935266f574b4b06294aa1b7e3eb6d1b08e098",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141804$6798F334-8DA6-48CF-9D6B-B7666FFF0D4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141806",
+              "numeric-id": 141806
+            }
+          },
+          "hash": "df3e49092e6ab494aa0074219c620651e89bfc2b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141804$74C84BCC-7764-4CDB-AC90-C9457E5A576F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Llywarch-7"
+          },
+          "hash": "bb2169bea93c6faf9ea1ed8d1ae58cd66c78837b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141804$7C39F715-C62A-49B7-8A31-AA2570B0553B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141804$528FE03C-FD70-4894-92CE-C66B4116FF07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141804$2886D359-310C-45AF-869A-6B679AC81F6E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwladus_ferch_Llywarch_ap_Trahaearn_(1)"
+          },
+          "hash": "b5d2dd8db887501c3d1facaa012afb4bb6422f28",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141804$17D7490D-92D2-4F9C-9DF9-06F653F9BB1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127876",
+              "numeric-id": 127876
+            }
+          },
+          "hash": "547b077be9a95843a84309ec9dc78e2a35bd103d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q141804$7E5310FB-3297-433C-9C78-DEA82F66787D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10260.htm#i102596"
+          },
+          "hash": "842ac89dd0cc2e3ed0e7cb34051f95f1cfae94dd",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141804$674C7EA5-62FA-4930-834C-E12D068D6C38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140081",
+              "numeric-id": 140081
+            }
+          },
+          "hash": "ec6043630837bfb5466b148ba149e3ddec21e6f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141804$DD1A2C08-93E3-4AB5-B6A8-5FC5EBD21D0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140795",
+              "numeric-id": 140795
+            }
+          },
+          "hash": "354881bb86778c2df2ae4031031b924668c6c8ef",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141804$64E746CC-F8BA-40A9-A5FC-6BF9CE21B898",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141804$1E9FE723-4BD3-4598-913F-962AF4FD89E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11153639"
+          },
+          "hash": "a92dc7c46141ced04a30ac404568ade9f38cf828",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q141804$FD4B7BD8-3FFA-46ED-910D-3E28FF01D70E",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwladus ferch Llywarch ap Trahaearn"
+          },
+          "hash": "63629a9812ebac15d3d2c388308a1aa5f8dc5bb6",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141804$35F9A8E2-73E8-4748-99A0-F9F8A9390AF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gwaladus;n=ferch llywarch"
+          },
+          "hash": "42856c76e8d809ca12cb05a45a2fdface595e1c9",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141804$22D02907-52DC-48DA-9F7F-10701B3560C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwladus ferch Llywarch ap Trahaearn Arms.svg"
+          },
+          "hash": "8d2f4c030acd50551f7a390dc5aad5050b74801a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "o dras fonheddig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=102596"
+    },
+    "et": {
+      "language": "et",
+      "value": "Wikimedia täpsustuslehekülg"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Wikimediako argipen orri"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یک صفحهٔ ابهامزدایی ویکیمدیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "täsmennyssivu"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Wikimedia-betsjuttingsside"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "páxina de homónimos"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Wikimedia-Begriffsklärigssite"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "સ્પષ્ટતા પાનું"
+    },
+    "he": {
+      "language": "he",
+      "value": "דף פירושונים"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "बहुविकल्पी पृष्ठ"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "razdvojbena stranica na Wikimediji"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyértelműsítő lap"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վիքիմեդիայի նախագծի բազմիմաստության փարատման էջ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Halaman disambiguasi"
+    },
+    "is": {
+      "language": "is",
+      "value": "aðgreiningarsíða á Wikipediu"
+    },
+    "it": {
+      "language": "it",
+      "value": "pagina di disambiguazione di un progetto Wikimedia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウィキメディアの曖昧さ回避ページ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მრავალმნიშვნელოვანი"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ದ್ವಂದ್ವ ನಿವಾರಣೆ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "위키미디어 동음이의어 문서"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Wikimedia-Homonymiesäit"
+    },
+    "li": {
+      "language": "li",
+      "value": "Wikimedia-verdudelikingspazjena"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Wikimedia projekta nozīmju atdalīšanas lapa"
+    },
+    "min": {
+      "language": "min",
+      "value": "laman disambiguasi"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "појаснителна страница"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "വിക്കിപീഡിയ വിവക്ഷ താൾ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "निःसंदिग्धीकरण पाने"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Laman nyahkekaburan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Wikimedia-pekerside"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Sied för en mehrdüdig Begreep op Wikimedia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "doorverwijspagina"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Wikimedia-fleirtydingsside"
+    },
+    "or": {
+      "language": "or",
+      "value": "ବହୁବିକଳ୍ପ ପୃଷ୍ଠା"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਗੁੰਝਲਖੋਲ੍ਹ ਸਫ਼ਾ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "strona ujednoznaczniająca"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "página de desambiguação"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "página de desambiguação da Wikimedia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "pagină de dezambiguizare Wikimedia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "страница значений"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Wikimedia disambiguation page"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rozlišovacia stránka"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "razločitvena stran Wikimedie"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "faqe kthjelluese e Wikimedias"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "вишезначна одредница на Викимедији"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "grensida"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "ukarasa wa maana wa Wikimedia"
+    },
+    "te": {
+      "language": "te",
+      "value": "వికీమీడియా అయోమయ నివృత్తి పేజీ"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "саҳифаи маъноҳои Викимедиа"
+    },
+    "tg-cyrl": {
+      "language": "tg-cyrl",
+      "value": "саҳифаи маъноҳои Викимедиа"
+    },
+    "tg-latn": {
+      "language": "tg-latn",
+      "value": "sahifai ma'nohoi Vikimedia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Wikimedia anlam ayrımı sayfası"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Мәгънәләр бите Викимедиа проектында"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "Мәгънәләр бите Викимедиа проектында"
+    },
+    "tt-latn": {
+      "language": "tt-latn",
+      "value": "Mäğnälär bite Wikimedia proyektında"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "сторінка значень у проєкті Вікімедіа"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "trang định hướng Wikimedia"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "וויקימעדיע באַדייטן בלאַט"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "ojúewé ìṣojútùú Wikimedia"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "維基媒體搞清楚頁"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Wikimedia-deurverwiespagina"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "維基媒體消歧義頁"
+    }
+  },
+  "id": "Q141804",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "an": {
+      "language": "an",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "br": {
+      "language": "br",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "co": {
+      "language": "co",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "et": {
+      "language": "et",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "io": {
+      "language": "io",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "is": {
+      "language": "is",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "li": {
+      "language": "li",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "min": {
+      "language": "min",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гвладис верх Лливарх"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Gwladus ferch Llywarch ap Trahaearn"
+    }
+  },
+  "lastrevid": 17561868,
+  "modified": "2025-09-17T12:53:31Z",
+  "ns": 860,
+  "pageid": 170189,
+  "sitelinks": {},
+  "title": "Item:Q141804",
+  "type": "item"
+}

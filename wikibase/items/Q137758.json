@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Osred II"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137758$E0B67490-75EF-4C64-B22C-263BE422D459",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00349170"
+          },
+          "hash": "83a9506cdee9f12bae744c6772a496fb849b89d3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137758$4297D64B-A720-4BA5-BA84-BB369F71B2EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137758$7EC6833F-8DFD-42AC-AEA6-A894AFED074A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q137758$3C0D58FA-9578-4AE4-A184-F2375FBFBA86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15033.htm#i150324"
+          },
+          "hash": "054785129f2ac8f358d9cf46887c0cbf00961cc7",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137758$405BCDD9-F205-4A83-AB2F-8FC86298FA5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137198",
+              "numeric-id": 137198
+            }
+          },
+          "hash": "a3d02c0412ac98951d03cab497c3f068a1fb2ef2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137758$1171BA29-A0D5-4397-B352-80237F3A65C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137755",
+              "numeric-id": 137755
+            }
+          },
+          "hash": "c6d12ce4c214cc7d636437b2bdd868e1c6329865",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137758$440C740F-D8C4-4E88-832F-7ADF57E3BD72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137758$8C44F4E0-2EE1-4F81-A778-1B96DA883274",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0800-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da10f947cef07e79febc7fa6eaeda36d2594d776",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137758$29F711D1-4F65-444E-AAAA-EF0CD0298874",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0792-09-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3614d9ec893a55c296048b5146259f1ab91a734f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137758$BAFDE230-2EA5-4CE2-BE35-BE92E73E4FE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q132175"
+          },
+          "hash": "7de3aa6bbf7173201b9b2925ab7dd0ef039c0417",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137758$D20EE025-A0F4-448B-8639-FE6FD7584A8A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Osred II Arms.svg"
+          },
+          "hash": "ee9e94392f8a07e450481b71a24bce3b866dd6f7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Northumbria"
+    },
+    "en": {
+      "language": "en",
+      "value": "8th-century king of Northumbria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Northumbrie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Northumbria királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Нортумбрии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "engelsk monark"
+    }
+  },
+  "id": "Q137758",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوسريد التانى"
+    },
+    "br": {
+      "language": "br",
+      "value": "Osred II Northumbria"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Osred II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Osred II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Οσρέντ Β΄ της Νορθουμβρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Osred II"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Osred II of Northumbria"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Osred II of Northumbria"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Osred la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Osred II of Northumbria"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Osred II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Osred II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Osred II de Northumbria"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Osred northumbriai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "Osred II di Northumbria"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オズレッド2世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Osred II of Northumbria"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Osred II z Nortumbrii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Осред II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Osred II av Northumbria"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Осред ІІ"
+    }
+  },
+  "lastrevid": 17555211,
+  "modified": "2025-09-17T11:17:07Z",
+  "ns": 860,
+  "pageid": 166143,
+  "sitelinks": {},
+  "title": "Item:Q137758",
+  "type": "item"
+}

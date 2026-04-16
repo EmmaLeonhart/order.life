@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Vipstanus Messalla Gallus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q139639$DAB54614-F582-4679-88D0-1A47DA030CE0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "359920"
+          },
+          "hash": "86df022c26cc6f4a2d8392920b47cfeaf1ac78ea",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139639$DBDCE22E-5E8C-4036-B9EE-93623055C03B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141515",
+              "numeric-id": 141515
+            }
+          },
+          "hash": "931b7e712ae0f915093990f0febbade2b3735a7c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139639$4B1377F7-25C9-44C3-BAF5-1D898675369A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139639$04CF0574-3E59-4008-9100-F7E5505C4B22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139639$4EC5F84A-9149-4640-833C-87811133E333",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius_Vipstanus_Messalla_Gallus_(1)"
+          },
+          "hash": "f1a86eee07449f24aa104690b9da30ab2ea63107",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139639$5C4DB68D-44E2-4768-9A42-15ECD76A0A12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139637",
+              "numeric-id": 139637
+            }
+          },
+          "hash": "673330aa4b3514ebe226fedde1c6306b57aacee7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139639$AC657FD5-178B-4141-A382-EEA5385A92D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138438",
+              "numeric-id": 138438
+            }
+          },
+          "hash": "19615b123b9f636628668a4b50cde187d85c5cfa",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139639$BF89CE2B-BEA1-497E-BE58-B4DF90083999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139639$437A7B71-E4F7-4699-B0B4-987C30F56B5B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0010-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "69fddfab783759b609d0e7476944dc813f5190e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139639$FFC17F32-5A31-4273-BCC6-04E71F069840",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q721859"
+          },
+          "hash": "ffc4b49623571ead17d8d658b69f8142130c7a80",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139639$EDE016CB-1B09-4D61-8BE0-C80F2EC05AE7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Vipstanus Messalla Gallus Arms.svg"
+          },
+          "hash": "94a307e57967376fbcc81d076505f1d1447db000",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 48"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 48 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 48"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Політичний діяч ранньої Римської імперії, консул-суффект 48 року"
+    }
+  },
+  "id": "Q139639",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Месала Випстан Гал"
+    },
+    "de": {
+      "language": "de",
+      "value": "Messalla Vipstanus Gallus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Βιψτάνος Μεσάλλα Γάλλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Vipstanus Messalla Gallus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mesala Vipstano Galo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Vipstanus Messalla Gallus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Messalla Vipstano Gallo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Messalla Vipstanus Gallus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Vipstanus Messalla Gallus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Vipstano Messala Galo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Vipstano Messala Galo"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мессала Віпстан Галл"
+    }
+  },
+  "lastrevid": 17558227,
+  "modified": "2025-09-17T12:00:00Z",
+  "ns": 860,
+  "pageid": 168024,
+  "sitelinks": {},
+  "title": "Item:Q139639",
+  "type": "item"
+}

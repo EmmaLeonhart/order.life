@@ -1,0 +1,351 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eystein Orre"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137053$807DC3E4-748A-4D6D-9366-A01DE1AA7192",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00711268"
+          },
+          "hash": "acba22b9fd1bf0d84027f37b5ff051c92d160898",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137053$4D733BA1-86F4-492B-967E-24A5A209B48B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137053$350EABB6-FAD5-401D-B550-D6D0EC7E05F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137053$5EEB37EE-FB37-4571-A754-7CF96E56BDEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137051",
+              "numeric-id": 137051
+            }
+          },
+          "hash": "a00a9dc48e6c4758be19daa20918d402c727011d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137053$1B82D206-97B0-4DC2-A487-16974C5CAAF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136671",
+              "numeric-id": 136671
+            }
+          },
+          "hash": "afb6d86b3accfc300ec2c8cd6bcbb822d24389f3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137053$67ABC135-62D6-4BA0-A851-C4E83957C3A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137053$F5B24895-AF0D-4738-AFBC-FAE8BA10841C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1014-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "978a4af654483fc783cceb8974e76dde1124b02e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137053$F1DCC7AF-5B25-4DCD-958E-7735F8B3012C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1066-09-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "615bb7ff56360a86d4e2c810af6e9fe7362f2908",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137053$368ECAFB-9DA0-47AC-92D0-CDC22D402F93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8960628"
+          },
+          "hash": "ae46c4030016cefb06259c50f500415c6809aa64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137053$4D2BD891-A962-4822-ADC5-464BA9B09736",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000023181639375"
+          },
+          "hash": "319cc52c15f3fcc3046250c6eca95c645c4269a5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137053$8668A232-9A43-4E43-BB76-700FD6E9DD89",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eystein Orre Arms.svg"
+          },
+          "hash": "93f62e83719e5582a866866e4b336390cfcbacf6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "militar noruegu (1014–1066)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "militar noruec"
+    },
+    "de": {
+      "language": "de",
+      "value": "norwegischer Militär"
+    },
+    "en": {
+      "language": "en",
+      "value": "Norwegian military personnel"
+    },
+    "es": {
+      "language": "es",
+      "value": "militar noruego"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "gudari norvegiarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire norvégien"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "militar noruegués"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare norvegese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "11世紀のノース人ヴァイキング。ノルウェーの国王ハーラル苛烈王の娘婿。スタンフォード・ブリッジの戦いで義父ハーラルと共に戦死した。"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "norsk høvding av Giskeætten"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "militar noruega"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "militar norueguês"
+    }
+  },
+  "id": "Q137053",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Eystein Orre"
+    },
+    "da": {
+      "language": "da",
+      "value": "Øystein Orre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eystein Orre"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eystein Orre"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eystein Orre"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eystein Orre"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Øystein Orre"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eystein Orre"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エイステイン・オーリ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Øystein Orre"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Øystein Orre"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Eystein Orre"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Eystein Orre"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Øystein Orre"
+    }
+  },
+  "lastrevid": 17554121,
+  "modified": "2025-09-17T11:01:41Z",
+  "ns": 860,
+  "pageid": 165438,
+  "sitelinks": {},
+  "title": "Item:Q137053",
+  "type": "item"
+}

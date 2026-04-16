@@ -1,0 +1,387 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Areus I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137123$BDCD2A4A-1E9B-42C2-A5BE-EBE79CAF8133",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028101"
+          },
+          "hash": "9dd47175e6b3059dbcf92765f415e98d805b5d3a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137123$8E044446-2868-45C7-8DB2-86AFF3E99295",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137637",
+              "numeric-id": 137637
+            }
+          },
+          "hash": "2ecbb3db1c80dbed3c1a682d56aea6e1d348cce9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137123$1002BD99-948A-4C31-801A-3A3228C19372",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137123$FD3117BF-96CB-4541-83BE-54B64C3F017A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137123$99825F0F-84E2-41C0-A4D1-5F5FF675F57B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136721",
+              "numeric-id": 136721
+            }
+          },
+          "hash": "720b39a0fc206b938306c0f34c9c30ebc4c24548",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137123$BDCDFCA5-B32C-4F91-8001-F4AF899C14B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137122",
+              "numeric-id": 137122
+            }
+          },
+          "hash": "59e8dc1f15b0f67a5b607239b0562bbc11678e41",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137123$CF2B0E66-0179-4324-8E21-A3A41B26B9A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137123$3C59EDEC-5B0A-41C1-A627-26FE1FFE499B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137123$0D8EB44B-8378-443A-B97F-649432CE2D57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0265-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "079e836bc160a7255420e0b8bd5a83dd495f32f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137123$CE724504-B0F2-4739-A70B-7C2532E0D316",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q521565"
+          },
+          "hash": "c9b3a1a1cdb94e7eb7b07ece8daf61bde77da226",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137123$3E6E90AC-B9F4-473D-9F53-FF0AFFD3A0E1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Areus I Arms.svg"
+          },
+          "hash": "655d8ebd70fce636e3d6e65cd8eeba2459dabdba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei d'Esparta"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Sparta"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς της αρχαίας Σπάρτης"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Sparta from 309 to 265"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Sparta (-265v Chr)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Спарти"
+    }
+  },
+  "id": "Q137123",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "آريوس الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اريوس الاول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Арей I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Areu I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Areus I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Areus I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρεύς Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Areus I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Areo I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Areus Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "אראוס הראשון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Areusz spártai király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Areios I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Areo I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレウス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არევს I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Areus I van Sparta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Areu I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Areu I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арей I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arej I"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Areus I."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Areus I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ареј I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арей I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿莱乌斯一世"
+    }
+  },
+  "lastrevid": 17554221,
+  "modified": "2025-09-17T11:03:07Z",
+  "ns": 860,
+  "pageid": 165508,
+  "sitelinks": {},
+  "title": "Item:Q137123",
+  "type": "item"
+}

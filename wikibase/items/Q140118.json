@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Efa ferch Madog"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q140118$F3E58BA7-78D0-411C-AC06-83BBEE7760DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Madog-7"
+          },
+          "hash": "b046231ca5e148270ce28374d6b65a1bfd9decf3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140118$A38AF1E3-4F59-4AF9-9983-4B8A58059E3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140118$BB5AB57C-5116-4B37-B8E7-192AEE9EBC4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q140118$CE63431A-4153-4A1D-A19D-E7F3E12B16D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Efa_Madog_(1)"
+          },
+          "hash": "ee025bfe9227a9710e025d8cf1cc4fa74a56ead8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140118$30604E41-F2BC-47CD-9AA6-195A43FED51F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142130",
+              "numeric-id": 142130
+            }
+          },
+          "hash": "791ad0343e39df81db34174c000bf935f0136d58",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140118$2F9816A1-A169-49F4-A7C6-C377F4CC4193",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138759",
+              "numeric-id": 138759
+            }
+          },
+          "hash": "0aabeed9663cc10438e7344c529c85288b5361c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q140118$8899053E-14CD-441B-AD9B-C13488A605AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138760",
+              "numeric-id": 138760
+            }
+          },
+          "hash": "c04fbc193ff0d455c2f95d06fb13a15ca99ab0ac",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140118$B8D8073B-6E65-4D56-848E-E1A5CA5DE0D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140118$F0D5DE2A-910C-4590-A697-820E92850978",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140118$A4132793-FB57-4CBE-9860-EA7D1DA67ADB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q13128095"
+          },
+          "hash": "f1f9b889d304a08a9231c679bfcfcec3fdca5252",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140118$39B91316-792D-4019-BAAB-A64CAC86DC15",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Efa ferch Madog Arms.svg"
+          },
+          "hash": "25fd7376f1a6e67cffc3c9b918c9bad1316b48b3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "Tywysoges o'r 12fed ganrif"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh princess of Powys of the 12th century"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "принцесса Поуиса"
+    }
+  },
+  "id": "Q140118",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Efa ferch Madog"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Efa ferch Madog"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Efa ferch Madog"
+    },
+    "en": {
+      "language": "en",
+      "value": "Efa ferch Madog"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Efa ferch Madog"
+    },
+    "es": {
+      "language": "es",
+      "value": "Efa ferch Madog"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Efa ferch Madog"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Efa ferch Madog"
+    },
+    "it": {
+      "language": "it",
+      "value": "Efa ferch Madog"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эфа верх Мадог"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Efa ferch Madog"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Efa ferch Madog"
+    }
+  },
+  "lastrevid": 17559071,
+  "modified": "2025-09-17T12:12:11Z",
+  "ns": 860,
+  "pageid": 168503,
+  "sitelinks": {},
+  "title": "Item:Q140118",
+  "type": "item"
+}

@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Álpin de Dalriada"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137819$D8F42D65-74C3-4E0F-8FF5-59A6C0CE04E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137819$77B752B1-4CAA-4FDD-A908-2A5BB1909243",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137819$BF174C59-C726-4A5F-AD06-701DF583BDF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137267",
+              "numeric-id": 137267
+            }
+          },
+          "hash": "eab96d61cfce01d73ad30b08a2e8bb983a65d429",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137819$56B505AD-0924-4E97-A5DD-EA19394774AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137819$B83B6BB3-3898-4B2E-A8BC-EC3A2A85B5B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0742-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "113c44aa634e5cefc2b772b4f2ea9471d3cd624c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137819$36866B31-A05F-47C8-8707-53233E7280D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3576971"
+          },
+          "hash": "0e95500d632431ceeda020b7b98ab09b3981829f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q137819$AF143BAE-0C9B-453A-B709-1BD6E5D18BE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alpin;n=of scotland;oc=1"
+          },
+          "hash": "ff484b07972bde1b5f15c74fd8b01db4fa55cf61",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137819$51FD6DED-892C-4DC7-B8CA-1589A8585A2A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Álpin de Dalriada Arms.svg"
+          },
+          "hash": "8c835a6f94761063bc0dea4dc6f2dbde9fccea06",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "az": {
+      "language": "az",
+      "value": "Pikt kralı"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rei dels pictes i dels escots"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pictish monarch"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Dál Riata"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí na gCruithneach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rei dos pictos entre 726 e 72"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Dalriada (?-)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "король Піктії"
+    }
+  },
+  "id": "Q137819",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "I Alpin"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alpí I"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άλπιν Α΄ των Πίκτων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Álpin de Dalriada"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Alpín I of the Picts"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Alpín I of the Picts"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alpín I of the Picts"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Álpin de Dalriada"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ailpín I"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Alpín I"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלפין הראשון, מלך הפיקטים"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alpín dei Pitti"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルピン1世"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Alpin I av Dalriada"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alpín I of the Picts"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Альпин I"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Alpín I o the Pechts"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Alpín I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Альпін I"
+    }
+  },
+  "lastrevid": 17555307,
+  "modified": "2025-09-17T11:18:28Z",
+  "ns": 860,
+  "pageid": 166204,
+  "sitelinks": {},
+  "title": "Item:Q137819",
+  "type": "item"
+}

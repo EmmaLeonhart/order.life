@@ -1,0 +1,591 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Herod Archelaus"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "הורדוס ארכילאוס"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138508$F7E01AF6-F6B1-40D3-8D97-19ED698E6085",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738156"
+          },
+          "hash": "9be20cd5df089f0b4a70fe59296ad3b753b91742",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138508$E0AB9974-5186-4085-8BCC-A1D1032269AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138508$263705B4-A93F-4117-B72C-D541E9F2091A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138508$DC7064BA-AE7D-46E8-95AB-26FA32D9EA4A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Herod_Archelaus_(1)"
+          },
+          "hash": "5b8994971f8147be4f140f84bff9a0e41d633263",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138508$54F84319-1F0E-416D-BCAB-08AB2493E3D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78027",
+              "numeric-id": 78027
+            }
+          },
+          "hash": "66a79f121a304beaeef552ecc473a2c0d34866d3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138508$DF93EB09-36B1-4B27-AA58-B2DD3119E62C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139759",
+              "numeric-id": 139759
+            }
+          },
+          "hash": "48a83c485569299067a36c818004922bc6507f9b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138508$E2842B51-7925-49A9-A492-6D9460B2AAB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78189",
+              "numeric-id": 78189
+            }
+          },
+          "hash": "f3935e3bbccd431394bf6d10f71750a6f9e1b7f6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138508$B0B82854-6FC9-4D52-8D52-6292AC58136B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139752",
+              "numeric-id": 139752
+            }
+          },
+          "hash": "a17640fe94ed967163a4bd4c6d4ee3a1bd27c4e9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138508$78F2B38B-87AC-44F2-8243-347975A5B8A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138508$D1286309-AA1E-4A30-9C47-B5A4CE5B1203",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0023-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9144573eae2f9e08a2c5b5f0d797e5e22b7fddda",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138508$35C2D55F-8B1D-4EFE-807A-5816803A8E2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0018-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0fecf671438c84efdb62072b947c09cc8e6c4e3d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138508$BD3CFB43-6C2E-4555-8EA4-ABD3E1B499C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q244345"
+          },
+          "hash": "451d03afe3ef313c4ebee8590c7cf132c7a11fd4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138508$02C5340B-FE24-48EC-9111-81CD6EC14284",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645877074"
+          },
+          "hash": "56eae9113a67d20515d2f407358641a35ce9daec",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138508$33E7D829-53E7-42A6-9BC9-C1ED5D537078",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Herod Archelaus Arms.svg"
+          },
+          "hash": "237d84385e81c113bdd09fc714e93cb6570c63a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q138508$E55B551D-2CBF-4291-9B4B-1CEEA1142604",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/B6276AEB-A187-4EC8-AF8D-C172AB2A2AF0"
+          },
+          "hash": "7ad5d0ca5f43264da0b89b6ec36d13a15a331f34",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "شخصيه من العهد الجديد"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "етнарх на Самария, Юдея и Идумея"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Etnarca de Judea, Samaria i Idumea"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "etnarcha"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ethnarch von Judäa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ethnarch of Samaria/Judea/Idumea from 4 BC to 6 AD"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey de Judea"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Samarian, Juudean ja Edomin etnarkki vuosina 4 eaa. – 6 jaa."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "gouverneur de province dans l'Empire romain"
+    },
+    "he": {
+      "language": "he",
+      "value": "נשיא יהודה, שומרון ואדום; בנו של הורדוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "zsidó fejedelem"
+    },
+    "it": {
+      "language": "it",
+      "value": "etnarca di Giudea (r. 4 a.C. - 6 d.C.)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "3 prefekt Judei"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "etnarca de Samaria / Judeia / Idumeia de 4 a.C. a 6 d.C."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "etnarh Samarije/Judeje/Idumeje od 4 pr. n. št. d 6 n. št."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Judea och Israel"
+    }
+  },
+  "id": "Q138508",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هيرودس أرخيلاوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هيرودس ارخيلاوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ірад Архелай"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ирод Архелай"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arquelau de Judea"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Herodes Archelaos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Arkelaos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herodes Archelaos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ηρώδης Αρχέλαος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Herod Archelaus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Herodo Arĥelao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Herodes Arquelao"
+    },
+    "et": {
+      "language": "et",
+      "value": "Arhelaos"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هرود آرکلائوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Herodes Arkhelaos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hérode Archélaos"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Herod Archelaus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Herodes Arquelao"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארכלאוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Heródes Arkhelaosz zsidó fejedelem"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արքելաոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Herodes Arkhelaus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Erode Archelao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヘロデ・アルケラオス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "헤로데 아르켈라오스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Herodes Archelaus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Erodas Archelajus"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Hērods Arhelajs"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Herôda Arkelaôsy"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Herodes Arkhelaos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Herodes Archelaüs"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Herodes Arkhelaos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Herod Archelaos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Herodes Arquelau"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Herodes Arquelau"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ирод Архелай"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Herod Arhelaj"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Herod Arhelaj"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Irod Arhelaj"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Херод Архелај"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Herod Arhelaj"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Herodes Archelaos"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Herodes Arquelao"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Herod Archelaus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ірод Архелай"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہیرودیس ارخیلاوس"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Arkelawus"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "ארקילאוס"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希律·阿基拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "希罗德·阿基劳斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "希羅德·阿基勞斯"
+    }
+  },
+  "lastrevid": 17556395,
+  "modified": "2025-09-17T11:34:07Z",
+  "ns": 860,
+  "pageid": 166893,
+  "sitelinks": {},
+  "title": "Item:Q138508",
+  "type": "item"
+}

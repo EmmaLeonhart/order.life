@@ -1,0 +1,383 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Raymond FitzGerald"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q139878$ACF4EE6D-F5B6-4289-B37C-3FA6798095D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzGerald-2415"
+          },
+          "hash": "5602cdf937a87fa60b660e2fd5257bfa5c1a1af5",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139878$1B9D159B-A676-4132-82B8-714EF7B90585",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139878$458BDDE8-F436-43E9-99E8-BB1DDD42396E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139878$E1A9BAF7-D74D-4474-A0C5-3E1BE3DA6CB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124555",
+              "numeric-id": 124555
+            }
+          },
+          "hash": "42560c6ddd5dc42a11074fe94ed515a8882055a5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q139878$5EB6E351-7E77-4997-B1E9-CBD1231C4D82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15488.htm#i154872"
+          },
+          "hash": "e7117f82c9ae19fbee93f4be82adbc235c505a01",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139878$C6066D93-7C88-458C-AD4A-0884A8CEA5F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127760",
+              "numeric-id": 127760
+            }
+          },
+          "hash": "c8ff1fbb89bd1379d5e6fa0675f0ff3cfeafc062",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139878$707ECFF3-9B36-409A-8E28-A3AE51905646",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139878$856A09B2-30E7-45EE-A51B-BC46356F3823",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139878$FFBD14D9-D579-455C-878C-95D5DBBFEDFB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1185-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "515baabe8143e4fd701517aa06578b8f02b9b825",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139878$8CD68D50-35F0-4760-B776-483451C15484",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1670013"
+          },
+          "hash": "87cc0bda6bb0d8456a01d7e0c7a870f19ed31440",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139878$E51B3EC3-BF46-4BB2-A890-73CBC5EC137B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Raymond FitzGerald Arms.svg"
+          },
+          "hash": "a971203f7e07f93f61890f5758ee12de17d442c7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "عسكرى من مملكه انجلترا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "militar galés (1200–1182)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ŵyr Nest ferch Rhys, marchog fu'n brwydr yn Iwerddon"
+    },
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger und Kommandant unter Strongbow bei der englischen Invasion in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cambro-Norman commander during the Norman invasion of Ireland"
+    },
+    "es": {
+      "language": "es",
+      "value": "militar galés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "capitaine cambro-normand"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Wales (-1182)"
+    }
+  },
+  "id": "Q139878",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ريمون فيتزجيرالد"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Raymond FitzGerald"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রেমন্ড ফিটজেরাল্ড"
+    },
+    "br": {
+      "language": "br",
+      "value": "Raymond FitzGerald"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Raymond FitzGerald"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Raymond FitzGerald"
+    },
+    "de": {
+      "language": "de",
+      "value": "Raymond FitzGerald"
+    },
+    "en": {
+      "language": "en",
+      "value": "Raymond FitzGerald"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Raymond FitzGerald"
+    },
+    "es": {
+      "language": "es",
+      "value": "Raymond FitzGerald"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Raymond FitzGerald"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Raymond FitzGerald"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Raymond FitzGerald"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Raymond FitzGerald"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Raymond FitzGerald"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Raymond FitzGerald"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raymond FitzGerald"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Raymond FitzGerald"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Raymond FitzGerald"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Raymond FitzGerald"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Raymond FitzGerald"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Raymond FitzGerald"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Раймонд Фиц-Джеральд"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Raymond FitzGerald"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Raymond FitzGerald"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Raymond FitzGerald"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Raymond FitzGerald"
+    }
+  },
+  "lastrevid": 17558593,
+  "modified": "2025-09-17T12:05:10Z",
+  "ns": 860,
+  "pageid": 168263,
+  "sitelinks": {},
+  "title": "Item:Q139878",
+  "type": "item"
+}

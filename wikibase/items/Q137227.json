@@ -1,0 +1,382 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prisca"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137227$4085DBA1-2812-41DA-92DC-8BCE7351DA1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446935"
+          },
+          "hash": "5d23acbf681bc65e14f1b7cbbb97072f06b7491c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137227$FF32D5AA-90F2-4415-ADDC-E92D50397944",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137229",
+              "numeric-id": 137229
+            }
+          },
+          "hash": "48ff790f607c152e1c80df981aa15e2848cd36c4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137227$5A511494-7611-4FBD-8C5B-3292A434B060",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137227$092F9937-CF47-4E28-A3EE-A073490E7054",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137227$BE1A035D-2855-4604-B76C-FA6190AE8351",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136810",
+              "numeric-id": 136810
+            }
+          },
+          "hash": "ccb4f3ea6c0a2b003d63b7cf919cd9a53ea0a2cb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137227$D93D79FE-2FE0-4622-99EB-8FE0D85AA510",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137227$BB9A9C01-E81A-4A4B-A4AF-A0CA52D6368C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e5902f03c51407f274f53c05ce5f90db9f8ca590",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137227$EF1C7D8D-6673-4F35-991B-5F9EA9727A2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0315-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "06ccbeaa48924f29938bb8d442d96b2773664ffa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137227$43020128-BB79-4688-9C12-AAE72DC14F55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q164210"
+          },
+          "hash": "1fa759e1582b20060fae1795a2b39028931a2d92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137227$0C113510-73CF-4676-A125-B4F59DB33E91",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prisca Arms.svg"
+          },
+          "hash": "a869bd208fa7f5aecbc81e6fa17834c8719c1598",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ehefrau des römischen Kaisers Diokletian"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαία αυτοκράτειρα, σύζυγος του Διοκλητιανού"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman empress, wife of Emperor Diocletian"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "femme de l'empereur romain Dioclétien"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשת הקיסר דיוקלטיאנוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Diocleziano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizerin"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarzowa rzymska, żona Dioklecjana"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperatriz"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римська імператорка"
+    }
+  },
+  "id": "Q137227",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بريسكا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Prisca"
+    },
+    "az": {
+      "language": "az",
+      "value": "Priska"
+    },
+    "be": {
+      "language": "be",
+      "value": "Прыска"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Приска"
+    },
+    "br": {
+      "language": "br",
+      "value": "Prisca (impalaerez)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Prisca (emperadriu)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prisca"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πρίσκα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prisca"
+    },
+    "es": {
+      "language": "es",
+      "value": "Prisca"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پریسکا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prisca"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Prisca"
+    },
+    "he": {
+      "language": "he",
+      "value": "פריסקה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Prisca"
+    },
+    "la": {
+      "language": "la",
+      "value": "Prisca"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Prisca"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Prisca"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pryska"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Prisca"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Prisca"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Приска"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Prisca"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Приска"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普里斯卡玛"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "普里斯卡玛"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普里斯卡瑪"
+    }
+  },
+  "lastrevid": 17554393,
+  "modified": "2025-09-17T11:05:33Z",
+  "ns": 860,
+  "pageid": 165612,
+  "sitelinks": {},
+  "title": "Item:Q137227",
+  "type": "item"
+}

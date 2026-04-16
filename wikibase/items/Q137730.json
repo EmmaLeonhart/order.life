@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artavasdes III of Armenia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137730$BF1FD154-9295-48E4-9077-F3F8096A1E25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736585"
+          },
+          "hash": "c8864df039c8af508ebe4bf06276b54cafbdfb6e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137730$D6C147F6-664E-43AE-8408-088393F34862",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137730$254AFB86-3925-4F3A-A203-2A05108B24FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137730$324F55CD-C674-4797-835D-8083ED54B363",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137173",
+              "numeric-id": 137173
+            }
+          },
+          "hash": "5a40ef612ea3ccd6cc53eadc314c496638d3a9b2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137730$413C70D2-7A25-49F4-B67F-5742720E7C03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137730$4F9F171F-A65F-4A4C-A62C-2D9103B91ADF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0020-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b966ac308bc3b07369cbd42035a1ce935900b75",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137730$E95D1F96-2A8E-44FA-A412-50D733BDBAD7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0005-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dfc3035d39d7601450a7148452f3ab7b07d4d10c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137730$D2BC8C33-7245-4533-98B9-DB5FF9B30692",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2864802"
+          },
+          "hash": "eb26ca70e733157fce05f8f16f421d150324d7cb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137730$CB8B0AEB-B32D-42EB-A2BE-822BCF1BA935",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artavasdes III of Armenia Arms.svg"
+          },
+          "hash": "c3d26c63926ecda2215a976a0fa57da852edc2db",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu armeniu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince who served as King of Media Atropatene"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Médie-Atropatène et d'Arménie"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Armenia e di Media Atropatene (r. 4-6 d.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Armenië"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rei da Arménia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kung av Armenien"
+    }
+  },
+  "id": "Q137730",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "II Artavazd"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artavasdes VI d'Armènia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Artavasdes III af Armenien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρταβάσδης Γ΄ της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artavasdes III of Armenia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artavasdes III of Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرتاوازد چهارم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artavazde IV Ariobarzane III"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արտավազդ Դ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artavaside IV"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არტავაზდ III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artavasdes III of Armenia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artawazdes II z Medii Atropatene"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artavasdes IV"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artavasdes IV"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артавазд IV"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Artavasdes IV av Armenien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артавазд IV"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔塔瓦兹德四世"
+    }
+  },
+  "lastrevid": 17555159,
+  "modified": "2025-09-17T11:16:23Z",
+  "ns": 860,
+  "pageid": 166115,
+  "sitelinks": {},
+  "title": "Item:Q137730",
+  "type": "item"
+}

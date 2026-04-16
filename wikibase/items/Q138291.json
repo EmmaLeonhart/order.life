@@ -1,0 +1,435 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Snorri Thorfinnsson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q138291$8CD376CC-1DD7-454E-B790-E6C96973D1E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Þorfinnsson-47"
+          },
+          "hash": "11da2ec2d4ad9c2510a53bdb238491d19ef74600",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138291$AEB017F9-8F4E-47C1-A34E-88DABE592283",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138291$12B7E22E-C3AA-436B-8AB3-344E867CCE8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138291$688A61B9-AA28-43A0-AC99-51DA59E1A525",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138290",
+              "numeric-id": 138290
+            }
+          },
+          "hash": "ccc59046dfde7e6ae2b1a1bb79106fd410648ea0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138291$3485542F-2E79-48AE-83DD-B1A5170BA17C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137578",
+              "numeric-id": 137578
+            }
+          },
+          "hash": "7ad5a0c3a20dd0a3912d607d5a7cd45de2921308",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138291$8AF0DED6-D661-4503-BF26-9D928FFCA27B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138291$C660FB94-6B55-4A30-9407-88CDB6B8ED89",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1004-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9443a5caa1613649d9c7f466637129143f7206cf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138291$6957DFE5-D1F0-4E9E-A90E-0F0635A12519",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1090-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3f9e4f8ea58f804fb740839edcaa86c99f6bf3b6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138291$7D9C8E36-0397-416F-AB0E-4F132696C3F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q597962"
+          },
+          "hash": "729b2dcbf38ad6fb6d29ab5ca499b791d5ef8ee3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138291$5175E570-4221-48BF-AC9B-D3C2BC4C2097",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007242731339"
+          },
+          "hash": "e2d0dd2de44640a8d0695677ec1b2161e02c7742",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138291$C383FEFE-D686-4C9B-9765-E5C0A4505BE4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Snorri Thorfinnsson Arms.svg"
+          },
+          "hash": "0a78c7cd0a8502a8262433511fde42971b3128b9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مستكشف آيسلندي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مستكشف من ايسلاندا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "esplorador islandés (1004–1090)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "আইসল্যান্ডীয় অনুসন্ধানকারী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "explorador islandès"
+    },
+    "de": {
+      "language": "de",
+      "value": "möglicherweise erstes in Nordamerika geborenes Kind europäischer Abstammung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Icelandic explorer"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Icelandic explorer"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Icelandic explorer"
+    },
+    "es": {
+      "language": "es",
+      "value": "explorador islandés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Islandi maadeavastaja"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاشف آیسلندی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "explorateur islandais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "taiscéalaí Íoslannach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "explorador islandés"
+    },
+    "he": {
+      "language": "he",
+      "value": "חוקר ארצות איסלנדי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "islandski istraživač"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio storico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ontdekkingsreiziger uit IJsland (?-1090)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "islandzki odkrywca"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "explorator islandez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сын путешественника"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "eksplorues islandez"
+    }
+  },
+  "id": "Q138291",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سنورى ثورفينسون"
+    },
+    "da": {
+      "language": "da",
+      "value": "Snorri Þorfinnsson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Snorri Þorfinnsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Snorri Thorfinnsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Snorri Thorfinnsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Snorri Thorfinnsson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Snorri Thorfinnsson"
+    },
+    "is": {
+      "language": "is",
+      "value": "Snorri Þorfinnsson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Snorri Thorfinnsson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スノッリ・ソルフィンスソン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스노리 토르핀손"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Snorre Torfinnsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Snorri Thorfinnson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Snorri Þorfinnsson"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Snorri Thorfinnsson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Снорри Торфиннссон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Snorri Thorfinnsson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Snorri Thorfinnsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Snorri Thorfinnsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Snorri Þorfinnsson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сноррі Торфіннссон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯诺里·索尔芬松"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "斯诺里·索尔芬松"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "斯诺里·索尔芬松"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "斯諾里·索爾芬鬆"
+    }
+  },
+  "lastrevid": 17556065,
+  "modified": "2025-09-17T11:29:22Z",
+  "ns": 860,
+  "pageid": 166676,
+  "sitelinks": {},
+  "title": "Item:Q138291",
+  "type": "item"
+}

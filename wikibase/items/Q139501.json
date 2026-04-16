@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hippocrates"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139501$78E96DF4-671B-47AB-BCFD-E170C7D6A65C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138337",
+              "numeric-id": 138337
+            }
+          },
+          "hash": "6df4aa0a7a5f84ce997e810b3d23cba1273f41e4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139501$FB025A43-BECF-4253-B2B7-768EC3A3ED18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139501$79FF8AE3-0A1B-48F9-823F-8E5CE6A13D1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139501$F0872DC4-0B5D-4097-85B7-68AC78D10493",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139501$0B8F3C38-E4D9-4C1C-BBF3-0EA4C2CE91C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3563395"
+          },
+          "hash": "e73d478d057f58e0731f01352834abbda56f69c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139501$0F451517-238B-4E48-B51F-B6A2A92A9E8A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hippocrates Arms.svg"
+          },
+          "hash": "3a32c2475ea0edd13a48fe77e87280f92965b237",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "father of Peisistratos"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "patro de Tirano de Ateno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "père de Pisistrate"
+    },
+    "it": {
+      "language": "it",
+      "value": "padre di Pisistrato"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Bavê Pîsîstratos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "знатный афинянин"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pejzistratov oče"
+    }
+  },
+  "id": "Q139501",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أبقراط، أب بيسيستراتوس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hipòcrates d'Atenes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hippokrates"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιπποκράτης ο τυραννοπάτωρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hippocrates"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Hipokrato"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hipócrates de Atenas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hippocratès"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ιπποκράτης"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ippocrate"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Hîpokratês"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Hîpokratês"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hippocrates"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гиппократ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hipokrat"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гіппократ"
+    }
+  },
+  "lastrevid": 17557993,
+  "modified": "2025-09-17T11:56:43Z",
+  "ns": 860,
+  "pageid": 167886,
+  "sitelinks": {},
+  "title": "Item:Q139501",
+  "type": "item"
+}

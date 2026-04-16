@@ -1,0 +1,453 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Caecilius Metellus Pius Scipio Nasica"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139740$9E49BAB4-C223-4066-8754-ADD9714C7824",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735589"
+          },
+          "hash": "b547e2e94a32bee9a0eab2805365ab080e4590dd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139740$B3FB1867-B7E3-4976-B709-8FB139AC7295",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138504",
+              "numeric-id": 138504
+            }
+          },
+          "hash": "86905c4076a1f9baacd78602e4379d50526faeb0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139740$2CD27439-45C6-402B-B320-B04401DB5577",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139740$3497AAF8-EA1A-426A-94AB-1BEBCC46F5E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139740$260197DC-1B5B-45A5-9E1D-5FC07DC893D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139741",
+              "numeric-id": 139741
+            }
+          },
+          "hash": "d634f7ee65b8ae90749a2c222e6aa3ed042fdf13",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139740$EFE52807-D32B-4EA5-98A7-73163321F41F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141645",
+              "numeric-id": 141645
+            }
+          },
+          "hash": "6707126aeaa629f964eddbaf3d5e261993a81240",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139740$3D720B81-A1EB-48F5-8C00-7DFF9EA11445",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141647",
+              "numeric-id": 141647
+            }
+          },
+          "hash": "d0623466bd9aeb85919fde4319b193d0818ddb26",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139740$534156BE-71C2-4562-BFD2-C1818FCD41A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139740$CB5A9006-603E-45F3-ACAA-6636734AA846",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0099-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f0f63fa31671b225120c4c1fc08a03e71dcda800",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139740$F2818EBD-CDDE-4FC9-9308-D477D42E2F39",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0046-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f590326d83966d1151bccb63c8f016a1454f567",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139740$06A906A5-9C40-4C13-AADF-F2CC07A18B2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q316825"
+          },
+          "hash": "c36e33d75443870a12cdfc8ae520c843fe3e19c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q139740$5BCA1DEB-0F5E-4E46-9FAA-D0D856628383",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:25715"
+          },
+          "hash": "150a2eba9e13361b686d4b00f1baa3ad42014da0",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139740$21276573-057D-4AF1-98E6-8B8BF35E1D68",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Caecilius Metellus Pius Scipio Nasica Arms.svg"
+          },
+          "hash": "beab9aa863b50f8e5f5c90bb20ead02e68d66ea2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Roman consul and optimate"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 52 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי רומי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus és hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "senatore e militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-46v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 52 года до н. э."
+    }
+  },
+  "id": "Q139740",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كوينتس كايسيليوس ميتيلوس بيوس سكيبيو ناسيكا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Цецилий Метел Пий Сципион"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Cecili Metel Pius Escipió"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Metellus Scipio"
+    },
+    "da": {
+      "language": "da",
+      "value": "Metellus Scipio"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Caecilius Metellus Pius Scipio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Καικίλιος Μέτελλος Πίος Σκιπίων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Caecilius Metellus Pius Scipio Nasica"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Cecilio Metelo Escipión"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Kinto Zezilio Metelo Eszipion Pio Nasika"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "متلوس سیپیو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Metellus Scipio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Caecilius Metellus Pius Scipio Nasica"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Quintus Caecilius Metellus Pius Scipio Nasica"
+    },
+    "he": {
+      "language": "he",
+      "value": "קווינטוס קייקיליוס מטלוס פיוס סקיפיו נסיקה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quintus Caecilius Metellus Pius Scipio"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Cecilio Metello Pio Scipione Nasica"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・カエキリウス・メテッルス・ピウス・スキピオ・ナシカ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მეტელუს სციპიონი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Caecilius Metellus Pius Scipio Nasica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Caecilius Metellus Pius Cornelianus Scipio Nasica"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Scypion Metellus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Cecílio Metelo Pio Cipião Nasica"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Cecílio Metelo Pio Cipião Nasica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Цецилий Метелл Пий Сципион Назика"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Cecilije Metel Pij Scipion Nasika"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Caecilius Metellus Pius Scipio Nasica"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Квинт Цецилије Метел Пиј Сципион Насика"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Metellus Scipio"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Quintus Caecilius Metellus Pius Scipio"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Цецилій Метелл Пій Сципіон Назіка"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昆图斯·凯基利乌斯·梅特卢斯·皮乌斯·西庇阿·纳西卡"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "梅特鲁斯·西庇阿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "梅特魯斯·西庇阿"
+    }
+  },
+  "lastrevid": 17558393,
+  "modified": "2025-09-17T12:02:21Z",
+  "ns": 860,
+  "pageid": 168125,
+  "sitelinks": {},
+  "title": "Item:Q139740",
+  "type": "item"
+}

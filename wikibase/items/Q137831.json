@@ -1,0 +1,343 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwgon ap Meurig"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q137831$0EB730E2-DB19-4123-AB26-532B7815CF26",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Meurig-29"
+          },
+          "hash": "f43b2ddb9c8ec40c9a25f1bbdb44d91eb754c8dc",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137831$21AB2670-857F-4447-AA87-5AF1C52CE9A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137831$C190E25E-3131-431D-8A30-250E3B82418A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137831$79F957CD-8515-4915-B182-93AB0F40540E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwgon_Meurig_(1)"
+          },
+          "hash": "bdf138865bc2b8ecfe3230bf385d33e478bfc476",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137831$2C57EE7D-B372-4D33-B710-B4F3D96E1160",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137276",
+              "numeric-id": 137276
+            }
+          },
+          "hash": "a338d44f9c4899c614b5303b02b2f7b68feb55be",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137831$3B03E1C8-3710-4871-9CB5-31E2F19DE21A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137831$2F9B90C1-A2D3-4E77-911D-0EDA0554DC3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0808-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f195e19d3a19cf039faad96ddee8e90057cac509",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137831$97235ABE-85C3-4607-965A-9CE56B7FF04D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0872-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b14cbf73e0f09d4083a0bf3bd00571e784f0f56c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137831$6C2900AB-2D35-49F5-90B5-A3D0BF2C35C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3330999"
+          },
+          "hash": "9a490211c7b55296e206b54ae9aa0eb14d9c45a3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137831$D8DD336C-7F2D-4E84-A3B3-44CE8F7C20DA",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwgon ap Meurig"
+          },
+          "hash": "d11f9033dc1dae235d8a5d61d3481aa73e957bfc",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137831$7FEFFFBF-0E2E-4DD4-8AFE-3780ED96AB7A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwgon ap Meurig Arms.svg"
+          },
+          "hash": "9c8cc55295b443cf8b9e3a37348fa136fcd9d4c5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu galés (808–871)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin olaf teyrnas Ceredigion"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Ceredigion, Wales"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano gallese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Wales (808-872)"
+    }
+  },
+  "id": "Q137831",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gwgon ap Meurig"
+    },
+    "br": {
+      "language": "br",
+      "value": "Gwgan ap Meurig"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gwgon ap Meurig"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gwgon ap Meurig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwgon ap Meurig"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gwgon ap Meurig"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gwgon ap Meurig"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gwgon ap Meurig"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gwgon ap Meurig"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Gwgon ap Meurig"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gwgon ap Meurig"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グゴン"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwgon ap Meurig"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gwgon ap Meurig"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gwgon ap Meurig"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gwgon ap Meurig"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гугон ап Меуриг"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gwgon ap Meurig"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古冈"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "古冈"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "古岡"
+    }
+  },
+  "lastrevid": 17555331,
+  "modified": "2025-09-17T11:18:49Z",
+  "ns": 860,
+  "pageid": 166216,
+  "sitelinks": {},
+  "title": "Item:Q137831",
+  "type": "item"
+}

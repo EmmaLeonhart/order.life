@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hywel Grach ap Gwilym ap Hywel ap Gwgon Fychan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139078$D34E5EA8-F283-4851-9CEF-26F9A11E1910",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00708885"
+          },
+          "hash": "80dd561da3a604dfdf2e24510a7b6e6ed8cbaa92",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139078$FFB70DD5-76A7-4B4B-A9A2-262A314C1FA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140698",
+              "numeric-id": 140698
+            }
+          },
+          "hash": "626d3fcdb4bc56368d2d7dc6a1ae745e59cef986",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q139078$0CC50E8D-E2B0-4C93-875D-9D11574C7557",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Llewelyn-64"
+          },
+          "hash": "c225b65d6abc7bb6c787267f2b001a8eaa8455e3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139078$425FE303-CC75-40BB-8083-A7C67E79AAE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139078$89192D83-BF72-4550-960B-73D9086919CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139078$548BA9FA-83FC-47AA-ABE6-36CEBE456008",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138081",
+              "numeric-id": 138081
+            }
+          },
+          "hash": "c5ddeaac0df75c5441598f7ca84dd68fc6a73f59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139078$EC708398-EB18-47DD-8403-FE8C5BBDA1F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139078$35C3662C-6118-4C0A-9D55-CAF24D9D634E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1280-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4628f7e7efab46495b05b805a92d2c16080dee95",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139078$C4998D46-D08D-41C0-AD39-594E8F780624",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99080802"
+          },
+          "hash": "df1691a642d89f2cbf7ab695ba298dc0a18c3c36",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139078$DB0F037D-1F92-45BF-9909-F1CA6E161B25",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hywel Grach ap Gwilym ap Hywel ap Gwgon Fychan Arms.svg"
+          },
+          "hash": "0fb712f2dfa8681e5ad66c55b1605b13e621857c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1280"
+    }
+  },
+  "id": "Q139078",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hywel Grach ap Gwilym ap Hywel ap Gwgon Fychan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hywel Grach ap Gwilym ap Hywel ap Gwgon Fychan"
+    }
+  },
+  "lastrevid": 17557477,
+  "modified": "2025-09-17T11:49:24Z",
+  "ns": 860,
+  "pageid": 167463,
+  "sitelinks": {},
+  "title": "Item:Q139078",
+  "type": "item"
+}

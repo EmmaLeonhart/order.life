@@ -1,0 +1,524 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Salome"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139789$5271E468-FBE1-474D-BF8D-F4D14288EC19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141710",
+              "numeric-id": 141710
+            }
+          },
+          "hash": "a3408f0740ed1ee08bd1917e8c5f42ec664759f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139789$2C4A6B27-397E-40FD-B6E7-CFA9EC088F06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141708",
+              "numeric-id": 141708
+            }
+          },
+          "hash": "c6c56bed67ea54379b33d81b99c1942eb199d909",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139789$45A23208-5A8A-4714-8D1B-3316285F0A0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141709",
+              "numeric-id": 141709
+            }
+          },
+          "hash": "3c282092999dfec182f3e65d2a61d4bb311fecbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139789$589EDD8A-2001-4BC7-8C38-70B02594077C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139789$25BB4F77-C175-4B8B-8293-FDBBD6B9300C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139789$319D4715-1C97-4929-8E2B-69B19FE42A29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141707",
+              "numeric-id": 141707
+            }
+          },
+          "hash": "01a70ef8843e12856658eea8cf67046ee388a6fd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139789$57AF0F8D-74C2-4437-A8E1-6AFB98E6466A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139789$34EA7EC4-B430-48C7-BC19-E5B88074B039",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139789$650F5170-EDA8-4052-8AD1-11C0E245FC9F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139789$0AE97309-958A-4BD4-AAB7-F46B14A32871",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q233067"
+          },
+          "hash": "b6534dc77c5429d40e0972d2059b5e7d6e135ce7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139789$48F8234A-7BE9-460B-A194-333729865324",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Salome Arms.svg"
+          },
+          "hash": "80ae30aecbb88c6834f609673e5fdad4e75d87bb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q139789$EE5C48FA-74B7-4F6A-95F1-3B95146DD78F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/946dd24c-115a-46f5-92bb-72f62286a6ff"
+          },
+          "hash": "4d492d350209f973ac3b4da632a96f076341b8c1",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "Паслядоўніца Ісуса, маці двух Яго апосталаў"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "seguidora i deixebla de Jesús"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "jedna z žen u kříže, které pak šly ošetřit Ježíšovo tělo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jüngerin Jesu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mother of John and Jacob"
+    },
+    "es": {
+      "language": "es",
+      "value": "seguidora de Jesús de Nazaret"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jeesuksen opetuslapsi"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "discípula de Xesús"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמידתו של ישוע"
+    },
+    "it": {
+      "language": "it",
+      "value": "discepola di Gesù"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "segwaċi ta' Ġesù Kristu"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "bibelsk skikkelse"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bijbel"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "uczennica Chrystusa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "personagem bíblica, discípula de Jesus"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "personagem bíblica, discípula de Jesus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, мать апостолов Иоанна и Иакова, жена Зеведея"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jezusova učenka"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen İsa'nın takipçisi kadın (Markos 15:40)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "门徒"
+    }
+  },
+  "id": "Q139789",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سالومة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سالومة"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Maria Salomé"
+    },
+    "be": {
+      "language": "be",
+      "value": "Саламея"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мария Саломе"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ས་ལོ་མེ།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maria Salomé"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Salome"
+    },
+    "de": {
+      "language": "de",
+      "value": "Salome"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σαλώμη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Salome"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Salomeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Salomé"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Maria Salome"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سالومه (قدیس)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Salome"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Salomé"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Salomé (learling)"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Salómae"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Salomé"
+    },
+    "he": {
+      "language": "he",
+      "value": "שלומית"
+    },
+    "id": {
+      "language": "id",
+      "value": "Salome"
+    },
+    "it": {
+      "language": "it",
+      "value": "Salome"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サロメ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "살로메"
+    },
+    "la": {
+      "language": "la",
+      "value": "Salome"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Salomé"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Salome"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Salomé"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Salome"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Salomé"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Salomé"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Salomeea (ucenică)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Саломея"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Saloma (učenica)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Salome"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Saloma"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Salome"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Salome"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சலோமி (இயேசுவின் சீடர்)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Şalome"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Соломія (мироносиця)"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سلومی"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Sałome"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "撒羅默"
+    }
+  },
+  "lastrevid": 17558475,
+  "modified": "2025-09-17T12:03:30Z",
+  "ns": 860,
+  "pageid": 168174,
+  "sitelinks": {},
+  "title": "Item:Q139789",
+  "type": "item"
+}

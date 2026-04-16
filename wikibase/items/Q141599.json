@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Marius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141599$FE4244BE-8D18-480A-977B-0605291C0C44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141599$5438BD05-73C7-4148-9914-4CEBD256FE60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141599$B8787DEE-DDC7-4EE3-B93D-50D1A5D94F87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141597",
+              "numeric-id": 141597
+            }
+          },
+          "hash": "4310d761b3c7e79285ada4aaf6ba7c2b2cf46939",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141599$F1873F50-25E0-4559-8516-4DB34DA6D526",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141598",
+              "numeric-id": 141598
+            }
+          },
+          "hash": "d692fb66b5e590c0ee16e18c43072b819ed7931f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141599$2BBD3D4C-72DD-45B3-B0DF-51356FE499AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141599$BC46AEB8-8083-40A2-A734-8A635F085801",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141599$9470B229-9BEB-4418-8CE3-25EF1FC09785",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15833814"
+          },
+          "hash": "3200aef9c28a2a859a477f40907a876629a62c14",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141599$52C79E9A-86D9-42F2-A1A1-2D583638449E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Marius Arms.svg"
+          },
+          "hash": "85b365a3e86dfdc2dd81be65c7864830f4b8093d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "praetor 102 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "hermano de Cayo Mario"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préteur romain en 102 av. J.-C."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Римский политический деятель"
+    }
+  },
+  "id": "Q141599",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Marcus Marius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Marius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Mario"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Marius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Mario"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・マリウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Marius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Марий"
+    }
+  },
+  "lastrevid": 17561548,
+  "modified": "2025-09-17T12:48:55Z",
+  "ns": 860,
+  "pageid": 169984,
+  "sitelinks": {},
+  "title": "Item:Q141599",
+  "type": "item"
+}

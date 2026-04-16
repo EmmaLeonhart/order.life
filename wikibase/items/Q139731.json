@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Calpurnia"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139731$D7BC3988-1EF6-4A9B-A32F-85385FC07C53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138501",
+              "numeric-id": 138501
+            }
+          },
+          "hash": "1014a4baaa131b45cdf1a500b676a92efc4ca023",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139731$496B10CC-5B69-44D2-9CC0-2937E668326C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139731$9D6B02F6-52F5-45D6-B9C4-1DE1A9F79558",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139731$6FB605E0-6D4C-4435-AC99-FADC1721185F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139730",
+              "numeric-id": 139730
+            }
+          },
+          "hash": "fe5226ebf2da9ff4d34ab97d7d7247ee079baa99",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139731$F7579313-62B2-4D28-9DA6-19139F158CE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141633",
+              "numeric-id": 141633
+            }
+          },
+          "hash": "b171d0a36840b81d14998cc930153edce4741348",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139731$21C567C9-F366-4018-963B-F175DBB7443A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139731$3026EFB9-1689-43E9-96C3-23831D84008F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139731$BFA9E0D0-E349-4DFA-B0D5-26AFDA3B6374",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0082-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e0573e9458fabd30645c8c69d63b81a9d043696b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139731$E7D4A901-1C46-442C-8DE8-C72FF2C23F9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11910936"
+          },
+          "hash": "c627ce0d9ef4a67bb0af8dbc978e692eb1bc9b22",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139731$4BF631CA-E6AB-4D76-8A0C-911722BB14F6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Calpurnia Arms.svg"
+          },
+          "hash": "aa7f4ee31824d7e2bb3e12eb5bf03fe8f72ef0cc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filla de L. C. Bèstia"
+    },
+    "en": {
+      "language": "en",
+      "value": "first mother-in-law of Pompey the Great"
+    },
+    "es": {
+      "language": "es",
+      "value": "suegra de Pompeyo el Grande"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "första svärmor till Pompejus den Store"
+    }
+  },
+  "id": "Q139731",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Calpúrnia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Calpúrnia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Calpurnia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Calpurnia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Calpurnia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Calpurnia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кальпурния"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Calpurnia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кальпурнія"
+    }
+  },
+  "lastrevid": 17558381,
+  "modified": "2025-09-17T12:02:11Z",
+  "ns": 860,
+  "pageid": 168116,
+  "sitelinks": {},
+  "title": "Item:Q139731",
+  "type": "item"
+}

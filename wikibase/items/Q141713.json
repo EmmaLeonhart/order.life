@@ -1,0 +1,607 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucifer"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141713$40FF5985-7FF7-461B-BD0B-8D8875476215",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141713$CD195F00-3132-43CE-A143-E324FB0F5F74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141713$0589510F-BA70-41E6-A29F-214C674D85AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144339",
+              "numeric-id": 144339
+            }
+          },
+          "hash": "e4a708d67a34af758bbc038ec5d346df8aebac46",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141713$4D4BE29C-BF79-4950-9D68-E11251A5C8C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q185498"
+          },
+          "hash": "251cedb01b6aa70b18f89c1a6993339e9f9b484d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141713$5D4A7BC8-4090-4C58-AD9D-8F1B9D7DD107",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucifer Arms.svg"
+          },
+          "hash": "134d378d38c731b297ceedcae091dac893b0ed5e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "الملاك الساقط أو الهابط"
+    },
+    "az": {
+      "language": "az",
+      "value": "cənnətdən qovulmuş mələk"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "палы анёл"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "शुक्र ग्रह क एगो नाँव, भोर क तारा; ईसाई कथा में नरक के रखवाला शैतान क एगो नाँव"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "পৌরাণিক ও ধর্মীয় ব্যক্তিত্ব"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "en la tradició cristiana un dels noms que rep Satanàs; per als romans un dels noms del planeta i deïtat Venus; també l'estel del matí"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "فریشتەیەکی کەوتوو یان دابەزیو"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "světlonoš; padlý anděl v křesťanské mytologii"
+    },
+    "de": {
+      "language": "de",
+      "value": "lateinischer Begriff, der im Laufe der Zeit gleichbedeutend mit dem Wort „Teufel“ wurde"
+    },
+    "el": {
+      "language": "el",
+      "value": "στον άγγελο που επαναστάτησε κατά την χριστιανική παράδοση εναντίον του θεού και εξέπεσε από τα ουράνια"
+    },
+    "en": {
+      "language": "en",
+      "value": "name for the \"Morning star\" (the planet Venus, or other stars) in Latin, sometimes used as a name for the devil or Satan"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Archangel"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "name for the \"Morning star\" (the planet Venus, or other stars) in Latin, sometimes used as a name for the devil or Satan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Romia diaĵo de la matenstelo; poste, en kristanismo, rigardita kiel nomo de Satano"
+    },
+    "es": {
+      "language": "es",
+      "value": "concepto mitológico o religioso"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شخصیت پلید در دین مسیحیت"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "langennut enkeli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "un des noms romains donné à la planète Vénus, puis, dans la tradition chrétienne, ange déchu assimilé parfois à Satan"
+    },
+    "he": {
+      "language": "he",
+      "value": "השטן במיתולוגיה הנוצרית"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "शैतान का एक नाम, तथा सबह का तारा (शुक्र गृह) के लिए प्रयुक्त शब्द"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "A gonosz megtestesülése"
+    },
+    "id": {
+      "language": "id",
+      "value": "malaikat yang dibangkitkan setelah kejatuhan iman Slavia"
+    },
+    "it": {
+      "language": "it",
+      "value": "angelo caduto nella mitologia giudaico-cristiana associato al diavolo, precedentemente figura mitologica romana associata alla \"Stella del Mattino\" (il pianeta Venere)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "キリスト教の堕天使"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mytologi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "religieuze figuur, morgenster of gevallen engel"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "współtwórca grzechu pierworodnego"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Estrela D'Alva (anjo caído, demônio)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "утренняя звезда в Древнем Риме, в христианстве — эпитет князя тьмы, властителя преисподней"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "releegious figur"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "mitolojik ve dinî figür"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Архангел"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "撒旦的另一個名字或“晨星”的名字（金星或其他恆星）"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "路西法是魔鬼的名字，也是耶穌的誹謗者"
+    }
+  },
+  "id": "Q141713",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Lusifer"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "لوسيفر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "لوسيفر"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Lucifer"
+    },
+    "az": {
+      "language": "az",
+      "value": "Lusifer"
+    },
+    "be": {
+      "language": "be",
+      "value": "Люцыфер"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Люцыпар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луцифер"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "लूसिफ़र"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "লুসিফার"
+    },
+    "br": {
+      "language": "br",
+      "value": "Lusifer"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Llucifer"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "لوسیفەر"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lucifer"
+    },
+    "csb": {
+      "language": "csb",
+      "value": "Lëcyper"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lwsiffer"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lucifer"
+    },
+    "de": {
+      "language": "de",
+      "value": "Luzifer"
+    },
+    "el": {
+      "language": "el",
+      "value": "Εωσφόρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucifer"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Lucifer"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Lucifer"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Lucifero"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucifer"
+    },
+    "et": {
+      "language": "et",
+      "value": "Lucifer"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Luzifer"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لوسیفر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lucifer"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucifer"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lúicifir"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Lucifer"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἑωσφόρος"
+    },
+    "he": {
+      "language": "he",
+      "value": "לוציפר"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "लूसिफर"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Lucifer"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucifer"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լյուցիֆեր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lucifer"
+    },
+    "io": {
+      "language": "io",
+      "value": "Lucifero"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucifero"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルシファー"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლუციფერი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "루치펠"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucifer"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Luzifer"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Liuciferis"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Lucifers"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Losifera"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ലൂസിഫർ"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯂꯨꯁꯤꯐꯦꯔ"
+    },
+    "mo": {
+      "language": "mo",
+      "value": "Luceafăr"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Lucifer"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lucifer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucifer"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Lucifèr"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucyfer"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "لوسیفر"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcifer"
+    },
+    "rmy": {
+      "language": "rmy",
+      "value": "Lucifer"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Lucifer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Люцифер"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Lucifer"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucifer"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Lucifer"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Lucifer"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucifer"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Луцифер"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Луцифер"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Lucifer"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucifer"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "லூசிபர்"
+    },
+    "th": {
+      "language": "th",
+      "value": "ลูซิเฟอร์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Lusiper"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lucifer"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Люцифер"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لوسیفر"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lucifer"
+    },
+    "war": {
+      "language": "war",
+      "value": "Lucifer (relihiyon)"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "路西法"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ლუციფერი"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "路西法"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "路西法"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "路西法"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "路西法"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "路西法"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "路西法"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "路西法"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "路西法"
+    }
+  },
+  "lastrevid": 17561730,
+  "modified": "2025-09-17T12:51:30Z",
+  "ns": 860,
+  "pageid": 170098,
+  "sitelinks": {},
+  "title": "Item:Q141713",
+  "type": "item"
+}

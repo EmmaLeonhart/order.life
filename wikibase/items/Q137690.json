@@ -1,0 +1,469 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcellus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137690$56512CA5-8B8E-4406-8E8E-9278F7446566",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446788"
+          },
+          "hash": "ad41ead4adc8878d5d0ebf35c4dfb1a75f15c334",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137690$2B0394E8-2502-4A0E-91C9-7311AAF5B456",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137690$253F9457-641D-4A87-B2AF-CC967EA319E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137690$DA3C15C7-ACA1-4762-8883-2FAC9666C790",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus_Claudius_Marcellus_(Julio-Claudian_dynasty)_(1)"
+          },
+          "hash": "7201cbb946ea2ba1b06b9f3f065ea6dd7be219ae",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137690$E63A8E5B-9A47-40E5-B3FB-261C20962FF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72332",
+              "numeric-id": 72332
+            }
+          },
+          "hash": "4f149288f1883f63dee4508e4aa502ce94d01ba1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137690$248EFC8D-AB5C-47FE-9BE3-1FD12B7B4EF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72570",
+              "numeric-id": 72570
+            }
+          },
+          "hash": "f3a802976e7f17e8779198d3955a0bf56d50b88c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137690$35A1C461-1EB7-4606-95F1-699ED6F33328",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72567",
+              "numeric-id": 72567
+            }
+          },
+          "hash": "4e12172c99294ca7fe77aad69e43a56640619927",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137690$56EE0FB6-0FEC-4D71-8EAF-C8BE6046EED4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137690$0FB59AAC-2020-4E4F-9CDA-63A8F068CA9D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0041-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94ba2b0853c88c627d0757957d807e805e4cf36c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137690$D6CADCA1-B705-4DF2-BC25-2D3FE6BACCDB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0023-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "89fdcdc666bb60555a7b02a9c4aba1e55a4a2684",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137690$D4CE7D16-9B60-4883-B76F-C3ADD0702CC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q315492"
+          },
+          "hash": "f9e62bfc952f22f739b4c42019438f9282e35f24",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137690$CDE1C80E-9A0D-4D3E-98D8-C96D51C947D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645864674"
+          },
+          "hash": "f43be8734e61ae38361744f7faafbbac7199d9d0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137690$500495E4-33E6-45E0-940B-6042AE53E331",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcellus Arms.svg"
+          },
+          "hash": "cdde2330f03c11402f4a177d74d35da984fa9eed",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Neffe und Schwiegersohn des römischen Kaisers Augustus"
+    },
+    "el": {
+      "language": "el",
+      "value": "ανιψιός του Αυγούστου στην Ιουλιο-Κλαυδιανή δυναστεία"
+    },
+    "en": {
+      "language": "en",
+      "value": "nephew and son-in-law of Roman emperor Augustus"
+    },
+    "es": {
+      "language": "es",
+      "value": "sobrino del emperador Augusto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "neveu d'Auguste"
+    },
+    "he": {
+      "language": "he",
+      "value": "אציל רומאי"
+    },
+    "it": {
+      "language": "it",
+      "value": "membro della dinastia giulio-claudia, nipote di Augusto"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "nevø og svigersønn av den romerske keiser Augustus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans soldaat (42v Chr-23v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Rzymianin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "военный трибун, 42 до н. э. — 23 до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "systerson till Kejsare Augustus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古罗马人物"
+    }
+  },
+  "id": "Q137690",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماركوس كلاوديوس مارسيلوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Mark Klavdi Marsell"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Клавдий Марцел"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Claudi Marcel"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marco Claudio Marcello"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Κλαύδιος Μάρκελλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcellus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Claudio Marcelo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Martzelo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مارسلوس (خواهرزاده آگوستوس)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Marcellus"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס קלאודיוס מרקלוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Claudio Marcello"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・クラウディウス・マルケッルス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Claudius Marcellus III"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Marco Claudio Marcello"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Klaudiusz Marcellus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Cláudio Marcelo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Cláudio Marcelo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Клавдий Марцелл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Klaudije Marcel"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mark Klavdij Marcel"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марко Клаудије Марцел (Августов сестрић)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcellus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Marcus Claudius Marcellus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Клавдій Марцелл"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "屋大维娅的马塞卢斯"
+    }
+  },
+  "lastrevid": 17555109,
+  "modified": "2025-09-17T11:15:41Z",
+  "ns": 860,
+  "pageid": 166075,
+  "sitelinks": {},
+  "title": "Item:Q137690",
+  "type": "item"
+}

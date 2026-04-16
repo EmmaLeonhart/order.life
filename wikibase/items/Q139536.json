@@ -1,0 +1,420 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Lutatius Catulus Capitolinus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139536$E79A7424-779C-4619-A7F8-76F3C730705F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735902"
+          },
+          "hash": "d3e3d85ec974de0e1e2525af6ef38dc2d40eeda5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139536$EEAB0AF2-3DE4-40F9-B843-43C0081087D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141381",
+              "numeric-id": 141381
+            }
+          },
+          "hash": "f0d5d1bad39cc164a419b1486b51a0701fc5c752",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139536$5E84677C-AD11-4582-AF37-5BBF7876B89D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139536$68309EEB-75DC-40D4-9FB5-4D39D3A5A9C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139536$90D33961-33AF-4382-9AD2-2BAF0237A0A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138386",
+              "numeric-id": 138386
+            }
+          },
+          "hash": "353dd59c757bed249834e77e9a2f860c9695479d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139536$B860CCED-30A8-45A5-9226-7CC7B12C15CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139533",
+              "numeric-id": 139533
+            }
+          },
+          "hash": "7cea4ff1dfe6cb44442b96e61380ad94709d86ba",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139536$E01B4E63-76BF-49BE-9CA9-A893B88BF2FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139536$684798D6-EC6B-4142-A709-348445B28E57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0119-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8e2ff929cc4ff9dbf051b043c9e8643475f91695",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139536$DF1CE303-A1DE-4A4D-9921-31A06B12264C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94f88214bf3994a254f4048f613bd3d206e99077",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139536$C63330F7-E04A-4C0C-9D9D-5D3384E0163A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q463027"
+          },
+          "hash": "73923b07f8fe0bfb84b7f142cfc9205b87aeab7a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139536$4058CE42-D345-4ED3-8573-611A42810B30",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Lutatius Catulus Capitolinus"
+          },
+          "hash": "939b52439f116399bbfd1d5f5f6bbd6946438b69",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139536$EE90B32A-54D8-41A1-B2AA-02FCE4394DAB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Lutatius Catulus Capitolinus Arms.svg"
+          },
+          "hash": "82e51030660487be5775d7e821fd52bf8ef2c1cf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 78 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 78 BCE"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul en 78 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 78 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, console nel 78 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski polityk"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 78 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk konsul 78 f.Kr"
+    }
+  },
+  "id": "Q139536",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Лутаций Катул"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Lutaci Catul"
+    },
+    "da": {
+      "language": "da",
+      "value": "Quintus Lutatius Capitolinus Catulus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Lutatius Catulus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Λουτάτιος Κάτουλος Καπιτωλίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Lutatius Catulus Capitolinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Lutacio Cátulo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Lutatius Catulus"
+    },
+    "he": {
+      "language": "he",
+      "value": "קווינטוס לוטאטיוס קאטולוס קפיטולינוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quinto Lutacio Catulo"
+    },
+    "id": {
+      "language": "id",
+      "value": "Quintus Lutatius Catulus (Capitolinus)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Lutazio Catulo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・ルタティウス・カトゥルス (紀元前78年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Lutatius Catulus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Quintus Lutatius Catulus Capitolinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Lutatius Catulus de Jongere"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwintus Lutacjusz Katulus Kapitoliński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Lutácio Cátulo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Lutácio Cátulo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Лутаций Катул Капитолин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Lutacije Katul"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Lutatius Catulus Capitolinus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Quintus Lutatius Catulus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Quintus Lutatius Catulus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Лутацій Катул Капітолін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小卡图鲁斯"
+    }
+  },
+  "lastrevid": 17558055,
+  "modified": "2025-09-17T11:57:34Z",
+  "ns": 860,
+  "pageid": 167921,
+  "sitelinks": {},
+  "title": "Item:Q139536",
+  "type": "item"
+}

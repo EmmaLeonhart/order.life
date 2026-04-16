@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Frithugyth"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137192$2E3499B2-48AA-4635-831E-50C06903F76C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137192$DE588168-5E7A-4970-A625-B03903460C99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137192$C8AFF788-64E0-4084-9C24-DFBA5DB14FFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136778",
+              "numeric-id": 136778
+            }
+          },
+          "hash": "d680aaa3bf9a58e241d7529756edb37da151eb2e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q137192$E232B20A-C1D6-499D-8A8A-3DB29642C9E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p17580.htm#i175795"
+          },
+          "hash": "23fdf829ecd59907e06659e4791ba5085af905af",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137192$86A7F712-8030-43E1-B1C2-C25FE65AF61C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137192$175BDF36-0CFF-4196-B76F-724F2841EFC5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0701-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2e35d1501e4d0bbfec0751ff7ed7fd5081507500",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137192$352BA957-9195-4E65-8A5F-BB7AF6CD1672",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5504765"
+          },
+          "hash": "f14fd1721e2cf7abfcf7ed6239c020da1478957e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137192$F662E8AC-A096-48C0-B2A8-282D736A7D3C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Frithugyth Arms.svg"
+          },
+          "hash": "94b6c10afa95302e3c1ca140e5896b0704e99ee6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "reina consorte británica"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "United Kingdom siyaasa nira ŋun nyɛ paɣa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anglo-Saxon royal consort"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse du roi du Wessex Æthelheard"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "королева Уэссекса"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "drottning av Wessex"
+    }
+  },
+  "id": "Q137192",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Frithugyth"
+    },
+    "en": {
+      "language": "en",
+      "value": "Frithugyth"
+    },
+    "es": {
+      "language": "es",
+      "value": "Frithugyth"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Frithugyth"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Frithugyth"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Frithugyth"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fridogida"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fridogida"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фритугит"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Frithugyth"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Frithugyth"
+    }
+  },
+  "lastrevid": 17554335,
+  "modified": "2025-09-17T11:04:44Z",
+  "ns": 860,
+  "pageid": 165577,
+  "sitelinks": {},
+  "title": "Item:Q137192",
+  "type": "item"
+}

@@ -1,0 +1,369 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Petronius Sura Mamertinus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139839$3ADC3A97-0D29-4DD8-9EFA-F089FDE13687",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139841",
+              "numeric-id": 139841
+            }
+          },
+          "hash": "9b00c3bb24429833e8a38a522853cf55e65f1be7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139839$D4EF6F73-4895-4F2A-A2E5-76033A47886B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139839$E8E56457-BBA4-4630-A463-76CBCEDB4C54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q139839$7AF02F8F-4786-4992-B567-7657C0698147",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus_Petronius_Sura_Mamertinus_(1)"
+          },
+          "hash": "6d71eacade31ae26eed77f7b4430479a6393c3ee",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139839$32649AC1-B68A-4AE7-969D-6D0BA5316F17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138580",
+              "numeric-id": 138580
+            }
+          },
+          "hash": "7e1acd8b032aa3083a2081534bcb31e299975030",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139839$CE38E66E-6078-45EA-A308-E9D8A7628DE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141781",
+              "numeric-id": 141781
+            }
+          },
+          "hash": "43ed4c7c3777a9f99d6c4357522f262643afb776",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139839$60764207-FB99-41F6-B3C3-01D986330FDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141782",
+              "numeric-id": 141782
+            }
+          },
+          "hash": "e0ee10ac9a3884c20d1d2bb681594da970270c07",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139839$A0B95918-D884-417D-BA86-8A003391C5CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139839$AD253ECF-3701-4CA7-A7BE-FE28C259ED64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139839$247044E9-BDB3-4F74-AFAC-6E896DB0AB80",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0190-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f186bf4d7c5d04ffe250200f9f58c6f1d791aeb0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139839$81191F21-F337-4B50-B4A5-557992DE3487",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1239872"
+          },
+          "hash": "146cb648e5a5e57e412fef8178e84977a21bf51b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q139839$40066466-87E7-4990-9783-99C31C0D4DAB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Petronius Sura Mamertinus"
+          },
+          "hash": "51f279147dbd37d5fedbce0913b8b2705d7bc110",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139839$E4859340-3882-46A8-AAEF-6D7EE9098FDE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Petronius Sura Mamertinus Arms.svg"
+          },
+          "hash": "0245fb641618114087ae4d0c59c9182d424c5fdd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 182"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century Roman senator and consul"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 182"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    }
+  },
+  "id": "Q139839",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Петроний Сура Мамертин"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Petronius Sura Mamertinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Πετρόνιος Σούρα Μαμερτίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Petronius Sura Mamertinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Petronio Sura Mamertino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Petronius Sura Mamertinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Petronio Sura Mamertino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・ペトロニウス・スラ・マメルティヌス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마르쿠스 페트로니우스 수라 마메르티누스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Petronius Sura Mamertinus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Marcus Petronius Sura Mamertinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Petronius Sura Mamertinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Petrônio Sura Mamertino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Petrônio Sura Mamertino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Петроний Сура Мамертин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Petronije Sura Mamertin"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Петроній Сура Мамерцін"
+    }
+  },
+  "lastrevid": 17558547,
+  "modified": "2025-09-17T12:04:32Z",
+  "ns": 860,
+  "pageid": 168224,
+  "sitelinks": {},
+  "title": "Item:Q139839",
+  "type": "item"
+}

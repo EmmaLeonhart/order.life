@@ -1,0 +1,327 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Urgulania"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141424$EC0F7690-1017-4910-A025-0F9CFA3B5B38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "559747"
+          },
+          "hash": "5e05aa3878d27a3b527e677cb8e2e1e5ac950612",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141424$3F8D75D1-FCC0-48AF-B19D-DF91CD132887",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139568",
+              "numeric-id": 139568
+            }
+          },
+          "hash": "84693a3d580cd7bf9289240bd8860fb714da1e3d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141424$005C7B70-47E6-4195-9700-B4A19D27169C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141424$B4E393B1-C237-4364-99BF-B373964F490E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141424$4B6E65A8-8F4C-4A17-B954-0E433A58B0B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141423",
+              "numeric-id": 141423
+            }
+          },
+          "hash": "c1d4d6f9d111308a7939c86007b10c7b9fbfaa08",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141424$21CE342D-B46F-4F56-8B94-8D26796ED222",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144084",
+              "numeric-id": 144084
+            }
+          },
+          "hash": "c14714cba30a76f77d36509470b1a39341c33f5d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141424$BB31E97B-660C-46ED-90A5-33E7B4E90620",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141424$D4F89B29-C25F-42C0-B0CA-C1566E0AF575",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141424$E8BEEDCE-A177-4318-8FD6-BC8EBB1E041A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "093131f0722b63dbcc4c162246fd7b69c288b5b0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141424$8308E328-B56A-4625-9DBF-4C0078F70243",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q469853"
+          },
+          "hash": "0df86eefe4b9d4a2405e7050d4699bc7fee6a4f1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141424$AED8E176-4270-41C3-B63A-CEC82F4BCB71",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Urgulania Arms.svg"
+          },
+          "hash": "68268775289b099e8e6f2796149be53e8a736ac1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Römerin während der Regierungszeit der Kaiser Augustus und Tiberius"
+    },
+    "en": {
+      "language": "en",
+      "value": "prominent noblewoman during the reigns of Augustus and Tiberius and friend of empress Livia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antzinako Erromako emakume noblea"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana"
+    }
+  },
+  "id": "Q141424",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Ургулания"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Urgulània"
+    },
+    "de": {
+      "language": "de",
+      "value": "Urgulania"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ουργουλανία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Urgulania"
+    },
+    "es": {
+      "language": "es",
+      "value": "Urgulania"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Urgulania"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Urgulania"
+    },
+    "it": {
+      "language": "it",
+      "value": "Urgulania"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウルグラニア"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Urgulania"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Urgulania"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Urgulania"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Urgulânia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Urgulânia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ургуланія"
+    }
+  },
+  "lastrevid": 17561262,
+  "modified": "2025-09-17T12:44:44Z",
+  "ns": 860,
+  "pageid": 169809,
+  "sitelinks": {},
+  "title": "Item:Q141424",
+  "type": "item"
+}

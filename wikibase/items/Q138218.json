@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eilward"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q138218$C190FE69-F32F-4D53-9777-E60ECC5105D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138218$B12B1B06-048A-407D-AAC7-0B8DE3CC8026",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138218$F3EA493C-F942-4ABF-909D-13D9CEC1ADBF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eilward_Unknown_(1)"
+          },
+          "hash": "92638f2f1bd49026c9279087e735cffec0353426",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138218$90AD4613-5343-46F5-83FF-189FDD017FEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126851",
+              "numeric-id": 126851
+            }
+          },
+          "hash": "cb7fcff0f66dbacffd6125866b6104c290c67e94",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138218$57C26793-414E-45D3-AE52-F64D75A4BB77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138218$9E49F9DE-4FA0-4717-929A-756FA27225E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1000-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bfaeffd93c9ae612a427a0a168b2db21b0ead38e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138218$C03BC556-7361-4796-9742-92B9DD1A1643",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0f06eb64a36ac7576bf4a559a229ea93027f7a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138218$D3F2B4DC-E506-4710-A855-920DEC11ED04",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1304149"
+          },
+          "hash": "f7e2811dcbe4fc95a61c0ac65a20893142a58e78",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138218$5B022C05-57DA-4E43-8368-658A84788BC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eilward Arms.svg"
+          },
+          "hash": "37029c8fa8adbdfddd8c21fe0b0097c7a4417021",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "míšeňský biskup"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Meißen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Meissen"
+    }
+  },
+  "id": "Q138218",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ايلوارد"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Eilward"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Айлвард фон Майсен"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Eilward"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eilward"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άιλβαρντ του Μάισεν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eilward"
+    },
+    "es": {
+      "language": "es",
+      "value": "Eilward"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eilward"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eilward"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Eilward"
+    }
+  },
+  "lastrevid": 17555971,
+  "modified": "2025-09-17T11:28:01Z",
+  "ns": 860,
+  "pageid": 166603,
+  "sitelinks": {},
+  "title": "Item:Q138218",
+  "type": "item"
+}

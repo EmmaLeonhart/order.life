@@ -1,0 +1,315 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberillus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139604$B0B5CA8D-E148-4276-817A-0AA987BCD38C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735615"
+          },
+          "hash": "5a8177d28995884975d54b107bfc3b72b05fed93",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139604$D53596F9-A8B8-4DDA-86A7-0243D8846FFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139604$C3971359-8F0C-4F2B-AA4D-871CBE1CEFB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139604$69673B29-9A44-4E8C-BEF6-F4E252CEC5E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77827",
+              "numeric-id": 77827
+            }
+          },
+          "hash": "dc227bef88bc9e728263dc032fafb6964443fbcf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139604$1A49EC7D-38A7-4A3B-9F62-7D86684D9071",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72332",
+              "numeric-id": 72332
+            }
+          },
+          "hash": "baba8c4029a6a766d081fc2e5da5ddca76d5bc3b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139604$E693852B-9855-4D47-945F-1B32936B729B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139604$E0D3BC3C-101A-4D3C-AD53-EFEB4A46235C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0010-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "69fddfab783759b609d0e7476944dc813f5190e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139604$9ED177C7-DA10-43B9-B810-8499E64B07EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0010-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "229fee4d17033ba16c3bb88971c5ac82c597f26d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139604$B8E49C10-0CB3-48F2-A817-39FE6EF4F8F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4222774"
+          },
+          "hash": "e25e976257c78a4bc1a4b18ed2f2ecf4993b0a30",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q139604$C8AE41BA-D521-4B8F-AA53-E175CFCB0FC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012956621309"
+          },
+          "hash": "8dc2e84741e88b252f88ff86b96a76031ede4c87",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139604$1C0FE7CC-0AF7-4E6D-87FB-B5BBA5D1457D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberillus Arms.svg"
+          },
+          "hash": "fa704b86983b2b06a8f854af7473a823bb7b65bb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "γιος του Τιβέριου και της Ιουλίας της Πρεσβύτερης"
+    },
+    "en": {
+      "language": "en",
+      "value": "infant son of Tiberius and Julia the Elder"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Tiberio y Julia la Mayor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Tibère et de Julia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "son till Tiberius och Julia den Äldre"
+    }
+  },
+  "id": "Q139604",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Tiberillus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tiberius Claudius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιβιρίλλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberillus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tiberio Claudio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tiberius Claudius"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tiberillus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tiberio Claudio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Tiberius Claudius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Claudius Nero"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клавдий Нерон"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tiberillus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клавдій Нерон"
+    }
+  },
+  "lastrevid": 17558173,
+  "modified": "2025-09-17T11:59:14Z",
+  "ns": 860,
+  "pageid": 167989,
+  "sitelinks": {},
+  "title": "Item:Q139604",
+  "type": "item"
+}

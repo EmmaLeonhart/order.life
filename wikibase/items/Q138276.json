@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Auisle"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138276$D13B3418-FC6A-461D-A850-0D60E8B40617",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "92197"
+          },
+          "hash": "5cba231e70795201ddf8793ee14e052b7ce4205d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138276$DAAAB0DB-E9DD-4B88-89D5-B7E5BBA75296",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139409",
+              "numeric-id": 139409
+            }
+          },
+          "hash": "a67227954b15ee20c0c506dcf3da5a59a25ba873",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q138276$6BD0480C-43AB-4D08-9C50-BB0B836DB8FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gudrødsson-75"
+          },
+          "hash": "749ba6147cb0c8a0bb89bb070d18df53c391d3c0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138276$FD91F2F9-B8CE-4610-82E6-57E6BE6C0E8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138276$1AC356A1-011F-42A2-BBBB-2B8643BD941D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138276$6CF079C9-A760-4802-8FDF-5DF5DF9CBFED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138275",
+              "numeric-id": 138275
+            }
+          },
+          "hash": "8d51b161931fbf931daca1fb60d6667800c35ccd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138276$AD4EED64-5BE2-4A4B-BBD3-5BC4FD5FC056",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138276$A1F97554-DC61-4D1A-9C6C-38344D16A92F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0900-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8d87210d668e225f8a8e60f9aa6f750a8b23e4d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138276$646AF91E-F766-4D85-9011-19FDDB8B7FDC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0867-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f08866b94971c792c169725262ba78fad44c6c47",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138276$3EF176F7-69F1-4D03-93FC-3761BE847228",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2871732"
+          },
+          "hash": "ef6051198f7b2b3117fe87eb83c7f29a3089922a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138276$D988867D-1A5E-490B-A6A9-11D435B45633",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000037533950092"
+          },
+          "hash": "1fcffdcc3b36abd024c9b08e23adb7596298551b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138276$67E4D3EA-536E-4C4A-A509-8E63FD8C6041",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Auisle Arms.svg"
+          },
+          "hash": "ed08d8b170018215f5b7a82efac30f8119fa0f24",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei de Dublín"
+    },
+    "en": {
+      "language": "en",
+      "value": "9th-century monarch"
+    }
+  },
+  "id": "Q138276",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Auisle"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Auisle"
+    },
+    "en": {
+      "language": "en",
+      "value": "Auisle"
+    },
+    "es": {
+      "language": "es",
+      "value": "Auisle"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Auisle"
+    },
+    "id": {
+      "language": "id",
+      "value": "Auisle"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아우드기슬"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Auisle"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Асл"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Auisle"
+    }
+  },
+  "lastrevid": 17556035,
+  "modified": "2025-09-17T11:28:57Z",
+  "ns": 860,
+  "pageid": 166661,
+  "sitelinks": {},
+  "title": "Item:Q138276",
+  "type": "item"
+}

@@ -1,0 +1,365 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cadell ap Gruffydd"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138601$C978C8DF-4EC8-45BF-9E53-C19D165B81B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "414206"
+          },
+          "hash": "539a318c1f607690b21c9aa383d6c1ff200a5bc8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q138601$363D9D23-E1E9-492D-8AF5-BB038E1B4AF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Gruffydd-69"
+          },
+          "hash": "f33edab1b8b3b88c755ad27624fd627ad25bbb00",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138601$02345869-23B4-4251-BE76-5A205DA939F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138601$5674B96B-CCFD-4817-A8F7-E40835F696C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138601$5133AF84-7C9B-4A56-9D9C-9A4D9312713A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cadell_Gruffydd_(1)"
+          },
+          "hash": "0f82b410cbf16c8be7c9363db51c608ff88275ae",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138601$3C53AA6A-4AF6-44D6-A96E-89525BF89D56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127754",
+              "numeric-id": 127754
+            }
+          },
+          "hash": "8a92e53c4f72b7bcc089039d41b1eb475c1deb4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138601$FBA65D79-4A29-4294-AF79-509CE99A6FA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138601$B494B0E1-3758-498F-89AB-2A27B883B68C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138601$DE9A17FF-5ACD-44B6-BBB3-74A93385966D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1175-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a520753083280b7bcda4f69340aa3904d0f675a6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138601$235EF655-53CA-45E1-9FBA-23E2958E98F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2519799"
+          },
+          "hash": "eb4136a0cbb995d0115dc323e29f0049d65beb6b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138601$2968F96C-9AF6-4696-A0A0-3A4B637C1D8C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Cadell ap Gruffydd"
+          },
+          "hash": "6c988a9fda99375e844a6ec13133741ae1f14170",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q138601$7EEF1CD6-0969-4861-A58E-58EB3FE9AF3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=cadell;n=of south wales"
+          },
+          "hash": "5993db0cfe959bfb9052db658ddf72356c26944d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138601$7D0F67DA-FE5D-4A54-A98F-160329A6A304",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cadell ap Gruffydd Arms.svg"
+          },
+          "hash": "785a1cb1cb37aec95fe465867121213020da3003",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin neu frenhines"
+    },
+    "de": {
+      "language": "de",
+      "value": "walisischer Fürst"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of the kingdom of Deheubarth"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    }
+  },
+  "id": "Q138601",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كاديل اب جروفيد"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Cadell ap Gruffydd"
+    },
+    "br": {
+      "language": "br",
+      "value": "Cadell ap Gruffudd"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cadell ap Gruffydd"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cadell ap Gruffydd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cadell ap Gruffydd"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cadell ap Gruffydd"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cadell ap Gruffydd"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cadell ap Gruffydd"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cadell ap Gruffydd"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cadell ap Gruffydd"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cadell ap Gruffydd"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カデス・アプ・グリフィズ"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Cadell ap Gruffydd"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cadell ap Gruffydd"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Каделл ап Грифид"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡德尔·阿普·格鲁菲兹"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卡德尔·阿普·格鲁菲兹"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "卡德爾·阿普·格魯菲茲"
+    }
+  },
+  "lastrevid": 17556529,
+  "modified": "2025-09-17T11:36:00Z",
+  "ns": 860,
+  "pageid": 166986,
+  "sitelinks": {},
+  "title": "Item:Q138601",
+  "type": "item"
+}

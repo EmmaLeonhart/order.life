@@ -1,0 +1,583 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "James the Just"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138540$981884BC-6C5C-43EF-A690-168CD7081C5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "407825"
+          },
+          "hash": "35f4b7537d9fd3eec4f55f73de2916e9037d2960",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138540$AD3164DF-96D9-48E5-B3E0-31C55A9EA08B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139792",
+              "numeric-id": 139792
+            }
+          },
+          "hash": "5983396c704452160bd5a4ce0868914346cf0cf4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138540$5FB55B5D-A885-48C3-8109-FB1A11F9169C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138540$D22F3D00-A728-4EFE-8AAD-8AA937796F22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138540$3A1024DA-BA92-4A84-A75F-691C64B567CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137751",
+              "numeric-id": 137751
+            }
+          },
+          "hash": "b179a4ac3ea876c7645ec0a09de43911cd96fdf6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138540$0131A6CF-17A0-45B1-AD33-C02C798246F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139788",
+              "numeric-id": 139788
+            }
+          },
+          "hash": "6df4cdd9129be10ad604a827bac7098fb379d523",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138540$40E096A5-551B-4044-8127-0423F6B8AFCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138540$103946F9-973A-48CA-824B-75E566364786",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138540$72A63CEB-A5D0-4107-BD2D-C59EA3DDFBA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0062-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e101e43e9c9baa821d8cc5066afe687d49284d38",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138540$C319DFC9-C29D-45FD-A926-89BAE7BC8A5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26925"
+          },
+          "hash": "57d0f787bf8c1fea14855654c0bfc2fd33600d83",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138540$E8CDB992-75D9-4A83-9E7E-DD20CE6FAE28",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "James the Just Arms.svg"
+          },
+          "hash": "4b8445d41230f2484ea524aa4994ff28b313d806",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "شخصيه من العهد الجديد"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "bratr Ježíše Krista"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "arweinydd yn yr Eglwys Fore a brawd honedig yr Iesu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Figur der Jerusalemer Urgemeinde"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jewish bishop of Jerusalem figure in Early Christianity"
+    },
+    "es": {
+      "language": "es",
+      "value": "figura del cristianismo"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "varhaiskristillinen piispa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "saint chrétien et évêque de Jérusalem"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחיו של ישו, אחד מ-12 השליחים"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Քրիստոսի 70 առաքյալներից մեկը"
+    },
+    "iba": {
+      "language": "iba",
+      "value": "bishop keterubah Gerija Jerusalem"
+    },
+    "id": {
+      "language": "id",
+      "value": "tokoh uskup Yerusalem berkebangsaan Yahudi pada zaman Gereja Purba"
+    },
+    "it": {
+      "language": "it",
+      "value": "capo della Chiesa di Gerusalemme"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "예수의 동생이자 예루살렘의 초대 주교"
+    },
+    "min": {
+      "language": "min",
+      "value": "tokoh uskup Yerusalem bakabansoan Yahudi pado zaman Gareja Purba"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "broer van Jezus, volgens het Nieuwe Testament"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "święty chrześcijański określany jako brat Jezusa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "apóstolo de Jesus Cristo, primeiro bispo de Jerusalém"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "apóstolo de Jesus Cristo, primeiro bispo de Jerusalém"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "один из 70 апостолов Христа"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "hrišćanski svetitej"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Markos 6:3)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "двоюрідний брат Господа Ісуса Христа"
+    }
+  },
+  "id": "Q138540",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يعقوب البار"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يعقوب البار"
+    },
+    "br": {
+      "language": "br",
+      "value": "Jakez"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jaume el Just"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jakub Spravedlivý"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Iago"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jakob den Retfærdige"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jakobus der Gerechte"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Jakobus der Gerechte"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιάκωβος ο αδελφόθεος"
+    },
+    "en": {
+      "language": "en",
+      "value": "James the Just"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "James the Just"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "James the Just"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jakobo la Justulo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Santiago el Justo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaakobus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Jakue Zuzena"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یعقوب البار"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jaakob"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Jákup hin Rættvísi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jacques le Juste"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Jakobus de Rjochtfeardige"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Séamus Cóir"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Santiago o Xusto"
+    },
+    "got": {
+      "language": "got",
+      "value": "𐌹𐌰𐌺𐍉𐌱𐌿𐍃"
+    },
+    "he": {
+      "language": "he",
+      "value": "יעקב הצדיק"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Jakov Pravedni"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jakab, az Úr testvére"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հակոբոս"
+    },
+    "iba": {
+      "language": "iba",
+      "value": "James, menyadi Jesus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yakobus Sadik"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giacomo il Giusto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヤコブ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იაკობი ძმა უფლისა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "야고보"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iacobus Iustus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Jakobus"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Jakoba ilay Marina"
+    },
+    "min": {
+      "language": "min",
+      "value": "Yakobus Sadik"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Апостол Јаков Праведниот"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Yakobus, saudara Yesus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jakob den rettferdige"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Jakobus de Rechtvaardige"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jakobus de Rechtvaardige"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Jakob den rettferdige"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jakub Sprawiedliwy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tiago, o Justo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tiago, o Justo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Iacob cel Drept"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иаков"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Jakov Pravedni"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jakob Pravični"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "James the Just"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Jakov Pravedni"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jakob den rättfärdige"
+    },
+    "th": {
+      "language": "th",
+      "value": "ยากอบผู้ชอบธรรม"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Santiago ang Makatarungan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yakup, İsa'nın kardeşi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Яків Праведний"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "یعقوب البار"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "公義者雅各"
+    }
+  },
+  "lastrevid": 17556447,
+  "modified": "2025-09-17T11:34:51Z",
+  "ns": 860,
+  "pageid": 166925,
+  "sitelinks": {},
+  "title": "Item:Q138540",
+  "type": "item"
+}

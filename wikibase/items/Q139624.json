@@ -1,0 +1,307 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aemilia Lepida"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139624$D78BBA74-4F39-440B-BA52-EA604F8AAF62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735536"
+          },
+          "hash": "44a69b44822d5c6e1046f3c1e522212033f38947",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139624$0C304CB1-12AD-4A4C-B2B2-C5FB01657B7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139624$B8211FA7-6C6B-44E3-A08A-6BEA66821C8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139624$23CDDBCA-FEBA-4995-A3BC-3BC193598C4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138461",
+              "numeric-id": 138461
+            }
+          },
+          "hash": "59d414a61d142d37ac982f3bd6ab8f6941fe8f03",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139624$E7CEED68-FC90-4814-BD32-61B7EE528ED9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139623",
+              "numeric-id": 139623
+            }
+          },
+          "hash": "a1995d087e3608b202d8c1803e51522ff452e4b3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139624$B58BE799-C07A-4854-A804-9DC727B75331",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138432",
+              "numeric-id": 138432
+            }
+          },
+          "hash": "fd573d328347c9a51389573ac177c383424075c2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139624$BF99F87C-D481-4A30-9297-1D8CA803BC0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139624$32CC497D-0370-4E89-ABD6-DDC86B6B216C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139624$B8850EC1-006C-47C8-8BA0-22BD53D56B86",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0036-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3f0b00975fe8b9e5080307f12a7bc49c9b0aa7bc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139624$E661ED81-AD62-4D06-A407-67A9F33A068B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3492603"
+          },
+          "hash": "1418ca808dbe62581e12158b70f1790ea109d4db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139624$56E74A29-B901-4355-8054-88BA5B6178E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aemilia Lepida Arms.svg"
+          },
+          "hash": "ab166929de9831f6c2c9379796ba1aa998a0a780",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Drusus Caesar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Drusus Caesar"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dochter van Marcus Aemilius Lepidus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь консула Марка Эмилия Лепида"
+    }
+  },
+  "id": "Q139624",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Емилия Лепида"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emília Lèpida"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aemilia Lepida"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αιμιλία Λεπίδα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aemilia Lepida"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aemilia Lepida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aemilia Lepida"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aemilia Lepida III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Emilia Lepida"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эмилия Лепида"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Емілія Лепіда"
+    }
+  },
+  "lastrevid": 17558197,
+  "modified": "2025-09-17T11:59:35Z",
+  "ns": 860,
+  "pageid": 168009,
+  "sitelinks": {},
+  "title": "Item:Q139624",
+  "type": "item"
+}

@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Feidhealm Ruadh"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141739$FBC147D3-58B3-4069-97B6-B4BC2CE3EBD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "151812"
+          },
+          "hash": "d0431719508669c3a9104a3bda510d13c3f93c2b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141739$65BDCDCB-8B2B-4C5C-9088-1763C3EADFC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141739$5ED4BD63-ED44-4194-8009-707C345997AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141739$E915855B-DDDD-4D8B-8BAD-ADD1EDCFCE14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139809",
+              "numeric-id": 139809
+            }
+          },
+          "hash": "9f23daca7263d98e2c8be8093a91e56ffdbe919c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141739$F439BF81-C820-41DE-90F9-3D61FA57EBE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141739$334C1720-ED8D-416B-B68D-A5E43F6980A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141739$295AAD9D-A1C4-43CA-B889-D1EE44F0E0CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141739$3C378448-15C1-417E-A2C6-33982193732D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q64786452"
+          },
+          "hash": "cd8fbe76095e419eaf8cea0d42d3e8f352422c10",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141739$2F0BA8C1-C9FE-4656-A084-6529D2106608",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Feidhealm Ruadh Arms.svg"
+          },
+          "hash": "28943246e3dc07742f06ea9a2e4401263633cfc5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "5th-century saint and daughter of Lóegaire mac Néill, king of Tara, who was baptised by St. Patrick"
+    }
+  },
+  "id": "Q141739",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Feidhealm Ruadh"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fidelmia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Feidhealm Ruadh"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Feidhealm Ruadh"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Feidhealm Ruadh"
+    }
+  },
+  "lastrevid": 17561766,
+  "modified": "2025-09-17T12:52:01Z",
+  "ns": 860,
+  "pageid": 170124,
+  "sitelinks": {},
+  "title": "Item:Q141739",
+  "type": "item"
+}

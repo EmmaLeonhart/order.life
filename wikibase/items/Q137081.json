@@ -1,0 +1,331 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jorund"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q137081$57263B31-A22C-4DC4-A49B-6403AD8026CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136690",
+              "numeric-id": 136690
+            }
+          },
+          "hash": "706889d2a3f7f75a4c899b76e243983148ce8b75",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q137081$8FC3F4EC-F575-4888-8003-6C07DA63EE07",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Yngvisson-2"
+          },
+          "hash": "b8df49b4ed1cdf83185f9ebae8931d6e325182f1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137081$53FDFE15-FFEB-427E-8BDE-1ACE66388877",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137081$7BE36EC5-B1C1-4516-96A5-B951B24923FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137081$7EB15246-79E6-499B-B348-6C49085BA81D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Jorund_Yngvasson_(2)"
+          },
+          "hash": "44f7e4d1d8b854ca036157225a4da8234e63c100",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137081$2802EBF7-DF49-4175-92AF-03F9CCA4AAD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137579",
+              "numeric-id": 137579
+            }
+          },
+          "hash": "f20f049b04ab995892f59a372c59d20e0224cfae",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137081$688332BD-D735-4725-89EA-0BA1E675D93F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137081$18C57D9A-71EB-40CD-A918-EE99D90161D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0401-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dabca8120473690a425c5f6215e8f1ccdb034294",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137081$29F8AC70-54C2-450A-9C7F-F83BF5C03DA3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137081$40945F27-836C-4EB6-828E-AFF12D2DFF19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q80518"
+          },
+          "hash": "216d705960c438e008f5a10485df8b4b702f6d90",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137081$4726F103-96D3-4727-A434-755E74469F4C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jorund Arms.svg"
+          },
+          "hash": "a0e146c507784f1b7374aeefe559414608d98ccd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "schwedischer Sagenkönig"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary Swedish king"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi suédois légendaire"
+    },
+    "it": {
+      "language": "it",
+      "value": "re mitologico sueune"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İskandinav mitolojisinde efsanevi İsveç kralı"
+    }
+  },
+  "id": "Q137081",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Jorund"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йорунд"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jorund"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jorund"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jorund"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jörund"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jorund"
+    },
+    "it": {
+      "language": "it",
+      "value": "Jörundr"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨルンド"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Jörund"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jörund Yngvasson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jorund"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jorund"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёрунд"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jörund"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jorund"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Йорунд"
+    }
+  },
+  "lastrevid": 17554163,
+  "modified": "2025-09-17T11:02:17Z",
+  "ns": 860,
+  "pageid": 165466,
+  "sitelinks": {},
+  "title": "Item:Q137081",
+  "type": "item"
+}

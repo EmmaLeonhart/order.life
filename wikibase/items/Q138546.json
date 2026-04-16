@@ -1,0 +1,374 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ælfwald I"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138546$EA402C7A-4434-4C25-856E-248301DFF7B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00349178"
+          },
+          "hash": "1f1732f1d0a46890d7d92560abf85ab38f4050d9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138546$84A47F05-5147-4B9F-90D9-A5CC53196A57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139796",
+              "numeric-id": 139796
+            }
+          },
+          "hash": "9660c854ee8599bafd82ccca8e75b582ed61f8b2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138546$4141A0D3-22B0-4D58-9D74-352EC405C468",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139797",
+              "numeric-id": 139797
+            }
+          },
+          "hash": "87228d1fb195e07af54d0ab2b66e9c9b6c8ab354",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138546$7DAEE1B3-E51C-4BDA-896D-5F3EDBCD9ACE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138546$47D3CA26-E313-4638-B8DE-B0FEB8AD2B7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q138546$886E25EB-5BFA-4D73-B6AA-1E8B3F391759",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15033.htm#i150323"
+          },
+          "hash": "32a858f8387675cb79b7e2ff2790b607adfa68b3",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138546$713BD08D-6B69-4C8C-997A-25CF98BAD9A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137754",
+              "numeric-id": 137754
+            }
+          },
+          "hash": "74599edcbde8e00f0a3a0008e469bd281efd9ea4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138546$B3C7D3A2-3E23-40B8-AD59-8C876D61732D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138546$247B974B-39F1-44E2-B65B-1BC1C3B92B9A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0759-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f11a17382cd72be69e37be4934b9c74908f1f906",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138546$F9EE97AA-10D7-41ED-AEDE-ED5290997720",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0788-09-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8f29376930e56f2967dc9586b2fde53ee55792d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138546$EF8CEF56-1C66-4F6B-8003-1B689820CB34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q271379"
+          },
+          "hash": "10277566c587d16b67bb385e77986b048bc436d2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138546$F5836C37-B9E7-48F4-BB34-39370CC1E648",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ælfwald I Arms.svg"
+          },
+          "hash": "f5b9875fc8086b0307b1ea1f79db5a4586303401",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Northumbria"
+    },
+    "en": {
+      "language": "en",
+      "value": "Northumbrian king"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Northumbrie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Northumbria királya"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Koninkrijk Northumbria (759-788)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Нортумбрии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "engelsk monark"
+    }
+  },
+  "id": "Q138546",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "الفوالد الاول"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ælfwald I de Northúmbria"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ælfwald I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Έλφβαλντ Α΄ της Νορθουμβρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ælfwald I"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Ælfwald I of Northumbria"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Ælfwald I of Northumbria"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aelfwald la 1-a (Northumbria)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ælfwald I of Northumbria"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ælfwald I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ælfwald Ier"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Aelfwald I de Northumbria"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Ælfwald northumbriai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ælfwald I di Northumbria"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルフワルド1世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ælfwald I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Elfwald I z Nortumbrii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эльфволд I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Aelfwald I od Northumbrije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ælfwald I av Northumbria"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ельфвалд І"
+    }
+  },
+  "lastrevid": 17556457,
+  "modified": "2025-09-17T11:34:59Z",
+  "ns": 860,
+  "pageid": 166931,
+  "sitelinks": {},
+  "title": "Item:Q138546",
+  "type": "item"
+}

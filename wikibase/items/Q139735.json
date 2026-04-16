@@ -1,0 +1,383 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manius Acilius Glabrio"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139735$4E520937-E1AB-48C5-BFEF-7CC74FC2A816",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736103"
+          },
+          "hash": "d11befb71f43d96eb479fce4164f5d12026c2ccd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139735$00E3C01F-9998-4AAE-ACE5-093F8718E9FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141641",
+              "numeric-id": 141641
+            }
+          },
+          "hash": "cd438cdb6938b1cf129cdff0c4c32786fbd68f6e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139735$299E9CF5-8E5A-47C7-B6EA-F9CB025D0FF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139735$BAC61520-2293-41DF-9609-673A4DCCA192",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139735$78F2EC63-AE40-42F1-8F7A-11EA370D15C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138502",
+              "numeric-id": 138502
+            }
+          },
+          "hash": "46d9bfeb6d8defa15999eff1ad92898e028f9c45",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139735$342FECBF-E17D-46A0-96FD-9652B76B4ABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141640",
+              "numeric-id": 141640
+            }
+          },
+          "hash": "2f0c527b98351066ef4f81786e381ae424621a40",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139735$95CEF453-B31C-45C5-AD2C-AC068498C58B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139735$36961998-4CC5-430E-AB17-2D3EDA7D555B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0111-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "29d303e73cec99da212e6a6093e538e0f22fa173",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139735$789D63A5-8E78-4747-AD62-E6C504454B9F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aeadc470c76de18d73f3b016a929b758575aa3fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139735$77FABE5C-32AD-4848-9806-D31DD06F5E92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q551225"
+          },
+          "hash": "4d279a2e54c53e240cb8140842ce08bd19ed9ec6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139735$8FE12ED2-5A92-43C2-BB34-FBC0D891B748",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manius Acilius Glabrio Arms.svg"
+          },
+          "hash": "6ab9e2e984518429c74a2bcff4088030e609d70f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 67 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "1st-century BC Roman consul"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma, cónsul en el año 67 a. Cristo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 67 av. J.-C."
+    },
+    "gl": {
+      "language": "gl",
+      "value": "cónsul no nao 67 a. C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e generale romano eletto console nel 67 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 67 v.Chr."
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q139735",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "مانيوس اسيليوس جلابريو"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Маний Ацилий Глабрион"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mani Acili Glabrió"
+    },
+    "de": {
+      "language": "de",
+      "value": "Manius Acilius Glabrio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάνιος Ακίλιος Γλαβρίων (ύπατος το 67 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manius Acilius Glabrio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manio Acilio Glabrión"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Manius Acilius Glabrio"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Manio Acilio Glabrio"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Manije Acilije Glabrion"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Manio Acilio Glabrión"
+    },
+    "it": {
+      "language": "it",
+      "value": "Manio Acilio Glabrione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マニウス・アキリウス・グラブリオ (紀元前67年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Manius Acilius Glabrio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Manius Acilius Glabrio"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mânio Acílio Glábrio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mânio Acílio Glábrio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маний Ацилий Глабрион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Manije Acilije Glabrion"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Manius Acilius Glabrio"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Маній Ацилій Глабріон"
+    }
+  },
+  "lastrevid": 17558387,
+  "modified": "2025-09-17T12:02:16Z",
+  "ns": 860,
+  "pageid": 168120,
+  "sitelinks": {},
+  "title": "Item:Q139735",
+  "type": "item"
+}

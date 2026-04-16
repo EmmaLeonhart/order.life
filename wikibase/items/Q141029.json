@@ -1,0 +1,537 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adalbert of Prague"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "Święty Wojciech"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141029$576BAA23-C79D-448A-9E27-57F7E0EC77C3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "927854"
+          },
+          "hash": "38b7618a2593c4fbfc27123344e761120f1f7041",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141029$CBDAF5FC-9974-4ED4-B6F5-50267BE950CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141029$A3CFF59D-A0C8-4AB9-AFB4-CB5005872CA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141029$F339A72C-F439-4B62-8E6D-DB8E3A419D77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141027",
+              "numeric-id": 141027
+            }
+          },
+          "hash": "c66064d9e1e89cfaf9bbab92b5a1402fae3fa2e9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141029$70A2F769-AB53-4ED3-86DB-6147C75D657B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139299",
+              "numeric-id": 139299
+            }
+          },
+          "hash": "e5db23f48b1fc8302ea635d37f5e71ae262e65bd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q141029$E9FEFA81-2BFE-4546-A95F-88D3BE9337E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6871802"
+          },
+          "hash": "9887d50f80509be85898c84bdef2b78a3fceb93a",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141029$B060CBDE-BA83-4447-9209-8C2AA3C00F17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141029$51E1A0D8-5E4A-4C04-91D8-FC2677C8FA9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0956-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71fe0e6fb8a94b6fa80ca2ec0663515d9b8735a9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141029$0C91DA48-CFD9-40C6-93A1-E257C0C2DC75",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0997-04-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf8a491c91972527c638c0b76019f7695cd680f8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141029$0D9495E6-688E-40CA-BE53-B79A3D6D0775",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q243427"
+          },
+          "hash": "a179d98d851c09fb7291a65d6d876c6adf17ce2e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141029$1B47C9E3-C881-44CF-A1D0-169224B705E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adalbert of Prague Arms.svg"
+          },
+          "hash": "bd5fe6b385a3aac182128b12a54d8fcf65945361",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كهنوت تشيكي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "قديس كاثوليكى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "sacerdote católicu checu (955–997)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "праскі біскуп, каталіцкі сьвяты"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "pražský biskup"
+    },
+    "csb": {
+      "language": "csb",
+      "value": "chrzescëjańsczi biskùp i mãczennik"
+    },
+    "de": {
+      "language": "de",
+      "value": "katholischer Glaubensbote in Ungarn und bei den Pruzzen, Bischof von Prag, Erzbischof von Gnesen und Märtyrer"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bohemian missionary and saint (c.956–997)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش اهل جمهوری چک"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "katolinen piispa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "saint catholique"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "relixioso bohemio e santo (c.956–997)"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "kršćanski svetac"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "(956–997) cseh hittérítő, vértanú"
+    },
+    "it": {
+      "language": "it",
+      "value": "santo dalla Chiesa cattolica, patrono di Boemia, Polonia, Ungheria e Prussia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "priester uit Tsjechië (955-997)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "czeski biskup Pragi, misjonarz, święty kościoła katolickiego, główny patron Polski"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "preot catolic ceh"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "чешский католический священник"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "2. pražský biskup a svätec"
+    }
+  },
+  "id": "Q141029",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ادالبرت من براج"
+    },
+    "be": {
+      "language": "be",
+      "value": "Адальберт Пражскі"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "сьвяты Войцех"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Адалберт Пражки"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Adalbert de Praga"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "svatý Vojtěch"
+    },
+    "csb": {
+      "language": "csb",
+      "value": "Swiãti Wòjcech"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Adalbert o Brag"
+    },
+    "da": {
+      "language": "da",
+      "value": "Svatý Vojtěch"
+    },
+    "de": {
+      "language": "de",
+      "value": "Adalbert von Prag"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αδαλβέρτος της Πράγας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adalbert of Prague"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Adalberto el Prago"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adalberto de Praga"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Adalbert"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Adalbert de Prague"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Adalberto de Praga"
+    },
+    "he": {
+      "language": "he",
+      "value": "אדלברט מפראג"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sveti Vojtjeh (Adalbert Praški)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szent Adalbert"
+    },
+    "id": {
+      "language": "id",
+      "value": "Adelbertus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Adalberto di Praga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プラハのアダルベルト"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프라하의 아달베르트"
+    },
+    "la": {
+      "language": "la",
+      "value": "Adalbertus Pragensis"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Adalbertas Prahiškis"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Svētais Adalberts no Prāgas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Svatý Vojtěch"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adalbert van Praag"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Svatý Vojtěch"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wojciech Sławnikowic"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Adalberto de Praga"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Adalberto de Praga"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Adalbert de Praga"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Адальберт Пражский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Vojtjeh Praški"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Vojtech Pražský"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "sveti Adalbert Praški"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Adalbert of Prague"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Vojtěch Adalbert av Prag"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Adalbert wa Prague"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Adalberto ng Praga"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Адальберт Празький"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Adalberto de Praga"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "布拉格的亚德伯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "布拉格的亚德伯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "布拉格的亚德伯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "布拉格的亞德伯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "布拉格的亞德伯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "布拉格的亚德伯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "布拉格的亞德伯"
+    }
+  },
+  "lastrevid": 17560647,
+  "modified": "2025-09-17T12:35:28Z",
+  "ns": 860,
+  "pageid": 169414,
+  "sitelinks": {},
+  "title": "Item:Q141029",
+  "type": "item"
+}

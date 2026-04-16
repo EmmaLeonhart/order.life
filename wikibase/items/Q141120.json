@@ -1,0 +1,630 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Filip Eriksson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141120$51F56C49-011C-4D81-B3AE-A12C75FA6F63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00509108"
+          },
+          "hash": "407e4c7b200b06cf993a0ed738d1d1f781191511",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141120$10207352-C5A9-4048-AC78-6FBC952B2E69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143709",
+              "numeric-id": 143709
+            }
+          },
+          "hash": "dd98023c424776c8103b06fd4cce0f4d9b5e0b49",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141120$CB4BA498-4C3D-46CC-B86E-980EB9AE04F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eriksson-3615"
+          },
+          "hash": "60e594b2dd4cd0b5902c42434ff345795d4b71c1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141120$FE0D9B53-3D79-49F6-8B7E-31E261A293F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141120$1F77D7A4-89EE-4435-8DAB-BBE1BA1B3474",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141120$76E337B5-81A8-4D9A-A13E-8A88E5AF1988",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141117",
+              "numeric-id": 141117
+            }
+          },
+          "hash": "9a30345e87f73ee5f23d2cf686f1dc7b43da2540",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141120$1BCB7C97-22C8-448D-9404-E7001456D6FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139354",
+              "numeric-id": 139354
+            }
+          },
+          "hash": "eabde6923fb34b42d9d399614ffce80bf00b5974",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141120$153E577C-7ECF-465F-B2EB-FF8879FAC93B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141120$4D3239A9-6BFE-48F3-B94E-E81070D29BBD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1145-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f4fa2f46359f65744b111bb9a33235935dead80",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141120$F2623D68-95A0-43F0-95DE-DE68FB67362B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16404228"
+          },
+          "hash": "f7e09ad4f428f5bdc4b66127b79c0443fa505abf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q141120$C475D170-794F-48D9-A912-A3B2AF53B02D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=filip;n=erikatten"
+          },
+          "hash": "249cf7020bd60e3d2976ddfe525631bce8d8bd0e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q141120$A74CF5E8-EBAA-42E1-8091-1BCE7FE7E772",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.7069"
+          },
+          "hash": "3a82a677968a056ba13378da4ca231f55b20ab28",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141120$65360BCF-6090-4685-9653-34643E033411",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Filip Eriksson Arms.svg"
+          },
+          "hash": "22bad822908a602ac3b3abb31e1ee54dbfc87947",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1142 - 1200"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1142-1200)"
+    }
+  },
+  "id": "Q141120",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Filip Eriksson"
+    },
+    "an": {
+      "language": "an",
+      "value": "Filip Eriksson"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Filip Eriksson"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Filip Eriksson"
+    },
+    "be": {
+      "language": "be",
+      "value": "Філіп Эрыксан"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Filip Eriksson"
+    },
+    "br": {
+      "language": "br",
+      "value": "Filip Eriksson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Filip Eriksson"
+    },
+    "co": {
+      "language": "co",
+      "value": "Filip Eriksson"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Filip Eriksson"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Filip Eriksson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Filip Eriksson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Filip Eriksson"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Filip Eriksson"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Filip Eriksson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Filip Eriksson"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Filip Eriksson"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Filip Eriksson"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Filip Eriksson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filip Eriksson"
+    },
+    "et": {
+      "language": "et",
+      "value": "Filip Eriksson"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Filip Eriksson"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Filip Eriksson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Filip Eriksson"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Filip Eriksson"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Filip Eriksson"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Filip Eriksson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Filip Eriksson"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Filip Eriksson"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Filip Eriksson"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Filip Eriksson"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Filip Eriksson"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Filip Eriksson"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Filip Eriksson"
+    },
+    "id": {
+      "language": "id",
+      "value": "Filip Eriksson"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Filip Eriksson"
+    },
+    "io": {
+      "language": "io",
+      "value": "Filip Eriksson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filip Eriksson"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Filip Eriksson"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Filip Eriksson"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Filip Eriksson"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Filip Eriksson"
+    },
+    "li": {
+      "language": "li",
+      "value": "Filip Eriksson"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Filip Eriksson"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Filip Eriksson"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Filip Eriksson"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Filip Eriksson"
+    },
+    "min": {
+      "language": "min",
+      "value": "Filip Eriksson"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Filip Eriksson"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Filip Eriksson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Filip Eriksson"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Filip Eriksson"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Filip Eriksson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Filip Eriksson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Filip Eriksson"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Filip Eriksson"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Filip Eriksson"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Filip Eriksson"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Filip Eriksson"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Filip Eriksson"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Filip Eriksson"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Filip Eriksson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Filip Eriksson"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filip Eriksson"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Filip Eriksson"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Filip Eriksson"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Filip Eriksson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филип Эрикссон"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Filip Eriksson"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Filip Eriksson"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Filip Eriksson"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Filip Eriksson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Filip Eriksson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Filip Eriksson"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Filip Eriksson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Filip Eriksson"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Filip Eriksson"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Filip Eriksson"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Filip Eriksson"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Filip Eriksson"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Filip Eriksson"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Filip Eriksson"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Filip Eriksson"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Filip Eriksson"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Filip Eriksson"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "菲里普·埃里克松"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Filip Eriksson"
+    }
+  },
+  "lastrevid": 17560763,
+  "modified": "2025-09-17T12:37:06Z",
+  "ns": 860,
+  "pageid": 169505,
+  "sitelinks": {},
+  "title": "Item:Q141120",
+  "type": "item"
+}

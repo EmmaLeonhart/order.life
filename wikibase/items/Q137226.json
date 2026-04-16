@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwynog"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137226$AB09BCF9-9A21-4FFD-93A2-387472B56805",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137226$363A772A-B1A4-4C4A-A33D-F14F6C8A4622",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137226$E40E4835-BD67-4AFF-A988-BAB63A1CD527",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136808",
+              "numeric-id": 136808
+            }
+          },
+          "hash": "fd7daf7773c99e3f8f10bad67dc123153a2a688d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137226$A88AF40B-BE35-4F12-A03D-B406293D695C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137226$31218968-7C4E-4024-8179-03C033DA383B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0511-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "67dda1cefc4006eddf4208771524869af25b9307",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137226$33121DBD-B0C9-41B7-B5FC-5C01CE164CF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0580-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "496bf87cb9acb4cb7533a327ed49d6417fccfa11",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137226$646E3B58-BC30-409E-A999-9BEB9B7E0B3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106406089"
+          },
+          "hash": "d919948b9d0d4f10f7a3bf67808d01484cdfb0bd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q137226$C1EAF3B9-D29F-485C-B9FB-37CAE310DECB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwynog"
+          },
+          "hash": "3c9aea871f655c39113fdcb8198e4853191a19a0",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137226$FA3A326A-499A-40F6-9A19-BBCA0EC3D11A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwynog Arms.svg"
+          },
+          "hash": "0f698290d63a0f7fa36bed3189b0ecbd1902a2f8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "sant"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh saint"
+    }
+  },
+  "id": "Q137226",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Gwynog"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwynog"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwynog"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gwynog"
+    }
+  },
+  "lastrevid": 17554391,
+  "modified": "2025-09-17T11:05:32Z",
+  "ns": 860,
+  "pageid": 165611,
+  "sitelinks": {},
+  "title": "Item:Q137226",
+  "type": "item"
+}

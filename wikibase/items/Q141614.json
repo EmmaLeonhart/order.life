@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Aemilius Scaurus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q141614$935B278D-D528-4BEA-9A3D-B7A432B602B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141614$9F87F926-9AA2-4D06-8BAB-61AE9D42B9AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141614$D68576A0-57E0-4F3C-B480-957EEC7396E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139732",
+              "numeric-id": 139732
+            }
+          },
+          "hash": "834b028950165353923b38b8d4134dddd1c68cf1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141614$750A295E-46B0-4B1B-926B-83733B39EB0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141614$B71B1F03-C588-49FB-BA44-D09972F22171",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141614$0A38BEA2-8DA2-4ADC-926B-4774057CCB50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0102-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98684d059adf1db48f450f7c21ce15ec9a843aaa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141614$9AE50151-E311-447E-9587-28E067BE5D54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15707393"
+          },
+          "hash": "f326c4cd5d9e321242f31fd6e872b7967cb43731",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141614$96E455BA-8459-408D-A618-F4FD1E32A425",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Aemilius Scaurus Arms.svg"
+          },
+          "hash": "7919c20a8b4f08ce4b380bc02f1b36bd1449111b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "legate"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Escauro acusado de cobardía"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "légat romain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q141614",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Emilio Escauro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Emilio Scauro"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Aemilius Scaurus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Эмилий Скавр"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Емілій Скавр"
+    }
+  },
+  "lastrevid": 17561576,
+  "modified": "2025-09-17T12:49:19Z",
+  "ns": 860,
+  "pageid": 169999,
+  "sitelinks": {},
+  "title": "Item:Q141614",
+  "type": "item"
+}

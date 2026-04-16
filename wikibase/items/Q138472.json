@@ -1,0 +1,350 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberius Claudius Drusus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138472$16128648-F0DD-426F-909C-FC62A57AE8D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446803"
+          },
+          "hash": "0d8c42af405c5f0743c69fb5ddd82bd969338f0f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138472$E598C3DA-7C3F-4145-90F3-6C76EB5D1B6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138472$A09F87CD-30E7-4434-9F19-D5984AFFDD6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138472$50898D3C-5587-4118-852F-550AF3D2D473",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99334",
+              "numeric-id": 99334
+            }
+          },
+          "hash": "6e9cc310b39af7eda14e7c2b75191cd672e6d2b8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138472$01B6A115-EB64-4460-9948-63BE3849C749",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138470",
+              "numeric-id": 138470
+            }
+          },
+          "hash": "cec50acc2244394c7f2cb5cf401f7bde3149208d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138472$E4A4007B-5DBE-4F26-B16D-DDAF6D9A65E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138472$70291B68-0465-4803-AB2D-A0CCA2A98C65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0012-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "acf9486f5097fac9c2bdd5cac3947caaaed0c68b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138472$8287E77A-0651-4CAE-8C1A-3B55F0F1B6B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0027-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb6c1929d56a86a57ead48097c2ac4494fe7baa2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138472$BF45A70F-7D30-4CD3-8608-84EAF2090FD4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2975271"
+          },
+          "hash": "1da3492dfcf91a7e7579793bf386f29829b49d7c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138472$D973AF24-398E-42AA-B0B4-0C50AD96007F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberius Claudius Drusus Arms.svg"
+          },
+          "hash": "c498d60b8319b66f15a3bffa46967b1e0bf622b8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "ältester Sohn des römischen Kaisers Claudius"
+    },
+    "en": {
+      "language": "en",
+      "value": "eldest son of the future Roman Emperor Claudius"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Claudio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Claude"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנו הבכור של הקיסר הרומי קלאודיוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio dell'imperatore romano Claudio"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Rzymianin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "первый сын Клавдия"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "äldsta son till Kejsaren Claudius"
+    }
+  },
+  "id": "Q138472",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Klavdi Druz"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Klaudije Druz"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Drus Germànic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Claudius Drusus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλαύδιος Δρούσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberius Claudius Drusus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Claudius Drusus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Claudius Drusus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Claudio Druso"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Claudius Drusus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tiberius Claudius Drusus"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלאודיוס דרוסוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Claudio Druso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クラウディウス・ドルスス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Claudius Drusus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Claudius Drusus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Druzus IV"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Druso"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cláudio Druso"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клавдий Друз"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Клаудије Друз"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Claudius Drusus"
+    }
+  },
+  "lastrevid": 17613929,
+  "modified": "2025-09-20T22:10:29Z",
+  "ns": 860,
+  "pageid": 166857,
+  "sitelinks": {},
+  "title": "Item:Q138472",
+  "type": "item"
+}

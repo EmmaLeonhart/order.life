@@ -1,0 +1,567 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jugurtha"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q141661$BF306CFA-715D-442E-9502-62021762F2C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "379600"
+          },
+          "hash": "4e2620b385824d68d020cb46d7910ebfeda81c95",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141661$5A9F15CB-0552-49C9-9327-61725239E42A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144296",
+              "numeric-id": 144296
+            }
+          },
+          "hash": "03f5ff852e8ee042f8160daa65b6c40668ca59cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141661$6E67DDCB-8D5F-45B6-8E87-65BF8131CA94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141661$B86E59FD-6689-43B4-BAC4-5593761C61EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141661$18CAB2C6-3E1D-4F3C-A356-4D290E3FA128",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144295",
+              "numeric-id": 144295
+            }
+          },
+          "hash": "6a9abcf059e315bd44583549b9c735dd41af8052",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141661$C00ADCAD-DD16-4D48-B157-8E1CCF623B46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71771",
+              "numeric-id": 71771
+            }
+          },
+          "hash": "69c479d5facb9d9d40ba30cab3a5341900186c99",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141661$129F0D5F-E05E-474F-A9CC-76944C1149BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141661$B0E28262-4976-4ED0-91AC-8F0AED89B2DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74186e0e5944f72de38e7b69b02f1b78b418bbd6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141661$7E70CE86-5E8B-43C4-938A-7889D6D6D938",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0104-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "78fd9bb26773ce2595fa3910352400710425dd66",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141661$AD8D8A83-50CF-435F-9892-4AAC90FCA000",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q156173"
+          },
+          "hash": "02eccb87ca2a09d6c2f491c0e48cf39f5fd57c82",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141661$585E4650-E626-4F52-B7A7-E9A29722CE86",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jugurtha Arms.svg"
+          },
+          "hash": "8ec4b7df7a88ca669ba0001eac9a24644d503b9a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك نوميدي أمازيغي"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei i militar de Numídia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "král Numidie"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin Numidia"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Numidien"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Numidia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "berbera militisto kaj suvereno, reĝo de Numidio inter la jaroj 116 kaj 106 a. K"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey de Numidia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Numidian kuningas (n. 160 eaa. – 104 eaa.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Numidie"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei de Numidia entre -116 e -10"
+    },
+    "he": {
+      "language": "he",
+      "value": "המלך הברברי של נומידיה, צפון אפריקה"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Numidia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヌミディア王。ユグルタ戦争を首謀した"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning van Numidië"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei da Numídia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Нумидии"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "barbarski kralj Numidije koji je ratovao s Rimom"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kralj Numidije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "numidisk kung"
+    },
+    "zgh": {
+      "language": "zgh",
+      "value": "ⴰⴳⵍⵍⵉⴷ ⴰⵎⴰⵣⵉⵖ"
+    }
+  },
+  "id": "Q141661",
+  "labels": {
+    "ang": {
+      "language": "ang",
+      "value": "Geoweorþa"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يوغرطة"
+    },
+    "arq": {
+      "language": "arq",
+      "value": "يوغرطا"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "يوغرطن"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يوغرطه"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ژوقورتا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Югурта"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Югурта"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jugurta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jugurtha"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Jugurtha"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jugurtha"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jugurtha"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιουγούρθας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jugurtha"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Jugurto"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jugurta"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Jugurta"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ژوگورتا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jugurtha"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jugurtha"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Iugurta"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוגורתה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Iugurtha"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Յուգուրթա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Jugurtha"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giugurta"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユグルタ"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Yugurten"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "유구르타"
+    },
+    "la": {
+      "language": "la",
+      "value": "Iugurtha"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Jugurtha"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jugurtha"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Jugurtha"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jugurtha"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Jugurtha"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jugurta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jugurta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jugurta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Югурта"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Jugurta"
+    },
+    "shi": {
+      "language": "shi",
+      "value": "Yugurtn"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jugurta"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jugurtha"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Југурта"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Југурта"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Jugurta"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jugurtha"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Jugurta"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Югурта"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Jugurtha"
+    },
+    "zgh": {
+      "language": "zgh",
+      "value": "ⵢⵓⴳⵔⵜⵏ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朱古达"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "朱古达"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "朱古达"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朱古達"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "朱古達"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "朱古达"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "朱古達"
+    }
+  },
+  "lastrevid": 17561642,
+  "modified": "2025-09-17T12:50:15Z",
+  "ns": 860,
+  "pageid": 170046,
+  "sitelinks": {},
+  "title": "Item:Q141661",
+  "type": "item"
+}

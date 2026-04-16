@@ -1,0 +1,479 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agrippa II"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141691$202DC90D-2B6B-4272-B968-6601906D072F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738831"
+          },
+          "hash": "c3b9297f5d8b7fc4179b22029971d88d3a09b4d7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141691$08A1DD5B-215E-4BE9-BAFD-ABB340599641",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141691$77DE3830-4C44-4B9E-8385-100F1C25BD1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141691$3562C149-C2B3-448B-B612-4DFE72B1812F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Agrippa_II_(1)"
+          },
+          "hash": "7527ea961bf8095a9597cbe3ed31a6cf4de5a27a",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141691$161E0CDC-6A5E-4634-BC01-45757DD7F84F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141686",
+              "numeric-id": 141686
+            }
+          },
+          "hash": "606dd2b8a793f884783fe8aeb5f417d8cae85e19",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141691$628FF553-843C-4BB1-ACA7-F7ABF63B8480",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141690",
+              "numeric-id": 141690
+            }
+          },
+          "hash": "f2d121ce5880e7eeb0e54101030fc3c0c949159c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141691$6A35B48A-1F7A-41CF-8E86-3AA577AF5E3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141691$83E4C482-236E-48C9-950E-C1D5ADE80095",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0027-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f83645b10353d7f732a99eb36ba29033cea15394",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141691$3F302E0B-3BF3-4DEC-9F19-987889CFDE7B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141691$C6923A82-5BD6-4B4A-83BA-9CC987086500",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313419"
+          },
+          "hash": "5e18bc63e3f26eadf0f20c37979f4cff54c8139a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141691$3B47DC82-07B1-4AC7-9120-A9336E12F8A9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agrippa II Arms.svg"
+          },
+          "hash": "b59b622f8c28cd915331d405212ab9d54a2259b1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "شخصيه من العهد الجديد"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Judský král 50–70 n. l. poslední z dynastie Herodovců"
+    },
+    "de": {
+      "language": "de",
+      "value": "König über Gebiete im heutigen Libanon, Syrien und Palästina (Region) (50–70)"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Chalcis (Syria) from Herodian dynasty (28-100)"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Calcis y otros territorios, hijo de Herodes Agripa I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Chalcis"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "antigo gobernante de Xudea durante a época do dominio romano"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך יהודי מבית הורדוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "zsidó király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Penguasa Yudea di abad pertama"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano giudeo (r. 50-93)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Chalkis"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "rei herodiano"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ Јудеје из Иродијске династије"
+    }
+  },
+  "id": "Q141691",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أغريباس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هيرودس اجريباس الثانى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ирод Агрипа II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Herodes II Agripa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Herodes Agrippa II."
+    },
+    "da": {
+      "language": "da",
+      "value": "Herodes Agrippa 2."
+    },
+    "de": {
+      "language": "de",
+      "value": "Herodes Agrippa II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ηρώδης Αγρίππας Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agrippa II"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Herod Agrippa II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Herod Agrippa II"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Herodo Agrippa la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Herodes Agripa II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Herodes Agripa II.a"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Julius Marcus Agrippa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agrippa II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Herodes Agripa II"
+    },
+    "he": {
+      "language": "he",
+      "value": "אגריפס השני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Heródes Agrippa zsidó király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Agripa II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Erode Agrippa II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アグリッパ2世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "헤로데 아그리파 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Herodes Agrippa II"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ирод Агрипа II"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഹെരോദ് അഗ്രിപ്പ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Herodes Agrippa II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Herodes Agrippa II"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Herodes Agrippa II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Herod Agryppa II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Herodes Agripa II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Herodes Agripa II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агриппа II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Agripa II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Агрипа II"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Агрипа II"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Agripa II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Agrippa II"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Agripa II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Agrippa II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ірод Агріппа II"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہیرود اگرپا دوم"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Agaripa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿基帕二世"
+    }
+  },
+  "lastrevid": 17561690,
+  "modified": "2025-09-17T12:50:56Z",
+  "ns": 860,
+  "pageid": 170076,
+  "sitelinks": {},
+  "title": "Item:Q141691",
+  "type": "item"
+}

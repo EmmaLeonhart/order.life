@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "NN ferch Henry"
+      },
+      {
+        "language": "en",
+        "value": "N.N."
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137933$77F964FE-C6E8-4958-9247-65468F2377BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00749592"
+          },
+          "hash": "3bb836147773f9974de385c450016573af319a92",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137933$17F7C23F-6B2C-4800-B7A9-DA25A0581047",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137336",
+              "numeric-id": 137336
+            }
+          },
+          "hash": "97845f44f2030bc095a13864eb0bada53966d172",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137933$FFDFDA1E-E427-46E0-8A36-AC7E44B0D5A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137338",
+              "numeric-id": 137338
+            }
+          },
+          "hash": "e01a8d24c9892ef4c8b88630bfe642c32551fe54",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137933$66E01528-9640-4560-A681-D64DF212D791",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137339",
+              "numeric-id": 137339
+            }
+          },
+          "hash": "9031e072e053dea849c0abb24315b2c840571f2c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137933$EDC9E1F2-FD21-46BB-AFF0-218085B0561D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137933$D10E1A5F-38F0-4EE5-AB7F-AD5FD61367A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137933$431F3D2F-C11A-4C3C-BD61-6A5BA0C5AD6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136932",
+              "numeric-id": 136932
+            }
+          },
+          "hash": "01627871ed5a7e312b97658550b0666edfc677c2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137933$1C591FFD-28F7-4447-B4CB-86C015C67EE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138820",
+              "numeric-id": 138820
+            }
+          },
+          "hash": "49441df0ea11ab7549b67d63d20cf6012c754df2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137933$A759E12E-0669-43B8-85C2-EC1853B8021C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137933$D0E1F0BD-D0C9-41F2-BC38-6EC29E600868",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116178196"
+          },
+          "hash": "c63347539918092cc697e689133e3a00ba2d53bf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137933$73F50B77-5870-4925-B777-C9156BAFE08C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "NN ferch Henry Arms.svg"
+          },
+          "hash": "783e4b77c91699f426a5a561c793fb6bc0f6856b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q137933",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "NN ferch Henry"
+    }
+  },
+  "lastrevid": 17555533,
+  "modified": "2025-09-17T11:21:49Z",
+  "ns": 860,
+  "pageid": 166318,
+  "sitelinks": {},
+  "title": "Item:Q137933",
+  "type": "item"
+}

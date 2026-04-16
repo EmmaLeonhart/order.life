@@ -1,0 +1,367 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Cornelius Scipio"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141449$834FF766-ADD0-4B1B-9DFB-7A712509A6F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735542"
+          },
+          "hash": "123f638d04a40c2dc9b996049b75700918238743",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141449$F0F69C74-AA4C-4F2B-B3D4-D838AD8AFA3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144104",
+              "numeric-id": 144104
+            }
+          },
+          "hash": "713ae92c82dc0a2cc093ee2aee0579e0bb9e0562",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141449$69E60A01-9806-4224-B039-8EAADF16FF14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141449$6973C848-A6A3-4D4D-A018-2E8136F37F8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141449$F83E099E-BCB8-4F4B-B475-52DF14810212",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius_Cornelius_Scipio_(consul_16_BC)_(1)"
+          },
+          "hash": "ad284aee880ce45c57d059eb8cf3b1a232b23913",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141449$25A60866-5381-4EFE-AEC2-263C422F15E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72248",
+              "numeric-id": 72248
+            }
+          },
+          "hash": "faa01df13003fbce89bc157b80050a0f924bdd38",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141449$20D48C10-3BF4-4A9E-B2FE-E74CFA338F21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141449$7B6BBCAB-35ED-430D-8977-7A3A41AF65C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0050-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7826edd86f3c08474ef151c860c60008ac5cb574",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141449$54D59A35-C6F9-45C4-A5B6-CBAEC04A3B21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0007-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f85c350d315ae77c6eb4812c8fceedbdcf8b8a0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141449$C841E78B-DC78-430C-B8F7-27F8AD878F2E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q928894"
+          },
+          "hash": "f6a1cb249c70c919f1b8f348fe2d36d936fcfea5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141449$8BCD5998-BAD7-41B9-9DD8-115F79D2633A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Scipio Arms.svg"
+          },
+          "hash": "91982e61de60f5fc5b1c3d1f11bb02344dc73d29",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Senator in der Zeit des Augustus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 16 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "senador romano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 16 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (50v Chr-7v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "konsul 16 före Kristus"
+    }
+  },
+  "id": "Q141449",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Сципион"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Escipió"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Scipio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κορνήλιος Σκιπίων (ύπατος το 16 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Cornelius Scipio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Cornelio Escipión"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پوبلیوس کورنلیوس سیپیون (کنسول ۱۶ پیش از میلاد)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Cornelius Scipio"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publio Cornelio Escipión"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Scipione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・コルネリウス・スキピオ (前16年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius Scipio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Scipio"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Cornélio Cipião"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Cornélio Cipião"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Корнелий Сципион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Kornelije Scipion"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Publius Cornelius Scipio"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Сципіон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布利烏斯·康內留斯·西庇阿"
+    }
+  },
+  "lastrevid": 17561304,
+  "modified": "2025-09-17T12:45:29Z",
+  "ns": 860,
+  "pageid": 169834,
+  "sitelinks": {},
+  "title": "Item:Q141449",
+  "type": "item"
+}

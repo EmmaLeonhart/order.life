@@ -1,0 +1,402 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Antonius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137148$F25A2FCA-A6F5-4793-B728-3A4FEB128E6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137148$154BA5A3-1906-4464-8D42-C24B4DB78992",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q137148$A36606DB-0CCE-408E-9322-E0F9DC56BA80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius_Antonius_(1)"
+          },
+          "hash": "93fe1a4a8666ae60ea60b106f124bcdf39bf16d5",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137148$B28A9FF4-1B4F-40E2-B652-CCC2D2A0D78A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78171",
+              "numeric-id": 78171
+            }
+          },
+          "hash": "d2a756badbf643efec37e957869726a12848f7c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137148$DF68CBB7-EC9E-4286-84E2-04A9DD3A9E29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78174",
+              "numeric-id": 78174
+            }
+          },
+          "hash": "b92eb8d37de352c334d26d04a98aad2989bf24c0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137148$39364734-6042-42A7-8A61-1E8887C42ED5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137148$35BD2773-E9B2-496E-B5A6-2DD7BD8A6C77",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecde69b1f925ad90303f1a646574b6ab30ed130e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137148$4888A2BD-AED7-4E62-9CA7-94FF8DBF45E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0042-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84a4f10438a45dc90898de356dbff164b8bf2c82",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137148$37102A94-CE0A-4BF1-A3CC-333911ED382E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q507578"
+          },
+          "hash": "ad59c02d4f1217e084f0f3447c0f1c8fc48a1a7a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137148$AC114B9D-7B48-4EC3-94B6-0499793377C2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Antonius Arms.svg"
+          },
+          "hash": "bf27ec758dd23caaaa5e0d6db8e18bd58a516ccc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "bratr triumvira Marca Antonia"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "zweite Sohn von Marcus Antonius Creticus und jüngerer Bruder von Marcus Antonius"
+    },
+    "en": {
+      "language": "en",
+      "value": "brother of the triumvir Mark Antony"
+    },
+    "es": {
+      "language": "es",
+      "value": "hermano de Marco Antonio, pretor en el año 44 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Marcus Antoniuksen veli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "frère de Marc Antoine"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי רומאי"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico della Repubblica romana"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (81v Chr-42v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q137148",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جايوس انتونيوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Антоний"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Antoni el Jove"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gaius Antonius"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gajus Antonius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Antonius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Antonius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Antonio"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gaius Antonius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Antonius"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gáias Antaine"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיוס אנטוניוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Caius Antonius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Antonio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・アントニウス"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಗಯಸ್ ಆಂಟೋನಿಯಸ್"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Antonius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gaius Antonius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Antonius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gajusz Antoniusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio António"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Antônio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Антоний"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Antonije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Antonius"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гај Антоније"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Антоній"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "盖乌斯·安东尼"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "盖乌斯·安东尼"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蓋烏斯·安東尼"
+    }
+  },
+  "lastrevid": 17554265,
+  "modified": "2025-09-17T11:03:44Z",
+  "ns": 860,
+  "pageid": 165533,
+  "sitelinks": {},
+  "title": "Item:Q137148",
+  "type": "item"
+}

@@ -1,0 +1,346 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aemilia Lepida"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141657$29A6CD82-7BCE-4003-9DE6-2D14FA0F7FB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716811"
+          },
+          "hash": "99cd397265c451d103db251ac886008aee8ecad7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141657$8C6C19C4-5A30-4853-8145-9D8280F5A702",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141657$E53F5D05-E92D-4DB6-AD97-2C7959532730",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141657$248B2043-88FC-433B-8B7C-0702D7AFDBC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141491",
+              "numeric-id": 141491
+            }
+          },
+          "hash": "567cfe7ccf3ed84e1bf9829c31d9da6af3e580cb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141657$30D22FF2-1072-4C25-9575-7808DB25F0CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141644",
+              "numeric-id": 141644
+            }
+          },
+          "hash": "c46b8b2b100590ac934eb7e23b78da4255b10e6f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141657$D6871BDB-95C6-424A-8F19-5E5E7CD8ABA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141656",
+              "numeric-id": 141656
+            }
+          },
+          "hash": "d6edf080468682ad245204d39ceea5eedd83df3b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141657$47076340-0C1F-45E3-B5B9-D4D1E9EBD210",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139748",
+              "numeric-id": 139748
+            }
+          },
+          "hash": "bb0dff918e08f3f1bdc4f48b68db71b5d89bdc6f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141657$D4D38B1E-3B90-42A3-B5F0-4D7D0AAE9637",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141657$6FA14FA8-A23E-4840-8983-18B6A4653528",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141657$61A04896-9A57-4100-9FF9-7D50D79614A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141657$E8AAF8FC-2287-41DD-8D56-8568BCA1D55D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4882584"
+          },
+          "hash": "56c6a22f8ba442c3e18896ce1ee9bf3f9796f185",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141657$163E781D-1EB8-4972-9E7A-05D6F3AE31C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aemilia Lepida Arms.svg"
+          },
+          "hash": "ab166929de9831f6c2c9379796ba1aa998a0a780",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römische Adelige aus der Familie der gens Aemilia, die verschiedener Verbrechen angeklagt und verbannt wurde"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Κοίντο Λεπίδο"
+    },
+    "en": {
+      "language": "en",
+      "value": "fiancee of Lucius Caesar"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Sulpicio Quirinio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, fille de Quintus Aemilius Lepidus (consul en 21 av. J.-C.) et de Cornelia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "de dochter van censor Marcus Aemilius Paullus en zus van Marcus Aemilius Lepidus (consul in 6)"
+    }
+  },
+  "id": "Q141657",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Емилия Лепида (дъщеря на Лепид Младши)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emília Lèpida"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aemilia Lepida"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αιμίλια Λεπίδα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aemilia Lepida"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emilia Lépida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aemilia Lepida"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמיליה לפידה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Emilia Lepida"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aemilia Lepida"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aemilia Lepida"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эмилия Лепида"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Emilija Lepida"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Емілія Лепіда Молодша"
+    }
+  },
+  "lastrevid": 17561636,
+  "modified": "2025-09-17T12:50:10Z",
+  "ns": 860,
+  "pageid": 170042,
+  "sitelinks": {},
+  "title": "Item:Q141657",
+  "type": "item"
+}

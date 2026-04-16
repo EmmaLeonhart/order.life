@@ -1,0 +1,514 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Caesar"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138424$0F227E76-E185-4D27-B360-6446962A7ACA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446784"
+          },
+          "hash": "620c7facff1a9ec348c6638daff25bec828d289c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138424$D78749BD-1BB7-4BFE-91CE-66E238462B9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138424$4493C974-5C05-4B69-B2DE-09C048CA4253",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q138424$5686A336-0F84-4A3F-A443-F17F6314284F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius_Caesar_(1)"
+          },
+          "hash": "9b13f1a66d93002bcb8a9ee46a00e74bf09c4b85",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138424$31B0ADB9-2CF7-42C0-8646-C5F83DC37A28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72335",
+              "numeric-id": 72335
+            }
+          },
+          "hash": "02d8628d068fece93ed95f4bb8a5367957fa0a47",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138424$704655EA-8D45-43A4-96FA-7F6CF3C6E221",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72332",
+              "numeric-id": 72332
+            }
+          },
+          "hash": "baba8c4029a6a766d081fc2e5da5ddca76d5bc3b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138424$1BCE68BA-A243-4A5A-B950-8654C23628DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138424$F54263D1-59E6-47CA-B01F-F77104A968E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0017-01-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "039908fbd24a46df6b2beda5c7354ae0b4f5e5bf",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138424$E5F213FD-80C5-475A-ABC0-29BA1B05C56B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0002-08-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5a30fbc975fa3d7a1b6f3fdb23eb2a61c5518b2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138424$654F85B8-5F3D-471C-9E8F-0B29A2289141",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313735"
+          },
+          "hash": "458ba9b6e2b5464db864508afd642921d911b1fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q138424$5445BD0C-50B5-4BFE-AA0B-EAF85B767EB8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006858348535"
+          },
+          "hash": "7a172659189975f3061ef56740456e46674617a9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138424$25CE480D-5F99-4D9A-A17F-5A217D5EFAB3",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Caesar"
+          },
+          "hash": "144d3c07816d61e483e025b8040018b715452240",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q138424$5D7F0791-91D2-4E8A-B82D-48BFF7A3BE31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26314"
+          },
+          "hash": "055b08a6abb6b47eb8f72fd96f51c24785124e8a",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138424$458FDAA9-B9A7-46CF-9E16-46410DBEF55D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Caesar Arms.svg"
+          },
+          "hash": "ed6b8c1e641a3815454d5da3d1f329df43ab44e7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطورية الرومانية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سياسى من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "Adoptivsohn des Augustus"
+    },
+    "en": {
+      "language": "en",
+      "value": "grandson of emperor Augustus (17 BC - AD 2)"
+    },
+    "es": {
+      "language": "es",
+      "value": "nieto del emperador Augusto (17 a. C.-2 d. C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain, fils d'Agrippa et de Julia"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "sin rimskog vojskovođe Marka Vipsanija Agripe i Julije Starije"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Agrippa fogadott fia"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, figlio di Agrippa e Giulia maggiore"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (17v Chr-2)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "dotterson och adoptivson till Kejsare Augustus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Agrippa'nın oğlu"
+    }
+  },
+  "id": "Q138424",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "لوسيوس قيصر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "لوسيوس قيصر"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луций Цезар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Agripa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lucius Caesar"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Caesar"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Καίσαρας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Caesar"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Lucio Cezaro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio César"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Luzio Zesar"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لوسیوس سزار"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lucius Caesar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Julius Caesar Vipsanianus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lucius Caesar"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Lucio César"
+    },
+    "he": {
+      "language": "he",
+      "value": "לוקיוס קיסר"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Lucije Cezar"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Caesar"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Լուսիոս կեսար"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cesare"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・カエサル"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლუციუს კეისარი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "루키우스 카이사르"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Caesar"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Lucius Cesar"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lucius Caesar"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lucius Cæsar"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Iulius Caesar Vipsanianus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucjusz Juliusz Cezar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio César"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio César"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Юлий Цезарь Випсаниан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Cezar"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Caesar"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Луције Цезар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucius Caesar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lucius Caesar"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Юлій Цезар Віпсаніан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卢修斯·凯撒"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "卢修斯·凯撒"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卢修斯·凯撒"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "盧修斯·凱撒"
+    }
+  },
+  "lastrevid": 17556263,
+  "modified": "2025-09-17T11:32:12Z",
+  "ns": 860,
+  "pageid": 166809,
+  "sitelinks": {},
+  "title": "Item:Q138424",
+  "type": "item"
+}

@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joan ferch Jenkin ab Aron"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140496$32A3A0EF-5B8B-4C22-8834-F8AB4E2E5482",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00714685"
+          },
+          "hash": "0d75a010a1dd198b88d9819cc2ae28d627b40621",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140496$721F1CAF-79C4-424D-BCB5-BB4CDCB1AD0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142574",
+              "numeric-id": 142574
+            }
+          },
+          "hash": "c198e90a04a8443842663d5501c4ea5f1ce3bb0e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140496$A492E7AC-7DAC-4917-B80D-636F0BCB21DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142575",
+              "numeric-id": 142575
+            }
+          },
+          "hash": "bf036366e9bf3822c0f3ff4d2658d8af6da57445",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140496$4C8D25C2-0CC5-4253-85AF-B77FBC387238",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140496$49BD10B3-EEE8-4F98-A405-B06E4E0FF792",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q140496$4BDFBE59-D870-4510-A475-C8CEAAE8381A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140340",
+              "numeric-id": 140340
+            }
+          },
+          "hash": "59ad1616030c26af435ca7856b87588cb46228f8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140496$90319E48-8354-4F97-B658-7158A6641E58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138958",
+              "numeric-id": 138958
+            }
+          },
+          "hash": "ff8701d0969b2ec07430267416b249e34ab512fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q140496$82B9253C-3F07-4EC7-9A7E-35F8FF6E1F44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142606",
+              "numeric-id": 142606
+            }
+          },
+          "hash": "b39a14b7b031b3532176816e85a90c69c618777b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140496$E9710B62-ED7F-4775-8B9C-1044F2C34D5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140496$79E2EB40-D3A0-48A8-A12E-579703CA4B65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116469714"
+          },
+          "hash": "8eddcf491608e387f911672f98c6d4c8a6b2340f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140496$99A61EDA-5B84-4BCE-9F81-0F81B4B1D93E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joan ferch Jenkin ab Aron Arms.svg"
+          },
+          "hash": "483bbb6999ac17c846341101575b064f58f897db",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q140496",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Joan ferch Jenkin ab Aron"
+    }
+  },
+  "lastrevid": 17559819,
+  "modified": "2025-09-17T12:22:58Z",
+  "ns": 860,
+  "pageid": 168881,
+  "sitelinks": {},
+  "title": "Item:Q140496",
+  "type": "item"
+}

@@ -1,0 +1,189 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas ap Dafydd Fychan ap Dafydd Rhingyll Ddû ap Gronwy Foel"
+      },
+      {
+        "language": "en",
+        "value": "Thomas ap Dafydd Fychan ap Dafydd Rhingyll Ddu ap Gronwy Foel"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q140060$9EAB5BE6-BC26-48F0-996E-8F7945425C05",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00777371"
+          },
+          "hash": "4e6ec646e0b751924320c703887b6c503c2273c2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q140060$251F098B-BBD2-4CD6-BE48-0C02479F1508",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142080",
+              "numeric-id": 142080
+            }
+          },
+          "hash": "9f27237e22ab15b0bd0f0a6550ab233ed5c2e258",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140060$337EC2A0-8BF7-4F1B-BE32-5D2E28DD4775",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140060$EC64E457-4223-407D-AEAB-DDCCE2834E66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140060$E1B4E076-3841-4A9D-8F0A-2BD9FDE26E96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138722",
+              "numeric-id": 138722
+            }
+          },
+          "hash": "dcb23e5723f684aeb5264c639ffc2ace5d409918",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140060$60B1C649-F4DB-4692-8A4C-085C9DF98C3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140060$2C27B014-6C7F-4916-A89C-7B4D4CEC6179",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116812269"
+          },
+          "hash": "93cb8b009579776235527e1a2253eb7da5161cb7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140060$EF9653C5-1193-4A24-8539-F84A56EC32E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas ap Dafydd Fychan ap Dafydd Rhingyll Ddû ap Gronwy Foel Arms.svg"
+          },
+          "hash": "d218d6bf17bb9e0dbb0c66a91ad08febc2bd68be",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q140060",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Thomas ap Dafydd Fychan ap Dafydd Rhingyll Ddû ap Gronwy Foel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thomas ap Dafydd Fychan ap Dafydd Rhingyll Ddû ap Gronwy Foel"
+    }
+  },
+  "lastrevid": 17558955,
+  "modified": "2025-09-17T12:10:30Z",
+  "ns": 860,
+  "pageid": 168445,
+  "sitelinks": {},
+  "title": "Item:Q140060",
+  "type": "item"
+}

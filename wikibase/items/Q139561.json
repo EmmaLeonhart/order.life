@@ -1,0 +1,371 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Marcius Rex"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139561$F1C7D15D-790D-4503-AA35-0FF6F058B13B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735689"
+          },
+          "hash": "d414e5683f0281718d1200bdb7f0a16185714b77",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139561$49AF8353-AB90-45CD-97A3-73EC7A41FB02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139562",
+              "numeric-id": 139562
+            }
+          },
+          "hash": "7167da88b5e46ed63d31d9561b96edb3952aadbc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139561$5629CE00-7F95-4668-A21D-C041D8D08C8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139561$D80C9DA3-670C-490E-8236-611629BEE5C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139561$B3C1BDC9-75A3-4B0F-9471-AD5F7C78360E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138404",
+              "numeric-id": 138404
+            }
+          },
+          "hash": "ede705ccf5c973e27a582804a8c31e91d5a89926",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139561$D4B44890-57C6-4D5B-8AAA-740FC295DDE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139695",
+              "numeric-id": 139695
+            }
+          },
+          "hash": "4d414f8751dbe51453fecfdd475bef12940ed0ba",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139561$5D7D20B3-69EE-46E9-8F3A-6A37F7814DB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139561$4A93082C-7B57-4428-9C0B-06E1E26B4BA9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139561$FB964CB3-3412-4894-8D2C-0162E2A3D569",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0061-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "284b079327e32fbd31ae14e6d2ce58575c627346",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139561$446A329C-09E5-43CA-AC28-4DF38AC4BBD2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q568498"
+          },
+          "hash": "c368d4d801bedbec93fe9283112b5b9b2750a2ec",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139561$7596217F-8CA7-4FE9-9471-29A9AED68B54",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Marcius Rex Arms.svg"
+          },
+          "hash": "78739aaa6b30554aeced9b7ee7e39f28d82e1f3c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 68 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 68 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul en el año 68 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 68 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 68 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 68 v.Chr."
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q139561",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كوينتوس مارسيوس كينج"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Марций Рекс"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Marci Rex"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Marcius Rex"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Μάρκιος Ρεξ (ύπατος το 68 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Marcius Rex"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Marcio Rex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Marcius Rex"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quinto Marcio Rex"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Marcio Re"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・マルキウス・レクス (紀元前68年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Marcius Rex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Marcius Rex"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Márcio Rex"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Márcio Rex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Марций Рекс"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Marcije Reks"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Marcius Rex"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Марцій Рекс"
+    }
+  },
+  "lastrevid": 17558103,
+  "modified": "2025-09-17T11:58:15Z",
+  "ns": 860,
+  "pageid": 167946,
+  "sitelinks": {},
+  "title": "Item:Q139561",
+  "type": "item"
+}

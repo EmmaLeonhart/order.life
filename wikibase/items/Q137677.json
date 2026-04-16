@@ -1,0 +1,303 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sempronia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137677$323856FF-EF06-4DAA-854C-2377AC7B92DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735491"
+          },
+          "hash": "8c82ad6bab9674efd90d513e15e0997f2eb75e24",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137677$08FF0918-A5A3-433B-BFF4-96020FE0B1CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137152",
+              "numeric-id": 137152
+            }
+          },
+          "hash": "2bd60e65274a5d5e1284f69d60f3720fea841a2d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137677$17AE7EB7-C23B-4C94-A961-DA44FD85BFF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137677$C3D3ECB5-5EA1-4C6A-9A3C-6C2D2A88001C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137677$E5718D01-392B-440E-89C2-79C5E169C27B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137676",
+              "numeric-id": 137676
+            }
+          },
+          "hash": "3bd3d647eb6f14a7aad50b35afeabd9af14a11b0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137677$9468E5E9-E016-4C35-8470-01C2BF6771E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138396",
+              "numeric-id": 138396
+            }
+          },
+          "hash": "96eefca04173c5b625b2be52fe756a5803288fdf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137677$C3D799AF-655A-4EC4-874F-178547DBD130",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137677$91469918-0C51-4090-B19F-34374D491399",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137677$73E0097F-48EC-4E50-B450-97A40B7A6382",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137677$53457371-04BB-4867-AF33-84755236828F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12293562"
+          },
+          "hash": "262d7d4b5755861c3189e92d1b1eb518831ffd06",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137677$9E09C44B-E54B-4C65-A2FB-DF3DBFAD4467",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sempronia Arms.svg"
+          },
+          "hash": "fe0366e29b648e1e86891cb9ccdd80f308546953",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "mother of Fulvia"
+    },
+    "es": {
+      "language": "es",
+      "value": "madre de Fulvia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, mère de Fulvia"
+    }
+  },
+  "id": "Q137677",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Семпрония Тудицани"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sempronia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sempronia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sempronia Tuditana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sempronia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sempronia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sempronia (M. Fulvii uxor)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Semprónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Semprônia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Семпрония"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Семпронія"
+    }
+  },
+  "lastrevid": 17555091,
+  "modified": "2025-09-17T11:15:26Z",
+  "ns": 860,
+  "pageid": 166062,
+  "sitelinks": {},
+  "title": "Item:Q137677",
+  "type": "item"
+}

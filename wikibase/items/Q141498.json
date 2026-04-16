@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Munatia Plancina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141498$C3D73ABC-BF38-41B3-9E48-F9708BD9238E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800985"
+          },
+          "hash": "d7c2a12b37873c5fed322989ade76d945349bf6a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141498$F8C14BDC-F82B-4301-A0EC-3E99A2F31C86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144156",
+              "numeric-id": 144156
+            }
+          },
+          "hash": "9513dcee02c92a6d3a5f0ca917b7849aa6fb8463",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141498$106388F3-360D-436D-AE02-6AAE67E71D8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144155",
+              "numeric-id": 144155
+            }
+          },
+          "hash": "9bd7fca4c22898a9867a2ab6cb7a658c5dfc4a4e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141498$14AC3879-E4ED-4BAC-9DF9-B4CA94B70D1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141498$4E6966F9-59B4-4E46-9ABA-902EB6BE6135",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141498$D7707727-5293-4E75-867A-04718ADDA367",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144154",
+              "numeric-id": 144154
+            }
+          },
+          "hash": "cb63929a0e67d8937d533d2d98103a938f567055",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141498$D1EB314D-A888-4F74-9AF5-A9C51BEF9947",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141497",
+              "numeric-id": 141497
+            }
+          },
+          "hash": "0ac84b0ae3cc71db59113f34abf1a9d57f6f3c49",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141498$15A32831-7ABD-4DBE-AE31-BD226EA077E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139630",
+              "numeric-id": 139630
+            }
+          },
+          "hash": "fd3271ef9d8a8e63f17448c705de99b5fd08fd12",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141498$975AC12C-719A-4631-9BA3-75BEE4A48A72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141498$E6E7D58F-0653-452B-8130-AA3B4E4B4DE6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141498$AB47408B-3FDC-4528-AA03-5FAA191F27F2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0033-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "49bcb25efb27433ce211d7d641592f5da58b392b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141498$E2BF6251-B71A-483D-874F-59460D2FCABE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q277544"
+          },
+          "hash": "4cd7ea6fd0b74718a97b8805865b8b20afac46ea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141498$4A8F2ED3-1CC3-4673-ACDE-A45B7C7E706A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Munatia Plancina Arms.svg"
+          },
+          "hash": "fb0042fdaaa895307e0f6d649df185bc3f0edd25",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gattin des Gnaeus Calpurnius Piso"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman noblewoman who lived during the reigns of Augustus and Tiberius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble romaine, épouse de Cnaeus Calpurnius Piso qui fut accusé de l'empoisonnement de Germanicus"
+    }
+  },
+  "id": "Q141498",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Мунация Планцина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Munàcia Plancina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Munatia Plancina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μουνατία Πλανκίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Munatia Plancina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Munacia Plancina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Munatia Plancina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Plancina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Munatia Plancina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мунация Планцина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Мунација Планцина"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мунація Планціна"
+    }
+  },
+  "lastrevid": 17561380,
+  "modified": "2025-09-17T12:46:33Z",
+  "ns": 860,
+  "pageid": 169883,
+  "sitelinks": {},
+  "title": "Item:Q141498",
+  "type": "item"
+}

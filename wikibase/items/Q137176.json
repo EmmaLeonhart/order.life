@@ -1,0 +1,398 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariarathes I of Cappadocia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q137176$38F07312-C464-4CBD-A1CB-9888916887CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738061"
+          },
+          "hash": "afef03dbd2ef9329faaf30dd1d9e12f87056e9a4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137176$57F1E717-2295-4F53-B6D7-A8F9453D9FD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137176$CF654109-C796-40A2-A77C-E30A811C45BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137176$20DD3C5B-04A9-4140-B46F-3CAB7C7C5759",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136757",
+              "numeric-id": 136757
+            }
+          },
+          "hash": "5d72dbe064a784d9a9c47a816d65cb74cc8f9c40",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137176$10CCE73B-898F-4344-B5E2-16BF2378129D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137176$965DE99B-0EE6-4F11-8AF7-A4192AEEA151",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0322-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22dfa60be08b9084434054de27c2644b601b971e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137176$9C52319A-46BE-4FA4-95F3-79C3AE57238B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q318445"
+          },
+          "hash": "9ba4443021d78b7b439f00ec3606802e41622bb1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137176$A0C9EB3A-DD68-42BA-83D9-19F907B27945",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041094373607"
+          },
+          "hash": "447cca9e1b5bc1f78f5fbdc2b0ac72ed4cd2431c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137176$E7C775FD-C58A-47C7-A3E8-F24FFB94F4E9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariarathes I of Cappadocia Arms.svg"
+          },
+          "hash": "37101ed10245f4ad1a087010dc7e263de7f3f76c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herrscher in Kappadokien"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th-century BC king of Cappadocia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ساتراپ کاپادوکیه از ۳۴۰ تا ۳۳۱ پ.م."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Cappadoce"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sátrapa e rei de Capadocia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kappadókiai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "satrapo e poi re di Cappadocia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Achaemenidrijk (-322v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "satrapa Kapadocji"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Каппадокии"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Каппадокії"
+    }
+  },
+  "id": "Q137176",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ariarathes I"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارياراتيس الاول من كابادوكيا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арыярат I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ariarates I"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ariamnes af Kappadokien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ariarathes I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριαράθης Α' της Καππαδοκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariarathes I of Cappadocia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ariarates I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ariarates I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آریارات یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ariarathes I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariarathe Ier"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ariarates I de Capadocia"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Arijarat I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Ariarathész"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ariarate I di Cappadocia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ariarates I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ariarates I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ariarate I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ariarate I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ариарат I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arijarat I od Kapadokije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Arijarat I. Kapadoški"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ariarathes I of Cappadocia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Аријарат I"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Аријарат I"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Arijarat I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ariarathes I av Kappadokien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Ariarathes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аріарат I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ariarathes I của Cappadocia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿里阿拉特一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿里阿拉特一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿里阿拉特一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿里阿拉特一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿里阿拉特一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿里阿拉特一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿里阿拉特一世"
+    }
+  },
+  "lastrevid": 17554307,
+  "modified": "2025-09-17T11:04:20Z",
+  "ns": 860,
+  "pageid": 165561,
+  "sitelinks": {},
+  "title": "Item:Q137176",
+  "type": "item"
+}

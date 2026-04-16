@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sextus Atilius Serranus Domitianus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q139643$45D82AD5-785E-49E6-9F3A-44E43C76BB30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139643$6D8E0635-70A3-44A1-ADB6-9B777DF63592",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139643$8FF97A5E-BF5B-4C25-8A4D-A24D5A4FFD48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139641",
+              "numeric-id": 139641
+            }
+          },
+          "hash": "106b28b70a7c331ac958d126166f4bac295914ac",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139643$CF8B2D39-8417-4CBD-BD1E-12FFBE3F62C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139642",
+              "numeric-id": 139642
+            }
+          },
+          "hash": "8c67967e00da4ebc6114e924b7c73b7e79495bd6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139643$D3DADE37-AA31-4E49-A432-BED320926D1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139643$9E86BE96-3A33-480D-BB58-03A1B6163DC3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0054-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8f2a8ecce68bd2cdc30c09c2d1da1b2faaf5434",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139643$99B33310-E4F9-4902-9909-F474FEA6C685",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108648027"
+          },
+          "hash": "d5750ab5e16bd56107321ba0374c353c766a2a91",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139643$69C1D768-DEC8-466A-B711-68163D6777F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sextus Atilius Serranus Domitianus Arms.svg"
+          },
+          "hash": "be9f964108fae48945836bf40f65f5d893c9425b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "nephew of Cato the Younger"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "neveu de Caton le Jeune"
+    }
+  },
+  "id": "Q139643",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Sextus Atilius Serranus Domitianus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sextus Atilius Serranus Domitianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέξτος Ατίλιος Σερανός Δομιτιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sextus Atilius Serranus Domitianus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sextus Atilius Serranus Domitianus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sesto Atilio Serrano Domiziano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sextus Atilius Serranus Domitianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sextus Atilius Serranus Domitianus"
+    }
+  },
+  "lastrevid": 17558235,
+  "modified": "2025-09-17T12:00:07Z",
+  "ns": 860,
+  "pageid": 168028,
+  "sitelinks": {},
+  "title": "Item:Q139643",
+  "type": "item"
+}

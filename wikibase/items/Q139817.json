@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Merfyn Mawr"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139817$3E0DAFCB-8B37-4C45-8250-E7D453D81A3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141749",
+              "numeric-id": 141749
+            }
+          },
+          "hash": "1bafeba186fbbaa8161247d5434bec3b051dcd7b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139817$B5943775-96F6-4E2A-8EB1-AD0AE414443C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139817$08AF4835-46FB-45B6-96A6-D2EE94402835",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139817$163F6689-9C9D-4CB7-B5F6-2686DD2DC451",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138568",
+              "numeric-id": 138568
+            }
+          },
+          "hash": "396c7e4da3f2024fafb3a7324e882883f2f2482a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139817$FB0C9F08-F391-4E6B-A1C1-8F7415907A57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139817$0234D6EE-01CD-4E17-B259-E4A199641B8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0630-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d5577069774436efbdcfa2d8bec111fbaff7010e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q139817$471E92A7-F8F7-45E8-8145-035E7CD94F85",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0682-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af8eb0cd9664617f309f7315a055181d2b834683",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139817$401B1E88-CAFF-4750-B9B7-A2927A7C9B1E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4291189"
+          },
+          "hash": "59f38008b552116c76a843dfddb3245e5608de0e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q139817$F7441ECB-4280-45DA-AC7F-3BCACBCB7270",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4821628772810061070"
+          },
+          "hash": "82fca8a613db2222d31cfba25dc0864b4e2885c8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139817$E5A613CF-64D1-452D-B483-55C0BD5596E1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Merfyn Mawr Arms.svg"
+          },
+          "hash": "295c33242aa46a3bf725da3c7ae67eb74741ab82",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q139817",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Merfyn Mawr"
+    },
+    "br": {
+      "language": "br",
+      "value": "Mermin Mawr"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Merfyn Mawr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Merfyn Mawr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Merfyn Mawr"
+    },
+    "es": {
+      "language": "es",
+      "value": "Merfyn Mawr"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mermin Mawr"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Merfyn Mawr"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мерфин ап Кинфин"
+    }
+  },
+  "lastrevid": 17558515,
+  "modified": "2025-09-17T12:04:05Z",
+  "ns": 860,
+  "pageid": 168202,
+  "sitelinks": {},
+  "title": "Item:Q139817",
+  "type": "item"
+}

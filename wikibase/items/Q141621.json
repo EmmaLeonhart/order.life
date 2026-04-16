@@ -1,0 +1,302 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Nonius Asprenas"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q141621$7CAF87EA-ACC3-4C87-897A-20257E1ADBC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144283",
+              "numeric-id": 144283
+            }
+          },
+          "hash": "56718a62be996d5ff96624e85133c369be8fd968",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141621$FCD4D43E-D973-4EDE-BE11-5B8EAB262BA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141621$8BB9EC5D-4E5C-4D7E-BF0F-68A1E02A2C67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141621$1427747E-6D54-4CB2-B6A2-EB8FD0687272",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70922",
+              "numeric-id": 70922
+            }
+          },
+          "hash": "ed1154123f19e3b0904696bb0c07e6ec1ee1e402",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141621$D9F393E7-FFDC-4A17-AB80-C128771271B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139724",
+              "numeric-id": 139724
+            }
+          },
+          "hash": "c222cef40a21bedc132d82c00154f355329c0bff",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141621$4D4166EA-1F54-4FE3-A90D-74E5804684C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141621$D48CCDD6-021D-4C2D-BAE9-A899C2953608",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0005-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "79df0ca6022c1f36032138f983ff5597e9426da4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141621$C005E99F-7575-4F93-909D-7D474C25B76E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0041-01-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d87484fea377ad112d42aa67a977eeeb232e42e1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141621$23FB83C6-9CC7-4026-8F70-96C8EAD7EDD9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q745746"
+          },
+          "hash": "a5555bd08d4e8a7ba2e728e3d829973b4f5a8646",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141621$71772A40-519F-4B33-9141-E6EDD3E68FB9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Nonius Asprenas Arms.svg"
+          },
+          "hash": "fc9fe57a5e6f4b9c04fb5eb19eded537a14be8be",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Römischer Senator und Konsul im Jahr 38"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator active in the first century AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul et sénateur romain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-41)"
+    }
+  },
+  "id": "Q141621",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Ноний Аспренат"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Noni Asprenat"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Nonius Asprenas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ασπρένας Καλπούρνιος Σεράνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Nonius Asprenas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Nonio Asprenas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Nonius Asprenas Calpurnius Serranus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publio Nonio Asprenas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Nonio Asprenate"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Nonius Asprenas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Nonius Asprenas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Nónio Asprenas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Nônio Asprenas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Ноній Аспренат"
+    }
+  },
+  "lastrevid": 17561582,
+  "modified": "2025-09-17T12:49:24Z",
+  "ns": 860,
+  "pageid": 170006,
+  "sitelinks": {},
+  "title": "Item:Q141621",
+  "type": "item"
+}

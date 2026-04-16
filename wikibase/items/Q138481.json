@@ -1,0 +1,395 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Aurelius Cotta"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q138481$27FD9D3A-D3B5-42F8-A71A-BA6AB4E07AF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "168152"
+          },
+          "hash": "d170ce70237d3a4bf8858f5d0baf789d41bf2854",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138481$48A9823B-1DD6-426F-AE7D-3CC7245555EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138481$10D7412D-4580-4744-A1BC-9CE833CAEE71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138481$E89704B7-16DD-4A9C-A27A-64899406A86D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73182",
+              "numeric-id": 73182
+            }
+          },
+          "hash": "07a6dacd28c90e86d5a25e58ad09807ce4c4bada",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q138481$0A6285A8-9AFE-4230-A29E-FE6618AFBE04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73179",
+              "numeric-id": 73179
+            }
+          },
+          "hash": "6d45ccab1a88829d4aef790e91e7364644c95304",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138481$FD97FC53-F32A-4FDC-8832-B6B66919E3D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138481$91AEF2B2-62DD-443C-AC02-56647D05D43C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0124-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8f26f910d4b3e5017940aba21da59ede8a87593",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q138481$47BC1C27-2FC4-4262-ABED-120C27A9FD13",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0073-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e53a6cf81d131ae0785512cf9818afd05ddf2ad3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138481$58CB22E6-5B43-46FE-9602-1941E60AC20B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q705425"
+          },
+          "hash": "d26e8f9a3a74c0f8c878907f1854001e181ac184",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q138481$AE8D56B5-503F-4C70-95BB-7FAD28CD8526",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Aurelius Cotta"
+          },
+          "hash": "2045791e123a674c18fcc74cd92b50a289a7a35f",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138481$E052800B-AEF2-46A9-8592-9734268495AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Aurelius Cotta Arms.svg"
+          },
+          "hash": "1b5744253b0b7895fc0cb094a46cf1a8293433d9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 75 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 75 v. Chr."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος ρήτωρ και πολιτικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul ca. 75 BCE; mentioned as an orator by Cicero"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "roomalainen poliitikko ja oraattori"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 75 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e oratore romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 75 v.Chr."
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 75 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "morbror till Julius Caesar"
+    }
+  },
+  "id": "Q138481",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Аврелий Кота"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Aureli Cota"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gaius Aurelius Cotta (konzul 75 př. n. l.)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Aurelius Cotta"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Αυρήλιος Κόττα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Aurelius Cotta"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Aurelio Cota"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gaius Aurelius Cotta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Aurelius Cotta"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיוס אורליוס קוטה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cayo Aurelio Cota"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գայոս Ավրելիոս Կոտտա"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Aurelio Cotta"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・アウレリウス・コッタ (紀元前75年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Aurelius Cotta"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gaius Aurelius Cotta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Aurelius Cotta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Aurélio Cota"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Aurélio Cota"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Аврелий Котта"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Aurelije Kota"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Aurelius Cotta"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gaius Aurelius Cotta"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Аврелій Котта"
+    }
+  },
+  "lastrevid": 17556357,
+  "modified": "2025-09-17T11:33:33Z",
+  "ns": 860,
+  "pageid": 166866,
+  "sitelinks": {},
+  "title": "Item:Q138481",
+  "type": "item"
+}

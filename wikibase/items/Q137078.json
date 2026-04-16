@@ -1,0 +1,812 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Leif Erikson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q137078$EC3418EC-C35B-446C-BA78-BF5529954682",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eiríksson-79"
+          },
+          "hash": "78bc4a740457faa0fa0bc5e954fa129d42286ae2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137078$CD5DEA5D-73C8-4747-8023-3613354DC834",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137078$D552C2DD-1B5F-4C34-A110-EC7D8C9121EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137078$D9BEC902-4EB5-4CFD-B4A1-2739B0B711C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137076",
+              "numeric-id": 137076
+            }
+          },
+          "hash": "a75d60ac34d6b1c8f79ff6ee7503f581d3904107",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q137078$E1A44939-AC6F-4FC6-A5D5-092D883F366B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136689",
+              "numeric-id": 136689
+            }
+          },
+          "hash": "b2821a67bd75b31fc0e5144d9317454592b92b98",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q137078$EFE642F6-9A27-4D93-82C5-4C01D3D88EAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "22103714"
+          },
+          "hash": "6cdb391cdf3a8f1fed9c116fa9964168655142d2",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137078$5F2862DB-AD9F-4336-997E-60523FCAC9EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137078$72D5FD33-3E4A-4299-8444-C24FD32EF6BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0972-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7d58b16b3ccb9849f8294a89bdad3c150c818267",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137078$0AC5BB32-EC4F-4A37-94BC-99ACE60A5004",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1020-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a85fd23f140e3861688a880252ab4a21ab7d5028",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137078$380946BA-461D-4211-8980-10F549018A47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q42838"
+          },
+          "hash": "9b18eb13d1db80a7d37c8b550d20606b6df2c1f0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137078$AF78D599-FB10-4294-9A48-943F386E473C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645908770"
+          },
+          "hash": "bc3d38692c26c625b247fc3b61c2a1515a367013",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137078$EAA6D49E-E23C-4B28-B537-FA4C41DEC608",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Leif Erikson Arms.svg"
+          },
+          "hash": "0a951685c9d311b2cfc544fc3771c2860a293dad",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مستكشف آيسلندي"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "كشايفي نوردي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مستكشف من ايسلاندا"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ісьляндзкі вікінг"
+    },
+    "br": {
+      "language": "br",
+      "value": "moraer viking"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "explorador islandès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "norský Viking"
+    },
+    "de": {
+      "language": "de",
+      "value": "isländischer Entdecker"
+    },
+    "en": {
+      "language": "en",
+      "value": "norse explorer (c. 970 – c. 1020)"
+    },
+    "es": {
+      "language": "es",
+      "value": "explorador islandés"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاشف آیسلندی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "viikinkitutkimusretkeilijä"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "explorateur islandais"
+    },
+    "he": {
+      "language": "he",
+      "value": "מגלה ארצות נורדי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "viking (izlandi) felfedező"
+    },
+    "id": {
+      "language": "id",
+      "value": "Penjelajah Norse"
+    },
+    "is": {
+      "language": "is",
+      "value": "norrænn landkönnuður (um 980-1020)"
+    },
+    "it": {
+      "language": "it",
+      "value": "esploratore norreno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ノース人の探検家 (970?-1020?)"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "islänneschen Entdecker"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "norrøn oppdagelsesreisende"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ontdekkingsreiziger uit IJsland (970-1020)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "islandzki odkrywca"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "explorator islandez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "исландский путешественник-исследователь"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "нордијски истраживач (c. 970 – c. 1020)"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "нордијски истраживач (c. 970 – c. 1020)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "upptäcktsresande från Grönland"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "தேடலாய்வோர்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İskandinav kaşif (970–1020)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ісландський мандрівник і дослідник"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "維京探險家"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "北歐探險家，紐芬蘭發現者"
+    }
+  },
+  "id": "Q137078",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Leif Erikson"
+    },
+    "ang": {
+      "language": "ang",
+      "value": "Laf Yricesson"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ليف إريكسون"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "لييف إيريكصون"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ليف اريكسون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Leif Erikson"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Leif Eriksson"
+    },
+    "az": {
+      "language": "az",
+      "value": "Leyf Eriksson"
+    },
+    "ban": {
+      "language": "ban",
+      "value": "Leif Erikson"
+    },
+    "be": {
+      "language": "be",
+      "value": "Лейф Эрыксан"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Лейф Эрыксан"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лейф Ериксон"
+    },
+    "br": {
+      "language": "br",
+      "value": "Leifr Eiríksson"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Leif Ericsson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Leif Eriksson"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "لەیف ئەریکسن"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Leif Eriksson"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Leif Eriksson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Leif den Lykkelige"
+    },
+    "de": {
+      "language": "de",
+      "value": "Leif Eriksson"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λέιφ Έρικσον"
+    },
+    "en": {
+      "language": "en",
+      "value": "Leif Erikson"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Leif Erikson"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Leif Erikson"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Leifr Eiríksson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Leif Erikson"
+    },
+    "et": {
+      "language": "et",
+      "value": "Leifr Eiríksson"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Leif Eriksson"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Leifr Eiríksson"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لیف اریکسون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Leif Erikinpoika"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Leivur Eiriksson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Leif Ericson"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Leif Ericsson"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Leif Eriksson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Leif Erikson"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Leif Ericson"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Leifr Eiríksson"
+    },
+    "he": {
+      "language": "he",
+      "value": "לייף אייריקסון"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "लीफ एरिक्सन"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Leif Ericsson"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Leif Eriksson"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լեյֆ Էրիկսոն"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Leif Erikson"
+    },
+    "id": {
+      "language": "id",
+      "value": "Leif Eriksson"
+    },
+    "io": {
+      "language": "io",
+      "value": "Leifr Eiríksson"
+    },
+    "is": {
+      "language": "is",
+      "value": "Leifur heppni"
+    },
+    "it": {
+      "language": "it",
+      "value": "Leif Erikson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "レイフ・エリクソン"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Leif Ericsson"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლეიფ ერიქსონი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Лейф Эриксон"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "레이프 에이릭손"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Leif Erikson"
+    },
+    "la": {
+      "language": "la",
+      "value": "Leivus Erici filius"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Leif Eriksson"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Leif Ericsson"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Leifas Eriksonas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Leifs Eriksons"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Leif Ericson"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Лејф Ериксон"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ലീഫ് എറിക്സൺ"
+    },
+    "my": {
+      "language": "my",
+      "value": "လိဖ် အဲရစ်ဆင်"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Leifur Eiríksson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Leiv Eiriksson"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Leif Eriksson"
+    },
+    "new": {
+      "language": "new",
+      "value": "लीफ् इरिकसन"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Leif Eriksson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Leiv Eiriksson"
+    },
+    "nv": {
+      "language": "nv",
+      "value": "Hastiin Leiw Éíwiksson"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Leif Ericson"
+    },
+    "os": {
+      "language": "os",
+      "value": "Эриксон"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਲੀਫ ਐਰਿਕਸਨ"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Leif Ericson"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Leif Eriksson"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Leif Eriksson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Leif Eriksson"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Leif Eriksson"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Leif Eriksson"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Leif Eriksson"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лейф Эрикссон"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Leif Ericsson"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "ليف ايرڪسن"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lejf Erikson"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Leif Eriksson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Leif Erikson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Leif Erikson"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Лејф Ериксон"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Лејф Ериксон"
+    },
+    "su": {
+      "language": "su",
+      "value": "Leif Eriksson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Leif Eriksson"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Leif Erikson"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "லீப் எரிக்சன்"
+    },
+    "th": {
+      "language": "th",
+      "value": "เลฟ เอริกสัน"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Leif Erikson"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Leif Ericson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лейф Еріксон"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لیف ایرکسن"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Leif Ericson"
+    },
+    "war": {
+      "language": "war",
+      "value": "Leif Ericson"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "莱夫·埃里克松"
+    },
+    "xal": {
+      "language": "xal",
+      "value": "Эриксон"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "萊夫艾瑞克森"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "萊夫·埃里克松"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "萊夫·艾瑞克森"
+    }
+  },
+  "lastrevid": 17554157,
+  "modified": "2025-09-17T11:02:12Z",
+  "ns": 860,
+  "pageid": 165463,
+  "sitelinks": {},
+  "title": "Item:Q137078",
+  "type": "item"
+}

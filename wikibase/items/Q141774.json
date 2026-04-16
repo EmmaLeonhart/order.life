@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Annia Faustina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141774$D87540C2-476A-4CA2-9E31-DDE0DAA47B67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736210"
+          },
+          "hash": "6e5b898494a8cab92dae35f04a78d9c0b471f373",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141774$631F2ADE-178D-48B4-AE78-FCE79C07B3F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141775",
+              "numeric-id": 141775
+            }
+          },
+          "hash": "a05c521596ba6c5252e395ae9f02c398500f8ea6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141774$F5948432-4314-4956-863F-B7D4CA4B93FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141774$8213DE45-DC4A-483D-A1C0-E337BF3D0FF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q141774$83A72C90-4441-4D15-AA53-715B77EC404B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Annia_Faustina_(daughter_of_Ummidia_Cornificia_Faustina)_(1)"
+          },
+          "hash": "c0e465cafd66c4de9eb12f0fcd4480a5e9f752cf",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141774$CA9DB9BA-0CE9-422D-9F1F-7B61888B3DB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76277",
+              "numeric-id": 76277
+            }
+          },
+          "hash": "f7a43af38f2e5aca0b604ad283a34ecb887382d4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q141774$B5C728F5-2425-442F-A8FF-740230878F00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76514",
+              "numeric-id": 76514
+            }
+          },
+          "hash": "546333318fe57bad660552239a8ae5f694f54786",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141774$32A71682-43C9-4F52-ADFA-E604205EB898",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q141774$76F8C32E-67D6-49FB-BA92-CE3C722E99D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0165-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "59cb44f65b5bc809324b909e3ff68e591a3db479",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141774$1AFF793A-0EFF-4DCE-B208-597197E70F40",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0210-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c9068f599265c1df4444c67c3430c4638fe0fc6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141774$04966DA0-5027-4843-B11D-EC4AC0E7728B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4769176"
+          },
+          "hash": "6289de25f07425b17291e43f60227ad853e63200",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141774$D497824B-F40C-4624-8B1F-5C4944470F95",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Annia Faustina Arms.svg"
+          },
+          "hash": "c1d74d6905f4f36cbea5132b4fba0c8729481552",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "mother-in-law of Roman emperor Elagabalus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, belle-mère d'Héliogabale"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "svärmor till Elagabalus"
+    }
+  },
+  "id": "Q141774",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Annia Faustina"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ания Фаустина (дъщеря на Умидия Корнифиция Фаустина)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Annia Faustina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αννία Φαυστίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Annia Faustina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Annia Faustina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Annia Faustina"
+    },
+    "it": {
+      "language": "it",
+      "value": "Annia Faustina"
+    },
+    "la": {
+      "language": "la",
+      "value": "Annia Faustina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Annia Faustina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анния Галерия Аврелия Фаустина"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Annia Faustina"
+    }
+  },
+  "lastrevid": 17561816,
+  "modified": "2025-09-17T12:52:46Z",
+  "ns": 860,
+  "pageid": 170159,
+  "sitelinks": {},
+  "title": "Item:Q141774",
+  "type": "item"
+}

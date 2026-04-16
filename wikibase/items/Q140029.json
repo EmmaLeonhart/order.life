@@ -1,0 +1,310 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iorwerth ap Bleddyn"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q140029$FA821931-30D1-4771-998C-CA369C4CFC10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Bleddyn-19"
+          },
+          "hash": "5723af6a24736b1ac9109e5eae24a57e7d88cf4b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q140029$1FF7ED2A-C9FE-49A6-980F-D8B320854D7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q140029$CBEFC5CB-0467-4622-848F-659BD6B245F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q140029$F08A0F01-72D7-4CA4-804A-57446D7C837B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Iorwerth_Bleddyn_(1)"
+          },
+          "hash": "bdc9281423b8ac1e996e4f711249589345a6aa4d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q140029$B0386C28-B05E-4745-AAE4-821F8830CA6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138696",
+              "numeric-id": 138696
+            }
+          },
+          "hash": "4af32ce89fb10a680176faee0f2fd92621f1c9d9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q140029$B0A1FBFB-7375-44AC-A726-E8B48A7AF5A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q140029$8DFB0693-1E2C-4EBF-800D-B77AB0DCDD22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1053-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e871a4a957275d43bd31fdd87ceb04b44478edfb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q140029$AA84881F-A290-4915-B5D6-BCED44BC21DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1111-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b40a79ecb230cc976ad71b710bf86ca1e562777",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q140029$FE1D250E-7355-41C5-8852-1233A6F56D82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q529874"
+          },
+          "hash": "39c459a2fb1b659bb98aae11f5eb4a6566aa3829",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q140029$247C2082-0D8D-4AD8-81F0-09B61070E0BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iorwerth ap Bleddyn Arms.svg"
+          },
+          "hash": "89ea5e6f1d98a7113d0793624e7672d0a1fc3012",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "tywysog rhan o deyrnas Powys"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürst des walisischen Fürstentums Powys"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh prince of Powys"
+    }
+  },
+  "id": "Q140029",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "br": {
+      "language": "br",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "de": {
+      "language": "de",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "en": {
+      "language": "en",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "es": {
+      "language": "es",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "it": {
+      "language": "it",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨルウェルス・アプ・ブレジン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иорверт ап Бледин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Iorwerth ap Bleddyn"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约沃思·阿普·布莱丁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "约沃思·阿普·布莱丁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "約沃思·阿普·布萊丁"
+    }
+  },
+  "lastrevid": 17558893,
+  "modified": "2025-09-17T12:09:37Z",
+  "ns": 860,
+  "pageid": 168414,
+  "sitelinks": {},
+  "title": "Item:Q140029",
+  "type": "item"
+}

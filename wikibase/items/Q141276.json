@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aife"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q141276$A53CC3C5-B4F4-4216-9B5D-CD706CFA8FE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00602902"
+          },
+          "hash": "7c0c01742b25a8680ec8c2ef679d4531d1cfd15a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q141276$FEF6FD46-62A8-414C-91C1-03E1F8B82997",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143937",
+              "numeric-id": 143937
+            }
+          },
+          "hash": "458cea4f45b909407ab87cbf0acd340f572d5897",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q141276$F459C2F7-43CF-44EB-9B5A-AD39B421EF12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ingen_Gilla_Pátraic-2"
+          },
+          "hash": "70e09d4a3c348451440991318d3d51053711a345",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q141276$CB5C924C-494C-4AED-BBE2-CF4192944097",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141276$CB6BA71E-CCEB-4EDC-A486-35BCD3F39E95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q141276$87CF7888-3D6B-40CE-B92D-DB7605DD02FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147814",
+              "numeric-id": 147814
+            }
+          },
+          "hash": "0493e204919f95996c285000bb8260f643bf16e6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q141276$9FAEB5AB-66A9-4B3D-A7A8-873B8C10B6F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139426",
+              "numeric-id": 139426
+            }
+          },
+          "hash": "00671586f07593172a7ee06a4775fc1e4d11578e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q141276$BCF82411-9758-426A-9714-A49AF3A72BCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q141276$A192BD31-3B42-4626-9C39-1A7FA70237CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1068-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "438142e92cad3cd2704c5bec6d27b3a1f2dd1da6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q141276$80E329D9-84CB-46F5-A5FC-ED937CD55274",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112962417"
+          },
+          "hash": "63c7c95f3b3a9ccba08407f5085cb0e3d0c813c6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q141276$E515952A-5958-4692-B346-B15D9A9B1EF5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aife Arms.svg"
+          },
+          "hash": "228a0c70c5b51ab2c4b4578a84ae9dc8efd74b67",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "975 - uncertain 1068"
+    }
+  },
+  "id": "Q141276",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aife"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Aoife"
+    }
+  },
+  "lastrevid": 17561008,
+  "modified": "2025-09-17T12:41:05Z",
+  "ns": 860,
+  "pageid": 169661,
+  "sitelinks": {},
+  "title": "Item:Q141276",
+  "type": "item"
+}

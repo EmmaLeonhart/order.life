@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Rutilius Nudus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q139723$BA45498B-B256-4DC1-8DD9-06F3F40E06AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138496",
+              "numeric-id": 138496
+            }
+          },
+          "hash": "85df91bc157769d8d049c4d22e706dbc6f61b858",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139723$CC190844-E42A-4FED-94BA-51CC6F3E8FA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139723$5A9457C0-6DA5-437C-AD0C-5F7480834EC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139723$2E5B7C53-DB1E-447D-A764-69E770F5A377",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141604",
+              "numeric-id": 141604
+            }
+          },
+          "hash": "b7357dbde2cff19d030192fc77eb3737402507ae",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139723$B6311A39-D0FA-4978-A60B-1D13AFA64C11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139723$EB2F843D-56A0-4AA7-AFA8-D6707D52A8B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139723$6B6FC649-F747-45FA-81CE-F5E1F8FC8CDA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q65151550"
+          },
+          "hash": "d7ce4ce232704e40bdf0258e9af495ac98b49110",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139723$DEF0193B-7AD6-4EC3-98F2-67A9B36C0418",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Rutilius Nudus Arms.svg"
+          },
+          "hash": "aabcda9cec30af6f1680bf1a535c5885d5ffe4e2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "legate of Marcus Aurelius Cotta"
+    },
+    "es": {
+      "language": "es",
+      "value": "pretor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "légat romain"
+    }
+  },
+  "id": "Q139723",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Publius Rutilius Nudus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Rutilius Nudus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Rutilio Nudo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Rutilius Nudus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Rutilio Nudo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Rutilius Nudus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Рутилий Нуд"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Rutilius Nudus"
+    }
+  },
+  "lastrevid": 17558367,
+  "modified": "2025-09-17T12:02:00Z",
+  "ns": 860,
+  "pageid": 168108,
+  "sitelinks": {},
+  "title": "Item:Q139723",
+  "type": "item"
+}

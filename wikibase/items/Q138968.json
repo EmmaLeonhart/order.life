@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert Rayne, of Brocastell"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q138968$835EEA18-82FD-4742-AEE5-767C4506B70E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00706449"
+          },
+          "hash": "c2ab03bea86c1d8eab5aa8bb76cb76cbb834239b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q138968$AC3045F2-7B26-4536-BFF3-2BC031F1CABA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138004",
+              "numeric-id": 138004
+            }
+          },
+          "hash": "66f5b3a893e69112f8c989b8fdf13ba2413be657",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q138968$F949E859-2071-4D4C-B267-E441F7B96DB7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Rayne-1"
+          },
+          "hash": "9cf8a43fe6d435d01ee15afe73a36c7968486a3d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q138968$5D902CC9-8AB7-471B-BE0C-7DCCBCF0B738",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q138968$88BB0CF2-D45C-4CEC-987C-860718A8903F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q138968$C51B6875-E21D-48BE-8216-929F00F081C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137374",
+              "numeric-id": 137374
+            }
+          },
+          "hash": "9fc556fe45963255b58541c89ea8db62f0c0b1c0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q138968$74B369B4-BE77-4DCC-817E-FFA0E651B184",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140526",
+              "numeric-id": 140526
+            }
+          },
+          "hash": "2ca0726d483b4ddf388010a8efe6013c572782dc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q138968$18EFD373-C737-45F0-BFE7-76D10BFA89E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q138968$A16AC8C1-13DF-413B-9EB4-B844D3378557",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1302-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19cb1e44c322cca77a718397ff272dbfbcf38789",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q138968$40FBD4CF-ECC8-4CB9-A71D-A03252B4F532",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99084149"
+          },
+          "hash": "3e5c412e09edc7752cc99e5e3acb53bd7c8c604d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q138968$948724A6-603F-457A-81BB-052E3869B2FE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert Rayne, of Brocastell Arms.svg"
+          },
+          "hash": "15c8a04aaaa17592aa0c4463c26c834387f4ddcc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1302 - )"
+    }
+  },
+  "id": "Q138968",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert Rayne, of Brocastell"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert Rayne, of Brocastell"
+    }
+  },
+  "lastrevid": 17557257,
+  "modified": "2025-09-17T11:46:21Z",
+  "ns": 860,
+  "pageid": 167353,
+  "sitelinks": {},
+  "title": "Item:Q138968",
+  "type": "item"
+}

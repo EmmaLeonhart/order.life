@@ -1,0 +1,275 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Pedius Publicola"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139705$BEE6F296-37F1-4244-BBC7-463847DBE3B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735977"
+          },
+          "hash": "64ff51702d13c44a3431d6b256f295836f44d464",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139705$D59F60E8-3F65-4BE0-9238-7AC3BA13ABF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141605",
+              "numeric-id": 141605
+            }
+          },
+          "hash": "28d0aa21214255dd7b7bdec39f2ede40fd8b443f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139705$ACC403D4-A25E-4CEE-BC14-58AFED829FAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139705$ABC196D4-BD90-4BDD-A113-7DC9A3E76A86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139705$C17BEAC7-5777-4283-8045-096A76939DC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138485",
+              "numeric-id": 138485
+            }
+          },
+          "hash": "c362ba78f35bc99af9f70a5652b2c40d6e8859ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q139705$6B58F463-16C1-4395-915F-70E19DCAB3EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139704",
+              "numeric-id": 139704
+            }
+          },
+          "hash": "cff82a251ad1d1e55b2c31bb0e0dcbeb77763c1f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139705$E4FB58E9-8774-433E-9526-48691B49BAB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139705$09CDDD33-ABFA-4348-B7E6-EBC1D0CADC58",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139705$ACBBE284-43C7-44E5-A128-A5CAA48116F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3655571"
+          },
+          "hash": "ab64dc6e41ecae14670de60c6be7e95283d9abf8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139705$3ABD1405-5FFB-48FE-94EB-350EECE6C9C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Pedius Publicola Arms.svg"
+          },
+          "hash": "3b84fcc86d80cb50bf4e1a85ed882c1f481db350",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "quaestor in 41 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q139705",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Педий Публикола"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Pedius Publicola"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Pedius Publicola"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Pedio Publícola"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quinto Pedio Publícola"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Pedio Publicola"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Pedius Publicola"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Pedius Publicola"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Педий (квестор)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Педій Публікола"
+    }
+  },
+  "lastrevid": 17558345,
+  "modified": "2025-09-17T12:01:41Z",
+  "ns": 860,
+  "pageid": 168090,
+  "sitelinks": {},
+  "title": "Item:Q139705",
+  "type": "item"
+}

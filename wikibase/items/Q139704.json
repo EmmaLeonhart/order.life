@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Valeria"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q139704$88C8C528-1A86-4C68-9B6D-8D47D0B50BC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00125449"
+          },
+          "hash": "c72009ce3879723914e892507bfdd3ebdfbd204a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q139704$7B9B46D3-494B-44A7-A803-E7CAF964455A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139705",
+              "numeric-id": 139705
+            }
+          },
+          "hash": "d93b68d4d7a9252a7f12c0892ed9970833558dbf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q139704$37D13013-CBAD-403A-A6CE-788F78245464",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q139704$5975FD91-84C6-44BC-B0D5-6A0CF326C7BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q139704$E9E1C855-3F0D-4520-96A7-CCF3D4FA8AAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138485",
+              "numeric-id": 138485
+            }
+          },
+          "hash": "fa48124f08b6d13c2d570e283db1239d577baa08",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q139704$61D3C0C7-8529-474F-ADC9-2A9FF73C9681",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141499",
+              "numeric-id": 141499
+            }
+          },
+          "hash": "3368852d3322437ef4868859c50f2db2494efe4c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q139704$0DFB9BA0-202F-48C3-B0FB-8C9AD401E257",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q139704$8E0E8413-0CE9-4B20-AD2F-DA478594F6DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q139704$B17DE48D-1625-43B4-87CD-768C7DAEDBDF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q93257035"
+          },
+          "hash": "60664376d85125dca9419b375f39294cf79e1c55",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q139704$90322D53-7123-41A2-B314-8684DE6B9596",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Valeria Arms.svg"
+          },
+          "hash": "3439e6115ef95581997e0c24cd4dd8f13ca40dd3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Quintus Pedius"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Quinto Pedio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyenne romaine, fille de Marcus Valerius Messalla Niger"
+    }
+  },
+  "id": "Q139704",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Valeria"
+    },
+    "en": {
+      "language": "en",
+      "value": "Valeria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Valeria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Valeria"
+    },
+    "it": {
+      "language": "it",
+      "value": "Valeria"
+    },
+    "la": {
+      "language": "la",
+      "value": "Valeria"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Valeria"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Valeria"
+    }
+  },
+  "lastrevid": 17558343,
+  "modified": "2025-09-17T12:01:39Z",
+  "ns": 860,
+  "pageid": 168089,
+  "sitelinks": {},
+  "title": "Item:Q139704",
+  "type": "item"
+}

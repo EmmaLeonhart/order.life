@@ -1,0 +1,905 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "García Ennecones"
+      },
+      {
+        "language": "en",
+        "value": "García I Íñiguez, rey de Pamplona"
+      },
+      {
+        "language": "en",
+        "value": "García I Iñiguez de Pamplona"
+      },
+      {
+        "language": "en",
+        "value": "Garcia Iñiguez de Pamplona"
+      },
+      {
+        "language": "en",
+        "value": "García Íñiguez of Pamplona"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q99899$F15D419A-B663-4A21-8FD9-31C2C6358D25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139009"
+          },
+          "hash": "8b12a6a410965866693605f83ae9e2ed1d2b224d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q99899$F517D17A-85E9-420E-88A0-B77A662B6D68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106656"
+          },
+          "hash": "5297393b26dde55f5fec37db5deaa2af9178f826",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q99899$C01F7FDC-D28D-4906-A7A0-3948F8E34129",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100064",
+              "numeric-id": 100064
+            }
+          },
+          "hash": "746cb4823000eb4f34ff167fe3957e7ac6166e5c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$E6E26ED8-6BC9-4442-8E9D-FEA5C5F38D23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100066",
+              "numeric-id": 100066
+            }
+          },
+          "hash": "e5cbcc7d9ddfc30f257c9dd3074ab5a64a70e2aa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$34F7B963-985A-442C-85FA-EB30DFC8C189",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100068",
+              "numeric-id": 100068
+            }
+          },
+          "hash": "01f41b9b2c9210c8c6064328edc6542cdb702b37",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$A6A2FE9A-3462-4231-88CB-984CD6D58F07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99903",
+              "numeric-id": 99903
+            }
+          },
+          "hash": "6957e91159fd3a998a87ed31b286b8c20ac3b3bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$2E713930-8399-4D69-841B-AA097760BE5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109553",
+              "numeric-id": 109553
+            }
+          },
+          "hash": "0841e9c3e0f662e812a74495ccebe9cbe4b22ee2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$A802BBBE-240F-4ABD-B233-FC4F5BC47827",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109433",
+              "numeric-id": 109433
+            }
+          },
+          "hash": "c7292dbb64f7cfdca160c8c1e6689b2afa2db105",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$A0D3C2E1-154D-4FAB-8E98-8CF46618C3CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109541",
+              "numeric-id": 109541
+            }
+          },
+          "hash": "58ef5171a9c78656d1a8a95943d510bb830bd0ed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q99899$97A872F3-A8A7-4959-B5E7-B432EA7E6F6D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pamplona-6"
+          },
+          "hash": "415b9b7db7949b5bc4b8f5c45604694154aaa644",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99899$060A3B64-CE3F-4B73-BD46-0B4DEEC3DF3B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "García Íñiguez of Pamplona"
+            }
+          },
+          "hash": "43da4de2745dd65d4759407f9d93df11155e1d6b",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99899$2F57DCD4-EB33-4983-800E-6D2288998922",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$C6FFF9A7-D82D-4637-B39B-5B19DFA02991",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q99899$57C28BE0-FD93-409D-9356-76C10A5876B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "García_Íñiguez_of_Pamplona_(1)"
+          },
+          "hash": "eff6a5fee7fc942e65b70a4baa8c36a917fdcdbc",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q99899$EC2A3515-BB5C-4F25-BF58-40BD3E062015",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99835",
+              "numeric-id": 99835
+            }
+          },
+          "hash": "d34e6c9d5afda9b0965923d2a658af190f3f8997",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$358D2E39-E359-4904-9E52-2E512725013A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100060",
+              "numeric-id": 100060
+            }
+          },
+          "hash": "a59c7c3083f8caa3b208ffaf3eb72023ea0bb168",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$7F7C4636-4D2E-470E-92B8-2E4A4581DD63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100062",
+              "numeric-id": 100062
+            }
+          },
+          "hash": "16539dbfbf684a123d15f1ba04c36147064a2335",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$D22AD07A-35E9-4644-9114-BC21DA993A74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109539",
+              "numeric-id": 109539
+            }
+          },
+          "hash": "4d9a4fc505814e0febe0deab3ebf22426032b86e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$B1FDC72C-E6F0-4A60-A784-A70C7088447D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109732",
+              "numeric-id": 109732
+            }
+          },
+          "hash": "13e1ab28c4155553ff795969b21696a256975ec2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q99899$281D26C4-4F57-465F-B749-2E9E3E138409",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15274.htm#i152733"
+          },
+          "hash": "14a769cb597158d6856dab8bb9b401b0aac68fa6",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q99899$5321291F-1F47-4A03-8CD8-F8FB275E50E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100072",
+              "numeric-id": 100072
+            }
+          },
+          "hash": "575bc4c9389f6c344d9bd54eeee6917ff87e3d16",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$1F958A3E-34BE-4336-8283-C94AC347C420",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109722",
+              "numeric-id": 109722
+            }
+          },
+          "hash": "0292df695edb0b4227f12286415d9d1c26cde4a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q99899$880D71DA-D1BA-46C2-A645-9BD9B07E46B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100070",
+              "numeric-id": 100070
+            }
+          },
+          "hash": "47030b48407107df069dc3525b9d2917149b30d8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99899$3B3C2CCE-C62D-4034-B4E7-297655638B38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109724",
+              "numeric-id": 109724
+            }
+          },
+          "hash": "a3c64e2ca1e33c0ccfae7c9bfc62b69fc1b8b531",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99899$6431F2E1-15AE-4307-BFCD-C60BB3D62AFF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "García Íñiguez of Pamplona //"
+            }
+          },
+          "hash": "471af21fd0b9b5913453bac5c8fe10b7a894019f",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q99899$7C6DADF3-45A1-48F0-A475-2431B8F5D43D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Rey de Pamplona"
+          },
+          "hash": "b4c62ba646deac5390ba0572d7d8a8c9e4998d2c",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99899$838AB040-4DB6-459B-A8BF-AB03B2313150",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q99899$504CBDFF-626D-4FD4-AD6A-C82A40A128D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0810-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "39dbecc50de2a3e9e40bebc1f92fd5279c496c57",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q99899$1214227B-23C0-4939-9E89-773C04AC5D41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0882-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32fbb724d1eaa4ffd4ade82ab0c5e338878461cb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q99899$BB17CFCD-09A6-45DE-99DB-2C7C9CBC0F86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1231049"
+          },
+          "hash": "97a8109d655302262ea87163738955cfe4f6bb6b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99899$8D15F285-00FF-4F99-A2E9-69C982D5667F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000037773272"
+          },
+          "hash": "15751a69797f18267b76c1001913dcad5d652b8d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q99899$AED4BDF6-1596-493A-B293-F8795D5DF4D3",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "1 JAN 810"
+            }
+          },
+          "hash": "16b1c82d6dbc1295fb4a28ab0baa37892d7e86ff",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q99899$D9B6FE2B-2964-4669-B5DB-538EE2A01802",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=garcia iniguez;n=de pamplona;oc=1"
+          },
+          "hash": "d3acdb34f870b2e7ffec58f97ea218ef023068e8",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q99899$24E18888-7030-4DDF-AE9A-406564FF12EE",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "1 JAN 882"
+            }
+          },
+          "hash": "6191a9a84d892ac2af97ef4456cb1de88afc2aa6",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "кароль Навары (852—882)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de Pamplona"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Pamplona (852–882)"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς της Παμπλόνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Pamplona from 851/2 to 870"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Pamplona"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Iruñeko Erresumako erregea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi de Pampelune"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Pamplona (r. 852-882)"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "spaanscher Politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Spaans politicus (810-882)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Pampeluny w IX wieku"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Памплоны"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ Памплоне"
+    }
+  },
+  "id": "Q99899",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "García Ennéguiz de Pamplona"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "غارسيا إنيغيز ملك نافارا"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "ڭارصيا إنييڭيس د پامپلونا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جارسيا انيجيز ملك نافارا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гарсія I Іньігес"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "García Íñiguez"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Garcia Ènnec de Pamplona"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "García Íñiguez z Pamplony"
+    },
+    "de": {
+      "language": "de",
+      "value": "García Íñiguez"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκαρθία Ίνιγεθ της Παμπλόνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "García Íñiguez of Pamplona"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "García Íñiguez of Pamplona"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "García Íñiguez of Pamplona"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "García Íñiguez de Pamplono"
+    },
+    "es": {
+      "language": "es",
+      "value": "García Íñiguez de Pamplona"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gartzia Enekoitz"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "García Ier de Navarre"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "García Íñiguez od Pamplone"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "García Íñiguez de Pamplona"
+    },
+    "id": {
+      "language": "id",
+      "value": "García Íñiguez"
+    },
+    "it": {
+      "language": "it",
+      "value": "García I Íñiguez"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガルシア・イニゲス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Garcias Eneconis filius"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "García Íñiguez of Pamplona"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "García Íñiguez"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "García Íñiguez"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Garcia Íñiguez de Pamplona"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Garcia Íñiguez de Pamplona"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гарсия I Иньигес"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "García Íñiguez od Pamplone"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гарсија Ињигез од Памплоне"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Гарсија Ињигез од Памплоне"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Garsija Injigez od Pamplone"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "García Íñiguez"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "García Íñiguez"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гарсія I Інігес"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "加西亞·伊尼格斯"
+    }
+  },
+  "lastrevid": 17514487,
+  "modified": "2025-09-17T01:25:12Z",
+  "ns": 860,
+  "pageid": 117406,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q99899",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99899"
+    }
+  },
+  "title": "Item:Q99899",
+  "type": "item"
+}
