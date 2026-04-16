@@ -1,0 +1,352 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Hosidius Geta"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q68812$562EF17A-BED3-4107-85AE-DAF4D2FC1394",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351415"
+          },
+          "hash": "bc39e304380dd83fa843f710e5e224850798309b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q68812$6B25542B-EDC3-4AE9-B114-A949D8475D8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67085",
+              "numeric-id": 67085
+            }
+          },
+          "hash": "7284a48793628fcaea89e1179eafed55977fd22a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q68812$0864F023-6C4F-43AB-8D6F-89192A40ECCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q68812$ECCDEE33-5279-4E1E-A875-482337AFE5A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q68812$650975DD-3A4C-4A50-A69B-9341FFD54E11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus_Hosidius_Geta_(1)"
+          },
+          "hash": "c292bafde510907e61c9fa4b10ae364904479c77",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q68812$BCD9289B-9C87-4DFB-BBE3-6A2B5ED1FD4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68779",
+              "numeric-id": 68779
+            }
+          },
+          "hash": "ceaff3b548cfb45a247c493b0c82e326dec9645e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q68812$175A3BAA-29A2-4E8F-BFF2-79551D2EBABE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70211",
+              "numeric-id": 70211
+            }
+          },
+          "hash": "0526428e84e8e7e41c92bb1fa162ef8b9e5aabef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q68812$BC437261-BA38-4D45-BA51-3EEB08B79E65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q68812$E5876BB1-B314-44C1-BDD1-FE01FD72DC51",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0020-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b966ac308bc3b07369cbd42035a1ce935900b75",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q68812$33B825D3-255E-43CA-910B-FF6F67BA2734",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1223428"
+          },
+          "hash": "5f4d3ad6736c9392c0c08bc228ab72013978ba32",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q68812$08FB33E5-063E-46C3-9CF2-81277FDC0E68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041263106644"
+          },
+          "hash": "0f3b3204fc61305dda9b2f09ad3192cae3d8d56e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q68812$5A00DA01-6CF0-4E5A-BCFE-7D9F62A080B6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Hosidius Geta Arms.svg"
+          },
+          "hash": "c65e7110bd9c22c18b9694a8182b18496e25508d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "magistrat romà del segle I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Römischer Feldherr und Politiker des 1. Jahrhunderts"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century AD Roman senator and general"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général et consul romain du Ier siècle"
+    },
+    "it": {
+      "language": "it",
+      "value": "senatore e militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "officier uit Oude Rome"
+    }
+  },
+  "id": "Q68812",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Хозидий Гета"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Hosidi Geta"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Hosidius Geta"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Οσίδιος Γέτα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Hosidius Geta"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Hosidio Geta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Hosidius Geta"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gnaeus Hosidius Geta"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Osidio Geta"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Hosidius Geta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Hosidius Geta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Hosídio Geta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Hosídio Geta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Хозидий Гета"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Гозідій Гета"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "格奈烏斯•霍西迪烏斯•蓋塔"
+    }
+  },
+  "lastrevid": 17480260,
+  "modified": "2025-09-16T17:21:53Z",
+  "ns": 860,
+  "pageid": 83643,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q68812",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q68812"
+    }
+  },
+  "title": "Item:Q68812",
+  "type": "item"
+}

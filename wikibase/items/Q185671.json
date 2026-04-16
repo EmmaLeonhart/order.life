@@ -1,0 +1,561 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Titus Flavius Sabinus"
+      },
+      {
+        "language": "en",
+        "value": "Titus Flavius Sabinus Consul 47"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q70913$96023915-FA0C-488C-A952-21B6EA9D7A72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446820"
+          },
+          "hash": "91fac146bbd20250250a34f028353705cbf3fe2f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q70913$0F2C06C0-BA05-4209-B350-351CFD88A2FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70298",
+              "numeric-id": 70298
+            }
+          },
+          "hash": "d0121cdfad616694ffa578a1353adc2cf50b8a8b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70913$95757FD0-3A7A-4BB6-BF7C-BC9CEC5B07A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76795",
+              "numeric-id": 76795
+            }
+          },
+          "hash": "96d6af76018ba5282c3bf4774c3429b9a75cddc8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70913$177E9638-A3FE-4EEB-8CB3-8A237E69BAA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148179",
+              "numeric-id": 148179
+            }
+          },
+          "hash": "91428e459c4307366ab2bf37dfc436316254354a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70913$ED6C2660-6133-4EE8-A9A5-DE253A161577",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151425",
+              "numeric-id": 151425
+            }
+          },
+          "hash": "b3828989461ea99a104e4f681dec9ce766916c73",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70913$1D07C81C-0300-4724-B07A-851B6D26172C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151426",
+              "numeric-id": 151426
+            }
+          },
+          "hash": "be218eaabe986c0b68477a167fa19ab40f95e749",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70913$53390CF0-E21E-4367-830D-1113168022C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151427",
+              "numeric-id": 151427
+            }
+          },
+          "hash": "84067de619f5f2cff66cc752b1fc25dd38bb765e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q70913$EF1E7533-5690-45E7-83D6-F325033C9D9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70913$F653710A-8908-46CB-BD3A-CB595948D202",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q70913$D9843679-6CA3-426A-9395-8C4807B0A218",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Titus_Flavius_Sabinus_(2)"
+          },
+          "hash": "e88b8d48b8368a1b5f99331a483c7110cbb68538",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q70913$EAA74171-E068-45DF-8F9F-D16545F0A6FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70910",
+              "numeric-id": 70910
+            }
+          },
+          "hash": "453b227933b7436373cd542a563bf8a75f7d606d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70913$31003AB4-216D-474B-AD34-46ED8195E188",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144229",
+              "numeric-id": 144229
+            }
+          },
+          "hash": "c35b3ad32559720942e04a9cd21a0edca851f893",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q70913$C505FE04-34FF-44A5-9D62-7473E5F082A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72041",
+              "numeric-id": 72041
+            }
+          },
+          "hash": "cd9cd42a9249ea4a8536549b31189775baeffa61",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q70913$A0BE4642-1F05-4E6E-8E48-A6AA616E6269",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72011",
+              "numeric-id": 72011
+            }
+          },
+          "hash": "9c557729f6d5cc6179b385d8a254cc9592a6c452",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q70913$F638B140-86B5-4A16-9163-0CCA31F9B31B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Consul 47"
+          },
+          "hash": "47e39f89de9dcbc88c3d0d6e78e79abe69977b01",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70913$D4DCC082-E491-4E69-914F-FDFF1BDCBBA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70913$9A889ABB-6B5A-43FC-9085-2D765677BCF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0008-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b2be25657546fdf7f9cfcedf43ccdd698833047",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q70913$9E3A5416-0E7C-40F0-9DC1-56354D7D84A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0069-12-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74a15025e76b6428d00c2ef873b6ae712473618e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70913$2552353A-3C3F-4ABF-AD35-F03CB79D9672",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q537235"
+          },
+          "hash": "cf1a4e53380d02675762079aa82478cf0d6f3686",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q70913$C398ECE2-38DB-439C-96B5-CF6FB4F108FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013204919137"
+          },
+          "hash": "fdb46bd14503ab4c0661480864e60f61409a7e60",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70913$32F084F2-1567-4124-AC69-6C4E42411380",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Titus Flavius Sabinus Arms.svg"
+          },
+          "hash": "13852078907cc1b5836dc23d1a4b68bdb7a67818",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "governador i prefecte"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Senator"
+    },
+    "en": {
+      "language": "en",
+      "value": "brother of emperor Vespasian"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 47"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Vespasiano enperadorearen anaia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 47"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico dell'Impero romano console nel 47"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (8-69)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "консул 47 року"
+    }
+  },
+  "id": "Q70913",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Тит Флавий Сабин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Flavi Sabí"
+    },
+    "da": {
+      "language": "da",
+      "value": "Flavius Sabinus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Titus Flavius Sabinus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τίτος Φλάβιος Σαβίνος ΙΙ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Titus Flavius Sabinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tito Flavio Sabino"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Tito Flavio Sabino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Titus Flavius Sabinus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Titus Flavius Sabinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tito Flavio Sabino"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tito Flavio Sabino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティトゥス・フラウィウス・サビヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Titus Flavius Sabinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Titus Flavius Sabinus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tytus Flawiusz Sabinus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tito Flávio Sabino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tito Flávio Sabino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тит Флавий Сабин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tit Flavije Sabin"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тит Флавій Сабін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "提圖斯•弗拉維烏斯•薩比努斯"
+    }
+  },
+  "lastrevid": 17482886,
+  "modified": "2025-09-16T17:59:05Z",
+  "ns": 860,
+  "pageid": 85744,
+  "sitelinks": {},
+  "title": "Item:Q70913",
+  "type": "item"
+}

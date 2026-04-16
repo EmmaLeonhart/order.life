@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "NN mother of Sintpert daughter of Pepin"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q208182$8AD6AE2C-4AC8-CE6F-8809-6AFFEF5EFC7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q208180",
+              "numeric-id": 208180
+            }
+          },
+          "hash": "6b656b8fdf49804eba94d0fe2f97b4ad2fd01cf6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q208182$28A1BA5E-3B97-4598-8C4F-62B4C8ED7EAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q208182$1FFBD5A3-09D3-4A8F-BA21-9E6C32E6360C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q208182$881C007B-E62E-353B-D0E7-697C510A8935",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136124",
+              "numeric-id": 136124
+            }
+          },
+          "hash": "bc9b654ac08340c4983bddce2958d563d1fede43",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q208182$38B14EB7-B471-65B1-CD7B-348D182220E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q115037",
+              "numeric-id": 115037
+            }
+          },
+          "hash": "4430764d926efb9e1f205461ad7a4bfc2ede1ed4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q208182$8034BFFE-C988-4DD0-95EC-9D9BE1FC009C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "NN mother of Sintpert /daughter of Pepin/"
+            }
+          },
+          "hash": "ddccbe9279a658038e7e834dd4b865ffb501a2a0",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q208182$745E3D72-9B39-D46F-25F0-9C7F6AADF1AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q208182$4D84FF26-0249-E634-1509-55B9556A99E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000079578781896"
+          },
+          "hash": "27b72d2bd7b2efbf08f13b0d50d21e54b5ecf53b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q208182$73B423A8-8B6E-4068-BB25-EC869DB7A4C5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "NN mother of Sintpert daughter of Pepin Arms.svg"
+          },
+          "hash": "f0ac6c767648d2c846e6eda29eb8e8e5639098ba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q208182",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "N.N."
+    }
+  },
+  "lastrevid": 17612329,
+  "modified": "2025-09-18T00:28:27Z",
+  "ns": 860,
+  "pageid": 218061,
+  "sitelinks": {},
+  "title": "Item:Q208182",
+  "type": "item"
+}

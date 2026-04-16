@@ -1,0 +1,181 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q207960$30F1FCB8-E107-45A7-9307-DD73A5304690",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q207960$1C958FD9-4B97-44F5-AD59-76F3BDB488C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q207960$61DF0727-0568-8C49-B67A-16CFB2331553",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207955",
+              "numeric-id": 207955
+            }
+          },
+          "hash": "9bb58d28058f32170dbc00078a73d96cdee5af27",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q207960$92F0E2AA-00D7-9AE1-D365-D816514783BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207954",
+              "numeric-id": 207954
+            }
+          },
+          "hash": "191fec9331593d0c2d76716ef07d474e64160460",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q207960$3DBE967E-83E1-430A-AE89-DDC7F0BB939F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Egbert /von Gleiberg/"
+            }
+          },
+          "hash": "898c021ee008c54dca73d698ecbd7f1ff9e106a5",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q207960$0DBC8956-4DE3-B609-C11D-564FB4198EE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q207960$296DB406-AD16-969D-9132-CBDDE32DDFE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000034516498949"
+          },
+          "hash": "4378e045913326854e340be89afa216c78c51f15",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q207960$A365DEEB-67A0-4C9E-9141-22281AC0D218",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Egbert von Gleiberg Arms.svg"
+          },
+          "hash": "e5af7bd6b12bdbc363f4e6200909fa92809a17bb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q207960",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Egbert /von Gleißberg/"
+    },
+    "en": {
+      "language": "en",
+      "value": "Egbert von Gleiberg"
+    }
+  },
+  "lastrevid": 17611885,
+  "modified": "2025-09-18T00:22:53Z",
+  "ns": 860,
+  "pageid": 220881,
+  "sitelinks": {},
+  "title": "Item:Q207960",
+  "type": "item"
+}

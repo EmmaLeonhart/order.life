@@ -1,0 +1,582 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oberto I"
+      },
+      {
+        "language": "en",
+        "value": "Oberto I Obizzo conte di Luni"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q126793$DAE1F578-CDCA-449D-9EC3-34EB2C54BF87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "181304"
+          },
+          "hash": "f4333cc9ccd12722f949d9e166507e36d414eb99",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q126793$03F85910-6484-4B61-A656-E7E83B9BC176",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00626060"
+          },
+          "hash": "64dae45132233346738462fd3ecd80b8b6c13d1b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q126793$AE9F26B4-1B86-4B81-8E72-5016B8E50DBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121121",
+              "numeric-id": 121121
+            }
+          },
+          "hash": "e3326f38cd64d6cc5c099aff82cfa2dc689b2890",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126793$ABFECC4A-14C5-4BAB-B268-33EAE1906A4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126795",
+              "numeric-id": 126795
+            }
+          },
+          "hash": "ae3afdc9a19a051ba35fc510b2991e36301008de",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126793$A46C3A7A-D447-4137-A5D2-1B37A76F013A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q205463",
+              "numeric-id": 205463
+            }
+          },
+          "hash": "aec557958d662bb5ef308d44389546c639012830",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126793$A5DB3FB3-B470-4B8D-A3F6-488BECF62492",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207990",
+              "numeric-id": 207990
+            }
+          },
+          "hash": "991c4b4947d2ecbedd5b7b1246f6a391f4f7159c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126793$469A38F6-407C-4544-AF06-9F550C1ECF1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207989",
+              "numeric-id": 207989
+            }
+          },
+          "hash": "ef8b32ea04a5be1215aa4637c84979cb8090c419",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126793$814AE8C2-2817-484E-B7EC-564FD2A45F7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207970",
+              "numeric-id": 207970
+            }
+          },
+          "hash": "9009bbd0d17fbc602009bf54b37eb0cfe01e0634",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126793$A87C200D-F91F-4E10-89D6-802E6EF3F23C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207993",
+              "numeric-id": 207993
+            }
+          },
+          "hash": "68ea1ea00ff96b2534205837e040d1b95e5627ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126793$6EE3D35E-392B-487F-BA54-6AA4487CC33F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q208699",
+              "numeric-id": 208699
+            }
+          },
+          "hash": "de21965f9ce8739713c099f378205949d7bcde8d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q126793$1CD9C835-3A5F-4577-98CB-93875D8ADD15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Obertenghi-3"
+          },
+          "hash": "d2eef6399a40cdd7fb022d0323d33f9a78b8020b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q126793$E70A549C-1AF8-4938-91D6-DB57A2864F67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q126793$54A01853-D064-4A77-8E8B-0EFB597B1F31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q126793$A6DD67E1-E047-4BB9-AC00-1B963ED807FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Oberto_I_Obizzo_(1)"
+          },
+          "hash": "603749ff3eb1259f3d7377632a06562ac1773247",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q126793$811FFC8B-5C45-44E6-AB3C-59D5BDABDE39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q208232",
+              "numeric-id": 208232
+            }
+          },
+          "hash": "87fe2f386154b6a4b3494e63fbb3a7772121da39",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q126793$E5302A3C-18AD-49A8-B383-96A98FD35BAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207529",
+              "numeric-id": 207529
+            }
+          },
+          "hash": "2898b88bccad2fea11d9bbf58c67010a3a8811ed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q126793$6652D16D-0B1F-4F1E-9C5F-E1D3C4DED4FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q207528",
+              "numeric-id": 207528
+            }
+          },
+          "hash": "fd21ce7b1279445c177154ed22945cb01fdf1c78",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q126793$3EC71172-670F-42A6-B13F-200987385568",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q126793$FADD61F9-9D45-47D2-A16B-8C29105F10D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0901-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ecc0589780bacef8dcf758b68be1b8fcb380dd2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q126793$9BCF3509-653A-47DF-8AAA-430578078C2C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0975-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f049ae40ad886b3239d8452e38a65d580d634a94",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q126793$86C6350A-F647-49A4-8968-023252F1219F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2574342"
+          },
+          "hash": "f284a22b32ba1d3d52e18c59ce886b68c08270e0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q126793$79B577DB-8BED-4736-B357-7E8030B322F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000015212208636"
+          },
+          "hash": "24300163fc5f112843b0592da8355159ee6281d1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q126793$30BA6395-D87C-405C-9023-AB94C99341D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=oberto;n=obertenghi;oc=3"
+          },
+          "hash": "5fdf7b7bcd1cb81da8a3cdaa3dd93034b37264e0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q126793$69080E86-C795-469E-9F37-F723802E96D9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oberto I Arms.svg"
+          },
+          "hash": "08e0bf308e40500293417df001e293c1281096b7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "Uchelwr Eidalaidd"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιταλός ευγενής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Italian nobleman, Margrave of Milan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Margrave de Milán"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "margrave de Milan"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile italiano, margravio di Milano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Луни"
+    }
+  },
+  "id": "Q126793",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Oberto I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Оберто I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Otbert I. Estenský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Oberto I"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ομπέρτο Α΄ του Μιλάνου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oberto I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oberto I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Oberto Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "אוברטו הראשון, מרקיז מילאנו"
+    },
+    "it": {
+      "language": "it",
+      "value": "Oberto I di Milano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oberto I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Oberto I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Оберто I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Oberto I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Оберто I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧貝爾托一世"
+    }
+  },
+  "lastrevid": 17539892,
+  "modified": "2025-09-17T07:43:52Z",
+  "ns": 860,
+  "pageid": 153503,
+  "sitelinks": {},
+  "title": "Item:Q126793",
+  "type": "item"
+}

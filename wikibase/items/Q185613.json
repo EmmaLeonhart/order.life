@@ -1,0 +1,838 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Porcius Cato /Cato/ Roman Consul"
+      },
+      {
+        "language": "en",
+        "value": "Marcus Porcius  Cato"
+      },
+      {
+        "language": "en",
+        "value": "Marcus Porcius Cato  Cato"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q73005$850ED4FF-90AC-4C28-8140-6405324358BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72855",
+              "numeric-id": 72855
+            }
+          },
+          "hash": "6fd6968d0a1a9a15581165d7b7720d8efba50381",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73005$CAB611D1-9E12-4A7F-A25F-1696F09FA143",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73167",
+              "numeric-id": 73167
+            }
+          },
+          "hash": "a7d3bc2689ff3d2baef43d7a05ad3e70e6bb998c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q73005$6087C678-EF84-46B0-AB7F-FEF26A61E539",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Marcus Porcius"
+            }
+          },
+          "hash": "8e61bd3082363cf6a8d967a3977171acce0c73ef",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73005$42A3A0F0-D546-455E-B7D9-1744E950CCCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73005$275F9B24-7B04-43FE-ABD4-118C105590D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q73005$4B086973-C573-4D41-9562-423481B043BA",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Cato"
+            }
+          },
+          "hash": "22a4ca0f9ea7b61629faee1a1db2e9f380d61d3f",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73005$4EA00306-EA9B-4745-B89C-5E5534A64783",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73002",
+              "numeric-id": 73002
+            }
+          },
+          "hash": "7d9f7251c42ea3df3dbed973dc1b200702cff52d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73005$8E8603CB-2EED-442A-B386-3EFF68783DF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73329",
+              "numeric-id": 73329
+            }
+          },
+          "hash": "f487e67459559807554e654128c0677b1c2f49b9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73005$DB8C9AC2-7AC6-42B5-87EB-81E06521100E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73167",
+              "numeric-id": 73167
+            }
+          },
+          "hash": "1403e5cd1657010923682d1d19c9a39a1c8b9de1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q73005$2E21559F-05CE-437D-84AE-F8E1DF959B81",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Marcus Porcius Cato /Cato/"
+            }
+          },
+          "hash": "c8549c1ac2e627bafbaf970693a8bc9f1fb58dc8",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73005$47D924B9-D7BE-427A-8D10-DE0F51A48013",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Marcus Porcius /Cato/"
+            }
+          },
+          "hash": "c144f906da96bcf4ae5cc3194ff5cf07e322a634",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q73005$43AD4F87-050F-4FAF-853C-030ADF5344BB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Roman Consul"
+          },
+          "hash": "0e4cffb8e496166e43e98f270e34db352bf9ff4d",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73005$95350F11-0BEE-4C3B-89E6-E716212C3A72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73005$FE3F8AE4-4EDE-D0A0-A2DF-AC0257148490",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0234-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3432b0cb822ecf81307a2ba44007f87720705565",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73005$E4B32C86-47F0-69D9-4CE8-092FFC7161D0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0149-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1813401fd6cdb85ae0520a13b7caf814a2935d24",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73005$89F33719-4227-8C06-03C9-E8177C9CBEFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q180081"
+          },
+          "hash": "f8561e9b3de6bb97f3f765d003bafd3652e17911",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73005$C69C53C9-FC37-4ABD-96E9-F88772685B52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011820011590"
+          },
+          "hash": "5de2eba3b00694e6dbfc5fc7bfa94ef73e5ae1ab",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73005$F074CA3F-DE35-4967-96B6-280ACFFA3852",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011828026256"
+          },
+          "hash": "ebfa84686ac8a7b12fd263c22887251eb40fd2c6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73005$03DF3D5F-31C2-4C29-BDF3-939B40E3676C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cato the Elder Arms.svg"
+          },
+          "hash": "94658fa0e2a8f059578e9f41b3bab0e12f89ec2b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "polític, militar i escriptor romà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský politik, vojevůdce a spisovatel (234–149 př. n. l.)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "llenor, hanesydd yr hen Rufain, economegydd, bardd, gwleidydd hynafol, Rhufeinig, athronydd, areithydd, hanesydd a milwr (234-149)"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk skribent og politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician, soldier and writer (234–149 BC)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "armeestro, historiisto, verkisto kaj konservativa politikisto de la Romia Respubliko"
+    },
+    "es": {
+      "language": "es",
+      "value": "político, militar y escritor"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار و نویسنده در روم باستان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen senaattori"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique et écrivain romain, consul en 195 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "מדינאי וסופר רומאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori római író, consul"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico, generale e scrittore romano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Romanus politicus, miles et scriptor"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk skribent og politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (234v Chr-149v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk skribent og politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "mówca, polityk i pisarz rzymski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримский государственный деятель и писатель"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski konzul"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk författare och politiker"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ரோமானிய அரசியலாளர் படைத்தளபதி மற்றும் எழுத்தாளர்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Romalı devlet adamı, hukukçu ve hatip"
+    }
+  },
+  "id": "Q73005",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Cato Die Ouere"
+    },
+    "an": {
+      "language": "an",
+      "value": "Marco Porcio Catón"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "كاتو الأكبر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كاتو الاكبر"
+    },
+    "as": {
+      "language": "as",
+      "value": "মাৰ্কাছ পৰ্চিয়াছ কেটো"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Catón el Vieyu"
+    },
+    "az": {
+      "language": "az",
+      "value": "Böyük Katon"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Marcus Porcius Cato Censorius"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марк Порцый Катон Старэйшы"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Порций Катон Стари"
+    },
+    "br": {
+      "language": "br",
+      "value": "Cato an Henañ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cató el Censor"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Cato starší"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cato yr Hynaf"
+    },
+    "da": {
+      "language": "da",
+      "value": "Cato den Ældre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Porcius Cato der Ältere"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Marcus Porcius Cato"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κάτων ο Πρεσβύτερος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cato the Elder"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Katono la Maljuna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Catón el Viejo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Cato Vanem"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Katon Maior"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاتو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Cato vanhempi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caton l'Ancien"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Caton il censôr"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cató Mór"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Catón"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרקוס פורקיוס קאטו קנסוריוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Marko Porcije Katon Stariji"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Porcius Cato Maior"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մարկոս Պորկիոս Ավագ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Marcus Porcius Cato"
+    },
+    "io": {
+      "language": "io",
+      "value": "Marcus Porcius Cato"
+    },
+    "is": {
+      "language": "is",
+      "value": "Cato eldri"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Porcio Catone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・ポルキウス・カト・ケンソリウス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მარკუს პორციუს კატონი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Үлкен Марк Порций Катон"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "대 카토"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Катон"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Porcius Cato maior"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Cato la Vea"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Markas Porcijus Katonas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Markuss Porcijs Katons"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Катон Постариот"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Их Катон"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Marcus Porcius Cato"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Catone o censore"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Cato den eldre"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Porcius Cato Censorius maior"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Cato den eldre"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Caton l'Ancian"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kato Starszy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Pórcio Catão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Pórcio Catão"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Cato cel Bătrân"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Порций Катон Старший"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Catoni lu Cinzuri"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Cato the Elder"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Porcije Katon Stariji"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Marcus Porcius Cato"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kato Starejši"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cato the Elder"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Марко Порције Катон Старији"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Марко Порције Катон Старији"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Marko Porcije Katon Stariji"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Cato den äldre"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "மார்க்கசு போர்சியசு கேட்டோ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Marcus Porcius Cato"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Порцій Катон Старший"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کاتو اکبر"
+    },
+    "war": {
+      "language": "war",
+      "value": "Cato nga magurang"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "老加图"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "მარკუს პორციუს კატონი (უნჩაში)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "老加图"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "老加图"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "老加图"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "老加圖"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "老加圖"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "老加图"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "老加圖"
+    }
+  },
+  "lastrevid": 17485646,
+  "modified": "2025-09-16T18:37:49Z",
+  "ns": 860,
+  "pageid": 87836,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73005",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73005"
+    }
+  },
+  "title": "Item:Q73005",
+  "type": "item"
+}

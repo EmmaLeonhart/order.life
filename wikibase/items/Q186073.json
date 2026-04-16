@@ -1,0 +1,411 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Aemilius /Paullus/"
+      },
+      {
+        "language": "en",
+        "value": "Marcus Aemilius Paullus"
+      },
+      {
+        "language": "en",
+        "value": "Marcus Aemilius  Paullus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73551$C044BDBD-AA53-4072-986B-F1C5432C489B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735621"
+          },
+          "hash": "43928c1f9c569c981f79e7b3273fc40206828007",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73551$5C3B504A-AEA0-4F43-8DE0-0689CD9DA941",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73413",
+              "numeric-id": 73413
+            }
+          },
+          "hash": "7e1a73000586663df0a880d678729f8773350f35",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73551$99F86E5B-B01F-4D5B-B4DC-AA78D3920CE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73551$24E37CF6-8584-419B-8DD5-88C98CBD5F27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73551$608B6EEC-871C-428A-95B6-F06C59BEF373",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73668",
+              "numeric-id": 73668
+            }
+          },
+          "hash": "40cee2b53969cccd0ed14fa812b9752333fc6603",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q73551$DB9861B5-A781-42C8-85F2-5DA1BA1E4186",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Marcus Aemilius /Paullus/"
+            }
+          },
+          "hash": "4f4a401e03eed13f05aed6b125d00101d576df58",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73551$6C6C9BAB-C2A5-476E-9D4D-E2DB94085E48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73551$84BADDC3-0486-4734-A93D-AC1AD96CC509",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73551$CC20AB87-BA35-44C0-85AD-20A2DE56A9C8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0360-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9394df52c9f73c9ff16da1882dfff49887ed2767",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73551$D80F4C24-E397-463B-AE4F-961689290E26",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1306266"
+          },
+          "hash": "ed3917a53a1e219a5abae088c3f3fbe8252c59a7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73551$CB0784D5-E568-442C-8A82-5A68A6A09DAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000042187252634"
+          },
+          "hash": "1cd44f393079a8c0b2bc17a3b57ae7b8b5776249",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73551$C3B9E399-7C73-4B0A-A1E2-03E755E253DA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Aemilius Paullus Arms.svg"
+          },
+          "hash": "185eb5aac9dab666fb2921fc73a0d2bb2c075c37",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "cònsol romà el 302 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 302 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "politician, consul 302 BCE"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique de la République romaine"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Console romano nel 302 a.C."
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 302 года до н. э."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q73551",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Емилий Павел"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Emili Paulus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Aemilius Paullus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Aemilius Paullus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Emilio Paulo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Aemilius Paullus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Emilio Paulo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Emilio Paolo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・アエミリウス・パウッルス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Aemilius L.f.Paullus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Aemilius Paullus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Emílio Paulo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Emílio Paulo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Эмилий Павел"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Aemilius Paullus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Емілій Павло"
+    }
+  },
+  "lastrevid": 17486322,
+  "modified": "2025-09-16T18:47:23Z",
+  "ns": 860,
+  "pageid": 88382,
+  "sitelinks": {},
+  "title": "Item:Q73551",
+  "type": "item"
+}
