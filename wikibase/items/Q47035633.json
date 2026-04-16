@@ -1,0 +1,200 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1813": [
+      {
+        "id": "Q47035633$8A697D76-4973-FF03-017D-E7E0D42894C5",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "H1"
+            }
+          },
+          "hash": "c8766e5e923e855f5a8202e0e8bca13f4f4875a2",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47035633$1FB0E33D-438D-1353-CCB3-EDB6328DB43D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "H1"
+            }
+          },
+          "hash": "c7319c0e38fb460981f5ebdd9e460b938c5658b7",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P242": [
+      {
+        "id": "Q47035633$7CE15A73-4625-D3AA-4557-353119EC1676",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Spatial frequency distribution (%) of haplogroup H1 in western Eurasia and North Africa..png"
+          },
+          "hash": "150dded1d9c977ebd6fbac688b211818a9860dfa",
+          "property": "P242",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q47035633$246A7011-938A-4E24-A074-E9612541AD80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q47035633$1A470344-028E-4D1E-B20F-C239454808BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1584156",
+              "numeric-id": 1584156
+            }
+          },
+          "hash": "b6d2c296559d60ae49fb586a534947db00aaaca3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47035633$CCD477DC-79B6-4913-84E9-86D02D8192E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q47035633$AEF68A83-C47D-44E4-8092-800603E90760",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47035633"
+          },
+          "hash": "e3a3964f7352172b57d49b894706a5617fd0121e",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47035633$14B78E7D-0CF7-4905-B962-4AC14CA207C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup H1 Arms.svg"
+          },
+          "hash": "2053c0cab1e3bdf3a7a0e63419b079dadd2b68e2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q47035633$73A96CE9-4BA9-AD2F-DE0D-EB3EAACE697D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://haplogroup.org/mtdna/rsrs/l123456/l23456/l2346/l346/l34/l3/n/r/r0/hv/h/h1/"
+          },
+          "hash": "52572a05f5a29252b261b2abdfce29888628d085",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup H1"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ihmisen äitilinjan haploryhmä"
+    }
+  },
+  "id": "Q47035633",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup H1"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä H1"
+    }
+  },
+  "lastrevid": 17308617,
+  "modified": "2025-09-10T04:26:13Z",
+  "ns": 860,
+  "pageid": 203013,
+  "sitelinks": {},
+  "title": "Item:Q47035633",
+  "type": "item"
+}

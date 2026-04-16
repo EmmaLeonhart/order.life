@@ -1,0 +1,200 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1813": [
+      {
+        "id": "Q47010061$BE3ECA5B-4C7F-2DBC-83AC-77D7B1B98C57",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "L0b"
+            }
+          },
+          "hash": "71c600b17580641d28e1131e2d52ea6b01f7ea4a",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47010061$C84A4947-49CF-C9AB-DECC-DA6B44DE2999",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "L0b"
+            }
+          },
+          "hash": "3ecb284294e03c37132f0f8b52cb84f7f97960bb",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P242": [
+      {
+        "id": "Q47010061$2D1B67ED-4C7E-E7D5-AE33-221647CE1E1D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Frequency maps based on HVS-I data for haplogroups L0b.png"
+          },
+          "hash": "b88b59e594ed9ec319ba2eb90d2932b9242f65b7",
+          "property": "P242",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q47010061$F35F6095-67FC-4742-9EB6-709A9EA57D27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q47010061$2017853A-32DA-41A3-BA42-37027C92D094",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47010017",
+              "numeric-id": 47010017
+            }
+          },
+          "hash": "e2e9336ebd961b925bd2732c02a60367d3ad30c4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47010061$6C81CBB1-939D-4AF9-BCBF-4A1ECC188B43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q47010061$3FACCF6E-AC39-40B2-B0AF-1F4DDB2FF8DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47010061"
+          },
+          "hash": "99ee733095cb56680ee68128b6805cc7702e1122",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47010061$926B0B16-085F-4C2D-8FE2-DC797EAD81FC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup L0b Arms.svg"
+          },
+          "hash": "4ab884ca84acba1c0205195e6893332ee5c9ea35",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q47010061$48C04F7A-48E4-25B3-3F0C-1D4554ED25A0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://haplogroup.org/mtdna/rsrs/l0/l0abfgk/l0abfg/l0abg/l0b/"
+          },
+          "hash": "8c09a4672255ad0af57e36dcd1b9a040fa86cfea",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup L0b"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ihmisen äitilinjan haploryhmä"
+    }
+  },
+  "id": "Q47010061",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup L0b"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä L0b"
+    }
+  },
+  "lastrevid": 17308525,
+  "modified": "2025-09-10T04:26:09Z",
+  "ns": 860,
+  "pageid": 202982,
+  "sitelinks": {},
+  "title": "Item:Q47010061",
+  "type": "item"
+}

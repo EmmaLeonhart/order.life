@@ -1,0 +1,301 @@
+{
+  "aliases": {
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Haplogrup YxA"
+      },
+      {
+        "language": "ca",
+        "value": "Haplogrup BR"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Haplogrupo BT ADN Y"
+      }
+    ]
+  },
+  "claims": {
+    "P1813": [
+      {
+        "id": "Q1034077$FE0ED84B-BB6B-4CA0-937A-AF7F30B0AAE9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "BT"
+            }
+          },
+          "hash": "8d57e695a537b54272145a1a9717375621f33de8",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1034077$884C335B-3685-456F-9A61-E4E431D79CF1",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "BT"
+            }
+          },
+          "hash": "78e568e912fbb22ad6059dd1cc13a03087371b3c",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q1034077$9E3D5523-AA39-4780-8105-6F9ABBFB9AD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q428838",
+              "numeric-id": 428838
+            }
+          },
+          "hash": "ebcd0524ba8955fcea645f11ed48e51111162fea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1034077$9FA3D990-2729-42A1-953B-02E4873411DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q776355",
+              "numeric-id": 776355
+            }
+          },
+          "hash": "6d92adbc5419b62b4f8f1677e3571b14a4755305",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q1034077$4012D1F6-045E-4C8D-97CF-7A58346AC4EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q1034077$C03E04D0-D738-4D0A-97FA-651ABC7C6DA0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup BT of Y-DNA"
+          },
+          "hash": "bf9a49025507c64721af25f1832786eaa091deb7",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q1034077$D81DB9C4-449A-4433-B7CC-6CC2DBB83F45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47089229",
+              "numeric-id": 47089229
+            }
+          },
+          "hash": "e935c77bd7e56a6779f82b73ba1efd3a28249da3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q1034077$72F2E685-302B-4870-84C3-C7A356D52417",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q1034077$94F34206-A27F-427E-AC2A-E62127BCFB5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1034077"
+          },
+          "hash": "785556b5c90e7468dc854c261f8f3ec2daedcce9",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q1034077$4CB9409E-7419-4016-8255-39AD353810BE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/02qmlg4"
+          },
+          "hash": "762247356bc6eb7fd1901d3791dcf8b175560c20",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q1034077$6DBF8D03-0378-41AD-8FED-58ADDDCADB8F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup BT Arms.svg"
+          },
+          "hash": "433826aa26ff7d2bf07d410f64a6a33cc449be1e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q1034077$FD1AAE0D-B599-4333-B330-EC0481A179D1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.yfull.com/tree/BT/"
+          },
+          "hash": "291c36aede3dac80e1dfab8b2d1edfc768edd3db",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "metropolitan area in the Netherlands"
+    }
+  },
+  "id": "Q1034077",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "المجموعة الفردانية BT"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "haplogrup BR del cromosoma Y humà"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup BT"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haplogrupo BT ADN-Y"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä BT"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Haplogroupe BT"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループBT (Y染色体)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хаплогрупа BT"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "гаплогруппа BT"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿納姆-奈梅亨都會區"
+    }
+  },
+  "lastrevid": 17168621,
+  "modified": "2025-09-10T03:08:01Z",
+  "ns": 860,
+  "pageid": 203040,
+  "sitelinks": {},
+  "title": "Item:Q1034077",
+  "type": "item"
+}

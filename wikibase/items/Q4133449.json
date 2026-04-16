@@ -1,0 +1,169 @@
+{
+  "aliases": {
+    "ru": [
+      {
+        "language": "ru",
+        "value": "гаплогруппа E1b1b1a2 (Y-ДНК)"
+      },
+      {
+        "language": "ru",
+        "value": "гаплогруппа E1b1b1a1b (Y-ДНК)"
+      },
+      {
+        "language": "ru",
+        "value": "гаплогруппа E-V13"
+      },
+      {
+        "language": "ru",
+        "value": "E-V13"
+      },
+      {
+        "language": "ru",
+        "value": "E1b1b1a1b"
+      }
+    ]
+  },
+  "claims": {
+    "P2671": [
+      {
+        "id": "Q4133449$4BB6C779-99C0-454E-ACA0-30838C8BA61C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/g/1hb_h0971"
+          },
+          "hash": "3adedca223e4b77ea0a3b327901b92f1ac150bdc",
+          "property": "P2671",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q4133449$F18B4E38-47FF-004F-DFBC-F283FF1841F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q4133449$05EF895E-242E-4E51-A905-EF69A0C614F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4133446",
+              "numeric-id": 4133446
+            }
+          },
+          "hash": "c39f7313816184cb9a1a6cce71047d8a64802c47",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q4133449$CA311959-4ED6-4C30-BB53-70C6A73D037E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q4133449$B3DC11B4-494A-4DCD-A47A-54D250E6CEE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4133449"
+          },
+          "hash": "195163a8c5dd460b3a9897b3b0b89bf16ecbd2a9",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q4133449$CA3FA5C0-D93A-47C0-82C0-3A2A94123CA3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup E-V13 Arms.svg"
+          },
+          "hash": "2315b9095576b83a931d3bb28aaebfb1fe3bb8a7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup E-V13"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт гаплогруппа E1b1b1a1b"
+    }
+  },
+  "id": "Q4133449",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup E-V13"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "гаплогруппа E1b1b1a1b"
+    }
+  },
+  "lastrevid": 17300897,
+  "modified": "2025-09-10T04:22:04Z",
+  "ns": 860,
+  "pageid": 203079,
+  "sitelinks": {},
+  "title": "Item:Q4133449",
+  "type": "item"
+}

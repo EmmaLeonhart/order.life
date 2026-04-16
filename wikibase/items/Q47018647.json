@@ -1,0 +1,200 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1813": [
+      {
+        "id": "Q47018647$330D931B-4A77-467B-395C-99039E70EFB2",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "L3d"
+            }
+          },
+          "hash": "01994bbc310e4f7c9f856012ac4e2cd0b4df7baa",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47018647$0FCF1E6D-4940-2AFB-C81B-941C58A1B92B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "L3d"
+            }
+          },
+          "hash": "9ac65eddb8dbef874261c9d25f5932eb142455dd",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P242": [
+      {
+        "id": "Q47018647$620241DC-4AD5-F504-5F81-63166749F8B2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Interpolation maps for L3d haplogroup.png"
+          },
+          "hash": "f70e10b923226912157894594c7e694921a00697",
+          "property": "P242",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q47018647$B9025149-D42C-418C-AB7E-3EB14634724F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q47018647$77F7AB75-A25F-4C4B-8A36-794BBC806CF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47015879",
+              "numeric-id": 47015879
+            }
+          },
+          "hash": "407900d50cb09c65ee1575f21fb0498bd10fbac6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47018647$3BB07F07-E562-4706-9B80-93D5C394ED57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q47018647$BBB5EB30-86F6-4B00-9196-C6F0A0B81F70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47018647"
+          },
+          "hash": "ce380e11c1b0b5b9059a89e7cf425cf5b685503f",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47018647$D46B696F-51B7-4D12-9FF1-EB9D106726FB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup L3d Arms.svg"
+          },
+          "hash": "f0a419222ecdb00d037b5ad6af10dabbb70711d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q47018647$429E5DCD-4F86-CE5B-A3DF-91EEE0F69692",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://haplogroup.org/mtdna/rsrs/l123456/l23456/l2346/l346/l34/l3/l3d/"
+          },
+          "hash": "cf4a9e0707c89bb3cd617db648a8edc37a3261b6",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup L3d"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ihmisen äitilinjan haploryhmä"
+    }
+  },
+  "id": "Q47018647",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup L3d"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä L3d"
+    }
+  },
+  "lastrevid": 17308579,
+  "modified": "2025-09-10T04:26:11Z",
+  "ns": 860,
+  "pageid": 203005,
+  "sitelinks": {},
+  "title": "Item:Q47018647",
+  "type": "item"
+}

@@ -1,0 +1,180 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1813": [
+      {
+        "id": "Q47089301$929C2006-D723-4BC0-8528-49586B05B646",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "A1b1"
+            }
+          },
+          "hash": "a3df83c802f51d2dd4ce45a498ce0e0f799d4dac",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47089301$4532E967-7DD7-4EDD-ADD7-E5CEF8A9AF1F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "A1b1"
+            }
+          },
+          "hash": "732638f92ab71a24aa4ef317063aa188b6e116b1",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q47089301$2A727A85-10D7-494A-9C65-A2EB0DD76771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47089301$292C807B-E847-4618-889A-C213E19C8280",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47089229",
+              "numeric-id": 47089229
+            }
+          },
+          "hash": "e935c77bd7e56a6779f82b73ba1efd3a28249da3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47089301$F1FF1285-2DD2-40EF-B8FF-B7725567C117",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q47089301$14265F9F-1410-484C-904E-F073EB99D350",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47089301"
+          },
+          "hash": "2f644ff9de35bce2815fe167ed2bc96a70f11f10",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47089301$633D53C8-A63E-4E19-8B6D-2383FC7E9E17",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup A1b1 Arms.svg"
+          },
+          "hash": "83aac664c0592fa68c9bae1d848e0dcbae212ad3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q47089301$C7708CB2-7D59-4D2A-B776-FAA97970D759",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.yfull.com/tree/A1b1/"
+          },
+          "hash": "279e281a75f05ae8ab55b71c7c0f594c78306492",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup A1b1"
+    }
+  },
+  "id": "Q47089301",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup A1b1"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä A1b1"
+    }
+  },
+  "lastrevid": 17308719,
+  "modified": "2025-09-10T04:26:16Z",
+  "ns": 860,
+  "pageid": 203099,
+  "sitelinks": {},
+  "title": "Item:Q47089301",
+  "type": "item"
+}

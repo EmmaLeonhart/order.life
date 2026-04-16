@@ -1,0 +1,200 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1813": [
+      {
+        "id": "Q47049261$1D846542-4995-BB6D-65B4-41A5188D2C01",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "U6"
+            }
+          },
+          "hash": "221fd301026759654121556c3c680dcd66ab7208",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47049261$A8CC673C-48FD-4511-67C5-BF6E84A0FD95",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "U6"
+            }
+          },
+          "hash": "2c96490465593cf544433fd72960a9ff8942d20e",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P242": [
+      {
+        "id": "Q47049261$966C195D-4280-BF46-A1BE-4D828236AD86",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Contour (surface) maps of mtDNA U6 haplogroup.png"
+          },
+          "hash": "6c7aa6ab5700b2f99ce18ffc7098735b8a777697",
+          "property": "P242",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q47049261$5F183D99-D70B-400D-9398-005591DA99DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q47049261$8B9A0266-A47E-4766-A005-575AE7A0ACBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1584199",
+              "numeric-id": 1584199
+            }
+          },
+          "hash": "1b5404ae5b54b0390df1321bb57997e07da6c831",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47049261$81861C29-E7A4-4B4A-AD20-49EF6BDCFFF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q47049261$EDD665B3-A694-46D8-9BC1-6E6746E04606",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47049261"
+          },
+          "hash": "14a2986e76bebfa7c1b505c0237dc294b5f1fdbe",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47049261$01B1F58E-93B9-4C24-A8EA-B200172695E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup U6 Arms.svg"
+          },
+          "hash": "1dfc0e1a25edaaad5a698fdb4d41be973b69551f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q47049261$03192904-4BF2-6130-F728-D423F4875802",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://haplogroup.org/mtdna/rsrs/l123456/l23456/l2346/l346/l34/l3/n/r/u/u6/"
+          },
+          "hash": "68404f10fd368eb77d34836860914db7b11e5164",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup U6"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ihmisen äitilinjan haploryhmä"
+    }
+  },
+  "id": "Q47049261",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup U6"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä U6"
+    }
+  },
+  "lastrevid": 17308633,
+  "modified": "2025-09-10T04:26:13Z",
+  "ns": 860,
+  "pageid": 203014,
+  "sitelinks": {},
+  "title": "Item:Q47049261",
+  "type": "item"
+}

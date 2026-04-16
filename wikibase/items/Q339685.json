@@ -1,0 +1,462 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Haplogroup D-CTS3946"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Haplogrupo D ADN Y"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Haplogroup D"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "M174"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q339685$AB5AB50D-A744-4ED5-87BE-14C6670D70F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "83130"
+          },
+          "hash": "51dcf97a7db51e456389e330e57eee1a79d4812a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "Q339685$631E90C0-CFF4-44C3-92A6-94340CCE51AD",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "D"
+            }
+          },
+          "hash": "aef30a262946aef02b2ab2bb431125aece5d2588",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q339685$A09116CE-0251-4A14-B4D8-31D3704A9AF5",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "D"
+            }
+          },
+          "hash": "2ef01393ba4fc88d0bcfcb6d2767676e5948b511",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q339685$5C4CD975-73A8-4C57-862A-BBF5493601BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47109866",
+              "numeric-id": 47109866
+            }
+          },
+          "hash": "d74066de51011df391d44a3b26807755abb49f06",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q339685$6353B3D1-FC99-4F9C-AACD-CEE15B9AA28B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47110224",
+              "numeric-id": 47110224
+            }
+          },
+          "hash": "68d2e5e85487c5ab4a3a7b8a9b1ebaabfa658161",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P21": [
+      {
+        "id": "Q339685$6805AF08-28C1-4880-9F34-7B50858A78A3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6581097",
+              "numeric-id": 6581097
+            }
+          },
+          "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+          "property": "P21",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P242": [
+      {
+        "id": "Q339685$52B339C3-4A17-92C0-34E6-AF83516EAFD8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Geographic distributions of Y chromosome haplogroups D-M174 in East Asia.png"
+          },
+          "hash": "5e420db58f3b6818400580edfb3e1bae5ff78f33",
+          "property": "P242",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q339685$947AB1AC-570A-441B-962D-A7B32CCBCD8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q339685$47EF8EF3-6FB6-47C2-9054-49EDB9F6039F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup D of Y-DNA"
+          },
+          "hash": "afe90c367a023389946bae4387ba51e9522327b2",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q339685$627A490A-8C7F-4219-81F5-DA9AD5789119",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q339685$34D227E5-1D67-475F-B451-78B5FE352BE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q339685$6BD6A340-45E4-46C9-A1A5-F61A82AE0952",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2499275",
+              "numeric-id": 2499275
+            }
+          },
+          "hash": "3acf6ebc381b41afe0757511d85ee39a7494c7f3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q339685$8A290C4B-A0F0-4551-A1D7-3145776CCAD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q339685$D7555579-E18B-454B-8C58-5AD19A3846A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q339685"
+          },
+          "hash": "fbdd4151730bdf6f4f167d619db06dd19dee87ff",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q339685$7A8CB2C0-455F-4C44-8F9F-CD24223BB26D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/0blpdx"
+          },
+          "hash": "fc9ddc0779729d9ffd1744646a5327eb5201e716",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q339685$11C826EF-D971-4A41-80F7-079D4E1FF676",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup D Arms.svg"
+          },
+          "hash": "6f4edcb4177a80f6bc3bde44f23ca3b1ba435a0c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q339685$77FAB372-D293-4247-B527-C396949D653D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.yfull.com/tree/D/"
+          },
+          "hash": "dd66e50d5b0112572458a9fea53b826bd1d86dfa",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كلادوبلاست لـالمجموعة الفردانية D"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cladoplast von Haplogruppe D"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup D"
+    },
+    "es": {
+      "language": "es",
+      "value": "cladoplasto de Haplogrupo D ADN-Y"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cladoplaste de Haplogroupe D"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह डी का क्लैडोप्लास्ट"
+    },
+    "it": {
+      "language": "it",
+      "value": "cladoplasto di Aplogruppo D"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループDのクラドプラスト"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 D의 클라도플라스트"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт гаплогруппа D"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "单倍群D-M174的克拉多质体"
+    }
+  },
+  "id": "Q339685",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "المجموعة الفردانية D"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "haplogrup D del cromosoma Y humà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Haplogruppe D"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup D"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haplogrupo D ADN-Y"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä D"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Haplogroupe D"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह डी"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aplogruppo D"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループD"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 D"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Haplogrupa D (Y-DNS)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хаплогрупа D-CTS3946"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "гаплогруппа D"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "单倍群D-M174"
+    }
+  },
+  "lastrevid": 17613693,
+  "modified": "2025-09-18T00:58:37Z",
+  "ns": 860,
+  "pageid": 203070,
+  "sitelinks": {},
+  "title": "Item:Q339685",
+  "type": "item"
+}

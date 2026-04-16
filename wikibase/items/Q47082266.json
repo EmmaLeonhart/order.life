@@ -1,0 +1,184 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1813": [
+      {
+        "id": "Q47082266$24DFB960-F8E4-455E-9AF1-BDAD0A486641",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "M10"
+            }
+          },
+          "hash": "2660ab524792e7d30fbab065751c65181c771b6b",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47082266$743BFCD1-9EEB-493E-9B9F-C41738A37A5D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "M10"
+            }
+          },
+          "hash": "6443ffb0b62b43eff69a5149a568fb86c9b16209",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q47082266$EE9C258E-8403-4486-88CE-FCAA151687F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q47082266$EEAF0669-600D-4F59-9C09-4C2FA05FD145",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1584179",
+              "numeric-id": 1584179
+            }
+          },
+          "hash": "32a1bdcc611a525ffd389e655aa2e10cca5bbcb8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47082266$DC51D045-3DD7-4DD1-9C73-2FBF8B77EE4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q47082266$68921818-5476-4BCD-B8DE-9D4D81383504",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q47082266"
+          },
+          "hash": "c5529c0d4be650f7737e7eba7264b89becea2284",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47082266$AB541CBC-33B2-4A25-84DE-843FDB613C93",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup M10 Arms.svg"
+          },
+          "hash": "eec3d4d6c6567bf0ccdcb2a5c8bbe16a66000641",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q47082266$9AA6EDAF-BF74-40C3-A6BA-285C3202FDBD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://haplogroup.org/mtdna/rsrs/l123456/l23456/l2346/l346/l34/l3/m/m10/"
+          },
+          "hash": "97aaacdafa0040167a4f4ca9bb551abe734f7d56",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup M10"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "ihmisen äitilinjan haploryhmä"
+    }
+  },
+  "id": "Q47082266",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup M10"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä M10"
+    }
+  },
+  "lastrevid": 17308697,
+  "modified": "2025-09-10T04:26:16Z",
+  "ns": 860,
+  "pageid": 203029,
+  "sitelinks": {},
+  "title": "Item:Q47082266",
+  "type": "item"
+}

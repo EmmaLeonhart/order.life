@@ -1,0 +1,171 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "O2a"
+      },
+      {
+        "language": "en",
+        "value": "O-F2320"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "ハプログループO-M95"
+      }
+    ]
+  },
+  "claims": {
+    "P31": [
+      {
+        "id": "Q4133472$DBB9F013-AA10-43EE-8CF3-41FCE33DA5E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q4133472$E2DE5BF4-9574-4228-A277-333DBB593DB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5651884",
+              "numeric-id": 5651884
+            }
+          },
+          "hash": "1e075b7c34641f567253e0f57d23283c6c98335a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q4133472$77B9CF1E-3937-4F7D-A376-C63CD47E9D35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q4133472$7120DBD5-9F22-4744-919E-F71D49DE240D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4133472"
+          },
+          "hash": "54fc1c687fcfb26157479c4a833d9024c8c42268",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q4133472$B17E7E21-0AE3-41CD-A5B8-A54B1E27D5CE",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/02635dh"
+          },
+          "hash": "cc0208f11068327f0c180af82b67c76760f80dde",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q4133472$336FBB7C-296B-41D4-94BD-A0C859F01618",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup O-K18 Arms.svg"
+          },
+          "hash": "3e43832e8d5d1c5f3551ccf4db15f2a17c461d39",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup O-K18"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループO1b1のクラドプラスト"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт Гаплогруппа O2a (Y-ДНК)"
+    }
+  },
+  "id": "Q4133472",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haplogroup O-K18"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループO1b1"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гаплогруппа O2a (Y-ДНК)"
+    }
+  },
+  "lastrevid": 17300911,
+  "modified": "2025-09-10T04:22:04Z",
+  "ns": 860,
+  "pageid": 203085,
+  "sitelinks": {},
+  "title": "Item:Q4133472",
+  "type": "item"
+}

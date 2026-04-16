@@ -1,0 +1,471 @@
+{
+  "aliases": {
+    "fr": [
+      {
+        "language": "fr",
+        "value": "mtDNA"
+      },
+      {
+        "language": "fr",
+        "value": "ADNmt"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Гаплогруппа U (mtDNA)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q1584199$F3E3CD76-C37E-43A4-9ECF-0EAF34684159",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "568389"
+          },
+          "hash": "4e183499de891bb796e26d0ffd565bbb51e2e681",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1449": [
+      {
+        "id": "Q1584199$9A514454-7E76-4DD6-97C5-B2F45A09B704",
+        "mainsnak": {
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ursula"
+            }
+          },
+          "hash": "2ad280a1224b73ef7e8b2e2db089d352e2f0995a",
+          "property": "P1449",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "Q1584199$D92F7204-4792-9384-5D63-C499799BB760",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "U"
+            }
+          },
+          "hash": "5327bf4952a064a91f15c709fbbafb4c86081509",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1584199$E01181A8-0C99-4A7D-BBC8-CD1796CE8302",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "U"
+            }
+          },
+          "hash": "c9c588ac6e64069ed8bee06c87ca628dbcf54a12",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q1584199$1DA77BD9-C485-4564-9039-9C7D4C497291",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47050004",
+              "numeric-id": 47050004
+            }
+          },
+          "hash": "16b302115dc4708cf91e41aa3d4f86b60f0d6acb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1584199$6BB8C9B7-5838-4BB1-B047-994E172968C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47009871",
+              "numeric-id": 47009871
+            }
+          },
+          "hash": "12eef1a2e4a40d0a75ad203b2a4039841a09afb6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1584199$A060DAD9-32AA-4BF5-BE6A-83DAB505E506",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47049261",
+              "numeric-id": 47049261
+            }
+          },
+          "hash": "7ce1bc4edc179753ef6e58a5be85295e084d234b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1584199$ABF8EB4A-884C-4AF5-9E91-661DE605647E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45789796",
+              "numeric-id": 45789796
+            }
+          },
+          "hash": "68566de47025cc83aa51f63bb371b1a76ff5fecb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q1584199$5B337B6F-5A19-4E83-976A-5B32E18F3F80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q1584199$977101E6-64AD-4D33-B87A-EC10070A0B52",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup U (mtDNA)"
+          },
+          "hash": "4bfba2083286cf3e92c25ab5e01d3a8d67c82ee4",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q1584199$1362E013-8D99-47CC-B8DD-165A557FE9CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1584186",
+              "numeric-id": 1584186
+            }
+          },
+          "hash": "8093d51cd445ace1667cebdcd1ab16ae29c87ca8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q1584199$51741F7D-7BDA-4ABC-829C-2342ADC311BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q1584199$8C365AD8-596F-46E7-93EB-7C14A9541432",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1584199"
+          },
+          "hash": "b0bea8c8ab9648f01ada795d3d7803a4c252a0ea",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6366": [
+      {
+        "id": "Q1584199$08582136-3CAA-46CF-881F-6D8BCCC3AB4B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "156449990"
+          },
+          "hash": "877988efb7738e61705b8dc407759a571488bff0",
+          "property": "P6366",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q1584199$FF0DDBD4-E3A3-412C-9C7B-1460360852B8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/0blg28"
+          },
+          "hash": "2e650e0912e91ada9fac3a86d6d2b032b3670e27",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q1584199$5E1E8776-D8D5-4E6B-9038-6348568BA04E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup U Arms.svg"
+          },
+          "hash": "0fd761634d5d26959fd442d79996954b199771a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q1584199$5975106D-4E9B-1F8A-96C8-0389B3AAA002",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "http://haplogroup.org/mtdna/rsrs/l123456/l23456/l2346/l346/l34/l3/n/r/u/"
+          },
+          "hash": "f83570738296a8a79860fa21528caff4847c4b7a",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Cladoplast von Haplogruppe U"
+    },
+    "el": {
+      "language": "el",
+      "value": "κλαδοπλάστης του Απλοομάδα U (mtDNA)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cladoplast of Haplogroup U"
+    },
+    "es": {
+      "language": "es",
+      "value": "cladoplasto de Haplogrupo U (ADNmt)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ihmisen äitilinjan haplotyyppi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cladoplaste de Haplogroupe U"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मातृवंश समूह यु का क्लैडोप्लास्ट"
+    },
+    "it": {
+      "language": "it",
+      "value": "cladoplasto di Aplogruppo U"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループUのクラドプラスト"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "cladoplasto de Haplogrupo U"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт Гаплогруппа U (мтДНК)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "človeška mitohondrijska haploskupina"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہیپلو گروپ U کا کلادوپلاسٹ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "單倍型類羣U的克拉多质体"
+    }
+  },
+  "id": "Q1584199",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Haplogrup U"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Haploskupina U (mtDNA)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Haplogruppe U"
+    },
+    "el": {
+      "language": "el",
+      "value": "Απλοομάδα U (mtDNA)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup U"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haplogrupo U (ADNmt)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä U"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Haplogroupe U"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मातृवंश समूह यु"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aplogruppo U"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループU"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хаплогрупа U"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Haplogrupo U"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гаплогруппа U (мтДНК)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "haploskupina U"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہیپلو گروپ U"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "單倍型類羣U"
+    }
+  },
+  "lastrevid": 17238733,
+  "modified": "2025-09-10T03:47:58Z",
+  "ns": 860,
+  "pageid": 202918,
+  "sitelinks": {},
+  "title": "Item:Q1584199",
+  "type": "item"
+}

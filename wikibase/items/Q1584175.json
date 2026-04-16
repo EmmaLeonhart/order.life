@@ -1,0 +1,502 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "هابلوغروب J (Y-DNA)"
+      },
+      {
+        "language": "ar",
+        "value": "هابلوغروب جي (واي-دي إن إيه)"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Haplogrupo J"
+      },
+      {
+        "language": "es",
+        "value": "Haplogrupo J del cromosoma Y"
+      },
+      {
+        "language": "es",
+        "value": "Haplogrupo J ADN Y"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Haplogroup J (Y-ADN)"
+      },
+      {
+        "language": "fr",
+        "value": "Haplogroupe j (y-adn)"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Гаплогруппа J-P209"
+      },
+      {
+        "language": "ru",
+        "value": "Гаплогруппа J, хромосома Y"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q1584175$311CE8AC-CC10-4088-920F-807771A5A792",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "83100"
+          },
+          "hash": "1ce11957a5d2408e2a797fff4ca0eec73b1ddbc3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1813": [
+      {
+        "id": "Q1584175$8972A709-79ED-4027-9CC6-14901DB1BF44",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "J"
+            }
+          },
+          "hash": "2a72500d67fb0c7a0a9d261987e1771005dd7e0c",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1584175$DBB65E92-40A5-4DC0-9CFE-E8B3D3E33CFF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "J"
+            }
+          },
+          "hash": "8d71a059e4cfb4362fe0fc28ca17670e451de0d6",
+          "property": "P1813",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1889": [
+      {
+        "id": "Q1584175$78CDE7BC-4665-A98A-5C79-51F05A405DB0",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1375490",
+              "numeric-id": 1375490
+            }
+          },
+          "hash": "6ed9161ebe92d9192160b5f12e0052687ce8692b",
+          "property": "P1889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q1584175$3444960B-B173-4F70-8A43-1BFE196CB18B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4118590",
+              "numeric-id": 4118590
+            }
+          },
+          "hash": "a645722e58679522601593bd94ef4e9b9942d0f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1584175$7FCC1980-97E6-4879-B80D-5EFECA2A59AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11024914",
+              "numeric-id": 11024914
+            }
+          },
+          "hash": "932a6e4cebb5bd6ad4a724d06908e4464121cc7e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P242": [
+      {
+        "id": "Q1584175$9A42B248-422E-EF77-0ECC-70262DC9C347",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup J (Y-DNA).svg"
+          },
+          "hash": "d7b14449420e151ebdf24bde9e255ecf47309c8d",
+          "property": "P242",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q1584175$31C6DAFC-6A5D-4677-A23A-DE7CA60F628C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "hash": "274d8a506104c0f2ab4ba2b57475c0e0d02b849a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q1584175$7E349C9F-F1FB-4DF4-B7EF-9553D566C598",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup J of Y-DNA"
+          },
+          "hash": "d6f2ebe966765503fc27ea668a55f932ca8f1b1a",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q1584175$CF3D74C9-71CB-45B3-B817-145A94E54FDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2468156",
+              "numeric-id": 2468156
+            }
+          },
+          "hash": "80426289ff9982fd8a33622f8334290e8144dd8d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q1584175$43AC7A67-6226-4719-886A-6E9C1AFF48C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P59": [
+      {
+        "id": "Q1584175$821CA3C7-7F2D-4AE7-B4E4-01E3A6A4351B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1584175"
+          },
+          "hash": "30f6c7b7d4e323b5a4c00b50599d91043d835a33",
+          "property": "P59",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P646": [
+      {
+        "id": "Q1584175$4A2A1CCA-C0CD-4FDE-A6E5-CDD33647A267",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "/m/09pfjj"
+          },
+          "hash": "93e96f49b92ab1f5334d03e56c5a22bf0286a654",
+          "property": "P646",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q1584175$00A7CE5A-6522-4E2B-B088-526D8096FEB2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haplogroup J Arms.svg"
+          },
+          "hash": "494152adb04be47714b207eaec6444292639da1c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q1584175$BCE97A48-DC48-472D-B65D-9D8C9F49F47D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.yfull.com/tree/J/"
+          },
+          "hash": "09065dfda6a56a598d4d3fa3dc1bae57e850cd2f",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كلادوبلاست لـالمجموعة الفردانية"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cladoplast von Haplogruppe J (Y-DNA)"
+    },
+    "en": {
+      "language": "en",
+      "value": "human Y-chromosome DNA haplogroup"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "human Y-chromosome DNA haplogroup"
+    },
+    "es": {
+      "language": "es",
+      "value": "cladoplasto de Haplogrupo J ADN-Y"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کلادوپلاستِ تک‌گروه J"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "cladoplaste de Haplogroupe J (Y-ADN)"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह जे का क्लैडोप्लास्ट"
+    },
+    "it": {
+      "language": "it",
+      "value": "cladoplasto di Aplogruppo J"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループJのクラドプラスト"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 J의 클라도플라스트"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "cladoplast van Haplogroup J-P209"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "cladoplasto de Haplogrupo J"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "кладопласт Гаплогруппа J (Y-ДНК)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "kladoplast Haplogrup J (Y-DNA)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "кладопласт Гаплогрупа J (Y-ДНК)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "單倍型類群 J的克拉多质体"
+    }
+  },
+  "id": "Q1584175",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "المجموعة الفردانية"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "haplogrup J del cromosoma Y humà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Haplogruppe J (Y-DNA)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Haplogroup J"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Haplogroup J ADN-Y"
+    },
+    "es": {
+      "language": "es",
+      "value": "Haplogrupo J ADN-Y"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تک‌گروه J"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Haploryhmä J"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Haplogroupe J (Y-ADN)"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "पितृवंश समूह जे"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aplogruppo J"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハプログループJ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하플로그룹 J"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Haplogrupa J (Y-DNS)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хаплогрупа J (Y-ДНК)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Haplogroup J-P209"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Haplogrupo J"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гаплогруппа J (Y-ДНК)"
+    },
+    "so": {
+      "language": "so",
+      "value": "Haplogroup J"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Haplogrupi J"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хаплогрупа J"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Haplogrup J (Y-DNA)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гаплогрупа J (Y-ДНК)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "單倍型類群 J"
+    }
+  },
+  "lastrevid": 17238725,
+  "modified": "2025-09-10T03:47:57Z",
+  "ns": 860,
+  "pageid": 203048,
+  "sitelinks": {},
+  "title": "Item:Q1584175",
+  "type": "item"
+}
