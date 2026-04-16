@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dyfnwal ab Owain"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q147022$ED071F21-F84E-40B6-96CE-B3C658909587",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147023",
+              "numeric-id": 147023
+            }
+          },
+          "hash": "0c1e2bd859e6ccd7c969551c95cc54af6feae75f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147022$5C42F1F9-2752-4F14-B366-8CD9ED5D5C30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143584",
+              "numeric-id": 143584
+            }
+          },
+          "hash": "be13513d667d80818b6a151b6154009debbc1e28",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147022$49CA5EA2-9499-46A2-9DEE-DE4DCDF87903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147024",
+              "numeric-id": 147024
+            }
+          },
+          "hash": "2e6c962170faf2e45c91da08eb8e1281e645800e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147022$D84A7D8C-0EF8-4E41-8490-406957BA3584",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147022$DC79F708-17D3-4AB9-A164-F9B5B3576A1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147022$C847C9FB-A33A-4219-BF68-B97153ABEC83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147022$BEEFFFF2-D8AF-42E3-A4C8-0FA45FFB3292",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0975-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "990a9e4b1da980cfc063231987dbf3c0da3d92ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147022$D6B37320-5D8E-44C0-82CD-DA07BDE6B6EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2057908"
+          },
+          "hash": "9fff95e459b7541faf5a3708f4f15f3fbc91d227",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147022$03732377-8C3B-45D3-B2F6-7D5A2C0DBC2A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dyfnwal ab Owain Arms.svg"
+          },
+          "hash": "3caf32b33d1b5b3bfd307e6966c6db4f7b1d4f21",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Strathclyde"
+    },
+    "it": {
+      "language": "it",
+      "value": "re scozzese"
+    }
+  },
+  "id": "Q147022",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Dyfnwal ab Owain"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dyfnwal III of Strathclyde"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Domnall mac Owen"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Domhnall"
+    },
+    "it": {
+      "language": "it",
+      "value": "Domnall III di Strathclyde"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dyfnwal III of Strathclyde"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дональд III"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Dyfnwal ab Owain"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Думнагуал VI"
+    }
+  },
+  "lastrevid": 17571460,
+  "modified": "2025-09-17T15:12:35Z",
+  "ns": 860,
+  "pageid": 175407,
+  "sitelinks": {},
+  "title": "Item:Q147022",
+  "type": "item"
+}

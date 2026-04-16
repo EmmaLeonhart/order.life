@@ -1,0 +1,414 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jovan Vladimir"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147010$AEF0ADD7-DCBE-4DB4-83D1-BAD663899DC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764453"
+          },
+          "hash": "70992d5b182f186aa8986773d4de665a3dcdafb9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147010$11CB0EAE-9D4B-48F9-B47F-F190DA9BA6FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147010$45399FD7-3910-4980-9682-1D3B25CBF23B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147010$66A8A894-840E-4A97-99E4-CC882476EBD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Jovan_Vladimir_(1)"
+          },
+          "hash": "02a0c3ab095883183dae9e8865a89615a99286b4",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147010$A4ED8F21-99F7-4620-B3A1-D668F07D102B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143563",
+              "numeric-id": 143563
+            }
+          },
+          "hash": "e60a03079beab68815f2c43b03a45f282779b2ed",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147010$49746287-978D-4288-B554-6602508A5646",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147010$699153AC-7A41-4098-8369-45FDC9C88E66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0990-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ccc92f4e2911fb6a8a6faf87abb4ee5881654676",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147010$A4A7BFCF-112D-4458-9CC6-28E08B362422",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1016-05-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8c6d568f2c27ec0f810c6619bc3bcb7dfac49bc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147010$2356F33B-973A-4691-ACCE-91784C6FEB8C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q366841"
+          },
+          "hash": "27ea395cfd590d4d2a84b10f3e4e51ec4ebfa87f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147010$186915D9-F29C-4FAB-88B5-E161CC644ED3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jovan Vladimir Arms.svg"
+          },
+          "hash": "4f468634acf28211ed7d637cfcb7d9b23f251b72",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dukljanský kníže"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürst von Duklja, orthodoxer Heiliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Serbian prince of Duklja, Serbian Orthodox Christian saint (990-1016)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "dukljai fejedelem"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe di Doclea (r. 1000-1016)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "православен светец"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Duklja (990-1016)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "prinț al Ducleei, sfânt creștin-ortodox"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "кнез Дукље и православни светац"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "кнез Дукље и православни светац (990-1016)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "serbisk monark"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sırp hükümdarı"
+    }
+  },
+  "id": "Q147010",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يوفان فلاديمير"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يوفان فلاديمير"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Иван Владимир"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jovan Vladímir"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan Vladimír"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jovan Vladimir"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γιοβάν Βλαντιμίρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jovan Vladimir"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jovan Vladimir"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jovan Vladimir"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sveti Vladimir"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Jovan Vladimír"
+    },
+    "it": {
+      "language": "it",
+      "value": "Jovan Vladimir"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨヴァン・ヴラディミル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "요반 블라디미르"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ioannes Vladimir"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Jovanas Vladimiras"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Јован Владимир"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jovan Vladimir"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jovan Vladimir"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Włodzimierz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jovan Vladimir"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jovan Vladimir"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ioan Vladimir"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иван Владимир"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Jovan Vladimir"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jovan Vladimir"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shën Gjon Vladimiri"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Владимир"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Јован Владимир"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Jovan Vladimir"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jovan Vladimir"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jovan Vladimir"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Йован Володимир"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Jovan Vladimir"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约万·弗拉基米尔"
+    }
+  },
+  "lastrevid": 17571442,
+  "modified": "2025-09-17T15:12:20Z",
+  "ns": 860,
+  "pageid": 175395,
+  "sitelinks": {},
+  "title": "Item:Q147010",
+  "type": "item"
+}

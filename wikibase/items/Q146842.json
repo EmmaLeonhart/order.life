@@ -1,0 +1,176 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anscoul de Pierrefonds"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q146842$1EFB2EF9-6775-41FA-B385-E0A410D14565",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146842$641DF6D1-F586-4B48-99E9-AF7AD39A5F77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146842$EEB10426-74C5-4A79-856B-D14B9DB75F56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124393",
+              "numeric-id": 124393
+            }
+          },
+          "hash": "bc7f04725ab1dc33909e00d4b3e76b9df09dc12c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146842$03BDC4E4-7A06-4510-8F34-3C703FD07D7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146842$DD85BD85-FF90-4AC4-924E-8284EE5A2174",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1158-09-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "accf6408e443844ea9599cde88bc3d105d444017",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146842$BA862D8C-7776-4D08-8C23-B12BB874BE64",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q120549409"
+          },
+          "hash": "a3bc5a5149d427e6c91293c3c9ffedc0ee7e9a92",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146842$4654C147-EC2C-4C53-984B-CBEA71A601E9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anscoul de Pierrefonds Arms.svg"
+          },
+          "hash": "07f0c3cd61ec1c4a78ac34299b1caa3e6b2dd6ba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "évêque de Soissons"
+    }
+  },
+  "id": "Q146842",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Anscoul de Pierrefonds"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anscoul de Pierrefonds"
+    }
+  },
+  "lastrevid": 17571198,
+  "modified": "2025-09-17T15:08:55Z",
+  "ns": 860,
+  "pageid": 175227,
+  "sitelinks": {},
+  "title": "Item:Q146842",
+  "type": "item"
+}

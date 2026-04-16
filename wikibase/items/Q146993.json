@@ -1,0 +1,270 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Neklan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146993$3B6B86D0-D7F4-43D2-A39B-481105FA13C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "161197"
+          },
+          "hash": "77c57493e2ac538104db13f04059f4ef8e122e73",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146993$4E08E40F-C198-4577-BCBA-1133E5132D96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143546",
+              "numeric-id": 143546
+            }
+          },
+          "hash": "a58ad5ebdf01276f550812b55fc926fef6d07c3c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q146993$CB25C496-98D4-45D4-A29C-2876F0621CC2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LB23-2VH"
+          },
+          "hash": "b49f9d3cf713a706837d6a86f538a044fc56b722",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146993$E4579426-13CC-4161-8D3E-A22DF7F85254",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146993$0C76055F-B4D9-494A-8B0C-65A416956DE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146993$03C27F8E-1803-4830-AC15-C0D7424F6281",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146993$1F50AB39-95EF-4F3B-9099-DBD4D538EAAD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0899-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f7be3a439185f3866b2064e79741f86713a5b9f3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146993$056625DA-3D9C-4342-A50F-F65600A2B116",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1851248"
+          },
+          "hash": "f0b6da3c2f85ae70b2be14a72acc8a2c2b181897",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146993$05700586-DA24-4C86-AA57-6AD890D199AD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Neklan Arms.svg"
+          },
+          "hash": "d182dd1d2c6041204e2427ae479fc673e0031d89",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "český mytický kníže"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bohemian prince"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "легендарный чешский князь"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Slav mitolojisinde efsanevi Bohemya prensi"
+    }
+  },
+  "id": "Q146993",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Неклан"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Neklan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Neklan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Neklan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Neklan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Neklan"
+    },
+    "id": {
+      "language": "id",
+      "value": "Neklan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Meklan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Neklan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Neklan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Неклан"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Neklan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Neklan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Неклан"
+    }
+  },
+  "lastrevid": 17571410,
+  "modified": "2025-09-17T15:11:53Z",
+  "ns": 860,
+  "pageid": 175378,
+  "sitelinks": {},
+  "title": "Item:Q146993",
+  "type": "item"
+}

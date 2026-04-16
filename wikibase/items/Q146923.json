@@ -1,0 +1,243 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Raoul IV de Beaumont-au-Maine"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146923$C1636A84-DEFE-418B-B2E3-EDF748381B38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00305149"
+          },
+          "hash": "b233f7f194f85e3f37402ea438c7d4a3c3950b08",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146923$7FEB6C60-2C06-4281-B26D-444163AE5A55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126574",
+              "numeric-id": 126574
+            }
+          },
+          "hash": "c603aad2a3bbd1ae349947351af6cd17e05895e4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146923$4CB1B240-5B31-4087-8C7C-3912BFCDF6A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146923$E6294E81-C200-41F1-A8A8-A577A8C02FD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146923$0FD9654D-AB7D-4022-B54D-565D57D2DBAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146922",
+              "numeric-id": 146922
+            }
+          },
+          "hash": "0d6b3fb075066906b8e5e1a0bfae916435af173f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146923$1F46EF0B-C2E1-4DA7-8788-B217EB76B642",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146923$BC4FBEF9-DEFD-49E4-9321-9ECEBF88655F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1010-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb1afa6144b95c79774fa2b2f6a37f1d223ee63e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146923$69810956-8CE2-4D14-A6DA-64FC613B091E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3419199"
+          },
+          "hash": "b08fd6de69a107938f640d0fc9a7d0a6bb7264b8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146923$8953A002-CC91-40E4-AC5F-F5A9690BBB2C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=raoul;n=du maine;oc=7"
+          },
+          "hash": "9b74959acf0b1f7f89ca8f7c04eb40b4c0e4e611",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146923$E2ADAA3B-9B66-4505-BDDD-D9619D9E271A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Raoul IV de Beaumont-au-Maine Arms.svg"
+          },
+          "hash": "3ada1e082438c4de71d39e468202cf078d2f362d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Est 960 - Bef 1040"
+    }
+  },
+  "id": "Q146923",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Raoul IV de Beaumont-au-Maine"
+    },
+    "en": {
+      "language": "en",
+      "value": "Raoul IV de Beaumont-au-Maine"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Raoul IV de Beaumont-au-Maine"
+    },
+    "it": {
+      "language": "it",
+      "value": "Raoul IV de Beaumont-au-Maine"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Raoul IV de Beaumont-au-Maine"
+    }
+  },
+  "lastrevid": 17571304,
+  "modified": "2025-09-17T15:10:23Z",
+  "ns": 860,
+  "pageid": 175308,
+  "sitelinks": {},
+  "title": "Item:Q146923",
+  "type": "item"
+}

@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amaury de Benauges, Sire de Benauges"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146852$1ABF2C48-BCE2-4EA7-A35A-28B2266B3108",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00251521"
+          },
+          "hash": "bef5f028ed72405d134d80790fbb1c0cc8fdc3ae",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146852$6E792984-B3D2-48A7-BF78-70775434B721",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126365",
+              "numeric-id": 126365
+            }
+          },
+          "hash": "6702b38c3fa2b0878f86a568765f89688d36556e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146852$D44D63EB-FBC1-41CE-AB73-0298E05405BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bezaume-2"
+          },
+          "hash": "a2ae02541d62fc403e507f87d4085aaedc86b0d6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146852$EE585CF9-8479-493C-B411-B610B1333889",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146852$67C2C73C-5301-4B61-8D0E-D0055A2412E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146852$8D3FB765-BD90-4563-8405-CB965A0A54E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p378.htm#i3779"
+          },
+          "hash": "7bcba03dc0437fdce07eb83fe75e624b5d6d6b50",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146852$47B16E8B-F4B9-48AD-85CD-529840D2AC86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146852$D8FC76B1-B8AA-4B60-B48A-90BC5921B73F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1040-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5471e8d1166cdee47a412ff80541d891253cdfc8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146852$8086CC83-FF68-4E3E-B3D4-0394753144E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1102-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e6077982488466ab60cb9bc3d41fd970bba07b0e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146852$36897903-E00A-4BA9-B134-E36BAB127CAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75241558"
+          },
+          "hash": "2c894181a37aceda8c90e38a084867183bcbe165",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146852$A5523339-8DA8-45D4-A216-E1D776C297A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amaury de Benauges, Sire de Benauges Arms.svg"
+          },
+          "hash": "ad630b75e68741da33f19c877cfaee3edf87dd89",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=3779"
+    }
+  },
+  "id": "Q146852",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Amaury de Benauges, Sire de Benauges"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amaury de Benauges, Sire de Benauges"
+    }
+  },
+  "lastrevid": 17571218,
+  "modified": "2025-09-17T15:09:12Z",
+  "ns": 860,
+  "pageid": 175237,
+  "sitelinks": {},
+  "title": "Item:Q146852",
+  "type": "item"
+}

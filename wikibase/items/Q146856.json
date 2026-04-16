@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria of Amalfi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q146856$9B641700-2450-4B1D-81CF-7296FD7083DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146856$15ED6C00-E3F6-4FD2-A294-BAD7AB02A025",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146856$9FBCF1D8-BC50-45EF-BB5C-63FDC15419C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria_Unknown_(549)"
+          },
+          "hash": "cd7c7c9b3fd733170609d3d9976fc30f5e8edded",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146856$D126C9B8-7E3F-4925-9DF6-C8000E2DCCBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143446",
+              "numeric-id": 143446
+            }
+          },
+          "hash": "8c3429e9dfffcdf743d2cb01a433b6b955da5eff",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146856$18737EAD-2477-4FFE-9EE8-185635535424",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146856$5EB792AE-6A8C-4C38-9AA1-52DEBAA14270",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0985-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2c1c9dc8e1363e3ce659240d5c8dd6a495ad910b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146856$A9DD3B23-8598-483C-9691-EC98CB8DACA9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1040-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9db8c71a2e01f9de85aa68b2bb52035bf94eb80a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146856$3E509F61-BDFC-476E-A7CD-420AF2764A94",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6761712"
+          },
+          "hash": "81d437b48b00cf17d5da001ba1774f9b1aa69c61",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146856$BAA25F08-381A-4F9D-9BC2-544A4F4D12EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=maria;n=di benevento"
+          },
+          "hash": "5de630527190346b10e6e768270e2748ebb527ac",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146856$0B882480-D8FB-4E8A-9419-C43AB65311C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria of Amalfi Arms.svg"
+          },
+          "hash": "0078b9d5eebf0f9a8e43120e5a2a2667337bca41",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Italian noblewoman"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q146856",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Μαρία του Αμάλφι και της Κάπουα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria of Amalfi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maria of Amalfi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marie d'Amalfi"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Maria av Amalfi"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Maria de Capua"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария Амальфийская"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марія (герцогиня Амальфійська)"
+    }
+  },
+  "lastrevid": 17571226,
+  "modified": "2025-09-17T15:09:18Z",
+  "ns": 860,
+  "pageid": 175241,
+  "sitelinks": {},
+  "title": "Item:Q146856",
+  "type": "item"
+}

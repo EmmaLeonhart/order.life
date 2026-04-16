@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert III de Sablé"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146928$1154BFF5-32A6-4AFD-9DDF-E729AEE573A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00122086"
+          },
+          "hash": "df7a3158b72479cd534e8bcc129c0341d119a2a4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146928$D407663D-ABFE-4BDA-8A35-A67A4ED759C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sablé-9"
+          },
+          "hash": "b2b4ac8a256ddede4725a6f8501f47d488054014",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146928$043ED2B4-0A47-4BDA-807A-03E0E1E481A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146928$906126D9-71CB-4DD1-99F9-07540AF3E705",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146928$2FCFD750-D7D0-4982-A9AE-D0BA9C1C5A85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert_Unknown_(39)"
+          },
+          "hash": "ea24666ef7abc0365848afdafd8013e55b7958ee",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146928$5C938E8D-383F-4657-9C28-60D82E75287A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125991",
+              "numeric-id": 125991
+            }
+          },
+          "hash": "59aac42c1ebfe0828dae7cd125c4389162d614b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146928$98B75F38-C950-49D5-A01A-A5364D4282D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146928$325FAA4B-D3E6-40B6-AF40-8C9D515D3D20",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146928$2B3D2E62-9B98-4EA5-9B19-CE293470D8A5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1154-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d114932a239e7ebffdedc6843ae880578d531a0f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146928$C6D70716-F529-40E5-AAE7-D3A5B580BE52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3435454"
+          },
+          "hash": "dd7f845d9a09179e520a8846deeb20397652ad04",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146928$6865C110-AFE6-4EFF-86BE-9FB19B8E7432",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=de sable;oc=3"
+          },
+          "hash": "67f3017de2a380705051d05d71d8e0c3bbb19bc8",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146928$70FE23F2-BA70-4BC2-A6B1-A5F5E1F0F24D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert III de Sablé Arms.svg"
+          },
+          "hash": "4eb62ea1104157f3a527b6396fd33e5985d4bca3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "francouzský šlechtic"
+    },
+    "en": {
+      "language": "en",
+      "value": "lord of Sablé-sur-Marthe"
+    },
+    "es": {
+      "language": "es",
+      "value": "Noble francés"
+    }
+  },
+  "id": "Q146928",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Robert III de Sablé"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Robert III. ze Sablé"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert III de Sablé"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert III de Sablé"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert III de Sablé"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert III de Sablé"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "羅伯特三世·德·薩布萊"
+    }
+  },
+  "lastrevid": 17571314,
+  "modified": "2025-09-17T15:10:31Z",
+  "ns": 860,
+  "pageid": 175313,
+  "sitelinks": {},
+  "title": "Item:Q146928",
+  "type": "item"
+}

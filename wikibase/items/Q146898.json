@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice de Senlis"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146898$25D7FD71-C27D-4FAC-B8A7-0AC26F030BAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00397930"
+          },
+          "hash": "a4b817739f139fe91a46587d77a257ba5565b16f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146898$AECF4DA2-0FD6-4465-88AE-15BC789B9C5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Quincy-227"
+          },
+          "hash": "5e5950963e80f4e15ae32803c4f9eef7f4276311",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146898$4566AADA-9715-4A1D-85E1-F4CD713C1AC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146898$34CB1EDC-FF5C-427F-B7D3-EE03F164C7A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146898$696A9EB8-E018-498B-9102-F3BC35E37EC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143472",
+              "numeric-id": 143472
+            }
+          },
+          "hash": "ac54b3db556bcad2aa1888049c5d074cc30f2ad9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146898$0F0EAEDA-15D4-4456-9DD7-3A30BBFE5A40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146898$1BC2AC1B-8868-4AF2-9384-325E5371656A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1140-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b77a02bf3d1b65e76819a0e6802e2ee8ff68bae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146898$97417489-8EA6-4ED2-BE32-68CCE760DBA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1204-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6bf652c6a77d4e8eef92b3cf39441fcae4ae5b1f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146898$AD8C1789-9C90-4A13-9171-8119EDCB5279",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110641615"
+          },
+          "hash": "0e93dd69ac80682c478f1c618bad7ab803116213",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q146898$F8D58334-A719-454F-B029-A57108F8C97D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice de Senlis"
+          },
+          "hash": "de85a455b9fb577784c397c1a0a8b2730faf5507",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146898$8005F12F-DD63-4E91-90CC-995ECD38DA86",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice de Senlis Arms.svg"
+          },
+          "hash": "a7c1c28ade9fb6a7b0a4d000f00babaea60e5b7e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Est 1148 -"
+    }
+  },
+  "id": "Q146898",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alice de Senlis"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Alice de Senlis"
+    }
+  },
+  "lastrevid": 17571258,
+  "modified": "2025-09-17T15:09:44Z",
+  "ns": 860,
+  "pageid": 175283,
+  "sitelinks": {},
+  "title": "Item:Q146898",
+  "type": "item"
+}

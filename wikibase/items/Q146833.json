@@ -1,0 +1,247 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guillaume II, seigneur de Tancarville"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146833$C4E9BFC5-8071-4F75-889A-C20102314E48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1239440"
+          },
+          "hash": "0fef1fcdd324a0293cff72e917333fa0ce82c8c9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146833$5A47456A-5D2B-4751-AE66-6D7D97DF52DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Tancarville-22"
+          },
+          "hash": "8b7735569949840636a104c01f488260a975ebde",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146833$DB43DEDF-7CCA-445C-82CB-80831940F66C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146833$EC2AC430-BB59-4DEB-B87F-182548F0BFBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146833$B97E2287-FF71-4093-88A7-626F75EF8886",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126345",
+              "numeric-id": 126345
+            }
+          },
+          "hash": "5516546b250c13a143ef8fc3acf62f378ad9a936",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146833$7E50E5A6-CCF5-4DE8-A1FE-D550A9405D9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146833$17CDED0E-9BFD-4B36-A311-B6D95DC952A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1126-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "996313a1d920d154985cac8e4456464703ea9b11",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146833$54442675-F3C8-4577-AE46-BC7FA29B579E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1191-11-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "00bda204438b6539601d186f5016d9672b44302a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146833$576C7C52-1108-4F0E-B7A6-88208530DE20",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q117038067"
+          },
+          "hash": "b13088f0edf36499b138efad31dfd2606ffedd6c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146833$6F039429-43F9-4E48-9475-67E37A2F9E12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guillaume;n=de tancarville"
+          },
+          "hash": "4be605b2aacaa6abaac48b2430f382a13eca0c79",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146833$46CCBAD4-CF3E-4B5A-9E73-8D07A4AFF116",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume II, seigneur de Tancarville Arms.svg"
+          },
+          "hash": "5d56e3307182fadd94e45b5397343dbef3a6b917",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1126 - Nov 1191"
+    }
+  },
+  "id": "Q146833",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Guillaume II, seigneur de Tancarville"
+    }
+  },
+  "lastrevid": 17571180,
+  "modified": "2025-09-17T15:08:40Z",
+  "ns": 860,
+  "pageid": 175218,
+  "sitelinks": {},
+  "title": "Item:Q146833",
+  "type": "item"
+}

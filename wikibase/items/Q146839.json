@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry FitzHervey, of Ravensworth"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146839$11581C9B-E598-49D6-BF8B-CDD206630897",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00326803"
+          },
+          "hash": "68e53373a723063d0c186065c632e73420fe4028",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146839$A5368600-DEBE-47E6-9672-ECE692C52EC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzHervey-10"
+          },
+          "hash": "25128c104960e6aa3cd0f085719d1ac3bbb20277",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146839$3041B3CE-138A-43DB-8382-518C281AD0FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146839$809222FC-7827-49B7-8942-BC2C05C76018",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146839$1548E65E-E6AE-4158-8FD0-20CF126E7002",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143435",
+              "numeric-id": 143435
+            }
+          },
+          "hash": "656770518e56ebfbcc83e7e88c48e44c7eba91e3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146839$E10DB838-7A18-4552-A794-E99C6DC9EC62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146838",
+              "numeric-id": 146838
+            }
+          },
+          "hash": "cc6d410e682f8bb75bc0aa39cd86c0f64b36c5f7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146839$0BC3D1BC-BFBA-4934-B514-A4BAD423D0A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146839$5ACF7919-0E12-4CE6-8AD4-A191464FEA30",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1167-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a6ea10dc32c97a2d513a809f9e8b603a2bd5ca27",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146839$A23178B5-2143-4DF1-86E4-8880D88BD3B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1212-03-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "adbfe4cf50f358d3a6fa07f96c5090f4c5eadf8f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146839$697D577C-AB83-4411-9FA3-39103E50002A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q97570421"
+          },
+          "hash": "828e1d2bb65f7b410797a595b035730908fe0602",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146839$D1AA5CBA-1555-488E-AAF9-B430A8FB4B09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=henry fitzhervey;n=of ravensworth"
+          },
+          "hash": "c6d4d532c780ecddb034eaee7da0f909d17e8214",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146839$B99452A8-A221-41BF-9E59-2ABBA3D32B3F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry FitzHervey, of Ravensworth Arms.svg"
+          },
+          "hash": "b1300be434779fe1de60344db79e729f0b694302",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1167 - 16 Mar 1212)"
+    }
+  },
+  "id": "Q146839",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Henry FitzHervey, of Ravensworth"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Henry FitzHervey, of Ravensworth"
+    }
+  },
+  "lastrevid": 17571192,
+  "modified": "2025-09-17T15:08:50Z",
+  "ns": 860,
+  "pageid": 175224,
+  "sitelinks": {},
+  "title": "Item:Q146839",
+  "type": "item"
+}
