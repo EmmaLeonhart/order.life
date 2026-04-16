@@ -1,0 +1,400 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Caecilius Metellus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144060$804A6F73-CEE5-498E-89F2-DB81D9735F6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "412198"
+          },
+          "hash": "6ad7fe2faf2ca56b08288aa43f939fe0a456436f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q144060$258506EA-2F0F-4BE0-964B-9FDFE76349F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735441"
+          },
+          "hash": "91fcb5ae6993fa5ec2ba262d3b2bd8e88835c0b9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144060$49DCA508-FFC6-4C6E-8BF1-CD4151F5578B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72858",
+              "numeric-id": 72858
+            }
+          },
+          "hash": "fb69b053679d479b9d4ea3efd12be96404a869e6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144060$206A6399-1BA1-4C58-97FB-12E1DB65203D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144060$3F09FBED-12C7-41B1-B467-C54DC615BBB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144060$B1F2CDE1-ADC2-4B49-8536-3C304E503DF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus_Caecilius_Metellus_(consul_206_BC)_(1)"
+          },
+          "hash": "67b087f9a5fb16aa0314db5b024e660af9008d90",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144060$6FED4BF4-8E8B-4CFA-8E0D-63A4EE8BD52E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73146",
+              "numeric-id": 73146
+            }
+          },
+          "hash": "88f87f900836672544473fd391c867ede96cdfe5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144060$607CA779-CB06-46B3-A985-540A197B4194",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144060$6257CE3E-4EEA-4865-A7B9-756F0A25BDA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0245-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9123060bd07da0d4ead6c938163d7aa7a57e6d87",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144060$F64F866A-32D9-4D60-8097-1B803AB0AB81",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0175-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1cb88d753b61da4868d75ffe290d4c4487960f94",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144060$B7E46428-C1FC-4495-89C7-B45D9FD14D9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q929498"
+          },
+          "hash": "f15852241a96b308fcb77cf265e9d3c49c122dd6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144060$95046D44-7226-4CEF-9275-2A2ADDDC1381",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Caecilius Metellus Arms.svg"
+          },
+          "hash": "732084cf3727dff2ce949da844b7db920c84dda8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 206 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul romano en el año 206 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 206 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "קונסול רומאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kr. e. 206"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 206 года до н. э,, диктатор 205 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q144060",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Цецилий Метел"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Cecili Metel"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Caecilius Metellus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Καικίλιος Μέτελλος (ύπατος το 206 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Caecilius Metellus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Cecilio Metelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Caecilius Metellus"
+    },
+    "he": {
+      "language": "he",
+      "value": "קווינטוס קאיקיליוס מטלוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quintus Caecilius Metellus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Cecilio Metello"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・カエキリウス・メテッルス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Caecilius L.f. Metellus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Caecilius Metellus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwintus Cecyliusz Metellus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Cecílio Metelo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Cecílio Metelo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Цецилий Метелл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Cecilije Metel"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Caecilius Metellus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Цецилій Метелл"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昆图斯·凯基利乌斯·梅特卢斯"
+    }
+  },
+  "lastrevid": 17565936,
+  "modified": "2025-09-17T13:52:06Z",
+  "ns": 860,
+  "pageid": 172445,
+  "sitelinks": {},
+  "title": "Item:Q144060",
+  "type": "item"
+}

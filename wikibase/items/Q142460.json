@@ -1,0 +1,364 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas de Cantilupe"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q142460$E25F9CC6-407B-45A7-8EF9-B4F524225A1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cantilupe-13"
+          },
+          "hash": "39222a09a36f405c386a29171fb1bf20297f4c7f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142460$2DFE4546-8F8F-4266-83D7-CE4A453826F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142460$8F1DDBF8-A4ED-41F4-94AF-C496EB12BFD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q142460$CF697DF0-8C60-41D5-916B-02E0F5F01754",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas_de_Cantilupe_(1)"
+          },
+          "hash": "cd52d7664152d1076c5c170574822e406aff1d1e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142460$DB813BB2-0291-4EF4-A642-91BE9277570F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142458",
+              "numeric-id": 142458
+            }
+          },
+          "hash": "766d4fc33e2a073d98097c4e676c55cd222fbf86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142460$976E047C-13F0-477E-883F-CE5BD13CEE66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142460$FA95E507-400E-4FB6-B000-3985E15780B3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1218-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "367c3b93f36b7ee1f7b8be5d6a202a777f4ffbd0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142460$D4F16D1D-1D53-4B7D-9DCF-E8D7F55E5D70",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1282-08-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d15861fda80478f09cfd1e499cff820d851c454c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142460$F1F0C70F-DFA0-4FE3-8A11-E01F5B5B7445",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7795462"
+          },
+          "hash": "d188e798d532e510b9cba73ddfa4d7a7b4ea6936",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q142460$70C0E555-A575-4452-AD95-366B0120F0B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006727942143"
+          },
+          "hash": "fc6fb0ed515e09ca63f2c467aae674636599697c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q142460$3A2D7A4A-6084-49B5-A8EE-3A52A99EFE94",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas de Cantilupe"
+          },
+          "hash": "e840d28c4a70a8affe7a27df1bbce791803ca5fa",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142460$08AF45E8-AA11-42A5-AC58-892B479D8C07",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas de Cantilupe Arms.svg"
+          },
+          "hash": "46863d770880ea88896a26fc47470fff0f0b847f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Lordkanzler und Bischof von Hereford"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Hereford; Saint"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico britannico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brits priester (-1282)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "епископ Херефорда, святой"
+    }
+  },
+  "id": "Q142460",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "توماس د كانتيلوپ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Thomas de Cantilupe"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Herefordu Tomáš"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Thomas de Cantilupe"
+    },
+    "de": {
+      "language": "de",
+      "value": "Thomas de Cantilupe"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thomas de Cantilupe"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Thomas de Cantilupe"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Thomas de Cantilupe"
+    },
+    "es": {
+      "language": "es",
+      "value": "Thomas de Cantilupe"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thomas de Cantilupe"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Thomas de Cantilupe"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tommaso di Cantilupe"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トマス・カンティループ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Thomas de Cantilupe"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Thomas de Cantilupe"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thomas de Cantilupe"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Thomas de Cantilupe"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Thomas de Cantilupe"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фома де Контело"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Thomas de Cantilupe"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Thomas de Cantilupe"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Thomas wa Cantilupe"
+    }
+  },
+  "lastrevid": 17563136,
+  "modified": "2025-09-17T13:11:40Z",
+  "ns": 860,
+  "pageid": 170845,
+  "sitelinks": {},
+  "title": "Item:Q142460",
+  "type": "item"
+}

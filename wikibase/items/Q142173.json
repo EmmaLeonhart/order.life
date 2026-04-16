@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas de Londres"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q142173$05F460D3-09C3-41EB-B41C-5746AAF4D45A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140135",
+              "numeric-id": 140135
+            }
+          },
+          "hash": "ea77136fa7fa38d3da3228106a66705ac943dc09",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142173$18FD04F0-F378-49BC-8E77-FE704CB58EC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "London-201"
+          },
+          "hash": "c1c186907c0e7bb683240205089a20d8de866a04",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142173$DE1912A8-9A1B-4ACA-803E-E76946CFE6F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142173$C58F0F52-48C7-402D-B854-F223F75FE85B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142173$B338DA0B-D131-436C-BD2D-423066F72A0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142174",
+              "numeric-id": 142174
+            }
+          },
+          "hash": "b5072d150120c7b596a7c7ff0b0f7f19e83ca4a3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142173$238D231B-E04E-4626-BEAB-16AF2FBC41F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144956",
+              "numeric-id": 144956
+            }
+          },
+          "hash": "e5ed00dde1774f956150a0db2da37e2030f9e114",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142173$C8D78963-9A50-49B5-833E-F50442C4C25B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144957",
+              "numeric-id": 144957
+            }
+          },
+          "hash": "8ac062a8b37afb058dc5311555dd726a015543ba",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142173$E09AF19C-EBD1-46C0-8B3F-5C7B8C93604D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142173$E712F44C-3833-45C4-B4C5-62EE08A36DA5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1183-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de117cfe7fa042398b8e19508557eee8b93a73fc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142173$17A23C3F-F6D6-44AB-AFEA-C44E57C08AAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1216-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "38f1c26e2fbd2b8cc69609ecfad1aca5b5c2a27a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142173$6283FB8B-0CF4-44C4-AE96-13C92CC1556C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q63183314"
+          },
+          "hash": "ca612bd467ba5a956ddc650eefacfac4d5c5da4a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142173$EBDA8FCB-4B67-4253-A1E3-F008B2C39430",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas de Londres Arms.svg"
+          },
+          "hash": "581e1b034499a382186d0f3f9ae5f16a5c9c5ee6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "( -1216)"
+    },
+    "en": {
+      "language": "en",
+      "value": "-1216"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "барон Кидвелли"
+    }
+  },
+  "id": "Q142173",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Thomas de Londres"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Thomas de Londres"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thomas de Londres"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thomas de Londres"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Томас де Лондр"
+    }
+  },
+  "lastrevid": 17562584,
+  "modified": "2025-09-17T13:03:46Z",
+  "ns": 860,
+  "pageid": 170558,
+  "sitelinks": {},
+  "title": "Item:Q142173",
+  "type": "item"
+}

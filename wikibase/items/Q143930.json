@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Domnall mac Muirecáin"
+      },
+      {
+        "language": "en",
+        "value": "Domnall mac Muirecain"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q143930$DD9A7135-48A9-4112-B8AB-71DC78205E49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mac_Muirecáin-2"
+          },
+          "hash": "a486b08925112c8710e42ef5a6014f14e7fc4f55",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143930$8D8003D9-0E80-447F-80B8-CFC7FE5D2692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143930$71AE5FB5-288E-465D-B950-5C0A95F81D50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143930$64D96D66-38F3-4189-9D61-1E592A9D4127",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Domnall_mac_Muirecáin_(1)"
+          },
+          "hash": "ab3fb09c784d2f9af05f515fc5f7866c09ce62f6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143930$2C8EAE30-816F-42D4-958E-94F15173312D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143929",
+              "numeric-id": 143929
+            }
+          },
+          "hash": "7d4358610a990a873a3825ee4900558eb3ead31f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143930$C4B57649-7D21-491E-A212-24896F8C97D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143930$FEC6AED5-AE4C-42DF-BF01-62CCE4647F3E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0884-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a6e1f064f49e9c99908fc1965eacdd998f2cc23",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143930$F0F78FB7-87F2-4D4A-B555-6B29894DD0A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5291294"
+          },
+          "hash": "009ddb0c256dd62377985ed05521d97e4d40bed5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143930$8D1D9CA3-59A7-4A20-8A53-2169977223D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Domnall mac Muirecáin Arms.svg"
+          },
+          "hash": "f90da920a970865f8be1419b2682dab1007a5dee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Leinster"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí Laighean"
+    }
+  },
+  "id": "Q143930",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Domnall mac Muirecáin"
+    },
+    "de": {
+      "language": "de",
+      "value": "Domnall mac Muirecáin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Domnall mac Muirecáin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Domnall mac Muirecáin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Domnall mac Muirecáin"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Domhnall mac Muireacáin"
+    },
+    "id": {
+      "language": "id",
+      "value": "Domnall mac Muirecáin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Domnall mac Muirecáin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Домналл мак Муйрекайн"
+    }
+  },
+  "lastrevid": 17565694,
+  "modified": "2025-09-17T13:48:39Z",
+  "ns": 860,
+  "pageid": 172315,
+  "sitelinks": {},
+  "title": "Item:Q143930",
+  "type": "item"
+}

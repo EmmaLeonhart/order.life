@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Stephen Devereux"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143417$5DC285F2-7923-4E29-9A2E-0EB6F9A2EF8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00485438"
+          },
+          "hash": "d157c9af8b9b09fda735611bfa1e0f5cc1b0191d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143417$A686C1C2-0A39-467B-8CB8-7F424F2DC885",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146781",
+              "numeric-id": 146781
+            }
+          },
+          "hash": "a419fafc8b01224dccfee3710cf128db24c412ff",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143417$878BBD7D-5284-46C5-B5D3-436D64CAC745",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Devereux-39"
+          },
+          "hash": "e2107608f6388359c53ec0b995f2093e271758f3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143417$0321E3D7-D191-4F59-B19B-0063CFFE6EF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143417$86B2896D-2329-4795-8F07-BE235DFADAA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143417$9682D491-0BCC-4D2A-8982-C70315D25B90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125348",
+              "numeric-id": 125348
+            }
+          },
+          "hash": "7f43fbdbcfd789b51819e41f66f778e6ddc0fb37",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143417$0B386CAE-07D1-4EA2-A949-F149B3F5B3AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143417$15C209C0-4996-481B-BFDF-D04B131B12E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1194-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d1e02014a1e35b4170b2fd4edff5c4a2901e56ee",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143417$D40B8043-11CD-4006-80C5-70275BBEEE01",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1228-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61885b5800125143bcd01259d230c6c69e9d7a5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143417$0AA85F42-F649-4ECD-9A3A-F5686A744148",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16863321"
+          },
+          "hash": "2735abb2746cbc7187c69011adb491d29fe5ff5d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143417$B5C2FFCC-C7AD-40A9-9F9D-CD367B381C42",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Stephen Devereux Arms.svg"
+          },
+          "hash": "8295cb5e38d69b0e64898ca44499fba372c52821",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1194-1228)"
+    },
+    "en": {
+      "language": "en",
+      "value": "English lord"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "английский барон"
+    }
+  },
+  "id": "Q143417",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Stephen Devereux"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Stephen Devereux"
+    },
+    "en": {
+      "language": "en",
+      "value": "Stephen Devereux"
+    },
+    "es": {
+      "language": "es",
+      "value": "Stephen Devereux"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Stephen Devereux"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Стефан Деверё"
+    }
+  },
+  "lastrevid": 17564928,
+  "modified": "2025-09-17T13:37:50Z",
+  "ns": 860,
+  "pageid": 171802,
+  "sitelinks": {},
+  "title": "Item:Q143417",
+  "type": "item"
+}

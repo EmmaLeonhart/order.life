@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agnes|Nest Russell"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142983$BFF0C4BE-90AA-4C90-AD98-AB9DCDA2A199",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00700160"
+          },
+          "hash": "9bb88c782649b6d2e2e0de2d0d8e68aca4eed8ba",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142983$C40ED559-DB74-477A-8362-8C0B79F91E4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140635",
+              "numeric-id": 140635
+            }
+          },
+          "hash": "36c12ab5ecd36753c621dd64ddd514c5d9d42368",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142983$BFF895C9-EF6E-4BBE-AB0C-9FFD91B545BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Russell-702"
+          },
+          "hash": "581b60c827b4cfa9d3d24120d75a6108da578095",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142983$7AE82C32-8070-484F-AEA8-3801B596296F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142983$881D031C-52CC-44E7-8953-E821E91E925C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142983$AAAED003-3720-4D4E-97FB-043784F5D9E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139039",
+              "numeric-id": 139039
+            }
+          },
+          "hash": "a8e0c6cf3102a2cbc7739c4e8f886aa50bc36379",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142983$D5FEF28E-A710-424E-8D8E-63F4FF113C4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146185",
+              "numeric-id": 146185
+            }
+          },
+          "hash": "992f246fc97301415d800b61eabbfbf682187fa3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142983$74580FCE-7408-467A-9FE1-74C4F2412383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142983$76CBD19C-8EF7-4333-8343-6E2C9DDB5652",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1348-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe586b0088133e865bc3750251cc7ec937904534",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142983$58BB155E-7904-411E-8979-D9FA614274C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110413095"
+          },
+          "hash": "ff9fe5c8ef00c80e9d1aa4d52867fa351afb1b03",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q142983$53657B00-3D9A-4C11-A2F0-1DC336FD4B05",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnes|Nest Russell"
+          },
+          "hash": "7ea15768aa5abdf1f5a4623084cc563aeee73371",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142983$A0B34FD8-8F2D-4121-84EE-471063A60109",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnes|Nest Russell Arms.svg"
+          },
+          "hash": "da92d63bc91575bf1060fb47863f4a0e384f9a86",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1348 -"
+    }
+  },
+  "id": "Q142983",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Agnes|Nest Russell"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Agnes|Nest Russell"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agnes|Nest Russell"
+    }
+  },
+  "lastrevid": 17564178,
+  "modified": "2025-09-17T13:27:19Z",
+  "ns": 860,
+  "pageid": 171368,
+  "sitelinks": {},
+  "title": "Item:Q142983",
+  "type": "item"
+}

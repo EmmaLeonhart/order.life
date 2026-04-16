@@ -1,0 +1,618 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Humphrey de Bohun, 2nd Earl of Hereford"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q145151$289FB331-0A39-4FE5-98CD-F6852A7A445D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "314374"
+          },
+          "hash": "d89a171af93857d1c23dce1c11b050dea808d186",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q145151$3011158C-57EE-4F9B-B414-11D32379E8E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00015449"
+          },
+          "hash": "630ce164f85f6c9a1de267322d592ab222868f63",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145151$A08658C4-72B9-4843-B062-8CC586791741",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142270",
+              "numeric-id": 142270
+            }
+          },
+          "hash": "d69f54c95b9fb1d17af5dc5381cc64abb1867452",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$7A3B9389-60A8-4919-A77D-F36125ED2938",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149171",
+              "numeric-id": 149171
+            }
+          },
+          "hash": "fe41044d9538b33728d773cb8640f643fff5cafb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$95232FDC-D7B0-4CD3-9CA7-2EE2B84DA776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149380",
+              "numeric-id": 149380
+            }
+          },
+          "hash": "f6a73a9a9815626fd9728ca0c05f52972ef477d4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$D56F9290-7E33-4A83-AE97-F11190ACF60F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145048",
+              "numeric-id": 145048
+            }
+          },
+          "hash": "50cfcc348a9a1e3b1127ac46889d5e3c764a9cb3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$F9DC6152-942D-4ED3-871C-3B29BF1F0903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149381",
+              "numeric-id": 149381
+            }
+          },
+          "hash": "897f24ba73983742a89f077cd1dbef5f22127551",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$E803788B-3395-4B0F-8783-C2E7A243D476",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149382",
+              "numeric-id": 149382
+            }
+          },
+          "hash": "e2d21a8d9a4caa4b6d4d70148530cc822f02b856",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$21D1B6D2-5C1B-4C2B-A02D-2C2D9D1B8A1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142412",
+              "numeric-id": 142412
+            }
+          },
+          "hash": "880d832a696cd28717d55065057df7a237db1d88",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$68F6DF94-12DA-4666-9857-4F18422E5E05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149378",
+              "numeric-id": 149378
+            }
+          },
+          "hash": "c56f54d2d222c9c2b38f87bae31332d15f3ae4ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$883266E6-3F2C-449D-8987-8ED8903A813D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149379",
+              "numeric-id": 149379
+            }
+          },
+          "hash": "7c0ba66e4cc6970eabde6823c47dfcc0b7a35243",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q145151$D3478AE3-31F6-4E55-B6CF-A114D4780B25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bohun-6"
+          },
+          "hash": "c1b3437a4f0cb505c293074864cd7351fe85fddc",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q145151$6C4F80FA-D99E-40D5-B0C2-56CC2D08A118",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I7250"
+          },
+          "hash": "68baffe097551a92d77bd5ad85dea60007a0c0ed",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145151$9833DC28-D775-4AD5-8499-5CC8B633ACE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$8870A904-F6BB-4567-8F23-9C56841F69B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q145151$4AB9497A-3FFC-41CA-87E7-38C5504E0238",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Humphrey_de_Bohun_(5)"
+          },
+          "hash": "23bac48c441656d589efb6d0de83bd8cbdf175cd",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145151$18BD74AD-1DD0-4ADA-8477-6F1C6805A8A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145152",
+              "numeric-id": 145152
+            }
+          },
+          "hash": "80b6fe455a75c0891a4132aa3e2e9b8dcd036101",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145151$F65DCBF0-06CB-4B5C-9431-CB42582E569D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149377",
+              "numeric-id": 149377
+            }
+          },
+          "hash": "1d01e1b5d8d5a0eb6eb5f444e1f4e9436ccc975c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145151$2BE6CF6E-AF6D-4941-AF07-BB833F9F908C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10682.htm#i106817"
+          },
+          "hash": "ce5a5374e4bbc688bab66ac88a843499bcc2f653",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145151$2BF5033A-7CF4-45F4-944F-34D8D7E44E63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129213",
+              "numeric-id": 129213
+            }
+          },
+          "hash": "50147c043843271a3efc76ed353bb55d347b8ce2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145151$6CED4729-0E77-4F65-B176-55B1149CCF12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144885",
+              "numeric-id": 144885
+            }
+          },
+          "hash": "ceacff1247c259a3ed95ea5880235358968c9ae8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145151$5FF8B83A-35E7-4E59-912E-E28BAAA1E2A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145151$07BA3C1C-0C1E-4FF4-A7F4-4E4F676F28FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1208-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22a611100b76a0eb66db537556ae3fdd4b7e3059",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145151$CBF36A44-125C-4F38-B38D-29679C4D3D56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1275-09-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e4fd19ef360985606b90ab74f2081bd4370bc6b6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145151$BAE3D9BE-6355-4454-9241-6F79F9559081",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q445991"
+          },
+          "hash": "091ddf338dce6552a5dc19cae317a11b954d7d18",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q145151$6D0B9425-D798-42D6-A2D3-73006D0339BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001744825938"
+          },
+          "hash": "d03ed321dac9f43a2bca627352399d0b3f217644",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q145151$5209D7F3-935E-4FEC-A8CD-A5D7BD67AF6E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=humphrey;n=de bohun;oc=7"
+          },
+          "hash": "d15e47745b5432b83cc0597895d83a65dd64fbd0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145151$76D228E9-EF79-49F5-84F2-9DE1909C7FD7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Humphrey de Bohun, 2nd Earl of Hereford Arms.svg"
+          },
+          "hash": "9b3f04142171cee7de00e249e49dd7878451ded2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger, Lord High Constable von England, Kreuzfahrer"
+    },
+    "en": {
+      "language": "en",
+      "value": "English nobleman (1208-1275)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "baron anglais"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Koninkrijk Engeland (-1275)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "верховный констебль Англии"
+    }
+  },
+  "id": "Q145151",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "همفرى دى بوهون ايرل هيرفورد التانى"
+    },
+    "de": {
+      "language": "de",
+      "value": "Humphrey de Bohun, 2. Earl of Hereford"
+    },
+    "en": {
+      "language": "en",
+      "value": "Humphrey de Bohun, 2nd Earl of Hereford"
+    },
+    "es": {
+      "language": "es",
+      "value": "Humphrey de Bohun, II conde de Hereford"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Humphrey de Bohun"
+    },
+    "it": {
+      "language": "it",
+      "value": "Humphrey di Bohun, II conte di Hereford e I conte di Essex"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハンフリー・ド・ボフン"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Humphrey de Bohun, 2nd Earl of Hereford"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хэмфри IV де Богун, 2-й граф Херефорд, 1-й граф Эссекс"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Humphrey de Bohun"
+    }
+  },
+  "lastrevid": 17567922,
+  "modified": "2025-09-17T14:21:05Z",
+  "ns": 860,
+  "pageid": 173536,
+  "sitelinks": {},
+  "title": "Item:Q145151",
+  "type": "item"
+}

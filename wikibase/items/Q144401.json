@@ -1,0 +1,315 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Bruttius Praesens"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q144401$E5EDB619-EB0B-4EBF-97D1-BC0D02A6EE0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141770",
+              "numeric-id": 141770
+            }
+          },
+          "hash": "227e69bd020dd337e75cd7b104f641b4752e9906",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144401$C1FC990C-E6F2-4F23-A1F5-11AB2E48BF3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144401$1AA063EC-74F3-49AF-9B7F-26D7EF0DF626",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144401$0D0EB2C8-4FEF-4288-B090-5D7004306B76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Caius_Bruttius_Praesens_(1)"
+          },
+          "hash": "84165f6f9c08ae2b2708a0a2efd8f28a77cdb789",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144401$5BC4B300-E731-4CE7-B415-E3797E062837",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144402",
+              "numeric-id": 144402
+            }
+          },
+          "hash": "584b215995819d005580e3b2904fddda89374c04",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144401$287E5AE8-1B9E-45FD-BB1A-0F4DE2ECC46A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144401$3C49F115-4048-42A5-BAD2-D23B891E1D8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0068-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "07d3c3aca277c751385ad3b6b414078f3d2d0ce0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144401$4442E112-3807-4408-8467-6C945CD8E022",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0140-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0e0f7bc7f5543c7f15eba5bba9414169e2f86bb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144401$C571AD13-A9F3-442A-8679-926D09DE9D8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1229431"
+          },
+          "hash": "41314f3efffb81bc3c95f37f22fa1b871eec1a68",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q144401$D0B53541-5244-47B3-8A35-F05C664DB056",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4949007968210124576"
+          },
+          "hash": "e8e0ba1e7e3454753c43e328bc50f73ff7cd9012",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144401$2F9B471B-79AF-4CE0-9335-A0D3C3248937",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Bruttius Praesens Arms.svg"
+          },
+          "hash": "d08420d3dcb2b722122f9646db0dee71e61abad5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 139"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator (68-140)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político y militar romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 139"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (68-140)"
+    }
+  },
+  "id": "Q144401",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Брутий Презенс"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Bruttius Praesens"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Bruttius Praesens"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Brutio Presente"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Bruttius Praesens"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Caius Bruttius Praesens"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Bruttio Presente"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "가이우스 브루티우스 프라이센스 루키우스 풀비우스 루스티쿠스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Bruttius Praesens"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Caius Bruttius Praesens"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Бруттий Презент (консул 139 года)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Brutije Presens"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Бруттій Презент Луцій Фульвій Рустік"
+    }
+  },
+  "lastrevid": 17566486,
+  "modified": "2025-09-17T14:00:05Z",
+  "ns": 860,
+  "pageid": 172786,
+  "sitelinks": {},
+  "title": "Item:Q144401",
+  "type": "item"
+}

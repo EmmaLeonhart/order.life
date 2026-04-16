@@ -1,0 +1,327 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Claudius Severus"
+      },
+      {
+        "language": "en",
+        "value": "Suffect Consul (112) - Gaius Claudius Severus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q76990$C3725EDF-6CF7-41B9-8798-6048D9943EE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736216"
+          },
+          "hash": "7e94adc3a71aa22885bc4a2a33b72354759ecc24",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q76990$55A928C3-460B-4953-A5BA-F7F1FA4D441C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76741",
+              "numeric-id": 76741
+            }
+          },
+          "hash": "158dbb941ab51e8ee5204ba430da7dd1f728a77d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76990$61310D1A-25FF-4B6B-9FA3-61D29F4394A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76990$DC0920DD-113F-4CBF-8AB7-C55B474FC4F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q76990$C8530B31-3631-4E14-8F48-3D429DFF97A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius_Claudius_Severus_(1)"
+          },
+          "hash": "90ae70307b5fd375e74d3805728dda4c1bad1974",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q76990$E9FA7F5F-7356-4C09-AA9C-53C8FE3DA7C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76993",
+              "numeric-id": 76993
+            }
+          },
+          "hash": "529ba15bc4b43e8acb84cc46ff03830f9fdc861d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76990$4EFEF89B-C169-4A27-BEDE-1D74F6BC558A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q76990$E2AFAD29-4B24-4559-A0CA-EB4628072B14",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76990$3AFFDE73-9B1D-4B38-8D66-ED5A4CB142B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55aa545168bc6f261b176e92922d351c65bd390f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76990$5A0ABCA2-EB9C-4145-8A48-CCE8FB09C725",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5517429"
+          },
+          "hash": "21bccf53a01429698c3df10fec22f528394b2282",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q76990$99BC2F32-69F7-4BB3-A183-6D351DC7A706",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000035440597406"
+          },
+          "hash": "abd7a9a360e947f0a7f26fb14a6e2d5d067d5bc3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76990$D50980CB-0E8A-43B7-9405-6D348D8CD7DB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Claudius Severus Arms.svg"
+          },
+          "hash": "da96b43789e51514b426c4ed4aec0a395b8e07ca",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul (112)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Late 1st/early 2nd century Roman senator, magistrate, consul and governor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique de l'Empire romain"
+    }
+  },
+  "id": "Q76990",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Клавдий Север"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Claudius Severus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Claudius Severus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Claudio Severo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gaius Claudius Severus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Claudio Severo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Claudius Severus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Claudius Severus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Cláudio Severo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Cláudio Severo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Клавдий Север"
+    }
+  },
+  "lastrevid": 17490686,
+  "modified": "2025-09-16T19:48:12Z",
+  "ns": 860,
+  "pageid": 91821,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q76990",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q76990"
+    }
+  },
+  "title": "Item:Q76990",
+  "type": "item"
+}

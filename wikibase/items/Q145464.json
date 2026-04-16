@@ -1,0 +1,773 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Conon de Béthune"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145464$C4B542B0-12A7-4C02-8726-6697B05FC538",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00705213"
+          },
+          "hash": "bb1348571373670b32a0e14b1c69daa27151051a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145464$5B9A4F2E-0415-497A-B299-50F9B6A93E93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145464$2790C334-4AAE-4998-A93C-913F69B89D8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q145464$B09C4AF5-AC7F-4A51-B8DC-6E19A8DAB2AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Conon_de_Béthune_(1)"
+          },
+          "hash": "740a988f18f15e5e71ad9c47062d208996730d6e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145464$36F0424C-DBDC-4138-8D13-4A2B4AC563EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145462",
+              "numeric-id": 145462
+            }
+          },
+          "hash": "037b030fd6730b54019fc51dc622d64346c52883",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145464$5F880639-E348-4C45-81C3-E7997142A45B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149944",
+              "numeric-id": 149944
+            }
+          },
+          "hash": "d88e050e4aa34871e34eb4e7389d9d5e8e8b4207",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145464$FF82A6E4-F207-4E09-B2EC-09B831B56ADC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145464$565E383F-3C9C-45AF-82B3-1C21BA83B49E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145464$64FEB74F-C20F-4B08-BB0F-71AE43C986A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1219-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3cee7551b15e62f40e0a1e3b1c77af6047a666ca",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145464$375AC8BD-4E01-49B8-BEAB-E0246A9E80EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5659"
+          },
+          "hash": "99642a043bfd09066887442679f3f986cf6c0b10",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q145464$B871E621-D3E6-428E-887E-16816854FD5F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Conon de Béthune"
+          },
+          "hash": "b8926b527df8b228f4ae392d09f43ef4cb67acff",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q145464$2ABCE48B-7DFE-49DF-8F40-FEFCE5F62304",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=conan;n=de bethune"
+          },
+          "hash": "6d8068c173923fd5c883aeb4f8ee2a304b7c2a78",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145464$B8FE7CE4-C651-4BA4-9222-83AA264E2AFD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Conon de Béthune Arms.svg"
+          },
+          "hash": "70c9ed95ce38538cd8ee4607ac6d52e5d99ca647",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "br": {
+      "language": "br",
+      "value": "skrivagner gallek"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "cyfansoddwr a aned yn 1150"
+    },
+    "da": {
+      "language": "da",
+      "value": "fransk skribent og poet"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "French yiliyiina ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ritter und Trouvère"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "crusader and \"trouvère\" poet, born in 1150 in north of France"
+    },
+    "es": {
+      "language": "es",
+      "value": "trobador y cruzado francés"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاعر و نویسنده فرانسوی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur et trouvère d’Artois (France)"
+    },
+    "it": {
+      "language": "it",
+      "value": "crociato e poeta troviero"
+    },
+    "la": {
+      "language": "la",
+      "value": "regens Imperii Latini, trobator"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "fransk skribent og poet"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "फ्रान्स को उत्तरमा ११५० मा जन्मेका क्रउसडर र ट्रोउभर कवि"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans schrijver"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "fransk skribent og poet"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "crosat e trouvère d'Artés (França)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta franses"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "północnofrancuski truwer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "французский трувер, участник крестовых походов, регент Латинской империи"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fransk författare och poet"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fransız trouvère ve yazar (1150-1219)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "nhà thơ thập tự chinh và người hát kịch, sinh năm 1150 ở phía bắc nước Pháp"
+    }
+  },
+  "id": "Q145464",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Conon de Béthune"
+    },
+    "an": {
+      "language": "an",
+      "value": "Conon de Béthune"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كونون د بيثون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Conon de Béthune"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Conon de Béthune"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Конон дьо Бетюн"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Conon de Béthune"
+    },
+    "br": {
+      "language": "br",
+      "value": "Conon de Béthune"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Conon de Béthune"
+    },
+    "co": {
+      "language": "co",
+      "value": "Conon de Béthune"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Conon de Béthune"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Conon de Béthune"
+    },
+    "da": {
+      "language": "da",
+      "value": "Conon de Béthune"
+    },
+    "de": {
+      "language": "de",
+      "value": "Conon de Béthune"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Conon de Béthune"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Conon de Béthune"
+    },
+    "en": {
+      "language": "en",
+      "value": "Conon de Béthune"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Conon de Béthune"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Conon de Béthune"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Conon de Béthune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Conon de Béthune"
+    },
+    "et": {
+      "language": "et",
+      "value": "Conon de Béthune"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Conon de Béthune"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Conon de Béthune"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کنن دو بتون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Conon de Béthune"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Conon de Béthune"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Conon de Béthune"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Conon de Béthune"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Conon de Béthune"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Conon de Béthune"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Conon de Béthune"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Conon de Béthune"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Conon de Béthune"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Conon de Béthune"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Conon de Béthune"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Conon de Béthune"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կոնոն դը Բետյուն"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Conon de Béthune"
+    },
+    "id": {
+      "language": "id",
+      "value": "Conon de Béthune"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Conon de Béthune"
+    },
+    "io": {
+      "language": "io",
+      "value": "Conon de Béthune"
+    },
+    "is": {
+      "language": "is",
+      "value": "Conon de Béthune"
+    },
+    "it": {
+      "language": "it",
+      "value": "Conon de Béthune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "コノン・ド・ベテュヌ"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Conon de Béthune"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Conon de Béthune"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Conon de Béthune"
+    },
+    "kl": {
+      "language": "kl",
+      "value": "Conon de Béthune"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cono de Bethunia"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Conon de Béthune"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Conon de Béthune"
+    },
+    "li": {
+      "language": "li",
+      "value": "Conon de Béthune"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Conon de Béthune"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Conon de Béthune"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Conon de Béthune"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Conon de Béthune"
+    },
+    "min": {
+      "language": "min",
+      "value": "Conon de Béthune"
+    },
+    "mos": {
+      "language": "mos",
+      "value": "Conon de BÃ©thune"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Conon de Béthune"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Conon de Béthune"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Conon de Béthune"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Conon de Béthune"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Conon de Béthune"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Conon de Béthune"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Conon de Béthune"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Conon de Béthune"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Conon de Béthune"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Conon de Betuna"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Conon de Béthune"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Conon de Béthune"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Conon de Béthune"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Conon de Béthune"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Conon de Béthune"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Conon de Béthune"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Conon de Béthune"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Conon de Béthune"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Conon de Béthune"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Conon de Béthune"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Конон де Бетюн"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Conon de Béthune"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Conon de Béthune"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Conon de Béthune"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Conon de Béthune"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Conon de Béthune"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Conon de Bethune"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Conon de Béthune"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Conon de Béthune"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Conon de Béthune"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Conon de Béthune"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Conon de Béthune"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Conon de Béthune"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Conon de Béthune"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Conon de Béthune"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Conon de Béthune"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Conon de Béthune"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Conon de Béthune"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "科农·白求恩"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "科农·白求恩"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "科農·白求恩"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Conon de Béthune"
+    }
+  },
+  "lastrevid": 17568542,
+  "modified": "2025-09-17T14:30:15Z",
+  "ns": 860,
+  "pageid": 173849,
+  "sitelinks": {},
+  "title": "Item:Q145464",
+  "type": "item"
+}

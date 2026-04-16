@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John de Mohaut"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q145159$655D347A-703E-431C-BC24-16CD61E46ED9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mohaut-19"
+          },
+          "hash": "05f3bda6d82406fbd153dbebee4be46535f1b4aa",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145159$B78B20EF-4DC7-40DE-AB04-3F1E202F7494",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145159$8599F6B8-7B8A-4F13-A279-1E11A2A4A89E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145159$568D440D-FDF1-4480-A543-C9AB4F10A0A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142275",
+              "numeric-id": 142275
+            }
+          },
+          "hash": "7c2a70e4fa151e85d8d372ff2c05a093779c0472",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145159$B5C2614B-52FE-4DA3-850D-C4282C5A053E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p53114.htm#i531139"
+          },
+          "hash": "57742501feee87a54ed8e7ab9b1a1e268c23ef44",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145159$2106CC9B-73E7-4965-8BAE-260FDF3B54A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145159$6E6BD044-F8DF-4853-8F9B-C464A4AEC231",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1233-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c647d3c881cfe849574bfc11f89bf4260ad4f17d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145159$7AB9A924-147C-481D-82CC-3E88B5AADC5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76100982"
+          },
+          "hash": "8040b7b33b44001008340858c19a92a23641739a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145159$1E1EFEEB-ED91-48CD-8EBF-4E9254D2D622",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John de Mohaut Arms.svg"
+          },
+          "hash": "dc116f106ff64a9b7b5543934069b073c615357e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=531139"
+    }
+  },
+  "id": "Q145159",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John de Mohaut"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John de Mohaut"
+    }
+  },
+  "lastrevid": 17567938,
+  "modified": "2025-09-17T14:21:22Z",
+  "ns": 860,
+  "pageid": 173544,
+  "sitelinks": {},
+  "title": "Item:Q145159",
+  "type": "item"
+}

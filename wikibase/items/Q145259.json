@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas de Chaundos"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q145259$644B2298-8EED-4BF8-9FC9-BC667926CA61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Chaundos-5"
+          },
+          "hash": "9ef2369e8a99b823785263ed947410d82a536dd8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145259$D947679E-6456-4818-8F5C-76D26F2BC763",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145259$4573CDDE-2358-4BE4-8498-5631A31378B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145259$6E54CD55-F195-421D-97E2-81AC90BA8315",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21562.htm#i215614"
+          },
+          "hash": "ee73f563feabafe60ae5109f9e4910aa1ffc77a7",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145259$01F07952-DA98-40F6-A380-ED63E3C525AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142328",
+              "numeric-id": 142328
+            }
+          },
+          "hash": "970d919a7e17abc647e6eda427e90c58e3d34f05",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145259$25FF177A-C36B-416F-93D2-137B43AA42DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142329",
+              "numeric-id": 142329
+            }
+          },
+          "hash": "97804e7be2d234914c9b6d21ba2cbb77e9264a26",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145259$ADDDE578-B02D-4EF3-8E7E-FF926BC59C1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145259$69AFD67F-81DC-452F-8282-473D7B9E3253",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1286-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "97e93b656fc78836abcf31b717675bbb33ab2e49",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145259$684C69EA-8FBD-4E3C-ACB3-289EE367550F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1332-02-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "41d0461d9e23500f582b7543bf4da99eea794b88",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145259$81A54F22-984C-489C-A7DB-89E0BCD576F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75565108"
+          },
+          "hash": "d2704c9dae1c132c9c7d0a36dd96b288147bbe28",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145259$A1BEA22B-F8E3-4CE2-8535-9302A9ECFC00",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas de Chaundos Arms.svg"
+          },
+          "hash": "b234ac486f70b6fc2c9ba017b0cae2c6a190515c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=215614"
+    }
+  },
+  "id": "Q145259",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Thomas de Chaundos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thomas de Chaundos"
+    }
+  },
+  "lastrevid": 17568138,
+  "modified": "2025-09-17T14:24:12Z",
+  "ns": 860,
+  "pageid": 173644,
+  "sitelinks": {},
+  "title": "Item:Q145259",
+  "type": "item"
+}

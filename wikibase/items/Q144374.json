@@ -1,0 +1,352 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Annius Libo"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144374$E258ED9A-E816-4D69-AEF5-C117564C79D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736117"
+          },
+          "hash": "42c7ee443e82e4d0b46cd34ab8383b3c361c1995",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144374$C21BFEE6-00C2-4EB0-AF11-8E6F31DC9550",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144410",
+              "numeric-id": 144410
+            }
+          },
+          "hash": "25b1a759e726ddf850f3b663f6f8a9982b87d390",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144374$16CB19E9-77A3-436B-B3C0-A90F7C7E1221",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144374$4753A4FD-3176-4FD8-95FB-038F3B142186",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144374$F0A48DF4-F33E-445F-B529-20ABC95307FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141778",
+              "numeric-id": 141778
+            }
+          },
+          "hash": "ffbb135d0d5d3fb1ab5a31ede0938102fd8e2ab6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144374$B7339A8A-11F7-49AF-A3EB-845662F0B9D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141755",
+              "numeric-id": 141755
+            }
+          },
+          "hash": "5359a2c9350801e30a7cbf4abee5e4da91af4b4e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144374$D0639B85-0A0A-4923-9ACA-735D9D5D6BB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144372",
+              "numeric-id": 144372
+            }
+          },
+          "hash": "74dfaf663e33f7fdfec828bbaf5724f1c581505f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144374$A7F92C96-381F-4CA4-93B8-F9A713F30551",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144374$3FB3FCAA-D478-4418-B1FE-F79E531A6E74",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144374$ED9FEE7C-1C92-466C-AEC3-F9CDB0C6C8A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0163-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3f5b407c8a9ae58753e850314abbaa137bb39262",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144374$1424898D-C3EE-4DE1-9E85-978373DAD009",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1894078"
+          },
+          "hash": "426ab7268b6285611fc72bde1b33af38d696777d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144374$F9BD808D-AFDB-4C64-B215-FCB9D28F979F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Annius Libo Arms.svg"
+          },
+          "hash": "62b3c0ab4395787b9e746abb343341e09e1cd692",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 161"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator, consul and governor (died 163)"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul del imperio romano"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로마의 원로원 의원, 집권관, 총독"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-163)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q144374",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Marcus Annius Libo"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Аний Либон (консул 161 г.)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Annius Libo"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Άννιος Λίβων (ύπατος το 161)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Annius Libo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Annio Libón"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Annio Libone"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마르쿠스 안니우스 리보"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Annius Libo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Annius Libo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Анний Либон (консул-суффект 161 года)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Анній Лібон"
+    }
+  },
+  "lastrevid": 17566456,
+  "modified": "2025-09-17T13:59:40Z",
+  "ns": 860,
+  "pageid": 172759,
+  "sitelinks": {},
+  "title": "Item:Q144374",
+  "type": "item"
+}

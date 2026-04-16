@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Juliane Grey"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145498$72DB8AA1-DE15-4CA3-B6F1-F39C40DD89CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00337562"
+          },
+          "hash": "11a3b18a0bda5129175bad3a644fe0bed46868bb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145498$74A14508-4D06-44B8-B796-4001CB5629C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149986",
+              "numeric-id": 149986
+            }
+          },
+          "hash": "6e8095901dc851d0220efb8b3ab47aa985a32065",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q145498$C0D0DB2B-DE8B-47F0-8EE1-7A77C0D6DB1F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Grey-65"
+          },
+          "hash": "00387d29fe4c96be8c6b73f18789937e0aaa086c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145498$3F9077D2-E650-463F-B355-426304A7738D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145498$322439B6-BFC5-4C25-A602-894A6F1B96BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145498$ACF661FA-BFDA-40E5-B2B5-749C8BE383D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145493",
+              "numeric-id": 145493
+            }
+          },
+          "hash": "e92d05126d5cfb3c50e8ccc96f4959770c73b044",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145498$B378CD11-C0C9-4F03-9921-E6090DE8895D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142448",
+              "numeric-id": 142448
+            }
+          },
+          "hash": "51069e386f5587c878c7e39898e780044754b1dc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145498$8921A7EB-7F2F-4D7A-A18A-E4E7F3C450AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145498$2DBD1D9F-7119-4EFB-AC80-83D2078D3024",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1315-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9a86c348a3cbfd2cdfccdb04435bb59a627e180e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145498$E41E8F1F-60D7-495A-B2CC-154B33C35E7F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1361-12-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "62fdfcad424a268c6dbf4346dbf6b215ff5c5554",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145498$654A6554-93D2-4A5F-A4CE-72446C620BC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q113633082"
+          },
+          "hash": "f5ba82f020c59bfc812f05dbbaab93f1bcaecc34",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q145498$1D6A205F-6570-4385-BD80-0D815B6525F5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Juliane Grey"
+          },
+          "hash": "dd7384196134cd18b1ec7db0276c1b02d421b6be",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145498$4352DD85-87CF-4145-A978-D7F075F6B501",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Juliane Grey Arms.svg"
+          },
+          "hash": "380c3e9466c9d4496fcdbf3dce347976400f8415",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1314 - 1 Dec 1361"
+    }
+  },
+  "id": "Q145498",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Juliane Grey"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Juliane Grey"
+    }
+  },
+  "lastrevid": 17568606,
+  "modified": "2025-09-17T14:31:09Z",
+  "ns": 860,
+  "pageid": 173883,
+  "sitelinks": {},
+  "title": "Item:Q145498",
+  "type": "item"
+}

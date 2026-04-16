@@ -1,0 +1,886 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vitellius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144185$ED5AD90D-A029-4BF7-8058-7A77EF4E6FFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465177"
+          },
+          "hash": "3f03b37dcc2c396c8cb5a5978af84a2379b73267",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q144185$087621DC-531E-4FE2-BD80-211D86275255",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716746"
+          },
+          "hash": "c33325dbae2968c8134528e2dad0d9acafc6611d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144185$DFA95EAF-C704-4E56-B4F4-7D5AA8F6CBE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148148",
+              "numeric-id": 148148
+            }
+          },
+          "hash": "ed9a9557aaeed704f2b5306aead787b0e013162f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144185$20A0BBFE-9932-4713-89ED-2E1D7D0F6698",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144369",
+              "numeric-id": 144369
+            }
+          },
+          "hash": "ee527ad672b07038d8bf938a84ae559733317fd3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144185$526C9958-4892-490C-A8E9-CAAB9C4A3476",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148149",
+              "numeric-id": 148149
+            }
+          },
+          "hash": "2279c30b0f06e8d8aef9b0d390e4c6cdc715f455",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144185$7CB6B58F-8D3A-4EED-9337-B0BD030C9595",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144185$6DE9232F-0553-4EC6-ABD2-FCAF7B2B4408",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144185$071507E7-D8BA-4719-BFA6-61B0EA2CC9B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vitellius_(1)"
+          },
+          "hash": "7f75a2478e8f53168512930fa3b88ccb62318ce9",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144185$0409E9CE-76A9-4AAD-9454-1035633DF8B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148146",
+              "numeric-id": 148146
+            }
+          },
+          "hash": "3e5c1c3c62bb21f847ca941cbfc2e98b90cd0697",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144185$4AE0DBB9-BD12-4F26-8880-F93C1C2B71EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148147",
+              "numeric-id": 148147
+            }
+          },
+          "hash": "4375399a0f6674cd62009f647ee245de780c6f3f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144185$B1C272BA-776D-4F2E-BE9C-7BCFDEFB3C3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144183",
+              "numeric-id": 144183
+            }
+          },
+          "hash": "6d6e353ede94cb93b3ea722dbd4aeef3647d06d5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144185$E786B7E6-AA66-4308-83A4-82EFD3AF9967",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144184",
+              "numeric-id": 144184
+            }
+          },
+          "hash": "808b66ff50966f83f439d5ea14ac180ca67fa2ef",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q144185$40B2DB63-458D-4BA7-826C-99D561A2667A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "34507672"
+          },
+          "hash": "424e76c485692956a36b834fa72f2a75ce8ceb8c",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144185$4FEEE362-D96E-4F7F-8094-A43C3619C9E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144185$31B5CB5D-D88B-40FC-A0D1-4F9C2C93CCF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0015-09-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6bbc6b8eaecab8276af7e2fe90804800d13f75e8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144185$BD06E0B0-8FA5-4C59-A034-CE1D298BDA82",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0069-12-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dfdf5b6f5937fe8d4f16ff0eb38727779ad33d33",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144185$686D7527-FFE7-4D8A-A845-D9C361FCBC66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1417"
+          },
+          "hash": "1434af900f4697a473804146bff3a93690aaa11c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q144185$0CB7A27D-65EB-4DCA-8E4F-8B83B7B308FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006964073251"
+          },
+          "hash": "c372a2c8cb1c698b6f005fd751439ca642fbddc2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144185$958955A7-E30C-4AAE-B5BF-2596464A8BBF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vitellius Arms.svg"
+          },
+          "hash": "4400c63797595b6bbd7d804b6fe5c153f67feaa3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q144185$64760B94-684E-42C8-ACFA-E1831C371CF3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/ACE634E4-8D90-4955-A0E7-07F77097D16C"
+          },
+          "hash": "3a2d40c33c9009d1f37d893206e81674645b29d6",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রোমান সম্রাট (15-69)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman emperor (15-69)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (69)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiikin Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "huitième empereur romain en 69"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "impire na Róimhe (15-69)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומא בשנת 69"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi yang memerintah dari 16 April hingga 20 Desember 69 M"
+    },
+    "is": {
+      "language": "is",
+      "value": "Rómverskur keisari árið 69 e.Kr"
+    },
+    "it": {
+      "language": "it",
+      "value": "ottavo imperatore romano (r. 69)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ帝国の「四皇帝の年」における3番目の皇帝"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Romas imperators"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Romano (16 de abril a 22 de dezembro de 69)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "восьмой римский император"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk kejsare april–december 69"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma İmparatoru (15-69)"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سنہ 69 ء کا رومن شہنشاہ"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗马帝国的皇帝"
+    }
+  },
+  "id": "Q144185",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Vitellius"
+    },
+    "am": {
+      "language": "am",
+      "value": "ዊቴሊዩስ"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "فيتليوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فيتليوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Vitelli"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ویتلیوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Вітэлій"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Вителий"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ভিটেলিয়াস"
+    },
+    "br": {
+      "language": "br",
+      "value": "Vitellius"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Vitelije"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Vitel·li"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vitellius"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Vitellius"
+    },
+    "da": {
+      "language": "da",
+      "value": "Vitellius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vitellius"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Vitellius"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Vitellius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βιτέλλιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vitellius"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Vitellius"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Vitellius"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Vitelio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vitelio"
+    },
+    "et": {
+      "language": "et",
+      "value": "Vitellius"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Vitelio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ویتلیوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Vitellius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vitellius"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Vitellius"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Vitelio"
+    },
+    "he": {
+      "language": "he",
+      "value": "ויטליוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Vitelije"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Vitellius római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վիտելլիոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Vitellius"
+    },
+    "io": {
+      "language": "io",
+      "value": "Vitellius"
+    },
+    "is": {
+      "language": "is",
+      "value": "Vitellius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vitellio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アウルス・ウィテッリウス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვიტელიუსი"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Vitellius"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "비텔리우스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Vitellius"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aulus Vitellius"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Vitelijus"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Vitēlijs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Вителиј"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "व्हिटेलियस"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "ویتلیوس"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Vitellius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Vitellius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vitellius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Vitellius av Romarriket"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Vitellius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Witeliusz"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Viteli"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Vitélio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Vitélio"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Vitellius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вителлий"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Vitelliu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Vitellius"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Vitelije"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Vitellius"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "قیصر ویٹیلئس"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Vitelij"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Vitellius"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Вителије"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Vitellius"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Vitellius"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิวิแต็ลลิอุส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Vitellius"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Vitellius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вітеллій"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ویتلیوس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vitellius"
+    },
+    "war": {
+      "language": "war",
+      "value": "Vitellius"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "维特里乌斯"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ვიტელიუსი"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Vitellius"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "維特里烏斯"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "維特里烏斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "維特里烏斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "維特里烏斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "維特里烏斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "維特里烏斯"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "維特里烏斯"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "維特里烏斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "維特里烏斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "維特里烏斯"
+    }
+  },
+  "lastrevid": 17566134,
+  "modified": "2025-09-17T13:54:52Z",
+  "ns": 860,
+  "pageid": 172570,
+  "sitelinks": {},
+  "title": "Item:Q144185",
+  "type": "item"
+}

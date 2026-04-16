@@ -1,0 +1,436 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Caecilius Metellus Numidicus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144078$E20D29AA-4136-4A8E-BE3F-99947E24A1DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "412202"
+          },
+          "hash": "0e85e20fc948196ab0817d0a912af03850863c53",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q144078$E2261078-E276-4453-989C-1B5DB404FFDF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735454"
+          },
+          "hash": "68e25ee7fe22a4b6a55abb779d0b48feb463ae36",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144078$4123B4D4-D83C-4B2A-A707-0A9B3C2A10A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141646",
+              "numeric-id": 141646
+            }
+          },
+          "hash": "f5abdf555ad9f1a5c9700992dacaf39f3607a5be",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144078$3128F4B3-DC70-431B-AE30-C912B8D87D21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144078$05EED476-BDB8-4655-B779-D7621521F215",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144078$470E48AA-EFF3-4610-B081-F4A30D423285",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72834",
+              "numeric-id": 72834
+            }
+          },
+          "hash": "a847a86d3d760e206d089eda9fce39f2e5102232",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144078$AF596645-BE04-464F-95BB-93C48AE2277C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144078$F0D46A27-5015-4126-AA64-590BF622EB47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0152-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aaa0998293d99e3402baae0203332b9708db9710",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144078$D5E49B93-DED5-4913-B04A-EDD6C25EA5F4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0091-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "363f5e27ccb4531e4b332477fcca7ec8f6aa2a6b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144078$46DF3957-5D1C-4131-AA1A-2B1B0D9041C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q281025"
+          },
+          "hash": "432ce8da8a95c0335b5479d0b1e71ef7f0a5ed93",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q144078$B2FA127B-7331-45B4-9679-8331EBBE72E8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Caecilius Metellus Numidicus"
+          },
+          "hash": "529c13ba602b35734221356bdd1a84e61aef40e4",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144078$6C93E116-ABC5-48E4-ABC6-2B38EBACB8EC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Caecilius Metellus Numidicus Arms.svg"
+          },
+          "hash": "5175c0fb51393926d1fc57be27f73eb6a93cc83d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ancient Roman statesman and general"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 109 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "מדינאי ומצביא רומאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus és hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 109 a.C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (200v Chr-91v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Stari rimski državnik in general"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q144078",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كوينتوس كيسيليوس متلوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Цецилий Метел Нумидийски"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Cecili Metel Numídic"
+    },
+    "da": {
+      "language": "da",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Καικίλιος Μέτελλος Νουμιδικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Cecilio Metelo Numídico"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "he": {
+      "language": "he",
+      "value": "קווינטוס קאיקיליוס מטלוס נומידיקוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Cecilio Metello Numidico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・カエキリウス・メテッルス・ヌミディクス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwintus Cecyliusz Metellus Numidyjski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Cecílio Metelo Numídico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Cecílio Metelo Numídico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Цецилий Метелл Нумидийский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Cecilije Metel Numidik"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Kvint Cecilije Metel Numidski"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Quintus Caecilius Metellus Numidicus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Цецилій Метелл Нумідійський"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昆图斯·凯基利乌斯·梅特卢斯·努米底库斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "昆图斯·卡埃基利乌斯·梅特鲁斯·努米底库斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "昆圖斯·卡埃基利烏斯·梅特魯斯·努米底庫斯"
+    }
+  },
+  "lastrevid": 17565960,
+  "modified": "2025-09-17T13:52:26Z",
+  "ns": 860,
+  "pageid": 172463,
+  "sitelinks": {},
+  "title": "Item:Q144078",
+  "type": "item"
+}

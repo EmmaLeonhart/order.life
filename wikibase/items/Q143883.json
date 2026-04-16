@@ -1,0 +1,615 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John I of Sweden"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143883$A0A494AB-2912-4FB9-93CC-DA473B35E9C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "572601"
+          },
+          "hash": "239746432ded85b7c1273b570ff3a6bbbaaef017",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q143883$45039883-06FF-42A9-8E16-5DCEE9A2B637",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00280196"
+          },
+          "hash": "9122cc4a732caf0aef5036dfa3af05d8a863412c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143883$CDD6923E-69F8-40C6-816A-9A8B88BD55B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sverkersson-8"
+          },
+          "hash": "0d02b9b314f337b8e3c84d12930dfe033a09dc3e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3217": [
+      {
+        "id": "Q143883$587E7264-0225-4D64-BC8F-B8B679E3EEA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "12098"
+          },
+          "hash": "e85676cba66570e8354b4806c3655501ef1b02cc",
+          "property": "P3217",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143883$D1D78B61-C015-4450-93FE-0999B26DC2D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143883$DC9BF584-33B6-4921-BD8F-1D1D550DED04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143883$A8D200E3-585C-4586-99B9-32A877074D2C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "John_I_of_Sweden_(1)"
+          },
+          "hash": "dc108356fc0100f73e4b14d501ad67af5af7d747",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143883$7A6253CD-D54F-4EF8-9DF2-D017586C777D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11307.htm#i113068"
+          },
+          "hash": "ffb9a85cbdbdfa017820094e19d31728fb4498c3",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143883$E1891EBD-A52F-4C14-A805-19BF4D5FAFD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143284",
+              "numeric-id": 143284
+            }
+          },
+          "hash": "679b3fd76f2f1f22312073708ed9a0f978e8d799",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143883$CFB4977A-AE59-40FD-8D2A-CEDBE32005E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141222",
+              "numeric-id": 141222
+            }
+          },
+          "hash": "0416d8023c08f72480f2adf70d62f1fcf116bc78",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q143883$4A0F204F-7838-443B-9DB7-01DAE5EB6110",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "15927651"
+          },
+          "hash": "4d108f9c98e48d238a26ca1679f07cfa33acda78",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143883$9DFD568A-7351-4EB0-9078-0AD5A8D189FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143883$D507EA70-C1CB-4448-A158-125FD5C9A343",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1201-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a9eaa1bc4fb5311595044ae955d90ad4b75d101",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143883$644176CD-406D-4413-BE77-3249DFFA53F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1222-03-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c7eb16fb5520758cd1aaf22f1ffc80701305b1c8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143883$4525AC18-BED5-4154-9D44-BEFA70C5BC25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q320989"
+          },
+          "hash": "e5040f14e0e191c9264f1eb91bef539ab998ed96",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143883$E708461D-FF5E-4C2F-B2EA-A92F3E52F68B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=johan;n=sverkeratten;oc=1"
+          },
+          "hash": "09bb12a2b385d9a4f2c61d2aa70035e21a76f7b7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q143883$BD58C866-A16F-4C6A-B867-C8E1E7872587",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.7097"
+          },
+          "hash": "59cb72bbdfc27d79367caa8a35ae03fd9d6f45eb",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143883$82FA7CEC-11D0-4293-B3BC-A110559735F0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John I of Sweden Arms.svg"
+          },
+          "hash": "4b34d4d5550f2563e60e45e0a5dbb9f8c0b45c6a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q143883$0987D1E9-12C9-4DE2-8267-5C647568C04A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/B5B13F2B-31B2-425E-8252-1DB6A10C972A"
+          },
+          "hash": "e81ae332058bb319a442b554dc07d4eb8f69ee3a",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي سويدي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu suecu (1201–1222)"
+    },
+    "be": {
+      "language": "be",
+      "value": "кароль Швецыі (1216—1222)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític suec"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "švédský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Schweden (1216–1222)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς της Σουηδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Sweden (1201-1222)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político sueco"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari suediarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique suédois"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí na Sualainne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político sueco"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Svédország királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Svezia (r. 1216-1222)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "第4代スヴェルケル朝スウェーデン国王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zweeds politicus (1201-1222)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko suiso"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Szwecji w XIII wieku"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político sueco"
+    },
+    "se": {
+      "language": "se",
+      "value": "ruoŧa politihkkár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ Шведске"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "svensk politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç kralı (1201-1222; hd. 1216-1222)"
+    }
+  },
+  "id": "Q143883",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Юхан I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jean Ier de Suède"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan I. Sverkersson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Johan 1. Sverkersson af Sverige"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johann I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Α΄ της Σουηδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "John I of Sweden"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan I Sverkersson"
+    },
+    "et": {
+      "language": "et",
+      "value": "Johan Sverkersson"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Juhana Sverkerinpoika"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean Ier de Suède"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוהאן הראשון, מלך שוודיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. János svéd király"
+    },
+    "is": {
+      "language": "is",
+      "value": "Jóhann Sörkvisson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni I di Svezia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨハン1世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "요한 1세"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Jūhans I Sverkersons"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Johan Sverkersson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johan Sverkersson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johan I van Zweden"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Johan Sverkersson"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "João I da Suécia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan I Sverkersson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João I da Suécia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João I da Suécia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юхан I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Johan I od Švedske"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "John I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John I of Sweden"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јуан I од Шведске"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johan Sverkersson"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Johan Sverkersson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юган I Сверкерсон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "約翰一世"
+    }
+  },
+  "lastrevid": 17565602,
+  "modified": "2025-09-17T13:47:22Z",
+  "ns": 860,
+  "pageid": 172268,
+  "sitelinks": {},
+  "title": "Item:Q143883",
+  "type": "item"
+}

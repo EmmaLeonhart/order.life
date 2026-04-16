@@ -1,0 +1,366 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mummia Achaica"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144041$8E2F2732-69F2-444B-94C3-281BD03F562E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735898"
+          },
+          "hash": "6bc5a6b86747b6176287768b6c5c0cf9fdca703b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144041$325CB36C-4B5F-4526-82BF-7B562453F7C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144256",
+              "numeric-id": 144256
+            }
+          },
+          "hash": "278e8c4ddca406fa36c38e3b71dd231e28ffa315",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144041$25AD15C7-0F0C-45D7-8B37-E8C230A7611D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148041",
+              "numeric-id": 148041
+            }
+          },
+          "hash": "7a8670e2a5de13bd2295e4108b329e7b7af28308",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144041$E9718BF4-4869-444A-8A37-307EE5458C1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144041$90F44786-9269-432F-B404-CF5B64FD1122",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144041$00EFBB4E-C921-4D56-ABA1-9C00FE895147",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148040",
+              "numeric-id": 148040
+            }
+          },
+          "hash": "61d665cc00367218783cfae42a1a79510df52fb0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144041$34861D3C-17B5-4558-BC1D-F4C4A965A432",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141381",
+              "numeric-id": 141381
+            }
+          },
+          "hash": "cf847d70334cb4f75f973551d766013c64083993",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144041$A1E9838F-B547-4294-AE3B-EC0E1A2E67FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144041$20F0596E-5522-4502-B76C-AE913934AC60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0035-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2ea7477e1bac19d055df3941e15cf3b375fb477",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144041$EFFBE94E-1657-4775-BDB7-766DAAB2A1FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0003-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a0728ed72689103b3a80e7436d55c1a6a981729",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144041$ED4B18A8-727A-474B-8825-F2B4EDCB81F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2577717"
+          },
+          "hash": "d0e1e2bf94b0257fbbe03ee4644d3d1e3cfd1458",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144041$2C0D0994-B6EB-4465-BE70-7115B9C10DCD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mummia Achaica Arms.svg"
+          },
+          "hash": "01b0957bcbf5e6c64e3297b33297c476588594f6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Mutter des römischen Kaisers Galba"
+    },
+    "en": {
+      "language": "en",
+      "value": "mother of a Roman emperor Galba"
+    },
+    "es": {
+      "language": "es",
+      "value": "madre del emperador romano Galba"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "mère de Galba"
+    },
+    "it": {
+      "language": "it",
+      "value": "madre dell'imperatore romano Galba"
+    }
+  },
+  "id": "Q144041",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Мумия Ахаика"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Múmmia Acaica"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mummia Achaica"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μομμία Αχαϊκή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mummia Achaica"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mumia Acaica"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mummia Achaica"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Mummia Achaica"
+    },
+    "he": {
+      "language": "he",
+      "value": "מומיה אחאיקה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Աքայիկոսի մումիա"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mummia Acaica"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mummia Achaica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mummia Achaica"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Múmia Acaica"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Múmia Acaica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Муммия Ахаика"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Мумија Ахаика"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "穆米亚·阿凯卡"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "穆米亚·阿凯卡"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "穆米亞·阿凱卡"
+    }
+  },
+  "lastrevid": 17565900,
+  "modified": "2025-09-17T13:51:35Z",
+  "ns": 860,
+  "pageid": 172426,
+  "sitelinks": {},
+  "title": "Item:Q144041",
+  "type": "item"
+}

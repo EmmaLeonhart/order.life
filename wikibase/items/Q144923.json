@@ -1,0 +1,315 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Roger de Beaumont"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q144923$4C920AB8-68EC-428C-A7BD-86B7D452A78A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Breteuil-17"
+          },
+          "hash": "dcd7969361f535ed9716fe9507d319603f9d4e4e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144923$DBB55BC5-378E-45DD-9E04-004DBFC59D42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144923$6524E52B-A5A5-4D25-ADE8-0CBD5C71E81E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144923$18FC1A7B-715A-411C-8F65-513361AD5813",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Roger_de_Beaumont_(2)"
+          },
+          "hash": "a74de9fcef888142e95cbf7992f70f8553fe48d6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144923$B3F5B38C-4BB9-4B0A-A7EA-11E151FF5BAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143795",
+              "numeric-id": 143795
+            }
+          },
+          "hash": "ab0881f67a7df3dc8790bbed6d14b0fda47a79b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144923$7055E9FF-A837-4735-B42F-1B85B141F719",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144921",
+              "numeric-id": 144921
+            }
+          },
+          "hash": "14765ac0a58d03e2441840973b95e960c60263f0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144923$6879A456-510C-49E1-9D77-6ABC747C8290",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144923$1E28DC41-47B7-4AD1-8B6D-2412DF4661B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c77b857d66d8f465534e9b66597ad980986f8b6b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144923$1AB57DF2-52ED-4986-8C75-E1676BFBB335",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1202-07-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d22c70c7b780a84b4a1cedc99c4b4cf5220e8182",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144923$AF6C1C0A-7B43-4967-A0AF-71E5F89408F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7359183"
+          },
+          "hash": "e24d046d5cb5511a9bf61907c8fc64cfabd6c51f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144923$9F9D87BD-DD48-405C-9F35-9F3E8064777B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Roger de Beaumont Arms.svg"
+          },
+          "hash": "cdff3155e14535c5a58fa34818aa4248260f8e12",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schottischer Geistlicher und Minister"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Catholic bishop"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique (?-1202)"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "rechter"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "епископ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римо-католицький єпископ"
+    }
+  },
+  "id": "Q144923",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Roger de Beaumont"
+    },
+    "de": {
+      "language": "de",
+      "value": "Roger of Leicester"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roger de Beaumont"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roger de Beaumont"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Roger de Beaumont"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роджер де Бомон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Roger de Beaumont"
+    }
+  },
+  "lastrevid": 17567470,
+  "modified": "2025-09-17T14:14:41Z",
+  "ns": 860,
+  "pageid": 173308,
+  "sitelinks": {},
+  "title": "Item:Q144923",
+  "type": "item"
+}

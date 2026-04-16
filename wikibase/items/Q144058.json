@@ -1,0 +1,352 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sempronia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144058$39AD3EC0-2C72-438A-A029-47F9413644E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735626"
+          },
+          "hash": "0de223eac72e175c5c52ba7d64f8d0a8ca46f7d1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144058$0C99952B-F5E0-488A-AF6A-200DBEA549F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144058$5E501202-2954-4AC8-A0BC-0F963E04177D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q144058$C06459D1-66E4-4543-B9BD-B7AA904139F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sempronia_(sister_of_the_Gracchi)_(1)"
+          },
+          "hash": "ac1eb994d99e6f9567adbd8770ccc9fbdb2338ba",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144058$6777ED48-9987-4F75-81A7-2F25462179AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148063",
+              "numeric-id": 148063
+            }
+          },
+          "hash": "c374423ce6d10eb21e8e8daed51a1eb5cce177b8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144058$17312A97-B1C1-4E56-AD79-848C4C215E08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144056",
+              "numeric-id": 144056
+            }
+          },
+          "hash": "2075a4db950e1ee6265644b2afdf891ec658ec09",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144058$D295D158-45BE-41E1-8B48-EC38F8340E35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144057",
+              "numeric-id": 144057
+            }
+          },
+          "hash": "f1c4f345fd5434e1e3f4fc4a4f8b87bad6ab4390",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144058$87A6C5D0-9086-49A4-B2E9-B0CDD84D00C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144058$DB934C9B-3092-449A-894D-290F67EB079C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144058$786518DB-376E-42ED-9ECA-513E1A5DD7D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3656094"
+          },
+          "hash": "3c6c8360dcf5fe3bd53a32335abef529b18112c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144058$BB4364A4-EF04-485D-BCB6-1D2B900124E9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sempronia Arms.svg"
+          },
+          "hash": "fe0366e29b648e1e86891cb9ccdd80f308546953",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Schwester des Tiberius Gracchus und Gaius Gracchus"
+    },
+    "en": {
+      "language": "en",
+      "value": "sister of the Gracchii"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Escipión Emiliano y hermana de los Gracos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sœur des Gracques"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחותם של הגראקכים"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana, figlia di Sempronio Gracco e Cornelia, moglie di Scipione Emiliano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "echtgenote van Publius Cornelius Scipio Aemilianus Africanus minor en zus van Tiberius en Gaius Sempronius Gracchus"
+    }
+  },
+  "id": "Q144058",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Семпрония"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Semprònia"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Sempronia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sempronia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σεμπρωνία (αδελφή των Γράκχων)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sempronia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sempronia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Senpronia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sempronia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Sempronia"
+    },
+    "he": {
+      "language": "he",
+      "value": "סמפרוניה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sempronia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "センプロニア"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sempronia (Aemiliani Africani uxor)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sempronia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sempronia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Semprónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Semprônia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Семпрония"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sempronia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Семпронія"
+    }
+  },
+  "lastrevid": 17565932,
+  "modified": "2025-09-17T13:52:03Z",
+  "ns": 860,
+  "pageid": 172443,
+  "sitelinks": {},
+  "title": "Item:Q144058",
+  "type": "item"
+}

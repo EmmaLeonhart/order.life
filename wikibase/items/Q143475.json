@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Walter Tirel"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q143475$45E715F8-B4C8-479F-B192-BF3C5F595DFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143475$6C5CBB08-9E78-4AAA-9644-53D277DD3E6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143475$3F3CDD3C-5335-44CD-926E-C99D1218404B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125831",
+              "numeric-id": 125831
+            }
+          },
+          "hash": "b7ebf8c6c3c021625d850082d6200ef49831f5ee",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143475$F7964A97-C4A3-4D72-A9AE-696C8473A352",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143475$7452F69E-1C06-492E-9395-DC7CBF90F8C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1065-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "850c2d48bc15e6fffb2305b1ccda484f87d9ef26",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143475$FBE17FF8-0CC4-42F4-9913-6AAD2F36CDA5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "02b2491aa94aec01b5c4332e7b8454593d1a0ee3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143475$C49E64CC-59BD-49BF-8085-362FC9F80FBE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2389282"
+          },
+          "hash": "85a9e517b3df364cafe41cfe050dadb331f189df",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143475$153FD8B9-5841-46AF-BB4A-924EEA61CA16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gauthier;n=tyrel+de+poix;oc=4"
+          },
+          "hash": "4d860661bab9aec40252b05984a80fbac187126a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143475$ED60B241-7E70-4D9A-BCBB-6AC6B48DF280",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Walter Tirel Arms.svg"
+          },
+          "hash": "948822f4ffd7aff01abde0b4fc312c867be8d642",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "französischer Adliger und Militär; Seigneur de Poix"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anglo-Norman nobleman"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble anglonormando"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q143475",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Walter Tirel"
+    },
+    "en": {
+      "language": "en",
+      "value": "Walter Tirel"
+    },
+    "es": {
+      "language": "es",
+      "value": "Walter Tirel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gautier II Tirel"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウォルター・タイレル"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Walter Tirel"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Walter Tirel"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Walter Tirel"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вальтер Тирел"
+    }
+  },
+  "lastrevid": 17565004,
+  "modified": "2025-09-17T13:38:54Z",
+  "ns": 860,
+  "pageid": 171860,
+  "sitelinks": {},
+  "title": "Item:Q143475",
+  "type": "item"
+}

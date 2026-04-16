@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John II of Salerno"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143444$A003C4DB-D45A-49C7-AA63-8E53DF6C6E30",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "323202"
+          },
+          "hash": "7c1737e6d3c544892eac1baca25fc12a190b111f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q143444$365C3F9D-9E36-44F3-9240-F072711564AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00546033"
+          },
+          "hash": "3d45bd95f79cb50030665d93a1232952e15a67c9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143444$404803FF-FE10-4DCA-8857-D012F8E9A5C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123355",
+              "numeric-id": 123355
+            }
+          },
+          "hash": "8b3f580f732750dbb4f555106bccd10307efce1d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143444$E2695941-CDEA-45C0-AC53-CCF843C1E158",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143444$F66C8553-B00C-47F5-B5EB-D08F254D20C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143444$B59B37D9-CA09-4566-9423-5BF36785DDEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ioannes_of_Salerno_(1)"
+          },
+          "hash": "d1aa124925e3b29926bdbbdc44790bbe310df9b1",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143444$97BF5FB6-DC61-466B-A4B0-4C6A44F6F6B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143444$C5629879-EB45-45C4-919E-9B966ABC6373",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143444$FDB422BD-BEC1-43FA-AC88-BEDB29C0D1D0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0999-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "608d9c76e8ec9e351ff7fde739a5c535a850762a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143444$0A92BF91-4A77-4901-92EA-BEA14595D239",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2518611"
+          },
+          "hash": "bbf3703cb06b39afb671d0b88327c6d48e6cb2c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143444$4E50BBF1-5BB2-483E-B701-6479BF8857A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=giovanni lamberto;n=di salerno"
+          },
+          "hash": "771829130bc1a3fa181a7810e41dd69d2bff3161",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143444$2D699D08-3A06-45EA-917A-4E2785521CAC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John II of Salerno Arms.svg"
+          },
+          "hash": "bfb08e1c50583196b5faaff0666c535627ac4026",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "it": {
+      "language": "it",
+      "value": "principe longobardo di Salerno"
+    }
+  },
+  "id": "Q143444",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Β΄ του Σαλέρνου"
+    },
+    "en": {
+      "language": "en",
+      "value": "John II of Salerno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xoán II de Salerno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean II de Salerne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán II de Salerno"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni II di Salerno"
+    },
+    "la": {
+      "language": "la",
+      "value": "Maledictus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John II of Salerno"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ioan al II-lea de Salerno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іоанн II"
+    }
+  },
+  "lastrevid": 17564978,
+  "modified": "2025-09-17T13:38:31Z",
+  "ns": 860,
+  "pageid": 171829,
+  "sitelinks": {},
+  "title": "Item:Q143444",
+  "type": "item"
+}

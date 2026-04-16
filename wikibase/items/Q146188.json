@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir John Newton"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146188$4B97F43D-04A4-430F-B9B0-5FCB9D4DA1A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00264615"
+          },
+          "hash": "22f0dab8e73284ec5c9f8601da35a73e4954c74a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146188$FF8B9ECA-01B6-46A2-9AB5-BF6D2C6797CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150848",
+              "numeric-id": 150848
+            }
+          },
+          "hash": "d26e7fb78565b64260b8c16df22f01b225e58e9a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146188$14348C00-1BBD-44B4-A926-704B573D3116",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Newton-253"
+          },
+          "hash": "5fd9a6cae9661caa543e88c24818067a611c13b6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146188$A6685D66-2F9F-477F-9ED5-ADEAA3029A06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146188$9ABDCF85-B8E6-47E7-A0FE-59105D187963",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146188$E618E6C5-4069-4E82-B977-92A2C7605347",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142984",
+              "numeric-id": 142984
+            }
+          },
+          "hash": "674374941e115cbc3f902a83b23a1b47a652cc0b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146188$6284B9B0-D101-4EC0-8E9A-D305631C64F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150846",
+              "numeric-id": 150846
+            }
+          },
+          "hash": "9bd4c8f76a426f4cc566078096b28629feebd6fa",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146188$A596AF35-203F-48F2-846A-92FE29E9E85B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146188$D854BE45-F021-4DF7-869A-0CB98C7771F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1447-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "add77b263d049d549707f8347903207d642be3ed",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146188$175F9374-8A6C-4B56-962A-3CE314EEBFB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1488-01-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "925ca269f492417b015558ce2e90f99a5f8c90b8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146188$C9B0A588-8863-4104-9F68-E1FAE6C198A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112529509"
+          },
+          "hash": "c2ce9d848d3333bf2fa22274679b75a228920790",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q146188$214E53AD-6C07-4ACE-81D7-94AD29DBFD59",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Newton"
+          },
+          "hash": "932d2c1a4095f99d11cdf10ad666b74c5479271e",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146188$78109EC2-413A-4D97-BF2F-5E3EF9B91CAD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Newton Arms.svg"
+          },
+          "hash": "12286431fe57b395022d1b9fe42efcfd5aab5fa8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Est 1430 - 26 Jan 1488"
+    }
+  },
+  "id": "Q146188",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir John Newton"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sir John Newton"
+    }
+  },
+  "lastrevid": 17569986,
+  "modified": "2025-09-17T14:50:24Z",
+  "ns": 860,
+  "pageid": 174573,
+  "sitelinks": {},
+  "title": "Item:Q146188",
+  "type": "item"
+}

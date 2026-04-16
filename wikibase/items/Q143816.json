@@ -1,0 +1,588 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Michael IV the Paphlagonian"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143816$DB79BE44-2942-43BC-9C96-4974EC17F8E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "160786"
+          },
+          "hash": "52655734ec932b1d65fe59294150555bff3dca8a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q143816$B50358DF-12C0-4EC2-B612-C36069F9A6C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00027730"
+          },
+          "hash": "ff063afd9b2c7a2203cc51b521d4978c8607e9a3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143816$FE494C57-4771-494E-9B1D-FB228DAC409D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Unknown-214632"
+          },
+          "hash": "107db1127507303a24a7f4c21da808b4ae63cec0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143816$EC7CE8E4-8D57-46BE-9CFB-13E2ED22B3A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143816$1ADC7087-27D8-4D89-9B21-219333FC44D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143816$89150FDF-FB7F-4395-AEB2-6D5168E5D161",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Michael_IV_the_Paphlagonian_(1)"
+          },
+          "hash": "9172448117d958f881a0e1ddfa9446e4939b983c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143816$E334B473-806D-48AE-AD4D-80C2CC595726",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126986",
+              "numeric-id": 126986
+            }
+          },
+          "hash": "2b0110d7578f42a0dfa2b5da796251a3f7415600",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143816$8EE503DC-3313-46C9-9459-16664A660EA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15022.htm#i150216"
+          },
+          "hash": "b06493515e280f9635b82e939cd39a1f812bf865",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143816$78603DD0-83C0-4541-B803-CD8595A970C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143816$409CBCDE-AA0B-4963-9CEA-4C3891B420A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1010-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f21bc56d2a4010286b6b94aa86b3b88863a373ff",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143816$04DE5B2D-AD56-4C2C-BF55-E5A1EAF9C47F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1041-12-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d004c1861fc463a34388df038276cb616b8f28db",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143816$E573F28A-3FEE-4408-B3F4-FE268262C83D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q41654"
+          },
+          "hash": "88b5ac311ccd2689b03f747f297e1009b0728af4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143816$4B3D364D-799D-43CD-8B2B-3EF5CC9BBA8C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "385929885890010277"
+          },
+          "hash": "1efbde4eb7e89c1939f14100de44ec9e375c9ec7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q143816$32D75956-72F4-499E-BC0F-80043FEC64CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52487"
+          },
+          "hash": "f3c748fc971740b0fbae3eb8a7acc5dbddd71a02",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143816$1CB28D12-ADDA-4E5A-824B-D8A3E0E4B233",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Michael IV the Paphlagonian Arms.svg"
+          },
+          "hash": "4faebdf62c746170bfc74420753a7a2feb5f6a31",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q143816$51E593CF-17C9-4A13-B065-FF7B38DFEA61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/7cc27a11-7b76-4d6d-8e20-89225ebbddcb"
+          },
+          "hash": "4330cde81594c2c4aa225221c33001acfa97395b",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "byzantský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Byzanz"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινός αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine emperor"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "bizanca imperiestro"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador bizantino"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bysantin keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur byzantin de 1034 à 1041"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bizánci császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore bizantino (r. 1034-1041)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "동로마 제국의 황제"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer uit Byzantijnse Rijk (1010-1041)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz bizantyński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Bizantino (1034–1041)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "византийский император"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بازنطینی شہنشاہ"
+    }
+  },
+  "id": "Q143816",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Michael IV die Paflagoniër"
+    },
+    "an": {
+      "language": "an",
+      "value": "Miguel IV"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ميخائيل الرابع البافلاغوني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ميخائيل الرابع بافلاجون"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "دؤردونجو میخائیل"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Михаил IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Miquel IV el Paflagoni"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Michael IV. Paflagoňan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Michael IV."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Mikhael IV"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μιχαήλ Δ΄ Παφλαγόνας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Michael IV the Paphlagonian"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Miĥaelo la 4-a de Paflagonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Miguel IV"
+    },
+    "et": {
+      "language": "et",
+      "value": "Michael IV"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Mikel IV.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میخائیل چهارم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Mikael IV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Michel IV"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Miguel IV"
+    },
+    "he": {
+      "language": "he",
+      "value": "מיכאל הרביעי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mihael IV. Paflagonac"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Mikhaél bizánci császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Միքայել IV Պափլագոնացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mikhaēl IV Paphlagōn"
+    },
+    "it": {
+      "language": "it",
+      "value": "Michele IV di Bisanzio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ミカエル4世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მიხეილ IV"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "미카엘 4세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Michael IV Paphlagon"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Михаил IV Пафлагонецот"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mikael IV"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Michaël IV Paphlagon"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Mikael IV"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Michał IV Paflagończyk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Miguel IV"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Miguel IV"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Mihail al IV-lea Paflagonianul"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Михаил IV Пафлагонский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mihajlo IV Paflagonac"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Michal IV."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mihael IV. Paflagonec"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Михајло IV Пафлагонац"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mikael IV"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IV. Mikhail Paflagonyalı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Михайло IV Пафлагонський"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مائیکل چہارم پافلاگونیان"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Mikhael IV"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米海爾四世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "米海尔四世"
+    }
+  },
+  "lastrevid": 17565488,
+  "modified": "2025-09-17T13:45:46Z",
+  "ns": 860,
+  "pageid": 172201,
+  "sitelinks": {},
+  "title": "Item:Q143816",
+  "type": "item"
+}

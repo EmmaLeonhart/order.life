@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Margaret la Zouche"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145804$E3F75A5A-FFD1-4D48-9393-EEC7D11CACDC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00472426"
+          },
+          "hash": "45e10d03ee052c98c9ca11be4b4083b50c5c0b2e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145804$FF54895D-4A34-4E9A-8E90-8308D660F22D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142698",
+              "numeric-id": 142698
+            }
+          },
+          "hash": "e8518553318674770bf56efdfbfccaed5453ecd5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q145804$A5B71392-CAE5-4BE6-AD30-56535DBEE017",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Zouche-132"
+          },
+          "hash": "e8b9fb81e8a7a7f91965259f830b500638a33ece",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145804$232AAB5E-146C-444A-9254-2F5B53B52258",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145804$C9C9CC53-EF08-440D-B334-CA8C8E8C0C00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145804$E2FC5F0D-828D-4749-9700-2EE6F4DCF01B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140433",
+              "numeric-id": 140433
+            }
+          },
+          "hash": "adad903e78526b84e5e859037da7a30490ab3575",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145804$82933AC0-1FAF-4E38-B4AE-22C877CA3389",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150341",
+              "numeric-id": 150341
+            }
+          },
+          "hash": "fe373150811f8b9ac772182e56455eff3f3ceed5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145804$11F6944A-14A9-459B-BF96-605EA92811F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145804$5B150056-8C65-4D3E-AFC6-616D2E1796FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1353-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2cf4469b36bf17e9eeab1a5410b762b23ec1c565",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145804$B404D105-6E46-463A-AD71-AF5567B90EA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104473604"
+          },
+          "hash": "0b1a30159e306a832b076edd9bab33864169530a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q145804$3D24D0D9-943A-40B4-A2CC-0853FF9EBD20",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Margaret la Zouche"
+          },
+          "hash": "d1d6306afe66dc608bdc53804ac15b989506c6fd",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145804$90ED4D52-879B-4E03-A3EC-637DE26FA242",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Margaret la Zouche Arms.svg"
+          },
+          "hash": "a461386a362a593f21ea18df08fbae95f7fa8058",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1353"
+    }
+  },
+  "id": "Q145804",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Margaret la Zouche"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Margaret la Zouche"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Margaret la Zouche"
+    }
+  },
+  "lastrevid": 17569218,
+  "modified": "2025-09-17T14:39:42Z",
+  "ns": 860,
+  "pageid": 174189,
+  "sitelinks": {},
+  "title": "Item:Q145804",
+  "type": "item"
+}

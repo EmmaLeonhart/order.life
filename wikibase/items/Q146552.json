@@ -1,0 +1,596 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto the Child"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146552$76BCFB1F-5B84-4802-B7C5-1DF7AC308B2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "590844"
+          },
+          "hash": "207fd8deae4e0a4c63013ad0f004b5d8c6db1340",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q146552$854A0325-5304-4D32-BCB6-0A20B1AA27DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00015336"
+          },
+          "hash": "50d0f914ca1f3ec75ea6cba06b8ba590dd6debe4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146552$36C59F06-899B-49FC-8394-F959F1143BBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147166",
+              "numeric-id": 147166
+            }
+          },
+          "hash": "69ddd5810d0e9a471fe5b6240c8a050cd257baa5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146552$33AB2F97-60D2-4747-BBB0-BD57012A5F82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Braunschweig-Lüneburg-6"
+          },
+          "hash": "d03b2c922ccf574ca608156d1794020a8f294106",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q146552$DF3EF845-B540-400D-98D0-7C617275C9F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I3337"
+          },
+          "hash": "5ec37b540dff5b16fef0c5ee51cd1c36823d56b6",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146552$B090B51F-81C5-4617-A8D1-72781C3508FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146552$9ECE6E26-AFA1-49C6-8CC8-34FA7E764FC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146552$A1CCB159-DC89-4A13-93B4-67C93AAA7B26",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto_I,_Duke_of_Brunswick-Lüneburg_(1)"
+          },
+          "hash": "93e881925011bd451f3e89471e1f579886bf9e6f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146552$AABEE47D-55F1-48B9-AC90-54BBB2A764B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128077",
+              "numeric-id": 128077
+            }
+          },
+          "hash": "e1f94345e5627ec950679d50cd7588190466757a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146552$0FFBFAFF-BA37-4A49-8234-9CC06813B1F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11363.htm#i113626"
+          },
+          "hash": "25c1070510ae3872b99a02475ca0380fcd5a6357",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146552$567D249F-7CF3-449D-AB13-B5003CB4B4C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q122889",
+              "numeric-id": 122889
+            }
+          },
+          "hash": "2314a95a78fe0124f67bcdb03602a58252f49a2a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146552$44DBA3D2-32EE-481D-AF46-26B393C7B933",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128020",
+              "numeric-id": 128020
+            }
+          },
+          "hash": "dfd2f81e5509d9475fc9e8ec685977ed7a111b5a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146552$E8E82B53-C22F-4F05-8156-CD8F12F4E584",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146552$EA2440BF-CB64-4E46-BAD6-FA8B75E6F557",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1204-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fae7a98cada498c339eb0c5ab870a93c1ae5b92d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146552$FB4FE5D8-E612-4A79-87AA-BDD810B71260",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1252-06-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b6aa09cb6007636dc8e8893a853ed5ac74621bc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146552$6078B439-B6B3-497D-8281-B6678A0A497A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q703249"
+          },
+          "hash": "cd62753629c9b46b7c22a463dd7201995819cb64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q146552$180EBA9B-42C9-411F-87D3-0B39DAB4CB42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003646057185"
+          },
+          "hash": "ed1ed83bcc6badeb3287f4e22b9074d50044c3b1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146552$C72B60A5-4279-4877-8818-5634C9E9340C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=otto;n=von braunschweig luneburg;oc=1"
+          },
+          "hash": "5118e724fe4e9d2cf28f7f66eb731ef3437f7549",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q146552$DB1222CA-E2B0-4A54-A41C-51CC28791C98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.820"
+          },
+          "hash": "bd3a3184a7bffb167c04ecb67719dddc7cc723a7",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146552$4B13657D-0B2D-4A62-85D7-3ABF2785E09D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto the Child Arms.svg"
+          },
+          "hash": "baf2e2f92d41373e28a3b548ccf2868d636de8a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata alemán (1204–1252)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "aristòcrata alemany"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "brunšvicko-lüneburský vévoda"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "pendefig (1204-1252)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hertug af Braunschweig og Lüneburg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog zu Braunschweig und Lüneburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "German duke of Brunswick-Lüneburg"
+    },
+    "es": {
+      "language": "es",
+      "value": "primer Duque de Braunschweig-Lüneburg"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "aristokrata alemaniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "aristocrate allemand"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "aristócrata alemán"
+    },
+    "it": {
+      "language": "it",
+      "value": "aristocratico tedesco (1204-1252)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duits aristocraat (1204-1252)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata alemão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "герцог Брауншвейг-Люнебурга"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Перший герцог Брауншвейг-Люнебургу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德國公爵"
+    }
+  },
+  "id": "Q146552",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اوتو الاول دوق برونزويك لونيبورج"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ото I фон Брауншвайг"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Otó I de Brunswick"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ota I. Brunšvicko-Lüneburský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Otto y Plantyn"
+    },
+    "da": {
+      "language": "da",
+      "value": "Otto 1. af Braunschweig-Lüneburg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Otto I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Όθων Α΄ του Μπράουνσβαϊγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otto the Child"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Otto I, Duke of Brunswick-Lüneburg"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Otto I, Duke of Brunswick-Lüneburg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Otón I, el niño"
+    },
+    "et": {
+      "language": "et",
+      "value": "Otto I"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اتوی یکم، دوک برونزویک-لونبورگ"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Othon Ier de Brunswick"
+    },
+    "he": {
+      "language": "he",
+      "value": "אוטו הראשון, דוכס בראונשווייג-לינבורג"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ottó braunschweig-lüneburgi herceg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ottone I di Brunswick-Lüneburg"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オットー1世"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Otto Barnet av Braunschweig-Lüneburg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Otto I van Brunswijk"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Otto I Dziecię"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Оттон I Дитя"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Otto I, Duke of Brunswick-Lüneburg"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Otto I, Duke of Brunswick-Luneburg"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Otto Barnet av Braunschweig-Lüneburg"
+    },
+    "th": {
+      "language": "th",
+      "value": "ออตโตที่ 1 ดยุคแห่งบราวนชไวก์-ลืนเนอบวร์ก"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Отто I (князь Брауншвейг-Люнебургу)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Otto I xứ Braunschweig-Lüneburg"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奥托一世 (不伦瑞克-吕讷堡)"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "奧托一世"
+    }
+  },
+  "lastrevid": 17570702,
+  "modified": "2025-09-17T15:00:41Z",
+  "ns": 860,
+  "pageid": 174937,
+  "sitelinks": {},
+  "title": "Item:Q146552",
+  "type": "item"
+}

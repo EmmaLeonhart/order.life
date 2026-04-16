@@ -1,0 +1,909 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William, king of Scotland (William the Lion)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143737$364A1300-1591-44AF-93B8-DD4AE1A237A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "111085"
+          },
+          "hash": "13fc15cf760b286cdec829b14fde71770fe0475f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q143737$B96DB5C6-89F8-4E42-B1B4-CB96440DF7F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00002868"
+          },
+          "hash": "d61b6e3dbe18b1801082ea4a35509ff377ae9576",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143737$E9F19DF9-CB67-4FE0-9671-79DD61542562",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145057",
+              "numeric-id": 145057
+            }
+          },
+          "hash": "ee6a3ac77d91490658bd162e46d6ca36c21e425d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$FE030C92-B47F-47BF-80E0-DB6BFEB2C71D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142399",
+              "numeric-id": 142399
+            }
+          },
+          "hash": "035a7ad22204a0b3290ef64f33d09ae15210d65e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$FD440FDC-4730-4CB6-99F0-B197A9DA6BDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145399",
+              "numeric-id": 145399
+            }
+          },
+          "hash": "89fd428478df407d244211a3e0d46434ccadb7ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$D02F6AE0-FD4D-4BF7-B71D-742072789231",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144918",
+              "numeric-id": 144918
+            }
+          },
+          "hash": "ed8fef032982373b38f757695256202d50c81231",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$77965221-79C6-4ECE-BA88-F9E50FD13346",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147272",
+              "numeric-id": 147272
+            }
+          },
+          "hash": "7791261082931305a8e7cc352753b89866aa156b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$8A00A063-4237-4307-B6A7-8C9EE0C2605B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147273",
+              "numeric-id": 147273
+            }
+          },
+          "hash": "2ff034f5a1497efc3c5fcde104d8a8a3e0c4d047",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$CD119A71-713D-42D0-879D-64EF82191C27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147274",
+              "numeric-id": 147274
+            }
+          },
+          "hash": "67d5fcdb5f54a56ef5173ee50f2bd170a2469d01",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$CD382724-058C-49C6-AB4B-51097113F994",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147275",
+              "numeric-id": 147275
+            }
+          },
+          "hash": "cc3ea940ee9d6e6489b2f635782756d65db971cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$D6638C9D-B769-4C81-9CC5-54CB123C8D42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147276",
+              "numeric-id": 147276
+            }
+          },
+          "hash": "4661e0ec7be7f6dd1f2e22ac28834d72fcc954fa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$A5094098-6B30-4E18-B2A2-8A3CC0AE65CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147277",
+              "numeric-id": 147277
+            }
+          },
+          "hash": "3cf824d0c4d3a021a7750d3baa00c4e6a4bea535",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q143737$1A3FD686-AA17-48E6-8E5A-855AB4BD1BF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "L8YY-5PB"
+          },
+          "hash": "2d5413c53ccaeeffa13bd60b3396e5e919abf506",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143737$A61495A3-E799-47D0-8621-1FD42CDC2D72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dunkeld-2"
+          },
+          "hash": "907039c2af0d28332eb5ef7e9675ab552d2c53c8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3051": [
+      {
+        "id": "Q143737$EBC97553-D59C-4C67-B3BE-EE8D14C0E649",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I4775"
+          },
+          "hash": "82890478d982f446582c0656507d9f38bd4a51db",
+          "property": "P3051",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143737$7ADA4F59-85CB-4E65-BA02-F5C8FC6D5521",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143737$7FEC4994-43BB-4457-B912-BC5821033590",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143737$14BD2F0E-3759-4E3A-8716-F490ACF13A3C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "William_I_of_Scotland_(1)"
+          },
+          "hash": "f68e5746f1b90f66f54203f07985b151e0b65342",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143737$85183CD9-F631-4F54-8397-34C86B9DC184",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124914",
+              "numeric-id": 124914
+            }
+          },
+          "hash": "0b379df69c36b6c88c94c27186fd5ccc8b34b0a4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143737$5B31352B-30C7-49D8-A2E4-C1B09975B6BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10288.htm#i102872"
+          },
+          "hash": "7a6cac52b8a87f897c72724f9275926dcfdd1cbd",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143737$61ACEFBD-5ACF-409F-8709-8953251A8492",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126775",
+              "numeric-id": 126775
+            }
+          },
+          "hash": "1770be481706584e548bca98ddcf5185970d50b8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143737$64E7D985-B4FB-41A0-BE0F-A0F78B68E47B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126017",
+              "numeric-id": 126017
+            }
+          },
+          "hash": "e1b88a0023d8193a5d781c35d9dec898a00fd75a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q143737$5ACC6F27-57D6-45E2-82FC-84127456D2D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "9294527"
+          },
+          "hash": "ffc4db764b4690f446e05c1083c077d90657fa7c",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143737$D58DC069-AAA7-456A-A5B0-FC09CD6B792C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143737$8990F53F-A057-4505-B7EF-EC8173A53A33",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1142-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70f2f836c0fa66bc40a9d58bdbe6fa3bbdc29454",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143737$1E657931-50AB-4419-B8B0-3035165D99F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1214-12-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98faf02290788cf383c15df88246b3a44c6991ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143737$C4E482F0-E31E-463E-AF08-996B047F7CD2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q312594"
+          },
+          "hash": "1c451f25eaf7b3b41ad14ecb794cdfbb466c6a16",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143737$4633F0D3-340D-4C55-8AEC-C1E68090B11F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4294404046250042543"
+          },
+          "hash": "f671ae3d07b3131ecacb0919058f1cdfb68a39ad",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143737$C159C700-6684-4F1B-898A-B6160DF20BFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=william;n=of scotland;oc=1"
+          },
+          "hash": "403cbca29fc9350a540a5c545760122a05b63c4f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143737$394A2719-2DD5-4596-8A12-AE33BE5EA8D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William, king of Scotland (William the Lion) Arms.svg"
+          },
+          "hash": "5c9d4805a8279079de717e72e219238ac03f2ae0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q143737$3AFBB464-165A-4BD2-B350-AC81ADF7D5C3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/401BE88A-AFA8-4F76-B71D-2924CE231052"
+          },
+          "hash": "d14f5eeedc93942afddbe59eea3b7f74100af777",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ang": {
+      "language": "ang",
+      "value": "Scotta Cyning"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سياسي اسكتلندي"
+    },
+    "be": {
+      "language": "be",
+      "value": "кароль Шатландыі (1165—1214)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei d'Escòcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "skotský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Alba from 1165 to 1214"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reĝo de Skotlando de 1165 ĝis 1214"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Écosse"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei de Escocia de 1165 a 1214"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך סקוטי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Skócia királya"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Skotlandia dari tahun 1165 sampai 1214"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Scozia (r. 1165-1214)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스코틀랜드 왕(1165년~1214년)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brits politicus (1142-1214)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Шотландии с 1165 по 1214 годы"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ Шкотске"
+    }
+  },
+  "id": "Q143737",
+  "labels": {
+    "ang": {
+      "language": "ang",
+      "value": "Willelm Leo"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "وليام الأسد"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "وليام الاسد"
+    },
+    "be": {
+      "language": "be",
+      "value": "Вільгельм I Леў"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Уилям I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Guillem I d'Escòcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vilém I. Skotský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Wiliam I, brenin yr Alban"
+    },
+    "da": {
+      "language": "da",
+      "value": "William 1. af Skotland"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wilhelm I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Γουλιέλμος Α΄ της Σκωτίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "William, king of Scotland (William the Lion)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Vilhelmo la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guillermo I de Escocia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gilen I.a Eskoziakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ویلیام شیر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Vilhelm Leijona"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume le Lion"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Uilleam I na hAlban"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Uilleam I na h-Alba"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Guillerme I de Escocia"
+    },
+    "he": {
+      "language": "he",
+      "value": "ויליאם הראשון, מלך סקוטלנד"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Vilim I. Lav"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Vilmos skót király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ուիլյամ I Առյուծ"
+    },
+    "id": {
+      "language": "id",
+      "value": "William si Singa"
+    },
+    "io": {
+      "language": "io",
+      "value": "William 1ma di Skotia"
+    },
+    "is": {
+      "language": "is",
+      "value": "Vilhjálmur ljón"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guglielmo I di Scozia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウィリアム1世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "윌리엄 1세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gulielmus I"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Viljams Lauva"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Vilhelm I av Skottland"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Willem I van Schotland"
+    },
+    "no": {
+      "language": "no",
+      "value": "Vilhelm I av Skottland"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wilhelm I Lew"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Guilherme I da Escócia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Guilherme I da Escócia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "William I al Scoției"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вильгельм I Лев"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "William the Lion"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "William I Lav"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Viliam I."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "William the Lion"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Вилијам I Лав"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Vilhelm I av Skottland"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aslan William"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вільгельм I Лев"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "威廉一世 (苏格兰)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "威廉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "威廉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "威廉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "威廉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "威廉"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "威廉"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "威廉"
+    }
+  },
+  "lastrevid": 17565372,
+  "modified": "2025-09-17T13:44:07Z",
+  "ns": 860,
+  "pageid": 172122,
+  "sitelinks": {},
+  "title": "Item:Q143737",
+  "type": "item"
+}

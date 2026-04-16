@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publicius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q144105$3897524E-56EC-4121-A8E3-DA61D6739A90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141455",
+              "numeric-id": 141455
+            }
+          },
+          "hash": "0bc81e665b2a15e1a0f067b23d0e56f4629ed89c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144105$759662C0-2666-4412-8C5C-3C7144914A34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144105$0DE18DA8-A12E-4EFB-8D7D-8C6F23DA079B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144105$5C28080D-394C-4F41-9B0A-C1A7B31B84E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144106",
+              "numeric-id": 144106
+            }
+          },
+          "hash": "97eacc7e4b84848cad960f2a482eec320b515a67",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144105$6B44198B-5C7A-49B6-9A59-0B6E12A0DAF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144105$49D2B615-BC82-4CFD-BA90-A26B871969D0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144105$911FA384-C62A-4479-9A9B-F8E164AABDFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q97825598"
+          },
+          "hash": "64f0c51a9af37b7d537c73beed797beaf7f8f701",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144105$2018AB0A-A251-4152-B906-ACAB9D39FC66",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publicius Arms.svg"
+          },
+          "hash": "6a50bf9eff283335ef50c3d4a2155a99e5b3becc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "father of Publicia the Flaminica Martialis"
+    },
+    "es": {
+      "language": "es",
+      "value": "padre de Publicia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyen romain du Ier s. av. J.-C., père de Publicia"
+    }
+  },
+  "id": "Q144105",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Publicius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publicius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publicio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publicius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publicio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publicius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publicio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публиций"
+    }
+  },
+  "lastrevid": 17566006,
+  "modified": "2025-09-17T13:53:06Z",
+  "ns": 860,
+  "pageid": 172490,
+  "sitelinks": {},
+  "title": "Item:Q144105",
+  "type": "item"
+}

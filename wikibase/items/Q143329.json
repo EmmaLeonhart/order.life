@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ascelin Gouel"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143329$23DA99A2-1FE6-46B8-90FE-979FDB614A22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00426941"
+          },
+          "hash": "d8e9e2de121e19814707fa8b07497b6c5cf35ccd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143329$F703D7DE-8625-43F6-98B1-216F7DED52BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143330",
+              "numeric-id": 143330
+            }
+          },
+          "hash": "9ebfd0b76a299160df2d3251c9a54f72391c2068",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143329$5883CD5E-04CE-4C60-A3CD-660317D9E3C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ivry-16"
+          },
+          "hash": "c5237d3bd31af0b561e806aa094c099775ed89aa",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143329$3D9EDC57-8D4F-4810-A6A9-EC3D29A347CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143329$A78B7AFE-FC8B-42C9-8EC3-7E43D12C17AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143329$F9DD60A0-B9EE-4C47-B2FE-A3A6379D4A1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123177",
+              "numeric-id": 123177
+            }
+          },
+          "hash": "9441f66ed5649447a3b76c070e339c6b93fa97a5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143329$5A733714-20C5-4F3C-9F0B-007AD7B215C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143329$741DCC85-F978-4C22-8E42-726EF7818069",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1045-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "52d283e1af1d7d9df00134379e705ab6f7748805",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143329$ACC3551C-43C6-4CA8-A0BC-6B357E0E4474",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1116-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "09cd987c4f58f47c52a1dcaa0bd26b4661e1d2fb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143329$39FB74DC-2B56-40DE-8268-6C6036835217",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111452971"
+          },
+          "hash": "939a244aa3ed63b1388b54f49ec40995e34973b5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143329$94D678C2-AA3F-497D-B7CD-C99625637CDC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ascelin;n=d ivry"
+          },
+          "hash": "7bfa44927b04be8d8c9d384fd023f8ddf8805752",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143329$71FA870F-0BE6-411D-B7C5-ABDD7F2B4912",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ascelin Gouel Arms.svg"
+          },
+          "hash": "b9ae94b354d7f07ab4f68fcc647150e7dc10c9d1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "( -c.1116/1119)"
+    },
+    "en": {
+      "language": "en",
+      "value": "11th & 12th-century French noble"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble normando"
+    }
+  },
+  "id": "Q143329",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Ascelin Goèl"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ascelin Gouel"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ascelin Gael de Perceval"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ascelin Goèl"
+    }
+  },
+  "lastrevid": 17564818,
+  "modified": "2025-09-17T13:36:17Z",
+  "ns": 860,
+  "pageid": 171714,
+  "sitelinks": {},
+  "title": "Item:Q143329",
+  "type": "item"
+}

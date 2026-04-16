@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elizabeth de Grey"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q145495$0CDE5B68-6FFD-4094-BF0C-D06DF0D2DD85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Grey-172"
+          },
+          "hash": "ecd8c4ab33852ebfa0ace9606d87bb224f565a15",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145495$4A052DD4-8678-4A01-B839-EE0602713D63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145495$E129329B-8905-4E47-A439-03D1F3407A0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145495$62D7AB71-3632-4E49-9F2F-77EF0565569D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149984",
+              "numeric-id": 149984
+            }
+          },
+          "hash": "fca89cdf4715f882c96d03bfc6465e07a327c2f2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145495$D4A99D93-1A58-4EAF-97EB-061C8A6D6E34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21260.htm#i212594"
+          },
+          "hash": "7e549b5285a4517836ee9f2064b6ed893cd0a688",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145495$F07AF491-0A9F-4131-87E6-BBC3A0E36DAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145493",
+              "numeric-id": 145493
+            }
+          },
+          "hash": "e92d05126d5cfb3c50e8ccc96f4959770c73b044",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145495$6DECE8A1-7B63-4277-9D41-ACF0CB9B2AB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142448",
+              "numeric-id": 142448
+            }
+          },
+          "hash": "51069e386f5587c878c7e39898e780044754b1dc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145495$129CAF64-ECC4-4710-80FE-7C66CF9C20FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145495$85BB4FE0-D86E-42CB-B553-50E021897A85",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1319-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b75e6aa3e9d19eaf3f2ccfef808bf0b5b2057a3e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145495$07E3B2AE-3713-4567-97F3-AB590D8B4615",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75559821"
+          },
+          "hash": "c0bce578d2d79e50e7b1a86d12b29ddae84a7f65",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145495$F37B0BCB-FCC2-43C2-8CFA-FBC5F9BB424A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth de Grey Arms.svg"
+          },
+          "hash": "e5f07b0a3667a4609a6b270809cf75c7228a8a69",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=212594"
+    }
+  },
+  "id": "Q145495",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elizabeth de Grey"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elizabeth de Grey"
+    }
+  },
+  "lastrevid": 17568600,
+  "modified": "2025-09-17T14:31:04Z",
+  "ns": 860,
+  "pageid": 173880,
+  "sitelinks": {},
+  "title": "Item:Q145495",
+  "type": "item"
+}

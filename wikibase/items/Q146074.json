@@ -1,0 +1,206 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cadwallan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146074$01A5E899-40DD-4328-9CA3-1B06393AA0CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00718317"
+          },
+          "hash": "956d12f5c6cddee50f274d1529447e8ef384475b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146074$69B18A8A-8EDC-4930-ACB4-F49FEC9051B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142870",
+              "numeric-id": 142870
+            }
+          },
+          "hash": "0d930ee8272c3822451fea21424c0b04e17b7df8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146074$9F264E80-AF13-4A84-9D7B-B181D77EDFE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146074$D8459A2A-A092-47AE-8A5F-A0D8E94F70A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146074$E63D2FA3-237F-4CA0-BAAE-81386B1CF5E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146075",
+              "numeric-id": 146075
+            }
+          },
+          "hash": "4ee7601f55fea8fb6c0cd9a66b217e74be5827e7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146074$4A1FFD64-AC6E-4ADA-9743-58AA7976BB9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150710",
+              "numeric-id": 150710
+            }
+          },
+          "hash": "688902fb2c53ad58aafeaec7cf99c3ba94f82b2e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146074$8C645C53-8E2A-40AB-8C32-28A6A2A9C497",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146074$0D8C679E-9692-4612-96D4-4FC17967F82D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99211919"
+          },
+          "hash": "2112dfd95d55dc7a239c46dfc534e2ca7b08a66d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146074$D86B97E8-6085-46FC-A1F3-0BD2261F4ACF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cadwallan Arms.svg"
+          },
+          "hash": "d62cb78b363cdb336a7138cbf27019b7926d7a88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q146074",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Cadwallan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cadwallan"
+    }
+  },
+  "lastrevid": 17569758,
+  "modified": "2025-09-17T14:47:13Z",
+  "ns": 860,
+  "pageid": 174459,
+  "sitelinks": {},
+  "title": "Item:Q146074",
+  "type": "item"
+}

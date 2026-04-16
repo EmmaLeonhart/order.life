@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elis ferch Thomas Jones"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142722$7C6E35DE-41E0-4364-92C6-4CB61B5EBA53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00750343"
+          },
+          "hash": "0765d60c86e1935da5951ecc834720a8bff1012b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142722$C4E15245-615F-48DC-9ACE-AAF804A2CDB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140445",
+              "numeric-id": 140445
+            }
+          },
+          "hash": "d7b03caeeb34e7c86a8b9fc72e3715122df283a4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142722$B11186BE-3F11-4235-B0E8-7B8D67FC548D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140446",
+              "numeric-id": 140446
+            }
+          },
+          "hash": "73b868c5362a63690c16db63dd1660ca7cfb29da",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142722$9998C051-10B3-43E3-9DF1-1451D2CF4B3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142722$C3022A81-0435-4C55-8027-D198FB432635",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142722$BC06E6E0-6943-4714-89A0-2EA27EB6371A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138929",
+              "numeric-id": 138929
+            }
+          },
+          "hash": "6e7e2210978868b6752e1114d2a5760702949232",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142722$7CEE765E-75E7-485A-9D0C-8D2D749F5555",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145846",
+              "numeric-id": 145846
+            }
+          },
+          "hash": "7c9d99d640d7c8d066d19cfc0eeaa17f608d2f7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142722$A77C4D36-1C7D-4DB6-A23D-5DBC3FF994D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145847",
+              "numeric-id": 145847
+            }
+          },
+          "hash": "e220ddcbef749cf32c1802792367964c3c9595bd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142722$6E44A56B-FA47-4865-AB4C-B723C741D673",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142722$DC8E3283-EE04-47F3-BEC2-F617DCBEFC1E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116155852"
+          },
+          "hash": "810e9856e6088624aecd7063f88fe7981d42e3e4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142722$8C078E96-8682-4816-AD9F-A2157C03ED04",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elis ferch Thomas Jones Arms.svg"
+          },
+          "hash": "38c03db8f7f3e2cab6642149dbc62ffe3fb20200",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q142722",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elis ferch Thomas Jones"
+    }
+  },
+  "lastrevid": 17563656,
+  "modified": "2025-09-17T13:20:01Z",
+  "ns": 860,
+  "pageid": 171107,
+  "sitelinks": {},
+  "title": "Item:Q142722",
+  "type": "item"
+}

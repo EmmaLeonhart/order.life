@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuri of Ryazan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143689$8480DE22-AEC4-44CE-B186-E5E34554F99F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "322565"
+          },
+          "hash": "2d57b8e2b7ed1551aaf301a70454ee98dc8893f3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143689$43A1A59B-8395-4DC5-B2E4-8C23F18F331B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147229",
+              "numeric-id": 147229
+            }
+          },
+          "hash": "7d662652f25ec00ecdb063183692cc8e39d32b42",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143689$6EE90128-135C-43AA-A65C-A7C8C445B373",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143689$DE7F8DD1-DB20-49DE-BCF0-8E29C747A564",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143689$7B8385D0-4905-4834-8FE4-DB2A67A2D745",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143686",
+              "numeric-id": 143686
+            }
+          },
+          "hash": "8180b52ce64d8aa61f3e077768de1965ea00f48f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143689$3DA5F1CF-4E19-41E8-B577-D263A7C65254",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127036",
+              "numeric-id": 127036
+            }
+          },
+          "hash": "fdd4808fcafb16ac082cc0bde73c316afd1576de",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143689$4A81A57D-8AB4-41FC-BBD1-D3A32FC63811",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143689$1827B5DE-06CB-4022-80B4-256A3D4561BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143689$CDF8BD24-6C43-4450-A6AF-5F8C77ADE774",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1237-12-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "31268831802a33d0d831cc592591d56c0b8eaab3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143689$46A33CB9-64F4-4EBB-97B9-EFC86A312F00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4534875"
+          },
+          "hash": "ac17c1af9714128a78b5727adc2a6b59af0c4624",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143689$802938F1-C778-4DD2-8093-90412276F129",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=georges;n=rurikides;oc=10"
+          },
+          "hash": "a7a86bbc97c25ed4d2e35685faa614bcfcd19b36",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143689$97FFFF41-19EB-4FD4-A99D-3F320A276734",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuri of Ryazan Arms.svg"
+          },
+          "hash": "6832edb24fc0e195596f8f6f10cc345545f50a7e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "velkokníže rjazaňský"
+    },
+    "en": {
+      "language": "en",
+      "value": "Grand Prince of Ryazan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "рязанский князь"
+    }
+  },
+  "id": "Q143689",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yuri of Ryazan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jurij Igorevič"
+    },
+    "de": {
+      "language": "de",
+      "value": "Juri Igorewitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuri of Ryazan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユーリー・イゴレヴィチ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Yuri dari Ryazan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yuri of Ryazan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юрий Игоревич"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јуриј Рјазањски"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юрій Ігорович"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尤里一世·伊戈列维奇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "尤里一世·伊戈列维奇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "尤里一世·伊戈列維奇"
+    }
+  },
+  "lastrevid": 17565284,
+  "modified": "2025-09-17T13:42:52Z",
+  "ns": 860,
+  "pageid": 172074,
+  "sitelinks": {},
+  "title": "Item:Q143689",
+  "type": "item"
+}

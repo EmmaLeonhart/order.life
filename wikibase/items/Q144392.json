@@ -1,0 +1,521 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Gnaeus Domitius Lucanus"
+      },
+      {
+        "language": "de",
+        "value": "Gnaeus Domitius Tullus"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Domitius Tullus"
+      },
+      {
+        "language": "en",
+        "value": "Gnaeus Domitius Lucanus"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Cneo Domicio Lucano"
+      },
+      {
+        "language": "es",
+        "value": "Cneo Domicio Tulo"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Cnaeus Domitius Lucanus"
+      },
+      {
+        "language": "fr",
+        "value": "Cnaeus Domitius Tullus"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Gneo Domizio Lucano"
+      },
+      {
+        "language": "it",
+        "value": "Gneo Domizio Tullo"
+      }
+    ],
+    "la": [
+      {
+        "language": "la",
+        "value": "Gnaeus Domitius Lucanus"
+      },
+      {
+        "language": "la",
+        "value": "Gnaeus Domitius Tullus"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "Gnaeus Domitius Lucanus"
+      },
+      {
+        "language": "nl",
+        "value": "Gnaeus Domitius Tullus"
+      }
+    ],
+    "pt": [
+      {
+        "language": "pt",
+        "value": "Cneu Domício Lucano"
+      },
+      {
+        "language": "pt",
+        "value": "Cneu Domício Tulo"
+      }
+    ],
+    "pt-br": [
+      {
+        "language": "pt-br",
+        "value": "Cneu Domício Lucano"
+      },
+      {
+        "language": "pt-br",
+        "value": "Cneu Domício Tulo"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q66946$BA6B5250-7CBE-4879-A6F0-A6483F26A1B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736241"
+          },
+          "hash": "a9bf2b7394dbcb700f1e35da20ada8e08eb2dc57",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q66946$2DC983D2-9CAC-4154-A0B6-1A1D9B004884",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q65552",
+              "numeric-id": 65552
+            }
+          },
+          "hash": "d34cf5db46564cdf69c20e8af492f082b7c01f26",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q66946$E795AEBF-E080-47C7-85E1-70B72A75DF16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66946$F5CF2275-D43A-4248-9B55-B37A50943771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q66946$8881FADC-0CB7-4E23-A533-9AE971180A00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q66916",
+              "numeric-id": 66916
+            }
+          },
+          "hash": "19c33c82fe0af29d64b4bff06831688070f2226c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66946$2D26DCD6-1FF6-4748-8CBB-6720B142B03D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144394",
+              "numeric-id": 144394
+            }
+          },
+          "hash": "be489496e689205d64b587ad0daa85fac598d6ab",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66946$5E01E382-9D76-4559-91AC-643ACEC1D227",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77113",
+              "numeric-id": 77113
+            }
+          },
+          "hash": "92989824970db68480a02c49c924cd67789869a0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q66946$2FC02B7F-9C08-4D6E-B1FA-1921EA4424D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68554",
+              "numeric-id": 68554
+            }
+          },
+          "hash": "3c2c6a8eae69e76cf38dc94c93a5bfd2e538e211",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q66946$82EB1ECE-EA07-4ECA-A9EA-445E558FCE43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68521",
+              "numeric-id": 68521
+            }
+          },
+          "hash": "5ee0722b161a8e05e7f565471262ecc70132bf64",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q66946$F5D9C21A-24C1-4A94-BF39-6080AE7082AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q66946$17272C10-B1D8-47F0-83CF-269812FB5F1E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q66946$FBBBB6F2-7964-4810-9555-3CA12C89CE71",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q66946$6CA278F6-618B-4F1B-BC4A-759F0E96BB7C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q684275"
+          },
+          "hash": "0d2b4ee8364996d4df0d9a266ba2872e948ff3d2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q66946$D4D84737-1988-4A75-9A4A-6223AC75DEE1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q35691900"
+          },
+          "hash": "0060c309b8e9bdefb1866c47ca3179787b5da9f2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q66946$F373FEDD-EC4C-41B5-B647-4640F44D461E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003828204054"
+          },
+          "hash": "90032ae4dd92f572b5dc7a7dbb625806f02f0440",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q66946$56A75EDB-9E1F-4454-A04D-07C6613E7CD5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Domitius Lucanus Arms.svg"
+          },
+          "hash": "d9592b5a10888cd232644c889b352b1a018e91fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Senator und Konsul 98"
+    },
+    "en": {
+      "language": "en",
+      "value": "great-grandfather of emperor Marcus Aurelius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "1세기 로마인 원로원 의원 및 군 지휘관"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q66946",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Домиций Тул"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Domitius Lucanus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Δομίτιος Τούλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Domitius Lucanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Domicio Lucano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Domitius Lucanus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gnaeus Domitius Tullus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Domizio Lucano"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그나이우스 도미티우스 툴루스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Domitius Lucanus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Domitius Lucanus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Domício Lucano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Domício Lucano"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Доміцій Тулл"
+    }
+  },
+  "lastrevid": 17477872,
+  "modified": "2025-09-16T16:48:42Z",
+  "ns": 860,
+  "pageid": 81777,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q66946",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q66946"
+    }
+  },
+  "title": "Item:Q66946",
+  "type": "item"
+}

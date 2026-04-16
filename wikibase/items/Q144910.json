@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John de Brus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q144910$94A6BC6F-039D-40D5-849D-BE46B9A0F884",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144910$FE0172A3-FD68-4537-8A2F-9EFA17832068",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144910$34032172-F5B9-4452-992B-0C2C0793FF73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144908",
+              "numeric-id": 144908
+            }
+          },
+          "hash": "f5039473108b53d0165707f24312e2697aa06593",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144910$C00DB229-E8D4-4C96-8B59-49A01D2DAC23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142152",
+              "numeric-id": 142152
+            }
+          },
+          "hash": "46398052db0d6340e13e339d54fdeda5ae3929b5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144910$B955AEE1-5DAC-457B-AC77-53E61409CFC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144910$8B378451-FA70-484B-86FE-AB1AA7867FCF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1275-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c086df062ce908512000584d31a0d980a02367e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144910$9EAE68ED-821C-44D8-92BD-CBA0DDBF61DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96384693"
+          },
+          "hash": "4a0fb018df74c8a8a9e7851236117ae78461b0a6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144910$AA98D657-57D9-4C72-97F0-B00F9C433AA0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John de Brus Arms.svg"
+          },
+          "hash": "1783987afe03fc64d8345e1b4ebd0aa63219220f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "13th century English noble"
+    }
+  },
+  "id": "Q144910",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John de Brus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John de Brus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "約翰·布魯斯"
+    }
+  },
+  "lastrevid": 17567444,
+  "modified": "2025-09-17T14:14:19Z",
+  "ns": 860,
+  "pageid": 173295,
+  "sitelinks": {},
+  "title": "Item:Q144910",
+  "type": "item"
+}

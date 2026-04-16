@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sergius Octavius Laenas Pontianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144248$6A47310B-0784-4A69-A5CF-73899829FC67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735614"
+          },
+          "hash": "7f139026fbf9532d0e68a35647de739cf5a0a217",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144248$09EB8B79-0F15-49BF-913D-7B5F395421D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144248$EB7D0642-33DF-40C0-B999-403327945578",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144248$2E6F7230-3F50-4297-AF10-FCF9DA289167",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141588",
+              "numeric-id": 141588
+            }
+          },
+          "hash": "2e95ba1ad2501ad991d44facb8e6c2acc939cb86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144248$6705C77B-A5E2-4B11-A387-931D47016538",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144248$27BFC4D8-5C38-4D1B-8A4E-18A419C720B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144248$FE0A5D61-F9E6-41FA-ABE8-587B113682E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q748946"
+          },
+          "hash": "febfe6ce74ba107c72dd4baaa0c397f41c730680",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144248$22F75DB2-F811-4919-9572-34BB0111CC9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sergius Octavius Laenas Pontianus Arms.svg"
+          },
+          "hash": "78e96baa7751e1625801013e0ac1f0ddf8cddd2e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol romà"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul (131)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 131 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q144248",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Сергий Октавий Ленат Понтиан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Servi Octavi Lenat Poncià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sergius Octavius Laenas Pontianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέργιος Οκτάβιος Λαίνας Ποντιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sergius Octavius Laenas Pontianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sergio Octavio Lenas Ponciano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sergius Octavius Laenas Pontianus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sergio Octavio Lenas Ponciano"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sergio Ottavio Lenate Ponziano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sergius Octavius Laenas Pontianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sergius Octavius Laenas Pontianus"
+    }
+  },
+  "lastrevid": 17566246,
+  "modified": "2025-09-17T13:56:27Z",
+  "ns": 860,
+  "pageid": 172633,
+  "sitelinks": {},
+  "title": "Item:Q144248",
+  "type": "item"
+}

@@ -1,0 +1,423 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Calpurnius Piso"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144154$D42311DB-B479-44F2-8242-1FEB6AEAA889",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00801008"
+          },
+          "hash": "3ae976622ac2651960111f925236f76b15de507e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144154$0FB990D3-D722-492A-8092-80D1B3090973",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144156",
+              "numeric-id": 144156
+            }
+          },
+          "hash": "9513dcee02c92a6d3a5f0ca917b7849aa6fb8463",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144154$2F80FD43-5E81-486A-B754-BBF98E48B441",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144155",
+              "numeric-id": 144155
+            }
+          },
+          "hash": "9bd7fca4c22898a9867a2ab6cb7a658c5dfc4a4e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144154$EBC2E2EF-159E-4F05-BB82-1A669772A18B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144154$0ED65855-5026-47C6-9EBE-26188459E847",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144154$26FD82E9-D795-43FF-B1E6-45F7115089AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141498",
+              "numeric-id": 141498
+            }
+          },
+          "hash": "b86a9150d0b7f2d91f7cadc6b00d668bf18d478d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144154$2E794313-05AB-4A61-8AA5-829D2755EDAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148127",
+              "numeric-id": 148127
+            }
+          },
+          "hash": "29ca1f1f4f1289c102b94d13407748a45e84ab44",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144154$E48FB283-5B5D-4D7D-931A-C8FDD32018C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144154$64E925E9-4161-4DE9-9678-AC96112B6381",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144154$FA359AE3-B2A0-40B9-973C-A9CB82A8C2B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0020-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "92e1802ad08cbef1ae843fd7fe4139676d215111",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144154$34E4D27B-EB65-4973-86B2-109EF826334F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q453845"
+          },
+          "hash": "d4fea4438bced488ea1b95165fd8cd1a56b94fbf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q144154$AA0CEC97-22C0-431A-B389-A5019856C996",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26329"
+          },
+          "hash": "61fe461d6613f7b28571ab81ab85ff54a93f97ea",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144154$FC8A2B98-C2B7-4B70-A2B8-943B78A3733E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Calpurnius Piso Arms.svg"
+          },
+          "hash": "d8cf14ecdd68f282dd24450e184593dda0f6af86",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker zur Zeit der Kaiser Augustus und Tiberius; Konsul 7 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician convicted of killing the imperial heir apparent Germanicus"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 7 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "militare e politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (100v Chr-20)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 7 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "MÖ 7 yılında Konsül olan Romalı devlet adamı"
+    }
+  },
+  "id": "Q144154",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Калпурний Пизон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Calpurni Pisó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Calpurnius Piso"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Καλπούρνιος Πίσων (ύπατος το 7 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Calpurnius Piso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Calpurnio Pisón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Calpurnius Piso"
+    },
+    "he": {
+      "language": "he",
+      "value": "גנאוס קלפורניוס פיסו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cneo Calpurnio Pisón"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Calpurnio Pisone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・カルプルニウス・ピソ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Calpurnius Piso"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Gnėjus Kalpurnijus Pizonas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaius Calpurnius Piso"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gnejusz Kalpurniusz Pizon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Calpúrnio Pisão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Calpúrnio Pisão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Кальпурний Пизон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gnej Kalpurnije Pizon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gnaeus Calpurnius Piso"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гнеј Калпурније Пизон"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gnaeus Calpurnius Piso"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Кальпурній Пізон"
+    }
+  },
+  "lastrevid": 17566082,
+  "modified": "2025-09-17T13:54:09Z",
+  "ns": 860,
+  "pageid": 172539,
+  "sitelinks": {},
+  "title": "Item:Q144154",
+  "type": "item"
+}

@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwenhwyfar ferch Ynyr Fychan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145814$BD6B61FB-8B30-45D6-8509-58D9CB925C1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00754656"
+          },
+          "hash": "1f41d39b05e846cc535a4ed06242d8b1e4db8b4b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145814$2BF31BD6-D2A1-4971-B036-B6F5EB5622B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148545",
+              "numeric-id": 148545
+            }
+          },
+          "hash": "edf66d3fd502ba007c30cb202c76158d5b61585a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145814$D1893A90-0EB3-4218-B3D3-75F496C51AF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148546",
+              "numeric-id": 148546
+            }
+          },
+          "hash": "3fa8041f95da1d5101ab69f19f35a6b524ed038c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145814$97C1F1C2-D072-43B2-87C5-E38D6B7589C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148544",
+              "numeric-id": 148544
+            }
+          },
+          "hash": "e410b7849c09fa2fa78c86203199bd960ab2eb3c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145814$29ADBBD1-207F-4D81-A488-D4BF24C1F389",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145814$A3C1DE4D-4B29-4D18-93E2-5961F9EFFFC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145814$A8A62EA1-3769-46AB-AF9E-23F17C0626DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144558",
+              "numeric-id": 144558
+            }
+          },
+          "hash": "0e1fa103f2b4e142d51e9849600ad0290a193b7e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145814$BCFF8CB6-A9EF-4567-9767-5DA2CDC6090A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142701",
+              "numeric-id": 142701
+            }
+          },
+          "hash": "6d561c70909446d5c2c8f08cc04891b702523653",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145814$6030F66C-328D-4826-A58B-C0652B8F7EB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142702",
+              "numeric-id": 142702
+            }
+          },
+          "hash": "f9835e2a1fa6d741635a080b454f91fe57ad42c9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145814$8536F4D0-7D3D-4609-89C2-A92F0BBDAF97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145814$5296BA7B-1E7C-4AE0-80BB-6F6403CDCDFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110290288"
+          },
+          "hash": "9be49c92a681d371c3aca81e6aacc1037b64d4e3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q145814$B17338BC-D4CD-4BA1-A98E-493441FDAF08",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenhwyfar ferch Ynyr Fychan"
+          },
+          "hash": "07cb3fdbf57f24313a809947519479c28fddb814",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145814$42507FB7-E593-4F7D-ABB3-855CF58F5107",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenhwyfar ferch Ynyr Fychan Arms.svg"
+          },
+          "hash": "d2db0f754e76bad690956673e837025a17c1c95c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q145814",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gwenhwyfar ferch Ynyr Fychan"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwenhwyfar ferch Ynyr Fychan"
+    }
+  },
+  "lastrevid": 17569238,
+  "modified": "2025-09-17T14:39:59Z",
+  "ns": 860,
+  "pageid": 174199,
+  "sitelinks": {},
+  "title": "Item:Q145814",
+  "type": "item"
+}

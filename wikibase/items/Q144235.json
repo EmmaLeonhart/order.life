@@ -1,0 +1,337 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Cornelius Lentulus Augur"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144235$78C67247-7D8C-41E0-AFCF-A5FCC29C3771",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465097"
+          },
+          "hash": "91352fbfea17743fabd275bdb90e555fbd48360f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144235$10E101F7-437C-40F2-8127-BDA249D3D1F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144236",
+              "numeric-id": 144236
+            }
+          },
+          "hash": "8cf1a40ab15ea8971ce1235150350c8748229b8a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144235$886912F8-C9AB-43EC-B861-2568004B3DF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141580",
+              "numeric-id": 141580
+            }
+          },
+          "hash": "946a2b83f98eb80fadb33e5196d00bd38ae1607f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144235$ED18CC7D-784F-425D-8619-C7E36EF74735",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144235$F740D9DD-F1C3-41E1-A785-142DC071B06A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144235$543B893F-F0E2-4B89-B139-F209310E53CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148039",
+              "numeric-id": 148039
+            }
+          },
+          "hash": "63f1c4fd8007df23d10ac454e9de25e106c877c0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144235$08629C25-6990-486E-AF66-2D6B390EBB81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144235$7220E0D8-4CE0-45CC-A431-35221E409830",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144235$A4696B0D-B409-47A2-921F-908305B3AA36",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0025-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66fa93d34f585ae27286ff35da2e3b365d198878",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144235$BAEAE0AA-23F4-4ADF-A1E5-47441A8C2C99",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q729415"
+          },
+          "hash": "9f6b410c6eb5d3ab99b3c818ae73ad770d9c076e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144235$04CA9C76-2865-4292-9D70-0762E69007F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Cornelius Lentulus Augur Arms.svg"
+          },
+          "hash": "7bf4eb719f7e036922d02534bc84ff2c67f71c4c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 14 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 14 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 14 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 14 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico, militare e senatore romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (100v Chr-25)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "polityk rzymski"
+    }
+  },
+  "id": "Q144235",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Корнелий Лентул Авгур"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Corneli Lèntul Àugur"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Cornelius Lentulus Augur"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Κορνήλιος Λέντουλος Οιωνοσκόπος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Cornelius Lentulus Augur"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Cornelio Léntulo Augur"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Cornelius Lentulus Augur"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gneo Cornelio Léntulo Augur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Cornelio Lentulo l'Augure"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Cornelius Lentulus Augur"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Cornelius Lentulus Augur"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gnejusz Korneliusz Lentulus Augur"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Cornélio Lêntulo Áugure"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Cornélio Lêntulo Áugure"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gnaeus Cornelius Lentulus Augur"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Корнелій Лентул Авгур"
+    }
+  },
+  "lastrevid": 17566224,
+  "modified": "2025-09-17T13:56:09Z",
+  "ns": 860,
+  "pageid": 172620,
+  "sitelinks": {},
+  "title": "Item:Q144235",
+  "type": "item"
+}

@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fundania Plautia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144372$1E0985F3-ACB2-4E1E-B286-35DF7750F2D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736112"
+          },
+          "hash": "9ade898619a7458653005b9297598d9993c4ad38",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144372$8C37A70C-B363-4550-A62C-4835C5432DC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144374",
+              "numeric-id": 144374
+            }
+          },
+          "hash": "a490fb8f0813c29e15b70d621ee625a38dc673ed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144372$7467A8C4-0DC9-41E9-B9D8-37A3FBEE39AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144373",
+              "numeric-id": 144373
+            }
+          },
+          "hash": "619f1d853f8c03221975840d2bb6c85a609a497d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144372$285136BB-A518-47DD-A8DE-F3958AD3AF05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144372$D6D3AFFB-7287-4B48-8EF4-37DA47A6C251",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144372$D1185F0E-D5B4-4B39-BE6D-B51E7BBE8790",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141755",
+              "numeric-id": 141755
+            }
+          },
+          "hash": "bf2b0e7e02f5c056f714d59f5677f5d2e58caadb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144372$73ED8F1E-5127-4F4D-B226-F91E3BBDCCAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144398",
+              "numeric-id": 144398
+            }
+          },
+          "hash": "42844f25c90edf4649d18cde0453848496db460f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144372$200CBA86-7A3E-4E4E-84A3-DD74D1B6230D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144370",
+              "numeric-id": 144370
+            }
+          },
+          "hash": "272e3fb4325ecf8f0ce00412321c06a21fc23ac8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144372$75E816B4-1867-4CAC-AF84-3CA8EA4BCBD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144372$54882030-5ADF-44FD-AE21-BC7E912B18E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104842701"
+          },
+          "hash": "b1e9f289cfcf18270491a4a6bfd7f4a02d1674f5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144372$E01CD5B1-32C5-416D-8027-A2AB244B690F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fundania Plautia Arms.svg"
+          },
+          "hash": "9ab3baa71cb925a45181ebb8ffab4197a5ed2d9e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Marcus Annius Libo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Marcus Annius Libo"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "fru till Marcus Annius Libo"
+    }
+  },
+  "id": "Q144372",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Fundania Plautia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fundania Plautia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fundania Plautia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fundania Plauzia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Fundania Plautia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Plautia Fundania"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fundania Plautia"
+    }
+  },
+  "lastrevid": 17566452,
+  "modified": "2025-09-17T13:59:37Z",
+  "ns": 860,
+  "pageid": 172757,
+  "sitelinks": {},
+  "title": "Item:Q144372",
+  "type": "item"
+}

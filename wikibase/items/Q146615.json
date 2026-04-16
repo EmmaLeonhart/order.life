@@ -1,0 +1,307 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William V, Count of Nevers"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146615$10580037-7AF5-4376-B964-2D1DE34A334E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00122072"
+          },
+          "hash": "0be71c7e69dd6144b6ae8d3b46fe065dce3173bf",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146615$B6BAA13C-F76D-449E-8BD6-2925345D95E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146615$21168A73-175C-4936-8016-27BE3DFB89BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146615$E53C086B-2372-477F-BB6F-8ACD3EA484B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146613",
+              "numeric-id": 146613
+            }
+          },
+          "hash": "b6c61493a6ab0618c051e3b44b10e373ff9038a5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146615$97E70498-A065-44D6-BFA4-461944697A83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123291",
+              "numeric-id": 123291
+            }
+          },
+          "hash": "b7a3a410533f8bef3dbf03e0316be40d629cf417",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146615$FAA1A925-7C9F-4DC3-91FF-CBEB44E07B94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146615$81424B52-ED5C-475A-A6EE-EA72E7EA892B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1168-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94d893866317bd85bdb808239bcbe5e72c50f776",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146615$F922D0B7-794A-47E3-BA91-40D741CD1F3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1181-10-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b71ec4c600edbf474927c173b2803d1f6d43892",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146615$4E53E832-E6FA-4AEC-A21E-5CA6A0222B2F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2566215"
+          },
+          "hash": "3bce81411c829c5a58e2d06deba24eb78d5de681",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146615$F3F1D337-A447-42CB-8F31-0F249651E71A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guillaume;n=de nevers;oc=5"
+          },
+          "hash": "478ef9e6e2b6756617dacaa12a4b90128300b058",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146615$C724CE5F-7A75-4030-9812-12BA4CEA63A4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William V, Count of Nevers Arms.svg"
+          },
+          "hash": "5c4fc8aff3a16fef506db4baa9a358d3e3788815",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "French Count"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte bourguignon"
+    }
+  },
+  "id": "Q146615",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "وليام الخامس كونت نيفيرز"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Guillem V de Nevers"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκιγιώμ Ε΄ ντε Νεβέρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "William V, Count of Nevers"
+    },
+    "es": {
+      "language": "es",
+      "value": "William V, Count of Nevers"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume V de Nevers"
+    },
+    "id": {
+      "language": "id",
+      "value": "Guillaume V dari Nevers"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギヨーム5世 (ヌヴェール伯)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Willem V van Nevers"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Guillaume al V-lea de Nevers"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гильом V"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "William V, Count of Nevers"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "威廉五世 (尼維爾)"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "威廉五世 (尼維爾)"
+    }
+  },
+  "lastrevid": 17570794,
+  "modified": "2025-09-17T15:01:59Z",
+  "ns": 860,
+  "pageid": 175000,
+  "sitelinks": {},
+  "title": "Item:Q146615",
+  "type": "item"
+}

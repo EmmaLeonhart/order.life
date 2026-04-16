@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwenllian ferch Rhys ap Marcham ap Cynwrig"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144855$D7E00C99-82DE-4511-A719-C726AFA8B29B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00760179"
+          },
+          "hash": "1d61be95fa0b61a62528733e1096a16946d48512",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144855$D302B834-53DC-402D-95E8-8E59F1984B74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142126",
+              "numeric-id": 142126
+            }
+          },
+          "hash": "d4f098a719254039da63c3d63de25ae462e7f849",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144855$DC737663-3DA1-4C85-A4EE-904F5286B901",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Rhys-26"
+          },
+          "hash": "cc14e6cbbb6d45f3d02ee3e0171930425512af23",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144855$44EDE82A-C8E8-4C20-9DA1-2EC9D3235930",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144855$DCCF17E3-727A-4365-9810-5D2E66AE97F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144855$44E1FC30-7A50-4F7B-8012-B00B9B66FCC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144854",
+              "numeric-id": 144854
+            }
+          },
+          "hash": "00b99a54dc4cfc251ac9eb26773dfd90be86985e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144855$D0E608C7-4955-4E6B-809A-02447921AC45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144755",
+              "numeric-id": 144755
+            }
+          },
+          "hash": "b8e2b617619a2c60ef943833b37609c9438a967f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144855$D3C78E29-9F7D-4F32-AA3C-605A225EBF66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144855$16A7960C-F961-4C5E-96AB-45485E070A94",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1010-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb1afa6144b95c79774fa2b2f6a37f1d223ee63e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144855$11DFE996-77E8-49AF-AFEC-6E6317B5A843",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110152931"
+          },
+          "hash": "e2985646fe7ac1444dbc39c5f0e957a4fbca11ee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q144855$889A0CC2-4A94-40AC-9695-D910360AAC7F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenllian ferch Rhys ap Marcham ap Cynwrig"
+          },
+          "hash": "a4dd8401925722becb8be22ebaac8e806967face",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144855$68F83534-0C84-4BC0-83B1-998619707F2A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenllian ferch Rhys ap Marcham ap Cynwrig Arms.svg"
+          },
+          "hash": "1aaea889a77d6594e59d53529a5d1e0cfc8976f6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1010 -"
+    }
+  },
+  "id": "Q144855",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gwenllian ferch Rhys ap Marcham ap Cynwrig"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwenllian ferch Rhys ap Marcham ap Cynwrig"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gwenllian ferch Rhys ap Marcham ap Cynwrig"
+    }
+  },
+  "lastrevid": 17567344,
+  "modified": "2025-09-17T14:12:53Z",
+  "ns": 860,
+  "pageid": 173240,
+  "sitelinks": {},
+  "title": "Item:Q144855",
+  "type": "item"
+}

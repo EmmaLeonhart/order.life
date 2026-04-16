@@ -1,0 +1,474 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Micipsa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144293$3C1B7A89-4C89-404A-A8ED-B8D315D5CFBB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "379596"
+          },
+          "hash": "643617b8bdf3c7bc4a77dd76bc24adf7dffac3b5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144293$B70848E7-F0D2-4B18-ADEA-432F884CD32B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144297",
+              "numeric-id": 144297
+            }
+          },
+          "hash": "762a779a789cb6bcc5e0b98838685e95d869c016",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144293$E826B739-BFC8-45A4-959C-931093E4676F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148224",
+              "numeric-id": 148224
+            }
+          },
+          "hash": "ee877db01cf87725c25780857c3e9be4e5d94b08",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144293$49E1A665-D379-4413-8534-7828C4B17BD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144293$1BE0121C-741A-4FD0-B397-941DB34411A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144293$228B459E-F8CB-4617-BE52-37D5CCD08604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71786",
+              "numeric-id": 71786
+            }
+          },
+          "hash": "7d8db2513927df4af927a575e92749212fb7df29",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144293$D43D4857-CE05-421C-B578-241B30C336C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144293$F5DC374C-1A13-4B44-8E44-9AFFA904E8D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144293$526E96BA-6B19-479E-B83B-F3E5FD8670F2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0118-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "722d796ebbfb7709540535573b27b6cd99918709",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144293$84837CB5-7D8F-4E10-BD2C-F7CD6F080F0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q54223"
+          },
+          "hash": "722b710a12e3f68f6815d70f75c73c9641ff286d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144293$74D6635C-072B-4CA4-8EFB-32DE144D0105",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Micipsa Arms.svg"
+          },
+          "hash": "bdd6d1b0bf1d38508bf282b19cf8fa2b84922198",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q144293$1EAFF689-4CDF-4F63-A636-72C9442551E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/c2e8a390-17ab-4d31-b1d2-76110cb7c467"
+          },
+          "hash": "8e5e77a97931177505f3123d3f725ccb1c9f7a2b",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Numidien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλέας της Νουμιδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Numidia"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo y sucesor de Masinisa, fue un rey de Numidia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Numidie"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rei de Numidia."
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך נומידיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "numida király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Numidia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヌミディアの王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning van Numidië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Numidii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Нумидии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Numidien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Царь Нумідії"
+    }
+  },
+  "id": "Q144293",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ميسيبسا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ميسيبسا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Міцыпса"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Миципса"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Micipsa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Micipsa"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Micipsa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μικίψας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Micipsa"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Micipsa"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Micipsa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Micipsa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Mizipsa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Micipsa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Micipsa"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Micipsa"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Μικίψας"
+    },
+    "he": {
+      "language": "he",
+      "value": "מיקיפסה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Mikipsza"
+    },
+    "id": {
+      "language": "id",
+      "value": "Micipsa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Micipsa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ミキプサ"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Misipsa"
+    },
+    "la": {
+      "language": "la",
+      "value": "Micipsa"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Micipsa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Micipsa"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Micipsa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Micypsa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Micipsa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Micipsa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Миципса"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Micipsa"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Micipsa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Міціпса"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米西普萨"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "米西普萨"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "米西普萨"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "米西普薩"
+    }
+  },
+  "lastrevid": 17566322,
+  "modified": "2025-09-17T13:57:34Z",
+  "ns": 860,
+  "pageid": 172678,
+  "sitelinks": {},
+  "title": "Item:Q144293",
+  "type": "item"
+}

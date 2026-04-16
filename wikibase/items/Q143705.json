@@ -1,0 +1,787 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eric X of Sweden"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143705$ECA78579-8502-4851-B89B-227A9D08D36F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "863131"
+          },
+          "hash": "8eed8844101f1332dad1f30015a3e668fb3ab279",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q143705$F03CA654-8E4B-4795-9C8D-444A8E43430A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00079670"
+          },
+          "hash": "9950f19c364de31bad59b7e4ff8f5795e5f22644",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143705$40679D3A-BE82-44E4-867A-522560A22F88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146554",
+              "numeric-id": 146554
+            }
+          },
+          "hash": "7cd59c5c802198aca8b555074c97195d3b5c1138",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143705$EE972DCE-ACCA-4B26-A215-655D1253D2FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146553",
+              "numeric-id": 146553
+            }
+          },
+          "hash": "0774127828f3918df8e75da517807dc68026e7d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143705$7C427E75-36BE-4CF9-92F9-51AED62F518F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146556",
+              "numeric-id": 146556
+            }
+          },
+          "hash": "de3357696a48aa38d40e2613af9515d012dafdd3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143705$774AC0DF-BFB5-43FC-B537-CDF912468461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146555",
+              "numeric-id": 146555
+            }
+          },
+          "hash": "ba515334a9a77877e01dda2750a4104757597076",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143705$9DD37BFA-F326-4124-A0C6-F31DA96D642A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146557",
+              "numeric-id": 146557
+            }
+          },
+          "hash": "752814458db6debdd00c395fdedb833f5c7597e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143705$2DDB6508-7D2F-472F-A7E1-803B511D7246",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146558",
+              "numeric-id": 146558
+            }
+          },
+          "hash": "a2635ca73985c54438856f54b801a92139d3892b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143705$23DAA514-FACE-4CC3-AEE5-A2880CD06587",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147252",
+              "numeric-id": 147252
+            }
+          },
+          "hash": "c4d274ad8695332beba1cb0e4cf7979bc28d97fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143705$AD669DD0-6F7C-44BB-8BA5-67265B42AF9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Knutsson-45"
+          },
+          "hash": "067c83a7477eeca822d1b8628e42abe045739e2a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3217": [
+      {
+        "id": "Q143705$AC87B38A-ECED-495A-804A-4BBD5A344FA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "15401"
+          },
+          "hash": "6a8e490f8984200f0fc7db76ab2308bb5d099f07",
+          "property": "P3217",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143705$1D2DD988-39EC-412C-863D-902E555180F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143705$5976FE80-53E3-4EAF-8977-1F63B9F22F32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143705$A6A4B468-5E45-412E-8826-9F7102B58823",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Eric_X_of_Sweden_(1)"
+          },
+          "hash": "9a4196087459fc61892c90e9cef44213077cb149",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143705$1A4F1FA1-F07D-40AC-93A6-E504E43543E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128022",
+              "numeric-id": 128022
+            }
+          },
+          "hash": "fd9de922e993395fe5e48c3ae84edb0e7f81c40e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143705$654034A4-73BB-48A2-968D-43C069CC8D41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p4281.htm#i42801"
+          },
+          "hash": "842a99e1918221f7ecc138e5c19a426f182a2fb6",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143705$2712E79A-224D-41E5-A6C3-0C2750C11A6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141118",
+              "numeric-id": 141118
+            }
+          },
+          "hash": "88d67f37c292e9e7cc83b740432628f04fecb709",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143705$31E0223E-7D67-48CC-8A84-824A5103C12F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128016",
+              "numeric-id": 128016
+            }
+          },
+          "hash": "86cace558bb6a416cfdaddf80d55bc65b78c7bc7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143705$C9212A2D-F2E4-44D1-9154-2372858F6C6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143705$7426B1D5-CCB4-401B-92AE-1D83909F12A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1180-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e2c5bd4a3ab345c6657a482303c50f29aeb36a68",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143705$6BA46327-7EB6-411D-A534-C5B3EFCCB52B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1216-04-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e2cddd20e23affa4c707099369ed2a52cb5fa23d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143705$4E9CE814-3BBF-4959-AC3F-C8A06F4159BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q365103"
+          },
+          "hash": "894528b23a47dfc13649d61c6cdb570f8690b4e1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143705$BE3DF998-6842-4A16-BE7A-2815BF49CD72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4102767"
+          },
+          "hash": "41f87bb926f3d9cb45d5b52180c53014a2af5efd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143705$FF70E4BA-3F61-4565-8B7A-82970C4F00F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=erik;n=erikatten;oc=10"
+          },
+          "hash": "28a85a7292d528da5f5c9ce694964a27db3cc767",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q143705$7B2C712A-8D4C-48F6-9252-4DE0D666BE25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.814"
+          },
+          "hash": "d9be8d28f70e630971b08ee275fb7b6c39552a40",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143705$C92EC0BA-223D-4173-A5EA-A84FBD8B9147",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eric X of Sweden Arms.svg"
+          },
+          "hash": "41929d315999db71dc67927b4d01f6d8ff7c9757",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q143705$ACB5583B-BD27-4ACD-AE1D-70F0CB38977F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/17FC2491-F43B-4D1E-A4B4-96EAA43A947A"
+          },
+          "hash": "4a270382d6bec729bd32706656c12ba8e506d6a7",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي سويدي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu suecu (1180–1216)"
+    },
+    "be": {
+      "language": "be",
+      "value": "кароль Швецыі (1208—1216)"
+    },
+    "br": {
+      "language": "br",
+      "value": "roue Sveden"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític suec"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "švédský král"
+    },
+    "da": {
+      "language": "da",
+      "value": "konge af Sverige"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Schweden"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς της Σουηδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Sweden (1180-1216)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político sueco"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari suediarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique suédois"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí na Sualainne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político sueco"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Svédország királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Svezia (r. 1208-1216)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "第3代エリク朝スウェーデン国王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zweeds politicus (1180-1216)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko suiso"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Szwecji w XIII wieku"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político sueco"
+    },
+    "se": {
+      "language": "se",
+      "value": "ruoŧa politihkkár"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Sverige 1208–1216"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İsveç kralı (1180-1216; hd. 1208–1216)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1180-1216)"
+    }
+  },
+  "id": "Q143705",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "اوْنونجو اریک"
+    },
+    "be": {
+      "language": "be",
+      "value": "Эрык X"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ерик X (Швеция)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Erik X"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eric X"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Erik X. Švédský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Erik Knutsson af Sverige"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erik X."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος Ι΄ της Σουηδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eric X of Sweden"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Eriko la 10-a de Svedio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Erik X Knutsson"
+    },
+    "et": {
+      "language": "et",
+      "value": "Erik Knutsson"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اریک دهم سوئد"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Eerik X Knuutinpoika"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Éric X de Suède"
+    },
+    "he": {
+      "language": "he",
+      "value": "אריק העשירי, מלך שוודיה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "X. Erik svéd király"
+    },
+    "is": {
+      "language": "is",
+      "value": "Eiríkur Knútsson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Erik X di Svezia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エリク10世 (スウェーデン王)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에리크 10세"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Erik Knutsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Erik X van Zweden"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Erik Knutsson"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Érico X da Suécia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Eryk X Knutsson"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Érico X da Suécia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Érico X da Suécia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эрик X"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Erik X od Švedske"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Erik X van Zweden"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Eric X of Sweden"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Erik Knutsson"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Erik Knutsson"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ерік X"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃里克·克努特松"
+    }
+  },
+  "lastrevid": 17565310,
+  "modified": "2025-09-17T13:43:14Z",
+  "ns": 860,
+  "pageid": 172090,
+  "sitelinks": {},
+  "title": "Item:Q143705",
+  "type": "item"
+}

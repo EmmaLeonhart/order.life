@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amicia de Ferrers"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q143337$7FBB3E40-C809-425B-9D15-F180DEC6454F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferrers-182"
+          },
+          "hash": "62316bd6ce3129d64fc6bc1c34d65ca8f2e7be55",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143337$9DD5268D-D77E-4CF8-B215-F99A643F168C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143337$FA3C5781-F75A-4F1F-9225-C96698AA9BB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143337$38BF36CB-C23A-4A67-B1BC-6D1BA9445BE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140890",
+              "numeric-id": 140890
+            }
+          },
+          "hash": "71d82647990e2e93b837c609e60e5636d7718de2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143337$8BF77DA8-3150-4F1F-8591-CC5F5A4F9867",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p46843.htm#i468424"
+          },
+          "hash": "8b946ddbf0d27e6ca94eadae0d69034931e45dc7",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143337$1517CDA9-1265-4399-9D77-5B764BEF401E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143337$29677722-45C9-49EA-96D1-9AD8102A17B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1063-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f15db25fca55953039676d800dc7e485d7dd3035",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143337$F9608642-2A44-40E3-95B3-B8BF4C16C2FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76014700"
+          },
+          "hash": "7e20920b9d0f91476dbb2e2ed38fbeb6efdc2322",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143337$90891995-A42F-47CF-AD16-4204BB5E4497",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amicia de Ferrers Arms.svg"
+          },
+          "hash": "115e8abe5d38d971a8b4b6dad066cdde6200a0a0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=468424"
+    }
+  },
+  "id": "Q143337",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Amicia de Ferrers"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amicia de Ferrers"
+    }
+  },
+  "lastrevid": 17564834,
+  "modified": "2025-09-17T13:36:30Z",
+  "ns": 860,
+  "pageid": 171722,
+  "sitelinks": {},
+  "title": "Item:Q143337",
+  "type": "item"
+}

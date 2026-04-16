@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Hortensius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144051$5B9653C7-AE1F-4FCB-A567-6860A2459859",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736125"
+          },
+          "hash": "13c0675fb427b929b9f41018491c5ff0e784cd3b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144051$A015BCDC-43B0-48AA-A215-3967A4136CE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144051$FCA93549-3262-4A4E-85DA-727CFAB61F32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144051$BBEDDFDC-7A70-40C7-8DE7-AFD75981F816",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141389",
+              "numeric-id": 141389
+            }
+          },
+          "hash": "6dca6ef1b302c7a094909e1df27d125e85d3a113",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144051$BE32F9B6-046A-484F-94F8-F14D878CB9CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144051$73A0F3FD-4BBA-498A-9CF2-9D9E4C755756",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0128-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6fd4810bfce448ee1299b59180c23a1a17ef0b79",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144051$A65B273A-53F0-4C22-85D6-0539E4D157B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11934104"
+          },
+          "hash": "3d1328c1670d50686148c73866788ce16c224403",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144051$D48943B5-2A99-4BBD-9250-324D30CD4AB4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Hortensius Arms.svg"
+          },
+          "hash": "84ff6426b89a25b06f1068ad5c1029afb75a4ef0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman praetor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "претор Сицилии в 97 году до н. э."
+    }
+  },
+  "id": "Q144051",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Luci Hortensi (pretor de Sicília)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Hortensius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Hortensius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Hortensio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Hortensius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Ortensio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Hortensius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Гортензий"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Hortensius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Гортензій"
+    }
+  },
+  "lastrevid": 17565920,
+  "modified": "2025-09-17T13:51:52Z",
+  "ns": 860,
+  "pageid": 172436,
+  "sitelinks": {},
+  "title": "Item:Q144051",
+  "type": "item"
+}

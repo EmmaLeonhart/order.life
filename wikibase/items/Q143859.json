@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tore Tordsson"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q143859$464389DB-C904-47F7-B62E-64E70D0B0323",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141199",
+              "numeric-id": 141199
+            }
+          },
+          "hash": "bd4998540211d1b570936cf212a0053e06fdbadf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143859$A8956124-B196-486A-8556-61CB58B4E13F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143859$9CC382A2-E59F-43BF-B090-A3BF6801213A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143859$13F010EF-30F1-40E3-800B-6FF642DD7E5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143859$BA6FFA4D-1E4E-4BB1-B126-7ACAAF6B6134",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1031-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f23c86cc6fc2e2edab41000095845d763a83f818",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143859$6829BCFE-240F-4CE7-8D40-88909E302D43",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1094-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d623dd9f916e20298699fd5a97966247bf46bfa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143859$0AC3FE29-72C2-4EDB-B9EA-DCA22AC91D0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6149119"
+          },
+          "hash": "7f6f6ceec4825b2991c5e20e71824cf1b76ac236",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143859$961ADDD5-032A-4166-B894-82B4455688BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008248195523"
+          },
+          "hash": "62bb2d065d3873efa6f0e0f80a39353d5bc8ad59",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143859$01FA9A2A-E122-4CF7-A32A-A797F22B09A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tore Tordsson Arms.svg"
+          },
+          "hash": "ae0159cbd2869b03275dc9ff5f27b9b1873ceb45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Vikings"
+    },
+    "es": {
+      "language": "es",
+      "value": "caudillos vikingos de Oppland"
+    }
+  },
+  "id": "Q143859",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Tore på Steig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tore Tordsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tore Tordsson"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tore Tordsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tore på Steig"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tore Tordsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Tore på Steig"
+    }
+  },
+  "lastrevid": 17565554,
+  "modified": "2025-09-17T13:46:43Z",
+  "ns": 860,
+  "pageid": 172244,
+  "sitelinks": {},
+  "title": "Item:Q143859",
+  "type": "item"
+}

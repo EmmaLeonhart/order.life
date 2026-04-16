@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry FitzMiles"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q145005$206C215F-DF4B-45A0-BA25-D53714B13798",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145005$3A17ADB3-E5C1-431D-A565-069B12292A27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q145005$F13C1E1C-F377-494C-946E-09A55BAF6CF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry_FitzMiles_(1)"
+          },
+          "hash": "3f21854cc29f2bf6df38b0dc21a248eec4b8bca2",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145005$E4CACC49-BAAB-4A57-AF6F-2051EF37D52A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149106",
+              "numeric-id": 149106
+            }
+          },
+          "hash": "e6fb025b19f03d9ca98d7817f59d4e88a88135b3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145005$235264C1-2CF7-481D-AE67-B0E80FD3F02E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p62.htm#i618"
+          },
+          "hash": "e37f9306d6754729175bfa690e97dcfa43c4d251",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145005$B422F607-457B-4AD8-8861-60BBB771271A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142210",
+              "numeric-id": 142210
+            }
+          },
+          "hash": "efe6e3715b82bcc494ddca7b7475ce0f92053f4d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145005$4444388B-0927-4CF0-BDB1-2B71D850A519",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142211",
+              "numeric-id": 142211
+            }
+          },
+          "hash": "ec76760910b26981f96b4bbf7cb9ac773ef2d9c8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145005$7B8416F3-F6F8-41AF-B84B-195A1F471032",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145005$628EC4FC-A917-4FC0-8C17-1E5C14CDB2C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c36d5616da0c0b2cf4662248a5d88a9c7efc1ab5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145005$78D9E174-C666-4ABE-83D1-EE1B3AB64287",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "02b2491aa94aec01b5c4332e7b8454593d1a0ee3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145005$78163F51-0946-4575-B016-A4DC4B36635B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5721277"
+          },
+          "hash": "1fb970636398f88a208192576fe991cbb7fdcb2f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145005$31E3B97B-1BDC-4DF4-868A-A25D11DA7A7F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry FitzMiles Arms.svg"
+          },
+          "hash": "e4be55d71535a42be5b3ad88a3d96f5dae41f8c5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "English Baron"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "английский барон"
+    }
+  },
+  "id": "Q145005",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Henry FitzMiles"
+    },
+    "de": {
+      "language": "de",
+      "value": "Henry FitzMiles"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry FitzMiles"
+    },
+    "es": {
+      "language": "es",
+      "value": "Henry FitzMiles"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Henry FitzMiles"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генри Фиц-Миль"
+    }
+  },
+  "lastrevid": 17567634,
+  "modified": "2025-09-17T14:16:59Z",
+  "ns": 860,
+  "pageid": 173390,
+  "sitelinks": {},
+  "title": "Item:Q145005",
+  "type": "item"
+}

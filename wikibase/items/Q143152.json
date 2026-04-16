@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Myfanwy ferch Madog"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143152$0BBE4EF5-2017-459D-B8C0-56F1D226BA5E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00589163"
+          },
+          "hash": "d9afac53036e60c28ef5e10ebca7f8697b3da674",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143152$628792F4-B3EC-42B8-88DF-542341E23E04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146401",
+              "numeric-id": 146401
+            }
+          },
+          "hash": "3614d2d7b15aa7764ea62b1df8696dbba5e1d732",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143152$3A673B89-5CA4-4E0A-B5B4-3030ECF8A3AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146400",
+              "numeric-id": 146400
+            }
+          },
+          "hash": "c96c1f62feb23c08faf18e8e3574b5a7adc28cd6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143152$6ED90C5F-E0BE-4FEE-B6AC-0759D4AF50BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146402",
+              "numeric-id": 146402
+            }
+          },
+          "hash": "b7e22fd2b59ce0c3c5e2c7a0e0e5464c4d126358",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143152$F7B9320E-5A66-4D60-9B1F-FDF2F9120283",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143152$14287B2E-1EB2-43DF-A965-7F3F0FF97C35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143152$53532B56-E46B-45F3-A311-401082E68445",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146337",
+              "numeric-id": 146337
+            }
+          },
+          "hash": "8ba170c4b66023ee75ffe5bff9542969e2f4f0cf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143152$CD1E2542-B17D-467E-9BAB-83BD451ADACA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140758",
+              "numeric-id": 140758
+            }
+          },
+          "hash": "7672b2df72ff219058776378c374f3b21e4e9229",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143152$6EFF0698-A3CB-4BEF-9CEA-613081CA14C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143152$FD1C7347-B113-4267-99CF-BF43C739CC1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99082401"
+          },
+          "hash": "68d78d929fa7fb92ca919e1701ed9b4b7acd3ecd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143152$9ED27741-24F1-4265-9D90-4D78EE395D28",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Myfanwy ferch Madog Arms.svg"
+          },
+          "hash": "6e54a96dacff4b95beba5762efac45fb13e300ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q143152",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Myfanwy ferch Madog"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Myfanwy ferch Madog"
+    }
+  },
+  "lastrevid": 17564516,
+  "modified": "2025-09-17T13:32:02Z",
+  "ns": 860,
+  "pageid": 171537,
+  "sitelinks": {},
+  "title": "Item:Q143152",
+  "type": "item"
+}

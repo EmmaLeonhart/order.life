@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hugh de Say"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146662$C2C30F82-B80B-4960-B899-B2B4EC08DD50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00398071"
+          },
+          "hash": "5793ec24ab24cbe3a9bb1a788bc5c2b0e57736e0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146662$7778F13A-2125-4ECA-A609-6053A8366839",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Say-7"
+          },
+          "hash": "408aba8e9ab55f794ec25231049752c6f942b4ca",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146662$2D2720DF-F51D-4DD6-90DA-DE2266391A93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146662$E236196C-1D57-4D54-9B87-D0AF7F8FBF52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146662$C91B4744-B975-4D6F-A0BB-AFF54175E7B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144788",
+              "numeric-id": 144788
+            }
+          },
+          "hash": "c1c3d348d7287592c9eb6e68ce0e058af73c69f6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146662$3347CE7A-E714-4E09-9628-650277C4C6AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143322",
+              "numeric-id": 143322
+            }
+          },
+          "hash": "eb5bd3649ba33bc1451c463f04ed413543406a94",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146662$3931C1B8-2E3C-4A50-9388-2643E253D3FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146662$055EA579-84FA-4F30-A523-255DCECD7405",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1161-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "476c55a4b79984ee3394d6c491e009171fba0d12",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146662$A880774D-2123-4669-8C09-5B676658FE73",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1197-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "12622958b6d1815c428953ddee86474bf0f1326a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146662$D9C3D333-3990-4FF9-9DA7-DD9A079792F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q113633087"
+          },
+          "hash": "d9948753411f595068df47a67da831c7f1bcbf1e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q146662$B5725139-20E9-4778-BAED-F6A741A4AE96",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugh de Say"
+          },
+          "hash": "d2176a8c0f7bcff3a5439cd16c19e1e0c8de81a4",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146662$CD9E8980-77DE-4FAC-9E23-87236CC24E7A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hugh de Say Arms.svg"
+          },
+          "hash": "cdd72e04945f8b705beb460c67faee648560835b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Est 1150 - Abt 1197"
+    }
+  },
+  "id": "Q146662",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hugh de Say"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Hugh de Say"
+    }
+  },
+  "lastrevid": 17570876,
+  "modified": "2025-09-17T15:03:27Z",
+  "ns": 860,
+  "pageid": 175047,
+  "sitelinks": {},
+  "title": "Item:Q146662",
+  "type": "item"
+}

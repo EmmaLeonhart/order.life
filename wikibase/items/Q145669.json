@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tangwystl ferch Hopkin ap Thomas ab Einion Gên"
+      },
+      {
+        "language": "en",
+        "value": "Tangwystl ferch Hopkin ap Thomas ab Einion Gen"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145669$F760548D-3C3C-4BD3-967C-B88723CF6F0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00232189"
+          },
+          "hash": "4839b8fd4995dbe2b34bf90569fd326b656881d0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145669$D38E80A6-814E-424D-877D-B7F9F5E0F2F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142826",
+              "numeric-id": 142826
+            }
+          },
+          "hash": "da346051f7a0cc01ebb40abdb99e59439b19b790",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145669$6401CF08-0BDC-496F-94A0-4C39DCFF66A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142825",
+              "numeric-id": 142825
+            }
+          },
+          "hash": "99ca0e3d2cb083c41565a0419efb9b2dcfe29c8e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145669$3C506E7E-745B-4EAE-928F-FC29E144F7D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145669$E1635406-EA12-4374-8093-1954619E6E91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145669$703D24DA-2151-4BC5-8FA1-972A19CD36F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140523",
+              "numeric-id": 140523
+            }
+          },
+          "hash": "f13c4775473c98f6283880d2c09d28108ea22cde",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145669$048BB11E-0D4D-4149-819B-4008BFA30219",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142585",
+              "numeric-id": 142585
+            }
+          },
+          "hash": "0593e99541da0c3050092453947d661a1a843eb3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145669$1CA5138D-0D33-4074-AD44-B38213430ACC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145669$88E7A783-FB78-4CB6-A1F8-68352C490DDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99208469"
+          },
+          "hash": "d33a6e6ad938a7b4c96d40bd0037bac0c65a4654",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145669$6F6E0B0D-4F7D-4355-9608-8096F2E72214",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tangwystl ferch Hopkin ap Thomas ab Einion Gên Arms.svg"
+          },
+          "hash": "387537ecdb32cb42687fce0ef47954a477bd5245",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q145669",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tangwystl ferch Hopkin ap Thomas ab Einion Gên"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tangwystl ferch Hopkin ap Thomas ab Einion Gên"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tangwystl ferch Hopkin ap Thomas ab Einion Gên"
+    }
+  },
+  "lastrevid": 17568948,
+  "modified": "2025-09-17T14:35:56Z",
+  "ns": 860,
+  "pageid": 174054,
+  "sitelinks": {},
+  "title": "Item:Q145669",
+  "type": "item"
+}

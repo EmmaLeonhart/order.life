@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Parry, of Vowchurch"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144805$B79E2EB6-3023-4276-BDC8-B79B59A5DB35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00705618"
+          },
+          "hash": "89358b8fd5fd5e3d44af164cf093fe3ebde4d41e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144805$E8AB45E8-E925-4C5E-AD4C-EBFCDAD9A25E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148833",
+              "numeric-id": 148833
+            }
+          },
+          "hash": "c92518c14d4322fa5c080c79fb95cc51f5b35fb0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144805$4852F63B-CC8B-407D-A11E-4CD77EF0B01F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Harry-6"
+          },
+          "hash": "71ddff732dfb1965adf07f2de260bfd27761d1a8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144805$FFB2C5CC-1143-4991-B624-52DFC2962627",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144805$9B2304DA-3A54-40CD-BC74-C922292CB343",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144805$07D6DEA9-307E-46F7-90C5-33FE2ADE4CBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142071",
+              "numeric-id": 142071
+            }
+          },
+          "hash": "ef7294ddcb1db84700f0b97bb614071a6502b085",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144805$FF3E05F0-C76E-4213-A797-6EEE72778308",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144805$B9B31643-E5A5-4AFF-AB82-E1713329C6D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1370-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d5003e1eaa12b5374522eaa6c881384d4447146",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144805$6BA4DA1E-94F5-4190-90C1-F0E68717DA3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1420-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0fe1bbb5d9659e415f402052f1800d062ee900dd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144805$CCDD03C5-4A33-4D9B-AF53-98DC2015BF4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110333026"
+          },
+          "hash": "fad539d193555b7b001923408404d608f367ddb3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q144805$F4495D31-3B1A-4C4E-9DFA-47B1476CFE71",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "John Parry, of Vowchurch"
+          },
+          "hash": "cac30a7611cec00d622ee08dcd9621a572ca4f0c",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144805$FB5DE52E-3EA7-4BB0-8ED4-F66CE20BF2CF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Parry, of Vowchurch Arms.svg"
+          },
+          "hash": "275c641b6fa9d1da233f94d1426a971d0bfcdd85",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- Aft 17 May 1410"
+    }
+  },
+  "id": "Q144805",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Parry, of Vowchurch"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "John Parry, of Vowchurch"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Parry, of Vowchurch"
+    }
+  },
+  "lastrevid": 17567244,
+  "modified": "2025-09-17T14:11:18Z",
+  "ns": 860,
+  "pageid": 173190,
+  "sitelinks": {},
+  "title": "Item:Q144805",
+  "type": "item"
+}

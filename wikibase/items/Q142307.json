@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gilbert Basset"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q142307$A7B93181-492E-481C-A23E-C45B0CEDB4B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Basset-224"
+          },
+          "hash": "4ce8e4c2684dc41b18b605051eb7963590d268e9",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142307$D62ABB0D-D5F2-412C-95AD-3FBE3F16E9E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142307$47CB61BB-8F4F-432C-825A-FBD2F46D7EE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q142307$074AE028-21B9-4574-9D60-3F3CDF0F5BF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p71202.htm#i712014"
+          },
+          "hash": "2fd3f8edf10837cf61aff7ca34043765bfbb20b9",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142307$4872C9E3-8D80-4758-92D0-C4B86BB3FD52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140193",
+              "numeric-id": 140193
+            }
+          },
+          "hash": "f57e247cb20bee1bbdff040e41f8476a2c82b045",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142307$422A5E27-8636-4FBC-8B0D-303CE2680CEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142305",
+              "numeric-id": 142305
+            }
+          },
+          "hash": "9ddba4f803e26c81de211876cf638f3317f8f06e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142307$E8E58F64-244E-4DF4-A7A7-8F5F75506CFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142307$C55D420A-BC99-4C73-B4D6-667A28A7CF95",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142307$73DDC633-8389-4EBB-B846-09675C8590D7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1241-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c28bf94798b30f33fb3c23532578d04b0d8a0c6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142307$683DD6FB-9A4C-4E83-A82B-12294D2BB1FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5560786"
+          },
+          "hash": "f959079ad2a27bd40fdb771798712ea2cdd168dd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q142307$1C3542BF-70C6-4239-AC6C-79B8F25F2E54",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gilbert Basset"
+          },
+          "hash": "e255c1981e29e4a3a80059d743546055d5f4b850",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142307$557815AC-E3AA-4F65-9C13-36E4416F9C1F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gilbert Basset Arms.svg"
+          },
+          "hash": "e3892e508d4e0199ad904ebe60ed5ee482ff36d0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger und Rebell"
+    },
+    "en": {
+      "language": "en",
+      "value": "English Baron"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "феодальный барон Уоллингфорда"
+    }
+  },
+  "id": "Q142307",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gilbert Basset"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gilbert Basset"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gilbert Basset"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gilbert Basset"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gilbert Basset"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gilbert Basset"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gilbert Basset"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гилберт Бассет"
+    }
+  },
+  "lastrevid": 17562840,
+  "modified": "2025-09-17T13:07:20Z",
+  "ns": 860,
+  "pageid": 170692,
+  "sitelinks": {},
+  "title": "Item:Q142307",
+  "type": "item"
+}

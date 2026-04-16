@@ -1,0 +1,350 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Margarete Sverkersdotter"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q146573$1F6C43EC-73C8-44E5-BA12-49B80B6A6E43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sverkersdotter-1"
+          },
+          "hash": "dfeab591829ff9bad83504336757edc594d25685",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146573$CE3FA8D5-E500-48F7-B6A3-9FB6A5CD535D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146573$EDE29869-0546-4C43-B53F-ED6D2B140706",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146573$9E7C3265-4A06-4942-BD71-FC27CBF5680A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Margareta_of_Sweden_(1)"
+          },
+          "hash": "d12d5bd03bd22c5d2f57c06c66406c3b65022fcf",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146573$EC00B822-24C4-407F-8E4C-EF43A21CDBCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146585",
+              "numeric-id": 146585
+            }
+          },
+          "hash": "cf10cfca76d20c12ad4a106af42587db4c30b138",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146573$C98EF5DF-32F8-4F88-9EBE-9A27F1A41604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143284",
+              "numeric-id": 143284
+            }
+          },
+          "hash": "679b3fd76f2f1f22312073708ed9a0f978e8d799",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146573$14E04026-BAFA-40FE-BD0F-DC34606A62CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146571",
+              "numeric-id": 146571
+            }
+          },
+          "hash": "9b418957e0d3cc9e6e39caf34f1c0093c049d7b2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146573$56B5869B-DA76-4D4B-AA4F-E63E19EE6461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146573$FE613A46-62EA-4ACA-82C3-6B20E36F739C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1192-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "91f3b7668558b8cdc2eb7cbb1609d348f1c4ffd4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146573$BBCD1F3D-9ECD-49E7-ADEC-A8D33F39FDCB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1232-03-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2a3eaca27fbe866e27357003789d22369aaae324",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146573$F165D910-DE11-4A95-BC25-D6238966E1B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4965648"
+          },
+          "hash": "5cda4caf254426f6ca479eb1bf966604f900427c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146573$77336DFD-01E2-4F66-957D-266A595DEA9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=margareta;n=sverkeratten"
+          },
+          "hash": "4cfec1b2132e1454aeeed260bcffe77f65bfbb1c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q146573$302C5F7B-4CEB-4811-A8AE-8ED198F811FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1072"
+          },
+          "hash": "b875f0d4be87f6131891f518eca04fd6ea6ce785",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146573$849D36EE-645C-42D3-9385-45EDA50EF304",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Margarete Sverkersdotter Arms.svg"
+          },
+          "hash": "a1fd0217e3a9abc836f444df0272f42f2c3d27c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1192-1232)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "княгиня Рюгена"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1192-1232)"
+    }
+  },
+  "id": "Q146573",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Маргарэта Сверкерсдотэр"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Margareta Sverkersdotter"
+    },
+    "da": {
+      "language": "da",
+      "value": "Margareta Sverkersdatter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Margarete Sverkersdotter"
+    },
+    "es": {
+      "language": "es",
+      "value": "Margarete Sverkersdotter"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Margareta Sverkersdotter"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Margareta Sverkersdotter"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Margareta Sverkersdotter"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маргарита Шведская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Margareta Sverkersdotter"
+    }
+  },
+  "lastrevid": 17570742,
+  "modified": "2025-09-17T15:01:16Z",
+  "ns": 860,
+  "pageid": 174958,
+  "sitelinks": {},
+  "title": "Item:Q146573",
+  "type": "item"
+}

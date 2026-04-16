@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elen ferch Ieuan ap Henry ap Llywelyn Foel"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143052$C7100342-A75C-42D9-A326-F93C75EA2C84",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00708979"
+          },
+          "hash": "69d006d4d13b8a4a065b5d25477936b3b137c22a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143052$62E09230-1985-42A7-AA23-5B7310A09415",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146284",
+              "numeric-id": 146284
+            }
+          },
+          "hash": "0c03493ffec3f91a9792d8c5fcae404fc1b3c13f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143052$FD9A16CF-7C81-4222-B947-29AFF9DEACB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140678",
+              "numeric-id": 140678
+            }
+          },
+          "hash": "ecf6bdab356bad85c3887d94e20f869a5bad6523",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143052$37B9D767-9118-4E34-B409-BD6C72E57243",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143052$EA766007-49A7-4F8F-B697-4A64A6A23AC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143052$E6384B6B-CD1B-4387-B9C0-4A257C536C87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143051",
+              "numeric-id": 143051
+            }
+          },
+          "hash": "33d2b9630d3831c2f86caef7fdfa2bf69224aaa6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143052$8C419E4E-3BA9-423C-9932-FBEA26DC7239",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146285",
+              "numeric-id": 146285
+            }
+          },
+          "hash": "036622fc15e2e380d4b0ddfd441b99bdf985c0b7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143052$6624F925-B6FF-46C8-9D11-CC81880BD16B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146286",
+              "numeric-id": 146286
+            }
+          },
+          "hash": "cdcdc8ec744960bf43d09699e67d9bba658b520e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143052$256B05A1-A753-4D15-92D5-49C23D45519D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143052$7C01E8E6-DEBC-46F5-95C8-9DF79794D155",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130342852"
+          },
+          "hash": "ba5c36ded7ddc130e34b44864759eb49b6e2b382",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143052$D65EB4A1-4F4A-42DC-A435-970244D8C8C6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elen ferch Ieuan ap Henry ap Llywelyn Foel Arms.svg"
+          },
+          "hash": "b7ab85cd986ce4d425c96ac6188a50eba2196d8a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q143052",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elen ferch Ieuan ap Henry ap Llywelyn Foel"
+    }
+  },
+  "lastrevid": 17564316,
+  "modified": "2025-09-17T13:29:16Z",
+  "ns": 860,
+  "pageid": 171437,
+  "sitelinks": {},
+  "title": "Item:Q143052",
+  "type": "item"
+}

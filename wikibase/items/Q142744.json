@@ -1,0 +1,284 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ifor ap Llywelyn Lleia ab Ifor ap Llywelyn"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142744$2C156905-D619-42A9-8C28-0574C3E7F84B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00706627"
+          },
+          "hash": "7e36649e8d12ee984ef7f4a6e4ee63aedb53eb1e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142744$899F7ED2-D206-42E7-9C88-EBA1D5BEA23B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140470",
+              "numeric-id": 140470
+            }
+          },
+          "hash": "167738083f973cce84e31de816d9099b8aae8d83",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142744$7D081C17-2238-47BD-9257-913DF312FE7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Llewelyn-63"
+          },
+          "hash": "0db3d525d20d0f39e35d7681206f0306cbf2cf2d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142744$7C58A3EC-6509-4057-A841-F82236DDDE9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142744$0830B601-A0A1-4CDB-91C3-D843A58BE824",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142744$2C11FBF0-7A22-4E91-A0DE-B21BEB3E0488",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144843",
+              "numeric-id": 144843
+            }
+          },
+          "hash": "89f9d7334d86789196be35aa597cbe0bb2d96f4f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142744$2FB59CF5-231E-4CC8-9154-286B18D57888",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142113",
+              "numeric-id": 142113
+            }
+          },
+          "hash": "38be2c80b52bd10bb30fb3975805f85f91b47a70",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142744$C00A3FAD-7651-47ED-99BE-89CC18031F20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142744$D9CEDC09-B9F5-40CA-BED7-2F2C64F2F059",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1245-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22b822c573b0f2d0c0e2a0a95c62526e949893af",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142744$F99D2916-8B22-45FD-864E-0380A6D0FCC6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1285-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3bab0b334a1d0b458e90d73f99de8aa2d830b7b7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142744$07E5491A-4DB7-49B7-B18F-D71D399BF77A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99083911"
+          },
+          "hash": "1191921382cea773a76703a15e135a25d647ea47",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142744$EA40FDE3-C014-4ECD-8406-059E1D260E98",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ifor ap Llywelyn Lleia ab Ifor ap Llywelyn Arms.svg"
+          },
+          "hash": "f8528cb5ca862ea2ef322f29b3152da0490e9c8c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(1245-1285)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1245-1285)"
+    }
+  },
+  "id": "Q142744",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Ifor ap Llywelyn Lleia ab Ifor ap Llywelyn"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ifor ap Llywelyn Lleia ab Ifor ap Llywelyn"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ifor ap Llywelyn Lleia ab Ifor ap Llywelyn"
+    }
+  },
+  "lastrevid": 17563700,
+  "modified": "2025-09-17T13:20:38Z",
+  "ns": 860,
+  "pageid": 171129,
+  "sitelinks": {},
+  "title": "Item:Q142744",
+  "type": "item"
+}

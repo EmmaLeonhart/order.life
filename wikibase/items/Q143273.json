@@ -1,0 +1,504 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Absalon"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143273$2E13794A-C9C4-426C-94FD-710BC2BBA460",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1435915"
+          },
+          "hash": "68cd4f8876a3148c82a43dbd5f7f34b5941bb865",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143273$5CE74F3E-B5D6-4153-9E8B-75FBF933FF96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143273$653A0784-88AB-48DC-9FD7-2C3D0C024E6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143273$C86769FD-E131-4CD8-9BB2-8C47D5DA120E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143272",
+              "numeric-id": 143272
+            }
+          },
+          "hash": "d128eab726871fdcb5af2b1f088b7a7694bf59af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143273$FC5BBE4F-9267-4664-84E6-9DDEDB1D2FFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140845",
+              "numeric-id": 140845
+            }
+          },
+          "hash": "3c22095c065815062c38d793429c786b660b63f4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q143273$3EAC393B-C868-4D81-964E-B1B80DCB500F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11331646"
+          },
+          "hash": "abac1369ea3db9ac563de6415487af81a9ff4d01",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143273$DB5596F2-FA13-4A14-86D7-4077C8FCE265",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143273$40EEB9B5-6D0D-43F1-8828-8CEAC5A04A46",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1128-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e223e0e8c9a056d880c3b06f224d0e27d5dfa4b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143273$D8990BE3-AF60-4587-BED7-EA8144CF63D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1201-03-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "708b56b62a6be01cc152b84a00ed3489c65c4810",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143273$2534C1DF-CBC0-4AC7-BD6E-6E8617F66F76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313548"
+          },
+          "hash": "5c494768ab94bf93e63d40b6fd10b1c9c280cac7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143273$C2414933-4B82-4C12-803D-112D8D38A97D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000024594900319"
+          },
+          "hash": "51d1d514fa751bc575fe831395b182a615f4ec81",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143273$1E5A0747-2A24-430F-816F-C4D8ACACCC8D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Absalon Arms.svg"
+          },
+          "hash": "01d759fcdc5641a26e2076089bbda1c98a7e2881",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك من دنمارك"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "bisbe danès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "dánský státník"
+    },
+    "da": {
+      "language": "da",
+      "value": "biskop i Roskilde og ærkebiskop i Lund (1128-1201)"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Danish siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof von Roskilde und Erzbischof von Lund"
+    },
+    "en": {
+      "language": "en",
+      "value": "Archbishop, statesman (1128-1201)"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Archbishop, statesman (1128-1201)"
+    },
+    "es": {
+      "language": "es",
+      "value": "arzobispo católico"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار و کشیش دانمارکی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "tanskalainen piispa ja valtiomies"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "archevêque catholique"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "արքեպիսկոպոս, պետական գործիչ (1128-1201)"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo cattolico e politico danese (1128-1201)"
+    },
+    "la": {
+      "language": "la",
+      "value": "archiepiscopus catholicus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "erkebiskop i Lund"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Deens politicus"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko danes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "duński arcybiskup, założyciel Kopenhagi (1128–1201)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "dansk kyrkoman, statsman och historiker, biskop"
+    }
+  },
+  "id": "Q143273",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ابسالون"
+    },
+    "az": {
+      "language": "az",
+      "value": "Absalon"
+    },
+    "be": {
+      "language": "be",
+      "value": "Абсалон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Absaló"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Absalon"
+    },
+    "da": {
+      "language": "da",
+      "value": "Absalon"
+    },
+    "de": {
+      "language": "de",
+      "value": "Absalon von Lund"
+    },
+    "en": {
+      "language": "en",
+      "value": "Absalon"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Absalon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Absalón"
+    },
+    "et": {
+      "language": "et",
+      "value": "Absalon"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Absalon"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Absalon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Absalon"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Absalon"
+    },
+    "he": {
+      "language": "he",
+      "value": "אבסלון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Absalón"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Աբսալոն"
+    },
+    "is": {
+      "language": "is",
+      "value": "Absalon erkibiskup"
+    },
+    "it": {
+      "language": "it",
+      "value": "Absalon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アブサロン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "압살론"
+    },
+    "la": {
+      "language": "la",
+      "value": "Absalon Lundensis"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Absalon"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Absalon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Absalon"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Absalon av Lund"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Absalon"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Absalon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Absalão de Lund"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Absalão de Lund"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Absalon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Абсалон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Absalon"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Absalon"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Absalon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Absalon"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Absalon Hvide"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Абсалон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Absalon"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿布薩隆"
+    }
+  },
+  "lastrevid": 17564754,
+  "modified": "2025-09-17T13:35:24Z",
+  "ns": 860,
+  "pageid": 171658,
+  "sitelinks": {},
+  "title": "Item:Q143273",
+  "type": "item"
+}

@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John ap Thomas Basset, of Beaupré"
+      },
+      {
+        "language": "en",
+        "value": "John ap Thomas Basset, of Beaupre"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146030$88823C4F-1A54-4E72-927F-C031242BCFAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00752691"
+          },
+          "hash": "0bfc4364e361d91820d34aa59b10abbaa905a0a0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146030$091B8F1C-974B-4281-A55B-C07DDDFEAF2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142822",
+              "numeric-id": 142822
+            }
+          },
+          "hash": "002360bcaa575907502f5f43ba46a3376901900c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146030$10DAD55D-6AC3-4BE5-8E83-6E30F6E7E6F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146030$F1281E37-5808-452B-80D8-5EE6D3389C9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146030$E483A0B2-9BAE-4303-A568-57A1D906B37A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140520",
+              "numeric-id": 140520
+            }
+          },
+          "hash": "8b2a00f6adaf6d697cadd9b5bd2b103cb64b5051",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146030$2A42206F-8215-479F-9409-4C2927D2C701",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150667",
+              "numeric-id": 150667
+            }
+          },
+          "hash": "a6af2197f08748968b5277316bc389c7bd285dfe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146030$F124CCDB-7671-47AE-A916-C7D61A520A54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150668",
+              "numeric-id": 150668
+            }
+          },
+          "hash": "96538d938d4f49beaba9e695adbe6b9ac41a7b13",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146030$4FC27F29-EAED-4A84-BD7D-8029DA7DA95C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146030$6DB414E4-9575-4843-892E-83754A9D3A46",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116146005"
+          },
+          "hash": "5792d4014dcf7da40f8b19ad12bf05af1568199e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146030$89149ED3-E153-4425-BBE7-23FA6CFD3C4E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John ap Thomas Basset, of Beaupré Arms.svg"
+          },
+          "hash": "be3b11a81b737f0bae420dbec338989b73fa3cdb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q146030",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John ap Thomas Basset, of Beaupré"
+    },
+    "es": {
+      "language": "es",
+      "value": "John ap Thomas Basset, of Beaupré"
+    }
+  },
+  "lastrevid": 17569670,
+  "modified": "2025-09-17T14:45:58Z",
+  "ns": 860,
+  "pageid": 174415,
+  "sitelinks": {},
+  "title": "Item:Q146030",
+  "type": "item"
+}

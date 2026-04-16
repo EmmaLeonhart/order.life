@@ -1,0 +1,498 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto II"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q143612$2F31DAD5-8A16-4593-8C4F-DDCADD1A6C49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143612$82B58DC3-19BD-428C-9C30-31EA734633A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143612$1427BB3C-2203-4A37-B3A1-FFB3B93FFF1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128191",
+              "numeric-id": 128191
+            }
+          },
+          "hash": "0b543a68ac7720c6f0fe7ff4a274672fafe16722",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143612$AE7E004F-89C1-435A-AE4B-F177651AAD72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143612$87C6C13E-C908-41F0-AFCF-06200965CCE9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143612$4D8E669B-6C2E-4EA2-B571-7D7D71887E21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1120-10-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0ca1e238e6f246833284c7b1aa5d6686c162f64",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143612$CF972E5D-EE66-4D66-AE5E-0A7B8D8EFE63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q84579"
+          },
+          "hash": "e4d08b223cd31f8fc5719ea23b07082e1839b3f6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q143612$09D71C07-AD53-44EE-8807-F93CA5C28165",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Anton Rehmann"
+          },
+          "hash": "cef1276e6b9a872e9917e766aaa3fd8b93c25789",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q143612$0A8CFB6E-386D-4154-B122-FBC3BC2047B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "15.431.850"
+          },
+          "hash": "30cdcc2814b86c093f2df320bf44b255d172b7bf",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143612$0FC99C9D-EBA0-462F-9E0C-2ADEC3D4B6EE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anton Rehmann Arms.svg"
+          },
+          "hash": "d8257ae26bbdaef4690e4a8c7a3b354d89e03547",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "عالم نبات نمساوي"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "অস্ট্রীয় উদ্ভিদবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "botànic"
+    },
+    "da": {
+      "language": "da",
+      "value": "østrigsk politiker"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Poland siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "polnischer Geograph, Geomorphologe, Botaniker und Forschungsreisender"
+    },
+    "en": {
+      "language": "en",
+      "value": "Polish botanist (1840-1917)"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "botanist"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "botanist"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "botanikisto"
+    },
+    "es": {
+      "language": "es",
+      "value": "político austríaco"
+    },
+    "et": {
+      "language": "et",
+      "value": "botaanik"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "itävaltalainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "politicien et botaniste polonais (1840-1917)"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "luibheolaí"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "botánico"
+    },
+    "he": {
+      "language": "he",
+      "value": "בוטנאי אוסטרי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "botaniciste"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "politiķis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pools botanicus (1840-1917)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "geograf polski, podróżnik"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "austriac"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "politik"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "austriak"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "politiker"
+    }
+  },
+  "id": "Q143612",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطون ريهمان"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطون ريهمان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Anton Rehmann"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Anton Rehmann"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Anton Rehmann"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Anton Rehmann"
+    },
+    "da": {
+      "language": "da",
+      "value": "Anton Rehmann"
+    },
+    "de": {
+      "language": "de",
+      "value": "Anton Rehmann"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anton Rehmann"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Anton Rehmann"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Anton Rehmann"
+    },
+    "es": {
+      "language": "es",
+      "value": "Anton Rehmann"
+    },
+    "et": {
+      "language": "et",
+      "value": "Anton Rehmann"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Anton Rehmann"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anton Rehmann"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Anton Rehmann"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Anton Rehmann"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Anton Rehmann"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Anton Rehmann"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "Anton Rehmann"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Anton Rehmann"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անտոն Ռեհման"
+    },
+    "it": {
+      "language": "it",
+      "value": "Anton Rehmann"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Anton Rehmann"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Anton Rehmann"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Anton Rehmann"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Anton Rehmann"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Anton Rehmann"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anton Rehmann"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Anton Rehmann"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antoni Rehman"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Anton Rehmann"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Anton Rehmann"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Anton Rehmann"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антоний Реман"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Anton Rehmann"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Anton Rehmann"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Anton Rehmann"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Anton Rehmann"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Anton Rehmann"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антоній Реман"
+    }
+  },
+  "lastrevid": 17565182,
+  "modified": "2025-09-17T13:41:25Z",
+  "ns": 860,
+  "pageid": 171997,
+  "sitelinks": {},
+  "title": "Item:Q143612",
+  "type": "item"
+}

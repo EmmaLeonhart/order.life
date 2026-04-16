@@ -1,0 +1,341 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Furius Camillus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144110$9D816555-CD49-4209-875B-1631DE1955C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736027"
+          },
+          "hash": "d1eb543fe14135e2339f4f06c5ab96119f38dd80",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144110$570CE435-7635-444C-8806-F46FDFC5E5BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144111",
+              "numeric-id": 144111
+            }
+          },
+          "hash": "4710af4d57986955f6230f52a9a84bf0b5f718b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144110$E765022D-0F9B-48E1-A1FD-1376AB551DF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144112",
+              "numeric-id": 144112
+            }
+          },
+          "hash": "901b1a2529e8cdcad6b9254e3b18fafaf43db75e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144110$62825B21-8706-481E-B9E3-0D0B80CD2829",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144110$D73685B7-DE68-4523-B76A-80F4578F5628",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144110$AEF28DE9-8D66-44FF-88B2-FC9845108C8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141462",
+              "numeric-id": 141462
+            }
+          },
+          "hash": "6b2188967b787bdc7061ce34c8b5f9b10bc67402",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144110$1E860C12-5546-4E31-8F1E-E8D9FD445892",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144110$26036D27-6A07-4191-9372-329139622B41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144110$46A18453-F4BD-45F0-B0E0-DEA7217547F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0037-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2da1694422694537b9f71ecf9c6b4ad06c1b5108",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144110$A65E2964-BD88-4565-B60A-4449BAFDB593",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q666740"
+          },
+          "hash": "b9fef5ae3151ff19979c84d940a51ce797d00fa6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144110$24CC2F9A-7569-4376-8012-B1A5C576D463",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Furius Camillus Arms.svg"
+          },
+          "hash": "4ba65349d56fb3f50280a2cf596e468de42e80b8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 8"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century AD Roman senator and consul"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "romia konsulo kaj senatano en la jaro 8"
+    },
+    "es": {
+      "language": "es",
+      "value": "senador y cónsul romano en 8"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul en l'an 8"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    }
+  },
+  "id": "Q144110",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Марк Фурый Каміл, консул 8 года"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Фурий Камил"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Furi Camil"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Furius Camillus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Φούριος Κάμιλλος (ύπατος)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Furius Camillus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Marko Furio Kamilo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Furio Camilo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Furius Camillus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Furio Camilo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Furio Camillo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Furius Camillus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Furius Camillus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Fúrio Camilo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Fúrio Camilo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Фурий Камилл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Furije Kamil"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Фурій Камілл"
+    }
+  },
+  "lastrevid": 17566016,
+  "modified": "2025-09-17T13:53:14Z",
+  "ns": 860,
+  "pageid": 172495,
+  "sitelinks": {},
+  "title": "Item:Q144110",
+  "type": "item"
+}

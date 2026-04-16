@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Duncan (?)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143587$B5F0B1DF-C5F8-4398-ACC2-57F59E07655D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "110767"
+          },
+          "hash": "d656e94d79b020617d26ac30eeff95bf5be9ab87",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143587$6CB835DE-149F-4359-91B4-93B7804D2877",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141072",
+              "numeric-id": 141072
+            }
+          },
+          "hash": "81e4939eecb52b00fd2d26a4e923ef63230c22e0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143587$6D192A1E-242A-45D6-9068-1ECBF477D04A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dún_Caillen-1"
+          },
+          "hash": "7899d3138bafa1196628048e495a542e43975b40",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143587$D7701D0C-A5A2-474B-B1B0-39A300CC825D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143587$18CDB994-BAFC-4709-8671-8FD0621AACF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143587$2C735035-E620-4B8D-B81B-517B93046078",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p32200.htm#i321999"
+          },
+          "hash": "6a7eed28a1148a5f9f9addf0edef3d9807aa7276",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143587$59CD45DA-0FE3-4122-BB62-0BD74C2B5D15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143587$6570BAEC-BDE4-45CE-A944-E2ABC9673E62",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0920-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "230af232b164806859b6921634724fb072379943",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143587$654CECDF-7C0C-4C32-9042-25F0F4C94281",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0965-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4169674a83c071605d883182ee7762055ce2914d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143587$776B810C-BF69-4B69-A60D-BC86EF6C422A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75764233"
+          },
+          "hash": "3dc397afe6a5719b1288e8ccdf4cd2a5017cd131",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143587$17B6D5B0-158B-42D3-AD4D-3DF17ED75316",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=duncan;n=of atholl;oc=1"
+          },
+          "hash": "31b472df05f92e15fca5c1b53c0ef2aed2234fea",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143587$11E65E11-AEAE-464A-90A0-BED617569354",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Duncan (?) Arms.svg"
+          },
+          "hash": "217c9d7379f47c289629c0800ba118086796da77",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "( -965) o dras fonheddig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=321999"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "светский аббат Данкельда"
+    }
+  },
+  "id": "Q143587",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "ডানকান (?)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Duncan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duncan (?)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duncan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дункан (?)"
+    }
+  },
+  "lastrevid": 17565132,
+  "modified": "2025-09-17T13:40:43Z",
+  "ns": 860,
+  "pageid": 171972,
+  "sitelinks": {},
+  "title": "Item:Q143587",
+  "type": "item"
+}

@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Domnall mac Gilla Pátraic"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q143936$9E5CD918-46E5-4A67-8DBD-44CF2E07236F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147810",
+              "numeric-id": 147810
+            }
+          },
+          "hash": "f40375d12c9d840040b638b152c7c390f24cca1f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143936$BD4123EF-B504-4AFA-9348-D795A6C0F28E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147808",
+              "numeric-id": 147808
+            }
+          },
+          "hash": "7bbf38c15506ae976e37f6e8c15e157cdea1d978",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143936$B8A83869-C5C8-43D8-A888-53E2CD50F62A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143936$5E8F59F6-B6B0-42A9-96CF-62F8C2A71470",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143936$ACA69C7E-61D2-497A-BEEE-4748A9828A05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141275",
+              "numeric-id": 141275
+            }
+          },
+          "hash": "c7540496a75020d8c3329fd35260d8922fc2a2cc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143936$95FA3767-E801-415D-87C7-ECC0ECE608BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143936$0BC164FE-3D62-460E-943F-57F396F221A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1087-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e69419508013baeecab88a3e8cf9ae276d56a657",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143936$D4E66125-7C87-4B74-B426-3E79E225FFB3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106188307"
+          },
+          "hash": "01f1cc374f96268e05eace4c1d65eca00097546e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q143936$AFB7E413-F9B1-43D9-9FA6-1FAF23264E36",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Domnall mac Gilla Pátraic"
+          },
+          "hash": "4389e92bf876cd9bccff8435391296a4e95d03dc",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143936$A45B3B81-3050-4A9A-A4FC-E9762721B474",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Domnall mac Gilla Pátraic Arms.svg"
+          },
+          "hash": "d5e0a24e5beb2392490fad155d3e90743856eeab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "monarch"
+    }
+  },
+  "id": "Q143936",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Domnall mac Gilla Pátraic"
+    },
+    "en": {
+      "language": "en",
+      "value": "Domnall mac Gilla Pátraic"
+    },
+    "es": {
+      "language": "es",
+      "value": "Domnall mac Gilla Pátraic"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Domnall mac Gilla Pátraic"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Domnall mac Gilla Pátraic"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Domnall mac Gilla Pátraic"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Domnall mac Gilla Pátraic"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Domnall mac Gilla Pátraic"
+    }
+  },
+  "lastrevid": 17565706,
+  "modified": "2025-09-17T13:48:48Z",
+  "ns": 860,
+  "pageid": 172321,
+  "sitelinks": {},
+  "title": "Item:Q143936",
+  "type": "item"
+}

@@ -1,0 +1,358 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry I, Count Palatine of Lotharingia"
+      }
+    ],
+    "ro": [
+      {
+        "language": "ro",
+        "value": "Henric I de Lorena"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143575$6DC55882-D45F-4B6A-9F72-F681B75C894B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8806"
+          },
+          "hash": "acc1151e5509c78410bea4b4a2f171c61d51ce80",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143575$AB2048CF-7D44-4D85-B6B1-CCDA163605EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126580",
+              "numeric-id": 126580
+            }
+          },
+          "hash": "102dda1ab6d6c9108c9a00594f117a5d6888b33e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143575$F2598708-C1E3-4C5F-954B-D5869F508AD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143575$8F0B56CE-1003-4C99-9169-F62288BCE16A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q143575$E70F98E9-31F1-40CF-AFBD-6D1DE2F5055F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry_I,_Count_Palatine_(1)"
+          },
+          "hash": "5147c35f8a64f5a8f656014200d2fb0b9d9a79f1",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143575$0721C679-9118-43B7-90CC-F81E63CB42D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125889",
+              "numeric-id": 125889
+            }
+          },
+          "hash": "4cfdf1e1f978ea3e2dc93afc4a354b77f7c1569b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143575$D22FED99-350F-4240-91A7-3FFD2C10ED78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125661",
+              "numeric-id": 125661
+            }
+          },
+          "hash": "0bc050a03704e759a81e59a6608aa41ba81614c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143575$E4389C23-9818-4BEA-B307-F17A0BFE9C75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143575$8AE586D3-9162-4103-BD7C-39A851380FFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1000-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bfaeffd93c9ae612a427a0a168b2db21b0ead38e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143575$86AD43BB-FE7B-4552-9DB9-091224093C9F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1060-07-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b78ed51afee5e6850a71fe2bbbe28e00fde0571c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143575$87392B8F-A3E6-4B6E-8BC2-716A13032686",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q476331"
+          },
+          "hash": "c3f3b2c6e787680604a669b9167d017ea52f1c8c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143575$7767F337-3609-4069-95B1-C4FE6DF6C675",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry I, Count Palatine of Lotharingia Arms.svg"
+          },
+          "hash": "2cb1e0d7833d38f1373e99c45bbde2763af9238e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Pfalzgraf von Lothringen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lothringen, Pfalzgraf"
+    },
+    "it": {
+      "language": "it",
+      "value": "conte palatino di Lotaringia dal 1045 al 1060"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "conte palatin de Lorena"
+    }
+  },
+  "id": "Q143575",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Хайнрих I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich Lotrinský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich I. von Lothringen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος Α΄ της Λοθαριγγίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry I, Count Palatine of Lotharingia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Henry I, Count Palatine of Lotharingia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Henry I, Count Palatine of Lotharingia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enrique I de Lotaringia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri Ier Furiosus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico I di Lotaringia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ハインリヒ1世 (ロートリンゲン宮中伯)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik I van Lotharingen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Henryk I"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Henric I de Lotharingia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих I"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hendrik I van Lotharingen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Генріх I (пфальцграф Лотарингії)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亨利一世"
+    }
+  },
+  "lastrevid": 17565116,
+  "modified": "2025-09-17T13:40:29Z",
+  "ns": 860,
+  "pageid": 171960,
+  "sitelinks": {},
+  "title": "Item:Q143575",
+  "type": "item"
+}

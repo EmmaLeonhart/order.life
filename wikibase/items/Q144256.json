@@ -1,0 +1,811 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Galba"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144256$0678AF8D-F07A-423E-9877-81BB5E49B7B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716214"
+          },
+          "hash": "c13a9b7c9adcf0907458f97a67ce52538f50561e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144256$D85C77B1-F5B7-4DC4-9C1B-4CE3AF72341C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144256$C54D420E-8F0D-47BA-AD3C-FBEA9E8DA3E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144256$86F4E615-B020-4058-86F7-B5092D8FC699",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144291",
+              "numeric-id": 144291
+            }
+          },
+          "hash": "5c1347837440b9af18ba18fc5010d6834bc027c1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144256$070A3BD3-DDA2-411A-810B-C3CCD1A9C9AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148040",
+              "numeric-id": 148040
+            }
+          },
+          "hash": "43c8e0cf3e4ccd847e1ff23cab4f536ffcb72d69",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144256$F9AB6C86-615A-4AFE-8042-12B126A3CE83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144041",
+              "numeric-id": 144041
+            }
+          },
+          "hash": "3a2b61155e5a8fc456ac956ca75b13dbb7589db9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q144256$1AA82D01-AAC0-4BAB-B70A-31EE4850B088",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "34478259"
+          },
+          "hash": "a34e9bd41ff57b1725d8335d3756610b30290bd8",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144256$28B1AA1F-A5F3-4CC4-A302-8A9B8ACCF3F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144256$D2E670C9-49BC-417E-9B9F-96788942A847",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0003-12-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c49f51959d6438939537b2f0844f52e2edd1664",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144256$49568E72-9E65-40C6-8E4F-36962AC2553E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0069-01-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f1a9846ded0e99d55acfe8dfc13f33c1363cd404",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144256$34DE1680-A22D-4956-9AA8-1DFA733E628F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1414"
+          },
+          "hash": "71acc30edfc9c9f885e941dcda8031da4b5cd405",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q144256$C1533ECC-4A53-41DB-BB62-95F6E8F6D4C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000017547294993"
+          },
+          "hash": "13bc4692503f186e57bf8b2bd5f55c21fcdff29d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q144256$CAF08D8A-D09B-47AF-BBC6-E096282CB3E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26427"
+          },
+          "hash": "d6e1bc0af5ae7b31b0576485028a7ee0c4d308ef",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144256$A753A4C5-FABA-4550-88EA-AC644C76BFB0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Galba Arms.svg"
+          },
+          "hash": "5e02276202b84ff1dd2cc9b52292bd2d1f76222d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q144256$57A5F360-C030-4028-B57D-44D3BC48A4F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/BF5F6839-A9E8-448B-9398-7EB2FCD445D3"
+          },
+          "hash": "1c7368bd893ed8b70cd693a42dbe55272aaa1606",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bn": {
+      "language": "bn",
+      "value": "৬ষ্ঠ রোমান সম্রাট ৬৮ থেকে ৬৯ খ্রিস্টাব্দ পর্যন্ত"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador de l'Imperi Romà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "6. römischer Kaiser, Sohn eines C. S. Galba"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "6th Roman emperor from AD 68 to 69"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (68-69)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sixième empereur romain de 68 à 69"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano no 69"
+    },
+    "he": {
+      "language": "he",
+      "value": "מקיסרי רומי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi yang berkuasa selama tujuh bulan dari tahun 68 M hingga 69 M"
+    },
+    "is": {
+      "language": "is",
+      "value": "Rómverskur keisari frá 68 til 69 e.Kr"
+    },
+    "it": {
+      "language": "it",
+      "value": "sesto imperatore romano (r. 69)"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Romas imperators"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "keiser i Romerriket i 68–69, den første i rekken i det såkalte firekeiseråret"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperador Romano (9 de junho de 68 a 15 de janeiro de 69)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "шестой римский император"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Romersk kejsare"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "шостий римський імператор"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马帝国皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗马帝国的皇帝"
+    }
+  },
+  "id": "Q144256",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Galba"
+    },
+    "am": {
+      "language": "am",
+      "value": "ጋልባ"
+    },
+    "an": {
+      "language": "an",
+      "value": "Sulpicio Galba"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "غالبا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جالبا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Galba"
+    },
+    "az": {
+      "language": "az",
+      "value": "Qalba"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قالبا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гальба"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Галба"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "গালবা"
+    },
+    "br": {
+      "language": "br",
+      "value": "Galba"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Galba"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Galba"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "گالبا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Galba"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Galba"
+    },
+    "da": {
+      "language": "da",
+      "value": "Galba"
+    },
+    "de": {
+      "language": "de",
+      "value": "Galba"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Galba"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Galba"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάλβας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Galba"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Galba"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Galba"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Galbo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Galba"
+    },
+    "et": {
+      "language": "et",
+      "value": "Galba"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Galba"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Galba"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گالبا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Galba"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Galba"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Galba"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Servio Sulpicio Galba, emperador"
+    },
+    "he": {
+      "language": "he",
+      "value": "גלבה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Galba"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Galba római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գալբա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Galba"
+    },
+    "io": {
+      "language": "io",
+      "value": "Galba"
+    },
+    "is": {
+      "language": "is",
+      "value": "Galba"
+    },
+    "it": {
+      "language": "it",
+      "value": "Galba"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガルバ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გალბა"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Galba"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Гальба"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "갈바"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Galba"
+    },
+    "la": {
+      "language": "la",
+      "value": "Servius Sulpicius Galba"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Servi Sulpici Galba"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Servijus Sulpicijus Galba"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Galba"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Галба"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "गॅल्बा"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "گالبا"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Galba"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Galba"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Servius Sulpicius Galba Caesar"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Galba av Romarriket"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Galba"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Galba"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Galba"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Galba"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Galba"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Galba"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гальба"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Serviu Sulpiciu Galba"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Galba"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Galba"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Galba"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "قیصر گالبا"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Galba"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Galba"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Галба"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Galba"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Galba"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิกัลบา"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Galba"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Servius Sulpicius Galba"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гальба"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "گالبا"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Galba"
+    },
+    "war": {
+      "language": "war",
+      "value": "Galba"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "გალბა"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Galba"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "加爾巴"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "塞尔维乌斯·苏尔皮基乌斯·加尔巴"
+    }
+  },
+  "lastrevid": 17566258,
+  "modified": "2025-09-17T13:56:39Z",
+  "ns": 860,
+  "pageid": 172641,
+  "sitelinks": {},
+  "title": "Item:Q144256",
+  "type": "item"
+}

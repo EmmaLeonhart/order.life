@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhys Gôch ap Rhys ... ap Lleision"
+      },
+      {
+        "language": "en",
+        "value": "Rhys Goch ap Rhys ... ap Lleision"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145655$04A01F2A-85FB-44BD-BF4D-29E851598849",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00789156"
+          },
+          "hash": "1ff0908a19fca9cb9f296f17236a095b27d0d351",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145655$3846F3A4-D5F3-4699-ABCD-B141F0561E97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142578",
+              "numeric-id": 142578
+            }
+          },
+          "hash": "a9aae19522963a7b42392abd9fff8e2d5b58d1c5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145655$AC073F47-2735-4B48-B6C3-945E183E6FA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145655$50C1B8F6-53D8-4CD4-8485-346403C460E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145655$09FB8299-28F4-410A-A1EE-268D30A680EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140344",
+              "numeric-id": 140344
+            }
+          },
+          "hash": "b752d62cecca5c72cdd9aaead2419d4bbbe8b15d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145655$C157BEBD-EF3D-4F75-9E39-0A3F74BEBDE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145623",
+              "numeric-id": 145623
+            }
+          },
+          "hash": "eaf6433a47f2c5c3815e531d1e843afa712d84d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145655$D8E397A7-429E-4E74-A39A-959D98D9F58A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145655$67CC5211-C4C8-4FD9-93BC-F059D9B0E176",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130359331"
+          },
+          "hash": "9df02c6da8a10dcc9de4c4bc262c0be0e831878e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145655$0D026FAE-3E8A-493B-BADE-145A3D7F357E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhys Gôch ap Rhys ... ap Lleision Arms.svg"
+          },
+          "hash": "932f0ad580f49752877539186f74dc7d4f0655aa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q145655",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rhys Gôch ap Rhys ... ap Lleision"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhys Gôch ap Rhys ... ap Lleision"
+    }
+  },
+  "lastrevid": 17568920,
+  "modified": "2025-09-17T14:35:34Z",
+  "ns": 860,
+  "pageid": 174040,
+  "sitelinks": {},
+  "title": "Item:Q145655",
+  "type": "item"
+}

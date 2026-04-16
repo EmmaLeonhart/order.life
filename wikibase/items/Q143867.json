@@ -1,0 +1,266 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jon Torbergsson"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q143867$72CD1485-7B2B-4F09-8E80-0AC14C230D76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Torbergson-1"
+          },
+          "hash": "6d40ff415ce2868121699ee549c770c3581419ea",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143867$A5A1CCEB-953F-4EE7-B4DB-31F2EFD5C359",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143867$A1DD1181-F607-4E39-9B48-AA7A795B7331",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143867$DD6E221F-7187-465C-9FC6-1D12BF192DF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141204",
+              "numeric-id": 141204
+            }
+          },
+          "hash": "761e83f6311256acbb7c3c2490da826337868b9e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143867$BF615F70-9FA6-4CA3-83A7-B1047BF135FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143867$29CD53AF-E52E-47E0-B440-C32EE592FD96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1153-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0e079d4c61d619d40ac08b946e7d43362d38aa28",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143867$EC5C39E5-3993-44C7-B001-7C24EBD4D2C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1179-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "59e89c368979542c3e08b555ceafc8437a23a967",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143867$06F7840B-4ACC-4352-B2FC-814DC6F723E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11979186"
+          },
+          "hash": "9d74a48dcb8e5b6c41456038178e3e6e2a41aa1a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143867$104FF03B-E0E8-48D9-B717-CCEFBFCA20ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645734368"
+          },
+          "hash": "2c813d3aa39403fb3178b8784dc2d9a17d2f9d05",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143867$BFDCDE60-7DFD-415D-B190-4C81552DED05",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jon Torbergsson Arms.svg"
+          },
+          "hash": "5309983391f70da403c53b41116589d4d0cbd97d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1150 - 18 Jun 1179"
+    }
+  },
+  "id": "Q143867",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Jon Torbergsson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jon Torbergsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Jon Torbergsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jon Torbergsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jon Torbergsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jon Torbergsson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Jon Torbergsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jon Torbergsson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Jon Torbergsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jon Torbergsson"
+    }
+  },
+  "lastrevid": 17565570,
+  "modified": "2025-09-17T13:46:56Z",
+  "ns": 860,
+  "pageid": 172252,
+  "sitelinks": {},
+  "title": "Item:Q143867",
+  "type": "item"
+}

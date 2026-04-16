@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dietrich II, Count of Cleves"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146756$4269144F-F375-4B5D-A500-6642FA080B61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "92351"
+          },
+          "hash": "1f9204ea306437ff741f5fd97867d533f345bfec",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146756$66CEFBD0-FF67-4DCA-8C22-A9D5B5DAFB24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146756$A4B2C7E2-913A-4A2E-B51B-D97FCB98DB92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146756$767A1987-BC40-4BD6-81D5-4BB23F0DE6A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Dietrich_of_Cleves_(4)"
+          },
+          "hash": "deb360a7c9b4265701f71ee2547bae5a8fa59c77",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146756$9394C2C7-E458-4229-BBCE-E1209DC530FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p59196.htm#i591952"
+          },
+          "hash": "f6a3fdc0707fa3c4cf45fbdd43722f539e6e8e8a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146756$21D22172-0E38-4977-98AE-8FB990886D8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126257",
+              "numeric-id": 126257
+            }
+          },
+          "hash": "f51f8a44c28e699e96bef720aa6b00e36efe39be",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146756$4A875727-774E-4099-A09B-C7DA97A69971",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146756$AC780C7B-1363-43B2-8053-0D58E489761F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146756$3E4AEB1D-E84D-4161-982A-A093E6CB257A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1091-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7e453c314a8c4b45a63fc37ae6768f16d06f1b13",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146756$B087C793-BE17-4105-BA7A-E15E5FED478A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1223637"
+          },
+          "hash": "0eb4927e9adf7b151aaeaef211867a960bfa93d3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146756$5A9834B7-7D59-4B8A-A424-F39F8FDC0759",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dietrich II, Count of Cleves Arms.svg"
+          },
+          "hash": "873e070e16952a5d8133e7016284af839c346671",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "möglicherweise Graf von Kleve"
+    }
+  },
+  "id": "Q146756",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Дитрих"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Dětřich II. Klevský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dietrich"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dietrich II, Count of Cleves"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ditriĥo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thierry Ier de Clèves"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodorico di Kleve"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Diederik II van Kleef"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дитрих II (граф Клеве)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Dietrich II, Count of Cleves"
+    }
+  },
+  "lastrevid": 17571042,
+  "modified": "2025-09-17T15:06:34Z",
+  "ns": 860,
+  "pageid": 175141,
+  "sitelinks": {},
+  "title": "Item:Q146756",
+  "type": "item"
+}

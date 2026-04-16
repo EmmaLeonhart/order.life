@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Pilius"
+      },
+      {
+        "language": "en",
+        "value": "Pileus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q72771$8702743A-D343-4943-AD4A-089DEB3065DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72603",
+              "numeric-id": 72603
+            }
+          },
+          "hash": "579106caeaaf9c4dc07b7371af1de8ea4e8c4c64",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72771$4DD1C246-E31C-4763-908C-D9FD8369E060",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144142",
+              "numeric-id": 144142
+            }
+          },
+          "hash": "320cb7abcf6c9e530f9d36fda24e20abab64b4f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q72771$75A01F1D-E74C-48BE-8901-67FC19623958",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q72771$0B190584-3623-4462-8BFF-D5B87FDB8302",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q72771$5552E63A-9B35-4AB7-97C1-EFAE09FE415B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72774",
+              "numeric-id": 72774
+            }
+          },
+          "hash": "c860e5b47b577f0a6a775b85416434bf2194d4d4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q72771$4644371A-A77A-4118-81FF-4B1D9822BC70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q72771$532E2A42-D59C-4FDE-85E6-EA7D7DB0E16C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104671723"
+          },
+          "hash": "db5ff9eea11835c7db8272e181501ada9539f06d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q72771$5A58E7AE-75E1-47F3-871B-482CB33677B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012719711212"
+          },
+          "hash": "e2cf1fd58661bede158b54f98324a615d6005c74",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q72771$4137DDA6-9D53-4F75-80E4-F9F8A7450211",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Pilius Arms.svg"
+          },
+          "hash": "6f2f0a4ca54060c4ffaa8e3b5bbda91362bab8fa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "father-in-law of Pomponius Atticus"
+    },
+    "es": {
+      "language": "es",
+      "value": "supuesto suegro de Pomponio Ático"
+    }
+  },
+  "id": "Q72771",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Marcus Pilius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Pilio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Pilius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Pilius"
+    }
+  },
+  "lastrevid": 17485342,
+  "modified": "2025-09-16T18:33:33Z",
+  "ns": 860,
+  "pageid": 87602,
+  "sitelinks": {},
+  "title": "Item:Q72771",
+  "type": "item"
+}

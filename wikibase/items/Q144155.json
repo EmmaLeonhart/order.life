@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Calpurnius Piso"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144155$13CC51ED-CB44-4A2F-9E1D-B44EA2FA7DAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800976"
+          },
+          "hash": "cea2a7a595fa8f8631d1ab9b86ab3cb9c623cfb7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144155$2CADF694-F2D1-4F8E-AE20-871CC0244296",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141553",
+              "numeric-id": 141553
+            }
+          },
+          "hash": "20688a21db2b45ea14d54a8e9b52cd642fbc0746",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144155$F51E5FA0-A712-4DBC-A6F7-71DD98011A0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144201",
+              "numeric-id": 144201
+            }
+          },
+          "hash": "ea6082b131c5964a948bdb6c1bb3152e1bccdce0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144155$52A6D6EB-8654-4436-A9C3-F4E845473355",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144155$3338C656-BA0D-4AB4-8883-3D8DCA858B37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144155$4EF9895D-E9FF-475B-9586-0E0806D776DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144154",
+              "numeric-id": 144154
+            }
+          },
+          "hash": "734b410304a4673532ffcc23ae13f33c7fbed4ed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144155$5F9A37B4-6996-4553-83C0-AE92D51F9B95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141498",
+              "numeric-id": 141498
+            }
+          },
+          "hash": "46dbff0982b15b4fc245f52b09af4b611ca8d377",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144155$15C27C69-ADFF-4467-AAB7-3EED39BB31D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144155$A881DA16-E2BE-497B-9560-F6BBF7A92F6D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0020-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9fb002c56c2d42c1a2265073bdfd6b2bac37fc9d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144155$0CC47640-1F90-4FF6-995F-04B61487A171",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0050-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f09fbd13a92ad6da2ebbb9ff24393de29f04ea1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144155$DB72A83B-4AEB-4C55-BBD2-E76D20AF8B63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q311545"
+          },
+          "hash": "4e87dd7c04d710f8f84e5c7620c98390c7af0078",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144155$8B0E7D45-BE53-474D-9C6F-ADB5648DD01F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Calpurnius Piso Arms.svg"
+          },
+          "hash": "3f1a247d376021e3385d822a0f71eec85ff3af87",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 27"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 27 AD"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul en el año 27"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 27"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q144155",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Калпурний Пизон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Calpurni Pisó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Calpurnius Piso"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Καλπούρνιος Πίσων (ύπατος το 27)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Calpurnius Piso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Calpurnio Pisón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Calpurnius Piso"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լուկիոս Կալպուրնիոս Պիզոն"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Calpurnio Pisone"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Calpurnius Piso"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Calpurnius Piso"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Calpúrnio Pisão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Calpúrnio Pisão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Кальпурний Пизон"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Kalpurnije Pizon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Calpurnius Piso"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Кальпурній Пізон"
+    }
+  },
+  "lastrevid": 17566084,
+  "modified": "2025-09-17T13:54:11Z",
+  "ns": 860,
+  "pageid": 172540,
+  "sitelinks": {},
+  "title": "Item:Q144155",
+  "type": "item"
+}

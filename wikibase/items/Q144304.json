@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antipatros"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144304$2CE424DC-86B4-4BCA-9C3F-7F9B8E65BE7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738017"
+          },
+          "hash": "949bb8e0088f7e46f2250099d4ab0858a9220bf3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144304$3714EDAB-F3F8-475D-9E42-5CE2AD52187B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144315",
+              "numeric-id": 144315
+            }
+          },
+          "hash": "8d41fd52a66b0a0801725fe72d33899cdb91be7a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144304$69BA1617-5CFC-408E-A8E9-0779DF4DB4B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144304$BC0DCF87-1446-4624-A9DE-01BDFBF8343F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144304$C986CF06-8A3C-499E-813F-FBB7371E6C0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141680",
+              "numeric-id": 141680
+            }
+          },
+          "hash": "584644eb0a0a24fa050cc3f18a7bb2ff5c3c6881",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144304$9D155D31-72D2-4855-8D3E-E33F9B9FD402",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144302",
+              "numeric-id": 144302
+            }
+          },
+          "hash": "1cca21b4b7f7b68f61ebda12c838c78090a43aa7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144304$BBF9FD58-BE3C-45C3-83B9-A67B8577FF54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141668",
+              "numeric-id": 141668
+            }
+          },
+          "hash": "70524f187d5aec8d6f0148b04f83c97c9c7275a5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144304$E5B2E301-D3F7-4EF9-A8D8-8F7108DAEEDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144304$296DC33F-FB86-4740-9594-07C4D20E62C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144304$8CAB0957-9AA2-4223-A52B-A95CA7ECB4C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11686528"
+          },
+          "hash": "a7b5ff678229df21b8eb3d4f9a137ec3f9f5e9ff",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144304$03D7A5BB-7F01-4552-81B8-50CA2DEDBF19",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antipatros Arms.svg"
+          },
+          "hash": "50bae95555e2ea34bf2eb293415fe7613d321ab4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "γιος του Κοστόβαρου Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Herodian noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince hérodien, fils de Costobar et de Salomée"
+    },
+    "he": {
+      "language": "he",
+      "value": "בן שלומית אחות הורדוס"
+    }
+  },
+  "id": "Q144304",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Antypater III"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antipatros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίπατρος Δ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antipatros"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antípatro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antipater II d'Idumée"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיפטרוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antipatro"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antypater III"
+    }
+  },
+  "lastrevid": 17566344,
+  "modified": "2025-09-17T13:57:52Z",
+  "ns": 860,
+  "pageid": 172689,
+  "sitelinks": {},
+  "title": "Item:Q144304",
+  "type": "item"
+}

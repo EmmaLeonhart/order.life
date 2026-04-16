@@ -1,0 +1,305 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joan de Quincy"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q142053$696D2373-5036-4B00-9CE8-700D5FBAC0E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Quincy-45"
+          },
+          "hash": "58c3e4064330b9b5d7973a9c957a10da4e9d32b0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142053$5E734CA6-553E-406F-A580-62B179F8D2F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142053$AFCEB65C-9BD3-4E13-A727-A0077AD9E065",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142053$83DA6020-2382-48C5-8F93-62FFB2AD479B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142270",
+              "numeric-id": 142270
+            }
+          },
+          "hash": "9750bf27df86b62502e8f00c45caec9ca197a05d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q142053$CB515271-91A5-47E9-BF19-27B66B68AAE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10777.htm#i107763"
+          },
+          "hash": "e89fba3bb8e464e6661c8b971979933c56aa4c2e",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142053$99412D81-62FE-447B-ADB6-F15D5ABD881C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142051",
+              "numeric-id": 142051
+            }
+          },
+          "hash": "d27ad1036bb47af0c1a85f381011729ba93d3952",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142053$4388C18E-755B-4ACE-A9A1-C4B71C612C20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140033",
+              "numeric-id": 140033
+            }
+          },
+          "hash": "c857cb7fac44528d3dffdb614a4a1aed5481f976",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142053$2A001255-C0B6-4837-B256-8D7D87F665EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142053$D1543ABB-A4DE-4CB3-A809-24C39B53EDD6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1245-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22b822c573b0f2d0c0e2a0a95c62526e949893af",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q142053$DC8347ED-556A-4AA2-9CAF-1EE445F26F16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1284-11-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8450ee6e670fcf7c40025b476aa113f60ae31a13",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142053$E4430A9F-D583-45E8-9B0E-8E9627492446",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q61963737"
+          },
+          "hash": "0b9502f09b642f76d84b7e783c9e697b279705b8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q142053$4089CAFA-E45F-410A-B9AB-D53F23EE1021",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003796167907"
+          },
+          "hash": "4ec44a41627f4b94b2de93d626ee719cb219a0c6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142053$3394BC02-54AD-4EEF-8B74-9870C3389547",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joan de Quincy Arms.svg"
+          },
+          "hash": "d228efd98f52095dd95bbb036c2793f433c116c9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=107763"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сонаследница графа Уинчестер"
+    }
+  },
+  "id": "Q142053",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Joan de Quincy"
+    },
+    "en": {
+      "language": "en",
+      "value": "Joan de Quincy"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Joan de Quincy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джоан де Квинси"
+    }
+  },
+  "lastrevid": 17562352,
+  "modified": "2025-09-17T13:00:21Z",
+  "ns": 860,
+  "pageid": 170438,
+  "sitelinks": {},
+  "title": "Item:Q142053",
+  "type": "item"
+}

@@ -1,0 +1,181 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir John Norris"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142568$5FCA380A-889E-4C38-A91F-04B26C45F30B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00752346"
+          },
+          "hash": "9479122c561f56af3daf47e5725f17aee7f1a412",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142568$C7F51C91-00DA-4992-A5FD-B6959B4C0458",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140336",
+              "numeric-id": 140336
+            }
+          },
+          "hash": "d12754b399c5bd608bc511f7634d6746cd1e9a63",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142568$34750A4E-65D5-4D8B-A70B-334A4F88B41D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142568$5A4BE23B-0409-498D-A2A0-B27D413F8D19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142568$EA3EFE35-375F-46A4-B604-D20A0DA27E92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142568$F0FCA6B3-0C08-46C7-8D24-4AA16191B7BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110622288"
+          },
+          "hash": "da3c3f26cee9e3267f7847937e5f69e3ea0c1281",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q142568$54D3DFE7-E6D4-4FDA-B504-D8F25A7B731C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Norris"
+          },
+          "hash": "f44549eb50fe6f1864c4a27b76052fc708873eeb",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142568$F45DA121-7661-41E5-9652-7DF789799297",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Norris Arms.svg"
+          },
+          "hash": "c37b6e5445e5733e87b86c83246614fa4c744f7c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q142568",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir John Norris"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sir John Norris"
+    }
+  },
+  "lastrevid": 17563352,
+  "modified": "2025-09-17T13:15:03Z",
+  "ns": 860,
+  "pageid": 170953,
+  "sitelinks": {},
+  "title": "Item:Q142568",
+  "type": "item"
+}

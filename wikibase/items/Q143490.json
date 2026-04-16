@@ -1,0 +1,903 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sancho Garcés"
+      },
+      {
+        "language": "en",
+        "value": "Sancho I Garcés"
+      },
+      {
+        "language": "en",
+        "value": "Sancho I of Pamplona"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q100441$A8F4C7C0-9911-43C5-86B4-49498DEDC36A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "127687"
+          },
+          "hash": "4377c07e52ddbdf2a3a6950733fe8d9ce87110a3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q100441$F5743077-F73B-41BB-AACA-D4DE85149569",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106643"
+          },
+          "hash": "9f6ddf06db4e587cb5c10a9bde88932f743f82e4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q100441$EF491BFA-867A-4854-A204-B5E10C05E721",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100084",
+              "numeric-id": 100084
+            }
+          },
+          "hash": "b35c32cd8028385fe1e79612498fe0df984f4488",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$E4CCDB89-DFFD-4632-9298-DC1A1226F6C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109563",
+              "numeric-id": 109563
+            }
+          },
+          "hash": "a0af0f1050735aaf0ff015723d24c15cbad82904",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$EE9DA695-DC07-4971-8C9C-0A29C719D5F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100324",
+              "numeric-id": 100324
+            }
+          },
+          "hash": "e628a18557d154e161b0b0bed8fe59b0b5a8f50a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$46C93C4B-8519-4616-9E84-1DF4EA3FAE65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109565",
+              "numeric-id": 109565
+            }
+          },
+          "hash": "7795b8194d4cd73b1bbe97a3773dcb62e5f5190d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$47F2A7C5-18B1-4404-948F-D9BE28FAE592",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100445",
+              "numeric-id": 100445
+            }
+          },
+          "hash": "77e81efce0a6bcae0bd64ab3fa438f844beed6ec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$8192BCC3-B69A-47DF-9C22-BC51284922F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109561",
+              "numeric-id": 109561
+            }
+          },
+          "hash": "42acbc73d0bfe9c9b191dc0d98e104c1faa1b74f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$19E238A8-452F-4EC5-9AAF-062BC068EAAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100447",
+              "numeric-id": 100447
+            }
+          },
+          "hash": "c62b80e2478be78a9a555a0dc5adc4108a8c9818",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$525BD459-4402-46BF-8FE9-EE3966768CF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109557",
+              "numeric-id": 109557
+            }
+          },
+          "hash": "78522ec1f129d7660efc26f4a90bf6748192853a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$AD520327-6959-4D73-BB7A-DDB381D20B36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100336",
+              "numeric-id": 100336
+            }
+          },
+          "hash": "f91f6ec5dac17706f69f0436802d9565e754de14",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$6C2FD398-8046-4A45-A570-9C0FABE3F7F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109559",
+              "numeric-id": 109559
+            }
+          },
+          "hash": "1a2edab0a062f376b6c41d82d557591537ceb135",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$64EF8779-2275-43D6-A81D-1463E4ED667C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100449",
+              "numeric-id": 100449
+            }
+          },
+          "hash": "1ef43f50768ae5d34e1d70343afb1757716a2568",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$973662E6-D64E-47C9-833F-3A4751D826D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100094",
+              "numeric-id": 100094
+            }
+          },
+          "hash": "1ee02d92d239e3de1779a3ba5d3d9665e5499192",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$499F0C2C-C5E6-4609-A38F-70EC7BEB8A19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100974",
+              "numeric-id": 100974
+            }
+          },
+          "hash": "d78f5948a0aa57ce7df656c1829d4780f5786947",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$05830761-3449-44CE-9A7C-026A7522A471",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109764",
+              "numeric-id": 109764
+            }
+          },
+          "hash": "8ba1db066a4d33bee79c2fda2ddc89df75022fc6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q100441$AE5C0A9C-04CC-459C-AFAB-3A962E604685",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pamplona-15"
+          },
+          "hash": "7b620b7b0726c332f3ad7ba505f42dcc2c3e3f04",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q100441$6E84BE07-A44A-4B56-81B9-4A8432A99A7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$6BCD78D3-BD47-4BB1-8FEF-923DE19E3850",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q100441$10AC12CA-2870-456C-8EF3-058659CA8C9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sancho_I_of_Pamplona_(1)"
+          },
+          "hash": "306607bcec97dc8b91afb09f109a21ee1033edc6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q100441$803F0139-C76D-465B-AAA2-8408CC6BAE84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100443",
+              "numeric-id": 100443
+            }
+          },
+          "hash": "ba73031477873611ed047ae4e3e8e90c4e1c286b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$4317D831-0D32-4786-A90B-C84EEF14955F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100972",
+              "numeric-id": 100972
+            }
+          },
+          "hash": "0784710c1a65b291c4b8273f1707d7d1ecf03b38",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q100441$C11C3526-F6E3-41C1-8F99-6FB1973BE176",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p41715.htm#i417150|p15274.htm#i152738"
+          },
+          "hash": "85b64def56f818b21c49be7e1db2bfc58fc65df9",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q100441$BBC2926F-037D-4A41-9954-8D35A8A14FC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100978",
+              "numeric-id": 100978
+            }
+          },
+          "hash": "b346793a06adc00a0f1b11776dbe971ae656d5cb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100441$A5A04528-E71C-4F51-AE00-AE5157F312D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109760",
+              "numeric-id": 109760
+            }
+          },
+          "hash": "c8686462ffd235b00cb199d2968ad10b3e579df2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q100441$C0604B61-648B-456C-878C-DEE1A88BFCF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100976",
+              "numeric-id": 100976
+            }
+          },
+          "hash": "c037c50582a1c0f74f4d1b2126ffa0cdeef9645e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q100441$B23085A5-536F-4E02-B4FC-4E42CF2F9134",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "1er. Rey de Pamplona"
+          },
+          "hash": "4f3267059e89e117785766a8d8a410a7a9cfdd14",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q100441$7A3E2158-E434-446A-BFEE-400375B61DF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q100441$E0D4B14C-F61F-4204-ACB1-8689ED30317F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0875-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8fe0d1c24f68c52f958407548bdb3f47592be979",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q100441$CF2DD0A0-25F5-45B1-8C8D-3F8D008136B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0925-12-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95b831e37f31e23751f0bcfae2c25d602e14967d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q100441$B1494F03-4E78-43D6-A66A-BA39DFC2079D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q914160"
+          },
+          "hash": "693853d36dde21fd206e4f4da8bb6979b0c43577",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q100441$6F7303FA-6039-4B04-B7C5-D755F2D952E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003795473559"
+          },
+          "hash": "a38861499c89604a3bb75043f507e2cc298be1c5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q100441$587C4EAC-8FF6-4B53-A0CC-C003B001456D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=sancho garces;n=de pamplona;oc=1"
+          },
+          "hash": "7afa0ebda8288315ecba10fa7d0f48959b1d6578",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q100441$00F2EB4B-1A5D-422D-BCCD-FA409549A3CD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sancho I of Pamplona Arms.svg"
+          },
+          "hash": "d698fa5ec9d8ba24edce2e9948ca3e16a81e19f8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "кароль Навары (905—925)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei de Pamplona de 905 a 925"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "pamplonský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Navarra"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς της Παμπλόνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Pamplona from 905 to 925"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Pamplona (905-925)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pamplonan kuningas vuosina 905–926"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Pampelune"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך פמפלונה משנת 905 עד לשנת 925 לספירה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "navarrai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Pamplona (r. 905-925)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Spaans politicus (900-925)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Наварры"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "први владар Памплоне"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Pamplona Kralı"
+    }
+  },
+  "id": "Q100441",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Sancho Garcés I de Navarra"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "سانشو الأول ملك نافارا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سانشو الاول ملك نافارا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Санча I Гарсес"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Sančo I od Pamplone"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sanç Garcés I de Pamplona"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sancho I. Pamplonský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sancho I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Σάντσο Α΄ της Παμπλόνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sancho I of Pamplona"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Sancho I of Pamplona"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Sancho I of Pamplona"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Sanĉo la 1-a (Navaro)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sancho Garcés I de Pamplona"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antso I.a Gartzeitz"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sancho I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sanche Ier de Pampelune"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sancho Garcés I de Navarra"
+    },
+    "he": {
+      "language": "he",
+      "value": "סנצ'ו הראשון מפמפלונה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sancho I. od Pamplone"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Sancho navarrai király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sancho I dari Pamplona"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sancho I Garcés di Navarra"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サンチョ・ガルセス1世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sancho I van Navarra"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sancho I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sancho Garcês I de Pamplona"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sancho Garcês I de Pamplona"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sancho I de Pamplona"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Санчо I Гарсес"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sancho I od Pamplone"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sancho I of Pamplona"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Санчо Гарсес I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sancho I av Pamplona"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าซันโชที่ 1 แห่งปัมโปลนา"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Sanço"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Санчо I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "桑乔一世 (纳瓦拉)"
+    }
+  },
+  "lastrevid": 17405393,
+  "modified": "2025-09-15T22:08:28Z",
+  "ns": 860,
+  "pageid": 118133,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q100441",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q100441"
+    }
+  },
+  "title": "Item:Q100441",
+  "type": "item"
+}

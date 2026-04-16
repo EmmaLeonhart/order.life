@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhescuporis II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144021$A9C86DD8-111C-4D63-A582-145C52220C33",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "401252"
+          },
+          "hash": "bc87092ca612c9a2fbe0f69644be8da0d7f51b2e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q144021$64D3BCE6-418F-4405-8A6F-A22566E6BFF3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738744"
+          },
+          "hash": "9cad33bcf3833d9fedc4be53efb58b93826384b0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144021$7DF64BD5-30B9-4436-A907-936EF0CFD00E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141362",
+              "numeric-id": 141362
+            }
+          },
+          "hash": "53ca7c08cd9a130c8604ac8b92a1cfced722481c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144021$59831EED-267B-4899-AD6F-879ECBCD1FEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144021$D8A3D0CD-B88E-4A3C-B721-61CCB4705EBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144021$72C13FBA-F213-4F8C-B801-6E53F2589BAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q138360",
+              "numeric-id": 138360
+            }
+          },
+          "hash": "cd19c9f1f0d77540346383752b1c04f8a24fbcf3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144021$674EBF85-27BF-4109-AC07-E8FAA3F21EAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144020",
+              "numeric-id": 144020
+            }
+          },
+          "hash": "b23046fb3edffffbb7404c909358b65ad698d3b1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144021$02F534D3-35CD-4076-B4F9-F184C44CF7F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144021$CD245840-011C-4725-BDB1-933F12CBC54B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144021$C6A2089C-028C-4E0D-8449-1701988FB144",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0018-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0fecf671438c84efdb62072b947c09cc8e6c4e3d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144021$A88EE926-65EA-4A29-AA03-7144433D9418",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3111688"
+          },
+          "hash": "dcc664bad662c5cac0d376fcabfe76a81598c18c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144021$74CFA1F4-C4CC-487F-A5CA-FC998EAF92A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhescuporis II Arms.svg"
+          },
+          "hash": "90382d499aa882e43fb1106c07260887629656dc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "king of the Odrysian kingdom of Thrace (ruled c.12-c.18 AD)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi des Odryses"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Thracië (-18)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung i Thrakien 12 och 19 e. Kr."
+    }
+  },
+  "id": "Q144021",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ريسكوبوريس التانى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Rascuporis IV"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Раскупорис II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rascuporis III"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρησκούπορις Β΄ (Σαπαίων)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rhescuporis II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rhescuporis II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhescuporis III"
+    },
+    "it": {
+      "language": "it",
+      "value": "Rescuporide II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rhescuporis II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Reskuporis III"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рескупорид II (династ Фракии)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Rhescuporis II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Рескупорід III (цар одрисів)"
+    }
+  },
+  "lastrevid": 17565864,
+  "modified": "2025-09-17T13:51:02Z",
+  "ns": 860,
+  "pageid": 172406,
+  "sitelinks": {},
+  "title": "Item:Q144021",
+  "type": "item"
+}

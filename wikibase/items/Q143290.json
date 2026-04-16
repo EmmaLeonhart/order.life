@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kruto the Wend"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q143290$AD536070-EB8E-4948-AAD4-B34280A8C902",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143290$5D567D89-91D4-474B-9EB8-DFB2C95F4F86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143290$E06077BC-CD84-435A-8382-24162BEF75FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140862",
+              "numeric-id": 140862
+            }
+          },
+          "hash": "16fca988a1f39e694aacbdea628754a358b3f7d6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143290$0F44789A-74EC-479F-99E6-CA392755817E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143290$A5E8BAD1-EA9B-4208-931A-CBC654C5F210",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a64b89e499c6799703fff0bb369a1488f734f5b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143290$4C9B650B-3B74-4569-AD73-3A7269A9405D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1105-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b5d25a249648483cbd9f1520870569f281642725",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143290$FCA0D8BA-E0F9-4ED7-94DC-10151322ACB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q660913"
+          },
+          "hash": "da4bb124f3353a11a2c51699a40edd3bf1b9d6ae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143290$49BF1546-2777-462F-B568-F41D355F074D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007690981645"
+          },
+          "hash": "0f6ee6ca85e789ae7dcd6793e7f9cd14fabcbfdc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143290$EC0BF46A-81CD-46BC-B63E-D0DD20A7A7D9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kruto the Wend Arms.svg"
+          },
+          "hash": "48c2b082ed323a67807ab12b3ad87e86356623be",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "slovanský kníže"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürst der Wagrier"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Wagria"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe di Wagria e Samtherrscher degli obodriti"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "syn Gryna, pogański władca obodrzycki"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "furste av Wagrien"
+    }
+  },
+  "id": "Q143290",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Круты"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Крут"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Krut Obodritský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kruto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kruto the Wend"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kruto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kruto"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kruto"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kruto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クルト"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kruto"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Krut"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Круто"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kruto"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kruto Vende"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Круко"
+    }
+  },
+  "lastrevid": 17564776,
+  "modified": "2025-09-17T13:35:43Z",
+  "ns": 860,
+  "pageid": 171675,
+  "sitelinks": {},
+  "title": "Item:Q143290",
+  "type": "item"
+}

@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhys ab Ifor Gôch ap Gruffudd"
+      },
+      {
+        "language": "en",
+        "value": "Rhys ab Ifor Goch ap Gruffudd"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145868$1B2D3BA5-E71E-44DA-9712-71FD7540AE83",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00707781"
+          },
+          "hash": "9179d9eded5d70ba47449414cc49c7c984c7c60c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145868$97BF7763-E43B-4FED-A0CF-E3CDB188E0FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142735",
+              "numeric-id": 142735
+            }
+          },
+          "hash": "2aa3013ea92cb8d42c045cd3428281131cece00b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145868$CC403A64-5010-4DFE-96E7-B66909A4F238",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145863",
+              "numeric-id": 145863
+            }
+          },
+          "hash": "25fce609dc16ee75fab8912e1e3c05ba5aaf918d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q145868$DC06CCD9-44CF-44EE-8DBA-F06FDD12641D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ivor-5"
+          },
+          "hash": "a21018ed29b33e6e91c7043ba8b6489965a6c980",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145868$8F28E3BD-1855-42AA-85BC-C0F2D17BD7E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145868$2E7D202E-E714-49BD-AD32-9D26EB656F68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145868$7323C4F2-F6D3-41B5-A9D6-D4FA38B8A257",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144849",
+              "numeric-id": 144849
+            }
+          },
+          "hash": "aba4c2a560a1183c3bcd8e72cd589f65fa9302a6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145868$6D76E089-1BD4-4C4D-88D9-B6F7DC4FA25D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145868$5EF1F77F-62FA-42F7-8553-764D611671A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1290-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9c643eba1c0a6206a07451ef866c12d5c20081b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145868$97A96127-59CF-48B4-99D1-45AF34EEF1C9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99080730"
+          },
+          "hash": "1a1b22645e0af5fe8a05b33bc24803fc28467426",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145868$37FF974E-1AF3-48C1-AE06-E5BD13196995",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhys ab Ifor Gôch ap Gruffudd Arms.svg"
+          },
+          "hash": "640d9ba8de829c9bb8491fa8c7928e8dda89716c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1290 -"
+    }
+  },
+  "id": "Q145868",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rhys ab Ifor Gôch ap Gruffudd"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhys ab Ifor Gôch ap Gruffudd"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rhys ab Ifor Gôch ap Gruffudd"
+    }
+  },
+  "lastrevid": 17569346,
+  "modified": "2025-09-17T14:41:28Z",
+  "ns": 860,
+  "pageid": 174253,
+  "sitelinks": {},
+  "title": "Item:Q145868",
+  "type": "item"
+}

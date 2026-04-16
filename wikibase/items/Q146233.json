@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "NN ferch Rhys Ddû ap Gruffudd ap Llywelyn"
+      },
+      {
+        "language": "en",
+        "value": "NN ferch Rhys Ddu ap Gruffudd ap Llywelyn"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146233$F49FC3A7-2C0E-4546-8353-00446F93D350",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00775404"
+          },
+          "hash": "191efff86a1b47935026c4a3cfdd30d4f6128ec3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146233$A627CE6A-1498-4B1B-A5F3-0A1570B35580",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150909",
+              "numeric-id": 150909
+            }
+          },
+          "hash": "2b0e997731bf75c960dbb487a7c8ae09589d5293",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146233$887BBB50-A54B-402E-9735-7A39CD1DDCF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150910",
+              "numeric-id": 150910
+            }
+          },
+          "hash": "29d8e3634141bc85fce35859a6b4ca5a3b381f2c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146233$F14E27EB-17AA-41E0-B50D-DAA275728CB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146233$44852797-0E1A-4054-90A3-4BEC9FEE795C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146233$D42557CB-8D13-4A0D-9361-7818FBAB9F29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143011",
+              "numeric-id": 143011
+            }
+          },
+          "hash": "5bc7ab76d229f69c241e28670593c4c698e4e687",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146233$A56B866E-4F22-493A-9ED8-A878D317149F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146233$03276F2E-18E5-4601-A47F-5884CFAD87B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131138835"
+          },
+          "hash": "52a61b5b9d810ed2603138ca078ccd326f75b5e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146233$EEA35781-9BF2-48E7-B457-B0EB93D4FA63",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "NN ferch Rhys Ddû ap Gruffudd ap Llywelyn Arms.svg"
+          },
+          "hash": "c5a11e050cd484a6b3d2cfb6d5ac579de205a622",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q146233",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "NN ferch Rhys Ddû ap Gruffudd ap Llywelyn"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "NN ferch Rhys Ddû ap Gruffudd ap Llywelyn"
+    }
+  },
+  "lastrevid": 17570076,
+  "modified": "2025-09-17T14:51:38Z",
+  "ns": 860,
+  "pageid": 174618,
+  "sitelinks": {},
+  "title": "Item:Q146233",
+  "type": "item"
+}

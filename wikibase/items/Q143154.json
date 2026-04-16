@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Celynyn of Llwydiarth"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143154$19256BC1-9374-4FA0-BC5F-89A80B93C8F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00750579"
+          },
+          "hash": "d9faa6ee033621e59aa87813df70440a932fa015",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143154$5712D6B3-4990-4195-A80B-5152D5799CF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142030",
+              "numeric-id": 142030
+            }
+          },
+          "hash": "daf654610bf815ca102a9ef8c707abd52580538f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143154$9EB3C20E-7673-475C-ADBE-B6711CB27DF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142380",
+              "numeric-id": 142380
+            }
+          },
+          "hash": "88c7eeeadca51c494a602fb7bffbb75a88ae37c3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143154$C07FBE60-DC9B-41C2-8C36-2FD3109A596C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143154$E8A9F878-848B-4D4B-84D3-1F8C46C725E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143154$20A7FC5A-785F-4DED-A90F-3D22B27BD6D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140013",
+              "numeric-id": 140013
+            }
+          },
+          "hash": "c73cfc8dc745f57f8571fab01d51efbb76e97734",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143154$5639A3ED-6172-4D4E-8DF6-D13D7B208847",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142651",
+              "numeric-id": 142651
+            }
+          },
+          "hash": "42caef3a4e845159f7dd06024bb6f65fd9f9830c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143154$08F7B250-69F8-4615-BDA2-F0CAC78C7EB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140759",
+              "numeric-id": 140759
+            }
+          },
+          "hash": "c2a33981fabe2d82d8885d41232da532cd972200",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143154$102F54D0-F3A6-4C41-93C0-A3FAD2016CCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143154$CC5EF2B2-0F00-4094-9E6C-D235037B231C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99302421"
+          },
+          "hash": "19675934b9eb271850812c77f5e8dea847cd1b2b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143154$E066B62B-177D-46C3-B687-22BC2F5DCDCB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Celynyn of Llwydiarth Arms.svg"
+          },
+          "hash": "36bd78078a0576e61c9bc440eadda863e398144d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q143154",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Celynyn o Lwydiarth"
+    },
+    "en": {
+      "language": "en",
+      "value": "Celynyn of Llwydiarth"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Celynyn of Llwydiarth"
+    }
+  },
+  "lastrevid": 17564520,
+  "modified": "2025-09-17T13:32:06Z",
+  "ns": 860,
+  "pageid": 171539,
+  "sitelinks": {},
+  "title": "Item:Q143154",
+  "type": "item"
+}

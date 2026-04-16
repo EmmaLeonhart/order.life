@@ -1,0 +1,340 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Decimus Valerius Asiaticus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144205$B9532D29-E8D3-41DF-90D5-E5AA2B63B3F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465182"
+          },
+          "hash": "3b541bc08965988873d9c94d462b76e17d85129e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144205$67D307BE-8D14-4DEF-916C-D129DE02BEF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144371",
+              "numeric-id": 144371
+            }
+          },
+          "hash": "7efcf17d4faa63b19c9b60505baef16f40425a4b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144205$FD71F3BA-CAE5-4852-9415-8F4B5AD62FF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144205$14A58ACF-170B-4246-A15E-D113B343F360",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144205$5C90BF80-294B-4546-91E5-24035DD93E3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144369",
+              "numeric-id": 144369
+            }
+          },
+          "hash": "c15231bc21153a4dc18bf9095444430e3dff2233",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144205$CA1C9545-2049-4847-8C24-9A2FBA09D1C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144204",
+              "numeric-id": 144204
+            }
+          },
+          "hash": "ddec65494ccba6403d289e31647cd426a4d5b770",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144205$07FFFEA8-9060-4514-8FD2-73C3B646A710",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141556",
+              "numeric-id": 141556
+            }
+          },
+          "hash": "4a6c9f323f7df341c212e94d6713a67f4182ddc8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144205$0E80E364-8BA7-4859-BB30-6F604036B7DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144205$4C193DEF-7E25-4815-9CC9-3F4D659005DB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0035-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2ea7477e1bac19d055df3941e15cf3b375fb477",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144205$5243658D-ED94-4062-815F-1A8AEEE5D6C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0069-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d3073290ca14be2eb2def9072208b75561587e1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144205$0881FF8F-008B-41D9-A6F5-C293E673E6C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4159575"
+          },
+          "hash": "fac5ddaf55ae4d6a8b46a8fb2e4d60a00e29c036",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144205$A6DAEE09-6043-4477-8EB1-906D506C4E1C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Decimus Valerius Asiaticus Arms.svg"
+          },
+          "hash": "7df0860f90f349530d8ef0d1e53985e9d0c3e091",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol any 70"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος συγκλητικός που υπηρέτησε ως λεγάτος της Βελγικής Γαλατίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "son-in-law of emperor Vitellius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul désigné pour 70"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (35-69)"
+    }
+  },
+  "id": "Q144205",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Децим Валерий Азиатик (легат)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Valeri Asiàtic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Decimus Valerius Asiaticus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δέκιμος Βαλέριος Ασιατικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Decimus Valerius Asiaticus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Décimo Valerio Asiático"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Decimus Valerius Asiaticus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Decimo Valerio Asiatico"
+    },
+    "la": {
+      "language": "la",
+      "value": "Decimus Valerius Asiaticus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Decimus Valerius Asiaticus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Децим Валерий Азиатик"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Decimus Valerius Asiaticus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Децим Валерій Азіатік (легат)"
+    }
+  },
+  "lastrevid": 17566172,
+  "modified": "2025-09-17T13:55:25Z",
+  "ns": 860,
+  "pageid": 172590,
+  "sitelinks": {},
+  "title": "Item:Q144205",
+  "type": "item"
+}

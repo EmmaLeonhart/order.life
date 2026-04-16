@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joan ferch Harry Stradling"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146012$931B3467-F8E0-49F2-B511-18BEF293B369",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00319518"
+          },
+          "hash": "b028fc321e8a624d57a68681c10e27b463f07713",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146012$926B9265-FD1F-47FA-A2B9-45E27051C876",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150646",
+              "numeric-id": 150646
+            }
+          },
+          "hash": "750035bccb37e034f8f2b220b5b6fb8420dfb25f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146012$E55CB81F-51D1-44C9-8A45-9330C9ED6529",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Stradling-613"
+          },
+          "hash": "4726c595aacf1f5057fd8d72d8d348dd8ed22d72",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146012$24EBD21A-FEC4-4AE8-A5A8-2D9229768CDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146012$FD5CDC7D-8BE8-46EF-80B1-9DC0670D09DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146012$F7AE7E6E-6F69-4EA3-9E04-7FFA16E17C22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146009",
+              "numeric-id": 146009
+            }
+          },
+          "hash": "c3329ffe9959bd273c8576519bad8f19133e6c45",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146012$6B8AF0F3-B8A4-4D0C-90B7-A6FCDD201239",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142810",
+              "numeric-id": 142810
+            }
+          },
+          "hash": "42a98c804a496e2eb12e73677acf7e31a640fece",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146012$88B1882A-B83B-4729-BCD1-AEDF5E4BBBC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146012$DF70AB46-5D69-4C9F-AE14-C79128E367BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1440-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6734652513696baafad946bb7d4c65ae3cd5f8e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146012$9D49BA5D-65A2-4C99-9E00-C4010C553FA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116812085"
+          },
+          "hash": "a3e24d4acba9a13c3f6cf951608d2f6723964409",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146012$C8F79BF6-7FB9-4CA9-9FD3-335068E9F462",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joan ferch Harry Stradling Arms.svg"
+          },
+          "hash": "f9041da10e2adf9cc7cc49d470c216860fac8cb4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1440 -"
+    }
+  },
+  "id": "Q146012",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Joan ferch Harry Stradling"
+    }
+  },
+  "lastrevid": 17569634,
+  "modified": "2025-09-17T14:45:28Z",
+  "ns": 860,
+  "pageid": 174397,
+  "sitelinks": {},
+  "title": "Item:Q146012",
+  "type": "item"
+}

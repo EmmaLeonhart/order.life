@@ -1,0 +1,206 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isabel 'filia regis'"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145025$B861C623-F633-40D2-ACF2-FF5F305E3712",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00110851"
+          },
+          "hash": "83c7636d25f03d3f2591aca08acff2f0d41374c4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145025$60F77587-2DB3-4414-8BFD-86B1D489E899",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142223",
+              "numeric-id": 142223
+            }
+          },
+          "hash": "08423d7f00c4ef1630ca6c2fe1b9d509c91f2621",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145025$D984BB9D-D42D-4E72-B9B7-9EDD851062C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145025$A20EF501-D816-4DF3-94F4-CB568F3E5832",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145025$716181DE-FD0E-4D75-AA9E-212E3FF5B65A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144916",
+              "numeric-id": 144916
+            }
+          },
+          "hash": "4b353d8da763655453b4de417942357f9304a81c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145025$6D5EBDC4-6B17-4DB4-8D08-E4F8BEEAB950",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145025$853F8D66-3DC2-4261-A818-5A790CA4CE58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q103567947"
+          },
+          "hash": "34b10f55014de804c56956f82c7d9edb9a9597ec",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q145025$1FF3C173-B36C-4116-9674-9D0B3E95B086",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabel 'filia regis'"
+          },
+          "hash": "4e4dd7920a71b5497b2460b9328c947e630dc0a5",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145025$CD6FA771-8EA8-45D4-9476-C43ED9A0A0B9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabel 'filia regis' Arms.svg"
+          },
+          "hash": "cfc1ef76bd646f9ada2ef728ae3fbdde79d09ac5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q145025",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Isabel 'filia regis'"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Isabel 'filia regis'"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Isabel 'filia regis'"
+    }
+  },
+  "lastrevid": 17567672,
+  "modified": "2025-09-17T14:17:31Z",
+  "ns": 860,
+  "pageid": 173410,
+  "sitelinks": {},
+  "title": "Item:Q145025",
+  "type": "item"
+}

@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kjartan Ólafsson"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q143935$B4BAC697-77E1-49F1-BCE1-52CB710C23CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143935$D2448E76-35ED-4F3B-BAE0-A7E1CD9AF438",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143935$DDBD866E-CCD1-4CC2-A491-1636FF28E679",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141274",
+              "numeric-id": 141274
+            }
+          },
+          "hash": "665dd5781f4f345b955900dd8bd167d2f451b237",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143935$BECECE01-3584-421C-B0BF-0CFBEAE7BFCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143935$5A8D642E-32F1-4986-95D5-7550506524FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0959-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1057a5794de75f839982a145d4d4e0e3678038c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143935$43E4119B-E244-4162-94F5-AF3AE25FC2E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1003-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4882f645be120ef4ac42d3d81bd016974053c4c6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143935$16D69620-D3A3-4598-AABC-2FD41636B14A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5960094"
+          },
+          "hash": "b970d0f40ed9722ed5c27dadc9a65107de53d719",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q143935$59912C92-35CC-44DF-91DA-E36C1552DB4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001169157334"
+          },
+          "hash": "f0f9a528fa9523a12f3046f05ee7b7a96bf03e5f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143935$9661C90F-67EA-43FB-AEE2-EDE9D7B72790",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kjartan Ólafsson Arms.svg"
+          },
+          "hash": "c3e3840ac83879bc15ae0df7f797949de1bb113b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q143935",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kjartan Ólafsson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kjartan Ólafsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kjartan Ólafsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kjartan Ólafsson"
+    },
+    "is": {
+      "language": "is",
+      "value": "Kjartan Ólafsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kjartan Ólafsson"
+    }
+  },
+  "lastrevid": 17565704,
+  "modified": "2025-09-17T13:48:47Z",
+  "ns": 860,
+  "pageid": 172320,
+  "sitelinks": {},
+  "title": "Item:Q143935",
+  "type": "item"
+}

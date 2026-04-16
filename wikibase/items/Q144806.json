@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gruffudd ap Harri ap John ap Gwilym of Newcourt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144806$894E82EA-731C-476B-808C-3F2C132807B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00710205"
+          },
+          "hash": "c222b6c64039f877b2f4f6360455857c1de1a40d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144806$1E4DE8FF-4E52-467B-9D75-70A3E0EF7A95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148834",
+              "numeric-id": 148834
+            }
+          },
+          "hash": "75b13e7c4fc1472eec45fac6960ab37e6416c9d0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q144806$79E5AFDD-9DF0-4E27-8479-F99D5FE1D7C3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Harry-5"
+          },
+          "hash": "700e6ff55d1245a43969aad404a31f6f91a2a960",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144806$CA5D14B3-BEFA-49E1-AA70-9F3B3D9EE42C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144806$C0B2E178-288D-431A-8D69-940DD6D6BE9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144806$DE1FA827-A3CB-46DC-9984-C1F9E1916F70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142071",
+              "numeric-id": 142071
+            }
+          },
+          "hash": "ef7294ddcb1db84700f0b97bb614071a6502b085",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144806$6998806A-59FF-42AF-8F1E-ED2FE8DFCAD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142892",
+              "numeric-id": 142892
+            }
+          },
+          "hash": "ec6a3dcf70f159de056dae01fea3fcd96e77c25c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144806$06B69598-441C-492A-91E3-92E9468DE658",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144806$7FD4828F-3FAC-4381-BA3C-D81333C23AC9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1375-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3eb2e46633102c4985fbd969723689e83c4d8f95",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144806$EC9EEBAE-3020-4E3C-9AAC-E51B9CA712A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116812169"
+          },
+          "hash": "b8eae535ae635650b69c1cc810f62322fecfd2c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144806$090C82E9-C15A-481E-AF6A-BE4DEEFC6223",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gruffudd ap Harri ap John ap Gwilym of Newcourt Arms.svg"
+          },
+          "hash": "844ef1a586585d6d71ebe4b6158acaf5e287831f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1375 -"
+    }
+  },
+  "id": "Q144806",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gruffudd ap Harri ap John ap Gwilym of Newcourt"
+    }
+  },
+  "lastrevid": 17567246,
+  "modified": "2025-09-17T14:11:20Z",
+  "ns": 860,
+  "pageid": 173191,
+  "sitelinks": {},
+  "title": "Item:Q144806",
+  "type": "item"
+}

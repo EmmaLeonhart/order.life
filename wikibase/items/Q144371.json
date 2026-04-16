@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Lollius Paulinus Decimus Valerius Asiaticus Saturninus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144371$4024DE1A-3EB4-4239-8010-B3D498A3A200",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465179"
+          },
+          "hash": "e3b44aa32b86bf977be300295f8ac493335e587b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144371$22DFA69A-59CF-4DE4-B0FE-4060F46D4DD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148291",
+              "numeric-id": 148291
+            }
+          },
+          "hash": "c25dc764722c8aa0bb7af7bb5a47a9106197477c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144371$7C0C104E-686F-4F8D-821F-0F4C2B94E154",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144371$201BF793-AACF-4AE2-8EB1-A2E1D02B4B30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q144371$99E2445B-2E78-4DBA-8716-449877817D19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148290",
+              "numeric-id": 148290
+            }
+          },
+          "hash": "5123ec44c90360ba7595b664ec4efc956e25cf46",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144371$4C0CF1F6-829F-42DE-8AF2-9F1207669E1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144205",
+              "numeric-id": 144205
+            }
+          },
+          "hash": "c7c85aa79106b81ecca00d373f8b4cb0cd1788dc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q144371$5449C0E4-9F3D-43D7-B1B2-BBF079D81C56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144369",
+              "numeric-id": 144369
+            }
+          },
+          "hash": "1538f2c26b617683628432a03d13496396d5b40f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144371$156244F6-DE8C-4387-BE9F-047F25154036",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144371$4B8EFBEC-80C6-4BED-918B-934E335591F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0060-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b98e80082d823002cf6c3fa6f4113e9b7c461679",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144371$07F5A72B-E94D-4D6D-A371-B069A288C99A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q717383"
+          },
+          "hash": "dfb3790f7df92b932d571a3c8568dfcde2c4130e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144371$8BF906F3-4D9A-4278-8C21-DD627BC557C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Lollius Paulinus Decimus Valerius Asiaticus Saturninus Arms.svg"
+          },
+          "hash": "d41e617264f493f8c89b3c4c9cc5fab892a49744",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 94 und Konsul 125"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 94 and 125 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 94 et en 125"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q144371",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Децим Валерий Азиатик Сатурнин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Valeri Asiàtic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Decimus Valerius Asiaticus Saturninus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Λόλιος Παυλίνος Δέκιμος Βαλέριος Ασιατικός Σατουρνίνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Lollius Paulinus Decimus Valerius Asiaticus Saturninus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Décimo Valerio Asiático Saturnino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Lollius Paulinus Decimus Valerius Asiaticus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Lollio Paolino Decimo Valerio Asiatico Saturnino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Lollius Paullinus Decimus Valerius Asiaticus Saturninus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Lollius Paulinus Decimus Valerius Asiaticus Saturninus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Lólio Paulino Décimo Valério Asiático Saturnino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Lólio Paulino Décimo Valério Asiático Saturnino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Лоллий Паулин Валерий Азиатик Сатурнин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Лоллій Пауллін Децим Валерій Азіатік Сатурнін"
+    }
+  },
+  "lastrevid": 17566450,
+  "modified": "2025-09-17T13:59:35Z",
+  "ns": 860,
+  "pageid": 172756,
+  "sitelinks": {},
+  "title": "Item:Q144371",
+  "type": "item"
+}

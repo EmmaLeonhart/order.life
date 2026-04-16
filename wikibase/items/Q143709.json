@@ -1,0 +1,381 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Holmger Filipsson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143709$70B04F05-B5BA-4FE2-9830-C713F17DE64E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00509107"
+          },
+          "hash": "fd3656671068b3ced58bdba1522c0d2cd893baaa",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q143709$2DDC0DBD-6958-4E49-8F46-53BD95C0290E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147254",
+              "numeric-id": 147254
+            }
+          },
+          "hash": "8e9fa7add76313ec45ca0951adca9a59321bd40a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143709$B682E8D9-624C-4F07-B9F0-14DA185B32D6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Filipsson-2"
+          },
+          "hash": "045789b2912c6dad60d32448c486036258f9d9b2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143709$F928B4E2-D91F-4B2A-84DC-5908E0F11169",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143709$E5B7D2A7-F976-4BF9-90AE-DFFC8AA7FB9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143709$4AECA0EF-DD78-4721-B997-373889953DE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146558",
+              "numeric-id": 146558
+            }
+          },
+          "hash": "c94e7d03dab77edc30154a08d49c9ac799055210",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143709$5730F92A-7EDC-4C12-803E-4D63F92D45C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141120",
+              "numeric-id": 141120
+            }
+          },
+          "hash": "a657cf2a00d979ceb4c04046a1dc4f4d36e35e59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143709$BB6F42ED-5DAB-44DB-9504-1A0CD416749B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143709$C002B45B-4658-491E-8609-78E0FCDFF0DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143709$EE838FFB-5474-4699-83F5-FF6F49835935",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1209-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84b0be69cad8d30a25ca87c3ce210632bfa29bd0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143709$F1B1B15D-9612-456B-B23A-0A334FB05B86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20754966"
+          },
+          "hash": "1bc4c562cba1bc6aa9b83eb1bbee2fd820581067",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143709$08C0993C-1D83-419A-9FD3-9C76F7E44468",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=holmger;n=erikatten"
+          },
+          "hash": "20046b81fd739f1bfb40a0c07462d2b093decbdd",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143709$C62852EA-6F48-4634-983C-0A044D8AFE05",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Holmger Filipsson Arms.svg"
+          },
+          "hash": "2cd72e76cf778a7ed48d3f1438e1a1190a6ac900",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1160 - 1191"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1160-1191)"
+    }
+  },
+  "id": "Q143709",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Holmger Filipsson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Holmger Filipsson"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Holmger Filipsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Holmger Filipsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Holmger Filipsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Holmger Filipsson"
+    },
+    "et": {
+      "language": "et",
+      "value": "Holmger Filipsson"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Holmger Filipsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Holmger Filipsson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Holmger Filipsson"
+    },
+    "he": {
+      "language": "he",
+      "value": "הולמגר"
+    },
+    "is": {
+      "language": "is",
+      "value": "Holmger Filipsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Holmger Filipsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Holmger Filipsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Holmger Filipsson"
+    },
+    "se": {
+      "language": "se",
+      "value": "Holmger Filipsson"
+    },
+    "sje": {
+      "language": "sje",
+      "value": "Holmger Filipsson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Holmger Filipsson"
+    },
+    "sma": {
+      "language": "sma",
+      "value": "Holmger Filipsson"
+    },
+    "smj": {
+      "language": "smj",
+      "value": "Holmger Filipsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Holmger Filipsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Holmger Filipsson"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Holmger Filipsson"
+    }
+  },
+  "lastrevid": 17565318,
+  "modified": "2025-09-17T13:43:21Z",
+  "ns": 860,
+  "pageid": 172094,
+  "sitelinks": {},
+  "title": "Item:Q143709",
+  "type": "item"
+}

@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jean de Béthune"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q145465$CC1183F2-7D85-45EA-A90D-3DE4C744DB2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145465$26C17388-9DFC-4ABC-B7AD-86E7E20A7E91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145465$C5AED651-4ED2-4869-9A46-3B187CD1D66B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145462",
+              "numeric-id": 145462
+            }
+          },
+          "hash": "037b030fd6730b54019fc51dc622d64346c52883",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145465$4BEDFF8C-50D5-4984-AEA4-7670C867AB58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145463",
+              "numeric-id": 145463
+            }
+          },
+          "hash": "c1787cb19ab28b7ca35bf6d041e2ba7cd3dfdbe6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145465$C2A5AF94-D4DC-442A-9D05-4A6AAB7444CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145465$BE081F8C-C298-4240-A41A-1C8753219B06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q145465$BAAF1249-6DF8-49BC-830B-701A7F2C3EB5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1219-07-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0831bc1620968d3bb1d6d1d96c6a5851ff6aeb05",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145465$6A1D275A-25DF-46D5-B954-B503B525E3A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1685923"
+          },
+          "hash": "c1469d6ffa5e022abbab22c345e8d763deb2b6d3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q145465$37C43A39-B2CE-4412-9FE3-8C644F599AC3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=jean;n=de bethune;oc=5"
+          },
+          "hash": "abdb281ddc6ba427647a97e31d7622e11a5143de",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145465$4EEC2C2A-D970-4974-BC6C-AE224FC2E0E5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jean de Béthune Arms.svg"
+          },
+          "hash": "61f5d5a7c0ecdbd3547123e6978d137e7cacc28c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bischof von Cambrai und Kreuzfahrer"
+    },
+    "en": {
+      "language": "en",
+      "value": "French cleric (died 1219)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "prelaat"
+    }
+  },
+  "id": "Q145465",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Jean de Béthune"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jean de Béthune"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jean de Béthune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jean de Béthune"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean de Béthune"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Jean de Béthune"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ժան դը Բեթյու"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jean de Béthune"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Joan de Betuna"
+    }
+  },
+  "lastrevid": 17568544,
+  "modified": "2025-09-17T14:30:17Z",
+  "ns": 860,
+  "pageid": 173850,
+  "sitelinks": {},
+  "title": "Item:Q145465",
+  "type": "item"
+}

@@ -1,0 +1,721 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John XI"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q143973$3162B88B-C060-487E-B67D-B0C706EEAFCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "447588"
+          },
+          "hash": "1ea82d15e75d58d8df79b666e7c3838a2ebd3133",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q143973$BDBB25C6-CB4D-4183-A3BA-F4DF8F5EED19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00442502"
+          },
+          "hash": "ee4916906dae1353f6f9383770b596513e5f0355",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143973$D9B19B16-210B-49E6-B006-BF0176157633",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Di_Roma-29"
+          },
+          "hash": "deedeea6527c9969fd909da866d0e1885cea04ce",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143973$BC42C1CD-F60B-4157-AF71-4B017303E8AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143973$A6629D27-176E-437F-8758-8E9AF1CB0107",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143973$D18C81BF-C8A3-4899-B255-95AD9B8C7996",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147895",
+              "numeric-id": 147895
+            }
+          },
+          "hash": "4fe30b9f32fd68863bbe38a3a42d28dc313c27e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q143973$0053D63D-7F53-4A77-9ABA-9CC682A84595",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124161",
+              "numeric-id": 124161
+            }
+          },
+          "hash": "e4b4da7bcedd4fa7592cc2eb0bebc98974b74b9c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q143973$5E320CCD-1847-48A4-BD3E-CCF6F1794100",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8824003"
+          },
+          "hash": "6929071a89735a6e0e46e4d58e53eff2d783803e",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143973$397E1B32-D030-406C-917C-6E0C36CC512F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143973$FAE5A597-C151-4A07-B52B-69D4F00C1BC6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0910-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "feafa9c63730a33358816614dabb116582988ae7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143973$0384342B-2FF3-484B-B551-CE7563B4237D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0936-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9bd10a477067417dea0120769165a3f28625f380",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143973$57F324CB-9CF0-4C9F-9E00-2A56E004F6B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q181959"
+          },
+          "hash": "60783b839d7515e3c48e4b63862d7270a9b3b21c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143973$6DD8D724-B3CE-4416-A0CA-C8C4E9870F96",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John XI Arms.svg"
+          },
+          "hash": "6c22bf562b5336ec7dd0a073d630e0509566493c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "بابا"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "папа рымскі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "papa de l'església catòlica"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "papež"
+    },
+    "da": {
+      "language": "da",
+      "value": "italiensk præst"
+    },
+    "de": {
+      "language": "de",
+      "value": "Papst (931–935)"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πάπας Ρώμης"
+    },
+    "en": {
+      "language": "en",
+      "value": "pope"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "papo de la katolika eklezio"
+    },
+    "es": {
+      "language": "es",
+      "value": "125.º papa de la Iglesia Católica"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش ایتالیایی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "paavi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "pape de l’Église catholique (931-936)"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "pápa"
+    },
+    "he": {
+      "language": "he",
+      "value": "אפיפיור"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "papa"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a római katolikus egyház 127. pápája"
+    },
+    "id": {
+      "language": "id",
+      "value": "Paus Gereja Katolik dari tahun 931 hingga 935"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Papa ti Katoliko a Simbaan"
+    },
+    "it": {
+      "language": "it",
+      "value": "125° vescovo di Roma e papa della Chiesa cattolica dal 931 al 935"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "italiensk prest"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans priester (910-935)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "italiensk prest"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "papież z X wieku"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "папа римский"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "поглавар Римокатоличке цркве"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Påve i romersk-katolska kyrkan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "天主教會第125任教宗"
+    }
+  },
+  "id": "Q143973",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Pous Johannes XI"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "يوحنا الحادي عشر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "يوحنا الحداشر"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Papa Juan XI"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ян XI"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Ян XI"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йоан XI"
+    },
+    "br": {
+      "language": "br",
+      "value": "Yann XI"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan XI"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Gáu-huòng Ioannes 11-sié"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Juan XI"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan XI."
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes XI."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Johannes XI."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Johannes XI"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πάπας Ιωάννης ΙΑ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "John XI"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pope John XI"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pope John XI"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Johano la 11-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan XI"
+    },
+    "et": {
+      "language": "et",
+      "value": "Johannes XI"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joan XI.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ژان یازدهم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Johannes XI"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean XI"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pápa Eoin XI"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán XI"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Johannes XI."
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Kau-fòng Ioannes 11-sṳ"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוחנן האחד עשר"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ivan XI."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XI. János pápa"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հովհաննես XI"
+    },
+    "id": {
+      "language": "id",
+      "value": "Paus Yohanes XI"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "Papa Juan XI"
+    },
+    "io": {
+      "language": "io",
+      "value": "Papo Ioannes la 11ma"
+    },
+    "it": {
+      "language": "it",
+      "value": "papa Giovanni XI"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨハネス11世"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Paus Yohanes XI"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იოანე XI"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "교황 요한 11세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ioannes XI"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Папа Јован XI"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Paus Ioannes XI"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "ژان یازدهم"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kàu-hông Ioannes 11-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johannes 11."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Paus Johannes XI"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Johannes 11."
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Joan XI"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan XI"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Papa João XI"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Papa João XI"
+    },
+    "qu": {
+      "language": "qu",
+      "value": "Huwan XI"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Papa Ioan al XI-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн XI"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Giuvanni XI"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ivan XI"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ján XI."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Papež Janez XI."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Papa Gjoni XI"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Папа Јован XI"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johannes XI"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Papa Yohane XI"
+    },
+    "th": {
+      "language": "th",
+      "value": "สมเด็จพระสันตะปาปาจอห์นที่ 11"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Juan XI"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "XI. Johannes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іван XI"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پوپ جان یازدہم"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Giáo hoàng Gioan XI"
+    },
+    "war": {
+      "language": "war",
+      "value": "Papa Juan XI"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "若望十一世"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Pópù Jòhánù 11k"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "若望十一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "教宗若望十一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "教宗若望十一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "教宗若望十一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "教宗若望十一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "教宗若望十一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "教宗若望十一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "教宗若望十一世"
+    }
+  },
+  "lastrevid": 17565772,
+  "modified": "2025-09-17T13:49:43Z",
+  "ns": 860,
+  "pageid": 172358,
+  "sitelinks": {},
+  "title": "Item:Q143973",
+  "type": "item"
+}

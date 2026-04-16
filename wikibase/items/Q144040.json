@@ -1,0 +1,386 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Cornelius Lentulus Clodianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144040$C6DCED99-42C5-4D17-90AB-B351003661B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465095"
+          },
+          "hash": "19e6f771fc72a038a701dc6e46f6dedce7b8b765",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144040$B567FE3C-8E37-47B7-8ED5-FD3D5D845F0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148039",
+              "numeric-id": 148039
+            }
+          },
+          "hash": "33bc1ea064659d3a8779e454910bb95fe279d577",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144040$4DAB512E-D04C-45A2-B185-0CE4D6FC5D00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144040$E5D299D1-4BCC-4819-81AA-45323432E3A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144040$E00C258C-7E41-4A8A-B227-49CB11258AE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148037",
+              "numeric-id": 148037
+            }
+          },
+          "hash": "d6fe1d51d7e979123abfebb466d0012cb1fe5a39",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144040$95D71836-5104-4AEA-882D-4906763B4542",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144040$1D31A88F-2394-4280-A320-BE8B4F96BA14",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0113-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "76f400688b322afdf6b1412cfc10a084ac16529e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144040$F5A52345-A27F-4254-B04E-E85169124915",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144040$11340B94-C4DB-464E-840C-A7AB35DF83D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q462249"
+          },
+          "hash": "b7a0c748dcadd15834349d582f9c54ad628ea562",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144040$A0EEAC07-6C9A-4EF0-A583-4476A43C84E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Cornelius Lentulus Clodianus Arms.svg"
+          },
+          "hash": "2318504903d03bcaf3f008a36d5f60c970a7082f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 72 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 72 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 72 a.C."
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 72 года до н.э."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q144040",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غنايوس كورنيليوس لينتولوس كلوديانوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جنايوس كورنيليوس لينتولوس كلوديانوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гней Корнелий Лентул Клодиан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Corneli Lèntul Clodià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Cornelius Lentulus Clodianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Κορνήλιος Λέντουλος Κλοδιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Cornelius Lentulus Clodianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Cornelio Léntulo Clodiano"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gneo Kornelio Lentulo Klodiano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Cornelius Lentulus Clodianus"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gnej Kornelij Lentul Klodijan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cnaeus Cornelius Lentulus Clodianus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gnaeus Cornelius Lentulus Clodianus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Cornelio Lentulo Clodiano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・コルネリウス・レントゥルス・クロディアヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Cornelius Lentulus Clodianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Cornelius Lentulus Clodianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Cornélio Lêntulo Clodiano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Cornélio Lêntulo Clodiano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Корнелий Лентул Клодиан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gnej Kornelije Lentul Klodijan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gnaeus Cornelius Lentulus Clodianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Корнелій Лентул Клодіан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "格涅鳥斯·寇蒂安勒斯"
+    }
+  },
+  "lastrevid": 17565898,
+  "modified": "2025-09-17T13:51:34Z",
+  "ns": 860,
+  "pageid": 172425,
+  "sitelinks": {},
+  "title": "Item:Q144040",
+  "type": "item"
+}

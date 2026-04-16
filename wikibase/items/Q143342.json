@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Haimo de St. Clair"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143342$C2A8DA46-1099-4ACA-BC2D-50E5B739EC57",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00463759"
+          },
+          "hash": "5b9624fc963ecf27e515cda85bb6cabf350e2a99",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143342$76BFEAE6-6235-4DCF-840E-6F799B4FA837",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "St_Clair-890"
+          },
+          "hash": "03ecd4535188a4692966873016b9eb2bb4e8e828",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143342$41FA1590-95E2-4A56-AD46-73D9FF9160F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143342$E010B161-1143-44F8-911E-1FC1B1559CC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q143342$139AFEAD-D0DC-4F67-8F9C-F809B1F5ED54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140896",
+              "numeric-id": 140896
+            }
+          },
+          "hash": "b2b1cc87d6406919ffe69cea56137864f3900c0a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143342$CA29C6C8-F5A8-4B01-907E-C656E73068C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p46696.htm#i466951"
+          },
+          "hash": "e8c57e324aaabe9864fff05a123fca7530e35f5d",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143342$E1C46FC6-9C26-41B5-8FF6-496CD80541B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143342$9A051899-00AE-45F8-A6D5-942542083FAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc14efe6d96336a34324dc61d6c96d5d9c81e3e5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143342$628C834C-1082-4E67-9233-78A164B774E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1140-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d86e2adf31010b6aaa21a905913b19fedfe8682",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143342$D41B675C-051C-42F5-B726-D0A30BACE259",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76012789"
+          },
+          "hash": "84f317d946edfbdc3214f92536db66c97e20b726",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143342$196EC151-9153-4CFD-85C4-CAEDF702786D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haimo de St. Clair Arms.svg"
+          },
+          "hash": "2aed2bbb61c30aa9f60850eaa50cbd952d9ba027",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=466951"
+    }
+  },
+  "id": "Q143342",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haimo de St. Clair"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Haimo de St. Clair"
+    }
+  },
+  "lastrevid": 17564842,
+  "modified": "2025-09-17T13:36:37Z",
+  "ns": 860,
+  "pageid": 171727,
+  "sitelinks": {},
+  "title": "Item:Q143342",
+  "type": "item"
+}

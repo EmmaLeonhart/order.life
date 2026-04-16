@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jane ferch John Wogan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146150$F81AB9F2-0F77-48F5-9E1B-33F4BD3D3407",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00749919"
+          },
+          "hash": "6981051cdb0c3875142789390600a4c1015deb50",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146150$3047FBDA-5805-42DF-8B48-D11860F43157",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150808",
+              "numeric-id": 150808
+            }
+          },
+          "hash": "639b9de25adcc55e3ef5fcb15e5c660b9d8dac48",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146150$F5AEE66C-2061-49D0-A07B-8BF67C9004AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146150$208DF1D7-C15C-4F74-BCF8-6BA6686E8563",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146150$90574D87-ACC7-4910-AB60-6EEE0F6078C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146015",
+              "numeric-id": 146015
+            }
+          },
+          "hash": "9f5f14b4d0bc0df46b1af278544aa1361a738eb2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146150$0841EB0A-0EC5-43ED-8D87-264EC0D60242",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142946",
+              "numeric-id": 142946
+            }
+          },
+          "hash": "350bba95cc84e98fd9f512e8688e42540d0377e5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146150$E6309396-90B5-4510-8FE5-54DD73EAEE78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146150$F416B97E-1CB1-4B34-8953-91D00BEFAE79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131347042"
+          },
+          "hash": "9ab543a42bcf69aa63bba5e1b0560b76555eb99d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146150$78CBF5D4-0EA6-49DF-97A6-D07CFCF77A84",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jane ferch John Wogan Arms.svg"
+          },
+          "hash": "c5aa68376ac8880ead70026c4306682df6b9d2fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q146150",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jane ferch John Wogan"
+    }
+  },
+  "lastrevid": 17569910,
+  "modified": "2025-09-17T14:49:20Z",
+  "ns": 860,
+  "pageid": 174535,
+  "sitelinks": {},
+  "title": "Item:Q146150",
+  "type": "item"
+}

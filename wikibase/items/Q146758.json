@@ -1,0 +1,326 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gerulf I of Frisia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146758$F71061DE-1D6A-4ABF-BC25-E3A5D25920C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "825494"
+          },
+          "hash": "2b3651cca631476d9272c3a94a7e290e0549acb0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146758$8A660E26-FCBE-4F6D-8234-99E4221B8707",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126269",
+              "numeric-id": 126269
+            }
+          },
+          "hash": "31f361dea0d6d76058b41458d4a2c7ee8e16fbe2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146758$A066655C-10EB-4E96-BE0D-D1F2B4E9E69D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Friesland-40"
+          },
+          "hash": "65d922f5e0e6dadc2c9fd425f523fa4a98b1e284",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146758$86DCB261-3E6E-49E4-9004-CEED1896A83E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146758$FAFAE3A7-4194-410E-8908-91DEE8A37C86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146758$A41F1084-14ED-4E4D-984D-BB7E60498C39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146758$0B917B0D-B94D-4153-8C69-07BC7E557EC0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0900-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60d5bc23e17e0855bd82578012de7e757942c956",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146758$12DF3CD6-FA34-4DA9-B30E-C4B356BEFF8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0865-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "15d792983d76795b73c5d7f1e6e8f18827a9d746",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146758$A4118580-E415-4739-A46D-19377815491D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q719687"
+          },
+          "hash": "2b7d7193fc7f57ab2faa88d346e2e675f15d5287",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146758$48ABA637-C2FB-4CDA-99E8-D8D39F2DE65F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gerulf I of Frisia Arms.svg"
+          },
+          "hash": "545a8de9bcc66c263493a8b4c969033456b6646a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf in Mittelfriesland"
+    },
+    "en": {
+      "language": "en",
+      "value": "count in Frisia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Conde de Holanda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Compte de Frise"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Graaf van West-Frisia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Вестерго"
+    }
+  },
+  "id": "Q146758",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "خيرولف الأول من فريزيا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "خيرولف الاول من فريزيا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Герулф"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gerulf I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gerulf I. Fríský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gerulf"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκέρουλφ Α΄ της Φρισίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gerulf I of Frisia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Gerulf I of Frisia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gerulf I of Frisia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gerolfo I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gérulf Ier"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Gerulf de Aldere"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gerulfo I di Frisia"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გერულფ I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gerulf I of Frisia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gerulf"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Герульф Старший"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gerulf I of Frisia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Герульф Старший"
+    }
+  },
+  "lastrevid": 17571046,
+  "modified": "2025-09-17T15:06:40Z",
+  "ns": 860,
+  "pageid": 175143,
+  "sitelinks": {},
+  "title": "Item:Q146758",
+  "type": "item"
+}

@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gofraid mac Domnaill"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q143752$61FA628D-4217-43AD-A11F-A97621EC343D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00076184"
+          },
+          "hash": "dcc438c280092b97add5303085d5a6195eae0e2a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q143752$3558C59A-BC72-4B0B-AF17-535DC8786B45",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "MacWilliam-10"
+          },
+          "hash": "79a96d4d1ff0367f8aaf7e04492d50b74e7c3dea",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q143752$83A39395-ADB9-450E-94A6-AB540FE09136",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q143752$02649AFF-B1ED-48DB-90EF-8B289A313194",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q143752$27306AB1-36C8-4315-BF2C-F0756AAA0274",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10773.htm#i107722"
+          },
+          "hash": "2ee6ff97c7b593e40c92019d5712c4b7116e0784",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q143752$0591E573-CBB2-46C0-AC45-A3EE1C5DD7C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141141",
+              "numeric-id": 141141
+            }
+          },
+          "hash": "5a8d4a315b750a62d1d500f3e9ddbe9feaad6231",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q143752$6761A66E-B61D-4B53-A617-2C056F53244D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q143752$AFCBAFF7-DDF6-4808-B23E-BFAB819C3C99",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q143752$2FE979B5-3E09-483C-8DDE-C4084E12D7D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1212-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "526c268385abcaed434bd8ff193aac25cddbe6bf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q143752$7195AAE8-95CB-4DDC-A683-F9B22F90FAF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1444819"
+          },
+          "hash": "7521176251f91068cb5306ea4bcb3cf3bf6a2ded",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q143752$E463C929-58FB-44CB-A9A4-F4A7B74FA636",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=godfrey;n=macwilliam"
+          },
+          "hash": "d5cd93ee2988de5c89eaf8f4b35070b29fc3f5d3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q143752$5B42DFAC-85B8-4174-994C-3784E26CA74E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gofraid mac Domnaill Arms.svg"
+          },
+          "hash": "876f24c57595bd3f33991c496f32b138da587383",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Scottish rebel"
+    }
+  },
+  "id": "Q143752",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gofraid mac Domnaill"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gofraid mac Domnaill"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gofraid mac Domnaill"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gothred MacWilliam"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gofraid mac Domnaill"
+    }
+  },
+  "lastrevid": 17565400,
+  "modified": "2025-09-17T13:44:31Z",
+  "ns": 860,
+  "pageid": 172137,
+  "sitelinks": {},
+  "title": "Item:Q143752",
+  "type": "item"
+}

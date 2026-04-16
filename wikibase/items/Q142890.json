@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Efa"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142890$AE57A3E0-CE1F-4477-B08F-89E2DDD30336",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00581026"
+          },
+          "hash": "1d99ced220a58be4418dbca78635201ea417508c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142890$0BA86A3E-B846-456C-A71C-945D3AF8679C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140570",
+              "numeric-id": 140570
+            }
+          },
+          "hash": "61a46058a0377b6f8f84a3c6f92d6faf7153ceaf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q142890$FF33B078-E500-43DB-9BC5-4625393181BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Hopkin-4"
+          },
+          "hash": "4be00a66c70b0a603016b4fd84dc5d29a06e6768",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142890$62407ED0-AB90-4729-9A22-1446A2DF07C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142890$3366BD29-6A45-4F86-BB31-74B1B78783BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142890$55E22EC1-D97C-4993-8AD3-C871E8138F3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q139002",
+              "numeric-id": 139002
+            }
+          },
+          "hash": "ebd83d89c4428f8e6c2d3b75155ed8588ec8cab0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142890$4CA5F70E-642E-490E-B96A-55145070A036",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146090",
+              "numeric-id": 146090
+            }
+          },
+          "hash": "61aeb76abc8f10598ee553521da03c2ea3a2c451",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142890$E13EBED1-CBDC-4BAC-9340-1EC15E2EC928",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q142890$C348BC9D-8B3E-4E8A-AC34-97C693D5FFB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142890$6D3F06C0-C638-4A38-80B7-C0DA3B5AE9EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99080769"
+          },
+          "hash": "fb02742506d533209424e69db6d964a4b2d2ccd9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142890$F13B0F8C-9277-42DA-9F57-942FA2BF0A83",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Efa Arms.svg"
+          },
+          "hash": "81634d68c0a1d19ec05c4929d691bbd232391e15",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1250 - est."
+    }
+  },
+  "id": "Q142890",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Efa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Efa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Efa"
+    }
+  },
+  "lastrevid": 17563992,
+  "modified": "2025-09-17T13:24:43Z",
+  "ns": 860,
+  "pageid": 171275,
+  "sitelinks": {},
+  "title": "Item:Q142890",
+  "type": "item"
+}

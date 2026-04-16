@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eleanor de Neville"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q145142$0C6748F8-DDD1-40C3-82BA-406E18095887",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Neville-364"
+          },
+          "hash": "5b83dd214bfd10a40af7362ade51abed56532839",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145142$1D93B8F4-2D61-45CD-B8CC-AEB78FA808BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145142$E6B22C0F-634F-45F1-ADF5-5698DC3D0ACC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145142$1E1AF0EA-66AF-4445-B554-F7D72BFBBF20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149371",
+              "numeric-id": 149371
+            }
+          },
+          "hash": "295355d1f4b2a4d9de12b82bd0a77e90e360c3e2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q145142$4B4B4F5B-B011-4377-9FF9-355DECF20F9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p1423.htm#i14225"
+          },
+          "hash": "3c9e89cb0383b0fca748ce51ca6d81b14fc8b58a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145142$99366AAB-F976-443C-A1EB-69507A176102",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145135",
+              "numeric-id": 145135
+            }
+          },
+          "hash": "b5fdb49c4eae53e5f551aad7ad5d46f4aab302ee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q145142$B7A2E51B-567E-4770-839C-EA08383D244E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142268",
+              "numeric-id": 142268
+            }
+          },
+          "hash": "b7537f33ad2f218a04cddd4f21bf90d0064c7417",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145142$41E26784-9604-4185-AF49-AB2889F79C98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145142$11E62189-83EB-484F-8C26-4D2FCA22818A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1340-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fdceffd77d8dcad8056fa87826a4d8440c7e8009",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145142$99308C04-E663-451F-84C0-A6623FB107BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75254087"
+          },
+          "hash": "f362ba4cc9b92e7c7a508cff6f47145e3f8fdbba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145142$498B00C5-6ECA-4CBD-AE87-05C3D91A9475",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eleanor de Neville Arms.svg"
+          },
+          "hash": "923318f83d41e861c169f6535b68ac03dd4fb655",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=14225"
+    }
+  },
+  "id": "Q145142",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Eleanor de Neville"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Eleanor de Neville"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Элеонора де Невилл"
+    }
+  },
+  "lastrevid": 17567904,
+  "modified": "2025-09-17T14:20:48Z",
+  "ns": 860,
+  "pageid": 173527,
+  "sitelinks": {},
+  "title": "Item:Q145142",
+  "type": "item"
+}

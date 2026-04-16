@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Odo III of Issoudun"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146614$AC7766D0-CE4F-44CB-8D92-195285AAD35A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00625919"
+          },
+          "hash": "b0a471a6e58ee2a33684af5d3da5fac9094cb57c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146614$31747138-0C40-4513-ABF4-49D28AC92104",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "D'Issoudun-1"
+          },
+          "hash": "7d8fecaa621b7901c605493a066d2fe1523140d4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146614$65FD5FFD-2A37-47F2-B036-3BDA881FA266",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146614$26908EEC-57FC-4DDA-BBD9-9866584E44DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146614$B0A8462F-2B35-41D7-9E54-5B6B0EDC4BA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123291",
+              "numeric-id": 123291
+            }
+          },
+          "hash": "d31fba5c13b39c54397009844a144b2a1deef8fd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146614$A4106151-83A2-49D3-A9B9-BE5730C19AA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p48333.htm#i483325"
+          },
+          "hash": "79f5e0fb8e8f2846d0f4b20fe757e275c137917b",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146614$B5813D26-6309-4CFD-9484-614B46E5B4A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146614$EEB50DCF-C742-41DD-8EA2-D65C41E2F929",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146614$2A79D182-BC54-493F-A0D2-58C81302BD68",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1167-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecd722fd7b57d95aba4f85dc7edefd1ec042fb91",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146614$5F32BB57-5B34-47EE-82D4-30B69EA1C9BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76034486"
+          },
+          "hash": "c8525e8e97c813fba2f1c2cecd73ba37e1be28a5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146614$626E01DF-9BCE-4B56-B6AA-6E2112545056",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=eudes;n=d issoudun;oc=3"
+          },
+          "hash": "67ff11d183588f10dd8cfcee19debf936784fc2e",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146614$B2D288DF-D3B6-4665-84DF-FBC3DD1B7D61",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Odo III of Issoudun Arms.svg"
+          },
+          "hash": "b86b1e79a6f7f8c0ed4c365ce46ab0b143a9d0a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Lord of Issoudun"
+    }
+  },
+  "id": "Q146614",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Odo III of Issoudun"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eudes III d'Issoudun"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Odo III de Issoudon, Seigneur of Issoudon"
+    }
+  },
+  "lastrevid": 17570792,
+  "modified": "2025-09-17T15:01:58Z",
+  "ns": 860,
+  "pageid": 174999,
+  "sitelinks": {},
+  "title": "Item:Q146614",
+  "type": "item"
+}

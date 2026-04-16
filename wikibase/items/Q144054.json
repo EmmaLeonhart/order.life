@@ -1,0 +1,390 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Appius Claudius Pulcher"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q144054$31CFFAF8-B8CC-417A-86E8-2041FE7619D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "132743"
+          },
+          "hash": "2dda7e7ef9eeac9464dac1d21a4638ff2c466286",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144054$2ECE2475-8828-44F4-BA3D-32B6E24A03EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148050",
+              "numeric-id": 148050
+            }
+          },
+          "hash": "de400d23a1264774fd36747bc0254e220177242d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144054$62BB9B20-1A59-498C-885F-8FA47252F53E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144054$D5F32224-2507-4AD6-A547-4BBE20EA222A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q144054$7EACE60F-5076-4B42-B91C-787EE5341D12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78630",
+              "numeric-id": 78630
+            }
+          },
+          "hash": "9d0b9ab6045b44ab526c3bff73204d4ae7360bd9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144054$8A62CDBF-47D2-430C-8E94-3D1DD3C90386",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144054$4303E5B5-2CB0-4D50-97D8-C701B9B537A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0222-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9e82bfd71ea43edf34bb7e40bab85cf63228ed2b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q144054$33794E1A-56A8-4967-90D8-99549A220CB8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b759e7f5a58cca3bd092fbd5291b202d65fc47d1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144054$146AA170-1033-49A0-B928-75D9CF506197",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q441474"
+          },
+          "hash": "ee4dd6fab7a93205df9381d9121fa555413e761b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144054$7AB47CBA-07C5-48EC-93BA-4DE9B540433E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Appius Claudius Pulcher Arms.svg"
+          },
+          "hash": "3e1c92b6ee9eb24f3b2cd187c8bd3658fd278579",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "cònsol 185 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 185 v. Chr."
+    },
+    "el": {
+      "language": "el",
+      "value": "ύπατος το 185 π.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 185 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 185 a. Cristo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 185 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e console romano nel 185 a.C."
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 185 v.Chr."
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 185 года до н. э."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньоримський консул 185 до н. е."
+    }
+  },
+  "id": "Q144054",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ابيوس كلوديوس بولشر"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Апий Клавдий Пулхер"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Api Claudi Pulcre"
+    },
+    "de": {
+      "language": "de",
+      "value": "Appius Claudius Pulcher"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άππιος Κλαύδιος Πούλχερ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Appius Claudius Pulcher"
+    },
+    "es": {
+      "language": "es",
+      "value": "Apio Claudio Pulcro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Appius Claudius Pulcher"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Appius Claudius Pulcher"
+    },
+    "it": {
+      "language": "it",
+      "value": "Appio Claudio Pulcro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アッピウス・クラウディウス・プルケル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Appius Claudius Ap.f. Pulcher"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Appius Claudius Pulcher"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Appiusz Klaudiusz Pulcher"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ápio Cláudio Pulcro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ápio Cláudio Pulcro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аппий Клавдий Пульхр"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Apije Klaudije Pulher"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Appius Claudius Pulcher"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аппій Клавдій Пульхр"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿庇烏斯·克勞狄·普爾克爾"
+    }
+  },
+  "lastrevid": 17565924,
+  "modified": "2025-09-17T13:51:56Z",
+  "ns": 860,
+  "pageid": 172439,
+  "sitelinks": {},
+  "title": "Item:Q144054",
+  "type": "item"
+}

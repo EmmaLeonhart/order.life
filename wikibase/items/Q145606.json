@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Florence Bredwarden"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q145606$8AB9E579-4564-4FBA-83F4-7E1F5A5901AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00618340"
+          },
+          "hash": "4e6037d6920f21844fbf03545665eb8837009be1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q145606$03FC39A2-634B-4EB2-8094-CA3C6A19CCD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142536",
+              "numeric-id": 142536
+            }
+          },
+          "hash": "c4960b4268bb3533846c8a99f0f869d8132895ba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q145606$7AB2D0AB-7BF6-420B-8B5B-6D0A47D323B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bredwardine-1"
+          },
+          "hash": "663048736c40d5b6c21f4b9fe1ac321da8fc9f7e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q145606$60507C92-9011-4AE1-B396-386F42C5265C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q145606$36F607CE-5BBF-41FF-A359-3708295EF04E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q145606$0706AC70-9E55-400F-9818-17BB1B7A9B0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140307",
+              "numeric-id": 140307
+            }
+          },
+          "hash": "f5c490b1ddd2eb21d84d556ebfab5aafb82ab1b3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q145606$2CC97A1C-18DF-44EA-BB85-6A8C46B83B2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142783",
+              "numeric-id": 142783
+            }
+          },
+          "hash": "5c4dcb2c18cfeac300b83217efc7636e6b3aa9e5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q145606$76AD35DE-6230-4F0F-9DBD-F57B35562683",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q145606$2A64C8A7-FF43-4354-84C2-286727F16E60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1322-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "43325436f20f3fdc7ba9c29fdf0be8a13786c728",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q145606$5AF78695-0D25-4869-8B41-84DFE101B6DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99080635"
+          },
+          "hash": "23bc7a94577d939f37f356c697f5b964b682ce24",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q145606$F40F0651-C58E-400A-A7EE-52644A0D362B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Florence Bredwarden Arms.svg"
+          },
+          "hash": "6419f56e2c122c619142e35b2acc292cc6c9b9f9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(est. 1322 - )"
+    }
+  },
+  "id": "Q145606",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Florence Bredwarden"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Florence Bredwarden"
+    }
+  },
+  "lastrevid": 17568822,
+  "modified": "2025-09-17T14:34:12Z",
+  "ns": 860,
+  "pageid": 173991,
+  "sitelinks": {},
+  "title": "Item:Q145606",
+  "type": "item"
+}

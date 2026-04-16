@@ -1,0 +1,351 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gero"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q146515$DE6E44D1-74F6-4E9D-94EF-CE547DA88A15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Thuringia-102"
+          },
+          "hash": "27ed6419f97ad60bd6002f13d24135e1679ffcca",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146515$A73A9BF7-C588-4959-9BB6-6D19B8036B66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146515$BE6A185B-5481-4490-8F39-A7D35D02D12F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146515$9156D634-B7EE-410F-8902-30F1493DA78E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gero_(2)"
+          },
+          "hash": "eab9b36ea777c747cf069992a6b5973ec03e9e36",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146515$36403F01-6E1C-49C5-A02B-04950CE84339",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143544",
+              "numeric-id": 143544
+            }
+          },
+          "hash": "9509daf223151023bea94cc30436a3b5942875f3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146515$81330F1C-F5E8-4D8F-A61E-B304E5751BD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143254",
+              "numeric-id": 143254
+            }
+          },
+          "hash": "1852db930a916885a3b27d5cf29bbeaf6b321107",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146515$A2F30892-6FCA-4736-A9FD-E66E8F71E438",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146515$F5128FB2-3F4D-4BC2-A727-5ACE76301218",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0900-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60d5bc23e17e0855bd82578012de7e757942c956",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146515$A3751261-738F-4174-B6C1-572E8D690032",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0976-06-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f0262f5b8dd30bb3c294dad5ad00cc5591677ff1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146515$DB51D736-8198-4256-8037-567C032ECFF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q561828"
+          },
+          "hash": "6eb2d1d39c305ec7c044a76296c643b650951ce7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146515$57A3BD75-ABCC-434E-87E4-6476521006B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gero Arms.svg"
+          },
+          "hash": "f0d6008a851ab3902f68e914012a4a593813b80e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "kolínský arcibiskup (969–976)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erzbischof von Köln"
+    },
+    "en": {
+      "language": "en",
+      "value": "archbishop of Cologne"
+    },
+    "es": {
+      "language": "es",
+      "value": "arzobispo católico de Colonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Archevêque de Cologne"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo di Colonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aartsbisschop"
+    }
+  },
+  "id": "Q146515",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جيرو"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Геро от Кьолн"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gero"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gero von Köln"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκέρο, αρχιεπίσκοπος της Κολωνίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gero"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gero"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Géron de Cologne"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gero di Colonia"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "게로"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gero"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gero"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gero"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Геро"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Gero"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gero"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Геро"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Gero"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "盖罗"
+    }
+  },
+  "lastrevid": 17570640,
+  "modified": "2025-09-17T14:59:48Z",
+  "ns": 860,
+  "pageid": 174900,
+  "sitelinks": {},
+  "title": "Item:Q146515",
+  "type": "item"
+}

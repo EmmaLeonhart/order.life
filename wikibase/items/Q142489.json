@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nest ferch Cadwallon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q142489$A9B53055-666E-46AF-ABF2-C5FF1705E52C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759461"
+          },
+          "hash": "0c4a2fa6bf5f68f2dc7dccbadd507fe66d067f7c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q142489$00F7EF03-3C04-4530-A38D-7CA4B715A450",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q140279",
+              "numeric-id": 140279
+            }
+          },
+          "hash": "de9b29d1fc3dff91254cb9ae1a6d6c793e7e70ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142489$6C1B702F-A5A4-4A72-91FE-6ADF37900D61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145549",
+              "numeric-id": 145549
+            }
+          },
+          "hash": "4cd827505dfe5f432ed71f7d2759141640688792",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q142489$E73BBB97-76DC-46F5-AC42-2A9D7E36BAC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142489$6890AC61-A57B-4EF1-B251-0B283D513E30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q142489$E584927E-3F9B-44C5-80A9-BC6B335819F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142488",
+              "numeric-id": 142488
+            }
+          },
+          "hash": "5930d5f671d68ed85c20e3f0a31deb77a8d7761a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q142489$B91D9822-C533-4B5D-AA07-7744E366D694",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141890",
+              "numeric-id": 141890
+            }
+          },
+          "hash": "f655d6451762b1280c6a3eceabad324281f59741",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q142489$9C63A8DE-71A4-4E4B-B809-042F5857219A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145550",
+              "numeric-id": 145550
+            }
+          },
+          "hash": "a1d126d9bcea079b52330d822533e2f13e663606",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q142489$7D062A19-FDE0-4ECD-B900-97A71C29BAFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q142489$6C221C8E-3FAF-4829-AC29-C84F66ACAFF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116052898"
+          },
+          "hash": "10d204d77bfb79ba30dedaae72b365f400f691cd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q142489$40C70EF1-266C-42D0-A24D-896181A9C6CC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nest ferch Cadwallon Arms.svg"
+          },
+          "hash": "6a1a69853be8da076b7342e7640512aeeb584142",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q142489",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nest ferch Cadwallon"
+    }
+  },
+  "lastrevid": 17563194,
+  "modified": "2025-09-17T13:12:41Z",
+  "ns": 860,
+  "pageid": 170874,
+  "sitelinks": {},
+  "title": "Item:Q142489",
+  "type": "item"
+}

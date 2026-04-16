@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William of Montreuil"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q146780$387064DA-A73E-4ADA-B5B5-65EA966A275F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146780$4F7223CE-584F-490B-AB99-85753A7A4979",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146780$DA374A9A-B5F2-4A04-B12A-492DBF56B997",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "William_of_Montreuil_(1)"
+          },
+          "hash": "a14661db91e3300ae5ef4b1a8845e670aebc4528",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146780$F12288CB-2D9E-449E-B691-AE9B6C3CF310",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143412",
+              "numeric-id": 143412
+            }
+          },
+          "hash": "4a4a2a54d46171734650d5bdd096719139d5fabf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146780$5DFF0B58-CD95-4462-A280-ABD026B1A8F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146780$40371BEE-F26C-4871-9BEA-C41FBDEB4818",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146780$2F476633-C9DF-4BF9-B70A-2F2F7B65A810",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1068-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "438142e92cad3cd2704c5bec6d27b3a1f2dd1da6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146780$EDFA613F-63F3-471F-851C-F904266E21CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q288977"
+          },
+          "hash": "aa7e658b1ad749eea2aeb0f60d61b38d63b5fec1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146780$1ECF7D25-2309-4602-B76D-7B9A41E9B872",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William of Montreuil Arms.svg"
+          },
+          "hash": "390ba943500a36b764595af7118a7f839e1285cc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "Νορμανδός τυχοδιώκτης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Italo-Norman Duke"
+    },
+    "es": {
+      "language": "es",
+      "value": "mercenario normando"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "mercenaire normand"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q146780",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Γκιγιώμ του Μοντρέιγ"
+    },
+    "en": {
+      "language": "en",
+      "value": "William of Montreuil"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guillermo de Montreuil"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guillaume de Montreuil"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guglielmo di Montreuil"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William of Montreuil"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "William z Montreuil"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вільгельм I"
+    }
+  },
+  "lastrevid": 17571080,
+  "modified": "2025-09-17T15:07:09Z",
+  "ns": 860,
+  "pageid": 175165,
+  "sitelinks": {},
+  "title": "Item:Q146780",
+  "type": "item"
+}

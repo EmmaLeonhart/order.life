@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Ceionius Commodus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q144418$CBFF92B5-118B-4C18-8F95-9C07347ABAB3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736231"
+          },
+          "hash": "e31bd1fbdb2a7d0d9adc9e23bfa5abbedb412cd3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q144418$5D5F727F-59A5-4045-8092-DA3DA7999E26",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141784",
+              "numeric-id": 141784
+            }
+          },
+          "hash": "d8d057ed17c8f9841e1439d4cb040941bbe40ab8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q144418$C355A123-90D1-4137-8E9B-729055994E00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q144418$FAD6B1E8-6C91-4AF7-8578-6282E3E54722",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q144418$8A4C0490-FB5F-4312-ADBE-8262A383BF19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q144418$AF2ADE94-566C-4AA7-B28A-5ABFB1C70FA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q144418$3D9BF22C-AF6E-4B2A-8064-10572CE90B9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q899739"
+          },
+          "hash": "613dfabb9601eafc52e66ce15d658eb152ddc393",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q144418$76473CC5-1C42-485A-A023-AE2E435E0767",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Ceionius Commodus Arms.svg"
+          },
+          "hash": "597695a1d2863de6b8b437d59afacec58f6e9a42",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "magistrat romà, cònsul el 78"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 78"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 78 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 78"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q144418",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Цейоний Комод"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Ceioni Còmmode"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Ceionius Commodus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Ceionius Commodus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Ceyonio Cómodo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Ceionius Commodus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Ceonio Cómodo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Ceionio Commodo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Ceionius Commodus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Ceionius Commodus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Ceiônio Cômodo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Ceiônio Cômodo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Цейоний Коммод"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Ceionius Commodus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Цейоній Коммод"
+    }
+  },
+  "lastrevid": 17566518,
+  "modified": "2025-09-17T14:00:31Z",
+  "ns": 860,
+  "pageid": 172803,
+  "sitelinks": {},
+  "title": "Item:Q144418",
+  "type": "item"
+}
