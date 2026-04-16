@@ -21,10 +21,13 @@ on:
         description: "Year range end (years mode only)"
         required: false
         default: "12100"
-  schedule:
-    # Weekly on Sunday 00:00 UTC — regenerates the 371 day pages so the
-    # rolling ±10-year Gregorian windows on each page stay current.
-    - cron: "0 0 * * 0"
+  # Disabled 2026-04-16: the lifeism.miraheze.org wiki is closed and
+  # every bot edit errors. Keep only workflow_dispatch so we can
+  # re-enable manually if the wiki comes back. See STATUS.md and
+  # memory/wiki_closure_status.md.
+  #
+  # schedule:
+  #   - cron: "0 0 * * 0"  # weekly Sunday 00:00 UTC
 
 concurrency:
   group: calendar-bot

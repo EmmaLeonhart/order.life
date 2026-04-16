@@ -84,31 +84,36 @@ Required scale-correction inclusions: Indus Valley, Cucuteni-Trypillia,
 Indo-European / Yamnaya expansion. Indigenous groups framed
 descriptively, not morally.
 
-## Wiki-sync bot (active)
+## Wiki-sync dump — DONE (2026-04-16)
 
-`wiki-scripts/wikibase_dump.py` + `.github/workflows/wikibase-dump.yml`
-walk numeric ID ranges on `wiki.order.life` and save each entity as
-JSON under `wikibase/items/` and `wikibase/properties/`.
+Full snapshot captured against impending Miraheze closure:
+- **164,536 items** in `wikibase/items/` (Q*.json) — every real entity
+- **4,840 unique wiki pages** in `wikibase/pages/` — wikitext source
+  for all pages sitelinked from items (22,967 sitelinks → 4,840 unique
+  titles; 5× sitelink duplication on common genealogical names)
+- **377 local images** in `wikibase/images/` — all non-Commons uploads
+- 8 dangling-redirect QIDs unrecoverable (targets deleted before dump)
 
-Pivoted off blind range-walking. `wiki-scripts/wikibase_fill_missing.py`
-enumerates every existing item via the MediaWiki `allpages` API
-(namespace 860), writes the QID list to `wikibase/items_index.txt`, and
-fetches only what's missing on disk. Skips the sparse high-end import
-gaps entirely — much faster than walking Q1..Q200000.
+Dump scripts: `wiki-scripts/wikibase_fill_missing.py` (items),
+`wiki-scripts/download_wiki_pages.py`, `wiki-scripts/download_wiki_images.py`.
+See `memory/wiki_closure_status.md` for closure context.
 
-Snapshot (2026-04-15): 164,544 items on the wiki, ~60K still to fetch.
-Backfill running locally with `--commit-every 5000` (commits + pushes
-every ~30 min), targeting completion in ~7 hours.
+## Active: genealogical analysis phase
 
-**Next phase — after import is done: genealogical analysis.** Build the
-genealogy graph from the dumped items and figure out how to assemble
-ancestral chains for the chapter-130–220 gap. The existing chapter
-structure (West Eurasian super-network, gateway ancestors like
-Charlemagne / Bustanai / Jesus-via-Rome / Muhammad-via-Rome, the Asian
-bridges) is the *narrative* frame; this analysis turns it into concrete
-named lineages by walking the actual P-statement graph.
+With the import done, the current active work is **analysis of the
+dumped data** to extract the genealogy that matters for the 130–220
+chapter arc. The wiki accumulated a lot of genealogical content that is
+useful for lineage-building; the goal is to turn the raw P-statement
+graph into concrete named chains.
 
-Action items on the data once it lands:
+The existing chapter structure (West Eurasian super-network, gateway
+ancestors like Charlemagne / Bustanai / Jesus-via-Rome / Muhammad-via-Rome,
+the Asian bridges) is the *narrative* frame; this analysis turns it into
+concrete named lineages by walking the actual P-statement graph.
+
+Action items:
+- Property inventory: which P-IDs carry genealogical meaning on this
+  wiki (father/mother/spouse/child). Needed before graph building.
 - Empirical centrality: do Charlemagne / Bustanai actually pass the
   gateway-ancestor centrality test, or are other nodes doing the work?
 - Weakly-connected components: how scattered is Asia, really?
