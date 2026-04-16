@@ -1,13 +1,11 @@
 name: wiki-bot
 
 on:
+  # Disabled 2026-04-16: the lifeism.miraheze.org wiki is closed and
+  # every bot edit errors. Keep only workflow_dispatch so we can
+  # re-enable manually if the wiki comes back. See STATUS.md and
+  # memory/wiki_closure_status.md.
   workflow_dispatch:
-  push:
-    branches: [master]
-    paths-ignore:
-      - "wiki-pages/**"
-  schedule:
-    - cron: "0 0 * * *"
 
 concurrency:
   group: wiki-bot
