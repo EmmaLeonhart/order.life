@@ -1,0 +1,247 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Johann, Landgraf im Elsass"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148005$3035B028-D2A2-4E76-AF83-6DAFE9EC8F63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00650233"
+          },
+          "hash": "920258aa6e9c8eec3f6aa559508015be96d86c72",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148005$34E4478A-FAC3-4F7F-A46C-F8F7BB314E4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148005$6252FC12-165E-4A75-B1B3-F7ACA24D5F6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148005$957D4508-9868-40E3-B4C1-FC373A5967BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144005",
+              "numeric-id": 144005
+            }
+          },
+          "hash": "fcdbc2564b8835a101ad246158b233c95fc9eb94",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148005$890A3DA6-6D6E-4CF1-BE3C-25A55F7F5640",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148003",
+              "numeric-id": 148003
+            }
+          },
+          "hash": "a36d3df3f01c80f761291e59b63e8a69318a9fbd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148005$05FDE8A0-39A6-48E4-9631-8BBC2F0D4052",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148005$48FB5894-538A-4913-8EB8-23AF6C92A038",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148005$29C0C25F-3107-4EE9-89AE-D4BF16C7B2EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q64854641"
+          },
+          "hash": "4bbd5645426bc445f0c53e735845b65c0e887736",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q148005$635FD141-2E6D-4E57-8C5C-17E005CE825C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=johann;n=von werd"
+          },
+          "hash": "8e8b2d6927f9b13abdcb85d1464c71ca34da33a7",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148005$2D92323B-EEF1-4227-845D-63F36BB4292E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Johann, Landgraf im Elsass Arms.svg"
+          },
+          "hash": "2f1679e4be4ba238ca6027f3a514845a377ce8ba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 1308"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble allemand"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "landgraaf in de Elzas"
+    }
+  },
+  "id": "Q148005",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Йохан фон Верд"
+    },
+    "en": {
+      "language": "en",
+      "value": "Johann, Landgraf im Elsass"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Johann von Werd"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johan van de Elzas"
+    }
+  },
+  "lastrevid": 17572660,
+  "modified": "2025-09-17T15:29:07Z",
+  "ns": 860,
+  "pageid": 176094,
+  "sitelinks": {},
+  "title": "Item:Q148005",
+  "type": "item"
+}

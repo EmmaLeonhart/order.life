@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Efa ferch Madog ab Elise ap Iorwerth"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149271$8B6B5D6D-1147-47C7-B055-8B1464004B50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00705940"
+          },
+          "hash": "f22e4ea5d958bdf34fcd5fd2a553da029d3e2cdb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149271$BD2E09C9-ECC4-4E1A-8959-A6F9891B9691",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150881",
+              "numeric-id": 150881
+            }
+          },
+          "hash": "1e828b981c9cf467e283f35bf0dc85ffc8175732",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149271$A3616CFA-9CD9-42EB-AB99-8C53A9901B2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149755",
+              "numeric-id": 149755
+            }
+          },
+          "hash": "e6b2f10b52fd935fa9a061264428d2ad27055072",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149271$6A1010F0-7B01-40E6-BA76-9A79709BEA55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Madog-15"
+          },
+          "hash": "da37588c3da49abc32759f36217ec3f21949bd74",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149271$2F1576D9-1EA6-4E01-BC29-9F092A3E5EC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149271$4F70BD5F-DCCC-48D3-9CDE-0EEA3EDEF4BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149271$88E3BEF3-D525-4645-97DD-F571C288B30A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145089",
+              "numeric-id": 145089
+            }
+          },
+          "hash": "56dbb686c3a34c54da48cc0e70627ff59a0613b4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149271$12CEFFA5-EE40-4D38-9381-6F6A3B7F7A13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149271$10FA477F-41F0-4E32-AE9A-94AD8C3267DD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1340-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fdceffd77d8dcad8056fa87826a4d8440c7e8009",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149271$07488D4D-1030-44BF-9546-EFEB36B658BF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96244027"
+          },
+          "hash": "5c56f77181208e61712996312cbd993f5f5be6ae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149271$B7D366CE-2AEC-4155-8B97-4F5E31728171",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Efa ferch Madog ab Elise ap Iorwerth Arms.svg"
+          },
+          "hash": "bb30acd26ed41dcdd06787999ba55e1c07a06c1e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1340 -"
+    }
+  },
+  "id": "Q149271",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Efa ferch Madog ab Elise ap Iorwerth"
+    },
+    "en": {
+      "language": "en",
+      "value": "Efa ferch Madog ab Elise ap Iorwerth"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Efa ferch Madog ab Elise ap Iorwerth"
+    }
+  },
+  "lastrevid": 17575038,
+  "modified": "2025-09-17T16:02:11Z",
+  "ns": 860,
+  "pageid": 177724,
+  "sitelinks": {},
+  "title": "Item:Q149271",
+  "type": "item"
+}

@@ -1,0 +1,295 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "James Berkeley"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149863$6D687D6D-6164-45AA-B098-46FB90B2BF3B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Berkeley-211"
+          },
+          "hash": "4d2c2630fae7006e95eecafb7c670f758e3084c5",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149863$6A98F6DB-389E-4280-9BD3-A2B028901287",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149863$325C5E13-E0A7-4C41-A15B-87BC63620A72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149863$26FE4984-BF6B-4A3D-956E-F70D73BB5B9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p4178.htm#i41771"
+          },
+          "hash": "c2db8f19ecd2164e0f50ae9b8f9f1b9fa1d32e63",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149863$AE24090F-2A14-494F-BD14-E767C421B76A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149250",
+              "numeric-id": 149250
+            }
+          },
+          "hash": "526b19f15024aaa331f3ac3a074f2b0250daa56a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149863$F88C8607-C128-46C5-885A-20333900B11B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145424",
+              "numeric-id": 145424
+            }
+          },
+          "hash": "a0e9912cc62d06336e65e7e76414f92834c5a8f6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149863$375FE57C-2758-4949-A47F-D1C102DE98C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149863$C073EC43-8567-46C2-A05A-1C2F9C760B57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149863$B8C974BD-77F6-489C-99CB-ED6F1A835737",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1327-06-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "508596c0b881cf347bcf8f5156e15c9575fe3749",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149863$8B108473-181B-4E58-95A5-2EAC79289601",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6129709"
+          },
+          "hash": "fb85d80909128c32496846e4aaf8f79365329a6c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149863$E69E5BBF-DA6D-40C9-84AE-9585047F26B8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "James Berkeley Arms.svg"
+          },
+          "hash": "6b07e7f088618d1c0f8651b4c8179660e94f7611",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك"
+    },
+    "de": {
+      "language": "de",
+      "value": "englischer Geistlicher, Bischof von Exeter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Exeter"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "епископ Эксетера"
+    }
+  },
+  "id": "Q149863",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جيمس بيركلى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "James Berkeley"
+    },
+    "de": {
+      "language": "de",
+      "value": "James Berkeley"
+    },
+    "en": {
+      "language": "en",
+      "value": "James Berkeley"
+    },
+    "es": {
+      "language": "es",
+      "value": "James Berkeley"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "James Berkeley"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "James Berkeley"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джеймс Беркли"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "James Berkeley"
+    }
+  },
+  "lastrevid": 17576218,
+  "modified": "2025-09-17T16:18:14Z",
+  "ns": 860,
+  "pageid": 178316,
+  "sitelinks": {},
+  "title": "Item:Q149863",
+  "type": "item"
+}

@@ -1,0 +1,304 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Edmond de Burgh"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149127$DD0C26BD-CE52-4561-8D81-94A6E12B79C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Burgh-84"
+          },
+          "hash": "caed8a79814c1f51c451f7ea98eadb7f64891a66",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149127$19143431-7256-4B0C-9698-DEBF5B0484BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149127$0CF5BDEB-8F0A-4F0E-BD3C-8D14F0790367",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149127$8DB9C2F4-C621-4158-9FE0-34929C831602",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Edmund_de_Burgh_(1)"
+          },
+          "hash": "11f1e4dff7934e7cc7ad494244d03c22ac0f30de",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149127$12B6A2D8-70BB-4A97-A689-DFDBB459E11A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145028",
+              "numeric-id": 145028
+            }
+          },
+          "hash": "7cb3651f50ee5d48b144d0e806d62ec41a800fb3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149127$75498B75-6621-4EF7-AB2A-367112DBA38C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149126",
+              "numeric-id": 149126
+            }
+          },
+          "hash": "16555f8d4bfd6cd2d8c73ccc6dc720f1bbfc8611",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149127$53F9B5DA-B0A5-4CC3-9CDD-4985AFB34A9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149127$E2CE768F-5A31-48FD-BE46-00CC09C82E30",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1298-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cfca8a3f18ec1761c78044d7eb9e6b46fb30cd4d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149127$00F4D45B-7209-4FD9-A0C6-6F2315F3512A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1338-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2a490a9f1ee41053e9e4b4d0306a7ad40f2a6316",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149127$8D6A6017-6F1F-4DBE-8391-2BA493FAC1EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3048026"
+          },
+          "hash": "a91b2de6c4e77d092760d691c67bb8f2944efbd5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q149127$67F6048B-DD6B-4F2B-B7A6-F90AC3FA5C55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006727947933"
+          },
+          "hash": "83a33283ef44625dce13bf283e73a27a4a5603db",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149127$8E0DD040-B548-4481-ACFA-D966C1DAAFDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Edmond de Burgh Arms.svg"
+          },
+          "hash": "75096709cb8567edc761fba1c9a83ceaa85fab2e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish knight (1298–1338)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "ирландский рыцарь"
+    }
+  },
+  "id": "Q149127",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Edmundo de Burgo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Edmond von Burgh"
+    },
+    "en": {
+      "language": "en",
+      "value": "Edmond de Burgh"
+    },
+    "es": {
+      "language": "es",
+      "value": "Edmond de Burgo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Edmond de Bourg"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Edmond de Búrca"
+    },
+    "la": {
+      "language": "la",
+      "value": "Edmundus de Burgo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Edmond van Burgh"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эдмонд де Бург"
+    }
+  },
+  "lastrevid": 17574756,
+  "modified": "2025-09-17T15:58:26Z",
+  "ns": 860,
+  "pageid": 177580,
+  "sitelinks": {},
+  "title": "Item:Q149127",
+  "type": "item"
+}

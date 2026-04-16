@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice Hastings"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149971$097C7B88-5F11-4BB8-A415-4F58E59436A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00028721"
+          },
+          "hash": "9a6098cadf4461df08ec0c2b66c6a6e22aa0d3b9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149971$29056CDF-513D-4143-AE56-E037D4F003C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hastings-132"
+          },
+          "hash": "54e699a3225c3190be82b353776841355a334748",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149971$ECEBA972-043E-4B40-BA07-4FB568D5CED2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149971$454BA942-EA72-4213-8F66-9E50144E1E06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149971$77287002-A33E-40DE-9D6F-B369091602A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145486",
+              "numeric-id": 145486
+            }
+          },
+          "hash": "10f9d5a34e96954f271ffaadedecfba03c968e93",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149971$99532452-0015-47AF-A10C-46159FF85130",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149967",
+              "numeric-id": 149967
+            }
+          },
+          "hash": "9cf92f90676fbe731486194ae136e7e06967e629",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149971$1BD0C617-E875-41FB-8BAD-333F9719AE5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149971$D95D6D1E-F1D7-4E14-9E15-27EF2F39B0E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1352-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1671a0dd1828de2b1ac42aaab1759ef9ea60ee4c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149971$E18AB774-4274-4E5E-801D-8F71A38159F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1409-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "678441d97572ef477fd2a61647d53cb14d9ae715",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149971$48506653-B695-4405-B881-C4156C14C0C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110504430"
+          },
+          "hash": "487642b97c70dc7a4ca5da88e5788aab8f7e38d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149971$DE20F035-8991-4697-B458-7ACD975A4CF5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice Hastings Arms.svg"
+          },
+          "hash": "fcaf95d1889c444dcd4e9c7448d52d97cca215f5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1352 - uncertain 1409"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "английская аристократка"
+    }
+  },
+  "id": "Q149971",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alice Hastings"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Элис Гастингс"
+    }
+  },
+  "lastrevid": 17576428,
+  "modified": "2025-09-17T16:21:04Z",
+  "ns": 860,
+  "pageid": 178424,
+  "sitelinks": {},
+  "title": "Item:Q149971",
+  "type": "item"
+}

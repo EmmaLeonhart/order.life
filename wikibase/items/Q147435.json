@@ -1,0 +1,284 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agatha Lekapene"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147435$EEC14856-2C9F-4E00-B3A4-81D93029E454",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "771110"
+          },
+          "hash": "72739331562b01e77ca6801a62db7a395f841d46",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147435$0F9AADDB-E834-49A8-8CAF-978C3278B509",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143817",
+              "numeric-id": 143817
+            }
+          },
+          "hash": "14004a75ff231b47cc4a974ec88b21241fa1de73",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147435$5C97C76E-1910-40F4-ACB0-010A48B73894",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147435$169827BB-D1AB-4E06-93D7-0CD922BBE53F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147435$8DAF93D2-0900-44DC-A461-790B38F19F5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147434",
+              "numeric-id": 147434
+            }
+          },
+          "hash": "d6909ac8b9e231ff4443df5879b2035ae4679a6e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147435$B025BC28-D212-47F0-BF26-3BD58B367C53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147314",
+              "numeric-id": 147314
+            }
+          },
+          "hash": "2673ddd0b3c67c9ea873bb65350dc103da87f183",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147435$4D855DDA-56C0-45E9-B612-B203C2DF8089",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147315",
+              "numeric-id": 147315
+            }
+          },
+          "hash": "bc969f16e3c00738d2d38072db67ba8a3592bc70",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147435$58E1C3CC-F175-4645-B52B-CF99591E2B1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147435$F00F57F3-42E9-4090-95BC-244580E67C9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0908-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5015b8c077472f76362d7df90344a64b085d0c39",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147435$BA8FD6A9-F78A-4FC6-B395-42B643095663",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q122705528"
+          },
+          "hash": "4a2196b496fed1efc312040f225e1e7be8571ca5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147435$00206A3E-71CB-4436-B699-0EF2167CD442",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agatha Lekapene Arms.svg"
+          },
+          "hash": "f96308ffc29662ef86495211230a99bcb0231b94",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийска принцеса, дъщеря на Роман I Лакапин"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του αυτοκράτορα Ρωμανού Α' Λεκαπηνού"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine princess, daughter of Romanos I Lekapenos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de l'empereur Romain I-er Lécapène"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора Романа I Лакапина"
+    }
+  },
+  "id": "Q147435",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Агата Лакапина"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγάθη Λακαπηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agatha Lekapene"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agathe Lécapène"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агата Лакапина"
+    }
+  },
+  "lastrevid": 17572150,
+  "modified": "2025-09-17T15:22:00Z",
+  "ns": 860,
+  "pageid": 175820,
+  "sitelinks": {},
+  "title": "Item:Q147435",
+  "type": "item"
+}

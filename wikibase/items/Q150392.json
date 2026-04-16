@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mary Jones"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q150392$8548AB54-525F-48FE-B0AF-07843B42268A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Jones-89835"
+          },
+          "hash": "eac35c2082b86d0619238e526262a85ad3e4cddb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150392$7AB64836-65A7-43D6-9D0C-3FE128669B90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150392$98284684-F0F9-4D23-AEF7-B2A861A35F7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150392$84123B1D-3504-4334-96E0-464451315E86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p47680.htm#i476793"
+          },
+          "hash": "641630543388e2e568287364e2e4bf5c5cfdc0b9",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150392$6E4AAFF3-9068-4A55-9206-BAC5A36040F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145846",
+              "numeric-id": 145846
+            }
+          },
+          "hash": "7c9d99d640d7c8d066d19cfc0eeaa17f608d2f7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150392$47348B91-3768-4029-A341-EA98304022C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145847",
+              "numeric-id": 145847
+            }
+          },
+          "hash": "e220ddcbef749cf32c1802792367964c3c9595bd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150392$4194E560-3594-4F3F-9DF5-C69AE3BF3573",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150392$C5842620-3480-41BD-B230-72E781F5168E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1580-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b101d82f9d37330e661e6148e36fc502299b8cd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150392$E60E6CBC-DD62-4352-86F2-9FB0DEB1F944",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1630-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e584041459b542680717a78019ae8fcbb969f057",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150392$595D9C6A-AD8F-42B5-AF85-F1401C4EA4AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76025823"
+          },
+          "hash": "cbb81300434a9e7c65baa6474e46d34d61c6191b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150392$7DA93CAB-8729-4915-A7B5-FB0E8947A9A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mary Jones Arms.svg"
+          },
+          "hash": "7a2819c8e4d3894f0d93db9a86a8517434d65758",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=476793"
+    }
+  },
+  "id": "Q150392",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماري جونز"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ম্যারি জোন্স"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mary Jones"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mary Jones"
+    }
+  },
+  "lastrevid": 17577268,
+  "modified": "2025-09-17T16:32:24Z",
+  "ns": 860,
+  "pageid": 178845,
+  "sitelinks": {},
+  "title": "Item:Q150392",
+  "type": "item"
+}

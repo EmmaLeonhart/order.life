@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wiard of Reynel"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147863$1BA3B656-5DE0-4C37-AB9B-8C637EC109AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00046912|I00163419"
+          },
+          "hash": "763096fae98273e11aa08d509ea032a598873acb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147863$96910B38-49F1-4321-AF21-77369CB3AC15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143961",
+              "numeric-id": 143961
+            }
+          },
+          "hash": "0ee0690502b9ba7df9a9ed00a146d6d816d42288",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147863$813CE4EB-1019-4614-A480-83BB96ECE276",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147863$185919FD-E2B8-4F20-9DBA-7514F667ACFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147863$C340970D-AD1D-4CDB-B081-413DEF6BED24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147863$E3B28947-1B37-4417-B2C7-7F41AEB42C7E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1148-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65fc07ea466549b7604bd5259d14a14ba557f634",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147863$CECD8590-FF14-4ED7-9440-81C933A2F9F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1207-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "727cb6ffe2a401ff420c37f374c81e0f6b8a674f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147863$41BD24A6-B4B8-45E1-8269-AB9824E9109C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q97367108"
+          },
+          "hash": "df71727390e7795703beabfd1aba24ea8cc58de5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q147863$20FCE8F0-8A6E-4783-9A2B-061A3BC439C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009187331359"
+          },
+          "hash": "88cc9931be5b53e884bee7452ddb2e9b75402571",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147863$78D0B703-912C-461C-92BF-726A25F37F12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=wiard;n=de+reynel"
+          },
+          "hash": "2ac932f05a0524cb1f446702119be9b0b3ff01a8",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147863$10808885-F47C-44FB-B4FA-84C8CBFC92E1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wiard of Reynel Arms.svg"
+          },
+          "hash": "5eaa5c285f19ea43643d0abfac7ba22da57326c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "French Lord"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur champenois"
+    }
+  },
+  "id": "Q147863",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wiard of Reynel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wiard de Reynel"
+    }
+  },
+  "lastrevid": 17572518,
+  "modified": "2025-09-17T15:27:11Z",
+  "ns": 860,
+  "pageid": 176022,
+  "sitelinks": {},
+  "title": "Item:Q147863",
+  "type": "item"
+}

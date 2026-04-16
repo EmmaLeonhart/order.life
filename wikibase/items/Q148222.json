@@ -1,0 +1,501 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sophonisba"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148222$4B7C3B81-76B5-4928-A953-AFC0AD4C5372",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "498315"
+          },
+          "hash": "d01ec04cb3296c6c6aad13644eeddfe3babd561c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148222$FB060B07-1314-403E-AD14-9872382BCC5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148222$B4A036DC-6953-4145-BFD4-CD208EA49D6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148222$F0AF0A40-9D20-4D04-A5D1-A1E0D6322E58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q71786",
+              "numeric-id": 71786
+            }
+          },
+          "hash": "c6b1915925e326ee824876c68681f448b139302c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148222$50E6E2B2-C495-47E8-9FFC-D7DFE79F7796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151326",
+              "numeric-id": 151326
+            }
+          },
+          "hash": "c4343a20936d2517497534117948e8c682c05ec0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148222$5378F482-CC16-4C9F-A298-31851EBB0085",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151325",
+              "numeric-id": 151325
+            }
+          },
+          "hash": "9bc2bed83c8f5345a2446e1a810535ec69ac5a24",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148222$2D4680EA-2F92-4657-9964-E6126DD46BED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148222$2D8EEB29-23DD-4291-AE7F-2F74950D01FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148222$377618EC-2E47-48AF-8B40-0B2F4918F5E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0203-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "46e88373c77d417a598ffe3c85aa2efb898018aa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148222$2FF85FAC-BCB9-4D6A-996F-5BAFBDB85F6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q241210"
+          },
+          "hash": "71aecbb87229178c285607fb8caca3c86fe28180",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148222$5CD5D924-9FBA-4004-B6EE-38938CA2DC4E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sophonisba Arms.svg"
+          },
+          "hash": "d7d8a5af21d3de00182c96c1b04e9d1d2958f5c9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملكة نوميدية زوجة صيفاقس ملك نوميدي انتحرت بالسم لكي لا يطاف بها في روما."
+    },
+    "cs": {
+      "language": "cs",
+      "value": "kartagiňská šlechtična, dcera Hasdrubala Gisga"
+    },
+    "de": {
+      "language": "de",
+      "value": "karthagische Frau, Tochter des Feldherrn Hasdrubal"
+    },
+    "en": {
+      "language": "en",
+      "value": "late 3rd century BC Carthaginian noblewoman"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "karthagolainen aatelisnainen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine de Numidie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "numidiai királyné, Haszdrubal lánya"
+    },
+    "id": {
+      "language": "id",
+      "value": "bangsawan wanita Kartago (abad ke-3 SM)"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile cartaginese"
+    },
+    "la": {
+      "language": "la",
+      "value": "mulier Punica, filia Hasdrubalis Gisconis"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Numidii jako żona Syfaksa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rainha da Numídia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "аристократка времён Второй Пунической войны, литературный персонаж"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "迦太基贵族女性"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "迦太基贵族女性"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "迦太基贵族女性"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "迦太基貴族女性"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "迦太基貴族女性"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "迦太基貴族女性"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "迦太基贵族女性"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "迦太基贵族女性"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "迦太基貴族女性"
+    }
+  },
+  "id": "Q148222",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "صفنبعل"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Софонизба"
+    },
+    "br": {
+      "language": "br",
+      "value": "Sofonisba"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sofonisba"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sofonisba"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Sophonisba"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sophonisbe"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σοφονίσβη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sophonisba"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Sophonisba"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Sophonisba"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sofonisba"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sofonisbe"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sophonisbe"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Sofonisba"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Σοφόνισβα"
+    },
+    "he": {
+      "language": "he",
+      "value": "סופוניסבה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szophoniszba"
+    },
+    "id": {
+      "language": "id",
+      "value": "Sofonisba"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sofonisba"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ソフォニスバ"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Sfenbeɛl"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sophonisba"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Софонизба"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sofonisba"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sophonisbe"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Sofonisba"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sofonisba"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sofonisba"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sofonisba"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Софонисба"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sofonisba"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Софонісба"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "索福尼斯巴"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "索福尼斯巴"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "索福尼斯巴"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "索福尼斯巴"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "索福尼斯巴"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "索福尼斯巴"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "索福尼斯巴"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "索福尼斯巴"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "索福尼斯巴"
+    }
+  },
+  "lastrevid": 17573042,
+  "modified": "2025-09-17T15:34:23Z",
+  "ns": 860,
+  "pageid": 176599,
+  "sitelinks": {},
+  "title": "Item:Q148222",
+  "type": "item"
+}

@@ -1,0 +1,363 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Desa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147642$DC39E4E0-7FAD-4503-B874-14098006BEAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1150647"
+          },
+          "hash": "f3379b795e690b97b77d988de0a0b163ba53468b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147642$D9E82556-F0DF-4F78-97A9-7FFBA7817A78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147642$288D5FFB-DB19-4E90-B5FD-A0FD7894072D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147642$629A4676-4317-4D50-AF4C-9DB1304B226F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Desa_of_Rascia_(1)"
+          },
+          "hash": "62f2d0603554de761fc4879befd60500fcaab3ff",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147642$6B813622-FE8D-4CE2-A142-0442460EDEB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128253",
+              "numeric-id": 128253
+            }
+          },
+          "hash": "a7d37add652dd33ab0b4a1f48c88d3fbc054f4c9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147642$E9894F7F-B427-4097-B9A8-F3D7B6318261",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128255",
+              "numeric-id": 128255
+            }
+          },
+          "hash": "99200e38647f8b8cb4efba852b879b75e1caa93f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147642$274C482A-5434-4EE6-8557-7202015AA2F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147642$2C72D26E-C93B-4ADF-B84E-9A90F83B6061",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c36d5616da0c0b2cf4662248a5d88a9c7efc1ab5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147642$489CEDEF-6B10-441C-A6C9-8EE9CB96DFB9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "02b2491aa94aec01b5c4332e7b8454593d1a0ee3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147642$C69343DB-B93C-477C-8D81-5E9CF1463253",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16901299"
+          },
+          "hash": "3eafeef91801000d2d530e091f2d60772c5d7eb5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147642$4EA90637-F038-4FD0-82A8-C0903FD1E3E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Desa Arms.svg"
+          },
+          "hash": "1fcac34df53c070b8bdf96e6ed3d3171618f9dfd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "сръбски жупан, владетел на Хум, Зета и Тревуня (1147/48 - след 1151), както и рашки владетел (около 1155, 1161 – след 1165)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέρβος ηγεμόνας (ζουπάνος) της Διόκλειας/Ντούκλια (1148-1162), μεγάλος ζουπάνος της Ράσκας 1153-1155 και 1162-1166"
+    },
+    "en": {
+      "language": "en",
+      "value": "Serbian ruler"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince serbe qui fut corégent de Rascie de 1148 à vers 1153, conjointement avec son frère ainé Uroš II Primslav"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Srpski plemić"
+    },
+    "it": {
+      "language": "it",
+      "value": "gran principe di Serbia (r. 1162-1165)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Servisch grootžupan van ongeveer 1161 tot 1165"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "najmłodszym synem wielkiego żupana Raszki Urosza I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "príncipe sérvio da Ráscia (na atual Sérvia)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "raški župan, suvladar Raške (1149–1153), te veliki župan Raške (1153–1155 i 1162–1166)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "српски средњовековни владар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "serbisk monark"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Великі жупани Сербії"
+    }
+  },
+  "id": "Q147642",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Деса"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ντέσα Βουκάνοβιτς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Desa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Desa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Desa"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Desa Vukanović"
+    },
+    "it": {
+      "language": "it",
+      "value": "Desa di Rascia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Desa van Raška"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Desa Wukanowicz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Dessa da Ráscia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Dessa da Ráscia"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Desa Vukanović"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Desa"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Desa"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Деса Урошевић"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Desa av Serbien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Деса"
+    }
+  },
+  "lastrevid": 17572306,
+  "modified": "2025-09-17T15:24:20Z",
+  "ns": 860,
+  "pageid": 175913,
+  "sitelinks": {},
+  "title": "Item:Q147642",
+  "type": "item"
+}

@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas Baskerville of Pontrilas"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150453$72122E83-B9FF-4A89-87A7-B095B4DA5CEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00385213"
+          },
+          "hash": "bbc7f69b2c57d2d74f7af02ba3069e5ea740705e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150453$5AC00278-4BE8-4C95-BFBE-0FE9B9DEAD50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Baskerville-81"
+          },
+          "hash": "8c59d840e17111e3f1efac97ae24e7f731e6b062",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150453$4FFD7CEA-E0F5-4EE3-B657-02148EBFC704",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150453$CD440D02-FAF4-4C4C-8251-1C5CC9B547B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150453$9FA84082-AA42-41A9-995F-DE4A1B33595B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145891",
+              "numeric-id": 145891
+            }
+          },
+          "hash": "36b86dcab701de0a9932ca86aaa5b2baefb487ea",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150453$13FAD528-91F9-4F70-9044-739A615FFC85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150453$6D0C311C-F657-44A8-83DF-2FA8AA06DA57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1498-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c60150a86d340c4fc4ca7e6ae24af46acb5df39",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150453$24CB3985-7F88-4918-8BFC-8492ECD6BE78",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1551-07-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "352459599e84e5cd88312db50ca50eb204e33206",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150453$580FB01B-3DC6-46C0-9633-19C9646BA63E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99208423"
+          },
+          "hash": "bb8384a41e03fd8a24c73bcd7c2f7529a7aaba43",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q150453$8A8A9266-B9B2-4317-83AB-CDF0939AECCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000196415223"
+          },
+          "hash": "4a70c28592adfc0a313eedcdb153b4b258d0be4d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150453$1757DDD8-0D8D-49C2-87C3-283F5B39DFC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thomas Baskerville of Pontrilas Arms.svg"
+          },
+          "hash": "95471bb7f3a04e4be09b76e8824e26756b28620a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1498-1550)"
+    }
+  },
+  "id": "Q150453",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Thomas Baskerville of Pontrilas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thomas Baskerville, of Pontrilas"
+    }
+  },
+  "lastrevid": 17577390,
+  "modified": "2025-09-17T16:34:01Z",
+  "ns": 860,
+  "pageid": 178906,
+  "sitelinks": {},
+  "title": "Item:Q150453",
+  "type": "item"
+}

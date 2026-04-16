@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maud Arden"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149646$9B2C6F8C-2638-4F7C-955D-3557466605C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717596"
+          },
+          "hash": "5cfb7b03df4aca7606b91e0c65b3f88d6682acb3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149646$2569AE62-1BFB-449B-87AB-CD0EF606EBAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149646$42A4DB2D-4FCD-46D3-882F-FF79FD75E14D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149646$4921E1AD-6790-413C-974E-1CC7F78DCA97",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p70912.htm#i709113"
+          },
+          "hash": "d222931f628f171952e685bd12557c2ea6f9d781",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149646$E29805BA-2503-4D97-BF5B-BC3285F3102D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145292",
+              "numeric-id": 145292
+            }
+          },
+          "hash": "23abd01518263aac5c3a3a8c77bc28d6115cb7c9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149646$472F1070-C4E6-4584-B3BD-74C5032E2817",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149646$18F3CF52-6FC6-4220-A106-06E05389F00E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1324-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8bada34eb12f405411ca49ce226b19a336b69694",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149646$16ED5C74-B4B9-4146-83F2-B048FFA489DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76356142"
+          },
+          "hash": "09a828e20c0e3aa89e83e3ea87421d7ef3c439ac",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149646$A7EB54F6-3B24-4164-A1AB-3FE0B8A54640",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maud Arden Arms.svg"
+          },
+          "hash": "d2d6480927cb3b83de20dad594ae58290ac40c95",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=709113"
+    }
+  },
+  "id": "Q149646",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maud Arden"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maud Arden"
+    }
+  },
+  "lastrevid": 17575784,
+  "modified": "2025-09-17T16:12:28Z",
+  "ns": 860,
+  "pageid": 178099,
+  "sitelinks": {},
+  "title": "Item:Q149646",
+  "type": "item"
+}

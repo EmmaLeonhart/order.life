@@ -1,0 +1,365 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aulus Plautius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148084$EF413F1F-4B25-4A28-857F-0345F5E77F5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736088"
+          },
+          "hash": "9501973ed5d502cb65d7b005976167c2b0169830",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148084$8446F601-24EE-4558-9659-629A9759E158",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148081",
+              "numeric-id": 148081
+            }
+          },
+          "hash": "ebf7d60cb0e5bd2803fe1be3aa9172dd10eda77a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148084$E8E14830-6471-4035-84BD-8AE7139B0AB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148177",
+              "numeric-id": 148177
+            }
+          },
+          "hash": "2e1d124cfe0894d711ba6f96a676431721ad5957",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148084$7E4D0FC0-E58C-4494-A055-051FB9910653",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144228",
+              "numeric-id": 144228
+            }
+          },
+          "hash": "7f3ebb1427c0ed4f07b3c527e26ff8f38392cd32",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148084$114C122C-1B7B-49CE-8040-505F21F7E016",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148084$263DE4B0-66B3-4085-B62B-BFC8A39CE74D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148084$EC689789-13A0-4587-91EA-0A23E6E5B693",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148176",
+              "numeric-id": 148176
+            }
+          },
+          "hash": "56f029fd38060d525533c9c2073b5c9bbc9f3076",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148084$9329C4BF-7FE3-4FA1-B98D-12D54E726DA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144083",
+              "numeric-id": 144083
+            }
+          },
+          "hash": "9fb47725b1bee06c4d9536491b6fe1240889a907",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148084$277AC6E5-BC24-4BA4-BD38-F39384375758",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148084$2EB7FC69-2B2A-448C-8481-2FEDC501BD39",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148084$9830B459-B39F-4EA0-9CF9-DEBA60117849",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148084$1E2C6C96-6E0C-4D2C-9118-FAA767CC650E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q351771"
+          },
+          "hash": "37d80fc90d4cea6afff20c425ac8b6b1199f1d55",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148084$B06A326F-3F59-4C0B-8784-8AC2351F236B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aulus Plautius Arms.svg"
+          },
+          "hash": "ff3f8859c49d28198c3d1b02deac7496c831fbc1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Suffektkonsul 1 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman suffect consul 1 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma, cónsul «suffectus» en el año 1 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul en 1 av. J.-C."
+    },
+    "la": {
+      "language": "la",
+      "value": "politicus Romanus, consul suffectus 1 a.C.n."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    }
+  },
+  "id": "Q148084",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Авъл Плавций"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aulus Plautius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αύλος Πλαύτιος (ύπατος το 1 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aulus Plautius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aulo Plaucio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aulus Plautius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aulo Plauzio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aulus Plautius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aulus Plautius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aulo Pláucio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aulo Pláucio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Авл Плавтий"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Авл Плавцій"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧魯斯•普勞提烏斯"
+    }
+  },
+  "lastrevid": 17572804,
+  "modified": "2025-09-17T15:31:04Z",
+  "ns": 860,
+  "pageid": 176173,
+  "sitelinks": {},
+  "title": "Item:Q148084",
+  "type": "item"
+}

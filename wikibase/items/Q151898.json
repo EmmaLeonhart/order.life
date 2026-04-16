@@ -1,0 +1,382 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Julius Gessius Marcianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151898$9DF6389D-7E2D-419D-92A9-E3F1D96D628E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "933365|351455"
+          },
+          "hash": "d719f1a94253119be05e0f8b025a8e9803782784",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q151898$104B7E0A-0B19-4C0D-B82C-4DE15F1628AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446887"
+          },
+          "hash": "940e6012ee7ec1bae9c87a58d07a8f4c629d8387",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151898$37CB4E12-4EDD-46B9-AF1D-D20A5AA44CC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151866",
+              "numeric-id": 151866
+            }
+          },
+          "hash": "b8340c100ede03e53a39e82070232248c2d0a7bd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151898$837953EB-13E4-4208-A608-93FDCC5A4E63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151865",
+              "numeric-id": 151865
+            }
+          },
+          "hash": "ccc64297f4616e1d47be12fa7fa77911f6bd1b3c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151898$1B39784B-57A6-4035-8308-3BE1FA29B87F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151898$B37B5CCB-977C-4348-B393-68E8F38D4769",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151898$C430E25B-2B83-4A26-B00A-00E0411A0104",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4681",
+              "numeric-id": 4681
+            }
+          },
+          "hash": "170dab41eec4442b5a2462ac108a4208c916bc3e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151898$F31CD592-B985-4CA7-BC2D-973B03601DCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151898$AC03CA42-6016-4C32-9018-C3D2E6043992",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151898$130ED8F9-F248-4DD9-9720-583DCC09CEED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0218-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6af074e2777fdfc95df74be578f938d5b2304d1b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151898$AC7A8D1F-6A59-4AB3-A0B4-166AEBE3FB23",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2494981"
+          },
+          "hash": "24dd53c5bd97bb2e14f7ee30671d3b3e22f65012",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151898$EF7DC696-EC43-4806-A3A2-E112052A5261",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Julius Gessius Marcianus Arms.svg"
+          },
+          "hash": "a77335ab9758f0510d3f6e92470d1283b03f1401",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd/3rd century Syrian-born Roman nobleman"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata romana-assírio"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q151898",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Юлий Гесий Марциан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gessi Marcià"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Julius Gessius Marcianus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Iulius Gessius Marcianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Ιούλιος Γέσιος Βασιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Julius Gessius Marcianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Julio Gesio Marciano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Julius Gessius Marcianus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Julio Gesio Marciano"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մարկոս Հուլիոս Հեսիոս Մարցիանուս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Giulio Gessio Marciano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・ユリウス・ゲシウス・マルキアヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Iulius Gessius Marcianus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Marcus Julius Gessius Marcianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Julius Gessius Marcianus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Marcus Julius Gessius Marcianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Júlio Géssio Marciano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Júlio Géssio Marciano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Юлий Гессий Марциан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Julius Gessius Marcianus"
+    }
+  },
+  "lastrevid": 17580108,
+  "modified": "2025-09-17T17:11:19Z",
+  "ns": 860,
+  "pageid": 180352,
+  "sitelinks": {},
+  "title": "Item:Q151898",
+  "type": "item"
+}

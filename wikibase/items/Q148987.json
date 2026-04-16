@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice Mautravers"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148987$14E6EB4E-7DDE-4240-B4A1-74422D03CD62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00734237"
+          },
+          "hash": "06d394ba2fcaad083466991e0a0d6e50dc71d117",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148987$9911BD64-700A-4692-AA23-4095E4E0A16F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144926",
+              "numeric-id": 144926
+            }
+          },
+          "hash": "bbdda7d1f231fc4b9ac2bcf0c08b08f1ff6b22e1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148987$3F94EAC0-E487-44C4-8754-C335280CCF0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maltravers-23"
+          },
+          "hash": "f7a574f66b094a38cbf681ee282f5089bf628bd6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148987$3C848AA4-3C76-4956-8727-E64C5629005C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148987$7AE75795-8C28-4840-A544-7E3C61907B01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148987$20F96EA8-782D-42E7-BA37-53B7414E9937",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148986",
+              "numeric-id": 148986
+            }
+          },
+          "hash": "f0d228b9f3dbcee70717277d566744adb475a2cb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148987$041F1CC5-1507-4E50-9FD7-2BB33F4CEAF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148987$6CD825FC-BC27-40A9-BB98-4B98CDDB661D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1205-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "08a0256f43dba8b5892f8fb1346b6e504ee8ea58",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148987$2CC0D218-8EC4-43EC-8482-9165867EBE73",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1248-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "10d7f83de4030cfce04215cc9398876e653cc04e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148987$63D0B45F-B260-4718-9FDE-91F91965A902",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q100900766"
+          },
+          "hash": "0d12f5058f22b6e7491f32e348d27b450e3a2feb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148987$0EAA09C8-8762-484E-B1B6-FE732C673224",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice Mautravers"
+          },
+          "hash": "57ee603e2ba695f7d1ee2b7dc3042c98527e9598",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148987$EF42DE88-C230-4258-9581-0A9306651C6D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice Mautravers Arms.svg"
+          },
+          "hash": "98d52737f72cb9ddadb313847ecb4ab932ea935e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1205-1248)"
+    }
+  },
+  "id": "Q148987",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alice Mautravers"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Alice Mautravers"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alice Mautravers"
+    }
+  },
+  "lastrevid": 17574476,
+  "modified": "2025-09-17T15:54:31Z",
+  "ns": 860,
+  "pageid": 177440,
+  "sitelinks": {},
+  "title": "Item:Q148987",
+  "type": "item"
+}

@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Thomas Wake"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149442$2A55B8AB-DBC3-4551-9232-005730EE2970",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00425404"
+          },
+          "hash": "870600fe96beb503551c8bf0588fc3b931fdc6ff",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149442$C41B3F2F-4D65-4F53-9BA7-5660AADF1C4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wake-63"
+          },
+          "hash": "495371c177e31e3f50b6ef3f01a55be8006d7b99",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149442$2E139401-84CD-4C7A-9F38-03311C8A4581",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149442$8D197A2C-11A3-414F-A6C1-D66AA1908AF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149442$5ECEDA46-C6E6-43F6-9B57-A17FA112CC38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p60135.htm#i601346"
+          },
+          "hash": "12ef6c4909ef6d0574c2e2dea547e3d437cf5937",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149442$E289BD18-EA57-44EE-A8C9-C0B74819CABC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145173",
+              "numeric-id": 145173
+            }
+          },
+          "hash": "ece93f899c45cc57c5512511d0567901133ef94d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149442$2DECACAA-1F7C-47D9-872F-9A43667E5F1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149442$3881B7AB-173D-410F-BB08-8DEEE5EDA1F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1280-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4628f7e7efab46495b05b805a92d2c16080dee95",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149442$E5DCEBF1-7737-46D0-981B-43E193BEFB57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1347-03-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "766ea419c7bc949b948a0ccf7d63cd1968cb2713",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149442$680368E4-84E9-48BD-A58A-46634B3CA257",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76203188"
+          },
+          "hash": "29c040bdd89f8d231df9a532a74f6d9a1df979e4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149442$8D282D48-EAC6-4A38-944D-956BAE040F6F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Thomas Wake Arms.svg"
+          },
+          "hash": "015ae6ef5eb2c85787d213bd04f6c8d2c3fa57d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=601346"
+    }
+  },
+  "id": "Q149442",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Thomas Wake"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Thomas Wake"
+    }
+  },
+  "lastrevid": 17575380,
+  "modified": "2025-09-17T16:06:58Z",
+  "ns": 860,
+  "pageid": 177895,
+  "sitelinks": {},
+  "title": "Item:Q149442",
+  "type": "item"
+}

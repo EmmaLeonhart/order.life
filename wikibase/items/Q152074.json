@@ -1,0 +1,154 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q152074$C9D84A6C-6CC9-433D-A168-54270FAE91D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q152074$41AF5810-FC09-4879-B94E-67AE87DE5123",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P49": [
+      {
+        "id": "Q152074$57E80C24-8DFA-41D2-A0C2-0471D7ACCF59",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+54', 'unit': '1'}"
+          },
+          "hash": "dc4f0df7285849ef460fb1e21af66779deb10065",
+          "property": "P49",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P50": [
+      {
+        "id": "Q152074$40180FA2-B3BE-401C-9733-959334649E6A",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+26', 'unit': '1'}"
+          },
+          "hash": "1edf0d566f9ca87be83a29bf8891a9254a31467f",
+          "property": "P50",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P51": [
+      {
+        "id": "Q152074$BC426AD8-BCCA-4705-9984-EDCBEFFA4317",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+8', 'unit': '1'}"
+          },
+          "hash": "1dfd70de7a675d9b4899c2ff6849b5a1a28137eb",
+          "property": "P51",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P52": [
+      {
+        "id": "Q152074$084C9038-5E4C-4A29-B525-894F8A3FF978",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+5', 'unit': '1'}"
+          },
+          "hash": "ab053d9ee450aa41bc1d0ec8626ee24ab2caca15",
+          "property": "P52",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q152074$6A798776-8D99-4EA8-BA27-D0C78068974E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Capricorn 26 Arms.svg"
+          },
+          "hash": "01febf81a750362f05f00d2d36771651abc892c1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "54th day of the year in the Gaiad calendar, 26th day of Capricorn"
+    }
+  },
+  "id": "Q152074",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Capricorn 26"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "2宮26日"
+    }
+  },
+  "lastrevid": 17580214,
+  "modified": "2025-09-17T17:12:55Z",
+  "ns": 860,
+  "pageid": 180508,
+  "sitelinks": {},
+  "title": "Item:Q152074",
+  "type": "item"
+}

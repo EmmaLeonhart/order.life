@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Popillius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151829$5F16B351-B679-4E98-AFD1-AA15998B546C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151801",
+              "numeric-id": 151801
+            }
+          },
+          "hash": "84b0f38244ba6e9bbd4721d8ce0eda3d5b597896",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151829$AF824157-6BC7-46CD-9578-047690AECA94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151829$19E8BF53-6CBF-4FD7-9DF6-EDED2891B02A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151829$C2C48556-15EE-4A35-A2DB-094B5EA4A07E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151829$1BCD8A49-D67F-4425-BA52-77D906FE6CB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151829$A47A4E3F-9C76-4E0D-A052-CEC46D135C21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q97015928"
+          },
+          "hash": "45330a84b65d6dd2846b6f500ddb994e775008fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151829$B55C78C8-67A2-4BCD-8E59-0656F534454C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Popillius Arms.svg"
+          },
+          "hash": "4a6520428208f29f688f2f9b4a8961f7abb56070",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "es": {
+      "language": "es",
+      "value": "antepasado de los Popilios Lenates del siglo II a. C."
+    }
+  },
+  "id": "Q151829",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Publius Popillius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Popillius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Popilio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Popillius"
+    }
+  },
+  "lastrevid": 17579990,
+  "modified": "2025-09-17T17:09:46Z",
+  "ns": 860,
+  "pageid": 180283,
+  "sitelinks": {},
+  "title": "Item:Q151829",
+  "type": "item"
+}

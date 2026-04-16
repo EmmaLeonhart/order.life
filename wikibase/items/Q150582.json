@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William de Berkeley, 1st Marquess of Berkeley"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q150582$F77615D0-A603-4B8A-B03C-E3CB5F784B34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Berkeley-429"
+          },
+          "hash": "f6c67f2c4a184b7624ad2db177b673b4180ebd3e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150582$CC57BAB9-A3BF-4B95-9E4F-194CF7CBB81E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150582$4A04246A-6815-4CBD-90B0-CCB58B000BA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q150582$02824927-6669-4A80-A2CA-1A5F194F01A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "William_de_Berkeley_(1)"
+          },
+          "hash": "1e456fe26fc18e3e12ef4d8c819dfc856d5fe0ed",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150582$53023120-3B81-4061-93D1-42D5263137B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p2795.htm#i27950"
+          },
+          "hash": "9a220f972857f2d37d90cda1e5bb32c453b7b020",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150582$CE149A8D-724B-411C-89D7-4E316F56FB62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145979",
+              "numeric-id": 145979
+            }
+          },
+          "hash": "e2f9fac9d066f3996a79d380a01813151e4f21b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150582$700F7EF6-E37B-4BA0-8FE9-27DC67C6037D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150582$258E99C4-0851-40C1-A6A9-820207505AE5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1426-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1dc02cceed9fdb65bcc06ba78711963ce32fabda",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150582$B1ACBAA0-D4B6-45F5-9804-7AEDB14DDBEF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1492-02-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec91eff78d4b553b54b09dd3200d2af7ecf6d8e3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150582$21109930-BCCB-418A-ACFD-7209069F5F55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7607464"
+          },
+          "hash": "8d68c4da86e7ead1dc9df8cb78b9d127ce94eb11",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q150582$340AFABF-3821-47FB-8AC3-B75603B5A968",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=william;n=de berkeley"
+          },
+          "hash": "6dadd05a5a7c24b9e4f1101e7da4348805b598b3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150582$AB6C05D8-5FBE-4E04-8D03-5D7FE0485796",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William de Berkeley, 1st Marquess of Berkeley Arms.svg"
+          },
+          "hash": "cd01eaf2a3b6f4f28cfbab18f8cd0773cb7a5d77",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger und Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "English peer"
+    }
+  },
+  "id": "Q150582",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "William Berkeley, 1. Marquess of Berkeley"
+    },
+    "en": {
+      "language": "en",
+      "value": "William de Berkeley, 1st Marquess of Berkeley"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "William de Berkeley, 1st Marquess of Berkeley"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "William de Berkeley, 1st Marquess of Berkeley"
+    },
+    "es": {
+      "language": "es",
+      "value": "William de Berkeley, 1st Marquess of Berkeley"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "William de Berkeley"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "William Berkeley, Berkeley 1. márkija"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "バークレー侯爵"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "William de Berkeley, 1.º Marquês de Berkeley"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "William de Berkeley, 1.º Marquês de Berkeley"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Беркли, Уильям, 1-й маркиз Беркли"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伯克利侯爵"
+    }
+  },
+  "lastrevid": 17577646,
+  "modified": "2025-09-17T16:37:22Z",
+  "ns": 860,
+  "pageid": 179035,
+  "sitelinks": {},
+  "title": "Item:Q150582",
+  "type": "item"
+}

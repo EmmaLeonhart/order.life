@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir William Vaughan, of Porthaml"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150521$7439776A-939D-46E4-91C4-713A0EF7DFC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00322294"
+          },
+          "hash": "b0f3d73289056f6c9ee6566a191f1684650fb016",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150521$0EB9693B-229A-4BBA-862E-817E0BF13005",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vaughan-481"
+          },
+          "hash": "27c6e36e2828fe7b8a9174172abdf9310232508f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150521$6598E069-2BEB-4816-BA1A-4DC001A68B9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150521$D5F6CC9A-443F-476B-A5E6-2842F9E781B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150521$50B3B4B8-13E6-4E5E-80DF-2C27AB747BD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145946",
+              "numeric-id": 145946
+            }
+          },
+          "hash": "32cbc19dc94fbf09d68d07ccafb48cffca81a1b4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150521$A3B53486-DB77-45AD-B7B4-495D4BAF7D1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150521$7BD89272-49A9-42B1-A8D1-174CFA7B9575",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5517e7fa629916f09c9b2d2aa43301814f6098a0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150521$EE08F8AB-15A0-4041-8922-0D540C981031",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1564-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "229b507c27eba56c691f5e7977c8e7773d805440",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150521$708AACE1-7B0A-4975-A2FF-148EEBB6D46B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q105819533"
+          },
+          "hash": "dc3b965bbb44a4ac8b7aa04a36efb696889d8cfd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q150521$B0059B97-1569-431A-ACA9-40EBBBBDCB16",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir William Vaughan, of Porthaml"
+          },
+          "hash": "cf9e46bc0a9f076da3e66cbcc8bf3df8537aa594",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150521$73FF03C7-3590-409B-9B07-9689E2A4659D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir William Vaughan, of Porthaml Arms.svg"
+          },
+          "hash": "66c33ce1578e97828e3b30b7fb68e48e432a8341",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 1564"
+    }
+  },
+  "id": "Q150521",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir William Vaughan, of Porthaml"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sir William Vaughan, of Porthaml"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir William Vaughan, of Porthaml"
+    }
+  },
+  "lastrevid": 17577524,
+  "modified": "2025-09-17T16:35:46Z",
+  "ns": 860,
+  "pageid": 178974,
+  "sitelinks": {},
+  "title": "Item:Q150521",
+  "type": "item"
+}

@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William de Vaux"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149474$3FAD1778-B537-4E03-AC92-62AB73FE2931",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vaux-114"
+          },
+          "hash": "57692090d944dea7b5162befb62761e8ecbe818b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149474$F77236AF-BD06-4157-863F-C6A692DFD8CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149474$489CC3D4-327F-4819-BFB6-67B997F9ABBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149474$A76B17BD-2BF6-415D-A9E1-E8CAA2A235ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p59878.htm#i598775"
+          },
+          "hash": "f23bebd7ead94471a7ebaf4b1cb0bb869e4d8077",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149474$0845DBC3-8063-4A5A-A6D2-2A5D7F32AAC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145202",
+              "numeric-id": 145202
+            }
+          },
+          "hash": "a984a730bece700febafab79aca3550a95156bcd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149474$2072E4B1-6C92-4093-8564-22500A3F9455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149474$3FDCD611-26A4-4C23-AD08-574D6FDB6109",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1117-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "24235acc481a2da426e764b25f6c2e5eb5159b7a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149474$79D9FAFA-4A11-419C-92F8-C30855205F0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76199350"
+          },
+          "hash": "7f216904fbd749ac8045c8a8027fa8d88d1cec8b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149474$B4AB3321-9F66-4346-B22B-28A7A735E106",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William de Vaux Arms.svg"
+          },
+          "hash": "9ba04740934658efb095273657d2aabf89462119",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=598775"
+    }
+  },
+  "id": "Q149474",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "William de Vaux"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William de Vaux"
+    }
+  },
+  "lastrevid": 17575444,
+  "modified": "2025-09-17T16:07:48Z",
+  "ns": 860,
+  "pageid": 177927,
+  "sitelinks": {},
+  "title": "Item:Q149474",
+  "type": "item"
+}

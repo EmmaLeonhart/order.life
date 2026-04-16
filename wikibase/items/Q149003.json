@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "James de Newmarch"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q149003$C119B12A-D28A-4363-9FD7-74BEBC8ED9AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144933",
+              "numeric-id": 144933
+            }
+          },
+          "hash": "9f669ec81f471f99755548330d0c3f4ea26002e3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149003$22A11AC0-7CE6-451A-8A34-E3B50DCABE5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Newmarche-7"
+          },
+          "hash": "48e53ef017b446fd9d1126dbaaf26c201f48c7b4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149003$BC096A3D-3BD5-40D1-857F-847CAE2C6249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149003$ADB85C15-79D9-4566-B804-C48C0FA3BB32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149003$C72698B1-8F88-4BFA-A519-34709333A572",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15186.htm#i151855"
+          },
+          "hash": "bce4938f7deeab92ea9437c728ec5646868e32da",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149003$FE868891-E70C-4524-A687-744162A330A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149003$F3D21F6E-CAF4-4ED3-8FE8-FB3235F701F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1216-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "38f1c26e2fbd2b8cc69609ecfad1aca5b5c2a27a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149003$C6C12691-65C9-403D-86A0-3B9ED3FB8F90",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75453857"
+          },
+          "hash": "58ba7fd386b2493a5126e11aac43f76efe5cf09d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149003$DBB6940B-FCD7-4299-BE20-F7CEB6EF8471",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "James de Newmarch Arms.svg"
+          },
+          "hash": "c5ff0c1053b5d2670f242128f08fb4de40dbf2ce",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=151855"
+    }
+  },
+  "id": "Q149003",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "James de Newmarch"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "James de Newmarch"
+    }
+  },
+  "lastrevid": 17574508,
+  "modified": "2025-09-17T15:54:58Z",
+  "ns": 860,
+  "pageid": 177456,
+  "sitelinks": {},
+  "title": "Item:Q149003",
+  "type": "item"
+}

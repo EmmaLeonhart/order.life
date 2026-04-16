@@ -1,0 +1,386 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Galeria Fundana"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148147$5C69DA7E-BA2E-4FF2-8954-2C5FF8B0E154",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800941"
+          },
+          "hash": "ac6a85ad970bc9a1ea569fb9502e460c6a8b88b9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148147$D7549946-4177-49F7-B915-CC1DBFBBE68B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144369",
+              "numeric-id": 144369
+            }
+          },
+          "hash": "ee527ad672b07038d8bf938a84ae559733317fd3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148147$5539519C-783F-48C2-8D1B-EABEA0F577A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148149",
+              "numeric-id": 148149
+            }
+          },
+          "hash": "2279c30b0f06e8d8aef9b0d390e4c6cdc715f455",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148147$3B2684CD-0EB3-4443-A0EF-411EF27B8C5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148147$07775DFF-1FA8-411F-A173-A7B0CB0DE6D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148147$2C28AD1D-4B9D-43F2-AE55-C48505C70AEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Galeria_Fundana_(1)"
+          },
+          "hash": "d4b174c495ca21a892c51eaaa832a737e7853876",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148147$8F1B70C3-7C5E-4760-9CB8-B9EFDB311B56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144185",
+              "numeric-id": 144185
+            }
+          },
+          "hash": "8b49b12ac092c812b7a1cfaa43071b4c1766c63c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148147$18E36A0B-4B5F-4558-BB5A-D1283C22BDA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148147$8D0291C0-1B10-4A71-9058-227062F8D96F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0040-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "daa6fa73293f963017048bf3cf323da8576e3d8a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148147$A1AB1415-BC28-4B40-B06C-726C2CA762E7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q260039"
+          },
+          "hash": "a294c1245016ffdb31bfc8cf7f367392eedb0b1a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148147$A154DE7A-C215-47D1-9F45-9CDCC048DCCD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Galeria Fundana Arms.svg"
+          },
+          "hash": "5e2fe71d4580c4b42538486781ba202222a4df91",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "br": {
+      "language": "br",
+      "value": "impalaerez roman"
+    },
+    "de": {
+      "language": "de",
+      "value": "zweite Frau des römischen Kaisers Vitellius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman empress, wife of Vitellius"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Vitellius"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Vitellio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Oude Rome (-)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarzowa rzymska"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperatriz-consorte de Roma"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk kejsarinna"
+    }
+  },
+  "id": "Q148147",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Galeria Fundana"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Галерия Фундана"
+    },
+    "br": {
+      "language": "br",
+      "value": "Galeria Fundana"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gal·lèria Fundana"
+    },
+    "de": {
+      "language": "de",
+      "value": "Galeria Fundana"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γαλερία Φουντάνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Galeria Fundana"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Galeria Fundana"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Galeria Fundana"
+    },
+    "es": {
+      "language": "es",
+      "value": "Galeria Fundana"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گالریا فوندانا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Galeria Fundana"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Galeria Fundana"
+    },
+    "it": {
+      "language": "it",
+      "value": "Galeria Fundana"
+    },
+    "la": {
+      "language": "la",
+      "value": "Galeria Fundana"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Galeria Fundana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Galeria Fundana"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Galeria Fundana"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Galéria Fundana"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Galéria Fundana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Галерия Фундана"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Galeria Fundana"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Галерија Фундана"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Galeria Fundana"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Galeria Fundana"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ґалерія Фундана"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "加萊里亞·豐達納"
+    }
+  },
+  "lastrevid": 17572906,
+  "modified": "2025-09-17T15:32:30Z",
+  "ns": 860,
+  "pageid": 176363,
+  "sitelinks": {},
+  "title": "Item:Q148147",
+  "type": "item"
+}

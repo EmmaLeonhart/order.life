@@ -1,0 +1,437 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Cornelius Scipio Nasica Serapio"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148071$AEB204D2-B513-4A8B-91C9-CFE2038EB83B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735585"
+          },
+          "hash": "50fd7652437f417e76096ca0ab8bbe510e2ed994",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148071$7355B605-262B-48C8-87DE-F62F1AE221CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144067",
+              "numeric-id": 144067
+            }
+          },
+          "hash": "5703944ed7014a8a166e99910858efc050588f6b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148071$A657755F-F021-473B-B491-E20C2F7C8C40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148071$3F74760A-B8CD-46DE-8813-5A637BD7EE07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148071$C384C737-47C0-48CE-B758-AADAA27B0286",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius_Cornelius_Scipio_Nasica_Serapio_(consul_138_BC)_(1)"
+          },
+          "hash": "9b3a128f31fbff2c42ab4ab0f772d8e4df6874ac",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148071$629C4B2C-07E2-4791-AD9A-4A80C5831956",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73128",
+              "numeric-id": 73128
+            }
+          },
+          "hash": "2f1463957235e59673f49c0493c95b23f2d0c339",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148071$F5AB8A9E-979D-4234-834A-7E3C4D312DCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73131",
+              "numeric-id": 73131
+            }
+          },
+          "hash": "a3277097d14c99c4fc3f5225f4211dcad3d778a4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148071$1C4F78DA-8A26-4758-922C-9635D9A39BD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148071$E2B3E9C0-5896-4FD6-8EB9-A50D0BC6A340",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0180-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dcf2ac482ee72ef95ed692ae698dbe4e881b734a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148071$2DC8D84E-9F7D-41C1-A9F2-C39CA5F0FB13",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0132-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f92beb3a8a4496cbf024bc59ab1818edb702b7b5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148071$ACC5DFDB-2BB2-4B64-87AF-94B46CF19655",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q285755"
+          },
+          "hash": "6c4ea5d5712d4b4930cfe00fac21e54784bbdc61",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148071$1AD6B355-F6D6-4C50-883C-68651465E832",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Scipio Nasica Serapio"
+          },
+          "hash": "7f1972405f19d7b90c6a28eadf34e44bdd6ea5db",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148071$DFDA38B3-D8FC-43BF-AA5E-15823BD59888",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Cornelius Scipio Nasica Serapio Arms.svg"
+          },
+          "hash": "7e2e170a13c5d709ed4a19691ad32723fd28933e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker 138 fvt."
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 138 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 138 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római politikus, hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, console nel 138 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (181v Chr-132v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski polityk"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 138 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q148071",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Корнелий Сципион Назика Серапион"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Publi Corneli Escipió Nasica Serapió"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Κορνήλιος Σκιπίων Νασίκα Σεραπίων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Cornelio Escipión Nasica Serapión"
+    },
+    "et": {
+      "language": "et",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "id": {
+      "language": "id",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Cornelio Scipione Nasica Serapione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・コルネリウス・スキピオ・ナシカ・セラピオ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Publiusz Korneliusz Scypion Nazyka Serapion"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Cornélio Cipião Nasica Serápio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Cornélio Cipião Nasica Serápio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Корнелий Сципион Назика Серапион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Kornelije Scipion Nasika Serapion"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Publius Cornelius Scipio Nasica Serapio"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Корнелій Сципіон Назіка Серапіон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布利乌斯·科尔内利乌斯·西庇阿·纳西卡·塞拉皮奥"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普布利乌斯·科尔内利乌斯·西庇阿·纳西卡·塞拉皮奥"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普布利烏斯·科爾內利烏斯·西庇阿·納西卡·塞拉皮奧"
+    }
+  },
+  "lastrevid": 17572778,
+  "modified": "2025-09-17T15:30:42Z",
+  "ns": 860,
+  "pageid": 176160,
+  "sitelinks": {},
+  "title": "Item:Q148071",
+  "type": "item"
+}

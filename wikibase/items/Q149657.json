@@ -1,0 +1,193 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alianore de Beauchamp"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q149657$BE3D3CA1-3012-476D-818A-FEEC9D82FB5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149657$9572D012-DA96-4B0B-9D8D-2CC8C78A40E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149657$1BC7F032-1AFF-4A25-AC1C-5F16933BDF15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145297",
+              "numeric-id": 145297
+            }
+          },
+          "hash": "301bb10432b035b5152d9c2d9a62b8253d2f846a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149657$2DC595A9-5E3B-4753-A005-F2B911D8BCCD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p13768.htm#i137672"
+          },
+          "hash": "72adb8fc850c1665a8568b07374394feb83c45db",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149657$A40519C0-3604-431B-9FDE-4C2E08D394F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149657$33CE9A0A-CB73-43F7-80D2-A899C560E991",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1275-11-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "485c1fbe71c64ecdec57b74701d0dc8f17508562",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149657$CC7B1210-683F-47F9-8843-E2FEF7594D6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75431764"
+          },
+          "hash": "dc7138284b4f87e8ba797e1875cc669d35ddf19e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149657$8468F6C4-664A-41A9-B0E5-853BFEB5A740",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alianore de Beauchamp Arms.svg"
+          },
+          "hash": "034f5006d36d014a2ac6022607058f283640480c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=137672"
+    }
+  },
+  "id": "Q149657",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alianore de Beauchamp"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alianore de Beauchamp"
+    }
+  },
+  "lastrevid": 17575806,
+  "modified": "2025-09-17T16:12:47Z",
+  "ns": 860,
+  "pageid": 178110,
+  "sitelinks": {},
+  "title": "Item:Q149657",
+  "type": "item"
+}

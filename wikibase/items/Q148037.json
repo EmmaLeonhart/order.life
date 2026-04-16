@@ -1,0 +1,385 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Cornelius Lentulus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148037$B9FF785B-31BF-44D2-B784-820336E45AE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465094"
+          },
+          "hash": "49d63b94a88e1e06e6878889380dc24812a1b281",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148037$02222CE1-C866-44FB-BB0A-88FAA81C93FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144108",
+              "numeric-id": 144108
+            }
+          },
+          "hash": "303603600aa8a5797329dfe1fc71bebaacad3501",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148037$F59C31B4-A181-4A94-B9BA-9184FB69D73D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144040",
+              "numeric-id": 144040
+            }
+          },
+          "hash": "4134fdbc92cb93d002bff252d337386581d5de1c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148037$5FD6B592-017D-4C38-9D1C-F2F43FFBFEB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148037$01799862-DF16-4B88-9281-96C1F3D9C5DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148037$3B0FEEB6-3E1D-4E35-A51D-BA49D1E68B63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151418",
+              "numeric-id": 151418
+            }
+          },
+          "hash": "912601ff115f88f23b1b05a7c52e8480cdd9cc15",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148037$13D12373-72B8-4B6C-802E-47C7DD41D86D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148037$CB931FF5-0EF7-4CB1-BBBF-D79FBEFC57BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148037$4B2F3E7E-FFEF-4FD3-B22E-DD2B9FD935BC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148037$B979DCE2-2956-4467-B655-6071D4127009",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q943702"
+          },
+          "hash": "ae220b731689a0a0ada5b42eaca2032fcd182dc1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148037$3A9C402B-01D0-4FD8-9527-D56678DCB8C7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Cornelius Lentulus Arms.svg"
+          },
+          "hash": "4f62418681a0e01c9b22a913d8c36a9de4107159",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 97 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 97 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 97 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 97 av. J.-C."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 97 a.C."
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q148037",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Корнелий Лентул"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Corneli Lèntul"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Cornelius Lentulus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γναίος Κορνήλιος Λέντουλος (ύπατος το 97 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Cornelius Lentulus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Cornelio Léntulo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cnaeus Cornelius Lentulus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cneo Cornelio Léntulo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gneo Cornelio Léntulo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Cornelio Lentulo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・コルネリウス・レントゥルス (紀元前97年の執政官)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Cornelius Lentulus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Cornelius Lentulus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cneu Cornélio Lêntulo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cneu Cornélio Lêntulo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Корнелий Лентул"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gnej Kornelije Lentul"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gnaeus Cornelius Lentulus"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гнеј Корнелије Лентул"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Корнелій Лентул"
+    }
+  },
+  "lastrevid": 17572720,
+  "modified": "2025-09-17T15:29:55Z",
+  "ns": 860,
+  "pageid": 176126,
+  "sitelinks": {},
+  "title": "Item:Q148037",
+  "type": "item"
+}

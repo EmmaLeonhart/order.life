@@ -1,0 +1,266 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Komnenos"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147581$46C38BC8-955A-4DD3-878B-9D05E992D4A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00799578"
+          },
+          "hash": "a075cc1e1cb75b98678862ceeb0af46b14824fec",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147581$0FBE3663-0DFE-4665-A28A-DA8140E47028",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147581$750C18DF-BCED-485A-AF43-7CDB5F00237C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147581$C30984AC-B99F-4A55-991D-B0B43A3EAE73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147579",
+              "numeric-id": 147579
+            }
+          },
+          "hash": "e0c20fe0212d410aa18b76589ae6692dc6a679e5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147581$9085CC88-D9B7-4E1D-AB39-1283E362EF43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143834",
+              "numeric-id": 143834
+            }
+          },
+          "hash": "53df7c187d1eaf83a963b9185b2f84fcab7f3bc1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147581$B14C63EC-C57E-47B3-8D70-BE3F3658540F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147581$1E5746A8-BB36-4D27-9CF8-79C12B9EAF59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1070-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "13f7ebf2701da7f87f88e50250a5774dc91f751e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147581$24988332-044E-4998-BAD3-AA8AD0564699",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "02b2491aa94aec01b5c4332e7b8454593d1a0ee3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147581$6B1EC158-E6F2-49B1-872A-1165C835F7B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q56726592"
+          },
+          "hash": "b8c664d5b21147449f569c765cfda265b1756886",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147581$CCF123D6-4AEB-4FCE-91B6-47A984581EE3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Komnenos Arms.svg"
+          },
+          "hash": "d0fb877e5e9672abe545c5313f5cc8b9fa218da2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски аристократ, паракимомен"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "paracemomen"
+    }
+  },
+  "id": "Q147581",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "John Komnenos"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Комнин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan Comnè"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Komnenos"
+    },
+    "es": {
+      "language": "es",
+      "value": "John Komnenos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Komnenos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Комнин (паракимомен)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰·科穆宁"
+    }
+  },
+  "lastrevid": 17572248,
+  "modified": "2025-09-17T15:23:34Z",
+  "ns": 860,
+  "pageid": 175883,
+  "sitelinks": {},
+  "title": "Item:Q147581",
+  "type": "item"
+}

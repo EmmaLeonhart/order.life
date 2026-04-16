@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard Owen, of Shrewsbury"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150069$64ABC79D-EA77-4573-B0DF-AEC063D65CAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738683"
+          },
+          "hash": "f85d805bfacc551e76aa81349fd42f36dfe90be4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150069$A2505531-24F5-44C1-A716-EA6D26972365",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Owen-638"
+          },
+          "hash": "333b725b604c240dc8ab02bc7b89063914175b00",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150069$60A8EF57-58E9-44E9-A6B0-39CCC7F18699",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150069$FCE3548F-7D95-42BB-AC22-93EDF921E978",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150069$4B2B70A6-E67C-43DC-8B17-2144267207BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145582",
+              "numeric-id": 145582
+            }
+          },
+          "hash": "ae7bf15d0df27d64d85eafd1427b6502ce1b0584",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150069$83AF2078-B364-4E73-83EA-941CA7DD4C16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150069$DCB961F3-761E-4AF2-AC32-EC23A1B28726",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5517e7fa629916f09c9b2d2aa43301814f6098a0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150069$21AE3850-4991-4794-B162-BF83064FCD0B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1575-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "07f6d3f8de2e1c82f38e330d365e993670cac21d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150069$6DC960EA-3B6D-4A68-B654-E2A8ACF03F8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111454103"
+          },
+          "hash": "7934fda3b370fb7aab150863f197a33af2b823f8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q150069$CD72358E-991F-4E22-907A-C670D9E890EC",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard Owen, of Shrewsbury"
+          },
+          "hash": "55fece35b16edd0f23d4d3b639292d175ad2fc28",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150069$A7EFA23F-62AE-430D-89D0-039292FFC785",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard Owen, of Shrewsbury Arms.svg"
+          },
+          "hash": "794303c6303e3b4ca50a82d2a693cbe63a2446c7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1500 - uncertain 1575"
+    }
+  },
+  "id": "Q150069",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Richard Owen, of Shrewsbury"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Richard Owen, of Shrewsbury"
+    }
+  },
+  "lastrevid": 17576624,
+  "modified": "2025-09-17T16:23:41Z",
+  "ns": 860,
+  "pageid": 178522,
+  "sitelinks": {},
+  "title": "Item:Q150069",
+  "type": "item"
+}

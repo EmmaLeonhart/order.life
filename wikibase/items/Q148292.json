@@ -1,0 +1,307 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Titus Vitrasius Pollio"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148292$F2CD58DA-F4FF-4A7B-BE63-BEF05ACC02CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736115"
+          },
+          "hash": "005697ba0fba5e865912e9aae8784f74f3d3732a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148292$37E01E1D-5D6E-4755-B134-4BA67D246947",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148293",
+              "numeric-id": 148293
+            }
+          },
+          "hash": "08f12e5d7cff5865c21085f1e93198f10841a580",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148292$E0DE6DF3-23DE-4904-BE3F-D36D7631CCF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148292$A7568BC2-12DF-4A56-AB3D-46563CBC7383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148292$C1A2B0D4-E827-4DAE-8D3C-E997A952AB6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Titus_Pomponius_Proculus_Vitrasius_Pollio_(1)"
+          },
+          "hash": "25ffcf5780f54167f1a1907974dae2f3ac034410",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148292$E71431C1-F095-4C80-A5A7-8660271B3C1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144373",
+              "numeric-id": 144373
+            }
+          },
+          "hash": "a51ac8f68d6d6413b3c7eb0daa8cf2824509dbd2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148292$E144D95D-FA65-4B0D-AD8D-6925A5CEFAF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148292$92BC5385-CDFB-4DE4-BC52-9F6924A7EA80",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148292$C1882AD2-A661-4415-92AB-E40A02641CF5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0180-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d233e7b0a9934f6f614d91fd331c73cd33503ba0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148292$D0B1E768-D532-40CD-B000-01EFBB3FBB16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1239611"
+          },
+          "hash": "84f102adab9f0a260f29058577ab8b698cb97a63",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148292$D46C1E6F-A255-4A70-AF2D-F0C9380985DB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Titus Vitrasius Pollio Arms.svg"
+          },
+          "hash": "88e542a16d04e6314556075b5544a384463a3a45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century Roman senator, consul and governor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q148292",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Тит Витразий Полион"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Vitrasi Pol·lió"
+    },
+    "de": {
+      "language": "de",
+      "value": "Titus Vitrasius Pollio"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τίτος Πομπόνιος Πρόκουλος Βιτράσιος Πολίων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Titus Vitrasius Pollio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tito Vitrasio Polión"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tito Vitrasio Pollione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティトゥス・ポンペイウス・プロクルス・ウィトラシウス・ポッリオ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Titus Vitrasius Pollio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Titus Pomponius Proculus Vitrasius Pollio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тит Помпоний Прокул Витразий Поллион"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тіт Помпоній Прокул Вітразій Полліон"
+    }
+  },
+  "lastrevid": 17573162,
+  "modified": "2025-09-17T15:36:05Z",
+  "ns": 860,
+  "pageid": 176745,
+  "sitelinks": {},
+  "title": "Item:Q148292",
+  "type": "item"
+}

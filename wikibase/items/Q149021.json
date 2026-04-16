@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Henry Husee"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149021$2FB02ED4-4E07-4A95-B813-EEBCF31E7FA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Husee-3"
+          },
+          "hash": "0b97585a998cfc793a43105aab3bf59c401e7697",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149021$653AB067-77C5-4FEF-ADD7-EBE45B67D41D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149021$225A19E2-18B0-4BB8-A537-05A2AF24FD83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149021$45095109-7CDD-4C68-B4AA-67C2A5DFAD6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144941",
+              "numeric-id": 144941
+            }
+          },
+          "hash": "aca74b097fa0d61eff454af051d900e4d349ac95",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149021$483A732F-7F00-4A6D-B66D-488DD6EC74F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15188.htm#i151873"
+          },
+          "hash": "31a11e8b41d52b429c1fc68a0217a05e5f053a8d",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149021$B60906DD-7CD8-4DC2-901A-0C0C528439B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149021$A69D875E-3C26-4E64-9A74-7466A2542E01",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1240-08-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e0df6dcc51065ca3902987054b9cedd0c513bf41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149021$2805282D-3E7D-4D06-99F8-384EA308D5ED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1290-08-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "639dcef6ba423c995a07ef4ec0434242abfdd643",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149021$437B6EEE-F8E6-49BC-B99D-2F6875DFBDC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75453888"
+          },
+          "hash": "b770eabe254f82bbf6f276866a6291e331d1c866",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149021$B630BE12-21AF-4CBF-BF7B-796A87B4C180",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Henry Husee Arms.svg"
+          },
+          "hash": "cf72cf5a09d94719cb54438a1d9cb503fb179210",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=151873"
+    }
+  },
+  "id": "Q149021",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Henry Husee"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Henry Husee"
+    }
+  },
+  "lastrevid": 17574544,
+  "modified": "2025-09-17T15:55:28Z",
+  "ns": 860,
+  "pageid": 177474,
+  "sitelinks": {},
+  "title": "Item:Q149021",
+  "type": "item"
+}

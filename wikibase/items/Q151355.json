@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tiberius Julius Sauromates II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151355$701E7D8D-ECBC-4E0F-8321-2509B8F9D355",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "401206"
+          },
+          "hash": "7457b0939b9b2f184efdb06d4f5e87efbb3a3c26",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q151355$45635A5C-5508-45E5-B820-8A841D40FDA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736388"
+          },
+          "hash": "92c301281b8fc965f1a3f9db2423f75c7e7e9874",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151355$0E903D4C-C00E-4717-9BEB-791F1DBBB019",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123548",
+              "numeric-id": 123548
+            }
+          },
+          "hash": "78c998e32c3ac2461fd0b34eccb81d9b65d46314",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151355$5CB45ECD-3761-4E3B-AEDA-76AF59B9A3B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151355$B44684BC-A11F-4DE0-9C7D-3E02A0195E8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151355$939CA8D0-2AE2-41D0-9502-8A89807CA0A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148025",
+              "numeric-id": 148025
+            }
+          },
+          "hash": "b84778a00d6d6c19b164776fd7a6c3dec3ad198b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151355$9D9A7815-C558-4F97-8467-6873300D2E7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151355$99AEABE6-FC58-4265-9E6A-B08C52BD0C0E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151355$88142EEF-4E83-4488-AAFA-A3DD2503D984",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0210-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2c81e748c19ffaca64ebb038d4b134e94d35e92",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151355$0F1FA553-84ED-435C-B859-A05A48A22D25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3133991"
+          },
+          "hash": "07788754c3f9d43625104cb5b1aef8a5f7d08dc3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q151355$41C04433-80A6-4063-BD5B-ED088911C984",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:51961"
+          },
+          "hash": "77696a5f8770c1d6a6bee0e45a3641893eb442a0",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151355$9BD5EAE1-298F-408E-A5DF-550CAF494D65",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tiberius Julius Sauromates II Arms.svg"
+          },
+          "hash": "78e4432a60c9245c8c9613a5ff91fdc123da25f9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of the Bosporan Kingdom from c.174 to c.210)"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey del Reino del Bósforo entre c. 174 y c. 210"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi du Bosphore"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Боспорского государства в 174/175-210/211 гг"
+    }
+  },
+  "id": "Q151355",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Sauromates II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tiberius Iulius Sauromates"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τιβέριος Ιούλιος Σαυρομάτης Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tiberius Julius Sauromates II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sauromates II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sauromatès II du Bosphore"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tiberio Giulio Sauromate"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tiberius Julius Sauromates II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sauromates II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Савромат II"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tiberius Julius Sauromates II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Савромат II"
+    }
+  },
+  "lastrevid": 17579158,
+  "modified": "2025-09-17T16:58:43Z",
+  "ns": 860,
+  "pageid": 179809,
+  "sitelinks": {},
+  "title": "Item:Q151355",
+  "type": "item"
+}

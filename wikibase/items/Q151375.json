@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Barea Soranus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151375$B2E39819-31EA-4148-AEFE-464FF32BC4FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800931"
+          },
+          "hash": "704935af152b78c343945f8ed8889eeceb88bf47",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151375$06FD0CC2-1E83-4841-9C63-C886150D51B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151421",
+              "numeric-id": 151421
+            }
+          },
+          "hash": "58e7a6409374343a0caca85f3a488d017fa8459c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151375$39CC6E4A-8E71-413F-B5EC-1DDB2244D2C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151375$E976D4AA-4909-456B-A550-A59E90F55D10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151375$D441BE32-8C69-4B18-9505-8AB5A54BABAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151517",
+              "numeric-id": 151517
+            }
+          },
+          "hash": "95b3fa40f2eb581f19ddd3b4a7c240b263417e0e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151375$A85974A1-F82D-4276-8CDE-A12502F6E026",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70448",
+              "numeric-id": 70448
+            }
+          },
+          "hash": "274b1ab850bae906eca9d2299d0e06c2d400b3ac",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151375$92104EDC-FB63-4C09-A1B4-A013A5D24549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151375$F23F09A8-1662-43D3-9EFF-7A8B5C95F2DE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbc84ba0c91e33bb2abbb6ba44fc19f42d2398dc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151375$18DE5311-C71B-4712-B326-B34D9579AD88",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0065-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7104294638a105be348aaedf4589f8c623fe7fd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151375$74B4E736-C941-47EA-A5B6-76AE3CF46C66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1234468"
+          },
+          "hash": "17a19531a8f69f01a5e8a442c1320a1a725dd4fa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151375$D04446AD-2350-4659-8B7F-BBFB21B5D082",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Barea Soranus Arms.svg"
+          },
+          "hash": "1481f7726f84e5143da7bf2de0558f599f47a451",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 52"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century AD Roman senator, consul and provincial governor"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul sufecto romano del 52"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 52"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-65)"
+    }
+  },
+  "id": "Q151375",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Servilio Barea Sorano"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Марций Барей Соран"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sorà Barea"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Marcius Barea Soranus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Μάρκιος Βάρεα Σοράνος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Barea Soranus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Barea Sorano"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Barea Soranus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Marcius Barea Soranus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sorà Barea"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Marcio Barea Sorano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "バレア・ソラヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Marcius Barea Soranus"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Barea Soranus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Barea Soranus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Bareia Sorano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Bareia Sorano"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Barea Soran"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Barea Soranus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Quintus Marcius Barea Soranus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Марцій Барея Соран"
+    }
+  },
+  "lastrevid": 17579192,
+  "modified": "2025-09-17T16:59:10Z",
+  "ns": 860,
+  "pageid": 179829,
+  "sitelinks": {},
+  "title": "Item:Q151375",
+  "type": "item"
+}

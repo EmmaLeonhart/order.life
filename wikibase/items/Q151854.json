@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Laberius Maximus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151854$97B1710B-BCB3-429F-ABA0-AD7ECB45222E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148324",
+              "numeric-id": 148324
+            }
+          },
+          "hash": "ffbc32752bda7d04af02a4a5603a69c473f05681",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151854$260C372D-7908-498C-8E16-D426E7A82E46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151854$6ADF7B5F-7272-4D4E-8D5C-FC94384B5A75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151854$465F632E-F6FA-47F3-964B-5B0A1157E027",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius_Laberius_Maximus_(1)"
+          },
+          "hash": "96fe6a54da62948b66f9a7fa96977067832abe67",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151854$AB37E697-9BB1-47CA-9D00-903B87830BAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151854$E16B134A-98D3-435D-9F8B-4D3E4B9ACF3E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "582856e366fcabcc5587bed2fb844a804e05280f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151854$67307A8A-D8EB-4CD9-B6CA-568FF755E470",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q958966"
+          },
+          "hash": "7255b32770ffbf3ddb62f1aec5194a139f1f86c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151854$89B3F22D-6015-42F6-AD7F-EAF05A8FBD74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Laberius Maximus Arms.svg"
+          },
+          "hash": "50ead82e7a4cb20b8b68fbb093db1088192ba1fc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "Präfekt der Provinz Ägypten, Prätorianerpräfekt"
+    },
+    "en": {
+      "language": "en",
+      "value": "1st century Roman governor and praetorian prefect"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnalité de l'Empire romain"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q151854",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Лаберий Максим"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Laberius Maximus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Laberius Maximus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Laberio Máximo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Laberius Maximus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucio Laberio Máximo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Laberio Massimo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Laberius Maximus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Laberius Maximus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Liberiusz Maksymus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Лаберий Максим"
+    }
+  },
+  "lastrevid": 17580036,
+  "modified": "2025-09-17T17:10:22Z",
+  "ns": 860,
+  "pageid": 180308,
+  "sitelinks": {},
+  "title": "Item:Q151854",
+  "type": "item"
+}

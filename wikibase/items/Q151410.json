@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publius Petronius Turpilianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151410$6679A6DA-9EF8-4125-8A06-7E803EBF02C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "187147"
+          },
+          "hash": "142e4cd4fa218364a6690214ec6c28e0cb5b2768",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151410$60B5C3B3-FDBE-4715-8977-899F9668967E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151410$1FD99D6F-446D-4CE4-8A97-E09D2CCC3A1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151410$600319C0-3C09-4A7D-8548-D1474F4C9290",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151408",
+              "numeric-id": 151408
+            }
+          },
+          "hash": "99dcfa9e9b6827877b6d4bb4584594164b4563fa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151410$5172FC58-A051-4D6E-B16A-999086E2BCB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148177",
+              "numeric-id": 148177
+            }
+          },
+          "hash": "928203e0ab0327f9026c022534c4d6f9a4a9a539",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151410$04F69ABA-3E1C-4920-920E-DA65A6F128EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151410$6D1BDCA1-CA70-4A05-AC89-05056CCD70AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0025-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fcf638647f5aa2d40490b8651c3f78cfa9e996de",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151410$F4FA7167-4246-4C37-B56C-C6120D3AC5A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0068-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c21bf9387acbf33eef2a4644c0b5a681f32c904b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151410$1A820732-5158-45B7-A640-B1063AE575D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q703688"
+          },
+          "hash": "ec9b16cef350005b5255653e27e91f3693ec42b6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151410$C0D9D883-9ADA-4B92-9CBD-AAFF0972B5F5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Petronius Turpilianus"
+          },
+          "hash": "424bacceec07abbc54873efba97b139e6b2d7da1",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151410$991F8861-B084-4897-B875-83A262C92BF7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publius Petronius Turpilianus Arms.svg"
+          },
+          "hash": "e6ab64c7816981a96662c3745e8a67268ab1583e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Konsul 61 n. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "politician (25-68)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cónsul del Imperio romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 61"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי רומאי במאה ה-1 לספירה"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (25-68)"
+    }
+  },
+  "id": "Q151410",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Публий Петроний Турпилиан"
+    },
+    "br": {
+      "language": "br",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Petroni Turpilià"
+    },
+    "da": {
+      "language": "da",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πόπλιος Πετρόνιος Τουρπιλιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publio Petronio Turpiliano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "he": {
+      "language": "he",
+      "value": "פובליוס פטרוניוס טורפיליאנוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Publio Petronio Turpiliano"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publio Petronio Turpiliano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プブリウス・ペトロニウス・トゥルピリアヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Públio Petrônio Turpiliano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Públio Petrônio Turpiliano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Публий Петроний Турпилиан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Publije Petronije Turpilijan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Publius Petronius Turpilianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Публій Петроній Турпіліан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普布利乌斯·佩特罗尼乌斯·图尔普林尼乌斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "普布利乌斯·佩特罗尼乌斯·图尔普林尼乌斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普布利乌斯·佩特罗尼乌斯·图尔普林尼乌斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普布利烏斯·佩特羅尼烏斯·圖爾普林尼烏斯"
+    }
+  },
+  "lastrevid": 17579254,
+  "modified": "2025-09-17T16:59:59Z",
+  "ns": 860,
+  "pageid": 179864,
+  "sitelinks": {},
+  "title": "Item:Q151410",
+  "type": "item"
+}

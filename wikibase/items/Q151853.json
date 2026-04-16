@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Nonius Arrius Mucianus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q151853$82988C8F-5A36-4A37-B22B-5AC0017E393F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151853$F1B4E7B3-722B-4932-8D7D-1BBEAEF0FAD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151853$311FA9E6-6D53-46E7-89AF-19E169B9F69F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151884",
+              "numeric-id": 151884
+            }
+          },
+          "hash": "f900752adbb065282e92a36e05c6485b085fedf4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151853$07477889-FCF1-49D1-92F9-E61534DE4B35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151836",
+              "numeric-id": 151836
+            }
+          },
+          "hash": "7da60a0a8c63086b9c5f1d3695d80113841d5011",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151853$8BFBF246-22E7-40EA-B53B-1EF07782D605",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151853$39F22C82-2BE4-440D-A4FB-78CF1822EEA3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d3785ef5c1381bf72f9c939946563860530e551",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151853$49382C1A-3643-4248-B9CC-8E345EE8CC6E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0201-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "01bac64af2f934d6f8d48341f6b6d60e640a92ca",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151853$D3CBDAC1-239F-4479-A7CA-925B7043EE1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q681053"
+          },
+          "hash": "ab5fa5d2d4d00c43291f71e5899cc13a140a9c55",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151853$76F6541A-AC8D-4397-BC45-4213898293D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Nonius Arrius Mucianus Arms.svg"
+          },
+          "hash": "e4246b308d2c9627e01ddb6665594a6cbe3b4b1e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 201"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 201 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 201"
+    },
+    "it": {
+      "language": "it",
+      "value": "senatore romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q151853",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Ноний Арий Муциан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Noni Arri Mucià"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Nonius Arrius Mucianus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Nonius Arrius Mucianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Nonio Arrio Muciano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Nonius Arrius Mucianus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marc Noni Arri Mucià"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Nonio Arrio Muciano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Nonius Arrius Mucianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "M. Nonius Arrius Mucianus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Ноний Аррий Муциан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Marko Nonije Arije Mucijan"
+    }
+  },
+  "lastrevid": 17580034,
+  "modified": "2025-09-17T17:10:21Z",
+  "ns": 860,
+  "pageid": 180307,
+  "sitelinks": {},
+  "title": "Item:Q151853",
+  "type": "item"
+}

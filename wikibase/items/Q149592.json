@@ -1,0 +1,478 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Talbot, 1st Earl of Shrewsbury"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149592$B5EEF5F7-1FBD-42D3-A395-356D3B74ACA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00101406"
+          },
+          "hash": "b4b7baa7d8ae5975b61c953b6c0750e491e9f3e8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149592$58B47656-CC58-4D4B-ACEA-4DBD6DFEC4A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Talbot-36"
+          },
+          "hash": "328dcd8660cf687fbe48847821c750a42ab66022",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149592$2D3E8BAB-9949-402E-9B14-DC8D46DD6F7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149592$708AD17D-AD22-447A-A4C0-20ADBF0D49C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149592$784733F1-7C20-4641-B3E7-D0E29C7B9082",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "John_Talbot_(41)"
+          },
+          "hash": "98364bd5ca5631112e7d9503b967c1d381b70d3c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149592$EDBA6BBB-B9D9-4B76-AD11-97CD29554D60",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10761.htm#i107601"
+          },
+          "hash": "6d55b9c418a27191f9bf7178baefc43dc692674f",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149592$E3BC9BEF-47EB-41F9-8D2F-DDEAFF1397C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145258",
+              "numeric-id": 145258
+            }
+          },
+          "hash": "fa4780fd0425d6a08f44a65a27ba31eb1735ad62",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149592$92B79532-1600-4B75-9B7F-32A02B8A1EE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145971",
+              "numeric-id": 145971
+            }
+          },
+          "hash": "5232dcf68b3c1ae4963c3fc483c6311aa9a24c08",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149592$202B6F24-33CB-4476-A9E5-FDDA93B19961",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149592$01BECBF3-EB09-4F3E-A864-9BC5DD0E5092",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1384-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "adc8e5bdffb6010ae36442f68d9b83962c17ca36",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149592$C6F715EA-16A2-4A16-BFFC-5601B5434D9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1453-07-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8fbd3a7c8044087944481b4ff6b7638d0d5516c7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149592$33AA5218-3FFA-4E93-9733-E1C580AA95D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q561173"
+          },
+          "hash": "8417c295bb45445dea0333ca985adcea42c25803",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q149592$9DB7C745-C753-4F0C-9FD7-8DBE23C73D7D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002113066241"
+          },
+          "hash": "e757078d792d2f6b502eb22e567f188757d18397",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149592$ECC06C22-D640-4593-B9C4-2608DAA8EA98",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Talbot, 1st Earl of Shrewsbury Arms.svg"
+          },
+          "hash": "3ffa6f98eb771e1a40edabe4105afb18c062fc80",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "comte anglès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "anglický vojevůdce za stoleté války"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "person milwrol, milwr (1384-1453)"
+    },
+    "de": {
+      "language": "de",
+      "value": "englischer Feldherr des Hundertjährigen Krieges"
+    },
+    "en": {
+      "language": "en",
+      "value": "English Earl"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نظامی بریتانیایی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "un chef militaire anglais pendant la guerre de Cent Ans"
+    },
+    "he": {
+      "language": "he",
+      "value": "אציל אנגלי"
+    },
+    "it": {
+      "language": "it",
+      "value": "primo conte di Shrewsbury e generale inglese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Brits militair (1384-1453)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "conte englez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "английский аристократ и военачальник"
+    }
+  },
+  "id": "Q149592",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جون تالبوت ايرل شروزبرى الاول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Джон Талбот"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "John Talbot"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "John Talbot"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "John Talbot"
+    },
+    "da": {
+      "language": "da",
+      "value": "John Talbot, 1. jarl af Shrewsbury"
+    },
+    "de": {
+      "language": "de",
+      "value": "John Talbot, 1. Earl of Shrewsbury"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Talbot, 1st Earl of Shrewsbury"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "John Talbot"
+    },
+    "es": {
+      "language": "es",
+      "value": "John Talbot, I conde de Shrewsbury"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "John Talbot"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John Talbot"
+    },
+    "he": {
+      "language": "he",
+      "value": "ג'ון טלבוט, הרוזן הראשון משרוסברי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "John Talbot, Shrewsbury 1. grófja"
+    },
+    "it": {
+      "language": "it",
+      "value": "John Talbot, I conte di Shrewsbury"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジョン・タルボット"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "John Talbot, 1. jarl av Shrewsbury"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Talbot"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "John Talbot, 1. jarl av Shrewsbury"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "John Talbot"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "John Talbot"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "John Talbot"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "John Talbot"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "John Talbot"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джон Толбот, 1-й граф Шрусбери"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "John Talbot"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John Talbot, 1st Earl of Shrewsbury"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Џон Талбот"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "John Talbot"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Джон Тальбот"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "第一代什鲁斯伯里伯爵约翰·塔尔博特"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "约翰·塔尔博特，第一代什鲁斯伯里伯爵"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "約翰·塔爾博特，第一代什魯斯伯里伯爵"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "約翰·塔爾博特，第一代什魯斯伯里伯爵"
+    }
+  },
+  "lastrevid": 17575676,
+  "modified": "2025-09-17T16:11:02Z",
+  "ns": 860,
+  "pageid": 178045,
+  "sitelinks": {},
+  "title": "Item:Q149592",
+  "type": "item"
+}

@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aulus Junius Rufinus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151784$F3F7B998-C41B-46EA-912A-259107499341",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151735",
+              "numeric-id": 151735
+            }
+          },
+          "hash": "6a2f04a118771712c5df009b12c4129e7c56b5d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151784$F1641068-A660-42E0-9725-E0D5857D9528",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151784$261C8F5E-6757-4D1C-B4E0-0154D5C1082A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151784$6EE04512-5A69-4820-ACF7-6BCAA1B0B49B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151784$8F929E8F-7D0D-4307-96F0-4F22BCA3C4F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd011cc38c8008d9233e3a5ad5f7ccc4caf61ff",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151784$4A24323E-3E3C-49DE-816B-DBF7EEBE4A2C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93a0db64f3c0cfcbc27e9251a644e2e06a0bc2f7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151784$9887BE0A-6C2F-4295-8A23-53BCF01BA644",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12271124"
+          },
+          "hash": "283a120af82c209524595e8e8d19fd7302a1b5c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151784$4B3ABC2B-517F-4B7E-AE29-8943657B4FFB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aulus Junius Rufinus Arms.svg"
+          },
+          "hash": "8407491e8cafb65b15a904c32e98bd4fe3535bb5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul (153)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman military diplomat"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 153"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Romeinse Keizerrijk (0115-0170)"
+    }
+  },
+  "id": "Q151784",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Авъл Юний Руфин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aulus Juni Rufí"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aulus Iunius Rufinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aulus Junius Rufinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aulo Junio Rufino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aulus Junius Rufinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Aulo Junio Rufino"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aulo Giunio Rufino"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aulus Iunius Rufinus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Авл Юний Руфин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aulus Iunius Rufinus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aulus Junius Rufinus"
+    }
+  },
+  "lastrevid": 17579910,
+  "modified": "2025-09-17T17:08:41Z",
+  "ns": 860,
+  "pageid": 180238,
+  "sitelinks": {},
+  "title": "Item:Q151784",
+  "type": "item"
+}

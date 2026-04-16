@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria Comnena"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147558$436A5C7D-B828-4C20-AB4F-11AD0BABEEAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147558$D63B86C7-1300-43A1-84E1-87B37EDFD9C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147558$A38D4F16-2037-4784-B423-638796A832CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143828",
+              "numeric-id": 143828
+            }
+          },
+          "hash": "d76cd1c8323e144df6ce5d1319d22d3197bd8e80",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147558$EBEA78BE-8FA5-485C-A4BB-191322CF2EE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147546",
+              "numeric-id": 147546
+            }
+          },
+          "hash": "59769bb9e695c171f9aeaebe017175627191a1e2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147558$A4835E8E-AA03-4D3E-8801-7113F2A3FCFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147558$CC0B9278-37C2-47DF-BF1C-9C5B27555A84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1080-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a954f8337ff1f1c2cc1debff495005b13d8e64a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147558$5DAE9DBB-66C0-4D9D-BD29-C811650CAFB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q123785882"
+          },
+          "hash": "fcfe4389f6bc46b0c5e37f75c354bb5bbd990e52",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147558$C2A94BAB-CC7C-4BEE-BA72-FF592916D240",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria Comnena Arms.svg"
+          },
+          "hash": "0a04e1f053e354d71eb8248d53141e6ff810b456",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийска принцеса от края на XI век"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "princesa romana d'Orient de finals del segle XI"
+    }
+  },
+  "id": "Q147558",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Мария Комнина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maria Comnena"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria Comnena"
+    }
+  },
+  "lastrevid": 17572226,
+  "modified": "2025-09-17T15:23:16Z",
+  "ns": 860,
+  "pageid": 175872,
+  "sitelinks": {},
+  "title": "Item:Q147558",
+  "type": "item"
+}

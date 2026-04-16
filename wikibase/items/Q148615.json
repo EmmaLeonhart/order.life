@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwenllian ferch Adda ap Meurig ap Cynwrig"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148615$D1DC6E8E-1660-42A4-B93D-474E550265C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00570123"
+          },
+          "hash": "2e5aa40d8273274cd9e5b6e022b20bf720479fe1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148615$C4C00516-32E3-43CE-8750-04DBEA9EABB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144758",
+              "numeric-id": 144758
+            }
+          },
+          "hash": "4d9b8713e4b6a20b14c7b43b6a61706bcd907bad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148615$9C13C4B3-98AD-4763-9265-6BAEDB4C6949",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144757",
+              "numeric-id": 144757
+            }
+          },
+          "hash": "42c882b373ff4939d1a4e0ec6fbf4a2fe36b9dda",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148615$019F1853-D9FD-46E0-8D28-F2D5C5D4B137",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144756",
+              "numeric-id": 144756
+            }
+          },
+          "hash": "183c201c83e687550d5f6c25db445336c08497ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148615$AE1FE976-FBF0-4C42-9AED-8084FD4EFA83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148615$D3E3196F-A617-41C2-A665-0398B89656F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148615$FEC77FF9-9A17-4596-AF01-AE615B306807",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142030",
+              "numeric-id": 142030
+            }
+          },
+          "hash": "f182d40e80f6f419a04814586ca86bd925b429f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148615$BE488CCC-A2E4-4F5A-BA02-67BAAA684B3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144625",
+              "numeric-id": 144625
+            }
+          },
+          "hash": "8b70a823513fe25dfee86cbd918aa115d9cc6bf6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148615$7806F235-F164-40F0-BFF1-3DD567DAD6F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148615$EECF3E16-1847-401E-900B-0BB19AA3E7EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110290669"
+          },
+          "hash": "ebd24ddfa9b20e78fa7c6e5e8b2058ded43286a2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148615$43C9C317-3703-44C0-BC9A-70CFCE71BF86",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenllian ferch Adda ap Meurig ap Cynwrig"
+          },
+          "hash": "c247d5cb9b482362c684d97829bee685d99e8acb",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148615$446BD353-B4A8-407C-9772-F08CCF325FBF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwenllian ferch Adda ap Meurig ap Cynwrig Arms.svg"
+          },
+          "hash": "4f9eea068cf207657b61c1d6f73a1c539dc50f99",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q148615",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gwenllian ferch Adda ap Meurig ap Cynwrig"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gwenllian ferch Adda ap Meurig ap Cynwrig"
+    }
+  },
+  "lastrevid": 17573736,
+  "modified": "2025-09-17T15:44:06Z",
+  "ns": 860,
+  "pageid": 177068,
+  "sitelinks": {},
+  "title": "Item:Q148615",
+  "type": "item"
+}

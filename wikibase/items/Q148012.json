@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gisela of Falkenstein"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148012$A615CCE9-590F-4BCB-9907-5B904699EC8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00026152"
+          },
+          "hash": "2cbd34a6b17f6a676cafdd3812e20e4b3ba67472",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148012$703BB40F-5DBD-457B-9B66-D6E24AFCF539",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148012$C71EB24F-0E46-4A5E-B18B-8605913DD682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148012$8362F9B5-A1F1-433B-935D-A87FF93CB772",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148008",
+              "numeric-id": 148008
+            }
+          },
+          "hash": "c149f8ac1f5508bfbdd9849425df26823534fc48",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148012$0851DDBD-4476-40E7-B5F1-87F8DF51997F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148012$348F59C2-DA02-4BDB-B885-4FED46787D35",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148012$DE7A4A6F-B9D9-479D-B23F-50A6325E73BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q55532237"
+          },
+          "hash": "c0a0691a6faaa84f76b3c8015700bf2d79df3e06",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148012$CAD9DBC1-02B3-4BED-85B8-E970BCB1862D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gisela of Falkenstein Arms.svg"
+          },
+          "hash": "f35ad2cec9c076018f919856f25228d0d086c501",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q148012",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гизела фон Фалкенщайн"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gisela z Falkensteinu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gisela von Falkenstein"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gisela of Falkenstein"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gisela van Falkenstein"
+    }
+  },
+  "lastrevid": 17572674,
+  "modified": "2025-09-17T15:29:19Z",
+  "ns": 860,
+  "pageid": 176101,
+  "sitelinks": {},
+  "title": "Item:Q148012",
+  "type": "item"
+}

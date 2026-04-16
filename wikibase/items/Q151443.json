@@ -1,0 +1,433 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Petillius Cerialis"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151443$8009FF12-12F1-4994-A937-BB07102C0936",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151446",
+              "numeric-id": 151446
+            }
+          },
+          "hash": "30e9b06b61aee252db2b68a773237c3625e8c37a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151443$A8FACD57-DFA9-4777-82D8-7844532118F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151444",
+              "numeric-id": 151444
+            }
+          },
+          "hash": "6673fbd14cb9c372d9fdc19b1bc9ce9b5210a489",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151443$64723FBA-A0E7-4731-9936-D0ED8DBA17D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151445",
+              "numeric-id": 151445
+            }
+          },
+          "hash": "7ad21485723083b078f1d497658d77fcddfb8027",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151443$1B2BDD4C-EEED-4610-B2BC-903B443A7CD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151443$D2AF5F2E-B10B-4EA8-9698-27199027012F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151443$7E571BD4-AC50-44DB-A486-F5C195838DDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus_Consul_(1)"
+          },
+          "hash": "6fcddc64ed40f34cbb7399d827db160989d9ab3f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151443$04E7B74D-340B-4B90-96BE-071CC1E79D16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151343",
+              "numeric-id": 151343
+            }
+          },
+          "hash": "72b94641c9e1c92a536d9fe94c1f16a3d838a84e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151443$FD54120F-13D4-4588-A3B3-39F430193C6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151443$ED3E4400-F603-4C4A-A834-55269A2D2C6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0030-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2ffc1a006715820b5825a777ed50b8078cb75d2d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151443$0F75DEFC-E252-42B0-A64D-90B496F96C75",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0083-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f7e7839ea4b69f6ac699bb5156e08d240bfe16f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151443$C77BAB02-4F1E-4873-A0DF-FB2307E79CE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q348926"
+          },
+          "hash": "6acaedfa843d152290bdf50af4e3ba0f08602894",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q151443$7112B0BF-0A1C-4DDD-ADD0-B8B1E9FDC0FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041325461966"
+          },
+          "hash": "7dc984a4cd40c04b9efc155285c783a0ded26f2f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151443$36F74CF0-6917-4ECD-B652-4C25B2BB10BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Petillius Cerialis Arms.svg"
+          },
+          "hash": "1a5d17c22fe85afded551605bfc29b7af6bab2cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "general romà parent proper de l'emperador Vespasià"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Senator und Feldherr"
+    },
+    "en": {
+      "language": "en",
+      "value": "son-in-law of emperor Vespasian"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سرباز در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 71 et en 74"
+    },
+    "he": {
+      "language": "he",
+      "value": "חתנו של הקיסר הרומאי אספסיאנוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soldaat uit Oude Rome (29-83)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski dowódca i namiestnik"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Governador Romano"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk general och guvernör"
+    }
+  },
+  "id": "Q151443",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Петилий Цериал"
+    },
+    "br": {
+      "language": "br",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Petili Cerealis"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "da": {
+      "language": "da",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Πετίλιος Κεριάλις"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Petilio Cerial"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "he": {
+      "language": "he",
+      "value": "קוינטוס פטיליוס קריאליס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quinto Petilio Cerial"
+    },
+    "id": {
+      "language": "id",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Petilio Ceriale"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・ペティリウス・ケリアリス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Petillius Cerialis Caesius Rufus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kwintus Petyliusz Cerialis"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Petílio Cerial"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Petílio Cerial"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Петиллий Цериал"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Quintus Petillius Cerialis"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Petilije Cerijalis"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Quintus Petillius Cerealis"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Петіллій Церіал"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昆圖斯·佩蒂努斯·塞里亞努斯"
+    }
+  },
+  "lastrevid": 17579312,
+  "modified": "2025-09-17T17:00:45Z",
+  "ns": 860,
+  "pageid": 179897,
+  "sitelinks": {},
+  "title": "Item:Q151443",
+  "type": "item"
+}

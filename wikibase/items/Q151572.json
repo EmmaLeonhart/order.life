@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Calpurnius Piso"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q151572$12E8EFF0-5A1D-4C81-8F4A-D234D3B933F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151572$8A63577F-A650-481C-9437-1AF320399B33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151572$64BD8D8A-01E3-46C7-903C-F9317A94A939",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148213",
+              "numeric-id": 148213
+            }
+          },
+          "hash": "c96b13da85b8b0dcc2ed301f2f9e1d5641c50ddd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151572$0BDAE909-2B04-45E8-885A-5EC2F11B9BA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151572$038C23EF-26C1-46B6-B434-5219A966F21C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151572$EFCA9A7C-4BAD-443F-8AB4-88E7554C8CA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q102421377"
+          },
+          "hash": "f5c30a28a3d3269e5660d1953b3db93b302c9bc6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151572$24513555-F02A-4884-9B1E-986F007858EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Calpurnius Piso Arms.svg"
+          },
+          "hash": "0d27b34862d48ed74eecc59c3d0378e36eed00b2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman navy prefect 99 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "prefecto de la flota antes del año 99 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "préfet de la flotte romain avant 99 av. J.-C."
+    }
+  },
+  "id": "Q151572",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Quintus Calpurnius Piso"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Calpurnius Piso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Calpurnio Pisón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Calpurnius Piso"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Calpurnio Pisone"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Calpurnius Piso"
+    }
+  },
+  "lastrevid": 17579544,
+  "modified": "2025-09-17T17:03:51Z",
+  "ns": 860,
+  "pageid": 180026,
+  "sitelinks": {},
+  "title": "Item:Q151572",
+  "type": "item"
+}

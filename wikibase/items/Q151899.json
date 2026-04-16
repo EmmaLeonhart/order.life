@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Seius Sallustius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151899$2CBE85C1-F6B9-4C94-924F-CFD09F81953D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446891"
+          },
+          "hash": "08b44e764c0d8b2602c12a04d1367deac6366074",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151899$1EDF3C15-443E-49B5-ACCC-C7B12AF3A697",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151867",
+              "numeric-id": 151867
+            }
+          },
+          "hash": "36b0a075246a6288f74a9cdd85353a6af88c1712",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151899$186C8A8E-1445-4A27-8A71-19002FAEE261",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151899$A6B1AA7B-49D4-4972-92AF-9EB69756442A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151899$C0EF5C22-A113-4E11-B6D3-081C7657E92E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Seius_Sallustius_(1)"
+          },
+          "hash": "0164c0a5bf66f28fcf51ba5dff7891bc8131f571",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151899$1000E5F4-6EBB-4DC2-9599-5D9203086B4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151916",
+              "numeric-id": 151916
+            }
+          },
+          "hash": "d1573b8d0d69df7c71c05d53d13eaed02e09aa4d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151899$8D77342D-1755-488E-BA8A-BB6D71EB43B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151899$B8022603-5FFB-40CF-B9B3-C723BC2A7B41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d3ce2da9c118d7cfe5140d7f7ab93cfa94c03d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151899$CBCD9A0D-EC0D-4788-8FFA-901F15FA5552",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0227-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9a1c9afafee1198ac52a5f55866f3836051cd63",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151899$FA3A9A74-8487-47AC-A79E-629CE96EE79D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q963677"
+          },
+          "hash": "abe03d3bd8d028b989fcbf397a32abd048a6a77c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151899$97656587-394D-4C1C-AA1B-F9931E8CB272",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seius Sallustius Arms.svg"
+          },
+          "hash": "30a83ae95adfc15fc106b8e30ae26b1736c075c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Schwiegervater des römischen Kaisers Severus Alexander"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman imperial usurper (died 227)"
+    },
+    "es": {
+      "language": "es",
+      "value": "usurpador romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "usurpateur romain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-227)"
+    }
+  },
+  "id": "Q151899",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Сей Салусций Макрин"
+    },
+    "de": {
+      "language": "de",
+      "value": "Seius Sallustius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σήιος Σαλούστιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seius Sallustius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Seius Sallustius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Seius Sallustius"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sej Salustije"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Seio Sallustio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・セイウス・ヘレンニウス・サッルスティウス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Seius Sallustius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Seius Sallustius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sallustius"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Seio Salústio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Seio Salústio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сей Саллюстий"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sej Salustije"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сей Саллюстій"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞乌斯·萨卢斯提乌斯"
+    }
+  },
+  "lastrevid": 17580110,
+  "modified": "2025-09-17T17:11:20Z",
+  "ns": 860,
+  "pageid": 180353,
+  "sitelinks": {},
+  "title": "Item:Q151899",
+  "type": "item"
+}

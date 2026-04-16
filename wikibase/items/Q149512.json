@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William le Blount, 1st Lord Blount"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149512$3C200DE9-F386-463B-B032-9CB1E8322871",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Blount-123"
+          },
+          "hash": "fb18149e539a7685ab05e19506ec637931c579d0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149512$01AEC267-3C70-47A1-B57F-CC0192822B44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149512$378E0BA9-D3A8-4E63-A28B-27F68FDBCD58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149512$3D850567-4A4E-4A7C-8668-1A4D7737EA21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149312",
+              "numeric-id": 149312
+            }
+          },
+          "hash": "c31e76651b0e7c8566bcda7c3e05f998d23c1620",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149512$D5F32740-4266-4032-BB33-B2F0501F9E84",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p13741.htm#i137408"
+          },
+          "hash": "6011ff36416626e0e6bc06c25481d58610aa147c",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149512$2517591B-ABB7-4203-A2FB-1899427AD638",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145221",
+              "numeric-id": 145221
+            }
+          },
+          "hash": "31a6105d13107e0b3eac1da2c0c14d343fae1cd4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149512$37DBA157-43D3-4B83-847D-9EB9678A5227",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149510",
+              "numeric-id": 149510
+            }
+          },
+          "hash": "c23565509fbf260d5b5b1c34ff8c9d8746ba1b86",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149512$45005D9E-8AFD-434F-BD0D-951A35F6018A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149512$330F0CDA-1365-425A-9F39-15ABDD76FF49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1295-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8d5d8adc44fe2bfb656d9d8909339ffe81d5dbb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149512$260CA89B-30F2-4FD4-A84D-C922EBC03D4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75431368"
+          },
+          "hash": "50881c747c0ef4c39550a2d27a3c1c5eb12fb55b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149512$3AE3F37A-C6B8-496F-A0BC-C96D7654C053",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William le Blount, 1st Lord Blount Arms.svg"
+          },
+          "hash": "95aabbfd37b5f17964e9dd40e6b3b7e209516ef8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=137408"
+    }
+  },
+  "id": "Q149512",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "William le Blount, 1st Lord Blount"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William le Blount, 1st Lord Blount"
+    }
+  },
+  "lastrevid": 17575516,
+  "modified": "2025-09-17T16:08:56Z",
+  "ns": 860,
+  "pageid": 177965,
+  "sitelinks": {},
+  "title": "Item:Q149512",
+  "type": "item"
+}

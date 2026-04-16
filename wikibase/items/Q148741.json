@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tangwystl ferch Gruffudd ap Gwên ap Gronwy"
+      },
+      {
+        "language": "en",
+        "value": "Tangwystl ferch Gruffudd ap Gwen ap Gronwy"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148741$E5A7D709-085F-4293-9FFE-274F94961A65",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00709757"
+          },
+          "hash": "2e06e35072a362a4bdd73554a23f17c0eeee9ab9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148741$5BB2905D-3A37-4A60-ABC3-ED9BE4A16A2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146264",
+              "numeric-id": 146264
+            }
+          },
+          "hash": "692c5ae87e1a0536349ccd82c5be4ab5584d368c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148741$8B36353A-3431-4E17-ACF0-4A2FCCE05FFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148741$45D608A2-F646-440A-97B2-7B205EC613C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148741$B5C51171-9DD6-4234-AD31-C6DC2556BF5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150956",
+              "numeric-id": 150956
+            }
+          },
+          "hash": "0575022e56a2e7429cc521c7fd432841835bcca1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148741$E0AA7898-E7A5-44E8-9AE9-BD67E6C1B3F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144727",
+              "numeric-id": 144727
+            }
+          },
+          "hash": "0c2e214d9eb263e0aa17650213da9537ae0109d1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148741$7FFABABA-C274-4ECA-94FD-7F5FD8B36D07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148741$BCB1C874-0C5F-4333-B82F-9193FD5EBCA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130358583"
+          },
+          "hash": "01306464ac512e03382314286646415a6db4a3f2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148741$D074090C-2243-478E-BF2A-A44495705D55",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tangwystl ferch Gruffudd ap Gwên ap Gronwy Arms.svg"
+          },
+          "hash": "23a394aab4b4af997e515577dcb849d03059feb1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q148741",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tangwystl ferch Gruffudd ap Gwên ap Gronwy"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tangwystl ferch Gruffudd ap Gwên ap Gronwy"
+    }
+  },
+  "lastrevid": 17573988,
+  "modified": "2025-09-17T15:47:35Z",
+  "ns": 860,
+  "pageid": 177194,
+  "sitelinks": {},
+  "title": "Item:Q148741",
+  "type": "item"
+}

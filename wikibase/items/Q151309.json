@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Avidius Maecianus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q151309$60564366-B294-4F0B-9B1D-BC17B27D5278",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151309$F3C6143A-E3F9-4EC2-8A49-E119B31E044C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151309$BA877FCE-55EB-4F1D-A6ED-0A81E7F5017A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148243",
+              "numeric-id": 148243
+            }
+          },
+          "hash": "4d1b0057c04cd73ca98e70aa620dc0fa208634af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151309$565F5891-D97D-4034-B135-545865140D7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151308",
+              "numeric-id": 151308
+            }
+          },
+          "hash": "b9d90fd90356d86292f0347ac451a5941d32fd3f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151309$7FCBE1FE-3F9C-421B-B525-E4C7D67663C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151309$CE8BA2BC-9016-4FAF-B27E-D40DBF3FAD4F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0175-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1cb88d753b61da4868d75ffe290d4c4487960f94",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151309$F1BC08E3-94BE-4501-8B55-4AEB3624D51E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11936297"
+          },
+          "hash": "222f5463c16b6e2531586ba6c69d76d6620de502",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151309$11EF5661-CC05-41C3-A607-1E1F0CEAAF8D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Avidius Maecianus Arms.svg"
+          },
+          "hash": "4833af06000ac3429ac2b15175b5d35e77223aea",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Avidius Cassius"
+    }
+  },
+  "id": "Q151309",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Mecià"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mecià"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αβίδιος Μαικιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Avidius Maecianus"
+    }
+  },
+  "lastrevid": 17579072,
+  "modified": "2025-09-17T16:57:33Z",
+  "ns": 860,
+  "pageid": 179763,
+  "sitelinks": {},
+  "title": "Item:Q151309",
+  "type": "item"
+}

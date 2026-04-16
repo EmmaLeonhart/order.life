@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Plautilla"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q148179$B6657639-D0F7-4843-81D2-CAC6A0AA795C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148179$0926C27D-1035-4D7B-9F95-849DECF8567B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148179$FCC0737E-176A-43EF-9B75-4A0DE12B1195",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70913",
+              "numeric-id": 70913
+            }
+          },
+          "hash": "171ce30f45103337d3a3732378f814cf4f97b3fa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148179$3B3EEFD7-C514-4AEF-B183-EB7E7AD3E4D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144229",
+              "numeric-id": 144229
+            }
+          },
+          "hash": "e185bb922ae4b66ab663c07daddb81f170317c18",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148179$D6968FA6-7548-4F71-A8CF-42CC72B90264",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148179$8674FA8C-9594-460A-88EA-9A2895F11B4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0067-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "36d15e2d6d0b6dc9f08333db53ff3e78eaa92224",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148179$ED008B23-9F0E-498E-A733-E3E04224A73B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108794871"
+          },
+          "hash": "040036b9c33d61d62c1272a7bcbe13b4320400f0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148179$88625C19-C3A8-4D9A-9C84-FBB28FB9A661",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Plautilla Arms.svg"
+          },
+          "hash": "c9b80144cd085dcf98de60883383064f16c72ecd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "legendary Roman woman who gave a veil to Paul the Apostle upon his martyrdom"
+    }
+  },
+  "id": "Q148179",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Plautilla"
+    },
+    "it": {
+      "language": "it",
+      "value": "Plautilla"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Плавцилла Римская"
+    }
+  },
+  "lastrevid": 17572964,
+  "modified": "2025-09-17T15:33:19Z",
+  "ns": 860,
+  "pageid": 176463,
+  "sitelinks": {},
+  "title": "Item:Q148179",
+  "type": "item"
+}

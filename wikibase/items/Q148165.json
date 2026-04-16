@@ -1,0 +1,922 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Domitian"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148165$A1B0529F-ECF1-4FF3-BE14-246A2CA6246E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "414009"
+          },
+          "hash": "4c773417c57e2e2238bc8706d551f214988c57b3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q148165$0F982EDF-57E1-462D-AE1E-E8C8DD067FA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446817"
+          },
+          "hash": "c968188a0b02d8c4811c4e075d6871e428d8d65e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148165$BA7EB260-DD11-4DA2-8742-CFEA4FCDCA9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144426",
+              "numeric-id": 144426
+            }
+          },
+          "hash": "36c5bf3ee4b210c8d4365f7bef19bc84d5308e31",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148165$4D4FCA60-A748-4376-AE59-F7293CD6379A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144425",
+              "numeric-id": 144425
+            }
+          },
+          "hash": "3e11025fa9670630093e7c6fe2c5755e16ebabcd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148165$CFF11867-C9AA-462C-9051-9194257BCCE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Augustus-102"
+          },
+          "hash": "07a9d602238bb28df4e67ea0af48e2e99574357e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148165$926E83DA-BA9C-410A-BA44-720BEB22A41C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148165$725D0548-55E5-4359-8938-F7D9DEE701B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148165$5262F909-85F8-467D-9895-36C4E74CBD31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Domitian_(1)"
+          },
+          "hash": "7cea341d847f6593c0bf4a6e0915f20087886e71",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148165$DDA8339A-AB85-452D-AE30-D2DAFEEED6D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77113",
+              "numeric-id": 77113
+            }
+          },
+          "hash": "92989824970db68480a02c49c924cd67789869a0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148165$05A85B6A-31F4-413F-82E4-50827848031D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q77032",
+              "numeric-id": 77032
+            }
+          },
+          "hash": "5790c6ffae562ee553d1d47f880d61490937c76a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148165$16D6FF94-1C76-4C7A-A440-B87AC413CD54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151341",
+              "numeric-id": 151341
+            }
+          },
+          "hash": "a2f146fc8b1a61251fe3692adfd70119cb218eab",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q148165$C0341AD0-0349-44EF-99C4-43D5DA93DCCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "34795131"
+          },
+          "hash": "c349bde2b5431ce5a990056bcf26bb137201b756",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148165$28314ABB-FE02-4E99-8C1E-F5E06944A6CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148165$897B0B73-9530-4323-A75E-2A3CD9F725B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0051-10-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1cf42b54cdc93e3d7a26dfc63eb443e9eb31d5c0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148165$D35C4A52-E3B0-4CCD-8F9B-DF87C5C6620E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0096-09-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65b188ff78b6f15a3bdca1179f5b5175eb58b6a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148165$1412574B-F177-4A4E-9130-735C66D31A38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1423"
+          },
+          "hash": "c5c2c9cc81e0908b3cb8d5db26e74ff80e48c73b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q148165$3E0CCB1E-D06B-4C15-8801-3F7F18EEA148",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008059993700"
+          },
+          "hash": "7ac10c12aa329bb9e3ac357632a901e14628fc10",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q148165$6871BB89-0CF4-4394-B20B-4A26A90AA48F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:26432"
+          },
+          "hash": "dc17a48f567714eaa2710ca4ddfe22ec32f96eae",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148165$FBE005FF-3648-4D47-A4E9-BC16B8DC2A11",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Domitian Arms.svg"
+          },
+          "hash": "43faf962f5d5a9d3de85fcb020300012531436aa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q148165$EA856E75-0709-49A3-AEC6-EE8A25910026",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/5582BD73-A4EC-4B06-9B5D-62DE60A0C333"
+          },
+          "hash": "c68aa7e11de7d1a72a8ddf4022c67acc8864ef9c",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "рымскі імпэратар"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Kaiser"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ρωμαίος αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of ancient Rome (51-96)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Romia imperiestro (81-96)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano (81-96)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain de 81 à 96"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "impire na Sean-Róimhe (51-96)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano entre 81 e 96"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומא משנת 81 עד 96"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi yang memerintah dari tahun 81 hingga 96 M"
+    },
+    "it": {
+      "language": "it",
+      "value": "undicesimo imperatore romano (r. 81-96)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로마 제국의 열 한 번째 황제"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "senās Romas imperators no 81. līdz 96. gadam"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk keiser i perioden 81–96"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer van het Romeinse Rijk (51-96)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "imperador Romano (81-96)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "împărat al Romei Antice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "11-й римский император"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rímsky cisár"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "цар старог Рима (51-96)"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "цар старог Рима (51-96)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Romersk kejsare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma İmparatoru"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "قدیم روم کا شہنشاہ (51-96)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "君主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "罗马帝国弗拉维王朝的最后一位皇帝"
+    }
+  },
+  "id": "Q148165",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Domitianus"
+    },
+    "an": {
+      "language": "an",
+      "value": "Domicián"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "دوميتيان"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "دوميتيان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Domicianu"
+    },
+    "az": {
+      "language": "az",
+      "value": "Domisian"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی یتیان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Даміцыян"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Даміцыян"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Домициан"
+    },
+    "br": {
+      "language": "br",
+      "value": "Domitianus"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Domicijan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Domicià"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Domitianus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Domitian"
+    },
+    "da": {
+      "language": "da",
+      "value": "Domitian"
+    },
+    "de": {
+      "language": "de",
+      "value": "Domitian"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Domitian"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Domitianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δομιτιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Domitian"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Domitian"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Domitian"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Domiciano"
+    },
+    "es": {
+      "language": "es",
+      "value": "Domiciano"
+    },
+    "et": {
+      "language": "et",
+      "value": "Domitianus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Domiziano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دومیتیان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Domitianus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Domitien"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Domitianus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Domitianus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Domiciano"
+    },
+    "he": {
+      "language": "he",
+      "value": "דומיטיאנוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Domicijan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Domitianus római császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Դոմիցիանոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Domitianus"
+    },
+    "io": {
+      "language": "io",
+      "value": "Domitianus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Dómitíanus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Domiziano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ドミティアヌス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დომიციანე"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Domitianus"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "도미티아누스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Domitianus"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Domitian"
+    },
+    "la": {
+      "language": "la",
+      "value": "Domitianus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Domitian"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Tit Flavi Domizian"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Domicianas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Domiciāns"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Domitian"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Домицијан"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഡൊമിഷ്യൻ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "डोमिशियन"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "دومیتیان"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Domitianus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Domitian"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Domitian"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Titus Flavius Domitianus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Domitian av Romarriket"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Domician"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਡੋਮਿਟੀਅਨ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Domicjan"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Domissian"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "ډوميټین"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Domiciano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Domiciano"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Domițian"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Домициан"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Dumizzianu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Domitian"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Domicijan"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Domicián"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "قیصر ڈومیشیان"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Domicijan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Domitian"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Домицијан"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Домицијан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Domitianus"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Domitian"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "டமிஷன்"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิดอมิติอานุส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Domitian"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Domitian"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Доміціан"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "دومیتیان"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Domitsian"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Domitianus"
+    },
+    "war": {
+      "language": "war",
+      "value": "Domitian"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "多米田"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "დომიციანე"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Domitian"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "圖密善"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "图密善"
+    }
+  },
+  "lastrevid": 17572940,
+  "modified": "2025-09-17T15:32:58Z",
+  "ns": 860,
+  "pageid": 176419,
+  "sitelinks": {},
+  "title": "Item:Q148165",
+  "type": "item"
+}

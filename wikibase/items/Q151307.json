@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aretas III"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151307$53F74995-31DA-4BC0-8D93-067E70C8C73F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "169307"
+          },
+          "hash": "e06d4d331e8f8c0a55a71653dc078c25ebf3b9b6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151307$21DCF42D-A352-4C3C-B780-2A114169DBF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151305",
+              "numeric-id": 151305
+            }
+          },
+          "hash": "0fd7692cb9398295669151784931f7cd90481dfb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151307$30C0C929-4B4C-4BFF-AF81-22F8897935BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151307$25D88A12-8243-4DBB-9969-CC2708068EAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151307$F7307798-638A-41E3-B598-58F40B458698",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151313",
+              "numeric-id": 151313
+            }
+          },
+          "hash": "0c4ca8e06cb8caeb0f4c2a0540355e28c48b18bf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151307$1098BE95-C7E5-4017-875C-8FA39F3BD4BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151307$116058E7-FC1C-4744-9816-31B14D61598E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151307$F98D2925-00D1-4D27-8546-89468CFE3FB3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151307$9CEC67BF-F667-4C16-A55D-960080CE57F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q558770"
+          },
+          "hash": "607dac91b58696fc202d4635a787e5cf063ed769",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151307$18087B5D-9AA4-48DB-B473-A0787CB91BF8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aretas III Arms.svg"
+          },
+          "hash": "3592a4b7ed3436f01a0a30bbb69ab1cec747b0e1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König der Nabatäer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nabataean kingdom politician"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Konge av nabateerne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Nabatea"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Nabatejczyków"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Набатеї"
+    }
+  },
+  "id": "Q151307",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "حارثة الثالث"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "حارثه التالت"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aretes III Filohel·len"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aretas III."
+    },
+    "en": {
+      "language": "en",
+      "value": "Aretas III"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aretas III"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aretas III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arétas III"
+    },
+    "he": {
+      "language": "he",
+      "value": "חרתת השלישי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Aretas III"
+    },
+    "it": {
+      "language": "it",
+      "value": "Areta III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレタス3世"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aretas III"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aretas III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aretas III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aretas III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aretas III"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aretas III"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арета III"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Areta III"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Aret III."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арета III"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Haritat III"
+    },
+    "war": {
+      "language": "war",
+      "value": "Aretas III"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿雷塔斯三世"
+    }
+  },
+  "lastrevid": 17579068,
+  "modified": "2025-09-17T16:57:30Z",
+  "ns": 860,
+  "pageid": 179761,
+  "sitelinks": {},
+  "title": "Item:Q151307",
+  "type": "item"
+}

@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ursus of Benevento"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q147887$46CC6D85-9A08-4608-97E5-3FF7B788EB56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Benevento-30"
+          },
+          "hash": "36269122f6367e9f377afa19472f649346ccd71c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147887$3F8CC2FF-C796-4558-8F5C-14F307B489BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147887$EA74AD2A-817D-4943-AEAB-815B46C9B3DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147887$17F1F664-3FB1-4FBA-840D-0FBA4D1E3407",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143966",
+              "numeric-id": 143966
+            }
+          },
+          "hash": "fd0ad34bf0f4beea4b8e97c112624a04ecbb8bca",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147887$C6BCF0AE-3959-4DC2-9D88-912552EF899B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147887$43573A81-D63F-4E2C-AD01-E0181BC75F60",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147887$77566216-C9B9-4C22-B359-E8897124360C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0892-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3ddfd5113a1a770e282bd4694a77c9ebe377a4ed",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147887$20EA1BEF-15DA-4671-98AA-8C3F57DF49F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2601706"
+          },
+          "hash": "0ed57953b78de0ea980b9813288a14cfcc952604",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147887$FB54D6B5-5ADD-4338-AAF4-93F8DAA2E270",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=orso;n=di benevento;oc=1"
+          },
+          "hash": "b0660e0206aee9acf34225be8dd97a300d97a232",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147887$7C257FB0-1413-4BA3-AFA5-792CA092E68F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ursus of Benevento Arms.svg"
+          },
+          "hash": "c5ff1436d948079132fb061dad4ee7f3def45a5b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Prince of Benevento"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe longobardo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь Беневенто (891—892), сын Аиульфа II"
+    }
+  },
+  "id": "Q147887",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Ούρσους του Μπενεβέντο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ursus of Benevento"
+    },
+    "es": {
+      "language": "es",
+      "value": "Orso de Benevento"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ursus de Bénévent"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Orso de Benevento"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ursus dari Benevento"
+    },
+    "it": {
+      "language": "it",
+      "value": "Orso di Benevento"
+    },
+    "la": {
+      "language": "la",
+      "value": "Orso"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ursus of Benevento"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Orso de Benevento"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Орсо"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Орсо"
+    }
+  },
+  "lastrevid": 17572542,
+  "modified": "2025-09-17T15:27:30Z",
+  "ns": 860,
+  "pageid": 176034,
+  "sitelinks": {},
+  "title": "Item:Q147887",
+  "type": "item"
+}

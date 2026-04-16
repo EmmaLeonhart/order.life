@@ -1,0 +1,416 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Appius Claudius Sabinus Inregillensis"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151844$AA3F662B-4A71-45A9-8CAC-2537EC18D688",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "132729"
+          },
+          "hash": "e80fe4287280f8c47342262279188d36e78f5504",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151844$C6BA2279-58D4-404C-AAD2-5937CF09AFB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151822",
+              "numeric-id": 151822
+            }
+          },
+          "hash": "415023ad631ab6764543b8832304e12a656a3886",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151844$713EF67F-7EDC-4A84-8EF1-48BA361E792B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151845",
+              "numeric-id": 151845
+            }
+          },
+          "hash": "f4e2f7bda0410617ead1d6009ecd3478df3e8517",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151844$31604D57-21AD-4E37-82D7-5B75527C7A4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151846",
+              "numeric-id": 151846
+            }
+          },
+          "hash": "a8021dd8fa4c59186d57966af62d6e0c5f0bd2e6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151844$D38633F4-3629-4562-B8C1-301D940A750C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151844$3CB29447-8869-45EA-B5D8-B59D532A3C7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151844$25CEB33A-91F5-4BC6-AB5E-4BDEB5BB6349",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151874",
+              "numeric-id": 151874
+            }
+          },
+          "hash": "1c352d79981d2b6e4a1fbf0db05110044406651f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151844$DA026A05-094B-4648-81E5-95885C304842",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151844$EF868EE6-F2B1-43EF-8B1F-A6660379139F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0540-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "836009ac9342f26bb0a6f9662efc7546855bcab5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151844$E9DF68F4-4339-4059-B172-1A2184E8BC45",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0480-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e10f0f13dbe5b8d590a556a5b722576a4a48cfe2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151844$D87137A3-2177-4539-B83D-A6795DD37C06",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q774066"
+          },
+          "hash": "6effa83ae2a42b78055d5450e425c9dd18d19c31",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151844$6273A421-1C01-49E3-B5E2-BE75F85F9922",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Appius Claudius Sabinus Inregillensis Arms.svg"
+          },
+          "hash": "290c4e9610fbf65a6c96d4ee1d6cc87e706be5cf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 495 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "Römischer Konsul 495 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 495 BC"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Semi-legendary founder of the Roman gens Claudia during the early days of the Roman Republic."
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 495 (a. C.)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 495 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי ברפובליקה הרומית המוקדמת"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano console nel 495 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (540v Chr-480v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньоримський консул 495 року до н. е."
+    }
+  },
+  "id": "Q151844",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Апий Клавдий Сабин Инрегиленсис"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Api Claudi Sabí Regil·lensis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Appius Claudius Sabinus Inregillensis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άππιος Κλαύδιος Σαβίνος Ρεγιλένσις"
+    },
+    "en": {
+      "language": "en",
+      "value": "Appius Claudius Sabinus Inregillensis"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Appius Claudius Sabinus Inregillensis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Apio Claudio Sabino"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Apio Klaudio Sabino"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آپیوس کلاودیوس (کنسول ۴۹۵ قبل از میلاد)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Appius Claudius Sabinus"
+    },
+    "he": {
+      "language": "he",
+      "value": "אפיוס קלאודיוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Appius Claudius Sabinus Regillensis"
+    },
+    "it": {
+      "language": "it",
+      "value": "Appio Claudio Sabino Inregillense"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アッピウス・クラウディウス・サビヌス・インレギッレンシス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Appius Claudius Sabinus Inregillensis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Appius Claudius Sabinus Inregillensis"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ápio Cláudio Sabino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ápio Cláudio Sabino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аппий Клавдий Сабин Инрегиллен"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Appius Claudius Sabinus Inregillensis"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Appius Claudius Sabinus Inregillensis"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Appius Claudius Sabinus Inregillensis"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аппій Клавдій Сабін Інрегіллен"
+    }
+  },
+  "lastrevid": 17580016,
+  "modified": "2025-09-17T17:10:06Z",
+  "ns": 860,
+  "pageid": 180298,
+  "sitelinks": {},
+  "title": "Item:Q151844",
+  "type": "item"
+}

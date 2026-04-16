@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Richard Puleston"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149672$3E89C4F5-0EED-4F56-A988-B287768D592B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00755733"
+          },
+          "hash": "c37b2fdcc5a032c00f62477b048010ed15e18c53",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149672$E174744C-4364-45EC-B33D-D9B6CDC870DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145305",
+              "numeric-id": 145305
+            }
+          },
+          "hash": "182f344071b7a3318dd371c0daa6c62a4f0b57d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149672$FA7BBCC6-29CC-4D6F-8510-2FDDC919C4C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Puleston-8"
+          },
+          "hash": "88d29a935428819ca4ff316ff6fedc2084d22fb3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149672$B2A9DC41-9177-4DA3-AED9-C83185703433",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149672$86A498E4-8190-4633-8F33-594172CCAF87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149672$0A508E1A-BFE3-4403-A028-319B7A45C3BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149673",
+              "numeric-id": 149673
+            }
+          },
+          "hash": "1882218000d93dcd2c49a2235ff73de1942f70d0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149672$6A94D346-A534-4584-A76F-3356555E74FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149672$6175AA08-96FF-4074-B203-490A0073FA4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a30e929c8128e528cb4df0827a2224a6c9d8c3b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149672$37BBFE27-B33A-4B38-825E-97C2A1DEC447",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110635650"
+          },
+          "hash": "bf31a076b26e15c390d37fecb5dc9be48cdd1f41",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149672$E89577F7-DA5C-40E6-A90E-E6A193FA580A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Richard Puleston"
+          },
+          "hash": "9f6529f35a4e082a0d4299117765d2e3d10620c9",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149672$D910B55D-D581-450B-8C7A-31DAF7D3D9B0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Richard Puleston Arms.svg"
+          },
+          "hash": "b5029ae21395a00756c51bcc2ff6d56b741b2b2c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1260 -"
+    }
+  },
+  "id": "Q149672",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Richard Puleston"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sir Richard Puleston"
+    }
+  },
+  "lastrevid": 17575836,
+  "modified": "2025-09-17T16:13:11Z",
+  "ns": 860,
+  "pageid": 178125,
+  "sitelinks": {},
+  "title": "Item:Q149672",
+  "type": "item"
+}

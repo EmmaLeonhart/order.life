@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sune Ebbesen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151264$9B497540-0C73-44DC-BB7A-74F5BEA681D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1435895"
+          },
+          "hash": "d3d4c7594981cab444d1238beb5bfa179908ee75",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q151264$9B7E0956-C614-483D-B78A-82FB1CA5F455",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00500873"
+          },
+          "hash": "ff5957a8992df59718080592a66da2f98c4113e4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q151264$93C24376-B5CB-4D91-A95B-E9B8B44B675A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ebbesson-1"
+          },
+          "hash": "27c89ec563b9b713630881e2e381ae9d76e18ea1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151264$4A6657A9-D607-483D-A5B5-EB0E2B58E292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151264$6A9D05DD-6DBB-45C8-9A33-958376D30AFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151264$AFBFB72E-98BC-4EA8-B490-8E849E71550F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146541",
+              "numeric-id": 146541
+            }
+          },
+          "hash": "7049db9c7ab0ac76bc60e6ace7efa1bc3edd2ea4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151264$AAAD530A-FD07-41E2-B734-107D40EE9054",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151264$5EE89CA3-3675-4782-BEC3-7AA1CB0B5FA1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1125-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e9e5180b31af8b10a960a2fd5754f387c8e856ba",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151264$7845FA48-3C89-47AA-A4B0-FC453AABF5CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1186-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f9c459854425fdb59035fc99453063752594992c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151264$C5743D7E-CDA9-4566-95B2-DB7D7682D4EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12337724"
+          },
+          "hash": "eabc645ff95f5f23b184892a25ec0cf9424eab9e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q151264$7EAA7248-99B4-4E49-A4EA-9D09F8B8EF0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007086528162"
+          },
+          "hash": "569c1d7eef67d1ed544fd780723571c3a3fd18cd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151264$EADE9338-3151-44D2-AEB7-C82D5EA86547",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sune Ebbesen Arms.svg"
+          },
+          "hash": "43687c9b662fc7d612d44b9c1348e82f09b43d38",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "dansk godsejer (død 1186)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1125-1186)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "dansk godseier"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1125-1186)"
+    }
+  },
+  "id": "Q151264",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sune Ebbesen"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sune Ebbesen"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sune Ebbesen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sune Ebbesen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sune Ebbesen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sune Ebbesen"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Sune Ebbesen"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sune Ebbesen"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sune Ebbesen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sune Ebbesen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Суне Эббесен"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Sune Ebbesen"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sune Ebbesen"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sune Ebbesen"
+    }
+  },
+  "lastrevid": 17579010,
+  "modified": "2025-09-17T16:56:44Z",
+  "ns": 860,
+  "pageid": 179718,
+  "sitelinks": {},
+  "title": "Item:Q151264",
+  "type": "item"
+}

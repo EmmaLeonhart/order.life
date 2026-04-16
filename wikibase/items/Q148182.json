@@ -1,0 +1,310 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Aelius Tubero"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148182$ED0D022D-1B55-4C4D-9D44-9EB85759B554",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735642"
+          },
+          "hash": "4bd0d70ef994059acde3e5c28e0b25bb0cc4aabb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148182$191F887F-C64D-4792-B6FF-10CDB36DA929",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144237",
+              "numeric-id": 144237
+            }
+          },
+          "hash": "ab1abdf87387d24bd00484f17dba2d0b76644a4b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148182$FC6225E4-4ADF-4C1A-881C-71335E68F887",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148182$5C021DD4-FC03-4886-A52E-D394599E5DB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148182$61BBCEED-A886-4DA1-9A56-A144CAA7F63A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148183",
+              "numeric-id": 148183
+            }
+          },
+          "hash": "8333c952029e417dd767f7f1b156b425b256b1b1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148182$1B3287DD-AEE6-4B65-A835-0EE2D55503EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148182$D71D64F0-465A-441C-9E58-ECE3DECD3058",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148182$0D1B2FCD-6C4A-4AFB-B28F-8FF91CEE1726",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148182$7BA99D73-D05A-4441-BF7C-103A7B987C1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1159576"
+          },
+          "hash": "fd0e065eaa600ec07cf24516ea68b3d762c138e4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148182$00250593-617C-4C07-AC86-018D65AF0557",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Aelius Tubero Arms.svg"
+          },
+          "hash": "aca1f860664fc12a46bc554bea9856605cb366fe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "friend of Cicero"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "hmme politique, historien et philosophe romain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "filosoof uit Oude Rome (-)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski polityk i pisarz"
+    }
+  },
+  "id": "Q148182",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Елий Туберон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Eli Tuberó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Aelius Tubero"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Aelius Tubero"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Elio Tuberón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Aelius Tubero"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Aelius Tubero"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Elio Tuberone"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Aelius Tubero"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Aelius Tubero"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucjusz Eliusz Tuberon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Élio Tuberão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Élio Tuberão"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Элий Туберон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Aelius Tubero"
+    }
+  },
+  "lastrevid": 17572970,
+  "modified": "2025-09-17T15:33:24Z",
+  "ns": 860,
+  "pageid": 176472,
+  "sitelinks": {},
+  "title": "Item:Q148182",
+  "type": "item"
+}

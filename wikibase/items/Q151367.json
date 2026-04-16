@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Titus Sextius Africanus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151367$24FD52AD-2918-4CAF-BE42-5F574B55BEED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151509",
+              "numeric-id": 151509
+            }
+          },
+          "hash": "b341c232b3c8ab3b7ed14e226c677a2bde4786a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151367$105971FA-3085-46B0-8520-A84E9E770B8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151367$1BB8CDCC-90CC-464F-9055-7E4AE0328B8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151367$D66F8407-825E-4E36-AF75-389E963EFE22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151367$948DDD29-0F41-4366-A243-855F85EB6292",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0b73d802fb7f925bd3bd4fb20dfc4848cc36948d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151367$BEA6C512-84B9-46FD-A2B0-6EFECDFB4866",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151367$B366A127-39F2-4879-9742-62061E25657D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112791132"
+          },
+          "hash": "df9d5448fa6962b1b08a4839d437c5f940b413bd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151367$D270C52E-7ED2-4A38-A1C1-793B4BBD5689",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Titus Sextius Africanus"
+          },
+          "hash": "1ef11ec394cc7af272cb3f881886b140ce52760e",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151367$E6C54657-8A96-4042-A689-F62624E9D89C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Titus Sextius Africanus Arms.svg"
+          },
+          "hash": "5c5187867b409073947af30789f77eaf1d5101c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q151367",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Titus Sextius Africanus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Titus Sextius Africanus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Titus Sextius Africanus"
+    }
+  },
+  "lastrevid": 17579180,
+  "modified": "2025-09-17T16:59:00Z",
+  "ns": 860,
+  "pageid": 179821,
+  "sitelinks": {},
+  "title": "Item:Q151367",
+  "type": "item"
+}

@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir John Welsh, of Llan-wern"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150445$18F6A48D-969C-4968-A3AA-627F6AD7136A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00700195"
+          },
+          "hash": "15475999c7a5fbb47f81c14d7a89dbce349fa890",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150445$32828234-C864-47FF-BFAA-D53B106739F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145889",
+              "numeric-id": 145889
+            }
+          },
+          "hash": "19b9b350736254e400c7988790deb4b2427e7059",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150445$EEBD5122-2E08-4DB2-9631-B1C6B3F0EAA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Welsh-138"
+          },
+          "hash": "469ce70fe6d074571fa4a62b574be889329e60e6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150445$8191B855-D873-4DEB-8980-53E865078AE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150445$E3D17FBF-0121-497B-A242-0DEBEC3DD5D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150445$318977C3-21A8-4AA1-B002-73E986049188",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150446",
+              "numeric-id": 150446
+            }
+          },
+          "hash": "90dfb15f1b26c88ff379b1e2a089f667ca2edcc4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150445$DC7B3ADE-8962-44F7-AD21-7E8E65108D7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150445$B2E48172-1D47-40F3-9D39-4A1DEB562ED6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1355-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f84de8b876814173c76dca34ef78164401287846",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150445$8859B020-3392-4487-A310-A9506C190F1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99083987"
+          },
+          "hash": "afe7d11112e3415e61ed9064a679bb605657c62e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150445$D3CEFAB6-C1F2-4994-B706-11D83102BFF9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Welsh, of Llan-wern Arms.svg"
+          },
+          "hash": "c0940974280cb0eadafa0576abb785dee2c316fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(est. 1355 - )"
+    }
+  },
+  "id": "Q150445",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir John Welsh, of Llan-wern"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir John Welsh, of Llan-wern"
+    }
+  },
+  "lastrevid": 17577374,
+  "modified": "2025-09-17T16:33:48Z",
+  "ns": 860,
+  "pageid": 178898,
+  "sitelinks": {},
+  "title": "Item:Q150445",
+  "type": "item"
+}

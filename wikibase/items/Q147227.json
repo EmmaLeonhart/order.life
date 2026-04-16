@@ -1,0 +1,274 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oleg I of Ryazan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147227$8D5FB878-075F-45EE-94B7-564DF3BE82A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "181053"
+          },
+          "hash": "6878631be20d9cd15ce469390c59cdd24b72d341",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147227$BE6A4494-1F74-40DB-9007-20E52C55E370",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147227$C91B8211-9391-4808-A819-475D9839A834",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147227$323F0304-9A2F-4906-94DA-0DBDCFDC878B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143687",
+              "numeric-id": 143687
+            }
+          },
+          "hash": "ab30f43c5d1c0b69360e59ed105d97fa23f7a11c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147227$C4FB13E9-C0A8-4BA4-AC9C-2EA3C8A231E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147227$9B96E1F8-2721-471A-BDE5-0282DECE85D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1215-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "168d8585d7fdafc010f175fdcd468f1e045d74cd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147227$0694F726-388B-48E3-80DD-D44C1965941D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1258-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b4f5543bd6da7e9bb062d23e75b4089176c4120b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147227$935B197F-182D-4805-A31A-01F5AED1420A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4333469"
+          },
+          "hash": "c5b5354da64bd95093edf112a84aab8d1f5f40a1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147227$C1AC9600-2CA8-4D83-8D22-34447EE0A472",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=oleg;n=rurikides;oc=3"
+          },
+          "hash": "4295a05da82fd49edd68d9727bcf6d52f92d6318",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147227$390FBD93-F331-41BF-BE01-F77CDFDB336E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oleg I of Ryazan Arms.svg"
+          },
+          "hash": "4dc147dec0635eb6458d43ca3759c50f9b153e9c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "kníže rjazaňský"
+    },
+    "en": {
+      "language": "en",
+      "value": "nicknamed the Red, ruled the Principality of Ryazan in 1252–1258"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь рязанский, местночтимый святой"
+    }
+  },
+  "id": "Q147227",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Oleg I of Ryazan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Oleg I. Rjazaňský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oleg Ingwarewitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oleg I of Ryazan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oleg I of Ryazan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オレグ・イングヴァリヴィチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oleg I of Ryazan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Олег Ингваревич Красный"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Олег Інгварович"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奥列格·因戈瓦列维奇"
+    }
+  },
+  "lastrevid": 17571786,
+  "modified": "2025-09-17T15:17:10Z",
+  "ns": 860,
+  "pageid": 175612,
+  "sitelinks": {},
+  "title": "Item:Q147227",
+  "type": "item"
+}

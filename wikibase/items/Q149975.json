@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de la Mare"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149975$D7E8111F-9B1E-4A47-B1BD-920446A2266E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00573510"
+          },
+          "hash": "7cc7b739981cc9ab207e89cc1cc8b68d7ead6792",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149975$7C5AB2DE-4BA8-4AB3-8470-899E5EBDCF05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149976",
+              "numeric-id": 149976
+            }
+          },
+          "hash": "c7032b0362f94a799ee712dbf3f7ece21523c329",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149975$A56772DE-C60F-4FCF-B6E7-FE929E2AAFED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149975$87832A03-5AFA-4728-A552-6539CD7B355D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149975$11D9E82D-C1AD-4E5A-B975-D2979739D40B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145490",
+              "numeric-id": 145490
+            }
+          },
+          "hash": "1beebdb7798aeec9cd92e3a40923562eae478506",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149975$96407D76-D80A-415B-9361-3AAEDD763684",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p68878.htm#i688777|p42679.htm#i426782"
+          },
+          "hash": "c1b8782c884effd6d6667e0980672b60abaeeef0",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149975$F8C03229-5E72-48A2-BDA5-35A60DB42223",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149975$A530836D-1DD5-46F3-939D-2A09D01BAB6B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1314-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9a8a6a265c0b0506e4fb9d0916e3a2623330bb0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149975$E2377DD9-C17E-41E1-983C-7D1030E7EBE5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1382-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2d36dd0a10452607ae0ecba9b2c32bbea338f01b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149975$71E30750-7BB6-47DD-9B9B-21B6171DDD66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75953802"
+          },
+          "hash": "30f496023128c15b9df172e4423ff75508cde603",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149975$1456371B-C558-4AFB-AA5C-8CE388DCECCC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de la Mare Arms.svg"
+          },
+          "hash": "5d14f4abd17233d5d6460c610579bf9044630581",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=426782"
+    }
+  },
+  "id": "Q149975",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert de la Mare"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert de la Mare"
+    }
+  },
+  "lastrevid": 17576436,
+  "modified": "2025-09-17T16:21:10Z",
+  "ns": 860,
+  "pageid": 178428,
+  "sitelinks": {},
+  "title": "Item:Q149975",
+  "type": "item"
+}

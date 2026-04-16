@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Catrin ferch Owain Glyndŵr"
+      },
+      {
+        "language": "en",
+        "value": "Catrin ferch Owain Glyndwr"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149630$E68D7E61-FB19-4CFD-9688-4581ABEE6FBE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Glendower-2"
+          },
+          "hash": "72910e55af5730681ed397c1074a30301a73c9b7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149630$B65E4397-E722-4EF2-8BED-2795B04A64FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149630$8ACA0D47-1F1E-4ED3-8A16-06FD41A5E860",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149630$8CA442C8-3B5E-4364-8BE5-1A2BA638D1BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Catrin_ferch_Owain_Glyndŵr_(1)"
+          },
+          "hash": "a826c96cff506e7068f64c7ddd2c4e253234cb56",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149630$5FBA2EAF-26A4-45A5-9802-C18D94482184",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10727.htm#i107266"
+          },
+          "hash": "897f54cfd3e61dc38daacb7884c2b635926ff690",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149630$A7332F2B-2250-4701-8A88-FB7E9D356B50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145284",
+              "numeric-id": 145284
+            }
+          },
+          "hash": "1eebb9e75182da55c36c0a71e1d46b660124f99b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149630$8CF9AF72-6CF0-4DA4-AAEB-7DE9B029F6F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145332",
+              "numeric-id": 145332
+            }
+          },
+          "hash": "fb8c8092530cffc94811ac9db78e9bcff657bb9c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149630$74174E55-DD81-4C8D-A733-89AD057954A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149630$68F751E8-1951-4A50-9DA0-C852180C1B1D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149630$B1CD9ABA-F0C0-41BA-ACED-335F0BC4D8B5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1413-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dbd168e134611b1f5f7211264874587b4927a707",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149630$47026D26-5570-4892-8EEB-313169AAE81B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5053950"
+          },
+          "hash": "f2a7c17bd95b38891a0f0810c24de78dee30e692",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149630$C42EF9A1-6150-4D0D-9497-3D31D7DD950E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Catrin ferch Owain Glyndŵr Arms.svg"
+          },
+          "hash": "6db4b97c8e6a9bb31a386852d51f7e9802b9f61b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dcera Owaina Glyndŵra"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "merch Owain Glyn Dŵr"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Owain Glyndŵr"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Noble galloise"
+    }
+  },
+  "id": "Q149630",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Catrin ferch Owain Glyndŵr"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Catrin ferch Owain Glyndŵr"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Catrin ferch Owain Glyn Dŵr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Catrin ferch Owain Glyndŵr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Catrin ferch Owain Glyndŵr"
+    },
+    "es": {
+      "language": "es",
+      "value": "Catrin ferch Owain Glyndŵr"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Catrin ferch Owain Glyndŵr"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Catrin ferch Owain Glyndŵr"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カトリン・グリンドゥール"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Catrin ferch Owain Glyndŵr"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Catarina Glendower"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Catarina Glendower"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кэтрин верх Оуайн Глиндур"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Catrin ferch Owain Glyndŵr"
+    }
+  },
+  "lastrevid": 17575752,
+  "modified": "2025-09-17T16:12:03Z",
+  "ns": 860,
+  "pageid": 178083,
+  "sitelinks": {},
+  "title": "Item:Q149630",
+  "type": "item"
+}

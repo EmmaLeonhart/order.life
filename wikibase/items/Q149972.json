@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir John Rochford"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q149972$32EC8084-9D4A-42CF-9DDC-23B73D415130",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149972$F1C64AA3-2C4D-4CE2-9D2A-A27DB6E449E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149972$4666A078-380F-45DD-A239-F89A4E7DFA8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145488",
+              "numeric-id": 145488
+            }
+          },
+          "hash": "c35ae64069305483b8c60f65277693b712dc40ac",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149972$D7DB51D8-9D84-434E-89F0-23A10FE2741F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p42678.htm#i426779"
+          },
+          "hash": "a26ddcebc9e6ec6747afa302a28d5c8d301c431a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149972$848910B5-B75F-4C0A-86C4-BE6F2E19B431",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149972$00D7C12E-9306-49A0-97C5-7A6A56A68571",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1325-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c93b93696e0939b58879abfeb9df69c9c4fc0445",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149972$E599DD6B-9402-457E-B6A7-196720C0035B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1401-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2ba676f2321cb9f15114b18bc63a4c4a4a867062",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149972$C8EFE12E-1627-4E24-AA06-2154AAB09C53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75953797"
+          },
+          "hash": "f339683508e876db303c09059ddf00994850201d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149972$E834BDF2-2275-4377-82ED-B44E38B7AD96",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Rochford Arms.svg"
+          },
+          "hash": "284cfd76f79aaf4d56a18baab14fbd162e8a50a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1325-1401)"
+    }
+  },
+  "id": "Q149972",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir John Rochford"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir John Rochford"
+    }
+  },
+  "lastrevid": 17576430,
+  "modified": "2025-09-17T16:21:06Z",
+  "ns": 860,
+  "pageid": 178425,
+  "sitelinks": {},
+  "title": "Item:Q149972",
+  "type": "item"
+}

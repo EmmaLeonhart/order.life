@@ -1,0 +1,278 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "James II of Avesnes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147101$230724D3-BFB9-400D-B589-0BEE98C24298",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020646"
+          },
+          "hash": "143c40244da8c808edf83d57ca7f9bb16a56a2af",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147101$9B5EB547-42F3-4710-B6E9-FB33A0F79616",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Avesnes-27"
+          },
+          "hash": "e00f1ccdb5c0adf66a6734c6797e25df0e76b325",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147101$AC4CEA1A-31D2-41F1-99C9-0AE97BE105A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147101$6BDC7095-3713-44F5-91A2-FB439781A4E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147101$42D4C0C7-AA7C-42BA-ADF2-364FCF9F40B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128727",
+              "numeric-id": 128727
+            }
+          },
+          "hash": "280cffbacc4b09e19a288063200967f34d4638d3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147101$4F4A286B-86CB-43BD-A4E8-F1BD8549BA02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147101$D460E5AB-EFA0-4650-BA94-3275D1B470A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147101$5C22B2FB-B1A3-4317-B500-59B41C828460",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1205-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c2427f2fbf6a7c644760425fe18d807b2a7e298f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147101$1FE322A4-8758-4764-8AEB-AD975BCD4E89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1679119"
+          },
+          "hash": "fdb11eed39c40db41542238c1daad27096a8b561",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147101$E1109F20-F6B9-4716-B204-451ECAECFD0B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "James II of Avesnes Arms.svg"
+          },
+          "hash": "2254511ccbe7ed0238ca7aeded8d0ccec684f9ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ritter des vierten Kreuzzuges, Herr von Euböa (Negroponte)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φλαμανδός ευγενής"
+    },
+    "en": {
+      "language": "en",
+      "value": "1184"
+    }
+  },
+  "id": "Q147101",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Жак II д’Авен"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jakob II. von Avesnes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιάκωβος Β΄ του Αβέν"
+    },
+    "en": {
+      "language": "en",
+      "value": "James II of Avesnes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jacques II d'Avesnes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jacques II d'Avesnes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "James II of Avesnes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jaime II de Avesnes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jaime II de Avesnes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Жак II д’Авен"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Жак д'Авен II"
+    }
+  },
+  "lastrevid": 17571590,
+  "modified": "2025-09-17T15:14:25Z",
+  "ns": 860,
+  "pageid": 175486,
+  "sitelinks": {},
+  "title": "Item:Q147101",
+  "type": "item"
+}

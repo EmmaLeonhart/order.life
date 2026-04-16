@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Feodora Yuryevna"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147451$059D9F48-AA85-41EE-B603-91F03A9DB508",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "629424"
+          },
+          "hash": "ab6d96407bd7c4a102d7ca6fcff678b84cceeb34",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147451$D3446717-1222-49FB-B5A9-28D887B0984B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147451$6DAB8A02-B72D-4901-A7B4-E18D62B7C289",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147451$FDBB29B7-1931-4B20-A495-3C56A96732D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127104",
+              "numeric-id": 127104
+            }
+          },
+          "hash": "37eb10115e13d91f5dbec957a193fe8bcab88142",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147451$B5C564B4-595C-460B-943D-473149F768E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128103",
+              "numeric-id": 128103
+            }
+          },
+          "hash": "a93d9452491085ff8a661c1e5996312830ea4ff6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147451$F60A069A-4AFF-420A-88E9-EF88BACF3491",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147451$89C5403C-67AD-4214-B81C-31CBB9D556EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1229-09-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc60cb3c54f8ea3b7671f9f15ae47c264786e43d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147451$2310F3DB-A811-4A03-BDDE-694B63B7347B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1238-02-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea81136e40ede11104faa90929373effa3f75bd4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147451$DAC0E1B2-E3B5-48A8-A7BD-3ABA8024C1CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4482729"
+          },
+          "hash": "55702c6b3249c9456a8a8b5f85180b672192feb3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147451$382E8A04-4262-4C44-9993-C29509A4104C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=feodora;n=rurikides;oc=1"
+          },
+          "hash": "4690adf1b5a7c288cd339f7a64f25ea8649e09d3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147451$D909E750-1B36-42B8-B0CD-226F9B4D6E40",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Feodora Yuryevna Arms.svg"
+          },
+          "hash": "d67112b0eff11ca7b60ad8a0fb5d022e12bf4ad9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q147451",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Theodora Yourivich"
+    },
+    "be": {
+      "language": "be",
+      "value": "Феадора Юр'еўна"
+    },
+    "de": {
+      "language": "de",
+      "value": "Feodora Jurjewna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Feodora Yuryevna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Theodora Yourivich"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Theodora Yourivich"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フェオドラ・ユーリエヴナ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Theodora Yourivich"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theodora Yourivich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феодора Юрьевна"
+    }
+  },
+  "lastrevid": 17572172,
+  "modified": "2025-09-17T15:22:18Z",
+  "ns": 860,
+  "pageid": 175836,
+  "sitelinks": {},
+  "title": "Item:Q147451",
+  "type": "item"
+}

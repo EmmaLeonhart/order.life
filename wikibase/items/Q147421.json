@@ -1,0 +1,268 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thurston de Montfort"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147421$D523910E-E765-4E56-9569-BE5FF0CF8412",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "970953"
+          },
+          "hash": "8bcc3629d14727afa6b24a9965ddbeb41abbc071",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147421$7357C087-2B7C-451E-8373-CC222549ACAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Montfort-107"
+          },
+          "hash": "2697c86c62311b748912359045e00bd432a2917f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147421$1C08A12A-66B3-4D76-B73B-5D07486C0EC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147421$E20B3E7F-7B66-40D5-B934-CA9E5235AEF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147421$981BEAF6-1E42-4205-BB3F-BD40DB973650",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p40617.htm#i406169"
+          },
+          "hash": "eeb83d64c0d9efc62112ee42764a65e30e351d03",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147421$4B158F1E-386E-4BBB-957E-16FBE7FC1285",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143809",
+              "numeric-id": 143809
+            }
+          },
+          "hash": "281a63c21e8b0f9ff6821be72f92ad3cd38e8aa9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147421$C7E9DD51-11E9-4DDB-88D2-5DDAFC9ECD8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147421$A38B0720-8D87-40A2-9CC2-360E026C525D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1118-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8cf7422150a95d705ef3986a22d91da02c9c8024",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147421$E92FB102-0DEB-49C5-9F90-C00036669A20",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1170-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "be0de37e962cb12c5a76349ca030fe65e68bb8ec",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147421$432A8F81-5500-45DA-AAEE-45C4D4A23C58",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75924054"
+          },
+          "hash": "100e6923aa05a092abc7330a132bbaa950b8060f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147421$CF0AFB44-5940-4D3E-8001-AFB0E8479B51",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=thurstan;n=de montfort;oc=1"
+          },
+          "hash": "b6850175f9dbc32d3696365507d32a8e04a849a1",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147421$F7750600-1C81-42A2-A198-EBDD90BB82D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thurston de Montfort Arms.svg"
+          },
+          "hash": "fae331a131849196817d1e184575f213e7a65481",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=406169"
+    }
+  },
+  "id": "Q147421",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Thurston de Montfort"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thurston de Montfort"
+    }
+  },
+  "lastrevid": 17572130,
+  "modified": "2025-09-17T15:21:45Z",
+  "ns": 860,
+  "pageid": 175806,
+  "sitelinks": {},
+  "title": "Item:Q147421",
+  "type": "item"
+}

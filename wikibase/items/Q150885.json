@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elissau ap Gruffyd"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150885$15772D6C-6C77-4B98-AB4F-048F4A9D6C7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00691850"
+          },
+          "hash": "f499b2f0b848398e364ab422a12f1307441c411e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150885$A56B8057-5F3F-4D39-B72A-19FFB96E3209",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Gruffydd-60"
+          },
+          "hash": "a4283df2463b131a2e0a6490e45b2bcf72294dcd",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150885$D13FAD98-7750-4E34-AC31-5B8DC40844C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150885$A11EA8B2-14C9-430B-8F03-FBBE70E07C3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150885$D76F9A92-FF44-4082-B723-562715BF6590",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146214",
+              "numeric-id": 146214
+            }
+          },
+          "hash": "9bc5455630996729fb843412da3662b6e9be7708",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150885$23C9692D-8D38-4DD6-A802-F27794607206",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149641",
+              "numeric-id": 149641
+            }
+          },
+          "hash": "e8a65566df76cd682881bf8da5ef5ae1dd3a778d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150885$19E26382-F363-4EC7-8F3A-D69EA350F600",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150885$36D9E54E-D0C4-40A9-8C30-7C85D2F8BF2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1440-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "103d250a23d7be3154750e5e59b7b65f710bedc9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150885$AAE0AC34-C415-458F-9324-ED9CB0AA4845",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1489-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0a8f0bd62221dc5b96023f4c0b9483a3c4e94f76",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150885$A0D27341-D2C7-4570-8554-E56ADDD5743F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q91206413"
+          },
+          "hash": "fdedc3796b81807fdc21f0755c919bcd33324c09",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150885$7BF3365C-0929-4422-870A-2A625102CAE8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elissau ap Gruffyd Arms.svg"
+          },
+          "hash": "5a21ded5da29c990dc9d87307e14e8c1c6fe6eea",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "baron of Gwyddelwern, Wales (c.1440-1489)"
+    }
+  },
+  "id": "Q150885",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Elise ap Gruffudd"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ellis ap Griffith"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elissau ap Gruffyd"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ellis ap Griffith"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ellis ap Griffith"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elissau ap Gruffyd"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ellis ap Griffith"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ellis ap Griffith"
+    }
+  },
+  "lastrevid": 17578252,
+  "modified": "2025-09-17T16:45:58Z",
+  "ns": 860,
+  "pageid": 179339,
+  "sitelinks": {},
+  "title": "Item:Q150885",
+  "type": "item"
+}

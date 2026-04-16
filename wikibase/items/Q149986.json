@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir John Talbot"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149986$98931EE1-9BDD-4A98-87F0-F4E77E01BED6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00337563"
+          },
+          "hash": "6850b76bd4660fd2e3ef48b695634aaf729fca62",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149986$928F4C88-073F-47BB-A85D-C4AAF51CFF98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Talbot-66"
+          },
+          "hash": "542b92c835258af7bea604b09b098a1443f58d7b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149986$77FFADA7-817D-4D71-8A7E-B46AA7C8CD55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149986$7B1FF918-0B2B-4D50-91A9-16A1C3212679",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149986$B5692598-F49C-4271-BD2C-6D60432E81D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p1929.htm#i19289"
+          },
+          "hash": "421c885186a32db5b6b761385df59e74614f11eb",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149986$885578A1-C94A-42F1-92DD-D405C418AD15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145498",
+              "numeric-id": 145498
+            }
+          },
+          "hash": "d8a425b84332a18fefbc1065f49d1b3204a47086",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149986$1B5E4979-ED1E-4638-B39D-13141497DDB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149986$5E607011-D17F-4BAF-B7B2-FCEE8519DDF0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1337-05-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b7f2116d12ea51c9856a8ff923ae1c064cf9eb4b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149986$36EF4F01-3530-47CB-9369-4EB61106477B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75260798"
+          },
+          "hash": "f33f163403c9b2869ccf742e8129ace9ee6ee093",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q149986$3EB4AC45-7C92-47DD-BC40-5BCCD99181DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002135812214"
+          },
+          "hash": "c6cc36f8cd0eac58105fbb6b8adf3759e3e6c0c3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149986$A8D6FF6F-DC5A-4C4A-9919-8E45A254FEA0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Talbot Arms.svg"
+          },
+          "hash": "9aec006e2fbf9721e11206c4e36cbe6925dc821f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=19289"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "pessoa da nobreza ID=19289"
+    }
+  },
+  "id": "Q149986",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "স্যার জন ট্যালবট"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sir John Talbot"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir John Talbot"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sir John Talbot"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sir John Talbot"
+    }
+  },
+  "lastrevid": 17576458,
+  "modified": "2025-09-17T16:21:27Z",
+  "ns": 860,
+  "pageid": 178439,
+  "sitelinks": {},
+  "title": "Item:Q149986",
+  "type": "item"
+}

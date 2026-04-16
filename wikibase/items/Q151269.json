@@ -1,0 +1,340 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Helena Pedersdatter Strange"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151269$41B693E3-8D36-4681-B788-9CAF3E4D7263",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00502242"
+          },
+          "hash": "0e9abb8a5e1802f53781da3d4f420ca47217975f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q151269$C8466FA8-532E-469E-8BD8-BC3CE62F44F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pedersdatter-1366"
+          },
+          "hash": "950afcd19576d42c0531d73cd51cc22c1a640d50",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151269$AA136673-F49E-49DD-A731-A372DEC9F578",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151269$99D1B064-0DB4-4FA5-8C98-6D20C472E3D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151269$7A8D62A0-766D-467F-9F84-5A97560274A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147254",
+              "numeric-id": 147254
+            }
+          },
+          "hash": "2282c4d8976de2a0222ccac3d21adbf92dd271c6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151269$B88D15FD-779F-4F99-AB67-6DEE73792D78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151268",
+              "numeric-id": 151268
+            }
+          },
+          "hash": "46df0732badc5dfd66529432210245e698d3b2d2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151269$1BA225EE-C95E-435A-A28F-2C5B2576EB3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146543",
+              "numeric-id": 146543
+            }
+          },
+          "hash": "a79f21f415b9989e0556fd76010bf1009899be20",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151269$AEF035B7-A657-4717-8C5C-2BF615BA15F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151269$633EE156-08C1-4565-B437-D1947543E8C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151269$BA47485F-7F98-47E5-A2A0-5524DD4A6BF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1255-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f075e4c7d2b28e71204922996e1968255876faaa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151269$0B063676-8DAB-4D0A-AF30-2EA07E059278",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2725099"
+          },
+          "hash": "c0664ff6a78c753cdccfda871941fe40172d85af",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151269$12A40631-E339-4E2C-B4DD-EE458939CE80",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Helena Pedersdatter Strange Arms.svg"
+          },
+          "hash": "eebc1534ca073db899ef470a982f6a4889f7c2ef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "švédská královna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Swedish queen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "королева-консорт Швеції"
+    }
+  },
+  "id": "Q151269",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Хелена Петэрсдатэр Странгэ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Helena Pedersdatter Strange"
+    },
+    "de": {
+      "language": "de",
+      "value": "Helena Pedersdatter Strange"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελένα Πέντερσντατερ Στράνγκε"
+    },
+    "en": {
+      "language": "en",
+      "value": "Helena Pedersdatter Strange"
+    },
+    "es": {
+      "language": "es",
+      "value": "Helena Pedersdatter Strange"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Helene Pedersdatter de Strange"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヘレナ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хелен Педерсдатер Странге"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Helene Pedersdatter Strange"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Helena Pedersdatter Strange"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хелена Педерсдаттер Странге"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Helena Pedersdatter Strange"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Helena Pedersdatter Strange"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Helena Pedersdotter Strange"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гелена Педерсдоттер Странге"
+    }
+  },
+  "lastrevid": 17579020,
+  "modified": "2025-09-17T16:56:52Z",
+  "ns": 860,
+  "pageid": 179723,
+  "sitelinks": {},
+  "title": "Item:Q151269",
+  "type": "item"
+}

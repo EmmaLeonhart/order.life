@@ -1,0 +1,292 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peter of Murom"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147664$80B371C6-FA44-4767-B783-D3292EF56B31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "653"
+          },
+          "hash": "1d5ebe779cf598cb5f84d9e66e91b4e43c8f07ff",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q147664$1B66D845-2A2B-46AE-923D-0FA03A4DA5F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00174668"
+          },
+          "hash": "f82f28f03d6843cc9c7e76ded468772ea0a271e7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147664$8967FAE7-ED84-4C50-9711-F68FD5912F1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147460",
+              "numeric-id": 147460
+            }
+          },
+          "hash": "acea8a59bd2ff6fd0d63e3f66f358f4d2389b15e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147664$B21DC52C-1B32-4DEE-8BEB-06CA8FD355D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147664$E5B47B4B-55EF-4253-B159-BC13DD9A0327",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147664$F2369BE6-AB82-4D7D-9DA1-595590C774BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143851",
+              "numeric-id": 143851
+            }
+          },
+          "hash": "c6ea527a64e0f857b4dc426d248d1521eea6660e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147664$3346BF3F-E4CD-44E2-91BB-CDB0FD717947",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147664$889EA20C-1A2B-4B1A-9C32-EACB55C68C6D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1167-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a6ea10dc32c97a2d513a809f9e8b603a2bd5ca27",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147664$02B8D775-E505-49DA-BA86-18CD3BC76263",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1228-06-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4df9a6ec8aa4ab7ae195685441c764cf21f4326a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147664$DEAB1F3D-B46F-4BD5-999C-20F06330700C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4153691"
+          },
+          "hash": "270756d8c64526cb0bc618363d546d002e6e1563",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147664$9740AC52-89E3-4C13-BBAB-E5890C790FF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=david;n=rurikides;oc=2"
+          },
+          "hash": "b13fb738da1202861badd30895042352690b1045",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147664$768D5F2F-F967-4B7E-8543-35A6445795FF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peter of Murom Arms.svg"
+          },
+          "hash": "d1f951ae245cffda74e89b4bdd52b71a8896f225",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "у хрышчэнні Пётр, князь мурамскі"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of the Principality of Murom and Russian saint"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь Муромский (1203/1205—1228)"
+    }
+  },
+  "id": "Q147664",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Давыд Юр'евіч"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Muromskij Petr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dawyd Jurjewitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peter of Murom"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Давыд Юрьевич"
+    }
+  },
+  "lastrevid": 17572326,
+  "modified": "2025-09-17T15:24:36Z",
+  "ns": 860,
+  "pageid": 175924,
+  "sitelinks": {},
+  "title": "Item:Q147664",
+  "type": "item"
+}

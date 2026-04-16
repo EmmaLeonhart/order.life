@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Erneburga de Flamville"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149951$D0FAE062-80E6-4BAE-9D66-B925B81D81BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00140350"
+          },
+          "hash": "0bf407bf7fbd9abe99a6d1fe1304d2bcd300fd78",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149951$C33F2EAB-E996-4699-B52A-A13840D8D8BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145470",
+              "numeric-id": 145470
+            }
+          },
+          "hash": "474f993f4b46f869ee7b5cadf774ef664822a09c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149951$76B81901-C593-4BD7-A9B6-A570911B6DCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Flamville-2"
+          },
+          "hash": "a0245fc85fed1e936101ad3e1853bec60399c94d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149951$021445E5-C0C5-4AE3-8D73-C30D0D655A64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149951$FD6F9ED0-78AA-4928-8F47-645663B03B2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149951$19F482F1-9412-45C3-8FC2-EBACBF2A0C33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149950",
+              "numeric-id": 149950
+            }
+          },
+          "hash": "5928743cac436e77234484d34ed8654fc751ed9d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149951$780A051C-3CE8-4EE5-B589-2EC2609C1D6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149951$3823FE6D-C9AA-4F28-921B-231F31501978",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1103-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "932f0a8c542a5aba4062c8f10c8bbb4d7bf65d12",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149951$2687F430-E20D-4340-BC77-D54AEAA9103D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1145-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d7704a2ca19cd3ae951aaea72ccdbe2b4bb0b582",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149951$9AD94216-FE24-4ABF-8D2F-078CD22BD35D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112964633"
+          },
+          "hash": "8c532c5aef6372707cc4cf5b08f93ce4ce5a8457",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149951$D5C88056-F550-49D1-9952-4DC9D8C0E595",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Erneburga de Flamville"
+          },
+          "hash": "37a0ca98552ffdf76048227344c05c0f2e554130",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149951$658C1AAD-86AF-4B5A-BCAB-9538E50308EC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Erneburga de Flamville Arms.svg"
+          },
+          "hash": "00f21d53877a9b53e20b5bb45692011378a89a43",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1103 - 1145"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1103-1145)"
+    }
+  },
+  "id": "Q149951",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Erneburga de Flamville"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Erneburga de Flamville"
+    }
+  },
+  "lastrevid": 17576392,
+  "modified": "2025-09-17T16:20:35Z",
+  "ns": 860,
+  "pageid": 178404,
+  "sitelinks": {},
+  "title": "Item:Q149951",
+  "type": "item"
+}

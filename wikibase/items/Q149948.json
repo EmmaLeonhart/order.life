@@ -1,0 +1,318 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mathilde de Béthune"
+      },
+      {
+        "language": "en",
+        "value": "Mathilde de Bethune"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q149948$7F54C80F-8526-4535-8A9A-AB2E33E5A61F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "11649"
+          },
+          "hash": "a611ce9d9561769427a67d79b0b0434b04a0cea4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q149948$6D1F59A8-5FC0-4816-A921-B4268A60CD59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00316226"
+          },
+          "hash": "70b6384c7dc4084fbcce901e6f8ed76e1f46d4a4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149948$2E124CE8-03C4-43D1-86EC-7C72A7CD458A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Béthune-148"
+          },
+          "hash": "cc874e61a90cea5d461917187e45701920344520",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149948$2AC93F49-041E-41F5-A551-D9244A436C5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149948$60AAF7A1-46C2-4568-9631-EAB9D780D7A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149948$417CDFF8-D0ED-4600-865B-43E8396EF80A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145466",
+              "numeric-id": 145466
+            }
+          },
+          "hash": "84d20bc459e408a23eec2f96c10d8294a7ac9af8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149948$5EEF8100-04C2-4364-8777-1FE45B02DABC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149944",
+              "numeric-id": 149944
+            }
+          },
+          "hash": "d88e050e4aa34871e34eb4e7389d9d5e8e8b4207",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149948$DADB6544-9740-439E-BD7C-820436EDBF00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149948$73150495-10BD-4E50-BA12-9C664F73B889",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149948$0A364E86-3C96-4077-89C9-8B503AC8F783",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1252-11-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9da299dbfc0d0fc9608e91c2bf8c7bb28758ec61",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149948$C71AA73E-7465-4C13-A7B3-F7266C124904",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q107211659"
+          },
+          "hash": "727c4c4609914bb8d020b8deb193b95a3fa51823",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149948$5CEED8B5-F3E2-4DAE-9B79-B33B0D20FC64",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Mathilde de Béthune"
+          },
+          "hash": "1a23bccb81c588bc557e66aec2d374df4a16fd8c",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149948$B0341E26-02BA-4A5C-8A5D-4A9033999FD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=mathilde;n=de bethune;oc=4"
+          },
+          "hash": "56c6054f43052b266d99219697d724000f62fb33",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149948$D802CF72-7848-4E72-8E37-A7394C0A1EBB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mathilde de Béthune Arms.svg"
+          },
+          "hash": "746f6e7f4d473975fee01798927a9d1a5dcdc595",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 1 Nov 1252"
+    }
+  },
+  "id": "Q149948",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mathilde de Béthune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mathilde de Béthune"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Mathilde de Béthune"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mathilde de Béthune"
+    }
+  },
+  "lastrevid": 17576386,
+  "modified": "2025-09-17T16:20:29Z",
+  "ns": 860,
+  "pageid": 178401,
+  "sitelinks": {},
+  "title": "Item:Q149948",
+  "type": "item"
+}

@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Melania the Elder"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151905$640AE44B-61F2-453D-BFF0-62494566DF4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "271060"
+          },
+          "hash": "76615828d98ef6c7e5f2899d42bcebb64b95ed89",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151905$5C142F73-FE75-4E14-87C7-C9848B6BE00B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151906",
+              "numeric-id": 151906
+            }
+          },
+          "hash": "a98ab82b4e5110ff6f19b334c62870c5697947d6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151905$A2678B3F-6A9E-4CC3-BA98-51565A0D8F2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151905$E7ACB394-479A-4C2C-A219-F4CCDFBB2F39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151905$C57CC0B4-9CC0-4565-BEEC-59089E754E47",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Melania_The_Elder_(1)"
+          },
+          "hash": "f7147af00becb8d7cb2007d1bcaabd168f2cb04c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151905$BCF7D402-AC45-4C0F-AF61-6F0D8E956EDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151880",
+              "numeric-id": 151880
+            }
+          },
+          "hash": "798dc1343785872838c818fefc88f08a3fbaf9f8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151905$B26C0A7B-22B3-4237-BED4-B6893EBE8554",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151905$C9286EE2-EC72-4D76-9E7E-0CC095E722E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0350-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "097cee610506acedf4cdb5f92d344429397583ad",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151905$2B9B8F84-8420-4C7B-9498-BDD51AB8D22B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0410-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7d464f95607812f3d592c193da8edb32b68645a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151905$0E813C42-8F02-49D4-80BC-063C05F84880",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3306296"
+          },
+          "hash": "7db14eca4f9fe7cd4d63148e2e310e73d1a1d776",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151905$A0DE2D0C-72B2-4069-B068-01D6EFCC84EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Melania the Elder Arms.svg"
+          },
+          "hash": "8b63dad9997924015a6e281600afbe8c1a064477",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römische Adelige und Klostergründerin, Heilige der katholischen und orthodoxen Kirche"
+    },
+    "en": {
+      "language": "en",
+      "value": "Holy Land saint"
+    },
+    "es": {
+      "language": "es",
+      "value": "santa cristiana"
+    },
+    "he": {
+      "language": "he",
+      "value": "בת אצולה שעזבה את רומא, השתקעה בירושלים, חיה חיי סיגוף, והקימה אכסניה על הר הזיתים"
+    },
+    "it": {
+      "language": "it",
+      "value": "santa cristiana"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "sfânta Melania"
+    }
+  },
+  "id": "Q151905",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Melania la Vieya"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Melània la Gran"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Melánie"
+    },
+    "da": {
+      "language": "da",
+      "value": "Melania l'Anziana"
+    },
+    "de": {
+      "language": "de",
+      "value": "Melania die Ältere"
+    },
+    "en": {
+      "language": "en",
+      "value": "Melania the Elder"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Sankta Melania la Pliaĝa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Melania la Vieja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mélanie l'Ancienne"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלניה הקשישה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Melania Tua"
+    },
+    "it": {
+      "language": "it",
+      "value": "Melania l'anziana"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "大メラニア"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ღირსი მელანია"
+    },
+    "la": {
+      "language": "la",
+      "value": "Melania Maior"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Melania l'Anziana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Melania de Oudere"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Melania l'Anziana"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Melania Starsza"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Melânia, a Velha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Melânia, a Velha"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Melania cea Bătrână"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мелания Старшая"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Melania the Elder"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Света Меланија Старија"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Melania l'Anziana"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Melania Yaşlı"
+    }
+  },
+  "lastrevid": 17580120,
+  "modified": "2025-09-17T17:11:28Z",
+  "ns": 860,
+  "pageid": 180359,
+  "sitelinks": {},
+  "title": "Item:Q151905",
+  "type": "item"
+}

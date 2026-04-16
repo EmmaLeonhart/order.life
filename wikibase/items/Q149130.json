@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aveline de Burgh"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149130$D5BC0DF4-7AD5-4310-B95B-D42C4AE9AA7C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Burgh-173"
+          },
+          "hash": "57036c8fb9ef7fe1cf6b5e2266bc0e3679799ae9",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149130$94C6CA06-CCF8-4A85-9BC0-B28EA3A70104",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149130$F6BAB982-FE8A-4DD7-A2D7-934588D79F7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149130$63B5F73C-22FC-4159-A27A-24E7686E8F95",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p4184.htm#i41836"
+          },
+          "hash": "0bafd73e8751229ff299548c9c651a527fa1ceb9",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149130$6337E5E6-97DF-4C92-B439-5EDEE441EE42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145028",
+              "numeric-id": 145028
+            }
+          },
+          "hash": "7cb3651f50ee5d48b144d0e806d62ec41a800fb3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149130$BD39EF68-7F76-4587-9CDC-8A9D60A1FF43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149126",
+              "numeric-id": 149126
+            }
+          },
+          "hash": "16555f8d4bfd6cd2d8c73ccc6dc720f1bbfc8611",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149130$FF221C18-7627-4D11-B899-8FAE3CEEBD07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149130$903694AE-D88D-4615-B5A7-81581A505D69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1280-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4628f7e7efab46495b05b805a92d2c16080dee95",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149130$FFE186F0-C65E-4F81-9F3A-C62E75115225",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1320-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c5b85b607050ed65ced331ffea6c88d258f7442",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149130$5DC308A2-25ED-4BC7-A676-9C61FA408877",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75290548"
+          },
+          "hash": "80521ea81da4610a6c110acd00477ad6551542fc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149130$DD7448D5-3C3D-4590-8B0F-84F217B35372",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aveline de Burgh Arms.svg"
+          },
+          "hash": "62265fb1ca3065659d5e7aa83e79c337ec255f73",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=41836"
+    }
+  },
+  "id": "Q149130",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aveline de Burgh"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aveline de Bourg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aveline de Burgh"
+    }
+  },
+  "lastrevid": 17574762,
+  "modified": "2025-09-17T15:58:31Z",
+  "ns": 860,
+  "pageid": 177583,
+  "sitelinks": {},
+  "title": "Item:Q149130",
+  "type": "item"
+}

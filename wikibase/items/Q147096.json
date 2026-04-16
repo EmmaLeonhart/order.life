@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ade de Mortagne"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147096$61122D1B-ECCC-4331-9EE1-03490D3752F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00120749"
+          },
+          "hash": "4771a34102a2806627b76419434f8b8dc8b897d4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147096$E50AC32B-F93E-43CB-BFAE-91AC05C15192",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143626",
+              "numeric-id": 143626
+            }
+          },
+          "hash": "08eadfb81460112fead4df12acad94634ac4d651",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147096$801F34FA-95B7-4387-A10C-A8EDD9F2A60D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Mortagne-15"
+          },
+          "hash": "646968cdde783d4d2d67fa661c7b2f31c8893e03",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147096$D9E7E1B2-484A-4CDD-A54A-53800E56EB9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147096$94D654FC-B10E-4489-A4D8-E43EAFA03F37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147096$6EB2ECA7-9E57-46C1-9D09-E71394CB937A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147095",
+              "numeric-id": 147095
+            }
+          },
+          "hash": "bc1d2f537829542b67f4da394b6ad16e280c7d40",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147096$129956DD-033A-4F54-BE0B-F1900E823F46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147096$1EE8B15B-8BB0-44DF-AE25-8A4CACD08BD2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1109-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3eceab8303a2d1b14928b12642da8620d9bbd615",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147096$8760A09F-860D-493C-A977-C8BC3FBD1610",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110578333"
+          },
+          "hash": "88372388c33096d36049f5c31be4865cf92356b7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q147096$B09B846A-4EC3-4CA8-AE0E-25B738A74061",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ade de Mortagne"
+          },
+          "hash": "e1614ed2bba1da52b6b21a69facb943d02b59a30",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147096$3925262D-17E7-44D2-AEFA-1D053BDA2955",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ade de Mortagne Arms.svg"
+          },
+          "hash": "63aed96fd7bc405586b10320f0c8be4b1b2e2905",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1109 - after 1144"
+    }
+  },
+  "id": "Q147096",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ade de Mortagne"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ade de Mortagne"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ade de Mortagne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ade de Mortagne"
+    }
+  },
+  "lastrevid": 17571580,
+  "modified": "2025-09-17T15:14:16Z",
+  "ns": 860,
+  "pageid": 175481,
+  "sitelinks": {},
+  "title": "Item:Q147096",
+  "type": "item"
+}

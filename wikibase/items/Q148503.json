@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwilym ap Tudur"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q148503$4F37B31B-00BC-4616-8C91-2915C3656F9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Tudor-19"
+          },
+          "hash": "3d6c5942a646133bbf2bc4bd472e9fac8e96016d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148503$2C6C7535-9F1F-4EC8-8228-12B5DE09DE25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148503$17B985C8-9A6D-4790-B4EB-0A8147D3ACEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q148503$64CE2353-D3EA-42E2-A012-BD63B0F49FCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwilym_Ap_Tudur_(1)"
+          },
+          "hash": "6ecba39aa1e64964915fd5934cf6465ad5def3a6",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148503$14F3638A-0B31-474F-8FE9-C3B296D08F68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144537",
+              "numeric-id": 144537
+            }
+          },
+          "hash": "df67bde7ef290c96cb4046d14109f86842aa1576",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148503$72DF608D-9E71-4992-B7B1-8584AB3E3051",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148499",
+              "numeric-id": 148499
+            }
+          },
+          "hash": "6b4a9a4084c4bbb3cd6e2a7441ec6e3222915d95",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148503$37E3E86E-97C9-4CE0-957C-6FC18A94B114",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148503$F5B6A370-6B3E-485E-AF4E-8AF4CEDF6133",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148503$DF35BC32-4F5C-4356-9303-6D02703BA46F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1413-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eba70db6c6d02079fbcb32fd235eab93ae37cfc4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148503$82AAA1FF-9482-45E4-BE84-5BDC56291932",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18535667"
+          },
+          "hash": "f11f00138932de953014492f75d223573b70447e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148503$4F078D17-CC23-4804-96D0-1834AFFAD450",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwilym ap Tudur Arms.svg"
+          },
+          "hash": "7ae899f8eac195e257594238002b85a4cbaf02b4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "tirfeddiannwr Cymreig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh landowner and administrator (fl. 1380–1413)"
+    }
+  },
+  "id": "Q148503",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gwilym ap Tudur"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gwilym ap Tudur"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gwilym ap Tudur"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwilym ap Tudur"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gwilym ap Tudur"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gwilym ap Tudur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gwilym ap Tudur"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グウィリム・アプ・テューダー"
+    }
+  },
+  "lastrevid": 17573512,
+  "modified": "2025-09-17T15:41:02Z",
+  "ns": 860,
+  "pageid": 176956,
+  "sitelinks": {},
+  "title": "Item:Q148503",
+  "type": "item"
+}

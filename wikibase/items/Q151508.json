@@ -1,0 +1,323 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Valerius Messalla Thrasea Priscus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151508$40C80087-38A6-4719-A903-BF7D28CA9FF2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "359915"
+          },
+          "hash": "fbe476f11f8f6d01564d54a491fa7b4263effe08",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151508$33FF2551-5828-47BF-8174-8489CE1BCF50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151619",
+              "numeric-id": 151619
+            }
+          },
+          "hash": "d0759b2e53638fe5d16276a282b79a4eccf6e29a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151508$97792DA1-B68C-4762-BB79-8ACFDE850561",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151508$1E4189CD-B269-4958-AE0D-90F42AB64F30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151508$AEF8E6BB-160C-40B0-8AE7-19FA31E83E87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius_Valerius_Messalla_Thrasea_Priscus_(1)"
+          },
+          "hash": "ea0ce9aee0995cc8499e79cc1ec2c8b80c13829b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151508$EA190CFA-57D7-4812-A6CB-E3184A90272E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151366",
+              "numeric-id": 151366
+            }
+          },
+          "hash": "77e1617864fece5eb83681f9a068b901c5a71afb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151508$9D13DC4F-7040-4360-83C4-9FB30AA50BC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151508$C65B8C18-546A-4A3F-8E34-C9918044B791",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0156-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dcf16cebd72a40b1d67d82681cf15010af11032b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151508$65560B91-BB2C-49D7-8FCD-CB205D73249F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0211-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "63551cfd027163371549e0d057055e41741e489b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151508$7C60D36B-DF79-4ECE-ACAE-9391B85C61DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1227209"
+          },
+          "hash": "2705b96242b59896b4098551445cc4b0eefe2df7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151508$E5CC5507-6751-473A-B869-57AC68DBC2E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Valerius Messalla Thrasea Priscus Arms.svg"
+          },
+          "hash": "71b45b0b24c84c9b58910cfbc28afdda6359c707",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 196"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 196 AD"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 196"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (156-211)"
+    }
+  },
+  "id": "Q151508",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Lucius Valerius Messalla Thrasea Paetus"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луций Валерий Месала Тразеа Приск"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Valeri Messal·la Trasea Prisc"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Valerius Messalla Thrasea Priscus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Βαλέριος Μεσάλλας Θρασέας Πρίσκος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Valerius Messalla Thrasea Priscus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Valerius Messalla Thrasea Poplicola Helvidius Priscus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Luci Valeri Messal·la Trasea Prisc"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Valerio Messalla Trasea Prisco"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Valerius Messalla Thrasea Priscus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Valerius Messalla Thrasea Priscus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Valério Messala Trásia Prisco"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Valério Messala Trásia Prisco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Валерий Мессала Тразея Приск"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Valerius Messalla Thrasea Priscus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Валерій Мессала Фрасея Пріск"
+    }
+  },
+  "lastrevid": 17579426,
+  "modified": "2025-09-17T17:02:15Z",
+  "ns": 860,
+  "pageid": 179962,
+  "sitelinks": {},
+  "title": "Item:Q151508",
+  "type": "item"
+}

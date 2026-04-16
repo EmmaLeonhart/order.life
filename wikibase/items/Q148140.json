@@ -1,0 +1,423 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cicero Minor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148140$DE5CAADF-3F47-43A0-AF03-2E8AC95B7F6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "412164"
+          },
+          "hash": "70eff178d188234524b3f5651016e01d6720d1f5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q148140$F9065A85-E2D6-4CB7-9F3C-A9EBA2A54925",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00801007"
+          },
+          "hash": "bfd8becf03a901bfe10fddb707121d8da72dadb7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148140$859BE4DB-C386-4B2C-A3E5-2260C1983ED4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148140$820BE0F3-BB28-4745-96AA-8ED8C92DD23A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148140$2C1A051D-418D-421A-810A-B8459AB9C1E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148139",
+              "numeric-id": 148139
+            }
+          },
+          "hash": "225b82cd0322cfb12a53035f4c0d3cca20886d47",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148140$BC974C1F-F3CC-467B-8D1E-997D7D22B992",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144177",
+              "numeric-id": 144177
+            }
+          },
+          "hash": "27a94c7f986f3221fc3013a333a2281d2adcb7a4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148140$0F503C36-3807-460A-AD23-0A57B75C12D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148140$D2649551-ABD1-4DFF-B497-ADF60C6FD56D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0065-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c9f79ffd01c22d86642c42c4d0928f59c0509fb1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148140$C6D26496-0DE4-486A-AC50-7C1C2267A433",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q724735"
+          },
+          "hash": "f1cb7b231d1f07423a41b4dc3d55e3b8dcffd6b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148140$61F3FCEA-FCCF-4F51-926A-57D5FB46DCE2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cicero Minor Arms.svg"
+          },
+          "hash": "6c0f8ae1295ed10669a91567be56720989427dcc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Conswl Rhufeinig yn 30 CC, mab yr areithiwr enwog"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Suffektkonsul 30 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul in 30 B.C., son of the famous orator"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "filo de Cicerono la maljuna; konsulo en 30 p.K."
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Cicerón"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 30 av. J.-C., fils de Cicéron"
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 30 a.C., figlio del celebre oratore"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Romeinse Republiek"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q148140",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "شيشرون مينور"
+    },
+    "be": {
+      "language": "be",
+      "value": "Марк Тулій Цыцэрон малодшы"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Марк Тулий Цицерон Младши"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Tuŀli Ciceró el jove"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Marcus Tullius Cicero ml."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cicero Minor"
+    },
+    "da": {
+      "language": "da",
+      "value": "Marcus Tullius Cicero Minor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Tullius Cicero der Jüngere"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κικέρων ο Νεότερος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cicero Minor"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Cicerono la juna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Tulio Cicerón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Tullius Cicero"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cicearó Minor"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיקרו הצעיר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Tulio Cicerón"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ցիցերոն Կրտսեր"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Կրտսեր Կիկերոն"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Tullio Cicerone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・トゥッリウス・キケロ・ミノル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Tullius Cicero"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Marcus Tullius Cicero"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Markas Tulijus Ciceronas Jaunesnysis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Tullius Cicero Minor"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Túlio Cícero Minor"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Túlio Cícero Minor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Туллий Цицерон младший"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cicero Minor"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcus Tullius Cicero Minor"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Cicero Minor"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Cicero Minor"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Кече Цицерон"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Тулій Цицерон"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小西塞罗"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "小西塞罗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "小西塞罗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "小西塞羅"
+    }
+  },
+  "lastrevid": 17572892,
+  "modified": "2025-09-17T15:32:18Z",
+  "ns": 860,
+  "pageid": 176341,
+  "sitelinks": {},
+  "title": "Item:Q148140",
+  "type": "item"
+}

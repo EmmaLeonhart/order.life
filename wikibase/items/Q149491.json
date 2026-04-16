@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucia Basset"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149491$5A272FC8-5655-4154-9B39-48EAF7AF6420",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00650813"
+          },
+          "hash": "79526d7c81aef51e1c58ab36723713fd8f317ecd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149491$5033B6C0-D0A9-42D3-A08F-A90BFAAE03F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Basset-406"
+          },
+          "hash": "a757a0e320a2c5406137056283c03cf698e71733",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149491$FFA30C42-F73A-459E-A280-A512FF9C680E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149491$5372A294-6C86-46AC-99BB-41B0D8C6B262",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149491$E2131B67-4468-4D1C-BE41-78891821BF25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145210",
+              "numeric-id": 145210
+            }
+          },
+          "hash": "da283ca90a9d70d407802db19cdc28353958ef67",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149491$D43E0200-0D13-4DC6-B782-8AA89ED234F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149491$E2E33253-2E4A-4507-9C7E-A5E6AC7846C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1196-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "23881a44144ffd952576b352b1e15fd5ffa725cc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149491$D31BB7DB-DE1A-4C89-B94B-5BDD1ED3B8DD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1277-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbfe1eb23ea66706f094b39d4541a0095035ba34",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149491$4934DB2A-D781-4F85-9C6D-0E2C9B0E1E42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109853182"
+          },
+          "hash": "31f54fda9df4bf4aeedf9cff18d2a37ef3938f57",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149491$B2C23B54-1B22-47C0-A20D-40AD59B84064",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucia Basset"
+          },
+          "hash": "f9fc1736d907c9e8aa70f7f63919b455de1d6f17",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149491$9008665C-C168-406F-BD4C-8FA152328E7D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucia Basset Arms.svg"
+          },
+          "hash": "6498d6734e0a0c4e2c986e50a794e0de19d509d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1196 - uncertain 1277"
+    }
+  },
+  "id": "Q149491",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lucia Basset"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lucia Basset"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucia Basset"
+    }
+  },
+  "lastrevid": 17575476,
+  "modified": "2025-09-17T16:08:22Z",
+  "ns": 860,
+  "pageid": 177944,
+  "sitelinks": {},
+  "title": "Item:Q149491",
+  "type": "item"
+}

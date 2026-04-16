@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elizabeth Butler (Boteler), of Bewsey"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149762$DA6DCD9B-1B3C-4428-BE3B-EDF14C756ECF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00200005"
+          },
+          "hash": "fd54de7021956bce86a9bf5607210e7d944ffb6c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149762$06519F37-C729-48E3-B6FC-C37D152AAE38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145363",
+              "numeric-id": 145363
+            }
+          },
+          "hash": "2414cdf829ca5c7f7a3dbed27ccb8cc7868b0fa2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149762$68453A91-7485-40C5-AB16-3CA001B2EBFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Butler-926"
+          },
+          "hash": "7e69457dcbe4fedcfb581d0abe914910cb49e02b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149762$2C134765-FE23-41BE-B5E1-E5D4F8FD60FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149762$34FB8807-94DA-48A8-9A56-98F71CC848E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149762$91423D3E-8E79-43B5-8150-AC8E23B9077F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149761",
+              "numeric-id": 149761
+            }
+          },
+          "hash": "36a486990431332ab8a9b7a49a3d5f2b075b0acb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149762$4EA8A278-AF6A-4269-A74D-F7450B9232A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149762$E149A371-AB19-492F-83AA-06F2824BB277",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1374-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d421eb80984130faead709b80992053f17b9dea",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149762$5A87AA89-4911-4B67-A4AB-988064074E98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1425-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d177f24d15002f31eed74aedfbbc9e97ed07dcf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149762$F9849FC9-9A24-4B35-AD1C-E63968E91C09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99199155"
+          },
+          "hash": "09b85a452da1bdd4ac3a9a51f10635facef6d63f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149762$156A58A4-6961-41CB-A9F4-F76ACE1DC6D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth Butler (Boteler), of Bewsey Arms.svg"
+          },
+          "hash": "5fb6a1fe9385349e22b789ecea0c8b890206e0f5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1374-1425)"
+    }
+  },
+  "id": "Q149762",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elizabeth Butler (Boteler), of Bewsey"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elizabeth Butler (Boteler), of Bewsey"
+    }
+  },
+  "lastrevid": 17576016,
+  "modified": "2025-09-17T16:15:34Z",
+  "ns": 860,
+  "pageid": 178215,
+  "sitelinks": {},
+  "title": "Item:Q149762",
+  "type": "item"
+}

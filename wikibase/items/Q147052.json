@@ -1,0 +1,481 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Otto I, Count of Scheyern-Dachau-Valley"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147052$22770CFA-CE83-4EF5-91B4-6A87F78777D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00028115"
+          },
+          "hash": "7e344954616bb6bb0cf8d88cc2da5a2a8883aa60",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147052$B3E1F545-C292-4EFF-A437-C5BF877E36D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147052$4F1EB9B2-384A-46CA-8276-50525C29302A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147052$9382BDE0-CBDA-4949-BF5D-3B6A033FCD27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto_I,_Count_of_Scheyern-Dachau-Valley_(1)"
+          },
+          "hash": "23ffee68fdc25950791f7f2ff13ed84aadd65ff7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147052$E56E7C41-F821-402C-BDC0-45B83F65099F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147148",
+              "numeric-id": 147148
+            }
+          },
+          "hash": "6a295dcc3e8ab3013d99e97e528984cbbd271b1a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147052$5A6F6C43-1292-41AE-B3AF-69871FA20F78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143613",
+              "numeric-id": 143613
+            }
+          },
+          "hash": "7fbf3fbea290887e850b7fc7197a17ac8f76f688",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147052$589C2A55-B99B-46DB-BBDA-0EB7AAD4E320",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147049",
+              "numeric-id": 147049
+            }
+          },
+          "hash": "ea47cf5dfab20d171f463b2ddc5006b2fc944071",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147052$0DA4A39A-77CE-4A0B-B2F1-AF764B98BEAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147052$28CDAF0A-2D05-437B-AA2F-D0B0FE12A1B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17398b39c03daeff1464c5a820732f1b4bde21b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147052$CEF2A949-51FF-4EE1-98AE-1C8B515AC275",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1130-11-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d10549f7842600b97f151f1c9f97341b297fac48",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147052$5288B8EC-C156-4F18-BB32-3E33D74D3FF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q43562"
+          },
+          "hash": "a8c2a280c35043671abe267f51c09a6668d2eed7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147052$09350625-B5BA-4256-BF97-6F473BCCD394",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=otto;n=von dachau"
+          },
+          "hash": "41b9263c315a00b6da981d88dd024988a88f3b2c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147052$2D9FDA3A-4216-4337-B1ED-4A0D9AC4BE34",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otto I, Count of Scheyern-Dachau-Valley Arms.svg"
+          },
+          "hash": "245888376e4ef3a213aa4080b9874e5794ee9f4f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Scheyern-Dachau-Valley"
+    },
+    "en": {
+      "language": "en",
+      "value": "German nobleman"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "uasal Gearmánach"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Graaf van Scheyern-Dachau-Valley"
+    }
+  },
+  "id": "Q147052",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "an": {
+      "language": "an",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اوتو الاول كونت وادى شييرن داخاو"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ото I фон Дахау-Фалай"
+    },
+    "br": {
+      "language": "br",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "da": {
+      "language": "da",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "de": {
+      "language": "de",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otto I, Count of Scheyern-Dachau-Valley"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "es": {
+      "language": "es",
+      "value": "Otto I, Count of Scheyern-Dachau-Valley"
+    },
+    "et": {
+      "language": "et",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Othon Ier de Dachau-Valley"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "is": {
+      "language": "is",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "it": {
+      "language": "it",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "la": {
+      "language": "la",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Otto I van Dachau-Valley"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Otto I. von Dachau-Valley"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Otto I. von Dachau-Valley"
+    }
+  },
+  "lastrevid": 17571518,
+  "modified": "2025-09-17T15:13:24Z",
+  "ns": 860,
+  "pageid": 175437,
+  "sitelinks": {},
+  "title": "Item:Q147052",
+  "type": "item"
+}

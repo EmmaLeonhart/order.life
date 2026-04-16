@@ -1,0 +1,380 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Septimius Bassus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151872$EAEA7478-CBBE-4CC5-AD2C-3704439807A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736207"
+          },
+          "hash": "4c6b2128e454cd465685c1110f684ad12be46455",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151872$D6D8557E-67FC-4673-882F-52679B0A5E61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151878",
+              "numeric-id": 151878
+            }
+          },
+          "hash": "8494def43e5d862c8da3765f6bb22367422ef7dd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151872$ECBDFF5D-E73B-45F0-B898-CDF5212EE74D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151872$07F78B49-4FFA-4DD6-B96F-D4529391E095",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151872$87544E72-2B20-4BDE-8610-45FFAF4CC88A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Septimius_Bassus_(1)"
+          },
+          "hash": "22a89f0e668d7aaafb900f9a530c684c1a3bfe2f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151872$4AC6975D-09F0-4CEE-A665-48A7D2A6A200",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151871",
+              "numeric-id": 151871
+            }
+          },
+          "hash": "e829021f5d6fc5b970a74cbd91a1f7a9335c589c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151872$7E5B1B3C-4D93-4516-9339-FE9F34734C5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148335",
+              "numeric-id": 148335
+            }
+          },
+          "hash": "7e814342eed4fa0e7ac22d946d7041e0df8b79d2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151872$89DCDC5C-9201-4C67-992A-5D8884D771EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151872$46DA57EC-673C-4716-8AE6-9675D4FCE11C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "368dc1e752474150a1da591be3284477af436fc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151872$BC94FF2E-998A-423B-882D-A7BB5FD02814",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0301-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "79c910db6cb94b6387f31b274ada6c2964dcd7d9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151872$E81CB614-29B9-4CE6-AD1E-057B936B1E59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1174061"
+          },
+          "hash": "803562001ab36eec239069f5a8a367705af44b8f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151872$145AD0A3-DCC7-42F6-AAE6-FA5FB7F1BE47",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Septimius Bassus Arms.svg"
+          },
+          "hash": "a2388c8f032100050e9fcb89b9a753f6d6b02f47",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Early 4th-century Roman politician and official"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q151872",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Септимий Бас"
+    },
+    "de": {
+      "language": "de",
+      "value": "Septimius Bassus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σεπτίμιος Βάσσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Septimius Bassus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Septimius Bassus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Septimius Bassus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Septimius Bassus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Settimio Basso"
+    },
+    "la": {
+      "language": "la",
+      "value": "Septimius Bassus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Septimius Bassus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Septímio Basso"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Septímio Basso"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Септимий Басс"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Септимије Бас"
+    }
+  },
+  "lastrevid": 17580064,
+  "modified": "2025-09-17T17:10:44Z",
+  "ns": 860,
+  "pageid": 180326,
+  "sitelinks": {},
+  "title": "Item:Q151872",
+  "type": "item"
+}

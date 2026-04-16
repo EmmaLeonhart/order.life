@@ -1,0 +1,463 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Athanaric"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148356$E874926E-C4CB-40F4-BCC6-FFAA3905B7B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "95998|1421183"
+          },
+          "hash": "2416715fb4694af6255e7d137a19a0e5f82fc61a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148356$FAD4D4C0-3A93-4669-AC6E-2D62C57339C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123640",
+              "numeric-id": 123640
+            }
+          },
+          "hash": "0bcce09e3389c45b3dace2732b69743cec3a7771",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148356$3EA6DD6C-C7D9-4959-835E-B62E3524EE3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "DeWisigothie-2|Visigoths-74"
+          },
+          "hash": "6f127a7d67d95f8d666a061a1b0baa8e5466fd69",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148356$D8B581BC-84B6-41DB-910B-C18BA30C93F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148356$B921859D-7AA9-4004-8D02-3143763850E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148356$57E9347B-380E-43E9-BE57-9348E14ED7B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148356$9D16560F-0664-4335-A1EC-769B611DE244",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0318-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b7d55b93549942b6136c69289371b9054800806",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148356$15570136-B7AC-4029-8EA2-3BFC5689CE8C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0381-01-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "822d63dfeb7801b6fa12cdda180a8aea49268fcd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148356$FFECFDAA-8AF6-450A-BB00-F2C711C51401",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q312598"
+          },
+          "hash": "3a6b2628a834a43c9f0e77b2dfe44ac318b081bb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q148356$D446B203-72D6-4580-A001-BA234FF388C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=athanarico;n=wisigoths;oc=2"
+          },
+          "hash": "9d733522475772dd3548c148c1f0a45d18e55857",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148356$0F135E12-7046-47B0-B9AC-2EF78AD525EE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Athanaric Arms.svg"
+          },
+          "hash": "e07c11ef63ccf5a4bc6fd693aeea2c30daba3b88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Richterkönig der Terwingen"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς φύλων των Γότθων"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of several branches of the Thervingian Goths"
+    },
+    "es": {
+      "language": "es",
+      "value": "caudillo Tervingio (365-376) y rey de los visigodos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi Wisigoth"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "nyugati gót király"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano visigoto"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "rege vizigot"
+    }
+  },
+  "id": "Q148356",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Atanarico"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أثاناريك"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اثاناريك"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Atanarico"
+    },
+    "az": {
+      "language": "az",
+      "value": "Atanarix"
+    },
+    "be": {
+      "language": "be",
+      "value": "Атанарых"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Атанарих"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Atanaric"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Athanarich"
+    },
+    "de": {
+      "language": "de",
+      "value": "Athanarich"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αθανάριχος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Athanaric"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Atanariko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Atanarico"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آتاناریک"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Atanarik"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Athanaric"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Atanarik"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Atanarico"
+    },
+    "got": {
+      "language": "got",
+      "value": "𐌰𐌸𐌰𐌽𐌰𐍂𐌴𐌹𐌺𐍃/Aþanareiks"
+    },
+    "he": {
+      "language": "he",
+      "value": "אתאנריק"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Atanarik"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Athanarich nyugati gót fejedelem"
+    },
+    "id": {
+      "language": "id",
+      "value": "Atanarik"
+    },
+    "it": {
+      "language": "it",
+      "value": "Atanarico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アタナリック"
+    },
+    "la": {
+      "language": "la",
+      "value": "Athanaricus"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അഥാനാറിക്ക്"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Atanarik"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Athanarik"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Athanarik"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Atanaric"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Atanaryk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Atanarico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Atanarico"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Athanaric"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Атанарих"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Atanarih"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "آتاناریک"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Atanarik"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Атанарих"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Атанарих"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Atanarih"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Atanarik"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Athanarik"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Атанаріх"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آتاناریک"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿塔纳里克一世"
+    }
+  },
+  "lastrevid": 17573254,
+  "modified": "2025-09-17T15:37:23Z",
+  "ns": 860,
+  "pageid": 176809,
+  "sitelinks": {},
+  "title": "Item:Q148356",
+  "type": "item"
+}

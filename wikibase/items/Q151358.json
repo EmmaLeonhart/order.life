@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Archobarzane"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151358$43AA3F30-7CC0-4BCA-93D1-3B6D16AE7F99",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "626225"
+          },
+          "hash": "342b4f450a08d55ffc8abd365bf4bc8552d752b1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151358$B533147A-EB32-4283-97D0-7B3DA636FDA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151358$F5735695-FC35-4E71-A28F-EEEB58F14ABD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151358$BE6BFC54-B9A1-4DD6-871E-795C68C44E4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151337",
+              "numeric-id": 151337
+            }
+          },
+          "hash": "dd8b78646a800b4cdeb62eb2388d4aa61059f02f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151358$E3D8CE85-FAD2-46FC-AC18-9BF25FC96E2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151358$72A3A542-F481-4849-BDFC-142D1A9C22FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151358$A5008FAD-2F0D-4C7A-B5F9-52094BBEE24A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4787323"
+          },
+          "hash": "c47b7f4ed472b7637c8668f83bda723c1fcbadd9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151358$8A66B01C-656B-4309-BCB7-E7D9236F644B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Archobarzane Arms.svg"
+          },
+          "hash": "b23b941008193d1b3111c4ce674d528094e245f0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "των Μασαισυλίων"
+    },
+    "en": {
+      "language": "en",
+      "value": "ruler of the kingdom of the Masaesylians"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Numidie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "военачальник"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар племінного союзу масесиліїв"
+    }
+  },
+  "id": "Q151358",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ارخوبازان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Archobarzane"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρχοβαρζάνης της Νουμιδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Archobarzane"
+    },
+    "es": {
+      "language": "es",
+      "value": "Archobarzane"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Archobarzane"
+    },
+    "it": {
+      "language": "it",
+      "value": "Archobarzane"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Reich wis III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Archobarzane"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ариобарзан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Archobarzane"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аріобарзан"
+    }
+  },
+  "lastrevid": 17579164,
+  "modified": "2025-09-17T16:58:47Z",
+  "ns": 860,
+  "pageid": 179812,
+  "sitelinks": {},
+  "title": "Item:Q151358",
+  "type": "item"
+}

@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isabel de Merlay"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150325$FC29F0A9-8352-4E6D-B21C-361A99DA186A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00433073"
+          },
+          "hash": "6b5f5c61abd9400d93807a6ef71fb29265d52d3a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150325$4EF115DA-6C27-4A7D-8198-16581FE4CEC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145798",
+              "numeric-id": 145798
+            }
+          },
+          "hash": "54f0f0ab5884b33e0177bbe0b9334f46a69b8fcf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150325$35E4B067-8FAD-42B6-8CD5-E8E3DCC9BDAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Merlay-5"
+          },
+          "hash": "896ab56ab43ab624c4fa5d3bdf7637469c1fca6e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150325$C5B63B8F-551B-44FB-8F8B-4DA15C3C7FF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150325$EEF06114-14A5-4858-967C-07C1DACE769D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150325$1D6B9878-F324-43F3-B468-9820F3324005",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150324",
+              "numeric-id": 150324
+            }
+          },
+          "hash": "af5426da06512dd56f6e0001064685d57566de81",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150325$9DC49C45-569D-41B9-95A3-E9FFD410FD35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150325$180D1826-5C7E-4EBE-BDE1-A63C29F60224",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1258-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ba6d83a84b8363dd37347728a311a2946bffc265",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150325$08735A3B-F2D9-4B04-8E12-A371C86DA218",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q99211854"
+          },
+          "hash": "343598be9c08340af14dda17dd74ffbcfeab4381",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150325$DB3449B7-84C1-473E-AF72-D95FA923B918",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabel de Merlay Arms.svg"
+          },
+          "hash": "a09bc95ecf5e0cb5bc9a543aa7566e35867cd6ea",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1258"
+    }
+  },
+  "id": "Q150325",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Isabel de Merlay"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Isabel de Merlay"
+    }
+  },
+  "lastrevid": 17577136,
+  "modified": "2025-09-17T16:30:40Z",
+  "ns": 860,
+  "pageid": 178778,
+  "sitelinks": {},
+  "title": "Item:Q150325",
+  "type": "item"
+}

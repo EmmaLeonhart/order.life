@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jocelyn Percy"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q150594$AAA5AD28-6923-4C2B-A19B-F203F6CCCD04",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Percy-404"
+          },
+          "hash": "655f52310918bed3813ecc83a000775368385e39",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150594$6B50FFFE-04F3-45DF-B238-377DDD352602",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150594$617F4F59-EDE9-4FB7-8E06-EAB8085BB498",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150594$DB359EFF-CF05-4C09-864A-F8809E788856",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p66341.htm#i663401"
+          },
+          "hash": "57474d5e92d9ef275a905255abcc36b60f128772",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150594$F9029AB1-DC54-463A-9B2F-9CCD8E713DA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150588",
+              "numeric-id": 150588
+            }
+          },
+          "hash": "13eeb2f4929810d55df203e7b81c2a7e2596c055",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150594$E1D0D602-261B-4F86-8BEC-425B3BA5F0A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145982",
+              "numeric-id": 145982
+            }
+          },
+          "hash": "b78e355cefb92e5f82904ca5ee52730214444e1c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150594$FDFB2296-03AB-4CD2-B456-F1ED35833F8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150594$C06106ED-3838-4A8E-A5D3-AFCE88EB4741",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1480-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b5537b61063b95b04621e90a86237b50e07fc42",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150594$1138AC8D-E966-4C0A-AF9B-6670EF4F5187",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1532-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0737ce656718d24e0c42ffab1b1580cca3ed6b35",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150594$913FEAC2-75FA-4AE2-AC43-D04DB5D86423",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76286635"
+          },
+          "hash": "9888bd35a5c9c7d55853b8eb254d1be9cbcbc697",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150594$494414A1-8056-4796-84BF-C5343FE04C59",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jocelyn Percy Arms.svg"
+          },
+          "hash": "e0f46b991242bd1ff65b5d434bc35d7bdd4f18f6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=663401"
+    }
+  },
+  "id": "Q150594",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jocelyn Percy"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jocelyn Percy"
+    }
+  },
+  "lastrevid": 17577670,
+  "modified": "2025-09-17T16:37:54Z",
+  "ns": 860,
+  "pageid": 179047,
+  "sitelinks": {},
+  "title": "Item:Q150594",
+  "type": "item"
+}

@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ulf Holmgersson Ama"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147701$EE16152D-45FE-4A4A-828C-54C171B2F515",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00489046"
+          },
+          "hash": "f4814c998d2fab8152304c2216b135d83d64c53b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147701$7F9E5EC7-4CF8-4E1A-AB7F-9397B75E5C1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147701$9049D231-A654-4F44-93C4-F7165BBF942A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147701$A20F667C-7E86-4568-BA59-6593D24032C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143885",
+              "numeric-id": 143885
+            }
+          },
+          "hash": "438b92ebc23c63a4cf81678db7ad78ebdee4f4f2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147701$829128F3-D53D-428C-BBBF-27F55A44BA45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147701$FC1ABB4B-45F1-48B7-9088-6559536E05ED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147701$3CF96CB1-1C77-4978-8000-4A2F90C51185",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6219139"
+          },
+          "hash": "e4896e9589619a30487f610bdb2aed3156e9e386",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147701$FF1D1FB6-DA5B-4FDD-9743-73F7CCB5725A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulf Holmgersson Ama Arms.svg"
+          },
+          "hash": "d3173dee6605dc229d6f8538ac85907f1b8848cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "sv": {
+      "language": "sv",
+      "value": "svensk riddare och riksråd"
+    }
+  },
+  "id": "Q147701",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ulf Holmgersson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ulf Holmgersson Ama"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ulf Holmgersson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ulf Holmgersson"
+    }
+  },
+  "lastrevid": 17572362,
+  "modified": "2025-09-17T15:25:06Z",
+  "ns": 860,
+  "pageid": 175942,
+  "sitelinks": {},
+  "title": "Item:Q147701",
+  "type": "item"
+}

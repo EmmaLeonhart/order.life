@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria Olegovna"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147654$773EA6EA-0E47-4C27-B6E1-4C537F1B6FEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147654$916E107A-9B92-4D38-85FE-5D3F68DC40DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147654$C9A229CC-FB93-4A00-960F-348F84CDCCD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53688",
+              "numeric-id": 53688
+            }
+          },
+          "hash": "dce29457b0f4f983a8ad8cf6e27aabfb816e72a9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147654$D60AAEF7-8064-4A41-93F9-748005F08DB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143846",
+              "numeric-id": 143846
+            }
+          },
+          "hash": "8a054635cadee002e65c5c889dbafeb5d59b415d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147654$C459875D-33A3-4B5C-AEDF-048C1816B5D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147654$FD54FEE7-52DC-4E14-8BAF-6A0ADC3FF28F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1279-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f058f9e0ce772f3f71c1a5f69dde7eb79d5872eb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147654$74620EB9-CC97-428D-889F-CF4877F7656D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q49613123"
+          },
+          "hash": "c20b19308d8e7c60769023ba69a3c1d07a856ed4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147654$C0626A43-F3BF-421A-ACE8-3A90D0DA2175",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=marina;n=rurikides;oc=1"
+          },
+          "hash": "b92335142e3bfb4f49a135b03a9063d4705f7ca5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q147654$57B7D23E-3D5C-48F9-9930-31CD6D337BE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.6099"
+          },
+          "hash": "c6d7044c4b9a8bc5511cc810f94c2ea28292a2bf",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147654$E458A2CC-F9D5-4CAE-A881-07829BF8DD09",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria Olegovna Arms.svg"
+          },
+          "hash": "eb1a564621eb2a63386014b82b40f40c97dd2761",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Vsevolod, prince of Yaroslavl"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "membre de la noblesse russe médiévale"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "княгиня ярославская"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "руська княгиня"
+    }
+  },
+  "id": "Q147654",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Maryna Olegivna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marija Olegowna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria Olegovna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maryna Olegivna"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marie Olegovna"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maryna Olegivna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария Олеговна"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марина Олегівна"
+    }
+  },
+  "lastrevid": 17572316,
+  "modified": "2025-09-17T15:24:28Z",
+  "ns": 860,
+  "pageid": 175919,
+  "sitelinks": {},
+  "title": "Item:Q147654",
+  "type": "item"
+}

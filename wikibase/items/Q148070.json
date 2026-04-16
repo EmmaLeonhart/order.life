@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Servilius Vatia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148070$A64153DF-673C-4D00-917C-14D0532DD4F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1465091"
+          },
+          "hash": "04f2a2ed21f6644d36dbb08133ac4040c2dc8d7f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148070$2FA0FCB3-20A1-45DD-B083-C4E8C74302D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148070$5E158692-A83B-41C6-BF05-8C22ED91B16B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148070$9C3120CD-5DE3-44AA-86DB-91A32A238521",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144064",
+              "numeric-id": 144064
+            }
+          },
+          "hash": "caad896debbca6d0fd90e70868baeae136c03f76",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148070$CE679FFE-73E6-4D7D-B6D4-8B00E154814C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148070$BEAF653E-3A16-4BDB-AF16-524462447CF7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0068-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d4e77b766f1a40417b81efe7969c815365a886ef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148070$17D76B57-45A3-4B40-BB72-F4FEC57F60ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11024933"
+          },
+          "hash": "42d5ede91f5c96528a731a3f1bbd724dbc2b60b7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148070$EC3BD8EB-2A8D-4DF9-9506-C42369438923",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Servilius Vatia Arms.svg"
+          },
+          "hash": "71caf3ed5b1aee17f215c9afc38cfe7681e0be22",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "suffect consul 68 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul sufecto en el año 68 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul suffect romain en 68 av. J.-C."
+    }
+  },
+  "id": "Q148070",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Сервилий Вация"
+    },
+    "de": {
+      "language": "de",
+      "value": "Servilius Vatia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Servilius Vatia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Servilio Vatia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Servilius Vatia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Servilius Vatia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сервилий Ватия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Servilije Vacija"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сервілій Ватія"
+    }
+  },
+  "lastrevid": 17572776,
+  "modified": "2025-09-17T15:30:41Z",
+  "ns": 860,
+  "pageid": 176159,
+  "sitelinks": {},
+  "title": "Item:Q148070",
+  "type": "item"
+}

@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William fitzBaderon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149121$61976552-5D89-45BA-94AA-24C4564903DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00544090"
+          },
+          "hash": "f3dfdac91098bcdeed61ac83f5aa12082c28561e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149121$2724A81C-6706-4E2D-B7CA-F01557EEC97A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124559",
+              "numeric-id": 124559
+            }
+          },
+          "hash": "d26054bd9cb72a0161b88981c77add23e737ba7f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149121$C3D253B2-3C66-492F-B4D6-32C727A6492E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzBaderon-2"
+          },
+          "hash": "ba50625dd4fab9480b264df0315bb21e35a8d61d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149121$8F00029F-AF6D-4973-9535-EFB72B59F207",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149121$56416E53-ECDC-4E39-ACA4-101172B92489",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149121$FBECBE81-20BA-4D5B-93BC-22E44C391422",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149122",
+              "numeric-id": 149122
+            }
+          },
+          "hash": "0884d067ef4d39be6951c9d5211de2c22892304d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149121$D015CEBE-0580-4EBB-838C-D643A8C6C722",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149121$0A3449FE-F607-42C2-A137-22F8EC95BE95",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75d0b4773aface83de4236d8e314d20d6b4aaa04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149121$1183A942-E601-4DA8-8D0D-87ED923C39FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1130-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d104a1ebf8a26705ef3625e192e411cf935f0fce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149121$6D638C42-7C81-4D26-82BB-BDC07D61C331",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q637282"
+          },
+          "hash": "606377f599110a6af72fa8697e64ce564efb3a0c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149121$835106B0-2219-4FAE-91EA-C72D97F5F8BB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William fitzBaderon Arms.svg"
+          },
+          "hash": "141304e780229390c3d1fd6fa323eac1e5cfe586",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Anglo-Norman nobleman"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monnik"
+    }
+  },
+  "id": "Q149121",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "William fitzBaderon"
+    },
+    "de": {
+      "language": "de",
+      "value": "William fitzBaderon"
+    },
+    "en": {
+      "language": "en",
+      "value": "William fitzBaderon"
+    },
+    "es": {
+      "language": "es",
+      "value": "William fitzBaderon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "William fitzBaderon"
+    },
+    "la": {
+      "language": "la",
+      "value": "Guillelmus Baderonis filius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William fitzBaderon"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "William fitzBaderon"
+    }
+  },
+  "lastrevid": 17574744,
+  "modified": "2025-09-17T15:58:16Z",
+  "ns": 860,
+  "pageid": 177574,
+  "sitelinks": {},
+  "title": "Item:Q149121",
+  "type": "item"
+}

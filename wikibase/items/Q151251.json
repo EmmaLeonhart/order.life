@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kristina Birgersdotter"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151251$0F40B9DD-9E90-4B5E-AC5B-C5B9AC26A843",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00636665"
+          },
+          "hash": "54b797cd2babe75076e4613359964d20e112ae7e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q151251$1504A4F0-CAE6-4CDA-A5BB-C1B94FEF1788",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Birgersdotter-14"
+          },
+          "hash": "a670ffd482461bb52f547aa512611c2408a00e78",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151251$6C47A702-900B-4BC8-A4FB-53D12D88313C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151251$56C523A4-1802-4BB9-B244-5B9A072ED3C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151251$6920F62D-3751-4ADB-844A-469D386E51CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146532",
+              "numeric-id": 146532
+            }
+          },
+          "hash": "ddbe4c9f2cc8dd36fbc59f75eb2cd5100d1b50de",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151251$85337C8E-7B33-4BA9-9CBD-33E11C1FEEAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146553",
+              "numeric-id": 146553
+            }
+          },
+          "hash": "bc5ada99c208cb0ae7f1522cf2e4691da0ebf6ff",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151251$7CAE4985-D4A8-4AD3-A127-9DB5261011A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151251$CD8C3C55-0918-4BCC-BE7B-3550A9918A66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1248-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca905853a50e22095284f6ac146b06638d42687c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151251$4777D13C-475C-4814-8EF0-0B845E238A91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1288-02-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a5b2aba07f63f420ad0a7ec725bfc8dde5bc0e99",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151251$2083871C-D9C8-4ABB-8F5F-9D729EF820E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q101248497"
+          },
+          "hash": "7707ab27dfecd17dd87d80c3c082f880e19b9745",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151251$67432E69-F3EA-46FD-8295-25844D84BCBB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Kristina Birgersdotter"
+          },
+          "hash": "c21fdf01dac468880dcc6ac0259bdda28c0316cc",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q151251$8795B586-E623-4443-AB74-1661FAD4DC00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=kristina;n=folkungaatten"
+          },
+          "hash": "9c99beb8b21bcd70e296ae9de8e0536eb858f92c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151251$A6A495B3-6944-48E7-B620-CDFEA5642C74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kristina Birgersdotter Arms.svg"
+          },
+          "hash": "39142ae9af13b9dcb8b3b2afd08b41cb873a46c9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1248 - 28 Feb 1288"
+    }
+  },
+  "id": "Q151251",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Kristina Birgersdotter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kristina Birgersdotter"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Kristina Birgersdotter"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kristina Birgersdotter"
+    }
+  },
+  "lastrevid": 17578984,
+  "modified": "2025-09-17T16:56:23Z",
+  "ns": 860,
+  "pageid": 179705,
+  "sitelinks": {},
+  "title": "Item:Q151251",
+  "type": "item"
+}

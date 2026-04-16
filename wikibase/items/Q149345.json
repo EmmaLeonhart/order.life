@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice de Greystoke"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149345$50EF9425-2B58-4AD6-BA40-AA3B79059BCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Greystoke-33"
+          },
+          "hash": "e0e42a0105127cc146dba3992b48c1d3b6664d7d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149345$E439BE87-F9D6-4266-89B7-88DBF9F4C9E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149345$29261C4C-57CB-4797-9578-C71AD01CCC45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149345$87AA5354-1C4A-4F27-B674-54CD84D9D713",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p43185.htm#i431843"
+          },
+          "hash": "7c94e8f985037d29f8acbdf0128edf9f4171d526",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149345$9B21DE15-EFE1-471F-9EDD-2789432E0608",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145136",
+              "numeric-id": 145136
+            }
+          },
+          "hash": "f9a87d9e3664bcb32b90ef30fc5fc17ea445558b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149345$A0900632-FB83-4514-B2C5-F27E842C3B09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149343",
+              "numeric-id": 149343
+            }
+          },
+          "hash": "81a39dec7e3b785f220703ee572d3f533e3487d0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149345$868F91E0-35DC-4231-A80F-38C0F3E5FB7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149345$8C4A1038-B935-47B1-BE4C-D1DBAB40CCE8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1355-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f84de8b876814173c76dca34ef78164401287846",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149345$2C1B2F54-0617-4688-96FC-1C6D9FA50211",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1377-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c23b786063de0e703cc688888cebbf617b57587d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149345$A80EE395-9F14-48D3-87AE-8B9898C0FFD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75960708"
+          },
+          "hash": "f135a8506e9ed1be25a429bb381a14c14514f0da",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149345$12F08B99-99B5-4CEB-AFB4-895D53EFBA5A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice de Greystoke Arms.svg"
+          },
+          "hash": "135ccf8410699b961d1a956488a27da82c7991a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=431843"
+    }
+  },
+  "id": "Q149345",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alice de Greystoke"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alice de Greystoke"
+    }
+  },
+  "lastrevid": 17575186,
+  "modified": "2025-09-17T16:04:10Z",
+  "ns": 860,
+  "pageid": 177798,
+  "sitelinks": {},
+  "title": "Item:Q149345",
+  "type": "item"
+}

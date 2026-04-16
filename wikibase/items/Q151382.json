@@ -1,0 +1,376 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Quintus Fabius Maximus Allobrogicus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151382$0A60DAFB-4A08-4CED-9745-D05016E1BC3F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735628"
+          },
+          "hash": "3426e5f143b9b03321f5ca0ca3323524babf9bee",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151382$F0AC2637-6B53-4FF6-88B3-91D9BAF286B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148089",
+              "numeric-id": 148089
+            }
+          },
+          "hash": "986a80d277bea03205a0b32b878b43ee8c78fced",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151382$4D1A1453-35B6-49DA-B4A5-74F47AB7F9BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151382$0C024A4D-A53E-48C2-9BD3-3A1B85FC5C39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151382$6DA2476D-E1FF-435B-B116-48ED17BB9023",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus_Fabius_Maximus_Allobrogicus_(1)"
+          },
+          "hash": "0fdf4f3a3437d1e727ccb9cb885ba1976cd0ceaf",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151382$AFC8E40B-4180-41D3-A7C0-8132D7AD50DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151488",
+              "numeric-id": 151488
+            }
+          },
+          "hash": "23ea0360335b24ea2f5c66f00f3f69bb7f7f5dd0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151382$6900822A-ECC6-4F45-B27A-2244A9B47404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151382$669F7AB1-AB6A-47C5-893E-8C78389F1BF4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0164-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "edb49156e102422453c785c0f1c0d49c00cb0ca9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151382$2EC863EE-5C12-410C-9F4F-7048FFDB9E8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q720836"
+          },
+          "hash": "5209a80b8f3f2b90a0c10dd1239daa53c2058060",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151382$668D91D6-89BC-4DA3-81B9-1B2081A44BBC",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Fabius Maximus Allobrogicus"
+          },
+          "hash": "0e4d7504944304006fa314d4fb0290406e2e4805",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151382$CFC4C703-CA31-422F-8574-AAB572B99779",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Quintus Fabius Maximus Allobrogicus Arms.svg"
+          },
+          "hash": "ea030ffbc57edda96c82950b218ea59e91746f1f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 121 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 121 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "politico e generale romano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パトリキ出身の共和政ローマの政治家・軍人"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (200v Chr-200v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q151382",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Квинт Фабий Максим Алоброгик"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quint Fabi Màxim Al·lobrògic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Quintus Fabius Maximus Allobrogicus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόιντος Φάβιος Μάξιμος Αλλοβρογικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Quintus Fabius Maximus Allobrogicus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Quinto Fabio Máximo Alobrógico"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Kinto Fabio Maximo Alobrogiko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Quintus Fabius Maximus Allobrogicus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Quinto Fabio Máximo Alobrógico"
+    },
+    "it": {
+      "language": "it",
+      "value": "Quinto Fabio Massimo Allobrogico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クィントゥス・ファビウス・マクシムス・アッロブリギクス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "퀸투스 파비우스 막시무스 알로브로기쿠스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Quintus Fabius Maximus Allobrogicus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Quintus Fabius Maximus Allobrogicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Quintus Fabius Maximus Allobrogicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Quinto Fábio Máximo Alobrógico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Quinto Fábio Máximo Alobrógico"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Квинт Фабий Максим Аллоброгик"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kvint Fabije Maksim Alobrogik"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Quintus Fabius Maximus Allobrogicus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Квінт Фабій Максим"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昆图斯·法比乌斯·马克西姆斯·阿洛布罗吉库斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "昆图斯·法比乌斯·马克西姆斯·阿洛布罗吉库斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "昆圖斯·法比烏斯·馬克西姆斯·阿洛布羅吉庫斯"
+    }
+  },
+  "lastrevid": 17579202,
+  "modified": "2025-09-17T16:59:18Z",
+  "ns": 860,
+  "pageid": 179836,
+  "sitelinks": {},
+  "title": "Item:Q151382",
+  "type": "item"
+}

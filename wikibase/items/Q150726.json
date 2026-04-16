@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir John Williams, of Burghfield"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150726$24A4A4BE-9C4E-492B-B386-0ACAEB1DEAC8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00198917"
+          },
+          "hash": "1efba62ed799efebb326b198c79d1bedad42ab2c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150726$8F2DD7B9-0ADB-48D5-958C-A3B9736280DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Williams-5439"
+          },
+          "hash": "cf6f134e218d213b2ea06cdea60268f131f81824",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150726$97AF7FA4-CCA9-4626-A760-477A719BC30F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150726$B0766D7C-50F7-42A5-A484-0F9B51D45FF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150726$7DDE2EAE-FBFD-47C0-B42A-A592A17AC2C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146093",
+              "numeric-id": 146093
+            }
+          },
+          "hash": "f7beac8d8edee1e0a0c2a8b9a607afc904be36cc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150726$872A3657-09CC-4634-9323-332588DD0AA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150726$DE334113-D3D0-4CB6-BA12-F5DE3778E2AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1469-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f21a8ba3268314f81778b0745798946473b17116",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150726$FF9D5E29-9078-4D05-925C-81F57C3F095D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1508-06-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3e27a701be778ed0e86b45bb2e9cfe0ddec68e25",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150726$80B4CD38-3DDA-480D-B124-06762766FF3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q112606900"
+          },
+          "hash": "f1f4a786864715a05980a0d44646b43bb71f1656",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q150726$7C5FDABA-030C-4FA6-A703-8AC55E902EDC",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Williams, of Burghfield"
+          },
+          "hash": "5c1b2af45cd01c77be7d557d47942a4ff74844a7",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150726$A2B47550-E3ED-41F1-8560-95A6997C1CA2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir John Williams, of Burghfield Arms.svg"
+          },
+          "hash": "37dce33ae0687c1336bcb51f1c8693a260e9bb43",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Glamorgan, Wales - 15 Jun 1508"
+    }
+  },
+  "id": "Q150726",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir John Williams, of Burghfield"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sir John Williams, of Burghfield"
+    }
+  },
+  "lastrevid": 17577934,
+  "modified": "2025-09-17T16:41:34Z",
+  "ns": 860,
+  "pageid": 179180,
+  "sitelinks": {},
+  "title": "Item:Q150726",
+  "type": "item"
+}

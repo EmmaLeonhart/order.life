@@ -1,0 +1,266 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Taronites"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147577$5ED7BD0F-DF1A-420D-9690-5FAE375AEDFA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00799575"
+          },
+          "hash": "c2ac2134853120308749280cd17f9dc28eee2019",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147577$6DF254B2-893E-49CF-86E0-A4BE3F800D3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147577$A6FF9019-DC83-4032-A02B-2097FC2523B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147577$62AC9289-5FC6-46FF-923A-8942C7291A44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147575",
+              "numeric-id": 147575
+            }
+          },
+          "hash": "316612b722b220a8ed6543a91710a96a1c04e875",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147577$1AC755A7-F9CE-408E-9CA2-0D962F6D9A93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143833",
+              "numeric-id": 143833
+            }
+          },
+          "hash": "f9bace786e7bef4ac6bfc43bf07236a7234d380a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147577$F794C291-A8BE-450E-8F8F-D7CBC8527344",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147577$89D4B838-DFCE-4D4D-ABD1-74A4A8F7D037",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1067-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b15d9d9e0c46f74b572bfb249c35082df84872ad",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147577$6F04515B-CFF5-4483-91E7-ED5446B4F63F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28089044"
+          },
+          "hash": "36f7f57f5e10cba7e19bd12739d5fad46bb36753",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147577$13C94491-5183-418A-894D-0577BA46D8CF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Taronites Arms.svg"
+          },
+          "hash": "be44b95e6b3874841ab8a922350a143350498cb3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Byzantine aristocrat"
+    }
+  },
+  "id": "Q147577",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Таронит"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan Taronita"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Ταρωνίτης, σεβαστός"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Taronites"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John Taronites"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John Taronites"
+    },
+    "es": {
+      "language": "es",
+      "value": "John Taronites"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni Taronita"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Taronites"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Taronita"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Taronita"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Таронит"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John Taronites"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Таронит (севаст)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰·塔罗尼特斯"
+    }
+  },
+  "lastrevid": 17572244,
+  "modified": "2025-09-17T15:23:31Z",
+  "ns": 860,
+  "pageid": 175881,
+  "sitelinks": {},
+  "title": "Item:Q147577",
+  "type": "item"
+}

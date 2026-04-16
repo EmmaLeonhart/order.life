@@ -1,0 +1,252 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Radelgar of Benevento"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147885$5E2D5BAF-4AE5-4445-96AD-4CB975913092",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147885$D48B8DEF-3DA2-4D25-B609-F1C3695CF384",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147885$3F033BB2-61D7-473C-A2CB-1AC580ACAEB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143965",
+              "numeric-id": 143965
+            }
+          },
+          "hash": "807e7a9b8a8a692e15aca3a49e361dd3d49fadab",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147885$F2027020-53BD-412A-9C60-D5671927BA63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147885$28726365-FA35-4EB8-AC39-1626571761D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147885$76C83943-8882-4920-9D9E-2A86A23A2C31",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0854-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c02ee98a2a3a1ae13d5996cf8c4710c9254a7f3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147885$2E0CC712-2F30-439C-BEBF-2246DA22F2A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2423073"
+          },
+          "hash": "daeafe7e703762eb04b353ab4046c0397e259abc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147885$0A21C1F8-03AC-448D-AF6F-CFC046E8C583",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Radelgar of Benevento Arms.svg"
+          },
+          "hash": "4e64d8e7ed43f86c01e4820f85c861370521ff8b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Prince of Benevento"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe longobardo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Князь итальянской коммуны Беневенто"
+    }
+  },
+  "id": "Q147885",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Раделгар"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ράντελγκαρ του Μπενεβέντο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Radelgar of Benevento"
+    },
+    "es": {
+      "language": "es",
+      "value": "Radelgardo de Benevento"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Radelgaire Ier de Bénévent"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Radelgardo de Benevento"
+    },
+    "id": {
+      "language": "id",
+      "value": "Radelgar dari Benevento"
+    },
+    "it": {
+      "language": "it",
+      "value": "Radelgardo di Benevento"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Radelgar of Benevento"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Radelgar de Benevento"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Радельгар"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Радельгар"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拉德尔加"
+    }
+  },
+  "lastrevid": 17572540,
+  "modified": "2025-09-17T15:27:29Z",
+  "ns": 860,
+  "pageid": 176033,
+  "sitelinks": {},
+  "title": "Item:Q147885",
+  "type": "item"
+}

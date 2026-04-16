@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Neville, of Scotton"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149664$FB8996E9-758C-45DF-BB42-B17D347836D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00546867"
+          },
+          "hash": "14560b0d3b09a2e3a9c1d93826a61517d4d0505c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149664$3FB966B5-6958-4BBB-B5FC-A8F06162AE58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145300",
+              "numeric-id": 145300
+            }
+          },
+          "hash": "8359628deb058da9c15ddc320ceea191312ef9e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149664$0A21BBFF-E42A-4AB7-A6B0-274A0485FCD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149664$47975FF5-B868-48E5-91AF-34595395FA1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149664$5E560169-09B9-4B6B-8160-F625D1420423",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142344",
+              "numeric-id": 142344
+            }
+          },
+          "hash": "0f73135246698e7bad37e45c0478dbdb0f9271d0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149664$DF75ACC3-67C2-41A5-B219-2947E9E53F53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149664$CD1AED5B-F250-4EA3-821F-B11011A6FFC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110611773"
+          },
+          "hash": "f17659c752300d725009ee0a0284d335aab030ca",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149664$6E6B791A-3B38-4E98-A0E2-156EDF2AF0BE",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Neville, of Scotton"
+          },
+          "hash": "c5251acc779300a7afa6c0966a8059626e572df9",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149664$9CF2F3D7-C715-4601-A111-896F2D2E60D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Neville, of Scotton Arms.svg"
+          },
+          "hash": "28058f03584c42aa6ec71c6da43a41d20b110833",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q149664",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert de Neville, of Scotton"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Robert de Neville, of Scotton"
+    }
+  },
+  "lastrevid": 17575820,
+  "modified": "2025-09-17T16:12:58Z",
+  "ns": 860,
+  "pageid": 178117,
+  "sitelinks": {},
+  "title": "Item:Q149664",
+  "type": "item"
+}

@@ -1,0 +1,148 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Septima Secundina"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q151450$982C0CBB-91C4-425E-A6C5-FC12A7F0A8DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151450$CAC65476-FE17-4716-83CD-15A01FA487FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151450$F5146A86-BA2C-4D0D-9F55-7D689450CF04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151449",
+              "numeric-id": 151449
+            }
+          },
+          "hash": "7d0500b0743f71d8237738b721d36b987675b4e3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151450$13B9BD10-6E9E-4614-A59D-6A9FD7422D4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151450$724EFA58-A9C3-425F-B06C-CB7C7A049B85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q121302991"
+          },
+          "hash": "11438489a9116618ba74429f033d122e1e50166e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151450$162A67BD-2425-43A8-BDBF-233797E3016D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Septima Secundina Arms.svg"
+          },
+          "hash": "7de6c768ac5b07346d5e2b657df58d585aa18041",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1st-century Roman noblewoman"
+    }
+  },
+  "id": "Q151450",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Septima Secundina"
+    }
+  },
+  "lastrevid": 17579326,
+  "modified": "2025-09-17T17:00:56Z",
+  "ns": 860,
+  "pageid": 179904,
+  "sitelinks": {},
+  "title": "Item:Q151450",
+  "type": "item"
+}

@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Rumilly of Skipton"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147294$56EADC57-F2D1-4CC6-AC8A-102161ACC788",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00076169"
+          },
+          "hash": "ee2d9a391db89a0b5064437548ae35f9b0a078fb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147294$5153E64C-26A2-4F46-8EBF-777FB313EA18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143749",
+              "numeric-id": 143749
+            }
+          },
+          "hash": "96ca9895c2fdd7e2300871cf8b7528542ef901f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147294$104F0863-C948-444E-BFD8-07D37DE498F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Rumilly-2"
+          },
+          "hash": "88151fd16aa579655235df1b63dd189383364519",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147294$6E9DCD32-16AD-4852-BF87-5D75C02CB3A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147294$5F25E0A3-9DD6-4FA0-847E-AAB615816B8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147294$5E9B05A6-46F1-4F3C-9CD2-BF889D121609",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p4894.htm#i48940"
+          },
+          "hash": "36c57fe1076fdbc0d5d57d35ac574038b011ada7",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147294$F5E31F24-5B4C-4A21-B0BA-D183187F6C0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147294$86C23D78-3257-485D-A9F0-1404C908173B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1070-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "24abcd82243d0d34b9614e488988bf619d6e4e2c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147294$7CFE9EA7-5AF8-4945-89F5-E8DACFE37D0C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1096-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de1d58ae982da70890b283bf2388f0c692ecd077",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147294$B5D59B60-35C5-4928-A194-CC17B6FD2DC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q56526180"
+          },
+          "hash": "9926b8e127d591823f354535c71b36d2ee74d317",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147294$8002F53B-691A-46E0-9B66-88BBD6B8D936",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Rumilly of Skipton Arms.svg"
+          },
+          "hash": "6237f985d9f71058d69aeb8b4e8e904b1b146d1e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Anglo-Norman nobleman"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "англо-нормандский аристократ"
+    }
+  },
+  "id": "Q147294",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Robert de Rumilly of Skipton"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert de Rumilly of Skipton"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert de Rumilly of Skipton"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert de Rumilly of Skipton"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Роберт де Рюмильи из Скиптона"
+    }
+  },
+  "lastrevid": 17571916,
+  "modified": "2025-09-17T15:18:52Z",
+  "ns": 860,
+  "pageid": 175679,
+  "sitelinks": {},
+  "title": "Item:Q147294",
+  "type": "item"
+}

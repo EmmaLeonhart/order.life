@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anne Blount"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150342$4DDC3705-528B-4FAF-9902-EFD7654E43AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00433078"
+          },
+          "hash": "802e2c58c681037fa754c554900111aa7c74a87c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150342$DBB40E7E-D04B-4B9A-9927-191BF82AF5D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145805",
+              "numeric-id": 145805
+            }
+          },
+          "hash": "0dfd9a23a471aaa0bb546843ddaea8b1153d7b4d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150342$C56734B3-5760-43C1-9EB4-7167D36EDE7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Blount-118"
+          },
+          "hash": "e8c2909eae1430ad8a1cb11ef43e2deb5c5eb4f7",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150342$0A88F43A-BA00-465B-9F41-044A63E34051",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150342$9C516089-8C4C-48BC-BD5E-7C543E944D56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150342$082227B5-3877-4E5C-9E3E-D2B0417BFC08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142698",
+              "numeric-id": 142698
+            }
+          },
+          "hash": "455520f1cadc4a48ca27d87b2ced4816cfbb672b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150342$31198700-BB97-4E31-8A25-C2C164F78E44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150342$8C517C23-7C29-4FC2-A0D7-C5B1D396B7A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1386-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f03716c2152f6d321eb7310957ae026d4caf7d97",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150342$9B070CD8-CBD3-48AE-9398-01B26C7356FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1415-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2762d13bc3b702320e7d1f96578032463f84a4d7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150342$A290A0D0-8B24-42E7-8041-ED589BFF03F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104473608"
+          },
+          "hash": "0ac9dc7db0058daba24d42d95bebf7711fa373c2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q150342$F05C2FF4-69B9-49E4-BE1E-DC3EDEC5D160",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Anne Blount"
+          },
+          "hash": "e297decf2fb53bedb39223907f8ab9ccf1178253",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150342$D9468C53-812A-45E8-88FF-912E693320CC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anne Blount Arms.svg"
+          },
+          "hash": "fd618500311dc062c2d67ecae1b79e5f35c44c2b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1386 - 1415)"
+    }
+  },
+  "id": "Q150342",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Anne Blount"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Anne Blount"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anne Blount"
+    }
+  },
+  "lastrevid": 17577168,
+  "modified": "2025-09-17T16:31:06Z",
+  "ns": 860,
+  "pageid": 178795,
+  "sitelinks": {},
+  "title": "Item:Q150342",
+  "type": "item"
+}

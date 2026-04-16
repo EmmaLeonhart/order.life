@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William Marshal"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149280$A7E7E826-EF23-420C-A023-6CF61943F72B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00174774"
+          },
+          "hash": "b2a1ba3c060ec269fd238cb291bee9dbe8e6310d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149280$8A142DB9-3EB5-4679-9251-493A83D184A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149281",
+              "numeric-id": 149281
+            }
+          },
+          "hash": "e4518bd86d6ae3ed14b99469257383c0a260985e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149280$DBBA29A9-A640-4B56-9000-A18B9CC08D4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149280$365F2EEC-7272-42FE-8573-CD489059600E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149280$631A7716-5D4E-4B9B-938B-7DAFDD3F1744",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145097",
+              "numeric-id": 145097
+            }
+          },
+          "hash": "0fab5ac07a7aa85e7a6bf3f11840a74305cd5212",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149280$A4CCAD9E-4A56-4EBB-9E0A-026C6486500B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149802",
+              "numeric-id": 149802
+            }
+          },
+          "hash": "5b11202f9fc295eac1eb609babe9f00d1dcf0cf7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149280$F3B1C3C0-FC99-426C-A437-6DC64AE0EFBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149280$39D6952E-12E1-4175-A56D-2F273BED8A8D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149280$A690AE31-FF0F-45F3-BDCD-ADFEDC171422",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1265-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98f2c82ac9ebbf72b0835403deef2ae4e8120e28",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149280$25D22F68-AEA2-4A94-A34A-54FB4FB43C0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24008616"
+          },
+          "hash": "eddbca11d78b25b22af6d63c4150e6b77506dcb7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149280$41461E00-3983-43FD-A5DE-CD469B2F4648",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William Marshal Arms.svg"
+          },
+          "hash": "fb9ebb2b8334e875e777303f62e2a94c1edf7433",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger und Rebell"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "барон, участник Второй баронской войны"
+    }
+  },
+  "id": "Q149280",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "William Marshal"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "William Marshal"
+    },
+    "de": {
+      "language": "de",
+      "value": "William Marshal"
+    },
+    "en": {
+      "language": "en",
+      "value": "William Marshal"
+    },
+    "es": {
+      "language": "es",
+      "value": "William Marshal"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William Marshal"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уильям Маршал"
+    }
+  },
+  "lastrevid": 17575056,
+  "modified": "2025-09-17T16:02:25Z",
+  "ns": 860,
+  "pageid": 177733,
+  "sitelinks": {},
+  "title": "Item:Q149280",
+  "type": "item"
+}

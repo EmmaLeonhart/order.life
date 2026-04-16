@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Giscón"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151335$E3FD6DA1-B214-4A6B-8B74-5ACD9E71C31E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151325",
+              "numeric-id": 151325
+            }
+          },
+          "hash": "ca14ad8a8ba1c6edb2deae938b27c49e622d9307",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151335$CC152499-315E-4A70-88FC-E388A41F6679",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151335$896170D8-1724-41E8-B790-542DAC34F4B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151335$73AE453F-2DA8-4BDF-98C9-256C36BF3214",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151335$0686AFD3-83E2-4A91-BFA4-5F66441030E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0239-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8725442ac21c2a86589000efe63324fed97f3433",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151335$FF035274-730A-4E29-9ACB-4B6083883F40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6439549"
+          },
+          "hash": "52e3028059ae5284d1292f9e4350f088c6bc7528",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151335$60027EFF-C945-41B2-BCEC-3202D2654E33",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Giscón Arms.svg"
+          },
+          "hash": "b5973cf2ba6d94d942b884472de0f56390758f49",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "general de la primera guerra púnica, pare d'Hasdrúbal"
+    },
+    "el": {
+      "language": "el",
+      "value": "Καρχηδόνιος στρατηγός"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Carthaginian general active 241-239 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général carthaginois"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q151335",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Giscó"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Giscó"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gisco"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γίσκων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Giscón"
+    },
+    "es": {
+      "language": "es",
+      "value": "Giscón"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Giskon (K.a. 239an hila)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Giscon"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Gisko (ferstoarn yn 239 f.Kr.)"
+    },
+    "he": {
+      "language": "he",
+      "value": "גיסקו"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gisco (wafat tahun 239 SM)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giscone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギスコ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gisco"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Giscão (morto em 239 a.C.)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гискон"
+    }
+  },
+  "lastrevid": 17579120,
+  "modified": "2025-09-17T16:58:12Z",
+  "ns": 860,
+  "pageid": 179789,
+  "sitelinks": {},
+  "title": "Item:Q151335",
+  "type": "item"
+}

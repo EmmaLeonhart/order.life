@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rycza"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147141$FFFAB22F-54D7-4403-A675-FC0FDA79ADA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00200416"
+          },
+          "hash": "63471079b8610d8c879bd0dc1174148a77800d4e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147141$D278C5DB-B0E5-48CB-A2FB-B759C430B65E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147141$B390ED52-8233-48DA-84C3-5A2AB2392CF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147141$82C84F44-2E8F-4B24-B44B-369FB3E0F284",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128143",
+              "numeric-id": 128143
+            }
+          },
+          "hash": "3ac3d14b62a7d9a98c4f17fdd501bfacef756a86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147141$FCDF4DF1-BB9C-41F3-ADC3-9B50EFDBD14E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147133",
+              "numeric-id": 147133
+            }
+          },
+          "hash": "261460039a7189f9f6748d22dbfadb6e07c3da6e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147141$746CAF28-BFFB-488E-9EC1-2C0777B66FED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147141$5DFD9575-3E57-47DE-ACFD-7891E0CC026E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1236-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ff0b28c5a620fd299344a8f6c2c48ebb90756618",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147141$8CF7221F-AB74-43C8-B4FE-56A8C35BEA7A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1309-10-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d38d303624f7fef9d3db9d61e1448eb85bd05d3b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147141$956DCC01-E918-45C2-8A6F-213051C31FAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116030500"
+          },
+          "hash": "e3eab52d0ba60ddbe9aeabd789a12ebd422a6a9e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147141$004E924B-74A5-4210-88BF-3E5AE61959C5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rycza Arms.svg"
+          },
+          "hash": "da666d035fb50ef967d53516686b53efeecfda81",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q147141",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rycza"
+    }
+  },
+  "lastrevid": 17571654,
+  "modified": "2025-09-17T15:15:18Z",
+  "ns": 860,
+  "pageid": 175526,
+  "sitelinks": {},
+  "title": "Item:Q147141",
+  "type": "item"
+}

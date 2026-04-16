@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Conrad II of Dhaun"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147990$B6B8ED3C-EA05-4748-92DB-47480A797549",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00164597"
+          },
+          "hash": "02bea53d99b2b1cc67c0b8dfd4e67e504c7480f8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147990$25708A7A-4C68-4C00-9213-2F00E4BC6860",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144002",
+              "numeric-id": 144002
+            }
+          },
+          "hash": "8a9eddec05951833ab20dba4b7cbd9056c5981d0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147990$78AD287A-96B9-44F1-B275-E6A8A3F0D58F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wildgraf-1"
+          },
+          "hash": "bdf9da53aa634ced3b293efb77ed78a34318cbeb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147990$94087C51-45A5-41C4-AFD1-8DFCEF255CBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147990$9469B33B-CFFF-4458-8490-E4936CC81B93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147990$94A4B260-03F8-4088-9808-9BFC4B27993D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147992",
+              "numeric-id": 147992
+            }
+          },
+          "hash": "ea8fcbb09b31d01cd243ed33ea0c589e2a091ef9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147990$CBAF1862-F3D3-48AB-BC86-1E86A1D49CB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125182",
+              "numeric-id": 125182
+            }
+          },
+          "hash": "9b846e9698e8977e99ae5bd945f52b618ffbe50b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147990$C611C142-9ABD-4B3F-BC57-1AEAB47C1DBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147990$54A89BBE-9BA0-433A-AA4F-4A8A2CE82E42",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147990$F00AE2FF-885E-4636-B005-01341C956BCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q61141012"
+          },
+          "hash": "7256e73babf1829cd8995deede1c69045f20a0aa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147990$33151236-7D60-4646-AB12-4312CB6112EC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=konrad;n=von kyrburg"
+          },
+          "hash": "1516f94699296031974e17bfcb07c43a2d5b33b0",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147990$75D01C13-93F8-4B52-975A-4406BC3EE4D4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Conrad II of Dhaun Arms.svg"
+          },
+          "hash": "781fb1e69b1314c1c13f0a3a1ed93a4b7b31791b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1263"
+    }
+  },
+  "id": "Q147990",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Конрад II фон Даун"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konrad II von Dhaun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Conrad II of Dhaun"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koenraad II van Dhaun"
+    }
+  },
+  "lastrevid": 17572642,
+  "modified": "2025-09-17T15:28:52Z",
+  "ns": 860,
+  "pageid": 176085,
+  "sitelinks": {},
+  "title": "Item:Q147990",
+  "type": "item"
+}

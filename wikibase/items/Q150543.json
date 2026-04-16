@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Roger Bodenham"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150543$65C595C5-6A5D-4E08-A52F-7DF121101B42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738962"
+          },
+          "hash": "033b328dce58201d058f983064a4ce9d74b33223",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150543$F5F2CE68-7100-47F8-9F63-842DBB5DCFE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Bodenham-5"
+          },
+          "hash": "c0923fb763179555ee82e42bdd107ceeddaf1993",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150543$CF91ECF9-76E4-45E1-9CE0-CDDE8897AE2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150543$1B3FF358-C7F1-4927-90D1-94DE32520CC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150543$DE68D76B-0594-4AD7-BD47-FC52D038B001",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p47161.htm#i471604"
+          },
+          "hash": "efa856616a743cb32b49602e056c7ed8af4c1650",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150543$DA49E746-A143-469B-8530-20FD79A95C1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145959",
+              "numeric-id": 145959
+            }
+          },
+          "hash": "8cd8f15aa9a8f97e9929f89af75f8b5b6b09d3c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150543$1A9B2470-BC1D-48A3-BCC3-419FDECA8BD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150543$DAB2C12C-69FE-4E43-BBD5-40B4EA3748ED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1512-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aacfe8668a7f6208537184c04991b5ce78406eb8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150543$1565FCD0-E65E-4175-965F-B5484286246A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1579-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a2d8d4ce8427a8a65b6053ad0e6a358f2b22ed9f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150543$3AB9AD4A-8ADE-4987-81EB-B1C31949DB18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76019008"
+          },
+          "hash": "b7e1e7ff04f2566b5282b86d59b0fa62a324dba0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150543$723273E6-55B1-490F-BD36-63579F1BC248",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Roger Bodenham Arms.svg"
+          },
+          "hash": "8f61d635ba8554be6300593e65dab24f483e9e96",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=471604"
+    }
+  },
+  "id": "Q150543",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Roger Bodenham"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Roger Bodenham"
+    }
+  },
+  "lastrevid": 17577568,
+  "modified": "2025-09-17T16:36:20Z",
+  "ns": 860,
+  "pageid": 178996,
+  "sitelinks": {},
+  "title": "Item:Q150543",
+  "type": "item"
+}

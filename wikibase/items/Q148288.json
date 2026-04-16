@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vibia Matidia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q148288$707719F5-66D6-4B18-A8FA-4CE5C745F0B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148288$56FC0849-2AC8-417F-AA7C-7FE281FF78A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148288$3D8F3F7E-0A8F-46E0-9A0E-5AC6DC8E3876",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148301",
+              "numeric-id": 148301
+            }
+          },
+          "hash": "0683ad07319358dacab63ec73b0bdd11aff27617",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148288$C29026B6-02B0-4997-9F39-9EDD5F77A12C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148196",
+              "numeric-id": 148196
+            }
+          },
+          "hash": "11ec6c9be3fe3a394f478cdb6ed3d2d442d4849a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148288$02FC735F-5BE8-4916-A1ED-2C1EAF1C1154",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148288$064EFCA5-7839-4B55-90D8-EF8084CAA1C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55aa545168bc6f261b176e92922d351c65bd390f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148288$A22005A2-F3CB-4C15-94B6-516DAC33D2DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126098955"
+          },
+          "hash": "bed5a8e60c8c2e71ae07abcc20d035f9897e5875",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148288$CF0EF73F-67E5-4F32-9238-951668FDBF1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vibia Matidia Arms.svg"
+          },
+          "hash": "b4aa09c54aa5f1a60307c7476ccb6529b62c0dfd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "sister-in-law of Roman emperor Hadrian"
+    },
+    "es": {
+      "language": "es",
+      "value": "hermana de la emperatriz Vibia Sabina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "belle-soeur de l'empereur romain Hadrien"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana"
+    }
+  },
+  "id": "Q148288",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Vibia Matidia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vibia Matidia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vibia Matidia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vibia Matidia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Vibia Matidia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Vibia Matidia"
+    }
+  },
+  "lastrevid": 17573154,
+  "modified": "2025-09-17T15:35:59Z",
+  "ns": 860,
+  "pageid": 176741,
+  "sitelinks": {},
+  "title": "Item:Q148288",
+  "type": "item"
+}

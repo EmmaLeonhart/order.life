@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Visellius Aculeo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151624$BC89A3DD-738A-4A00-A561-6DA681CB93AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151625",
+              "numeric-id": 151625
+            }
+          },
+          "hash": "61d26806fc159cf98ea2e79b2d0002171070888b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151624$67EAC503-B040-43CA-8A72-A3DE9F99D727",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151624$C8F7D6FF-5964-4BB5-9B1E-9575AE855DAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151624$AEC88E79-A9C6-4E2F-9296-7E74E8F0F06B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151515",
+              "numeric-id": 151515
+            }
+          },
+          "hash": "a7c9559c23478b90aa8db3427cd1f57a721805ef",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151624$FF4A0E7B-6D06-4857-8EAE-69BA8BFF9D3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151624$8A791840-CADC-4D68-95E3-0F330C66246C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151624$001C32F7-39BB-4133-8583-53042A650984",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5517406"
+          },
+          "hash": "9b428b0375c23b71b5367a94a8232e4ec5a796c2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151624$6E140575-8891-45C2-B390-76196A8F5D11",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Visellius Aculeo Arms.svg"
+          },
+          "hash": "3d133632e942f62e68b2cf2bc34f2cd09944eb83",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman knight"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposo de una tía de Cicerón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "chevalier romain"
+    }
+  },
+  "id": "Q151624",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Виселий Варон Акулеон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Viseŀli Var Aculeu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Visellius Aculeo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Visellius Aculeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Viselio Aculeón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Visellius Aculeo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Visellio Varo Aculeio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Visellius Aculeo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Aculeo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Виселий Варон Акулеон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Visellius Aculeo"
+    }
+  },
+  "lastrevid": 17579622,
+  "modified": "2025-09-17T17:04:53Z",
+  "ns": 860,
+  "pageid": 180078,
+  "sitelinks": {},
+  "title": "Item:Q151624",
+  "type": "item"
+}

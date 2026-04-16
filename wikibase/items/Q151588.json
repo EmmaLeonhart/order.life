@@ -1,0 +1,330 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Claudius Centho"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151588$0250EFC0-7EDF-4258-932B-45550B04CD62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "523931"
+          },
+          "hash": "a735955fc744bca34881ae31afd75b16ae5209e2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151588$9FA8731B-9D99-4488-BA5A-AEBE357D0E28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151679",
+              "numeric-id": 151679
+            }
+          },
+          "hash": "95f0bd2a1c168fe63300563506992796832c1006",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151588$7E7A0BA4-D015-4CBF-8766-06B7DFC4B698",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151680",
+              "numeric-id": 151680
+            }
+          },
+          "hash": "0db679af2d829b730e1e19b8e381c4b8abd39721",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151588$406AEC83-C625-4B7E-AA52-DCEA23FCA3D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151588$95CEC641-E459-4435-9E82-50BF474FCC3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151588$ABF86CE6-3D84-4D9A-A116-6C5828A7AE78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73677",
+              "numeric-id": 73677
+            }
+          },
+          "hash": "1daa91bfb47b0a24b78a8b00dde9dc0e11580252",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151588$EACFB754-7705-4DCD-BA8A-A8CA88FF4EDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73680",
+              "numeric-id": 73680
+            }
+          },
+          "hash": "9a365fc8296fa24b5a9cf5983e2a96269cd327d3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151588$642D6E02-21C8-4D8A-A43B-3991FC38CE64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151588$466DB3B8-167E-44CE-8081-92C31A4538F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151588$8F30A465-7CA6-40C5-80F6-39F75D729708",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1499768144a70e82ec71698e222238d1443a9064",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151588$5125DFD7-C73C-4697-997C-05B2307A9B8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q179824"
+          },
+          "hash": "2784a9f2790d968a3a195b2335287f4af81d2b6d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151588$448C5494-2A47-4B80-8288-2732BFEF6270",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Claudius Centho Arms.svg"
+          },
+          "hash": "37a071f24b318275cf8f7361774bd3ef9510ea02",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Legat 200 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "legatus during the war against Philip V of Macedon"
+    },
+    "es": {
+      "language": "es",
+      "value": "político de la Antigua Roma"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "légat romain en Achaïe en 200 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Oude Rome (-)"
+    }
+  },
+  "id": "Q151588",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Клавдий Центон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Claudi Centó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Claudius Centho"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Claudius Centho"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Claudio Centón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Claudius Centho"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Claudio Centone"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Claudius Centho"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Claudius Centho"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Клавдий Центон"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Claudius Centho"
+    }
+  },
+  "lastrevid": 17579570,
+  "modified": "2025-09-17T17:04:11Z",
+  "ns": 860,
+  "pageid": 180042,
+  "sitelinks": {},
+  "title": "Item:Q151588",
+  "type": "item"
+}

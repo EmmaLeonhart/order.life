@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhys Griffith"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150344$FFA6F139-A7C3-4C96-A5D2-DA8EBBC29193",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00565272"
+          },
+          "hash": "19bb5439677a9248dd6b094031ee4f1e91d73fc9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150344$445BEC9D-7478-4E6C-BE58-4087E87D5F72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Griffith-2766"
+          },
+          "hash": "df291b71f03f8ccfc31b1103c92290fabb7cf5aa",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150344$697732AD-92EF-42B8-A4A3-938B56F0301E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150344$FE2983A4-D5F4-42E0-A77F-EAC157706376",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150344$43FC3514-D376-421B-A369-EEA66F195C30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145805",
+              "numeric-id": 145805
+            }
+          },
+          "hash": "3af1fc21ed9bd89e063d004d4142aee33c9a7754",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150344$D3B92796-3027-443D-BA87-B9796465D7C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146114",
+              "numeric-id": 146114
+            }
+          },
+          "hash": "92a632856151c896f41d2e94f7db568855c0bb2a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150344$3B16C72B-7CE4-4BE4-BB4C-D1191D6472F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150344$2A337C4D-5988-40DC-BF4F-9E6F34A7A2CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1425-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "82b7929ba98e4b8954842e87bf8895e25953036a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150344$B3179212-EBC4-40E3-A27A-EAA7A225DC44",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1488-10-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "35441abcc79b7fe9818b94d4ad08e559fa6a8898",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150344$88203224-0276-47E7-B3AA-79748431C993",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111505552"
+          },
+          "hash": "f03efec3cc31bec019a34ce5ee187a684ca248db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q150344$5C103526-DBE0-4FB1-97E4-2F626A62417B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhys Griffith"
+          },
+          "hash": "e614e523381ac092fa12328c123c032ce2749254",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150344$F13B7C7E-8BC1-4011-BF82-5873A4076DF4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhys Griffith Arms.svg"
+          },
+          "hash": "557d20dbea67db81bfd72183f978f1ab8da6755e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 8 Oct 1488"
+    }
+  },
+  "id": "Q150344",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rhys Griffith"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Rhys Griffith"
+    }
+  },
+  "lastrevid": 17577172,
+  "modified": "2025-09-17T16:31:09Z",
+  "ns": 860,
+  "pageid": 178797,
+  "sitelinks": {},
+  "title": "Item:Q150344",
+  "type": "item"
+}

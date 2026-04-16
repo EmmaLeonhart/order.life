@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Antistius Vetus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151433$1B5708F5-BB74-41B4-B12E-4C5FCC064C8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151559",
+              "numeric-id": 151559
+            }
+          },
+          "hash": "72a0c2956730d673ac9e1a6e76c609785bb54713",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151433$6F71E18C-7365-4BA4-95B4-2BFC380E315F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148186",
+              "numeric-id": 148186
+            }
+          },
+          "hash": "af6131c2ca7bc7c98810968f56091beadd77650b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151433$54901168-BA7E-4077-933C-2225E1362279",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151433$FBBECA42-DFBA-4E49-9CC2-454694447CC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151433$1B7B3572-3AB3-42BD-8A26-2ED97891A740",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151558",
+              "numeric-id": 151558
+            }
+          },
+          "hash": "d8c8d00a3113e0286476aca31e093f24a99f667a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151433$319D2AAB-1E84-4519-8545-C72AC2A85484",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151433$664AF285-2152-427D-B763-2D515D8D5059",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0040-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a00ed194fc4ca6297a6f807647adfb17b769f01f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151433$C457360B-4C87-4C4C-8AE2-645F4C31D6A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aeadc470c76de18d73f3b016a929b758575aa3fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151433$5C9DAB7E-8ACB-4EA5-A057-E2C0A8D87EC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q548832"
+          },
+          "hash": "02aab43c4d805366799039df1c77436725d45b31",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151433$3FFE1F64-4440-4A4A-A5F9-5AE043D330CF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Antistius Vetus Arms.svg"
+          },
+          "hash": "77e1f78eb40b328347be728f763cfc44401718ce",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 6 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 6 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 6 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 6 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "console e generale dell'Impero romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (40v Chr-1)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "государственный деятель"
+    }
+  },
+  "id": "Q151433",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гай Антисций Вет"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gai Antisti Vet"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Antistius Vetus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Αντίστιος Βέτος (ύπατος το 6 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Antistius Vetus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Antistio Veto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Antistius Vetus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Caio Antistio Veto"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cayo Antistio Veto"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Antistio Vetere"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Гай Антистий Вет (б. з. д. 6 жылдағы елші)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Antistius Vetus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Antistius Vetus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Caio Antístio Veto"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Antístio Veto"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Антистий Вет (консул 6 года до н. э.)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Antistius Vetus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Антістій Вет"
+    }
+  },
+  "lastrevid": 17579296,
+  "modified": "2025-09-17T17:00:32Z",
+  "ns": 860,
+  "pageid": 179887,
+  "sitelinks": {},
+  "title": "Item:Q151433",
+  "type": "item"
+}

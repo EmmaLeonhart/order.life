@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alice Berkeley"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q149868$7895F8EB-2374-4A58-8EBB-EAB6551F30EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Berkeley-17"
+          },
+          "hash": "05ad06ed3633d3ba1bd79aba2eb1a2b14ea02a96",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149868$B5BBD327-AE09-429D-B3EE-AEE94E24351D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149868$B1615813-C6EF-4349-9617-658E51ACEE35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149868$7FEFB3FD-D7FA-45E0-A002-9071C7E38728",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p68107.htm#i681067"
+          },
+          "hash": "51273f0bd5844fab2d52ecafe4579ea640f89955",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149868$3A1E1B60-311E-49D8-B67D-17A361ACE6E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149250",
+              "numeric-id": 149250
+            }
+          },
+          "hash": "526b19f15024aaa331f3ac3a074f2b0250daa56a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149868$CFE8D92F-4CAA-4A92-BBA6-6E5C430AFDE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145424",
+              "numeric-id": 145424
+            }
+          },
+          "hash": "a0e9912cc62d06336e65e7e76414f92834c5a8f6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149868$5F12E5D4-159C-4E28-BD9F-BF7F5FD4CB77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149868$02A9188C-D9FA-4D5C-B888-655C39469743",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1265-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd221e757b2975efc3dcc05e7a5c4050addc32e9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149868$A5F312E2-2982-4048-AD43-8E43D4A75C52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1290-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4327ddf9ca0bccd899270a6146cfdc41c05a75d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149868$49CEF04D-5A75-4A4F-BF8C-333BC027765C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76313069"
+          },
+          "hash": "ebd073a66e312b80c6ad6c56b91a22725f8d9bbf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149868$4E2B40F3-A6BA-4A6F-8D55-949A9293FB06",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alice Berkeley Arms.svg"
+          },
+          "hash": "44d75addf4b4aa92c3abe2d1cfaa65cf048bdf88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=681067"
+    }
+  },
+  "id": "Q149868",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alice Berkeley"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alice Berkeley"
+    }
+  },
+  "lastrevid": 17576228,
+  "modified": "2025-09-17T16:18:22Z",
+  "ns": 860,
+  "pageid": 178321,
+  "sitelinks": {},
+  "title": "Item:Q149868",
+  "type": "item"
+}

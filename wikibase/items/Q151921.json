@@ -1,0 +1,424 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Melania the Younger"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151921$1259F707-1F75-41F6-9C87-F42A523D59F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "271067"
+          },
+          "hash": "4c7969c3a131728ceec1e0aa78450c6b6e2de0a0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151921$BEF08B0B-D2D4-497D-BDC0-E738184841ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151921$EF8CA160-0DDA-48C5-842D-40A35693F79B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151921$36BCE206-57F2-48B7-B665-BCA793AE8978",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Melania_the_Younger_(1)"
+          },
+          "hash": "e4f5a78181c7d891dc4344474fbae6649a9360b2",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151921$8564EA51-9E72-47BE-868E-2BB942E0E91E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151939",
+              "numeric-id": 151939
+            }
+          },
+          "hash": "c7484c4fc97999d5eb2a892ab5dbcf2e7d20998c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151921$2FBE4D47-DC78-4CCE-A2D4-6456D0FA6C73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151906",
+              "numeric-id": 151906
+            }
+          },
+          "hash": "f71384adf52aed294accae3021d35fde940a995d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151921$0BF22D29-5CBF-4D46-B668-BA02861A4526",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123603",
+              "numeric-id": 123603
+            }
+          },
+          "hash": "ae7c48ad145637f8463dcc9589cbb831acc20cd5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151921$C1D59B77-E42A-4D7C-B012-6FF44438A9A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151921$8E9C535B-BCE0-472C-83D6-5218AF65192E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0383-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "62b73b08030f04f0d110d578b911a8cd39c38560",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151921$CFB40ED4-C0D8-4BAE-A169-ED5997C58D52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0439-12-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "439418ef188cafb64f64a71bd73891bc7d6ae314",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151921$88524206-8323-4FB6-BA19-6D792889AB6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q271668"
+          },
+          "hash": "f35f4188ae1f5a11221921deb22b40e75dab7d7e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151921$4CE299AA-5AFC-4BE0-99AC-4921764A68FA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Melania the Younger Arms.svg"
+          },
+          "hash": "fbc5e9fd0ef82b34e80d9e4ce55ca8a35b8c5bee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "katholische und orthodoxe Heilige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Christian saint"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Christian saint"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Christian saint"
+    },
+    "es": {
+      "language": "es",
+      "value": "santa cristiana"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "késő ókori római szerzetesnő"
+    },
+    "it": {
+      "language": "it",
+      "value": "santa cristiana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "христианская святая"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "хришћанска светитељка"
+    }
+  },
+  "id": "Q151921",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Melania la Nueva"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мелания Млада"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Melània la Jove"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Melánie Mladší"
+    },
+    "de": {
+      "language": "de",
+      "value": "Melania die Jüngere"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μελάνη η Ρωμαία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Melania the Younger"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Melania the Younger"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Melania the Younger"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Melania la Plijuna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Melania la Joven"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mélanie la Jeune"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ifjabb Szent Melánia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Melania la giovane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小メラニア"
+    },
+    "la": {
+      "language": "la",
+      "value": "Melania Iunior"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Melania the Younger"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Melania Młodsza"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Melânia, a Jovem"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Melânia, a Jovem"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Melania Romana"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мелания Младшая"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Меланија Римљанка"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Меланија Римљанка"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Melanija Rimljanka"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Melania Kijana"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Melania Genç"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Преподобна Меланія"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小梅兰尼亚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "小梅兰尼亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "小梅蘭尼亞"
+    }
+  },
+  "lastrevid": 17580142,
+  "modified": "2025-09-17T17:11:45Z",
+  "ns": 860,
+  "pageid": 180375,
+  "sitelinks": {},
+  "title": "Item:Q151921",
+  "type": "item"
+}

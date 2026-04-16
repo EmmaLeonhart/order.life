@@ -1,0 +1,323 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Servilius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151705$9DA6A625-A184-447A-88E3-F8FF4D4C12BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151626",
+              "numeric-id": 151626
+            }
+          },
+          "hash": "bdc85eda1bc565191bb5efdc222715ce72d243ae",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151705$43F0A417-B87B-4CD6-B4E8-A3973E2DDEF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151705$130D6DF2-F055-401D-9568-23EA03E0566E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151705$3F9D645A-9472-4984-8987-F381123C6904",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151706",
+              "numeric-id": 151706
+            }
+          },
+          "hash": "6bc3ff44cf078ab55e7a6b77ad56bc5ae5d02a51",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151705$9AB1BDED-5DB3-4064-8815-B13088F9588D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151758",
+              "numeric-id": 151758
+            }
+          },
+          "hash": "13c226596619eb348587f9bbdc0fb76ce9ae18c7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151705$D3F0B753-C2D8-470C-BF52-4AAC9477F932",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151705$609C7C27-60D1-4998-8910-D1D7AD1A4F9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151705$5ED2B9A1-7CB9-49AE-A347-8B80893390AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3813490"
+          },
+          "hash": "7a2cdf116397749a2bc0e4e71d6ebf19e4fe36b3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151705$1A479F84-F179-4319-AD8A-E5F367146CDF",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Servilius"
+          },
+          "hash": "de9973d6f11881eca63fd33f848936e01f506acc",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151705$1EF9B487-3D43-4526-AC09-A7F6977558CD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Servilius Arms.svg"
+          },
+          "hash": "a3e803b5be7c75525e4712f0f97199ebf582ae00",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol l'any 3"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker und Konsul 2"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman senator who was active during the reigns of the emperors Augustus and Tiberius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Senador y cónsul del Imperio romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 3"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримский политический деятель"
+    }
+  },
+  "id": "Q151705",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Сервилий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Marc Servili Gemin"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Servilius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μάρκος Σερβίλιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Servilius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Servilio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Servilius"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marco Servilio"
+    },
+    "id": {
+      "language": "id",
+      "value": "Marcus Servilius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Servilio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Servilius"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Marcus Servilius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marc Servili Gemine"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Servílio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Servílio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Сервилий"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Сервілій"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬可·塞維留斯"
+    }
+  },
+  "lastrevid": 17579766,
+  "modified": "2025-09-17T17:06:47Z",
+  "ns": 860,
+  "pageid": 180159,
+  "sitelinks": {},
+  "title": "Item:Q151705",
+  "type": "item"
+}

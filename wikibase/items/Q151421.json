@@ -1,0 +1,299 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcia Servilia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151421$376A98A6-A808-4005-A6D9-6359F6A922D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00800932"
+          },
+          "hash": "af556cf9e87e13ecc4f764dc4ef35e85132ef651",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151421$167667E8-D802-4A65-BB32-6EED7222A7D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151421$75643439-32D3-451E-8B4A-3551C22C9CC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151421$3613E3E4-B9AC-483C-B646-85E60356E79E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148172",
+              "numeric-id": 148172
+            }
+          },
+          "hash": "4b3a603e0046079a0ef0018f8b5128578749ba70",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151421$7332B9CB-B57F-46F2-9E8D-548A2B6DE31C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151375",
+              "numeric-id": 151375
+            }
+          },
+          "hash": "39534a44b81d667ae3c52065b18aefbb253884d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151421$FAE62D25-55E0-4584-AACF-2FDFD4CE4D13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151517",
+              "numeric-id": 151517
+            }
+          },
+          "hash": "1434b61179b364b0fcacca040e6ace55e67e8447",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151421$5DDE4B19-D1B4-4E5B-878F-963797620C3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151421$293AA7D3-01EA-489B-97C1-4CD8D549B560",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0001-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0b73d802fb7f925bd3bd4fb20dfc4848cc36948d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151421$8D24F996-73D2-412C-8DA5-82B0CF570892",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0066-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e0dada695f246275bbf94a10edce82b495117fc4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151421$7691E2DD-0556-4690-A887-6F19A7EF1B25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7455883"
+          },
+          "hash": "84dacf2cf3bcb3105b14ac51f4bf9f4254142ae9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151421$5C749D0C-CBDE-47C4-9A57-4A23E72014E8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcia Servilia Arms.svg"
+          },
+          "hash": "533353151812bf2b270905237c3ca607232c6c69",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daughter of Roman Senator Quintus Marcius Barea Soranus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Quintus Marcius Barea Soranus"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobildonna romana"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "ancient Roman woman"
+    }
+  },
+  "id": "Q151421",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марция Сервилия"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcia Servilia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρκία Σερβιλία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcia Servilia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marcia Servilia Sorana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcia Servilia Sorana"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marcia Servilia Sorana"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcia Servilia Sorana"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Marcia Servilia Sorana"
+    }
+  },
+  "lastrevid": 17579276,
+  "modified": "2025-09-17T17:00:17Z",
+  "ns": 860,
+  "pageid": 179875,
+  "sitelinks": {},
+  "title": "Item:Q151421",
+  "type": "item"
+}

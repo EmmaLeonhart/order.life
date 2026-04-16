@@ -1,0 +1,371 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Konstantinos Lekapenos"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147317$6354B378-EDC6-4440-B1D9-76504C02BEA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "148875"
+          },
+          "hash": "f0566bae136d6eae8fcc79a27c0c52843ca241e1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147317$90DC5B5D-D23C-438E-B4D4-F8A4BF54766F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147317$B7857507-389F-486C-AD06-17DFAC48C209",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147317$880FEEED-D5FA-4829-B950-45008D2B93BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147314",
+              "numeric-id": 147314
+            }
+          },
+          "hash": "2673ddd0b3c67c9ea873bb65350dc103da87f183",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147317$B31215B1-4431-4293-A662-533383A9404D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147315",
+              "numeric-id": 147315
+            }
+          },
+          "hash": "bc969f16e3c00738d2d38072db67ba8a3592bc70",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147317$3CA40481-A831-481F-804A-13E0201F1C5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147317$908CD737-0945-4A8C-A547-D8D2A248AAB5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0930-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71a3bc9c9c114da072fac2268519b979cb3b863a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147317$A4E6461B-E07F-4D00-A267-46617D2EDBAD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0950-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f188afacab5e07d36897cf7d18325539c39ac4e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147317$9ACDA362-CE54-49AA-BCDD-C74E7282DDA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1281912"
+          },
+          "hash": "74af84fe999713759f5109ea50855e03421907e1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q147317$6C1290B4-5C56-46CD-B933-06043C88BE53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52486"
+          },
+          "hash": "b5768e1d5fe273acbd67a1c2556589f0a6137e2c",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147317$51E63586-30F7-4B59-B517-53C36392D883",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konstantinos Lekapenos Arms.svg"
+          },
+          "hash": "5b8062ef9f46d5ea8bd0711b7d6dcdfe761643e3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "byzantinischer Mitkaiser"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "coemperador bizantino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "co-empereur byzantin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Byzantijnse Rijk (-)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz wschodniorzymski"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bizans İmparatoru"
+    }
+  },
+  "id": "Q147317",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "قسطنطين ليكابينوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "قسطنطين ليكابينوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Константин Лакапин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Constantí Lecapè"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konstantin Lakapenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κωνσταντίνος Λεκαπηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Konstantinos Lekapenos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Constantine Lekapenos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Konstantino Lekapeno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Constantin Lécapène"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Constantino Lecapeno"
+    },
+    "id": {
+      "language": "id",
+      "value": "Konstantinus Lakapinos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Costantino Lecapeno"
+    },
+    "la": {
+      "language": "la",
+      "value": "Constantinus Lacapenus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Constantijn VIII Lekapenos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Konstantyn Lekapen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Constantino Lecapeno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Constantino Lecapeno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Константин Лакапин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Konstantin Lakapin"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Konstantinos Lekapenos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Константин Лакапин"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Konstantinos Lekapenos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Костянтин Кепопенос"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "君士坦丁·利卡潘努斯"
+    }
+  },
+  "lastrevid": 17571958,
+  "modified": "2025-09-17T15:19:27Z",
+  "ns": 860,
+  "pageid": 175702,
+  "sitelinks": {},
+  "title": "Item:Q147317",
+  "type": "item"
+}

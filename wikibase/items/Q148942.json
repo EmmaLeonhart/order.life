@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gilbert de Clare, Lord of Thomond"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q148942$0D67AA8B-DADB-4FA7-9B61-621C9DE17C39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Clare-334"
+          },
+          "hash": "f64befb2a795e3c745ef4be1c92b18fbbfed5124",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148942$FC7BED6D-1FC6-4C22-9509-8FD9BC1ADA61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148942$1D1EE7A2-D2C4-43CA-A044-EF569C69513C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q148942$80000EA6-6ECA-4029-B7F7-F497DF32D0D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15842.htm#i158413"
+          },
+          "hash": "cd9968d7994c5fca2f5a24612026bdc470fac9ec",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148942$A34BB57D-D022-49D7-8029-0D624D831790",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54781",
+              "numeric-id": 54781
+            }
+          },
+          "hash": "3f503a2bb9e908c78a1bd98c9f8a6e93b041fcdf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148942$6B30ECCF-594F-48E9-8457-78EA78D8B176",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148455",
+              "numeric-id": 148455
+            }
+          },
+          "hash": "8f1ecd4d36d21ea7d4830f2d12bd981d0adc47ca",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148942$0D8AD1EB-E936-4AAA-9DBD-292FA96A4ABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148942$344759BE-DD39-4B3A-B543-0E85DF9B25AD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1281-02-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f18505639297673cec4a1f880bb97b0b16d49230",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148942$181BA04C-3C93-4617-99EC-9611D4264AA5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1307-11-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "591d4da596230a682dcbad3bf79def84189f969c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148942$7C4BB0B0-ABA4-47A9-A971-187525C3610E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19959253"
+          },
+          "hash": "88f4e9abb611d682c14408f767dcb4dd2d37b9a8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148942$5A105D5B-9B6E-4958-BDBC-6828C039C5F8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gilbert de Clare, Lord of Thomond Arms.svg"
+          },
+          "hash": "4d73c0f462dc7394aba47921c807ac3081b1db22",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "anglo-irischer Ritter"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1281-1307)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur de Thomond"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1281-1307)"
+    }
+  },
+  "id": "Q148942",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gilbert de Clare, Lord of Thomond"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gilbert de Clare, Lord of Thomond"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gilbert de Clare, Lord of Thomond"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gilbert de Clare"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gilbert de Clare, Lord of Thomond"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гилберт де Клер, 2-й барон Томонд"
+    }
+  },
+  "lastrevid": 17574390,
+  "modified": "2025-09-17T15:53:17Z",
+  "ns": 860,
+  "pageid": 177395,
+  "sitelinks": {},
+  "title": "Item:Q148942",
+  "type": "item"
+}

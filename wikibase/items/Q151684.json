@@ -1,0 +1,219 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Sempronius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151684$7227BBA1-BA23-481C-BD6C-DAE4B6B9AB0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151685",
+              "numeric-id": 151685
+            }
+          },
+          "hash": "f98487e0a337f951cad5dd535bb309f8d8f6f44b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151684$103AFC8A-02C1-4AC2-9077-EE2A29F00ECF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151592",
+              "numeric-id": 151592
+            }
+          },
+          "hash": "a08e21bcf6e1a286606b77bb87265aa391d64cc8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151684$81962CC8-5ADF-46C6-B2F3-B8FE301B2651",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151684$8639237D-20A8-48EC-9116-1A4162D72E10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151684$0DF761B4-6307-4D4C-BD14-5FF1A52216BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151684$AFC4DD68-DEB7-4C51-98B4-5E3B460B99B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151684$C38E4D85-F6E5-4F36-9679-637FD365C191",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q97622696"
+          },
+          "hash": "6cb5e4c952aacd02b00d629ab7ac01c43351b0a8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151684$54C6BD39-5C16-4F83-B2A3-7C306BFAAAF8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Sempronius Arms.svg"
+          },
+          "hash": "d3eb20bb831f4a14b9dd3ddd6560fc5aa52d1dac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "ancestor of the Sempronii Longi and the Sempronii Gracchi"
+    },
+    "es": {
+      "language": "es",
+      "value": "antepasado de los Sempronios Longos y Gracos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "ancêtre des Sempronii Longi et des Sempronii Gracchi"
+    }
+  },
+  "id": "Q151684",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gaius Sempronius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Sempronius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Sempronio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Caius Sempronius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Sempronio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Sempronius"
+    }
+  },
+  "lastrevid": 17579732,
+  "modified": "2025-09-17T17:06:19Z",
+  "ns": 860,
+  "pageid": 180138,
+  "sitelinks": {},
+  "title": "Item:Q151684",
+  "type": "item"
+}

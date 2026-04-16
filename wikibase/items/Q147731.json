@@ -1,0 +1,352 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alv Erlingsson"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147731$F89127FB-8F7D-4880-9AD7-41E96BF50EA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00710306"
+          },
+          "hash": "0df17ba11f34386779aa576f9883445a66acbc6c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147731$69A4826C-08D9-4F3A-A26B-F1D618E3FE34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Erlingsson-21"
+          },
+          "hash": "5243922302d46cf59d2974bb3bf2afdccd5d7323",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147731$04310020-4B9B-40C4-B9FC-4EAF222C9A3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147731$E3C45F63-6B0D-46E2-A9C4-3B04FEFA4095",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147731$B797E699-526C-4415-852A-E4FE7CECC195",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Alv_Erlingsson_Tanberg_(1)"
+          },
+          "hash": "498a98d20fdbd6b9e78bb7f67873cbb69d818080",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147731$C6E79F2F-4720-4FB5-8DC0-A3030C080A12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143896",
+              "numeric-id": 143896
+            }
+          },
+          "hash": "17fbe4356ebe88eb3b37495d6b884b659e952a85",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147731$72C476CA-AF17-4D57-99FB-6570926D4979",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147731$CA6FCEEC-1ED9-4935-9232-6EFFE5A53F9E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147731$7736CFBC-7389-4CA5-A791-225AFBF1DE54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1290-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44e551406add82cf36dce2368f77237895c4de15",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147731$39E6C9B9-E514-4D85-9414-0861EF013109",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q448091"
+          },
+          "hash": "3b1b63b425deb22368284429b540ada0409758a4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q147731$F645D0AE-4FB3-439D-B2B9-DD3014939C8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003362862571"
+          },
+          "hash": "7ff0d83d28f9a15763247e892fb67c51ecaf0c47",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147731$07016595-E114-496D-9816-DA43FEC9B84B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alv Erlingsson Arms.svg"
+          },
+          "hash": "4f81ae8814c54a0fdf24e9e25a535a1bb00a6734",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "رجل دوله من النرويج"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "estadista noruegu (1300–1290)"
+    },
+    "de": {
+      "language": "de",
+      "value": "norwegischer Lehnsmann"
+    },
+    "en": {
+      "language": "en",
+      "value": "Norwegian noble"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble norvégien"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "uasal Ioruach"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "norsk nobilitet på 1200-tallet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Noors staatsman (-1290)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "norsk statsman"
+    }
+  },
+  "id": "Q147731",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "الف ارلينجسون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Alv Erlingsson"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alv Erlingsson"
+    },
+    "da": {
+      "language": "da",
+      "value": "Alv Erlingsson"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alv Erlingsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alv Erlingsson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alv Erlingsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alv Erlingsson"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Alv Erlingsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Alv Erlingsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alv Erlingsson"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Alv Erlingsson (yngre)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Alv Erlingsson"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Alv Erlingsson"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alv Erlingsson"
+    }
+  },
+  "lastrevid": 17572392,
+  "modified": "2025-09-17T15:25:30Z",
+  "ns": 860,
+  "pageid": 175957,
+  "sitelinks": {},
+  "title": "Item:Q147731",
+  "type": "item"
+}

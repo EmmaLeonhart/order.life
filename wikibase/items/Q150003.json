@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matilda de Lucy"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150003$A4F4E40A-4C66-4896-A6C4-826A35158C0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00139731"
+          },
+          "hash": "37813f6746cbad90a275e386c04d411687d2122a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150003$92715393-CD2D-4CF1-AD58-FA702FD4F7D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucy-23"
+          },
+          "hash": "daa8d4f20ed7d86dcb4d96beb8b14c4bf667e942",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150003$B9D46500-6FCA-41FF-8D09-81ADACCB679D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150003$E9B0153F-0A4B-49E4-BBC7-44AA215D25BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150003$B6FDE7D5-39EC-4509-94E3-B15F88514408",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p14439.htm#i144389"
+          },
+          "hash": "80a50a934cb9c9612d8dfa2503d12810b3a9bd52",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150003$C53BBAB1-8E8B-4270-A4A1-BB550E173573",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145517",
+              "numeric-id": 145517
+            }
+          },
+          "hash": "51f45fa4938706b40b0480659513b0d13891f3ae",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150003$EF3D613E-8FF8-457D-85A1-8CF4BC1AA4B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150003$85AA761F-3DD3-4964-A5DC-03E5D16F7F13",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1240-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "678b6e0cdcafb5167c4b46f099017731ef6b0378",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150003$32D827BC-8269-4487-8A57-E90047884D0B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1337-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "532a1ff01696580a92ab0dc228546815bc570cd9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150003$1468870F-A66B-4389-86BA-8988F833965E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75442658"
+          },
+          "hash": "82f8bc74cf4c5de748d9b3101dae7ec35abaf735",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q150003$043D72BF-2402-40B5-9792-57A1D70B74BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001220381419"
+          },
+          "hash": "6565fae609a58d4b007b366e781ba50e7b6b47a7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150003$C73341BB-D5A7-4022-A744-9EDB08FB199F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matilda de Lucy Arms.svg"
+          },
+          "hash": "d45ec3c8943592cc9bbe0f14cb488c42203babb7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=144389"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "леди Сегрейв"
+    }
+  },
+  "id": "Q150003",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Matilda de Lucy"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Matilda de Lucy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Матильда де Люси"
+    }
+  },
+  "lastrevid": 17576492,
+  "modified": "2025-09-17T16:21:55Z",
+  "ns": 860,
+  "pageid": 178456,
+  "sitelinks": {},
+  "title": "Item:Q150003",
+  "type": "item"
+}

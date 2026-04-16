@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mathilda de Barry"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148437$3B12FF38-43E9-44F7-9A22-C4132BBF6FD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00117254"
+          },
+          "hash": "fb4fcc8fd5ae11d050ef3ff1296cd7dae61739d9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148437$88FC6D12-CF9A-4657-92F7-2D3A3FB95B27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148439",
+              "numeric-id": 148439
+            }
+          },
+          "hash": "78c9e0a528ad638ac4f297291662582598f97822",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148437$D88D4BC7-DE75-4F21-B244-432E4DBCFE0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148438",
+              "numeric-id": 148438
+            }
+          },
+          "hash": "e2adf27e410bca8176c68a768975db90da3efc5c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148437$1045DE62-17C0-43E4-A82D-F0DA95E8ABED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148437$46480F7F-B44A-4B36-B08C-83E1C0DA8B91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148437$AB46E4D4-DB17-400B-A7E0-A5F232E84F84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144480",
+              "numeric-id": 144480
+            }
+          },
+          "hash": "e2d640196470ed5f96b76b5aa984e995ab602d5b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q148437$2750D898-75AD-459A-9F42-1CB2F8EBF5C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p33519.htm#i335184"
+          },
+          "hash": "446ed5606d5d888c4a27fe46ec95f2ac5fe502cc",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148437$375E6A75-03C1-49FC-A37A-F6FAE9D2B51C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148437$DD32ED53-AE5C-4A33-B026-8E36E58D9CD9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1293-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3eced845fc07ca45ad621ad90a4ceb313b44f27a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148437$D97BCEBB-2F90-449A-9AF4-2103A6A59725",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75789769"
+          },
+          "hash": "6dc51888a5c1d6890f7d4b1bd9e3fda9226c00e0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148437$2EF5E51A-CA9A-4C2B-985B-596DBD1E2043",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mathilda de Barry Arms.svg"
+          },
+          "hash": "9145903a22f0e37b9a423ab49dc285006e18e701",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=335184"
+    }
+  },
+  "id": "Q148437",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mathilda de Barry"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mathilda de Barry"
+    }
+  },
+  "lastrevid": 17573380,
+  "modified": "2025-09-17T15:39:09Z",
+  "ns": 860,
+  "pageid": 176890,
+  "sitelinks": {},
+  "title": "Item:Q148437",
+  "type": "item"
+}

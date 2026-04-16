@@ -1,0 +1,333 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Komnenos"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147548$C26AD0D1-2535-40A2-B733-369F9E025B51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147548$6612262D-8E12-435D-8D0D-6C001B16384E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147548$E0C4D142-6D7E-4CD0-8D38-53717B2BDDF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143828",
+              "numeric-id": 143828
+            }
+          },
+          "hash": "d76cd1c8323e144df6ce5d1319d22d3197bd8e80",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147548$50E0E121-3772-40DE-8CF9-575080A068CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147546",
+              "numeric-id": 147546
+            }
+          },
+          "hash": "59769bb9e695c171f9aeaebe017175627191a1e2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147548$B027B420-D259-4F0C-9AEE-C853DAC00948",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147548$84D6EC58-2EA4-476E-ACD3-8EAC07EFE389",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1074-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8ca870c2a4d302b453910c4268a8e350cae9ab61",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147548$914BBE04-5327-4496-8020-188046F4A98C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1101-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "02b2491aa94aec01b5c4332e7b8454593d1a0ee3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147548$698723CD-B752-4CB4-8241-D59623D7B41E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6243393"
+          },
+          "hash": "f6efb0186da2e0937f58b630259c9a2284c59919",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147548$FA79F4D3-A46F-48B6-9676-CB300EFA397C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Komnenos Arms.svg"
+          },
+          "hash": "d0fb877e5e9672abe545c5313f5cc8b9fa218da2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски аристократ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "governador de Dirràquion sota l'Imperi Romà d'Orient"
+    },
+    "de": {
+      "language": "de",
+      "value": "byzantinischer Gouverneur von Dyrrhachion, Neffe von Kaiser Alexios I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινός αριστοκράτης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine aristocrat"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "bizantyński arystokrata"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bizans aristokrat"
+    }
+  },
+  "id": "Q147548",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Комнин"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan Comnè"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes Komnenos"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Johannes Komnenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Κομνηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Komnenos"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John Komnenos"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John Komnenos"
+    },
+    "es": {
+      "language": "es",
+      "value": "John Komnenos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean Comnène"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ivan Komnen (guverner Drača)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨハネス・コムネノス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Komnenos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Komnen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Comneno (governador de Dirráquio)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Comneno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Комнин (дукс Диррахия)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John Komnenos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Комнин"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İoannis Komnenos (Dıraç valisi)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іоанн Комнін (протосебаст)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰·科穆宁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "约翰·科穆宁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "約翰·科穆寧"
+    }
+  },
+  "lastrevid": 17572216,
+  "modified": "2025-09-17T15:23:00Z",
+  "ns": 860,
+  "pageid": 175867,
+  "sitelinks": {},
+  "title": "Item:Q147548",
+  "type": "item"
+}

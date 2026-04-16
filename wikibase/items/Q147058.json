@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Berthold I, Count of Andechs"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147058$7410ED96-CA6C-4B65-84D6-59B3AD151AD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147058$C9D883FD-202A-4D0A-8C50-A9076260493E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q147058$D3F842B4-1689-4AD9-923B-2A02DF5FC22C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Berthold_of_Andechs_(1)"
+          },
+          "hash": "e5fe7ee3df01d1f581e8a4cbffdef11044251484",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147058$CF772EE3-C376-41CA-8D98-D6E4580AB963",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125608",
+              "numeric-id": 125608
+            }
+          },
+          "hash": "5415707730cbfcb2d2235631f4662d07ee1cd6e6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147058$7EDE1825-0267-408C-9C25-F0E67AC69D97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147058$AC94B845-55E9-49AB-B177-76F3B76228B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1060-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5c069f4c830c2f1a0d0da233ddb95c0b9eb28373",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147058$250BC1CD-7413-414B-8B9D-B96DC7498FD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2241409"
+          },
+          "hash": "79aacaf20e76c27de466790c2390eb049c8e0346",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147058$627371F1-4B73-4C41-8E4E-1A1007952938",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Berthold I, Count of Andechs Arms.svg"
+          },
+          "hash": "ac29346bfb161a72e61468329d6b0edfaca543bf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "van 1010 tot aan zijn dood de eerste graaf van Andechs"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Андекса"
+    }
+  },
+  "id": "Q147058",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Pertold I. z Andechsu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Berthold I, Graf von Andechs"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berthold I, Count of Andechs"
+    },
+    "it": {
+      "language": "it",
+      "value": "Berthold I van Andechs"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Berthold I van Andechs"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бертольд I"
+    }
+  },
+  "lastrevid": 17571530,
+  "modified": "2025-09-17T15:13:33Z",
+  "ns": 860,
+  "pageid": 175443,
+  "sitelinks": {},
+  "title": "Item:Q147058",
+  "type": "item"
+}

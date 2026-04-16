@@ -1,0 +1,270 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Walter de Cantilupe"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q150000$4D814387-3BB8-4B01-AA52-585AF5722A6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cantilupe-18"
+          },
+          "hash": "15674b041c50189527a8ac8604e3f3940999b0a2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150000$FB5D3077-6277-47C0-8045-AF8ABBF5D92B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150000$EB338B7A-F51E-4A8F-8F6F-3E42BC59F6B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q150000$579C9B31-2C74-4407-AAB7-AB6DD6AAEDD4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Walter_Cantilupe_(1)"
+          },
+          "hash": "38869aac9109cdeb9b0b1ee904a347cb2a08669d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150000$3E5EAEAC-6AE2-472D-B3E0-A8E96DE476FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145513",
+              "numeric-id": 145513
+            }
+          },
+          "hash": "fd22a568ac8f2e291a4ff5694f2e120f48271581",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150000$B6E9B5B1-5807-46E4-9D4B-CEA3C5F1D8DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150000$86E2784D-88A4-446A-B901-0D5C1EF8C034",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1195-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca8c7c83c82614bfaf85291a9ad40f7bcda67eae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150000$94633EF8-5A1C-4004-9717-72E2A172BAC5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1265-02-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a30914069d7f7a93c20a7d380d5d8feb51971081",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150000$08B396C3-5625-4079-93B3-DB77BF2D2F52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7966500"
+          },
+          "hash": "c2a62f7d4bbac1f010691bf88526482b8c148468",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150000$B64D1ECE-AAF7-46A4-B61E-3D599E5711A3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Walter de Cantilupe Arms.svg"
+          },
+          "hash": "1f51a5b470bb124a8ea7a8804ed9b2dbe15dbc87",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Esgob Caerwrangon"
+    },
+    "de": {
+      "language": "de",
+      "value": "englischer Geistlicher, Bischof von Worcester"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bishop of Worcester"
+    }
+  },
+  "id": "Q150000",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "والتر دى كانتيلوبى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Walter de Cantilupe"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Walter de Cantilupe"
+    },
+    "de": {
+      "language": "de",
+      "value": "Walter de Cantilupe"
+    },
+    "en": {
+      "language": "en",
+      "value": "Walter de Cantilupe"
+    },
+    "es": {
+      "language": "es",
+      "value": "Walter de Cantilupe"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Walter de Cantilupe"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Walter de Cantilupe"
+    }
+  },
+  "lastrevid": 17576486,
+  "modified": "2025-09-17T16:21:49Z",
+  "ns": 860,
+  "pageid": 178453,
+  "sitelinks": {},
+  "title": "Item:Q150000",
+  "type": "item"
+}

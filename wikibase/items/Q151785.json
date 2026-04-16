@@ -1,0 +1,404 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manlia Scantilla"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151785$E29D150B-6A18-4427-A30D-ABAE0C0FB313",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00716751"
+          },
+          "hash": "60ae9dafbbc21ab5f5a11f16b4647ae6069e0b43",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151785$8F172AD9-C61A-4132-924F-97E83F3D4383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151786",
+              "numeric-id": 151786
+            }
+          },
+          "hash": "31c4f3eb20ed12a398659c81caaa094e184055bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151785$91D6EF0A-781F-475E-A3BF-9D4A5D3E87C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151785$F46AD694-D0F6-40E2-BB4D-950C0EAB4BF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151785$4205750C-C039-4879-BE94-B70BF6FACCB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151739",
+              "numeric-id": 151739
+            }
+          },
+          "hash": "0a16e3b95bda821863548b00b5c75ca94fdbd206",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151785$1DDE9305-8263-4A80-B725-8777CDCC3676",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151785$FD2F753B-5035-4AE8-B1C9-BAE50A694DB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d3ce2da9c118d7cfe5140d7f7ab93cfa94c03d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151785$18953BE1-459E-4427-8CF2-6BD22F558042",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0193-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d2ca1a6cc14f1891595359583d179ebb9569d35",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151785$8F18541B-7C21-4395-AA03-0CD5EC2CB9B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2479052"
+          },
+          "hash": "f09dbaf46d0152f183b1ffd8e497c7082def965f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q151785$1BBF537D-160D-401D-9A47-535FF52354B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:33756"
+          },
+          "hash": "1cc6eceaebfae0f842027e995116d9d65a5c4699",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151785$291A233E-1C61-4832-BA8D-EF9A6799561E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manlia Scantilla Arms.svg"
+          },
+          "hash": "dbfefc7cee13ac7018b5a20c12183096c15bc687",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q151785$C92488F7-6E80-4AF2-8AED-09739A1DCE23",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/68b5a900-ead3-467b-8f3d-53b828d5c842"
+          },
+          "hash": "9c3dd209da47eb9d3e4687f95798481512cb7dfc",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römische Kaiserin"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Roman Emperor Didius Julianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperatriz romana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice romaine"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו של קיסר רומא, דידיוס יוליאנוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice romana consorte di Didio Giuliano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Oude Rome (-193)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarzowa rzymska"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk Kejsarinna"
+    }
+  },
+  "id": "Q151785",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Manlia Escantila"
+    },
+    "be": {
+      "language": "be",
+      "value": "Манлія Сканціла"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Манлия Сканцила"
+    },
+    "br": {
+      "language": "br",
+      "value": "Manlia Scantilla"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mànlia Escantil·la"
+    },
+    "de": {
+      "language": "de",
+      "value": "Manlia Scantilla"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μανλία Σκαντίλλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manlia Scantilla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manlia Escantila"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مانلیا اسکانتیلا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Manlia Scantilla"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Manlia Scantilla"
+    },
+    "he": {
+      "language": "he",
+      "value": "מנליה סקנטילה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Manlia Scantilla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マヌリア・セカンティッラ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Manlia Scantilla"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Manlia Scantilla"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Manlia Scantilla"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Manlia Scantilla"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Manlia Skantylla"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mânlia Escantila"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mânlia Escantila"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Манлия Скантилла"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Manlia Scantilla"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Manlia Scantilla"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Манлія Скантіла"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "曼利亚·斯坎提利亚"
+    }
+  },
+  "lastrevid": 17579912,
+  "modified": "2025-09-17T17:08:42Z",
+  "ns": 860,
+  "pageid": 180239,
+  "sitelinks": {},
+  "title": "Item:Q151785",
+  "type": "item"
+}

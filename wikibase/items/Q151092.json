@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ales ferch Ynyr ab Einion ap Cynfelyn"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151092$0876D0AC-F915-4C49-9BA9-0C2246F56B2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00760161"
+          },
+          "hash": "f17bd40f2e0809c74e52651cbec8b6a5741e63e9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151092$6ECB93F3-7040-4400-9421-1123781EB743",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150248",
+              "numeric-id": 150248
+            }
+          },
+          "hash": "0fbe4982cefe8f2a5f6f59d25a8149cf918f4359",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151092$61591C9D-7206-4FD5-A4EA-56B156517CD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150249",
+              "numeric-id": 150249
+            }
+          },
+          "hash": "5db85b9e50e9538432a4e0170170cfcb2c601255",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151092$D8FDD00C-0A95-4786-9735-04F0ECBDD218",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150250",
+              "numeric-id": 150250
+            }
+          },
+          "hash": "19bcfdac181ed6c9c46e60720a4ff2c6a355939f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151092$A001138E-E5D1-40D6-BC73-08C150C232CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151092$4B682194-7FD3-4A84-82E8-5960B23110C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151092$F08BA871-A215-4E92-89FC-CA0F40768FE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145738",
+              "numeric-id": 145738
+            }
+          },
+          "hash": "66dfc894e0d28e80804e7b8b3f9cf5d86c3b9b05",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151092$1D4CC174-922E-4404-B0FE-F1F44C3FBB4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146392",
+              "numeric-id": 146392
+            }
+          },
+          "hash": "3624453cd13b1015e37399a4783fb46bfbaa6f24",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151092$DB8ECAC4-3E10-4C70-8A24-62941244908F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151092$8CD5DCD1-0E10-4E23-BFC6-4221595BEE1F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110585257"
+          },
+          "hash": "fcb1ea0576ccee5b6e773e60d48d3a1844f86cec",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151092$3FEF6A91-3376-452D-BAF7-CE0255B2CC4A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ales ferch Ynyr ab Einion ap Cynfelyn"
+          },
+          "hash": "5beba0049c527efebb5b49e4dd7db3647f5167d5",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151092$CF087925-C88A-4E1F-927C-0B0567359A51",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ales ferch Ynyr ab Einion ap Cynfelyn Arms.svg"
+          },
+          "hash": "d2019106529d787f52b7ba7bd30183e2a5f8e5fa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q151092",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ales ferch Ynyr ab Einion ap Cynfelyn"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ales ferch Ynyr ab Einion ap Cynfelyn"
+    }
+  },
+  "lastrevid": 17578666,
+  "modified": "2025-09-17T16:51:55Z",
+  "ns": 860,
+  "pageid": 179546,
+  "sitelinks": {},
+  "title": "Item:Q151092",
+  "type": "item"
+}

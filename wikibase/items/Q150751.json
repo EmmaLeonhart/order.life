@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Robert Tyrwhitt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150751$AB179912-D2ED-4051-8E67-02B57CC5E49F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00666869"
+          },
+          "hash": "4364742093eb7aa3fd29f15d3592b01c708a43dc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150751$1122D460-A50E-47CF-9051-51834F2A6F18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146114",
+              "numeric-id": 146114
+            }
+          },
+          "hash": "5bcf64dc6616e24ac4b1a33bf46de4981c336af0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150751$7C2BD9A2-B538-415B-8D99-CA3C2FC703CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Tyrwhitt-12"
+          },
+          "hash": "2a1455d31418acba6aa0df796605b89c148270da",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150751$B8E4D042-3A90-44F9-B0BD-89AAD6A57232",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150751$79A74D5F-BC94-4305-863B-43B11EA5EDBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150751$DB5A66E7-D5A2-4ED2-98F5-0564799C601C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150752",
+              "numeric-id": 150752
+            }
+          },
+          "hash": "ad5a67cb61986222bd37f4d6c4be10a6c67e1bb4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150751$4FB4526F-2304-4AF4-A062-3EC25041FAE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p13978.htm#i139776"
+          },
+          "hash": "bc921c0e3bc7f4b64e937dcc8c47e3865c2297a8",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150751$40793132-9E3C-4F41-B4F0-283746473526",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150751$8004F55A-A27D-43F5-B98E-A6375B2DCA2E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150751$9866D2C7-0726-4D8D-BBDB-4C41C1C8AFD3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1427-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b65caaa994d73e5ba6f18b161507b980962a12c1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150751$AB4A9583-0E00-4506-9044-B5901F82B18F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75435132"
+          },
+          "hash": "6399c3df386819d0081acf56133ef787c3e352f0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150751$696D5E22-5775-4C5E-881B-A469A4457D30",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Robert Tyrwhitt Arms.svg"
+          },
+          "hash": "cf6c290a2bfa8fbd9ef3a2e68711ac4a666512ad",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "( -1427) o dras fonheddig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=139776"
+    }
+  },
+  "id": "Q150751",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Robert Tyrwhitt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sir Robert Tyrwhitt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Robert Tyrwhitt"
+    }
+  },
+  "lastrevid": 17577984,
+  "modified": "2025-09-17T16:42:15Z",
+  "ns": 860,
+  "pageid": 179205,
+  "sitelinks": {},
+  "title": "Item:Q150751",
+  "type": "item"
+}

@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anna Komnene"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147618$9AD89282-6AB0-4880-B661-C7CB351FA922",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "251846"
+          },
+          "hash": "cd72040c1b8135d278be0bb9588ecf60bf3e6332",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147618$144FFCB0-99DA-49E7-9589-4BB5BBD41646",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147618$343F82AF-DA3C-4D8D-8B35-047AB8A8AF69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147618$5FD1B89D-7D3D-4623-9412-E5A6D6E226D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128281",
+              "numeric-id": 128281
+            }
+          },
+          "hash": "01f8f4939d1e37a6c5024bb3e0175928b57efdb1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147618$B1C5DB3B-AAB9-4FFC-8E54-2C19FC476736",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147618$0BE63479-7A05-49DB-92B0-DFC56B6D9025",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1116-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "524e00f7c92a34b641389527af3dd91d8aec3365",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147618$102B3CC3-FF88-4203-BC64-156A53E5BECE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q122802384"
+          },
+          "hash": "e72641ba848b6deb753619875e4ae24c6b56efc9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147618$5DD6B7DC-F6C1-443D-AF07-BCB219BBAF28",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anna Komnene Arms.svg"
+          },
+          "hash": "b8bc13439608eafc5dd0a3661bc68d0fbb55ff16",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийска принцеса от XII в."
+    },
+    "el": {
+      "language": "el",
+      "value": "αδερφή του Ανδρονίκου Α´"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine noblewoman, sister of emperor Andronikos I Komnenos"
+    }
+  },
+  "id": "Q147618",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Анна Комнина"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άννα Κομνηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anna Komnene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анна Комнина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ана Комнин (сестра цара Андроника I)"
+    }
+  },
+  "lastrevid": 17572284,
+  "modified": "2025-09-17T15:24:03Z",
+  "ns": 860,
+  "pageid": 175901,
+  "sitelinks": {},
+  "title": "Item:Q147618",
+  "type": "item"
+}

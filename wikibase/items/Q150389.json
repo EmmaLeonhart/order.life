@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir Henry Johnes, of Abermailais"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150389$E49EB7FA-3112-45D2-8B42-1BD0070E0EE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00117663"
+          },
+          "hash": "0cab09c590ac260db1c840e2aca37050f325646f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q150389$63ACBFA1-0B13-4635-884B-660C275E5190",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145846",
+              "numeric-id": 145846
+            }
+          },
+          "hash": "398a88d66100230d3cdc0bdbb00625474c06a0ed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150389$45AA2D1D-CA2D-46A3-A006-49018AA50E10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Johnes-9"
+          },
+          "hash": "fd68b65749a81173c2875ac9a5f4892a64c47486",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150389$02D892D3-688F-4767-AD67-FBA6F84D4217",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150389$77578B3E-DD80-4D1D-B652-3951492F165A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q150389$330B7D51-DCC4-48F2-AD27-84FABA4A8130",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry_Jones_(36)"
+          },
+          "hash": "d560f87a03c77922bbe4ed792e349942e7585a71",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q150389$4CA3BBF3-A2E5-40B4-A8E5-3AC53065B28D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150390",
+              "numeric-id": 150390
+            }
+          },
+          "hash": "54f6ea2cbeffee8dbc6b8c92e8960dd297c0fbfc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150389$927E0782-3046-4189-992F-90392EC2C8E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146124",
+              "numeric-id": 146124
+            }
+          },
+          "hash": "e889878dea75faa09639cfb435be3ee799ca4407",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150389$CE9E2D84-40D5-4A75-9CD8-E6F0B06E7374",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150389$5C745E06-D6C1-4A9C-B2D8-23B1AB377983",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1586-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd6e5c8fe65e219161e6879d9bbea63c3388d015",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150389$60C184DF-CEC9-43C5-968E-4A9D3BDB6944",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96304867"
+          },
+          "hash": "1ac2fee926e9019601b5b360054e360f272cf454",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150389$F06DD720-6318-485E-9E78-D1CE46150A9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir Henry Johnes, of Abermailais Arms.svg"
+          },
+          "hash": "3134895dcc54e490382211d647fb1e041ad19bc9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Abt 1532 - 24 Sep 1586"
+    }
+  },
+  "id": "Q150389",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir Henry Johnes, of Abermailais"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir Henry Johnes, of Abermailais"
+    }
+  },
+  "lastrevid": 17577262,
+  "modified": "2025-09-17T16:32:20Z",
+  "ns": 860,
+  "pageid": 178842,
+  "sitelinks": {},
+  "title": "Item:Q150389",
+  "type": "item"
+}

@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Scipio"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151597$458968EF-2715-444C-88E0-0EB7FBB78837",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735578"
+          },
+          "hash": "2d3f5f38ac93489f31c80e45229573103bda2b15",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151597$4E6C79F2-60A3-4FA4-9086-6B76FAA9B526",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151597$5D087740-9508-4AA2-A340-76FD03315569",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151597$4CBAFF76-CF82-41E7-B6BF-AA202B656449",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151483",
+              "numeric-id": 151483
+            }
+          },
+          "hash": "f1d6137f05a3189cf9d9138dfd6bbbd5ab386822",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151597$3CFEA35F-575B-4C69-83DE-B1606AD0115D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151597$F0A8EF9F-83AE-452F-9D89-7FFF69053310",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0197-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5e3dabfbfee9d623693984c92e7138006a970fd3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151597$AB10B823-9C23-4615-A89D-E08A9B017539",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0164-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7eb198f8f573ddbb6b3e19c8981b62fd54613932",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151597$05BD4A09-15A0-4598-90B3-2083B78E3BFD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1548826"
+          },
+          "hash": "5f018bab30f184eccf39b09e958fbef312708156",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151597$FE60B786-624C-4C25-B95F-E609783A5ABE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Scipio Arms.svg"
+          },
+          "hash": "98b4810aae194b1e728c690c73916b0fd7014ddd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "qüestor el 167 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Quästor"
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Roman quaestor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "questeur romain en 167 av. J.-C."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Romeinse Republiek (-196--163)"
+    }
+  },
+  "id": "Q151597",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Сципион (квестор)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Escipió"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Escipión"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Scipione"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Scipio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Сципион (квестор)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Сципіон"
+    }
+  },
+  "lastrevid": 17579580,
+  "modified": "2025-09-17T17:04:19Z",
+  "ns": 860,
+  "pageid": 180051,
+  "sitelinks": {},
+  "title": "Item:Q151597",
+  "type": "item"
+}

@@ -1,0 +1,473 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Cornelius Scipio Asiaticus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151483$07E16388-48E8-40E8-B5B0-203B440AB6EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00735577"
+          },
+          "hash": "52c84d5e76440348d9dc5856ba8222ab8d8b5d35",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151483$1270C442-D1C3-4883-9169-BDB99EDD144D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151597",
+              "numeric-id": 151597
+            }
+          },
+          "hash": "4da1429a6f4414eb6455205282e2dcb2674eb13d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151483$460A1822-7634-4EC8-8301-37138B10E2AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151483$0C4453B0-1F67-4AEF-BA72-D622C78A7C0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151483$502873D0-DBD4-42AB-9364-042C33B03611",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius_Cornelius_Scipio_Asiaticus_(1)"
+          },
+          "hash": "1d4cb8aa0031f5a102fefb40787ab0644a706b19",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151483$3196D32C-6811-4228-868D-A419042D02C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73446",
+              "numeric-id": 73446
+            }
+          },
+          "hash": "018a4e25878f0d28d6a0ab97f4dc5cb197b8a2fa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151483$4D0D0653-777F-4C6E-955D-A599FE3ACFD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73449",
+              "numeric-id": 73449
+            }
+          },
+          "hash": "34d3e796f81b8d96dfa82281aed120f5597e2cb1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151483$638786D5-1EF0-4E04-B42D-6AED36000102",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151483$D1B05613-B7A0-4673-AF3F-6C5E9DFA0119",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0230-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "85e95bbd4c171552f5650da2f1f5ab689601c85f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151483$DFA85777-9382-4A7B-B5EB-403990CFDA4F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0183-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7eae4ad2d96b475fd5abdc9a17947dfde0eb4f89",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151483$57E1DBB6-3BC1-4356-AD2C-59C76A8D2021",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q361377"
+          },
+          "hash": "3093d41e45a73de9b783d460a0a464d493e581ce",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q151483$A7E69D3D-CABF-4C3D-8EAF-5B6C11DE24CB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Scipio Asiaticus"
+          },
+          "hash": "3610c1eecfe706ca7fe6ab3d26febe65abe493b1",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151483$451CB480-1CCB-45C6-B374-19AC16228FEE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Cornelius Scipio Asiaticus Arms.svg"
+          },
+          "hash": "a06872897f0762c8f66305a5b5b5c10a081e1fd4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 190 aC"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 190 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سرباز در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 190 av. J.-C."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kr. e. 190"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "consul in 190 v.Chr."
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski dowódca"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 190 года до н. э."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski konzul in vojskovodja"
+    }
+  },
+  "id": "Q151483",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "لوسيوس كورنيليوس سيپيو اسياتيكوس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Luciu Corneliu Escipión Asiáticu"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луций Корнелий Сципион Азиатски"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Corneli Escipió Asiàtic"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεύκιος Κορνήλιος Σκιπίων Ασιατικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Cornelio Escipión Asiático"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Luzio Kornelio Eszipion Asiarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Scipion l'Asiatique"
+    },
+    "he": {
+      "language": "he",
+      "value": "לוקיוס קורנליוס סקיפיו אסיטיקוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Cornelio Scipione Asiatico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スキピオ・アシアティクス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lucjusz Scypion Azjatycki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Cornélio Cipião Asiático"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Cornélio Cipião Asiático"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Корнелий Сципион Азиатик"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lucije Kornelije Scipion Azijatik"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Lucij Kornelij Scipio Azijatik"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Корнелій Сципіон Азіатік"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lucius Cornelius Scipio Asiaticus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卢基乌斯·科尔内利乌斯·西庇阿·亚细亚提库斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "卢基乌斯·科尔内利乌斯·西庇阿·亚细亚提库斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "卢基乌斯·科尔内利乌斯·西庇阿·亚细亚提库斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "盧基烏斯·科爾內利烏斯·西庇阿·亞細亞提庫斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "盧基烏斯·科爾內利烏斯·西庇阿·亞細亞提庫斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "卢基乌斯·科尔内利乌斯·西庇阿·亚细亚提库斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "盧基烏斯·科爾內利烏斯·西庇阿·亞細亞提庫斯"
+    }
+  },
+  "lastrevid": 17579382,
+  "modified": "2025-09-17T17:01:40Z",
+  "ns": 860,
+  "pageid": 179937,
+  "sitelinks": {},
+  "title": "Item:Q151483",
+  "type": "item"
+}

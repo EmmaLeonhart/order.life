@@ -1,0 +1,180 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hermann of Calvelage"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q147727$605B9544-7073-4D25-AA1D-3FC4968AE166",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q128703",
+              "numeric-id": 128703
+            }
+          },
+          "hash": "df1c3a2fe6742fa9d371004cb144440ef6b6e9b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147727$5D77509F-EA12-48AB-BCF9-8257F1B397B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147727$1A5AFAC5-6AEC-47E0-893B-29C3606F1C48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147727$63C80281-C864-4A67-B76E-CAF219857003",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147727$E60E79F8-1019-432E-A712-DFE110DB852A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1051-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "835dc4e18ad4930b2950d0063639eb415bc9c301",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147727$A68A9D96-B8A6-4457-B8D8-B44E7FE7F5CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q118130303"
+          },
+          "hash": "202bdd4a81d9f68ced890ebbb662c10341e98417",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147727$2BD86FE5-E681-4867-808B-F9A00859DFB2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hermann of Calvelage Arms.svg"
+          },
+          "hash": "602f765dfed6aa7f0d5de31d77516015a3dee860",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Count a Calvelage (1020-1051)"
+    }
+  },
+  "id": "Q147727",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Heřman z Calvelage"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hermann of Calvelage"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hermann de Calvelage"
+    }
+  },
+  "lastrevid": 17572388,
+  "modified": "2025-09-17T15:25:27Z",
+  "ns": 860,
+  "pageid": 175955,
+  "sitelinks": {},
+  "title": "Item:Q147727",
+  "type": "item"
+}

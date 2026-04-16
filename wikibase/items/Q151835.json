@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Nonius Macrinus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151835$D0E06E65-C2B3-4917-AA7E-1AD768078A8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151836",
+              "numeric-id": 151836
+            }
+          },
+          "hash": "2e4eb13320ea318ddee0284a997a72d93a3439ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151835$7B228B6B-B3A0-486E-A793-EE00E6D1E1E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151835$A783EFA9-9488-4EEF-8818-4B93456B27D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151835$0439C60F-327A-47AE-9C1A-4A204A0B8D1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151807",
+              "numeric-id": 151807
+            }
+          },
+          "hash": "7a717c59c88a2a1e77649087c0041df204a91504",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151835$B4CF3A57-14C2-49FE-AC4D-5381D6B22463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151835$A6783EDA-2D8C-4370-88BF-421E7F66643A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d3ce2da9c118d7cfe5140d7f7ab93cfa94c03d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151835$3E3CFC26-39C5-4AA3-A37B-AC24893376C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1567783"
+          },
+          "hash": "87d0f82b84edb7a5e9d8bfa4e42fb608b1a750fb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151835$1B40C38C-E340-4BD1-A557-120EA6677438",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Nonius Macrinus Arms.svg"
+          },
+          "hash": "cb77ab9970f1af954a34b1482339934a6a1f9e66",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Senator"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century Roman senator, general and proconsul"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 154"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale romano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome"
+    }
+  },
+  "id": "Q151835",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Марк Ноний Макрин"
+    },
+    "de": {
+      "language": "de",
+      "value": "Marcus Nonius Macrinus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Nonius Macrinus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Nonio Macrino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Nonius Macrinus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Nonius Macrinus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Nonio Macrino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルクス・ノニウス・マクリウス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მარკუს ნონიუს მაკრინუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마르쿠스 노니우스 마크리누스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Nonius Macrinus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Nonius Macrinus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Marek Noniusz Makryn"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Marco Nunes Macrino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Marco Nunes Macrino"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Марк Ноний Макрин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Marcus Nonius Macrinus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марк Ноній Макрін"
+    }
+  },
+  "lastrevid": 17580002,
+  "modified": "2025-09-17T17:09:55Z",
+  "ns": 860,
+  "pageid": 180289,
+  "sitelinks": {},
+  "title": "Item:Q151835",
+  "type": "item"
+}

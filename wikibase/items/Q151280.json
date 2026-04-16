@@ -1,0 +1,344 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agnes of Denmark"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151280$821B4AA1-3348-4762-A9C5-EEB816CC306F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020600"
+          },
+          "hash": "acb149bff1874e3c146c9a579f660c4a31b7946a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151280$87608BC0-6371-48FB-9B8B-93A7CA6F06EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151280$CA116ED0-6CD0-4FB3-9720-4A35E6B4DE38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151280$96618ED3-4F26-40E9-BB15-C21686E2C9F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnes_of_Denmark_(1)"
+          },
+          "hash": "9f760773f48aedc6e9c077273901f7cb4b0c389d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151280$69F3AB50-4E40-4475-9C2F-11EC529B1292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124727",
+              "numeric-id": 124727
+            }
+          },
+          "hash": "f58da8d6103bbb06fea461ef31ff0ae345059599",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151280$07B1B1EF-45C3-4AB4-B275-00D88D91C03A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147167",
+              "numeric-id": 147167
+            }
+          },
+          "hash": "afa69f68bfb11233cac04cea4ae687e1ec44ea9a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151280$6126B2D4-3624-49DF-93EE-0F6F13CB2285",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151280$2300E3FE-784A-4288-8DA6-D7E0B3D56E72",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1249-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "924a215285ab05b30f8e106fe1865a7a46436905",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151280$93B040B7-CC9C-4CF4-8E1F-30D868AF3BF4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1295-09-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fcce7268c67184ab7ed0deba87cb852aa325409f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151280$16318AA2-4CAA-4C24-8EEE-EE30678C6632",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3492875"
+          },
+          "hash": "b0b6128c34e77847beb2f2cafa9259c88f3ac1fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q151280$07FBEA92-488D-4477-ABE5-03A90F311B8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1192"
+          },
+          "hash": "b68396a8ad1ac36ad180069e2066cca1c6a783ac",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151280$CB946AA7-6BB4-4018-A564-F0FCF37A5B35",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnes of Denmark Arms.svg"
+          },
+          "hash": "69f23b4d118e0fb7ad358dbd8f84201673295a1c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "monxa danesa (1249–1290)"
+    },
+    "da": {
+      "language": "da",
+      "value": "dansk prinsesse og klosterstifter (1249-1295)"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Ερρίκου Δ΄ της Δανίας, ηγουμένη"
+    },
+    "en": {
+      "language": "en",
+      "value": "abbess of St. Agneta"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa de Dinamarca"
+    }
+  },
+  "id": "Q151280",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Агнэса Дацкая"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Agnes af Danmark"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Agnes Dánská"
+    },
+    "da": {
+      "language": "da",
+      "value": "Agnes af Danmark"
+    },
+    "de": {
+      "language": "de",
+      "value": "Agnes von Dänemark"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγνή της Δανίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agnes of Denmark"
+    },
+    "es": {
+      "language": "es",
+      "value": "Inés de Dinamarca"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agnès de Danemark"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Agnes av Danmark"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agnes of Denmark"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агнесса Датская"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Agnes of Denmark"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Agnes of Denmark"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Agnes av Danmark"
+    },
+    "th": {
+      "language": "th",
+      "value": "อักเนสแห่งเดนมาร์ก"
+    }
+  },
+  "lastrevid": 17579034,
+  "modified": "2025-09-17T16:57:03Z",
+  "ns": 860,
+  "pageid": 179734,
+  "sitelinks": {},
+  "title": "Item:Q151280",
+  "type": "item"
+}

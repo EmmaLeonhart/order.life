@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Licinia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q151612$84B67435-D9BF-4A30-AA69-92028E7DD30E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151612$5C445BDF-B648-4805-8794-174385AF057B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151612$6A5A66D1-9D82-4341-9746-5572F35B9C5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151500",
+              "numeric-id": 151500
+            }
+          },
+          "hash": "4df7ec0cbfa09e6edda88b28e4fb463a6b3363d2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151612$43A15FCA-70FC-4ACC-B9EA-7133A5C74383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151612$D122C9C5-6315-4E84-8504-759D4CDAC7D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151612$15B3D01D-9F66-4D71-9707-6D1938A95401",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0113-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66acaa58bfaff3e2d6e46d7f647eade08c14ef29",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151612$8C89E8C1-4296-453B-A708-B0EEA35D0896",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11931914"
+          },
+          "hash": "2c3e4fdbd318aa4813fb99fe836f38d6cdf0a972",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151612$88E91F19-C6FA-48DC-9B51-630975F19441",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Licinia Arms.svg"
+          },
+          "hash": "783840066c95bc14b70a85653375103912693092",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "vestal, died 113 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "vestale romaine au IIe s. av. J.-C."
+    }
+  },
+  "id": "Q151612",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Licínia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Licínia (vestal)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Licinia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Licinia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Licinia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Licinia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Licinia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Licinia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лициния"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Licinia (vestal)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ліцинія"
+    }
+  },
+  "lastrevid": 17579604,
+  "modified": "2025-09-17T17:04:38Z",
+  "ns": 860,
+  "pageid": 180066,
+  "sitelinks": {},
+  "title": "Item:Q151612",
+  "type": "item"
+}

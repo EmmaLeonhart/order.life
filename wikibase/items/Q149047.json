@@ -1,0 +1,210 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard de Beaumont"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q149047$6842119A-D744-4924-8F76-FFAF2BA696D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144952",
+              "numeric-id": 144952
+            }
+          },
+          "hash": "e3ce05ff57c6c47a2066c22d096d5e039620e5fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149047$C78D8CBB-33B7-4F77-9EEF-54834F0D7837",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Beaumont-1527"
+          },
+          "hash": "e2defa0e5f3fb09039b276cf52cdaa14f3aa4108",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149047$9FB51373-149D-4843-93FD-22B9AF455C37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149047$0EE5EC8F-4D85-4226-9C69-A815032D144F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149047$83C8B3BC-A1FA-49C2-A2E4-C87AE6276D8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15182.htm#i151820"
+          },
+          "hash": "86f9c28946ea04b496a097ae6575908b2e888d8c",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149047$D3BF2453-9B6F-45F4-AA14-B6A348DFA8E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149047$8061B52A-20F2-4EBD-8FCA-9A9631687185",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a30e929c8128e528cb4df0827a2224a6c9d8c3b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149047$C671CC89-2D49-4441-9ABC-E268C176300B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75453797"
+          },
+          "hash": "55224bf4efd29ea4ae14502b321ae7c5bb0425c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149047$FF6D9725-B78F-4433-AD68-E5FF48B0F499",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Richard de Beaumont Arms.svg"
+          },
+          "hash": "4cc48fce896235cc9553a256f084fb4886c61d1e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=151820"
+    }
+  },
+  "id": "Q149047",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Richard de Beaumont"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Richard de Beaumont"
+    }
+  },
+  "lastrevid": 17574596,
+  "modified": "2025-09-17T15:56:12Z",
+  "ns": 860,
+  "pageid": 177500,
+  "sitelinks": {},
+  "title": "Item:Q149047",
+  "type": "item"
+}

@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Margareta (?)"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147252$C019BF30-214A-468A-8A8F-0D50FF67D361",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147252$DA880D3B-9D10-4985-AF78-CF2651B44016",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147252$C823A00B-9150-4212-B4F7-579D08D2732E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p4280.htm#i42800"
+          },
+          "hash": "8321bd6d9937c13b5323acd3a0349e20abe531e4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147252$BD0B141D-38FD-4C33-9309-7A5EEAA4D8C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143705",
+              "numeric-id": 143705
+            }
+          },
+          "hash": "4e885c5d3eec3754ade0fa4f3f2cb54de91fcca0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147252$DBDCC48B-07BA-4F7C-9CEF-324ECAD5A06C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147252$21D7F882-9542-45E2-8065-BE39F06EB42E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1209-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84b0be69cad8d30a25ca87c3ce210632bfa29bd0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147252$3456B2EE-6DE6-48A1-BD24-75CAE780B0EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75291878"
+          },
+          "hash": "c7dd58571d4dfad8948c54381c08a8bfab993e75",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147252$19E82137-A28C-495B-BFB0-BF39A1B4838A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Margareta (?) Arms.svg"
+          },
+          "hash": "67a02c26880fb3a0d9a7abbeea23fdee980e3056",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=42800"
+    }
+  },
+  "id": "Q147252",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Margareta"
+    },
+    "da": {
+      "language": "da",
+      "value": "Margareta (?)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Margareta (?)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Margareta"
+    }
+  },
+  "lastrevid": 17571836,
+  "modified": "2025-09-17T15:17:49Z",
+  "ns": 860,
+  "pageid": 175637,
+  "sitelinks": {},
+  "title": "Item:Q147252",
+  "type": "item"
+}

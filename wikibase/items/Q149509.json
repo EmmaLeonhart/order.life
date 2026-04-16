@@ -1,0 +1,268 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bartholomew de Sudeley"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149509$5DF1343F-62F2-4CBC-A5A6-8F1D6BA40C55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00486706"
+          },
+          "hash": "b0a8813f12ed5edde109c94a66c87b7d860af445",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149509$8256FC66-C73D-49AD-B0BA-194430D854C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sudeley-10"
+          },
+          "hash": "1be6dd60a4abf855c3ed49ae1f6c41200c4b4012",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149509$25225BFA-FB53-43FF-A837-4443B8A076C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149509$BC1C35F7-B71A-499F-8870-20705F2491A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149509$59EC9C54-1291-4446-BF4F-0F5D27217187",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p58844.htm#i588437"
+          },
+          "hash": "6f8f4dde2f4962489ef5675e4a12d0c80c7d9665",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149509$9091EAE9-7173-4628-B729-DE4456B929C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145220",
+              "numeric-id": 145220
+            }
+          },
+          "hash": "7492f4f29840936456c49230590e0253169a85c9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149509$2EDE2FD4-D7D7-47DB-A7B9-49B30E8E503E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149509$484EDB50-9C2F-4991-BF95-85BF95C57AE9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1275-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3b556f44c642c1c26d7bf29eb64d9e6b175f37a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149509$16474F47-1384-4A65-876C-E461322EA10B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1327-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1aee021142b9534554355371bc7adb59c6d671d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149509$65EF33F9-D97C-4931-8FEC-FA7913960FD6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76183928"
+          },
+          "hash": "1ff00fb6699c89bd86964b7d11757e5e14e550a7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149509$24AA6412-381E-477F-A1E1-2DAB41169BC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=bartholomew;n=sudley"
+          },
+          "hash": "aec25f0ff652256bbf3e99783adab454acbfc350",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149509$27B800D6-1DD6-48E8-B345-56502ECA63BC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bartholomew de Sudeley Arms.svg"
+          },
+          "hash": "55388a9b5310f7cd5fd824364b0f234aa4180f54",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=588437"
+    }
+  },
+  "id": "Q149509",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Bartholomew de Sudeley"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bartholomew de Sudeley"
+    }
+  },
+  "lastrevid": 17575510,
+  "modified": "2025-09-17T16:08:51Z",
+  "ns": 860,
+  "pageid": 177962,
+  "sitelinks": {},
+  "title": "Item:Q149509",
+  "type": "item"
+}

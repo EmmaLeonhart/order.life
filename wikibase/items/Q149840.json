@@ -1,0 +1,267 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aymon II of Geneva"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149840$32DB62EE-936D-4C59-B1B5-D0EAA13554F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00026521"
+          },
+          "hash": "e4ae0fc7609348f6782d557da1b4e00c2398b280",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149840$EFC983D3-85B5-4C3F-A5FA-93ED496BE1A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149840$A9E2F9D6-A3C4-4898-B985-EF43EB019811",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q149840$A90FAA13-5E3A-482F-A130-3654B29DD4DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Aymon_of_Geneva_(1)"
+          },
+          "hash": "a41f1d296bddd8e9b1be7f020b878a15861fb410",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q149840$26796D1E-D9E6-45EB-84BD-402AE9F8E989",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145413",
+              "numeric-id": 145413
+            }
+          },
+          "hash": "7e58d5d93b373f2ff159044b252ba5660c2b82a1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149840$08985B45-A4D8-4323-A8F6-3723E14BE761",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149840$4391863F-F372-4F1A-8A69-30C95D9DABEE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1280-11-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a3518b72fe06c95e6a6e409c623a1d06bf8e9fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149840$34742727-C708-4845-953F-F4ADB8C536A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q661641"
+          },
+          "hash": "b3eba8bda283478fd782e42c88c271a346e510c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q149840$9B93EAEA-070E-485F-B7FE-CFF91E90A4B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=aymon;n=de geneve"
+          },
+          "hash": "d2ad53e59e73252e8b671f608db3aab28f76122f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149840$C0EA9C11-8749-49EB-AFEB-9FD37BCC8461",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aymon II of Geneva Arms.svg"
+          },
+          "hash": "5eab9d4234cbbee31217aabd1ebdf0f4af993437",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "comte de Ginebra"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόμης της Γενεύης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Geneva"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Genève"
+    }
+  },
+  "id": "Q149840",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Aimó II de Ginebra"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αίμων Β΄ της Γενεύης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aymon II of Geneva"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aymon II de Genève"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aimone II di Ginevra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aymon II van Genève"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aymon II de Genebra"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Aymon II de Genebra"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эмон II (граф Женевы)"
+    }
+  },
+  "lastrevid": 17576172,
+  "modified": "2025-09-17T16:17:38Z",
+  "ns": 860,
+  "pageid": 178293,
+  "sitelinks": {},
+  "title": "Item:Q149840",
+  "type": "item"
+}

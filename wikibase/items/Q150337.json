@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elizabeth|Matilda Vernon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150337$EC85F426-A9F1-4518-AD41-A2F0E9995CF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00177382"
+          },
+          "hash": "27ea0ceb9cb38f6db79a967aa54739e85356dde9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150337$7A5BAF7D-1F33-41A2-9D5B-7605EF54C2CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150337$78CA967B-EF54-4247-88C7-D8E0D9930656",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q150337$22962DD4-0BEA-47F8-9391-57D2E8153D86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145802",
+              "numeric-id": 145802
+            }
+          },
+          "hash": "c6e01cafb63e47f3ace71d94f9959e4ad6f8a775",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150337$7B7FB30A-04D4-4876-9F5B-B8EDEDF51815",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q150332",
+              "numeric-id": 150332
+            }
+          },
+          "hash": "4c00bca303ca47019a8c9c419b117a24e6af2a62",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150337$D3EDE3F6-20FE-4AF3-8346-8A50A7637A00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150337$E0F882D4-E080-49BD-AC54-FE3978B83EDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111466276"
+          },
+          "hash": "da50966641fa3df2e9d89404688e9aae6b3ea8b6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q150337$4535279E-9165-44AD-A365-9D2FB1B65FF8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth|Matilda Vernon"
+          },
+          "hash": "2f82995f6fed173a9b314b2292edd92051616144",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150337$AABA4F1C-1D06-46D3-83A7-6E4E87779E3D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elizabeth|Matilda Vernon Arms.svg"
+          },
+          "hash": "83b248fd15e8ca54d923180bc857382d97e1c636",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q150337",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elizabeth|Matilda Vernon"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Elizabeth|Matilda Vernon"
+    }
+  },
+  "lastrevid": 17577158,
+  "modified": "2025-09-17T16:30:58Z",
+  "ns": 860,
+  "pageid": 178790,
+  "sitelinks": {},
+  "title": "Item:Q150337",
+  "type": "item"
+}

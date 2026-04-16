@@ -1,0 +1,258 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aspagur I of Iberia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151791$2CD14333-E65C-405E-BF40-0F456184F9CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "268632"
+          },
+          "hash": "85d9ba7eb5d33cbe3ad36329df46adc41808def9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q151791$8524DD8C-F26C-4A7C-9B53-4D297DD1BCC4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738151"
+          },
+          "hash": "7867140552f0585101900eecab28e6d5e944c60b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151791$0015E7A3-2079-4503-8CB0-6C03A0CAD4BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151791$E8F20368-08D9-4165-A5C9-CB8E03B67648",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151791$DD370E24-C0B1-4846-B444-C64DA2092D3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151740",
+              "numeric-id": 151740
+            }
+          },
+          "hash": "882fc2c8709eeb8fcf6d5a055bdb754cdf6d67cb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151791$58F99698-8CF7-4A87-8A32-6B6BC4BA1CFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151791$D95F858E-B703-4027-8007-1F2B367A1835",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0284-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f3181cb8d6f0cfb3371cfc2672e22dd958cd27f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151791$6C27627D-6B3A-423E-80E3-A3A32345F912",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2715003"
+          },
+          "hash": "0b537ce1cd5495d5cb03655bdb0e1e31497ec05e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151791$1F0FEA8D-E9B4-4A35-B029-1B5EEAA6BDFE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aspagur I of Iberia Arms.svg"
+          },
+          "hash": "5256915e5f29d61c0f911a043d634a9b290742a8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Iberia (Kartli) from 265 to 284"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه ایبری (کارتلی) از ۲۶۵ تا ۲۸۴ میلادی"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Kaukasisch Iberië (?-284)"
+    }
+  },
+  "id": "Q151791",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Aspagur I d'Ibèria"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aspagur I of Iberia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aspacures I de Iberia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "وراز پاکور یکم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aspagur I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aspagour Ier d'Ibérie"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Aspagur I. od Iberije"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ასფაგური"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aspagur I of Iberia"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aspagur I of Iberia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аспаруг I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿斯帕古斯一世"
+    }
+  },
+  "lastrevid": 17579922,
+  "modified": "2025-09-17T17:08:50Z",
+  "ns": 860,
+  "pageid": 180245,
+  "sitelinks": {},
+  "title": "Item:Q151791",
+  "type": "item"
+}

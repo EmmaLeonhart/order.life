@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Condet"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148888$9DAB4395-8676-4C70-99A3-A52520859751",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00450123"
+          },
+          "hash": "0fafb75e1acc65e7c9ddfc5a147cd5a947c24f77",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148888$1D626F22-B290-4430-BC9C-1BE5445A6A69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144869",
+              "numeric-id": 144869
+            }
+          },
+          "hash": "65d3cd5838518261d16c0e6ebe2454381754e8b8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148888$FBEDC5AC-25D1-4688-8249-48736A1FF08C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148888$FF43DEC3-C598-49DE-869F-A9B183332B6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148888$0DDD6F1F-84CD-45E2-A11A-A7B79B0D32B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124539",
+              "numeric-id": 124539
+            }
+          },
+          "hash": "94d6a24b3625fe60836ea9e722d11ff4287e4fe6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148888$876D4ADE-D43F-43C7-9E0A-C7D1D667B208",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148888$35A7EB9B-B07A-4969-98F2-26E737B69F17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110641632"
+          },
+          "hash": "ec96cff5b0b62b15b2cde8533dbb0b218d107021",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148888$02C500BE-4E27-4A12-9C18-55658D0AEE3B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Condet"
+          },
+          "hash": "d7e529e2151313b83304d953d955fc072040cda0",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148888$1E894FC8-BEA6-4B6C-8A89-66276467E19D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Condet Arms.svg"
+          },
+          "hash": "34d1a6f3a66b8df347c7f07bddd85f5e0d5f57e3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- Abt 1141"
+    }
+  },
+  "id": "Q148888",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Robert de Condet"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Robert de Condet"
+    }
+  },
+  "lastrevid": 17574282,
+  "modified": "2025-09-17T15:51:46Z",
+  "ns": 860,
+  "pageid": 177341,
+  "sitelinks": {},
+  "title": "Item:Q148888",
+  "type": "item"
+}

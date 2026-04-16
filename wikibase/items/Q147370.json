@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Robert de Courtenay"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q147370$14785EDD-01F3-41B9-AAB5-2DD96E15C12C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "920073"
+          },
+          "hash": "faa36e0cde9bb73ce6989f1f1f40a6bd1ff849a9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147370$06135887-769E-49D3-97CA-AED3F89BEB67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147370$7A08796A-2D57-408B-8FF7-D8C286ADADBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147370$691B397A-A6ED-4338-A607-0B40FC522356",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p24827.htm#i248265"
+          },
+          "hash": "226ad8e1e7abdedf2739237109dbe37bb8de456a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147370$08C25814-6844-4F25-A66B-0DFC040765C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124980",
+              "numeric-id": 124980
+            }
+          },
+          "hash": "8c555166f2e57d9482971b506323fe17881aedcc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147370$E71BD934-3566-4185-A8EE-759B6CC67C40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147367",
+              "numeric-id": 147367
+            }
+          },
+          "hash": "f04677de210e86844fbd30b223ec060cc1c54833",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147370$644B303B-F416-41D3-9BF7-4FD037DD30CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147370$5FE3A40D-0774-4152-9F60-F924F3B32D71",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1224-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "226a2fcc5544f28fd37505c0e3b5faa4a912dad9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147370$1750EB7A-75F8-4EB5-B42D-5418FAE09E56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1279-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f058f9e0ce772f3f71c1a5f69dde7eb79d5872eb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147370$57730BFB-B9E6-4601-9549-D7CF391391F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3436635"
+          },
+          "hash": "e5a82f53164f7ce81a9dc8666026d08a62f46f2a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147370$2D4FD222-70A9-4EF3-9142-3D2EA7115CE8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=robert;n=de courtenay;oc=5"
+          },
+          "hash": "108dbd0d417dcec476622d4a83376d81427535cf",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147370$CEF07457-CC6E-4073-A491-AB3C57B7F083",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Robert de Courtenay Arms.svg"
+          },
+          "hash": "7434aaa0209be4fdfc694a5044b02b83557981cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "bisbe catòlic"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bischof der römisch-katholischen Kirche"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1224-1279)"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Évêque d'Orléans"
+    },
+    "it": {
+      "language": "it",
+      "value": "vescovo cattolico"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus catholicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "prelaat"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "biskup katolicki"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1224-1279)"
+    }
+  },
+  "id": "Q147370",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Robert de Courtenay"
+    },
+    "de": {
+      "language": "de",
+      "value": "Robert de Courtenay"
+    },
+    "en": {
+      "language": "en",
+      "value": "Robert de Courtenay"
+    },
+    "es": {
+      "language": "es",
+      "value": "Robert de Courtenay"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Robert de Courtenay"
+    },
+    "it": {
+      "language": "it",
+      "value": "Roberto di Courtenay"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Robert de Courtenay"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Robert de Courtenay"
+    }
+  },
+  "lastrevid": 17572032,
+  "modified": "2025-09-17T15:20:26Z",
+  "ns": 860,
+  "pageid": 175755,
+  "sitelinks": {},
+  "title": "Item:Q147370",
+  "type": "item"
+}

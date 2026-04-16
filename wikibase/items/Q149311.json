@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joan de Verdun"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149311$7173CA82-7273-4636-9E57-D912BBB33D61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00198201"
+          },
+          "hash": "ad96fb5061466e1c76af81083534c4705ebf2225",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149311$A972C3A0-A1DA-4FC7-AA0D-524AA884386F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Verdun-9"
+          },
+          "hash": "6db9e7104a224fd3b67242deaa1bd03c453b83a3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149311$B1749DE4-6E09-45E7-9089-5B71B54BC919",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149311$97D796F6-064E-43F2-A427-816521F1762A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149311$8942FAF7-8448-4568-82FC-5E43FE53152E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p40539.htm#i405384"
+          },
+          "hash": "be8bb013eac9d8493c5d2226135f0bcc8a54ef15",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149311$F58ED64A-ED7E-4EB7-95C8-96E8F15E1B0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145158",
+              "numeric-id": 145158
+            }
+          },
+          "hash": "080f550af57fc510ecfb4459603b5fbe7ac17724",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149311$79A01285-A6DB-46D7-A9E4-E57F944C08D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145117",
+              "numeric-id": 145117
+            }
+          },
+          "hash": "beb800955f29c03616f79faf585824aad86554dd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149311$8FC6BB4C-85B7-4A9C-A9FD-5DCE47E14AC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149311$1028F37E-5565-487B-9027-E05D783C1D1D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1303-08-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a96d40028f48960aeaf0b5fa9e6c64d372744be",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149311$091A6FB2-74D7-41AE-ABFB-BB94B42C0F6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1334-10-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "691091e520f88f34075830f08cd493f282ba747b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149311$53B2E704-95BF-45C7-A0B2-7A63F5A684D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75922607"
+          },
+          "hash": "bb1315eef48077abe5813b9ddc56f7727d65b6a8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149311$3DB79F46-9891-4E8E-B126-106E4CFBC75D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joan de Verdun Arms.svg"
+          },
+          "hash": "ef2beac4bc9b147893e8c1d594ab94ce10742c48",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=405384"
+    }
+  },
+  "id": "Q149311",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Joan de Verdun"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Joan de Verdun"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джоан де Верден"
+    }
+  },
+  "lastrevid": 17575118,
+  "modified": "2025-09-17T16:03:15Z",
+  "ns": 860,
+  "pageid": 177764,
+  "sitelinks": {},
+  "title": "Item:Q149311",
+  "type": "item"
+}

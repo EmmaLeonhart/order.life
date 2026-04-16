@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir William FitzWarine 'le Frere'"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148855$9CA7245F-05FC-42D5-BC95-DB6C6CD5263C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00199048"
+          },
+          "hash": "3dba59246ff926f4d765096bdcbf72adabbd1760",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q148855$9B3BB9CE-D947-4183-B293-BF3359B1E417",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "FitzWarin-92"
+          },
+          "hash": "f33c7bae38ccfc890cf143156184f72e900d9f21",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148855$C6D8B8FE-5266-403C-BE3A-44F4115D605E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148855$F68B57E4-3F62-417F-932F-D938E9C6D880",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148855$6A2A3BBF-9157-4A7E-BDA9-DD9481FB0EDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144835",
+              "numeric-id": 144835
+            }
+          },
+          "hash": "f85608e6161ee638d7945b230a2eff93df71200c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148855$0C4BEF0C-D2A6-47F7-9E0E-0BE917B82BAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149879",
+              "numeric-id": 149879
+            }
+          },
+          "hash": "d76023f147cd0eda9d6d169abd23812fbc10edd2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148855$D2E431BB-65F9-41A7-8F1A-5D6DAB847B1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148855$4A536786-791B-407C-A394-89FC3F382041",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1311-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "92b99ce519ef3033cab8a5e1d07c510822811995",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148855$9F605C7C-A690-4967-B528-C824719FC19D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1361-10-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "59b69b20ff7c69fe61ef57b3877a2466b5b9a905",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148855$D624EF9A-8990-4CFB-8EBF-CFBE9D74AE1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110520824"
+          },
+          "hash": "7dcf09c01bef9341527eca463b44c95f280d186f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q148855$786C755C-2DC5-423F-97BF-CABEB82EBF47",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir William FitzWarine 'le Frere'"
+          },
+          "hash": "f63ba6854aae1df26a422a2f6afc23963c5b3ff2",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148855$24355DBB-CEB3-4F6D-BFD6-866E08231E5E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir William FitzWarine 'le Frere' Arms.svg"
+          },
+          "hash": "03aaea57548b034aaaf04c8c5fd6876cdae657a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Est 1311 - 28 Oct 1361 Wantage, Berkshire"
+    }
+  },
+  "id": "Q148855",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir William FitzWarine 'le Frere'"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Sir William FitzWarine 'le Frere'"
+    }
+  },
+  "lastrevid": 17574216,
+  "modified": "2025-09-17T15:50:50Z",
+  "ns": 860,
+  "pageid": 177308,
+  "sitelinks": {},
+  "title": "Item:Q148855",
+  "type": "item"
+}

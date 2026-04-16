@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Roger de Merlay"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147292$9BA3A9BC-E94D-4CBC-8089-99E5421E4B78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00219032"
+          },
+          "hash": "cbfbe737a475bcf0250ea1768d387c88057f5dc4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147292$4708444D-FA76-4E21-A038-F5191EC3ACC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Merlay-2"
+          },
+          "hash": "b0fbbb4a297c1969e57e888b0df722d3a52e2f4a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147292$E6E44A09-D141-4717-8D82-E85EE3ACCE2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147292$9843C422-7A32-4EFB-AB2A-B58D682BDA84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147292$0E7C43FD-BC7C-488F-845D-0147640EC0A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147291",
+              "numeric-id": 147291
+            }
+          },
+          "hash": "e8308d869a9a9ccbbb47c4574652f93180a8d690",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q147292$1F5E3C39-9D65-4110-AF5D-7AF3ECE1187F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143746",
+              "numeric-id": 143746
+            }
+          },
+          "hash": "60f2712b36a1bdd9f96d00c99643685baa907a6b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147292$EEE6D253-51A4-4B26-ABE6-D27DB4765259",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147292$E987C797-A8B6-4EBA-A3A3-C29A7D7C5538",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1140-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b77a02bf3d1b65e76819a0e6802e2ee8ff68bae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147292$38AFB238-6223-44F9-86B9-FA738AF9B7AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1188-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "541e48a16c68ec71f7150e69c9f4ef8e57dcbfbd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147292$94D6C90B-AF7A-45D7-9DA9-9E86DB3D96AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q98101439"
+          },
+          "hash": "596018d376978d271c4c38b20380c6a451af4d10",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147292$BDC06FFC-71FC-42D5-8318-8FB833BC9C6D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Roger de Merlay Arms.svg"
+          },
+          "hash": "ac0a40c3bdc4fdfd2f1a9d46eb268d740e79d569",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "- 1188"
+    }
+  },
+  "id": "Q147292",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Roger de Merlay"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Roger de Merlay"
+    }
+  },
+  "lastrevid": 17571912,
+  "modified": "2025-09-17T15:18:49Z",
+  "ns": 860,
+  "pageid": 175677,
+  "sitelinks": {},
+  "title": "Item:Q147292",
+  "type": "item"
+}

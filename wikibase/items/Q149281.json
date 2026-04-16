@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Marshal"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149281$557CBC8B-6515-4CB8-A099-B4981B6764AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00478467"
+          },
+          "hash": "0abc10604b60da2949a1e813e157de67780b0b01",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149281$ED86545F-5ABD-4882-919D-88DA0F0FF142",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Marshall-212"
+          },
+          "hash": "dfa1a77194f4318c082c5e70825cb29c39132824",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149281$D042B177-B9B7-4A93-9F7A-4A32506C388A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149281$72362869-1138-44E4-A079-96479B3738B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149281$CBF1384C-DB00-4110-902A-37EF189482F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q149280",
+              "numeric-id": 149280
+            }
+          },
+          "hash": "31e90c6654a11bc7509361daa57f9ee0678b4610",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149281$3225B4A9-5FA6-4A8D-9C66-A5C6F84EF809",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145097",
+              "numeric-id": 145097
+            }
+          },
+          "hash": "6054e3cd5f028e7222139e5baa99999bc6c0c1b2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149281$6ABF92A3-C4C1-4EB9-869F-DF9F8557EF68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149281$F5A13C8B-9E72-4F8E-91D4-368BCCB379B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1257-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7e377bbe09617a144dab34ca67e3a8816e770f3e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149281$E0703D1C-8F94-4AEA-99FF-D38AB61A6B3A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1282-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da8cf2de3988e13a58eace87354874246734c93b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149281$1EAEE019-7F6C-4287-9D33-6527DBEA76F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24008617"
+          },
+          "hash": "c0d22c4f649436a62bf2ce04babd208ef89e7ab4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149281$9B88B210-0002-4408-8E78-977CD32961EB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "John Marshal"
+          },
+          "hash": "4890fca3c356c565bd247f025a54b79de7905fd8",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149281$D97DD148-10D5-4BD4-81CC-9ABDC54F3EC8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Marshal Arms.svg"
+          },
+          "hash": "da935f8f9f895e57b83190e893b00d3a53e26151",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger (* 1257)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1257-1282)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "барон Хингэма"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1257-1282)"
+    }
+  },
+  "id": "Q149281",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "John Marshal"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "John Marshal"
+    },
+    "de": {
+      "language": "de",
+      "value": "John Marshal"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Marshal"
+    },
+    "es": {
+      "language": "es",
+      "value": "John Marshal"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "John Marshal"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Marshal"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джон V Маршал"
+    }
+  },
+  "lastrevid": 17575058,
+  "modified": "2025-09-17T16:02:27Z",
+  "ns": 860,
+  "pageid": 177734,
+  "sitelinks": {},
+  "title": "Item:Q149281",
+  "type": "item"
+}

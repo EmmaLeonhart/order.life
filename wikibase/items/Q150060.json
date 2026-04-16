@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mallt verch Gruffudd"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q150060$99090146-073C-481A-943A-3CFAECF74B43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00696160"
+          },
+          "hash": "17e673cbb1d4ad71539475f4969766bd641f61eb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q150060$D0B3D1CE-D3CC-4337-ABB7-478C302BC2B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferch_Derwas-1"
+          },
+          "hash": "7434593656318476b356935434ee59300261e2b6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q150060$7781BA69-DA3E-4E94-AEE1-35076FD71C81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q150060$6E4E657E-1EDE-4B20-A819-7CBD2EF7284F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q150060$F923094B-2C60-450B-8F83-17EE83DFCEB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p60997.htm#i609963"
+          },
+          "hash": "5438be1cf8fd007b521606c406ba276be9722a7a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q150060$3804704B-353C-491D-BDFA-F14E26F8FD09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145575",
+              "numeric-id": 145575
+            }
+          },
+          "hash": "3b1c138cc9be6993ea02d327c8061b5a668d649e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q150060$610844C5-42FE-41B6-913D-B8FF4C551D36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q150060$D14A3152-B40B-4198-ABE3-223DDD1AF1A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e7df256e389e91afb4bf544e4fd35740c5bb3f3d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q150060$825709A2-7E14-4589-9856-AA005B0E8EEE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1445-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e848e142fe6942adfb7e93dc2130138cb2cf29c7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q150060$68BDEE72-842D-4809-93EA-D318D23DF9E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76214390"
+          },
+          "hash": "896d644a09a1d0d264e1c5fb77b3df460d3b329c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q150060$438F6BC0-BC41-4BB7-A40F-B6BD1929ECEC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mallt verch Gruffudd Arms.svg"
+          },
+          "hash": "83d1941bee59080d468088b6625f8a9e0a5df463",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=609963"
+    }
+  },
+  "id": "Q150060",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mallt verch Gruffudd"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mallt Meurig"
+    }
+  },
+  "lastrevid": 17576606,
+  "modified": "2025-09-17T16:23:27Z",
+  "ns": 860,
+  "pageid": 178513,
+  "sitelinks": {},
+  "title": "Item:Q150060",
+  "type": "item"
+}

@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Diarmait Ua Briain"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147682$06E7A97A-43B5-4182-8666-39A6C5B0A021",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00117056"
+          },
+          "hash": "5fc50bcb9da15be49c92f4fbd4a79998c9260540",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147682$07E66227-690B-4E92-8D73-E5DB2A79F654",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Briain-6"
+          },
+          "hash": "0d47feecda867c6c82a9d4b5100cf6453cc0bd3d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147682$ACB1386D-FF24-4395-A9B2-C3B490DAFFAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147682$69A32A36-0637-44FB-B99A-B3308146775C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q147682$C6B1F2E9-D44F-4A27-BEE5-A70F9396433B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10286.htm#i102851"
+          },
+          "hash": "3f5f3b29a6612384c36fdbf52f278dd397a11476",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147682$682CD027-A16D-46A9-83FE-7E4BE43530C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143860",
+              "numeric-id": 143860
+            }
+          },
+          "hash": "cf3c630301c63bcbb7a82361af5637cdbc772d2b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147682$8206E7F7-6B54-44B1-BD00-28D45FAA60D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147682$61121F78-FA73-40F7-B748-FF94E27D7792",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1060-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75d0b4773aface83de4236d8e314d20d6b4aaa04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147682$CC4ADE8A-2CFA-4C0C-947F-46DFE93BBAFC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1118-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f86c76623ffffa33ae8ca1d73f737742cb6c33f2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147682$AA99A1DC-72DF-4FC4-9EF7-83C1A45C781B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3026342"
+          },
+          "hash": "63b085b2d59e55b16084e14154ad7a2b7db80d71",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147682$2C59F607-A584-42F4-BDFB-998F3276D4BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=dermord;n=o+brien|p=diarmait;n=o+brien"
+          },
+          "hash": "709e3c62eb315b83eeba42be65c7931e2963a8e3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147682$BF371DDF-AA9B-46F0-B2D7-DA377E229099",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Diarmait Ua Briain Arms.svg"
+          },
+          "hash": "7b5925e0ee186715e6d5c9cc1c529066594883b7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin (1060-1118)"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Munster"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí Mumhan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Мунстера"
+    }
+  },
+  "id": "Q147682",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Diarmait Ua Briain"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Diarmait Ua Briain"
+    },
+    "de": {
+      "language": "de",
+      "value": "Diarmait Ua Briain"
+    },
+    "en": {
+      "language": "en",
+      "value": "Diarmait Ua Briain"
+    },
+    "es": {
+      "language": "es",
+      "value": "Diarmait Ua Briain"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Diarmait Ua Briain"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Diarmait Ua Briain"
+    },
+    "id": {
+      "language": "id",
+      "value": "Diarmait Ua Briain"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Diarmait Ua Briain"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Диармайт Уа Бриайн"
+    }
+  },
+  "lastrevid": 17572344,
+  "modified": "2025-09-17T15:24:51Z",
+  "ns": 860,
+  "pageid": 175933,
+  "sitelinks": {},
+  "title": "Item:Q147682",
+  "type": "item"
+}

@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Livius Salinator"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151591$32884F58-1238-4AF5-89BE-D5BEA3A194E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151476",
+              "numeric-id": 151476
+            }
+          },
+          "hash": "ab1462f6a1873d5c6d3c54db025f8ebcb339240f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151591$7FC1E307-86EF-445D-AE0C-2C6BFB813C20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151591$5C8DE2FB-6777-4E70-A6F2-52385463EF9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151591$3AC3C563-2D90-48F3-BCEE-E98404B05B98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151683",
+              "numeric-id": 151683
+            }
+          },
+          "hash": "073aa24988ee33349a6bcbe8fcfcaa893f2ea71f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151591$16B3DEB1-9E14-41CD-B4F7-FC3319A7AE71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151591$D8942C99-D0CC-4E05-8725-426C6DCC9BCB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151591$1418307C-C74B-4F5D-9860-845B27F2244E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106454474"
+          },
+          "hash": "956d9b04ef0622ce20e7e4c6ef2219c1ccada2d2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151591$2C2BC8DF-5078-441F-A1E3-D632C850276D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marcus Livius Salinator Arms.svg"
+          },
+          "hash": "441417bb70e59a922871196a1db54f466a612f5e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "decemvir in 236 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "decenviro en el año 236 a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "decemvir romain en 236 av. J.-C."
+    }
+  },
+  "id": "Q151591",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Marcus Livius Salinator"
+    },
+    "en": {
+      "language": "en",
+      "value": "Marcus Livius Salinator"
+    },
+    "es": {
+      "language": "es",
+      "value": "Marco Livio Salinator"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Marcus Livius Salinator"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marco Livio Salinatore"
+    },
+    "la": {
+      "language": "la",
+      "value": "Marcus Livius Salinator"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Marcus Livius Salinator"
+    }
+  },
+  "lastrevid": 17579576,
+  "modified": "2025-09-17T17:04:16Z",
+  "ns": 860,
+  "pageid": 180045,
+  "sitelinks": {},
+  "title": "Item:Q151591",
+  "type": "item"
+}

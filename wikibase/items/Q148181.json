@@ -1,0 +1,505 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaius Maecenas"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q148181$822A7E18-F22B-4C46-9292-52CC1833D01A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00801090"
+          },
+          "hash": "e5a5234ba03013ef6ff0a902b87c56456788a25f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148181$6505A90D-EBDF-474E-8363-B87695211487",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148181$AD52BD53-3B6D-4570-AE05-024DE7B68518",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148181$B80E1790-7B64-4927-9331-50D4A55A7D84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144231",
+              "numeric-id": 144231
+            }
+          },
+          "hash": "9eaa9ae28403bf3618cd560388319e4936849cda",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148181$EB29782A-D1E0-4FC8-87BF-1819FBC457BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148181$A249F000-F50A-471F-AE5A-3260DEE36EC9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0070-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2b030a539cb0c5de3da2c42eb92eae0bbcf34151",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148181$4AECDE7C-41B0-4969-8E04-79585669E819",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0008-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2d4df4f30b74e7c1e2f08b09374d1f0bf03866c6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148181$7F1A2C84-E81B-4C45-84EF-D72967F77EE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8833"
+          },
+          "hash": "32eaade1fc86a37905e59d34ad2be3eafc99bb71",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148181$E4427BFE-1624-4E40-9DD0-4EC1DB9CB456",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaius Maecenas Arms.svg"
+          },
+          "hash": "32bc469dfb609b715adc3140f5946f38dd724212",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان پوليتيسيان من روما القديمه"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "старажытнарымскі дзяржаўны дзяяч, апякун мастацтваў"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític romà"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vertrauter und politischer Berater des römischen Kaisers Augustus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman political advisor (d. 8 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "amigo y consejero de Augusto"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen neuvonantaja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "conseiller de l'empereur Auguste"
+    },
+    "he": {
+      "language": "he",
+      "value": "ידידו ויועצו של הקיסר אוגוסטוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "(i. e. 68–8) római mecénás, Augustus politikai császár tanácsadója"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "古代ローマの政治家"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-8v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski polityk, doradca Augusta, patron poetów i opiekun artystów"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнеримский государственный деятель и покровитель искусств: его имя как покровителя искусств сделалось нарицательным"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "rådgivare och vän till kejsare Augustus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньоримський державний діяч, радник Октавіана Августа, покровитель мистецтв"
+    }
+  },
+  "id": "Q148181",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غايوس مايكيناس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جايوس مايكيناس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гай Цыльній Мецэнат"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Гай Цыльніюс Мэцэнат"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Гай Цилний Меценат"
+    },
+    "br": {
+      "language": "br",
+      "value": "Caius Cilnius Mæcenas"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Gaius Cilnius Maecenas"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mecenàs"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Maecenas"
+    },
+    "da": {
+      "language": "da",
+      "value": "Gaius Cilnius Mæcenas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gaius Maecenas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γάιος Μαικήνας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaius Maecenas"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Gaius Maecenas"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gaius Maecenas"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Mecenaso"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cayo Mecenas"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Gaio Mezenas"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گایوس مایسیناس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gaius Maecenas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mécène"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Mecenas"
+    },
+    "he": {
+      "language": "he",
+      "value": "גאיוס קילניוס מאיקנס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gaj Mecena"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gaius Cilnius Maecenas"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գայոս Մեկենաս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gaius Cilnius Maecenas"
+    },
+    "is": {
+      "language": "is",
+      "value": "Gaius Maecenas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Cilnio Mecenate"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガイウス・マエケナス"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Гай Меценат"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "가이우스 마이케나스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Cilnius Maecenas"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Gajus Cilnijus Mecenatas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Гај Килниј Мецена"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mæcenas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaius Cilnius Maecenas"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Mæcenas"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gajusz Cilniusz Mecenas"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Gajo Mecenà"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mecenas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Caio Cílnio Mecenas"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gaius Mecenas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гай Цильний Меценат"
+    },
+    "rue": {
+      "language": "rue",
+      "value": "Гай Меценас"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Mecenate"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaj Mecena"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Gaius Maecenas"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gaj Cilnij Mecena"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaius Maecenas"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Гај Килније Мецена"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Maecenas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Цільній Меценат"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Metsenat Gay Silniy"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "梅塞納斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "梅塞納斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "梅塞納斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "梅塞納斯"
+    }
+  },
+  "lastrevid": 17572968,
+  "modified": "2025-09-17T15:33:22Z",
+  "ns": 860,
+  "pageid": 176469,
+  "sitelinks": {},
+  "title": "Item:Q148181",
+  "type": "item"
+}

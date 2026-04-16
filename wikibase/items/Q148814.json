@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Wake"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q148814$CE1B04C7-95C7-415A-9E0B-38E934055FD3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wake-98"
+          },
+          "hash": "c9fb5e0e2c5934139c15333ea1023b276d0f31c1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148814$69E96C55-1C54-4F86-AFF2-DF8E4F42A712",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148814$5E13B1A1-E1A1-4984-8CC0-8A33D0E136FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q148814$A71E7B2E-5DAD-44A9-AE2B-381A09E56167",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p57375.htm#i573750"
+          },
+          "hash": "0b25ec9b35bb2488ac5a6da2f0590ea3299914d9",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q148814$6F2D5CA0-DD1A-4EEF-90E6-6C6327112B58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144784",
+              "numeric-id": 144784
+            }
+          },
+          "hash": "4e9b68ed5261da32b779bc577383d21d2ecc530f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148814$47CC8D3B-2907-4CAD-9446-EAA492DBEBC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148812",
+              "numeric-id": 148812
+            }
+          },
+          "hash": "3f130cbb4e7b618d33ec87d5eb5d2810d1f7d202",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148814$2B40BDC7-265B-486F-BD4F-A4D9A1E86873",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148814$C811F871-D591-429D-8731-D1A73DA6440E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1293-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d0b5b8a9e27378384e3399229f90143499d8606",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148814$17DE425C-F5D5-4A4D-8CD4-3DDD3A9D64E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76163177"
+          },
+          "hash": "adf50e82c876ec2ec7a2eb88b5ae75d39b7b81c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148814$F61B378E-FFBF-47D9-9C25-26D8C5B3132B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Wake Arms.svg"
+          },
+          "hash": "236b87e6e1d45ed01b5b37cce639840d8505455a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=573750"
+    }
+  },
+  "id": "Q148814",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John Wake"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Wake"
+    }
+  },
+  "lastrevid": 17574134,
+  "modified": "2025-09-17T15:49:39Z",
+  "ns": 860,
+  "pageid": 177267,
+  "sitelinks": {},
+  "title": "Item:Q148814",
+  "type": "item"
+}

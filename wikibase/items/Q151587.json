@@ -1,0 +1,394 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Appius Claudius Caudex"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151587$82FCDED3-06B2-472A-8C05-EC45570D9D79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "132739"
+          },
+          "hash": "6a67408b04b11057b189d047cd4cdaffd196ede6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151587$03A4CA82-774C-449D-95B8-767DBF7475DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151587$6AF8433A-3513-49E0-B89E-45514883C751",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151587$FF329F58-ADE1-4D4F-AD74-A126AA45431C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Appius_Claudius_Caudex_(1)"
+          },
+          "hash": "99f3069762065ce4050eef4180a5adff30628d34",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151587$BC4DE6C5-A5AB-4A77-AC38-C18164E5BF62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73887",
+              "numeric-id": 73887
+            }
+          },
+          "hash": "15633c14618fe2a44b9eb037d45b2485daedf683",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151587$DC3308F6-384C-4C5F-B8E1-29F58C7FE9B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151587$34D98BBA-C19E-4CBB-8828-7C50B1A59E4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151587$45F3A1C0-CAD8-411D-8423-EC14B6B14B31",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151587$EE621934-3771-42B1-8908-6D5F771BEDC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q453947"
+          },
+          "hash": "4239495f8beb95dad8f986503d4b622ac5a067a6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151587$1F6727DB-6A96-417D-AF64-A1F7F1F7A887",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Appius Claudius Caudex Arms.svg"
+          },
+          "hash": "212750efecc959aa4e42898488448518be7549f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "cònsol el 264 aC"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman consul 264 BC"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 264 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "קונסול (264 לפנה\"ס) ומצביא רומי במלחמה הפונית הראשונה, הראשון שנלחם מחוץ לגבולות איטליה"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano, console nel 264 a.C."
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (?-300v Chr)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 264 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньоримський консул"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马执政官"
+    }
+  },
+  "id": "Q151587",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Апий Клавдий Кавдекс"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Api Claudi Càudex"
+    },
+    "da": {
+      "language": "da",
+      "value": "Appius Claudius Caudex"
+    },
+    "de": {
+      "language": "de",
+      "value": "Appius Claudius Caudex"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άππιος Κλαύδιος Καύδηξ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Appius Claudius Caudex"
+    },
+    "es": {
+      "language": "es",
+      "value": "Apio Claudio Cáudex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Appius Claudius Caudex"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Apio Claudio Caudex"
+    },
+    "he": {
+      "language": "he",
+      "value": "אפיוס קלאודיוס קאודקס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Apio Claudio Cáudice"
+    },
+    "id": {
+      "language": "id",
+      "value": "Appius Claudius Caudex"
+    },
+    "it": {
+      "language": "it",
+      "value": "Appio Claudio Caudice"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アッピウス・クラウディウス・カウデクス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აპიუს კლავდიუს კაუდექსი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Appius Claudius C.f. Caudex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Appius Claudius Caudex"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Appiusz Klaudiusz Kaudeks"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ápio Cláudio Cáudice"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ápio Cláudio Cáudice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аппий Клавдий Кавдекс"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Apije Klaudije Kaudeks"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Appius Claudius Caudex"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Апије Клаудије Каудекс"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Appius Claudius Caudex"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Appius Claudius Caudex"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аппій Клавдій Кавдекс"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿庇乌斯 · 克劳狄乌斯 · 考德克斯"
+    }
+  },
+  "lastrevid": 17579568,
+  "modified": "2025-09-17T17:04:09Z",
+  "ns": 860,
+  "pageid": 180041,
+  "sitelinks": {},
+  "title": "Item:Q151587",
+  "type": "item"
+}

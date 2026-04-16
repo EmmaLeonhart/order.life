@@ -1,0 +1,508 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Catiline"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q148202$626C3C93-B621-412F-8666-DE7C58894107",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148202$B80FC683-AB5F-4719-AC62-648C001D2388",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q148202$3523DD31-9E27-43C1-8F9D-F7FCAFAFEAD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144266",
+              "numeric-id": 144266
+            }
+          },
+          "hash": "7b489ddb5c29eb525574dd0af9f2ca28f76f6ba0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148202$42C9657C-DFD7-44D1-BCA7-4F4C3AB4EF6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151563",
+              "numeric-id": 151563
+            }
+          },
+          "hash": "581ca1cb1f363361578cc79a057e66cfbf39200a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q148202$D64CBB55-9C4A-4FA2-9F3C-9B0661805E6A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151561",
+              "numeric-id": 151561
+            }
+          },
+          "hash": "84069445cccb44d47c9fe81c46a0a9ba3efa13af",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148202$80481C5D-95EB-43BB-B206-8510ECDD0EEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148202$C838E483-1C02-49E7-9AF6-1DF5FB1A1925",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0108-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d9318ef318c9b1e56c91eb2d61b8f6a4f3ca8da0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148202$E91E13D0-ACE8-4038-8E75-E15A696233E8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0062-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e101e43e9c9baa821d8cc5066afe687d49284d38",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148202$139A3EDB-9232-41D8-A91C-435409BDC92C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75826"
+          },
+          "hash": "0e36411ee36813c4f4179af3611ec53e2dacfd94",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148202$594A5104-F4EA-4B8F-9F58-06FBA28827DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Catiline Arms.svg"
+          },
+          "hash": "c3870c5549fee7b9c8f6dc1545d97f78e971894a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان پوليتيسيان من روما القديمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Politiker, Verschwörer"
+    },
+    "el": {
+      "language": "el",
+      "value": "γερουσιαστής της Αρχαίας Ρώμης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman politician, senator and soldier (c.108–62 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "conspirador romano de mediados del siglo I a. C."
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin roomalainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique romain"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir, seanadóir, agus saighdiúir Rómhánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "senador da antiga Roma"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cicero politikai ellenlábasa"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare e senatore romano (108 a.C. –62 a.C.)"
+    },
+    "la": {
+      "language": "la",
+      "value": "politicus Romanus hispanicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soldaat uit Oude Rome (108v Chr-62v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "rzymski polityk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "militar e senador romano"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "senator roman"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский сенатор, пытавшийся устроить заговор против республики"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "rimski politik, senator in vojak (ok. 108–62 pr. n. št.)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q148202",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كاتيلين"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كاتيلين"
+    },
+    "az": {
+      "language": "az",
+      "value": "Lusius Sergu Catilina"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Луций Сергий Катилина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Luci Sergi Catilina"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lucius Sergius Catilina"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Lucius Sergius Catilina"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lucius Sergius Catilina"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Sergius Catilina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κατιλίνας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Catiline"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Katilino"
+    },
+    "es": {
+      "language": "es",
+      "value": "Catilina"
+    },
+    "et": {
+      "language": "et",
+      "value": "Lucius Sergius Catilina"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Katilina"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لوسیوس سرگیوس کاتلین"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Catilina"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Catilina"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lucius Sergius Catilina"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Lucio Serxio Catilina"
+    },
+    "he": {
+      "language": "he",
+      "value": "לוקיוס סרגיוס קטילינה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Katilina"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lucius Sergius Catilina"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լուկիոս Սերգիոս Կատիլինա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Catiline"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Sergio Catilina"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキウス・セルギウス・カティリナ"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Луций Сергий Катилина"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "루키우스 세르기우스 카틸리나"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Sergius Catilina"
+    },
+    "li": {
+      "language": "li",
+      "value": "Lucius Sergius Catilina"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Lucijus Sergijus Katilina"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Catilina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lucius Sergius Catilina"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Catilina"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Catilina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Katylina"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lúcio Sérgio Catilina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lúcio Sérgio Catilina"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Сергий Катилина"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Catiline"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Katilina"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Katilina"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Catiline"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Луције Сергије Катилина"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Catilina"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lucius Sergius Catilina"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Луцій Сергій Катіліна"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کیٹلائن"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ლუციუს სერგიუს კატილინა"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "喀提林"
+    }
+  },
+  "lastrevid": 17573004,
+  "modified": "2025-09-17T15:33:52Z",
+  "ns": 860,
+  "pageid": 176535,
+  "sitelinks": {},
+  "title": "Item:Q148202",
+  "type": "item"
+}

@@ -1,0 +1,310 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lucius Tullius Cicero"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151430$8FB20E64-7BE5-448C-B5BF-256E3C754D9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00801075"
+          },
+          "hash": "308c55b86179d56524e095b87c85aaed4ab0bf0a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151430$A2871F5F-CA82-46DF-AFCA-8D9FF4D2AE60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148183",
+              "numeric-id": 148183
+            }
+          },
+          "hash": "283a8de9effc86a38596df5be200e712ef2c6ca5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151430$52665242-7EE8-410C-805A-5C06FF6056FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151431",
+              "numeric-id": 151431
+            }
+          },
+          "hash": "32390aa99cc2663ec1ba95933ac3f8b72d333f64",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151430$9868BDBE-4C48-483C-8904-0929F3F94883",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151430$6DEC231A-10AD-4F41-BD19-68F2B754A2B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151430$81995472-395F-444E-B9B0-272B314CD7C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151513",
+              "numeric-id": 151513
+            }
+          },
+          "hash": "794aea87bf092062eb62b7de36df9a2aad15de50",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q151430$22195A6D-CC21-4A19-85C1-46AD5FDCDB68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148200",
+              "numeric-id": 148200
+            }
+          },
+          "hash": "1f1f11694d513fc5f3132885cb3f681f25c60409",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151430$9EF9973D-8ED5-4778-BE7F-2AFA18640DAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151430$BE02DEF6-875B-4680-B0C5-58A5DEE75100",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151430$B3E1F920-7D17-48BF-9DDE-9728A37B603E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151430$D4422CE5-C43A-49F0-86DC-35FD310C849D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20109059"
+          },
+          "hash": "41d03d70fc43f38e3c16eddd07f18060bebee1ed",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151430$AC037DB9-590C-4EBE-87EA-CE36E359BB4D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lucius Tullius Cicero Arms.svg"
+          },
+          "hash": "51807f6bb3fcb59aa93a986cbeea3985625ffa74",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "uncle of the orator Cicero"
+    },
+    "es": {
+      "language": "es",
+      "value": "tío paterno de Cicerón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "chevalier romain, oncle paternel de Cicéron"
+    }
+  },
+  "id": "Q151430",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Luci Tul·li Ciceró el vell"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lucius Tullius Cicero"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lucius Tullius Cicero"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lucio Tulio Cicerón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lucius Tullius Cicero"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lucio Tullio Cicerone il Vecchio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lucius Tullius Cicero"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Луций Тулий Цицерон"
+    }
+  },
+  "lastrevid": 17579290,
+  "modified": "2025-09-17T17:00:27Z",
+  "ns": 860,
+  "pageid": 179884,
+  "sitelinks": {},
+  "title": "Item:Q151430",
+  "type": "item"
+}

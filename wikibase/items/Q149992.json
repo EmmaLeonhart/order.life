@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "William Latimer"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q149992$66D7DAD0-121C-43A3-8982-5E35817C51D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00314846"
+          },
+          "hash": "90dadecd7b8052eef01c12f5ac09ee8e427a8b98",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q149992$4C8BA46B-4168-4A35-B2CC-F9AFBC0082EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145505",
+              "numeric-id": 145505
+            }
+          },
+          "hash": "bb52c76855a2e5d8f91aec1e5079c465372fff86",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q149992$E275556A-774D-4324-A71D-02D7A0BE0ABA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Latimer-42"
+          },
+          "hash": "1628f37a0efcf989650e1aa33b89c4349b039f3d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q149992$B5B50DE0-8F00-4E1C-A75A-3C95EBCFFB6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149992$4FAE1F93-216B-4C8F-B533-3F9D508E3FE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q149992$3526F112-697B-462B-8FDC-DD0DA02C9EF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p359.htm#i3588"
+          },
+          "hash": "ae07a17cbcbc54bfa71db786a47b9223eecba4ec",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149992$6534FCF9-4484-44E6-BDB0-C6600340269B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149992$0FEE65EA-48B2-4D15-871B-FAB5EEF435AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149992$8D9F2DE3-5BDE-4ED7-BBFB-ACFA25FBC63C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1268-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65e5deac8ef0ca4e70f42541e7c6387a25e98170",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149992$C2308603-18CC-4018-9296-C980D8A121A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q50100812"
+          },
+          "hash": "fb99a238bb0ed71cae1cea2b669d5dddf32cb8b0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q149992$7314E4E6-4601-4597-9EBA-FA14B850669F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "William Latimer"
+          },
+          "hash": "c8a310624a9ee3d88eb22dcd75ba5131ae36161a",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149992$5EEE3AD7-FE0B-4467-B673-D959327B1E59",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "William Latimer Arms.svg"
+          },
+          "hash": "66cd86839cf7b09dfd68693dbbec08adc747f6dc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "englischer Adliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "English noble, died 1268"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "шериф Йоркшира"
+    }
+  },
+  "id": "Q149992",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "William Latimer"
+    },
+    "de": {
+      "language": "de",
+      "value": "William Latimer"
+    },
+    "en": {
+      "language": "en",
+      "value": "William Latimer"
+    },
+    "es": {
+      "language": "es",
+      "value": "William Latimer"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "William Latimer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "William Latimer"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уильям Латимер"
+    }
+  },
+  "lastrevid": 17576470,
+  "modified": "2025-09-17T16:21:37Z",
+  "ns": 860,
+  "pageid": 178445,
+  "sitelinks": {},
+  "title": "Item:Q149992",
+  "type": "item"
+}

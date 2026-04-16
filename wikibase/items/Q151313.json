@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aretas II"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151313$B9705C69-0782-454D-8600-20B2ABFC2F86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151314",
+              "numeric-id": 151314
+            }
+          },
+          "hash": "c4eb9a0e273e3bcc3f101e82555be5880501bcd9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151313$3834CA5D-3F42-4E01-BA54-ED6E4D9270CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151307",
+              "numeric-id": 151307
+            }
+          },
+          "hash": "26c975eb327b62796e781de57e8adcfe9f06f234",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151313$D2077E66-A742-451F-A9D0-43FCD86586D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151313$EEED0896-2780-4A16-9ACB-EC1294A0CA6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151313$7CB3E0C9-848A-4267-8B11-0D86BFF60DDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151313$0EF6581D-5852-4C8D-871B-64B8641460BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151313$39006190-86AB-4C42-94F9-D6267DC3987D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2483822"
+          },
+          "hash": "0ed0bd723ee439e237eea5519fbb2efc2f6ad354",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151313$DD1B0723-E623-475F-927F-89A3B4D2BD29",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aretas II Arms.svg"
+          },
+          "hash": "48879b8bec48fe9273553bae30a8986fb845688d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ثاني ملوك مملكة الأنباط"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nabatean King, King of the Arabs, Military Commander"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Nabatea"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Nabatejczyków"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Набатеї"
+    }
+  },
+  "id": "Q151313",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "حارثة الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "حارثه التانى"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aretas II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aretas II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arétas II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレタス2世"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aretas II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aretas II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aretas II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арета II"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Aretas II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Aretas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арета II"
+    }
+  },
+  "lastrevid": 17579080,
+  "modified": "2025-09-17T16:57:40Z",
+  "ns": 860,
+  "pageid": 179767,
+  "sitelinks": {},
+  "title": "Item:Q151313",
+  "type": "item"
+}

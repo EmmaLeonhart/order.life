@@ -1,0 +1,366 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Julius Avitus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q151864$7CEFF332-24AF-4F12-A625-61F2B1FEE6A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446878"
+          },
+          "hash": "fc50c8fe7aeba87a66bf86990e81256c1bdae642",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151864$0FA4EF7B-0CFC-4952-A132-B07C63DAE05E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148329",
+              "numeric-id": 148329
+            }
+          },
+          "hash": "94c3192380d702cc6c4b5005a0a537eb1648a10f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151864$B2EBD50A-3EB8-4571-B73E-7969043A4325",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4681",
+              "numeric-id": 4681
+            }
+          },
+          "hash": "c26286d7d7b04834ab14b98729c30185928aa639",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151864$0CC0276A-9AD9-4DC0-BB8C-9AF04EA6BEF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151864$1CE2C7F6-B924-4FEC-92DA-58E5B75853B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q151864$2E208C30-BCF8-4956-A2A3-8FFD201FCC85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Julius_Avitus_(1)"
+          },
+          "hash": "e216ef842d19fe45ec8cbe97afa3f0052067f2bc",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q151864$CE6319D4-59B1-4228-9F77-A5A4BDF10632",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4680",
+              "numeric-id": 4680
+            }
+          },
+          "hash": "84aa6dea6bba4ab89e5bd24d69a5288ced2cd92e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151864$7D081AEC-A0FD-4BBA-917E-19A2D1422EF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151864$3AA319D1-ECDA-4A65-8AA5-55714B2D6F75",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0155-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70268188ea0361e0811499ba5c99364e8930e4b9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151864$1F17BAC5-5C7B-414B-88CA-06919BBC3635",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0216-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c34b7eb1acc1f2cdac1f04667900e86b7835139",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151864$14E066E9-3199-4904-B5AD-8043974DFAB7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1232755"
+          },
+          "hash": "e393f342e541253be07284153e881590a8868f7c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151864$0288B052-1C20-4349-A6FF-2E1EDBC063DF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Julius Avitus Arms.svg"
+          },
+          "hash": "83979d09e6c8fe060f71bf185208ee35bba56699",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Syrian-born Roman military commander, senator and governor (c. 155-217)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 200"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (155-216)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский государственный деятель конца II века"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q151864",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Юлий Авит"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Juli Avit"
+    },
+    "de": {
+      "language": "de",
+      "value": "Julius Avitus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιούλιος Άβιτος Αλεξιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Julius Avitus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Julio Avito"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Gaius Julius Avitus Alexianus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Julius Avitus"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוליוס אוויטוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Julio Avito"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gaio Giulio Avito Alessiano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gaius Iulius Avitus Alexianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Iulius Avitus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Júlio Ávito"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Júlio Ávito"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Юлий Авит"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гай Юлій Авіт Алексіан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蓋烏斯·尤利烏斯·阿維圖斯·亞利夏努斯"
+    }
+  },
+  "lastrevid": 17580048,
+  "modified": "2025-09-17T17:10:32Z",
+  "ns": 860,
+  "pageid": 180318,
+  "sitelinks": {},
+  "title": "Item:Q151864",
+  "type": "item"
+}

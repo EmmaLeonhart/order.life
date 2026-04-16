@@ -1,0 +1,223 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Publilius"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151539$91AA957A-3791-4FB2-8D8D-9BBD006BF3FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151405",
+              "numeric-id": 151405
+            }
+          },
+          "hash": "f6571f4ad3e6e9f6f8fb6a66a4a4798255424122",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151539$2B15B829-98B9-40B3-A5F0-BDE3A525C537",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151540",
+              "numeric-id": 151540
+            }
+          },
+          "hash": "3c1efa30e929c4ca099dfd29837707db265a23a6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151539$34902837-07F4-4AB9-9758-9EE708C0422F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151539$D8AA98DE-B5AA-48F4-AAAE-8AC01A095235",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151539$E01B18C7-E036-4B8B-A721-F203F472467B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151539$56C86711-DF5E-4AC8-BBDE-D49E00F28013",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0046-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9f590326d83966d1151bccb63c8f016a1454f567",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151539$8E64EEE4-B5DF-4F27-BDA8-AF4D301BD352",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q92757108"
+          },
+          "hash": "8b1384877e9f6e57235ea5d10360426d32e91f14",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151539$EA1E7A1A-F185-4FA7-B537-2BE2D3BDEB66",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Publilius Arms.svg"
+          },
+          "hash": "780253c2602a720c8af53ae0f4b09da213295810",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "father-in-law of Cicero"
+    },
+    "es": {
+      "language": "es",
+      "value": "suegro de Cicerón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "citoyen romain du Ier s. av. J.-C., beau-père de Cicéron"
+    }
+  },
+  "id": "Q151539",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Publilius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Publilius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Publilio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Publilius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Publilio"
+    },
+    "la": {
+      "language": "la",
+      "value": "Publilius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Publilius"
+    }
+  },
+  "lastrevid": 17579484,
+  "modified": "2025-09-17T17:03:01Z",
+  "ns": 860,
+  "pageid": 179993,
+  "sitelinks": {},
+  "title": "Item:Q151539",
+  "type": "item"
+}

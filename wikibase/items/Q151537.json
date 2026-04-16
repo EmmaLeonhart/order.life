@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aulus Manlius Torquatus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q151537$581A1103-4BC3-46FC-92D7-A5EC4D7C5D6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151402",
+              "numeric-id": 151402
+            }
+          },
+          "hash": "2905aef323d30d9cd6f12eaba776e881dbf440d8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151537$2A8DF042-8AB8-44A4-B99E-C8922F123954",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151538",
+              "numeric-id": 151538
+            }
+          },
+          "hash": "3e5fd05cf34e837e7ca3b3c32e178559c775e2a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151537$865C8CDA-D59D-425A-B9C9-523E26FC1DCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151537$488621A7-563E-4828-9E62-4FA1628C3A08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151537$C57DCDEB-892B-4B36-9340-6D4D82335FA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151641",
+              "numeric-id": 151641
+            }
+          },
+          "hash": "20bb99a427eaf5b80282db8d15010a81c523111e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151537$0B4F52C2-0C5F-4208-A26F-ECC70C8C1C8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151537$FAE15198-7CAF-4375-9EA0-6B8754FC19FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0208-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e916e06515719d199d012d53c92ecdf2c0e863da",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151537$5BE6ED50-E414-4B9F-B8B0-8AD459676177",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q107296987"
+          },
+          "hash": "9c54c336ac5d93f6caf7744be712a28824e187d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151537$7314787A-075D-4FC7-A451-1561A9F8CAC6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aulus Manlius Torquatus Arms.svg"
+          },
+          "hash": "b9fc9236c52c2421eedc0af436c540977663452b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "military tribune in 208 BC"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tribun militaire en 208 av. J.-C."
+    }
+  },
+  "id": "Q151537",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Aulus Manlius Torquatus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aulus Manlius Torquatus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aulus Manlius Torquatus"
+    },
+    "he": {
+      "language": "he",
+      "value": "אאלוס מאנליוס טורקוואטוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aulo Manlio Torquato"
+    },
+    "la": {
+      "language": "la",
+      "value": "Aulus Manlius Torquatus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aulus Manlius Torquatus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Авл Манлий Торкват"
+    }
+  },
+  "lastrevid": 17579480,
+  "modified": "2025-09-17T17:02:58Z",
+  "ns": 860,
+  "pageid": 179991,
+  "sitelinks": {},
+  "title": "Item:Q151537",
+  "type": "item"
+}

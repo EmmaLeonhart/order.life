@@ -1,0 +1,423 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bocchus I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q148226$3BA08F1B-22E1-49ED-9352-0BBA620627CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "626213"
+          },
+          "hash": "50a64cb3705c58cff2954c6d52be05fcb224d5cf",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q148226$042C807D-4CD5-4033-88B5-C1AFA936A55E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q144295",
+              "numeric-id": 144295
+            }
+          },
+          "hash": "13127cfb48dbb94c17da600fd53692e536287b51",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148226$0B5C442D-9C01-490D-8BEB-3DE610C5AA0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151328",
+              "numeric-id": 151328
+            }
+          },
+          "hash": "3779b3d78a5381733df99ee6d06886836f56ccc8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148226$6E09C9D9-F4F4-45C8-9A8E-48A5271590D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151327",
+              "numeric-id": 151327
+            }
+          },
+          "hash": "e9f23052dc918057cbcbcf3510d9504ef04edc98",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q148226$759EF63B-0D73-43E3-B401-343735B00232",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q148226$57861821-CDEB-4EE0-8809-1F821F4BF44D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q148226$D4695916-8BAF-4AEA-9256-BDE33290211E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q148226$0C2B56CC-D57D-4EC4-B089-0F35142888DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q148226$4F1C774D-4A42-4409-9323-784A4A7CF5AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaf38103d81dd9258980f42054710f6909d3b02c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q148226$C946177C-AF35-463E-AE16-5769C3EF3DDD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q530576"
+          },
+          "hash": "61dcc524c66d0eabb8dc62aa682d1f24aa27bf46",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q148226$0A7A6C0A-AF4E-4540-9BE9-C512E083F4BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bocchus I Arms.svg"
+          },
+          "hash": "9d87965070638b8f486f82068d5c96fc36ae5900",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك أمازيغي موري"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "mauritánský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Mauretanien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλέας της Μαυριτανίας (π. 110 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berber king of Mauretania"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reĝo de Maŭritanio"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Mauretanian kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Maurétanie vers 110 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Mauretania"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マウレタニア王"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Мавретании"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Berberski kralj Mavretanije"
+    },
+    "zgh": {
+      "language": "zgh",
+      "value": "ⴰⴳⵍⵍⵉⴷ ⴰⵎⴰⵣⵉⵖ ⴰⵎⵓⵔⵉ"
+    }
+  },
+  "id": "Q148226",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بوكوس الأول"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "بوكوس اللول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بوكوس الاول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Бокх I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Boccus I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bocchus I."
+    },
+    "da": {
+      "language": "da",
+      "value": "Bocchus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bocchus I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βόκχος Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bocchus I"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Bokĥo la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Boco I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Boko I.a"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bocchus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bocchus"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Bocchus na I"
+    },
+    "he": {
+      "language": "he",
+      "value": "בוככוס הראשון, מלך מאוריטניה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բոկխոս I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bocco I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ボックス1世"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Buxus I"
+    },
+    "la": {
+      "language": "la",
+      "value": "Bocchus I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bocchus I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Boco I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Boco I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бокх I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Bokh I"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Bocchus I."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Бокх I"
+    },
+    "zgh": {
+      "language": "zgh",
+      "value": "ⴱⵓⴽⴽⵓⵙ ⴰⵎⵣⵡⴰⵔⵓ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "波庫斯一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "波庫斯一世"
+    }
+  },
+  "lastrevid": 17573050,
+  "modified": "2025-09-17T15:34:30Z",
+  "ns": 860,
+  "pageid": 176612,
+  "sitelinks": {},
+  "title": "Item:Q148226",
+  "type": "item"
+}

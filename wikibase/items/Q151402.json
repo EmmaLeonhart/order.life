@@ -1,0 +1,385 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Titus Manlius Torquatus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q151402$036254FE-64CD-4E29-AB6E-909E891CA7AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1464966"
+          },
+          "hash": "bedb148809d4ceda8cabdabb2bbabe2590060de7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q151402$1925BEDF-5AEB-4215-891E-DDC2873A185F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q148072",
+              "numeric-id": 148072
+            }
+          },
+          "hash": "0016ec33ee375f07bafb66063f0cbb00b2fea59c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151402$8A5074E0-8713-409C-B5B3-68393129AFE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151403",
+              "numeric-id": 151403
+            }
+          },
+          "hash": "8c6a41a7f330f09d11f9cb4d4c6cc143aaaa74ed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q151402$AF4B624A-6544-47C7-AFAD-FA25FE7E2721",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q151402$2B9DE880-1162-4E9E-8278-B5B65F73C999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q151402$74A3CF1F-9A38-47E7-BF56-F0B25561C157",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151537",
+              "numeric-id": 151537
+            }
+          },
+          "hash": "4074d76755ca4db9d3c91683e589d54390532877",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q151402$F450E905-A751-413B-BD4C-40CF1AF8168F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q151402$23966C1C-E103-4379-9B79-37F79D685E0C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0208-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74613b2a3fd61db72bf409ea43bfb1c7323ccc78",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q151402$99DB6A66-FCCE-460A-9771-36AF3EBA3065",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0133-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e803693026f38db542632c4eaa6cbaf8a954d367",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q151402$C99618A2-8069-4298-802E-96A89519C180",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q509399"
+          },
+          "hash": "14ccaa63b5d25a7071c8d51920816fbb4538d91e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q151402$469643FA-DFEF-4256-A0F9-5638701C59C9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Titus Manlius Torquatus Arms.svg"
+          },
+          "hash": "d97adef38cf362c68744418e54eaf0e4c11276ff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "انسينت رومان ميليتارى پيرسونيل من روما القديمه"
+    },
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul im Jahr 165 v. Chr."
+    },
+    "en": {
+      "language": "en",
+      "value": "consul in 165 BC"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Consul in 165 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "cónsul 165 a. C."
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "consul romain en 165 av. JC"
+    },
+    "it": {
+      "language": "it",
+      "value": "console romano nel 165 a.C."
+    },
+    "ja": {
+      "language": "ja",
+      "value": "紀元前165年に執政官を務めた共和政ローマの政治家・軍人"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (-)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский консул 165 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk politiker"
+    }
+  },
+  "id": "Q151402",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "تيتوس مانليوس توركواتوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тит Манлий Торкват"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tit Manli Torquat"
+    },
+    "de": {
+      "language": "de",
+      "value": "Titus Manlius Torquatus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τίτος Μάνλιος Τορκουάτος (ύπατος το 165 π.Χ.)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Titus Manlius Torquatus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Titus Manlius Torquatus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tito Manlio Torcuato"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Titus Manlius Torquatus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tito Manlio Torcuato"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tito Manlio Torquato"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティトゥス・マンリウス・トルクァトゥス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Titus Manlius Torquatus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Titus Manlius Torquatus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tito Mânlio Torquato"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tito Mânlio Torquato"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тит Манлий Торкват"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Titus Manlius Torquatus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тит Манлій Торкват"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "提貝里烏斯·曼利烏斯·托爾卡圖斯"
+    }
+  },
+  "lastrevid": 17579238,
+  "modified": "2025-09-17T16:59:47Z",
+  "ns": 860,
+  "pageid": 179856,
+  "sitelinks": {},
+  "title": "Item:Q151402",
+  "type": "item"
+}

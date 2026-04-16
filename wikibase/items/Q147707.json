@@ -1,0 +1,279 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rörik"
+      },
+      {
+        "language": "en",
+        "value": "Rorik"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q147707$8A433E5C-2832-4EB2-ADAA-A1F1DAA1E12E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00307100"
+          },
+          "hash": "009e1a9c77194e21a751b8a74d2b4c4cc7e3acb7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q147707$C45AE884-9416-423E-A09A-44FC829D4089",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147709",
+              "numeric-id": 147709
+            }
+          },
+          "hash": "1a9531c8984575973926aace42ed1cc6d10d8a3c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147707$A9326251-D761-4DDD-B13B-55E85DE90535",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147711",
+              "numeric-id": 147711
+            }
+          },
+          "hash": "d5e4ac0b140ef4a002d0822db91467d651ded738",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q147707$DE2D42BB-5808-4166-8977-F62AD98EEA94",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Birgersson-30"
+          },
+          "hash": "dbfd5cccb1a55759fd9b96882b1668f078e60ba3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147707$6A0AB7BE-DA3C-4662-A15B-0BC0CF85B6F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147707$E3B2A61D-2DB1-438E-9CA0-2D3B7B38ED73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147707$53D56F87-4774-43A4-84DB-BE9B18D3508B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143887",
+              "numeric-id": 143887
+            }
+          },
+          "hash": "8a6d713a783f6b36763ba3f597bec0f2dc94d2c8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147707$FC9C2EBD-51FA-49E1-AABF-1242256C007A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147707$EB6A6A6C-F614-4A14-A845-B5C533D2E60F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1210-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d653b1b2636e35fc89fc0acbe518c00b2bbfce8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147707$D9F44424-2CDB-43BC-917E-50295E34980A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q101247375"
+          },
+          "hash": "c0fa5d7f8378805151dd94fa21b9f154b8b93c51",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q147707$57AF6AE8-E6B9-48D4-A755-F6299FC6A9EC",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Rörik"
+          },
+          "hash": "83f1b0771c1a908d325c18d058110f7140caa670",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147707$970FABD0-2544-40B1-8247-2735C8E2BEB1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rörik Arms.svg"
+          },
+          "hash": "ca431bbd2381365362f3340133cd323877b87009",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1210 - aft."
+    }
+  },
+  "id": "Q147707",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rörik"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rörik"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Rörik"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rörik"
+    }
+  },
+  "lastrevid": 17572368,
+  "modified": "2025-09-17T15:25:10Z",
+  "ns": 860,
+  "pageid": 175945,
+  "sitelinks": {},
+  "title": "Item:Q147707",
+  "type": "item"
+}

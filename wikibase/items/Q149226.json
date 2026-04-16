@@ -1,0 +1,205 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q149226$A6C3CF35-F556-415B-815E-318B9335B360",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q149226$6A5360EA-3F3E-4970-AECB-0C707069CC65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q149226$D7245BFA-64DB-44CA-B764-76956C6EF5F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145068",
+              "numeric-id": 145068
+            }
+          },
+          "hash": "545e3904da46384bc34195a6cd1d07537f309a4d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q149226$D6BB052D-0853-420B-8A80-752A91A1FD83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54825",
+              "numeric-id": 54825
+            }
+          },
+          "hash": "c6ca9a1d6c8e47d68ca34c148e5f321fc417d817",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q149226$1F85431E-6041-410E-B47E-45D7A7BE133A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q149226$52EFEF7B-0B3C-4588-A5C5-1B6E3E9894A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1279-03-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "86134aa00a374fcbcd21157d72a55b3361c360a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q149226$9394C81E-25A1-47D8-8F4B-B524A9113D90",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1279-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f058f9e0ce772f3f71c1a5f69dde7eb79d5872eb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q149226$624CC6CB-36E2-4B8F-9955-A24C0C89C8C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q75384351"
+          },
+          "hash": "ab06c6ff122b26faf8abc6faaecf4b2186a77bef",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q149226$12C90F2F-2D82-4B36-AC11-45FC9C13BA24",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabella of England Arms.svg"
+          },
+          "hash": "4c6f62360d96c70f637d15e9691cd899716d93ef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q149226",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Isabella of England"
+    }
+  },
+  "lastrevid": 17574948,
+  "modified": "2025-09-17T16:00:57Z",
+  "ns": 860,
+  "pageid": 177679,
+  "sitelinks": {},
+  "title": "Item:Q149226",
+  "type": "item"
+}

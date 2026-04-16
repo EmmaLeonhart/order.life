@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fyodor Yuryevich"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147229$00358F33-DE3C-4F12-90C3-7FE51C537602",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147229$18D6D1ED-5BD1-4C5D-95F6-B1D0C623AEF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147229$FA596BB9-A809-40B6-8DA5-BE5A80B062C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143689",
+              "numeric-id": 143689
+            }
+          },
+          "hash": "1b842f7b73f44116507ce2d9cc644c1fd9bb02f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147229$455F8B2B-7E45-4A34-88B3-28A3D7BDAD69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147229$5EBEBC76-5BCB-478B-8553-FBB8D841223A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1237-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4e7354cec0250e5e19f1399f49fc337e50e2d417",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147229$257F52FD-6CD2-4CFC-B012-98A9DD292AD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4493893"
+          },
+          "hash": "7c1589f1ee95593c22616fc13e4a34a8a081aad8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q147229$0783A48C-8EA4-49E3-A185-1636A20E75A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=feodor;n=rurikides;oc=29"
+          },
+          "hash": "bcc4bbb67cfb79e1eccd34377a6e368569ff403f",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147229$037FA52A-CEE2-4B69-A62B-0BFDF47573E1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fyodor Yuryevich Arms.svg"
+          },
+          "hash": "b14c4cb4a3320d08a36c288730aeaca3f2962bfe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "kníže rjazaňský"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Ryazan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Княжич рязанский"
+    }
+  },
+  "id": "Q147229",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fedor Yurevich"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fjodor Jurjevič"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fjodor Jurjewitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fyodor Yuryevich"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fedor Yurevich"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フョードル・ユリェヴィッチ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fedor Yurevich"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фёдор Юрьевич"
+    }
+  },
+  "lastrevid": 17571790,
+  "modified": "2025-09-17T15:17:13Z",
+  "ns": 860,
+  "pageid": 175614,
+  "sitelinks": {},
+  "title": "Item:Q147229",
+  "type": "item"
+}

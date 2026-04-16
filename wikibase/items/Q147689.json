@@ -1,0 +1,538 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Steinvör Sighvatsdóttir"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q147689$3F83D84D-0EBC-415F-B89F-6F91D18A3493",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sighvatsdottir-1"
+          },
+          "hash": "f3042adb9e22945a992d31477f95b3d32e9602c8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q147689$5DB5013F-795F-40A5-8AD5-83864611FB3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147689$27940B9C-2D9F-4DEA-AE1B-37602625ADC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q147689$7658C635-C897-4EF3-8AED-EBCCB7F33BCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143869",
+              "numeric-id": 143869
+            }
+          },
+          "hash": "3b617180eb93017e2744f5bd1763fe95bb39b529",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147689$6FAA571E-518E-4D31-B7CC-0192A60F0287",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147689$417DEBC3-2B3F-45AE-873C-D4117530C9AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1271-10-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fa9e3151358cfffc16b3ee73ecdb00f117439d33",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147689$F163BB97-34D5-408C-B04F-33617D917D24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1593065"
+          },
+          "hash": "b3af4cf94eb73a9f4e9c8d04b43cd1fd68d98487",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q147689$33FDD44B-7A78-4FF8-B826-CF4A49974831",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001886693300"
+          },
+          "hash": "0f2e2c339f9bbd000c3e15466d489c6a2748765b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147689$2E9D0281-0B6B-4F99-9B0A-6D323A37372F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Steinvör Sighvatsdóttir Arms.svg"
+          },
+          "hash": "3e5ee6abe89c3da59e3ea733da9edb6ece0f3c68",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "poeta islandesa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poetessa islandesa"
+    },
+    "de": {
+      "language": "de",
+      "value": "isländische Dichterin"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "isländische Dichterin"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "isländische Dichterin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Icelandic skald"
+    },
+    "es": {
+      "language": "es",
+      "value": "poetisa islandesa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta islandiarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poétesse islandaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "skald Íoslannach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta islandesa"
+    },
+    "it": {
+      "language": "it",
+      "value": "poetessa islandese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichteres uit IJsland (?-1271)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "poetka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poetisa islandesa"
+    }
+  },
+  "id": "Q147689",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Steinvör Sighvatsdóttir"
+    },
+    "az": {
+      "language": "az",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "da": {
+      "language": "da",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "de": {
+      "language": "de",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "en": {
+      "language": "en",
+      "value": "Steinvör Sighvatsdóttir"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "es": {
+      "language": "es",
+      "value": "Steinvör Sighvatsdóttir"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Steinvör Sighvatsdóttir"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Steinvör Sighvatsdóttir"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "hif-latn": {
+      "language": "hif-latn",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "ike-latn": {
+      "language": "ike-latn",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "is": {
+      "language": "is",
+      "value": "Steinvör Sighvatsdóttir"
+    },
+    "it": {
+      "language": "it",
+      "value": "Steinvör Sighvatsdóttir"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "ksh": {
+      "language": "ksh",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "li": {
+      "language": "li",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "liv": {
+      "language": "liv",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "ltg": {
+      "language": "ltg",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Steinvör Sighvatsdóttir"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "pdc": {
+      "language": "pdc",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "pdt": {
+      "language": "pdt",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "pfl": {
+      "language": "pfl",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "ruq-latn": {
+      "language": "ruq-latn",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "shi-tfng": {
+      "language": "shi-tfng",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Steinvör Sighvatsdóttir"
+    },
+    "sli": {
+      "language": "sli",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Steinvor Sighvatsdottir"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Steinvör Sighvatsdotter"
+    },
+    "szl": {
+      "language": "szl",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "tt-latn": {
+      "language": "tt-latn",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "vot": {
+      "language": "vot",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "vro": {
+      "language": "vro",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "war": {
+      "language": "war",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Steinvǫr Sighvatsdóttir"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Steinvǫr Sighvatsdóttir"
+    }
+  },
+  "lastrevid": 17572350,
+  "modified": "2025-09-17T15:24:55Z",
+  "ns": 860,
+  "pageid": 175936,
+  "sitelinks": {},
+  "title": "Item:Q147689",
+  "type": "item"
+}
