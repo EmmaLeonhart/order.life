@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sir William Malet"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q146965$D9C4722B-8E4A-44C1-ABF4-4034F7A37592",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Malet-172"
+          },
+          "hash": "70de85e6b7d1784c39cdb98b9fe9f5e02ea546b6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146965$AFDB694F-14EE-47A9-A808-BC2952F34EED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146965$69A3788E-75AF-4ABB-9DB4-489135DAB5AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q146965$28F4BDF8-4B15-4371-86D6-7E96C6D3BACA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p50871.htm#i508702"
+          },
+          "hash": "c5cfadc3fe7a1825eca94ec2a3ae1a93a4815882",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146965$9D58EB1D-E2DA-485B-8384-917EA4E12B08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143529",
+              "numeric-id": 143529
+            }
+          },
+          "hash": "7dce1c26a56f86da8f8ef01573f892c0ae779162",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146965$7A043E6F-A34B-4450-B6D9-811F0D1ACFA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146964",
+              "numeric-id": 146964
+            }
+          },
+          "hash": "fdff14ed822db84d58c641aa0c82b4547ecc4567",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146965$5D7A8A71-C823-4989-93E9-2C51CA514EF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146965$E6AD13D0-DEA7-44C3-8E89-C8E21FA0F435",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e4fee05983491c97a60ee5878c0f7c7b48059802",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146965$750E666D-95F1-43CA-AD88-C665551EE20B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1223-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71268f99aaaf9aac93ccc6dcfc455f8839ce2d8a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146965$AB836C4C-FCB3-4ED4-AA65-D0DABF4A17EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76068848"
+          },
+          "hash": "8b3d425fc94a6e187b20538b464198fadd6eb1e3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146965$91DCC31B-FEA8-4995-BB9E-62E10DD7E4E4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sir William Malet Arms.svg"
+          },
+          "hash": "adf35228c659428dd252361f71ed81de5ff5e753",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Peerage person ID=508702"
+    }
+  },
+  "id": "Q146965",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sir William Malet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sir William Malet"
+    }
+  },
+  "lastrevid": 17571354,
+  "modified": "2025-09-17T15:11:06Z",
+  "ns": 860,
+  "pageid": 175350,
+  "sitelinks": {},
+  "title": "Item:Q146965",
+  "type": "item"
+}

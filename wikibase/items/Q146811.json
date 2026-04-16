@@ -1,0 +1,197 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Onwen"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q146811$F0EEE88C-6C7B-4049-94FE-75911FFADCCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146812",
+              "numeric-id": 146812
+            }
+          },
+          "hash": "f22538abbe8090f77abb89f1358b60da01177973",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146811$427402A1-A4D6-481E-9CE7-322E8895965B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146811$993AE14E-BD0C-4D18-9C4D-A2D9DC9E2D32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146811$B48DA6C4-F5A8-4C57-869C-1A0E75E904E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129151",
+              "numeric-id": 129151
+            }
+          },
+          "hash": "d85e3dc9693830edc6fc813f60eac3b418ed8b29",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146811$F351EE41-6657-49AE-B290-8E4CDAEF034D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146811$A646C10A-ADD1-417D-B4DF-FF6A2D68FEB9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1084-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "34d58a9b3fccd61a192903f01f960dcdad7d09ad",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146811$4015A7F3-ECB1-42FB-817F-1DB2439F84EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q117022465"
+          },
+          "hash": "f519348a47de1001020803ca08561ba52391f8e0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146811$150887DD-88DB-4F8E-ABF5-08C069197052",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Onwen Arms.svg"
+          },
+          "hash": "1e436e69ccbab52a1bc190c234cdb1314eba17a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "fr": {
+      "language": "fr",
+      "value": "noble bretonne du XIe siècle"
+    }
+  },
+  "id": "Q146811",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Onwen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Onwen"
+    }
+  },
+  "lastrevid": 17571142,
+  "modified": "2025-09-17T15:08:00Z",
+  "ns": 860,
+  "pageid": 175196,
+  "sitelinks": {},
+  "title": "Item:Q146811",
+  "type": "item"
+}

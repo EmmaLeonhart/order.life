@@ -1,0 +1,348 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pandulf IV of Capua"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146858$0BF5142C-D9AB-4411-9529-E4633102D467",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00546029"
+          },
+          "hash": "d8cd66af912464ae926c5207a736dda32923be6f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146858$8DA7EC8B-56D2-414E-A6D8-F62024AA8250",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Benevento-3"
+          },
+          "hash": "d8dc39d665aecdf391cf945415ecae38d1b9ee63",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146858$9D93340F-5ED1-4924-98D1-AD8C1D2A1422",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146858$9C72BA94-FF39-4254-AD7C-FEDB5F9C5F80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146858$3414CE8B-71FF-496A-B3D4-ECC2ECFF9523",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pandolf_Unknown_(1)"
+          },
+          "hash": "439f356e1482e56edea5c257c5ad29c72f687958",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146858$22EC5753-A9DA-49FE-A524-3AA38AF0E53E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143446",
+              "numeric-id": 143446
+            }
+          },
+          "hash": "8c3429e9dfffcdf743d2cb01a433b6b955da5eff",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146858$64444F3B-C4FA-4575-ADAF-03986D4BA0B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146858$BA858C47-0F21-45E1-9EE7-B177E7B1D8D0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146858$D2CC427C-D68A-47F9-A03B-2BEE514FBB61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1050-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de6fc3de4aa1c9e846e1e698df09ad1f321aa984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146858$C7B4ACC3-4B76-4438-A57F-1FFD96C73BB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2461472"
+          },
+          "hash": "ff1254c28825e430e07901e62c8ad724403ed15c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146858$007C27F7-29F6-4EBD-90E4-B347E4BCE98A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=pandolfo;n=di capua;oc=2|p=pandulf;n=di capua"
+          },
+          "hash": "000bde379fad8b77b3a9648b8c86e85c558292c3",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146858$E35B029E-E387-47B0-A327-831DFE25A1A3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pandulf IV of Capua Arms.svg"
+          },
+          "hash": "6a85a7f484cdff8f41357fb23bb5cc4bf4b7454c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "príncep de Càpua"
+    },
+    "en": {
+      "language": "en",
+      "value": "Italian prince"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince de Capoue"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe di Capua"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İtalyan prens"
+    }
+  },
+  "id": "Q146858",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "باندولف الرابع من كابوا"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pandulf IV de Càpua"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πανδόλφος Δ΄ της Κάπουα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pandulf IV of Capua"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pandulf IV of Capua"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pandulf IV of Capua"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pandulfo IV de Capua"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pandolf IV de Capoue"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pandolfo IV di Capua"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ランドルフォ4世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pandulf IV of Capua"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pandulf IV"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pandulf al IV-lea de Capua"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пандульф IV"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Pandulfo IV ng Capua"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IV. Pandulf (Capua prensi)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пандульф IV"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "潘德福四世"
+    }
+  },
+  "lastrevid": 17571230,
+  "modified": "2025-09-17T15:09:22Z",
+  "ns": 860,
+  "pageid": 175243,
+  "sitelinks": {},
+  "title": "Item:Q146858",
+  "type": "item"
+}

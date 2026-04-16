@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Raoul III de Beaumont-au-Maine"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146922$8A867C77-3F93-49F7-8D37-73541936FE04",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1300344"
+          },
+          "hash": "602823f27093f10eb483ff977ae2afa38a8285bc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q146922$FAB95FB0-FD07-4536-B604-AC394D4182F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00197061"
+          },
+          "hash": "2454c708f7b5d6de9c2bc485607468edb64403c6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146922$7E91E982-DC25-4828-93D5-75EC69469AA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125981",
+              "numeric-id": 125981
+            }
+          },
+          "hash": "1abc3b80dc35774c09d1bac026c51211eaac7e56",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146922$EB97D86B-AAB1-468A-88EA-ABC659669571",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146923",
+              "numeric-id": 146923
+            }
+          },
+          "hash": "698504c890be9f6081f56762ef54898288ad78db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146922$DFFEE194-CE97-4CC7-BBAA-A1ACF49791C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146922$8371D61E-D316-4930-8407-EE5359ACA636",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146922$705B059D-5BD2-44DF-BF7E-177774AB01EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146922$013F371A-587D-40AC-8418-9F2D34133577",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0967-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2893828ff656c188b3aefdf0b2320b096be4af",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146922$9D4BD433-0C00-4F75-8DD8-C8B5A03F69B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1003-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "339febde704a03715bc4c78935e8cdb7dd4e9a01",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146922$A9396424-348B-4B04-9528-B5C7564E84A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3419190"
+          },
+          "hash": "6b110f0c9142231bd2f3e86612a9832c5e541a3a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146922$9E2E7877-9DC2-4BC8-8AE5-E14165EBAEAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=raoul;n=du maine"
+          },
+          "hash": "ff372b82da0061ab52931041e14338594a235e57",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146922$F4601DF0-8F2C-41A5-898B-4B016DE00CC4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Raoul III de Beaumont-au-Maine Arms.svg"
+          },
+          "hash": "b6da7e71a6548f7fc1d3a4ef41f4b138196bf6b2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Est 920 -"
+    }
+  },
+  "id": "Q146922",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Raoul III de Beaumont-au-Maine"
+    },
+    "en": {
+      "language": "en",
+      "value": "Raoul III de Beaumont-au-Maine"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Raoul III de Beaumont-au-Maine"
+    },
+    "it": {
+      "language": "it",
+      "value": "Raoul III de Beaumont-au-Maine"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Raoul III de Beaumont-au-Maine"
+    }
+  },
+  "lastrevid": 17571302,
+  "modified": "2025-09-17T15:10:22Z",
+  "ns": 860,
+  "pageid": 175307,
+  "sitelinks": {},
+  "title": "Item:Q146922",
+  "type": "item"
+}

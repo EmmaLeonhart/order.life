@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Adelgar"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q147015$8870E47E-8B99-4AF2-A109-C6E753CB7EA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q147015$686FFD84-8A14-4960-92FD-FB82DA627AD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q147015$E55881A2-4340-4E90-810D-D72B65211C42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147014",
+              "numeric-id": 147014
+            }
+          },
+          "hash": "40f5c92c4c0c5aa05e7002aec1338c058a7aa008",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q147015$E818982A-C0E1-4F79-81DE-41865C033D7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q147015$42244E68-1AE8-459C-86AE-6B5DACCB4AC4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q147015$302FF29B-6CF0-4D1A-85B2-79FC91F765A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0889-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "10f59373cbb9854fcd2ccbfd6ecd8f49d5d3142b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q147015$6F3D8C5E-6630-4677-BF62-830BD330B771",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q44191443"
+          },
+          "hash": "4b096562dce03dda21adb763438807c0b8bab3c1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q147015$DD993BD0-B96C-4495-875A-ADC872AF61D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000027492362032"
+          },
+          "hash": "c9a7368a63951cf25dda2de7357909a08d4b2489",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q147015$3BC44176-2463-4392-887D-4F9D888F5B41",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adelgar Arms.svg"
+          },
+          "hash": "68f3ef33fcdfad3cae2d6be8e05b8f61ed9b303e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q147015",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Адалгар"
+    },
+    "de": {
+      "language": "de",
+      "value": "Adelgar"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adelgar"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adelgar"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Adelgar"
+    }
+  },
+  "lastrevid": 17571450,
+  "modified": "2025-09-17T15:12:26Z",
+  "ns": 860,
+  "pageid": 175400,
+  "sitelinks": {},
+  "title": "Item:Q147015",
+  "type": "item"
+}

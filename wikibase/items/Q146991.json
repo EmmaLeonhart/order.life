@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vaclavitch Stodorian"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q146991$E6B81199-511C-4262-B249-0BF5EA7CAB43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143542",
+              "numeric-id": 143542
+            }
+          },
+          "hash": "09b81a4764bcd0aff89d37389a39d6967280fe0e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146991$730D9894-F51D-4BC1-BA20-8ACEA4419B46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146991$7FDA77AD-5B7C-457B-8408-40BDE87D813B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146991$B9377D28-6A4F-439E-8725-A1AA0CB72DA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146991$3BF9628F-9B12-4C95-B1C4-3E9641CB71AE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0900-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8d87210d668e225f8a8e60f9aa6f750a8b23e4d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146991$61D85BF0-BFF7-49F5-918B-2F00F4A4F880",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0936-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9bd10a477067417dea0120769165a3f28625f380",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146991$D4B530A7-F757-4649-AD68-20B7DA5B5E48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4875254"
+          },
+          "hash": "e075111871b29187e976614b644bb75c07af8628",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146991$FD89CE1F-A333-45AA-87BC-66B26824B394",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vaclavitch Stodorian Arms.svg"
+          },
+          "hash": "d88adc84219f24c39cb7fa322fcc9a2c32c3910f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "erster erwähnter Fürst der slawischen Heveller"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Hevelli"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь стородян"
+    }
+  },
+  "id": "Q146991",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Basqlabic"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vaclavitch Stodorian"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Baçlabič"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Баклабич"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Баклабич"
+    }
+  },
+  "lastrevid": 17571406,
+  "modified": "2025-09-17T15:11:49Z",
+  "ns": 860,
+  "pageid": 175376,
+  "sitelinks": {},
+  "title": "Item:Q146991",
+  "type": "item"
+}

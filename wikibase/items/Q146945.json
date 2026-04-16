@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Millesende de Picquigny"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146945$AB60EB01-67DB-4FA9-9AA4-F5BBC605BD59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00174416"
+          },
+          "hash": "54fc5de08f72731a7cb89cb93e5275395cf931f9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146945$1A723758-D66F-43CB-8D75-C93C71CD0F05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q147081",
+              "numeric-id": 147081
+            }
+          },
+          "hash": "c9a3104b705adbf5f2811486df12061afacfd182",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146945$6EDD6021-9C67-4F35-AF52-82B163D85EEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Picquigny-14"
+          },
+          "hash": "8dbe570a7cd59d1a37feb8d77ac37b93ffca9560",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146945$B4244A22-62E6-4919-953E-70C28CBBFA69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146945$645921AB-C689-4E44-A6F1-30604225F942",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146945$9977FCBA-D97F-482E-993D-89D76D07BF97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126065",
+              "numeric-id": 126065
+            }
+          },
+          "hash": "58830f52204dbf25cf05a3b8c401d6f0ee2f3c0e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146945$79EC45D1-E736-4999-B9B0-61140CA4E66C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146945$BC5FA8EC-C45E-4F33-853D-F4C4AB5DF6F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1090-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94b17f56dd7e53642af9aedc8c2d6f0cfed5870a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146945$DF071A03-DC6C-4E2B-8B07-DFDB0C195F53",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1134-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e0deb017a358dcec0db98bb4b0963e880084f60d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146945$4AE782AF-8F80-4F7F-B1E4-2411EDB09948",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q115634081"
+          },
+          "hash": "719bcf2e1a79c9a64ecfd0ed127445547d6d9946",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146945$174D8B4B-B9B3-4ED1-9721-93CF4494E2F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=melisende;n=de+picquigny;"
+          },
+          "hash": "cd2d03a41821198ae062bbcc1789dd7cd6526766",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146945$AA15DFE4-AB41-4334-B578-7893805F14BD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Millesende de Picquigny Arms.svg"
+          },
+          "hash": "05738d4d069e16cf38477fc6cab706dab68a1e70",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1090 - est. 1134"
+    }
+  },
+  "id": "Q146945",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Millesende de Picquigny"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Millesende de Picquigny"
+    }
+  },
+  "lastrevid": 17571346,
+  "modified": "2025-09-17T15:10:59Z",
+  "ns": 860,
+  "pageid": 175330,
+  "sitelinks": {},
+  "title": "Item:Q146945",
+  "type": "item"
+}

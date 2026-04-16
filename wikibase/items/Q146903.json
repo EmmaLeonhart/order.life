@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hubert de Ryes"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q146903$BF7AA682-CFB2-484B-8AE2-A57FE4B1B03A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q143476",
+              "numeric-id": 143476
+            }
+          },
+          "hash": "2fb4765c74d23ce93566af50a94c6b1669a22a02",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146903$7A62E3FB-EE9A-4B1C-84AD-449DF18E1870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146903$30274628-0612-469C-B307-764A45C8A1C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146903$437CBFD2-4861-4330-B120-061D5F02C59C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146903$C44B9369-DA2C-44D8-80DB-B7A84AD51D03",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1008-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "64ca456c7c4052ab3cdc402317f591f1519fb315",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146903$8DB73989-548B-4DA7-9E43-92FDF6E4A9D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1086-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b4509b210033a76a3e37ab18b9e97dcc18b7aa18",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146903$D6DEDF45-3530-44B7-8ADC-A7268EAC976E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3142136"
+          },
+          "hash": "3c2b2f9e11c568ab1cd52ff64b47f2c2f190f4f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q146903$853A1BF4-6BFB-4A64-90FF-AB8F966A0B99",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001354069908"
+          },
+          "hash": "b0413266300a8054d157f173717afaf2fa1601ad",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146903$ABEF866B-CF3C-4001-AC1A-718D33031FB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=hubert;n=de+ryes;oc=1"
+          },
+          "hash": "5543a7792dcd56106bd3c801b6c43ea7e060eabd",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146903$9AB86906-9EC2-49B9-8B8F-5753AD13480C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hubert de Ryes Arms.svg"
+          },
+          "hash": "ba5723c1961590150215e176e1ee58fc07bff534",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "es": {
+      "language": "es",
+      "value": "noble normando"
+    }
+  },
+  "id": "Q146903",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hubert de Ryes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hubert de Ryes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hubert de Ryes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hubert de Ryes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hubert de Ryes"
+    }
+  },
+  "lastrevid": 17571268,
+  "modified": "2025-09-17T15:09:53Z",
+  "ns": 860,
+  "pageid": 175288,
+  "sitelinks": {},
+  "title": "Item:Q146903",
+  "type": "item"
+}

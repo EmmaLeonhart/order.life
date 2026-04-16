@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Landulf VII of Capua"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q146855$1DE191DF-9990-4B61-BB54-8213474E9761",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00546044"
+          },
+          "hash": "b53fcc2e0b37c958017a8f916b89a47c6330202d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146855$F92570DE-ABF0-44EA-B1DB-A55470764B2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146855$EB7A92FF-83CA-41AC-89FB-503A76BF82C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146855$4A4317AE-24F6-4259-8D9B-5D6B7B2CD0F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Landolf_Unknown_(3)"
+          },
+          "hash": "2def78e2216643f1cbbaa23fa61ab53a0a71380b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146855$94DE6307-CEE2-4224-BE5C-5660CE0DB3E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146853",
+              "numeric-id": 146853
+            }
+          },
+          "hash": "44856ca257158da43cc1f5ff024250c9236f64a5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146855$1EDB750A-3767-4E3C-AC5A-272910066FB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146854",
+              "numeric-id": 146854
+            }
+          },
+          "hash": "0d611728738aa36ce0798da0f0d85e383a7bc653",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146855$6DEE1581-AEE9-448C-8922-2AB353D43646",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146855$DB0289E8-655D-42C9-9709-8EC207E61164",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146855$E58DD399-6D2C-4A49-9131-78BEB1572E7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1007-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "97d7f7e938570e918585b19472c67c25f632cc5e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146855$7ADA7240-2DED-4109-8302-05890463A065",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2042559"
+          },
+          "hash": "e658f4a43c3527ffbb1b44eb2cdd054c5243d47d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146855$B265E44F-AF35-4E64-9B0D-E9899AA6F164",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Landulf VII of Capua Arms.svg"
+          },
+          "hash": "f8fa74b90de0eef8b5b9da7dc44c7af26c18def8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Italian noble"
+    }
+  },
+  "id": "Q146855",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Λανδούλφος Ζ΄ της Κάπουα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Landulf VII of Capua"
+    },
+    "es": {
+      "language": "es",
+      "value": "Landulf VII of Capua"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Landolf VII de Capoue"
+    },
+    "it": {
+      "language": "it",
+      "value": "Landolfo VII di Capua"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Landulf VII of Capua"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Landulf al VII-lea de Capua"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ландульф VII"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ландульф VII"
+    }
+  },
+  "lastrevid": 17571224,
+  "modified": "2025-09-17T15:09:17Z",
+  "ns": 860,
+  "pageid": 175240,
+  "sitelinks": {},
+  "title": "Item:Q146855",
+  "type": "item"
+}

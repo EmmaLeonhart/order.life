@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guillaume I, seigneur de Tancarville"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q146831$691A2CE5-6DD0-4386-AD51-FE27CD8AD738",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1239446"
+          },
+          "hash": "5f2f7abb13e83f6af3821b48d7c0515bf915c4a0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q146831$327F5616-1BA0-468B-9207-82DEFB2B7E69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126345",
+              "numeric-id": 126345
+            }
+          },
+          "hash": "5793059070b5ce036d3997be1e61f9b94673b2c2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q146831$119BC9AC-4F41-4750-A7D9-7354716D700C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Tancarville-2"
+          },
+          "hash": "cc27cc2f2e166343a6223383f30430611844b41e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q146831$8478B628-0598-4C7F-8506-956BE8CB7CDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146831$0CC4CD2B-CCA6-46CA-9639-CB2C50195FE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q146831$D932771C-833B-469B-8010-18290FFF82A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume_De_Tancarville_(1)"
+          },
+          "hash": "cb33ae59440bde9e136e9ea05453807f89d6b56b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q146831$60512E14-259F-47E6-B82C-630CD2367C64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146832",
+              "numeric-id": 146832
+            }
+          },
+          "hash": "717313f544acfd0497a044a76e0e58549810e0ec",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146831$CD95A1E2-E887-4F9D-B0E6-946B97F1B6DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146831$717A4C37-1DD7-47BC-B5CD-4F0C069DD9C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1065-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "850c2d48bc15e6fffb2305b1ccda484f87d9ef26",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146831$DD301D88-CD73-4E01-BEF6-2EF1C38C9A8C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1129-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec6324c1579f2a8df016799506ca619749cf754f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146831$D30B1152-971E-41B5-B232-E5E53C23C00F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q117030462"
+          },
+          "hash": "af813d78f9f76371f7d31bbb5614e592b84d3c9e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146831$40BC660E-291A-49A4-A607-82AA9F19D95F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=guillaume;n=de tancarville;oc=4"
+          },
+          "hash": "731263e8bb21fb5f5a9146d1286d8f4ce4af829c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146831$13C8E1C4-0635-4B01-BD10-DE2EEA98C003",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guillaume I, seigneur de Tancarville Arms.svg"
+          },
+          "hash": "b953b8768359b92fc86c416c2c58a9b98f0cd361",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1062 - 1129"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble anglonormando"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1062-1129)"
+    }
+  },
+  "id": "Q146831",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Guillaume I, seigneur de Tancarville"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guillermo de Tancarville"
+    }
+  },
+  "lastrevid": 17571176,
+  "modified": "2025-09-17T15:08:37Z",
+  "ns": 860,
+  "pageid": 175216,
+  "sitelinks": {},
+  "title": "Item:Q146831",
+  "type": "item"
+}

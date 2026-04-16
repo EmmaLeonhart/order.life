@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Renaud de Semur"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q146932$96A8AA12-A09D-434D-8244-73E98B68A9FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146932$D5655139-CFBA-4140-8120-41053739C297",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146932$5C1D6287-C3B2-4587-80D1-A8492CA441F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125997",
+              "numeric-id": 125997
+            }
+          },
+          "hash": "f40f80438d80a1ae72651da99196e9c5f0637446",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146932$E2357F82-3A09-4195-B692-1078B5EA8B01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q146932$B57D69AB-7968-45B9-A6C0-6F5DFE04DBCE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146932$0AF17AD5-5EF7-4A84-8740-CD289A57EFC2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1123-05-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c65f9dc442efe71bff11eb06ff0ab3235607d05b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146932$777A3CF9-1C2B-40A3-BA97-5A69384FBD25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16672515"
+          },
+          "hash": "77cb16f924612b766634a528b9117f500efe2407",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q146932$D037468F-8A00-4C2C-A80E-4E4639113B68",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=renaud;n=de semur"
+          },
+          "hash": "055ce14cde6b1c3593f5c05dbf27c7140f58fd73",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146932$8C8087D3-E407-4B5E-9BFF-786F857447AA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Renaud de Semur Arms.svg"
+          },
+          "hash": "9c01e41e09eb49e87593215d641c525948b33750",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "رئيس دير فرنسي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Abá francés (1050–1123)"
+    },
+    "en": {
+      "language": "en",
+      "value": "French abbot"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "ab Francach"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans abt (?-1123)"
+    }
+  },
+  "id": "Q146932",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Renaud de Semur"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Renaud de Semur"
+    },
+    "da": {
+      "language": "da",
+      "value": "Renaud de Semur"
+    },
+    "de": {
+      "language": "de",
+      "value": "Renaud de Semur"
+    },
+    "en": {
+      "language": "en",
+      "value": "Renaud de Semur"
+    },
+    "es": {
+      "language": "es",
+      "value": "Renaud de Semur"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Renaud de Semur"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Renaud de Semur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Renaud de Semur"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Renaud de Semur"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Renaud de Semur"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Renaud de Semur"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Renaud de Semur"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Renaud de Semur"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Renaud de Semur"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Renaud de Semur"
+    }
+  },
+  "lastrevid": 17571322,
+  "modified": "2025-09-17T15:10:38Z",
+  "ns": 860,
+  "pageid": 175317,
+  "sitelinks": {},
+  "title": "Item:Q146932",
+  "type": "item"
+}

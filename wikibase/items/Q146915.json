@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Berenger"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q146915$6C78ACFC-76F7-4F5B-B003-25FACAF25EBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q146915$246FA8B8-0939-4D28-BC74-8B73FDFBB31C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q146915$73AFB4A3-2566-407E-9303-A4BDC16C04F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123996",
+              "numeric-id": 123996
+            }
+          },
+          "hash": "3dbd3feefd7fa290b407c25081e05a86c0bb7cc0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q146915$2B2133C6-DF22-43A5-8788-67770196B86B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q146914",
+              "numeric-id": 146914
+            }
+          },
+          "hash": "6291af9948ce1ebabe56c42257f4c8602576da25",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q146915$38DD0E39-DE76-418E-A9ED-2816705A6FAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q146915$859C42FF-735A-4044-9D62-4F69AA6EF373",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1131-07-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7e35b8aa60cbcf7b29929ebc302fb147aef4dcc7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q146915$6288A798-97DA-452B-B8B2-277C0A6DBE66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q123167454"
+          },
+          "hash": "44db73d610f56e454c71c63f67049fdece20adb2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q146915$1FD79294-B978-4665-B8C1-CCB8F10FB0B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Berenger Arms.svg"
+          },
+          "hash": "d6428f6894f82cb1a810882bd1df355cbb917525",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "roman catholic bishop (Fréjus)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "évêque catholique (Fréjus)"
+    }
+  },
+  "id": "Q146915",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Berenger"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bérenger"
+    }
+  },
+  "lastrevid": 17571288,
+  "modified": "2025-09-17T15:10:10Z",
+  "ns": 860,
+  "pageid": 175300,
+  "sitelinks": {},
+  "title": "Item:Q146915",
+  "type": "item"
+}
