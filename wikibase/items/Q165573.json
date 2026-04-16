@@ -1,0 +1,1422 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleopatra"
+      },
+      {
+        "language": "en",
+        "value": "Cleopatra Philopator"
+      },
+      {
+        "language": "en",
+        "value": "Cleopatra VII  Thea Philopator"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q70410$7F700947-25D8-4DF9-8AF3-1346DD75845B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "66527"
+          },
+          "hash": "c7a8eea0bb24952508f2659ba638d8c1e6c2be0a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q70410$0EB99D4D-C3FC-404A-909D-C49825FFBE5A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567218"
+          },
+          "hash": "b3694e8750f358ee5b2b6a23161a8d5516878f12",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q70410$0BCFE379-B544-4800-B205-E6B7D3ECE4B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51806",
+              "numeric-id": 51806
+            }
+          },
+          "hash": "a9701acc3ff5150661af9d38b764de4612118d5e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$9E1AB9AF-47CE-41C6-9EAE-358CFB090945",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136749",
+              "numeric-id": 136749
+            }
+          },
+          "hash": "0c8f9f673a3f35c93429f5b0d492f23551778463",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$215E094F-6639-4394-970E-F8DCE2E6ED63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136748",
+              "numeric-id": 136748
+            }
+          },
+          "hash": "98e46c5997dd30136bf296b48843c6c5cf7ab131",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$0F868B03-7EF8-479F-8878-353713400E19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136747",
+              "numeric-id": 136747
+            }
+          },
+          "hash": "656aef116155a845905fea46f32cfaf83b6c1f9f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$B491C1FE-C7AF-468E-A0D0-BB7357FC449B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165626",
+              "numeric-id": 165626
+            }
+          },
+          "hash": "f7693d0cd33bcb9c1f168281dd157805aba69644",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$ADCBC623-6F85-4B5F-9927-D43B638ECE8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165628",
+              "numeric-id": 165628
+            }
+          },
+          "hash": "27a0922d5bac3469612173d244c02b628efad440",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$D1C610B4-8143-4739-9B95-248FA61F27CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165629",
+              "numeric-id": 165629
+            }
+          },
+          "hash": "7eaacc245e8ce58dae69bad35ea4d65ddda7262c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q70410$FA8EB25F-8CA4-4892-A9B4-E9F9587C8057",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$C3D59C77-27BC-419D-9617-F0F2AA9B74DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q70410$9E315E10-F1EE-4BF7-A452-48540CD6B72A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleopatra_VII_(1)"
+          },
+          "hash": "8fea51a0218df2f2b1393e80794ca3117a0334ab",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q70410$39F6AF6B-5E6D-4888-9B98-2117B6BDF92F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78006",
+              "numeric-id": 78006
+            }
+          },
+          "hash": "cbdf776605d44413ecbe675436b82facca82034b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$930C87AA-7469-4910-83C4-5207D0B77C47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136433",
+              "numeric-id": 136433
+            }
+          },
+          "hash": "3defe120d9aec5689007f92ee1eae5191407ab66",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$40AA86BD-7578-4847-A32B-E55D70BF43A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136434",
+              "numeric-id": 136434
+            }
+          },
+          "hash": "a07dcbe682b0f7a2493d09a09c1a0a3503220dc7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$3E012E6B-8D47-4FB2-897B-4E7C7ED4DD77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137158",
+              "numeric-id": 137158
+            }
+          },
+          "hash": "d1a551bfe2def54b675e1b2d1fb3b470e7b825ff",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q70410$B1B02E98-BBA0-418E-B03E-B685CAE13116",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165575",
+              "numeric-id": 165575
+            }
+          },
+          "hash": "d3b4f14a9db61b6d13ddb42f6790e3f3e380a8ce",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q70410$F69040D6-E9DF-4D66-B36D-1328D6250D2B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Cleopatra VII /Thea Philopator/"
+            }
+          },
+          "hash": "6e1b809785ef64038797a5d29f22e55d616f0671",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q70410$C5D14717-F986-4A3E-A765-46D337C60AF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "8384583"
+          },
+          "hash": "feae5dfbd9f659f33b4326a3cdb6390d1583dfed",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q70410$2A653AFB-2A6A-4C3E-A87F-4633311D47CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q70410$3A9863A4-CB93-40BE-A884-FE4D08475BEE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0069-01-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "004d47b0be6836d58fec6f2ba1829c38f298b2d4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q70410$E7D24BF0-AE93-40D8-BE4F-389C025B8C1C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0030-08-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa88a1399eeb967d6ee1bb84089dba123dc52999",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q70410$A148761A-908C-48F6-9072-8516EA151CDE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q635"
+          },
+          "hash": "813b5787c5453a5fa2fee59a5e22758ff755e28f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q70410$5E2322A9-454A-4736-9A63-A60AC8BD9275",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001336815278"
+          },
+          "hash": "86506113ca48c09a5e5aab204cce1b82023f0321",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q70410$C6CADD66-175C-4C34-A252-9F891C23F618",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:50810"
+          },
+          "hash": "fa3370429f0a2d87e5e7f9695e32f94802f30b54",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q70410$22087FED-F059-40BB-9CDD-66534FC29AC3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleopatra Arms.svg"
+          },
+          "hash": "bbf3249657029a294d0fddf23b6c9c8dc5a998d4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q70410$A58C6FFF-362A-410B-BB7B-0E95A8851A63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/14F382C3-44A6-4C8F-9E97-6183C056F945"
+          },
+          "hash": "3b41634d37953eaf6b50ab6f1d6e2a024ab52425",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "Laaste aktiewe farao van Antieke Egipte"
+    },
+    "an": {
+      "language": "an",
+      "value": "reina d'Echipto"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ملكة مصر من 51 إلى 30 قبل الميلاد"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "لماليكة د مصر من 51 تال 30 ق.م."
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ملكة المملكة البطلمية في مصر"
+    },
+    "az": {
+      "language": "az",
+      "value": "Ptolemeylər sülaləsinin sonuncu çariçası, XII Ptolemeyin (Avletin) qızı, XIII Ptolemeyin bacısı və arvadı; onunla müştərək hökmdar"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "царица на Египет"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "टोलेमिक मिस्र के अंतिम फैरो महारानी 51 से 30 ईसा पूर्ब"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "৫১ থেকে ৩০ খ্রীঃপূঃ পর্যন্ত মিশরের রানী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "última reina d'Egipte, de la dinastia dels Ptolemeu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "egyptská královna"
+    },
+    "da": {
+      "language": "da",
+      "value": "Den sidste farao i oldtidens Egypten"
+    },
+    "de": {
+      "language": "de",
+      "value": "letzte Königin des ägyptischen Ptolemäerreiches und letzter weiblicher Pharao"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελληνίδα βασίλισσα της Πτολεμαϊκής Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BCE"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Queen of the Ptolemaic Kingdom of Egypt"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "faraonino de Egiptio"
+    },
+    "es": {
+      "language": "es",
+      "value": "faraona del Antiguo Egipto"
+    },
+    "et": {
+      "language": "et",
+      "value": "hellenistliku Egiptuse viimane valitseja"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ملکه پادشاهی بطلمیوسی مصر (۵۱–۳۰ پ.م)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Egyptin kuningatar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine d'Égypte, de 51 à 30 av. J.-C."
+    },
+    "gl": {
+      "language": "gl",
+      "value": "última raíña de Exipto, entre -69 e -30"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכת מצרים האחרונה בשושלת תלמי"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "टोलेमीय मिस्र की अन्तिम सक्रिय शासक(शासनकाल- 51 से 30 ईसा पूर्व तक)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Egyiptom királynője, a Ptolemaiosz dinasztia utolsó uralkodója"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "regina de Egypto, 51 a 30 aEC"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ratu Mesir dari tahun 51 hingga 30 SM"
+    },
+    "it": {
+      "language": "it",
+      "value": "ultima regina del regno tolemaico d'Egitto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エジプトのプトレマイオス朝の女王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이집트 프톨레마이오스 왕국의 마지막 파라오"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "प्राचीन इजिप्तची राणी"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "reġina Eġizzjana tal-perjodu Tolemajk"
+    },
+    "my": {
+      "language": "my",
+      "value": "တိုလမီခေတ် အီဂျစ်ပြည်၏ နောက်ဆုံး အုပ်ချုပ်သူ (ဘုရင်)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "siste farao i det gamle Egypt"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "köäniginne van Egypte van 51 töt 30 vK"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit het oude Egypte (68v Chr–29v Chr)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "último fárao di Egipto antiguo"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa hellenistycznego Egiptu z I wieku przed naszą erą"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rainha do Reino Ptolemaico do Egito de 51 a 30 a.C."
+    },
+    "ro": {
+      "language": "ro",
+      "value": "conducătoare a regatului Ptolemeic din Egipt"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царица эллинистического Египта из македонской династии Птолемеев"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "51 کان 30 ق.م تائين مصر جي راڻي"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mbretëresha e Egjiptit nga viti 51 deri në 30 p.e.s"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "последња жива фараонка птоломејског Египта"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "drottning av det ptolemeiska Egyptiska riket 51–30 f.Kr"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Malkia wa Ufalme wa Ptolemaic wa Misri kutoka 51 hadi 30 BC"
+    },
+    "th": {
+      "language": "th",
+      "value": "ราชินีแห่งอียิปต์โบราณ"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li lawa e ma Keme"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antik Mısır'ın son Helenistik kraliçesi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цариця Єгипту, остання з царських правителів Стародавнього Єгипту"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مصر کی سلطنت بطلیموس کی آخری ملکہ جس نے 51 قبل مسیح سے 30 قبل مسیح تک حکمرانی کی۔"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "nhà cai trị thực sự cuối cùng của Vương triều Ptolemaios, Ai Cập"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃及托勒密王國末代法老"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "古埃及托勒密王朝末代女王"
+    }
+  },
+  "id": "Q70410",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Cleopatra VII"
+    },
+    "am": {
+      "language": "am",
+      "value": "ክሌዮፓትራ"
+    },
+    "an": {
+      "language": "an",
+      "value": "Cleopatra VII"
+    },
+    "anp": {
+      "language": "anp",
+      "value": "क्लियोपैत्रा"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "كليوباترا"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "كليوپاطرا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كليوباترا السابعه"
+    },
+    "as": {
+      "language": "as",
+      "value": "ক্লিঅ’পেট্ৰা"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Cleopatra VII"
+    },
+    "awa": {
+      "language": "awa",
+      "value": "क्लियोपेट्रा"
+    },
+    "az": {
+      "language": "az",
+      "value": "VII Kleopatra"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "کلئوپاترا"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Клеопатра VII"
+    },
+    "ban": {
+      "language": "ban",
+      "value": "Kléopatra"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Cleopatra"
+    },
+    "be": {
+      "language": "be",
+      "value": "Клеапатра"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Клеапатра"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Клеопатра VII"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "क्लियोपैट्रा"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ক্লিওপেট্রা"
+    },
+    "br": {
+      "language": "br",
+      "value": "Kleopatra VII"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Kleopatra VII"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cleòpatra VII"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Kleopatra 7-sié"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Cleopatra"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "کلیۆپاترا"
+    },
+    "co": {
+      "language": "co",
+      "value": "Cleopatra"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kleopatra VII."
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Клеопатра"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cleopatra"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kleopatra 7."
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleopatra VII."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Kleopatra VII."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Kleopatra VII"
+    },
+    "dtp": {
+      "language": "dtp",
+      "value": "Cleopatra"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλεοπάτρα Ζ΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleopatra"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Cleopatra"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cleopatra"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Cleopatra"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kleopatro (la 7-a)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cleopatra"
+    },
+    "et": {
+      "language": "et",
+      "value": "Kleopatra"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Kleopatra VII.a"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Cleopatra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کلئوپاترا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kleopatra VII"
+    },
+    "fo": {
+      "language": "fo",
+      "value": "Kleopatra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléopâtre"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Kleopatra VII."
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Kleopatra VII"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cléópátra"
+    },
+    "gan": {
+      "language": "gan",
+      "value": "可利俄捌拿七世"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Cleopatra"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cleopatra VII"
+    },
+    "gom": {
+      "language": "gom",
+      "value": "Cleopatra"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κλεοπάτρα Φιλοπάτωρ"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Kleopatra VII."
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Cleopatra"
+    },
+    "haw": {
+      "language": "haw",
+      "value": "Cleopatra"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלאופטרה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "क्लियोपाट्रा ७"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kleopatra"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Cléopâtre VII"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VII. Kleopátra"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կլեոպատրա"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Քլէոփաթրա"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Cleopatra"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kleopatra"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Cleopatra"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Cleopatra"
+    },
+    "io": {
+      "language": "io",
+      "value": "Kleopatra"
+    },
+    "is": {
+      "language": "is",
+      "value": "Kleópatra 7."
+    },
+    "it": {
+      "language": "it",
+      "value": "Cleopatra"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレオパトラ7世"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Kliopachra VII"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Cleopatra"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კლეოპატრა VII"
+    },
+    "kaa": {
+      "language": "kaa",
+      "value": "Kleopatra"
+    },
+    "kbp": {
+      "language": "kbp",
+      "value": "Cléopatre"
+    },
+    "kcg": {
+      "language": "kcg",
+      "value": "Ki̱liyopatra"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Клеопатра VII"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಕ್ಲಿಯೋಪಾತ್ರ"
+    },
+    "knc": {
+      "language": "knc",
+      "value": "Cleopatra"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "클레오파트라 7세"
+    },
+    "ks": {
+      "language": "ks",
+      "value": "کٔلیوپیٹرا"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Kleopatra VII."
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Cleopatra VII"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cleopatra VII"
+    },
+    "lad": {
+      "language": "lad",
+      "value": "Kleopatra VII"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Cleopatra"
+    },
+    "li": {
+      "language": "li",
+      "value": "Cleopatra VII"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Cleopatra VII"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Kleopatra VII"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Kleopatra"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "克婁巴特拉七世"
+    },
+    "map-bms": {
+      "language": "map-bms",
+      "value": "Cleopatra"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Cléopâtre VII"
+    },
+    "min": {
+      "language": "min",
+      "value": "Kleopatra"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Клеопатра"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ക്ലിയോപാട്ര"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "VII Клеопатра"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "क्लिओपात्रा"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Cleopatra VII dari Mesir"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Kleopatra VII"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Cleópatra"
+    },
+    "my": {
+      "language": "my",
+      "value": "ကလီယို ပတ်ထရာ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kleopatra 7-sè"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Cleopatra"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kleopatra"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Kleopatra VII."
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Cleopatra"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "क्लियोपेट्रा सातौं"
+    },
+    "new": {
+      "language": "new",
+      "value": "किळियोपाट्रा"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cleopatra VII"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Kleopatra"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Cleopatra VII"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਕਲੀਓਪੈਟਰਾ"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Cleopatra"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Cleopatra"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kleopatra VII"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "قلوپطرہ"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "کلیوپاترا"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cleópatra"
+    },
+    "qu": {
+      "language": "qu",
+      "value": "Kleopatra VII"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Cleopatra"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеопатра"
+    },
+    "sa": {
+      "language": "sa",
+      "value": "क्लियोपैत्रा"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Cliupatra"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Cleopatra VII"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "قلوپطرہ"
+    },
+    "sgs": {
+      "language": "sgs",
+      "value": "Kleuopatra VII"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kleopatra"
+    },
+    "shi": {
+      "language": "shi",
+      "value": "Cleopatra Tis Sat"
+    },
+    "si": {
+      "language": "si",
+      "value": "ක්ලියෝපැට්රා"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kleopatra VII."
+    },
+    "skr": {
+      "language": "skr",
+      "value": "قلوپطرہ"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kleopatra VII."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kleopatra VII."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Клеопатра VII"
+    },
+    "stq": {
+      "language": "stq",
+      "value": "Kleopatra VII."
+    },
+    "su": {
+      "language": "su",
+      "value": "Kleopatra"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kleopatra VII av Egypten"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Kleopatra"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஏழாம் கிளியோபாட்ரா"
+    },
+    "te": {
+      "language": "te",
+      "value": "క్లియోపాత్రా"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Клеопатра"
+    },
+    "th": {
+      "language": "th",
+      "value": "คลีโอพัตรา"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Cleopatra VII ng Ehipto"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Kejopata nanpa luka tu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VII. Kleopatra"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Клеопатра"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеопатра VII"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "قلوپطرہ"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Kleopatra"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cleopatra VII"
+    },
+    "vro": {
+      "language": "vro",
+      "value": "Kleopatra VII"
+    },
+    "war": {
+      "language": "war",
+      "value": "Cleopatra VII"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "克娄巴特拉七世"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "კლეოპატრა"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Cleopatra 7k"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "埃及妖后"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "克娄巴特拉七世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "姬奧帕特娜七世"
+    }
+  },
+  "lastrevid": 17614290,
+  "modified": "2025-09-21T04:30:10Z",
+  "ns": 860,
+  "pageid": 85241,
+  "sitelinks": {},
+  "title": "Item:Q70410",
+  "type": "item"
+}

@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Corrhaeus"
+      },
+      {
+        "language": "en",
+        "value": "Corrhaeus, king of Thrace"
+      },
+      {
+        "language": "en",
+        "value": "Korrhagos"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q74006$56BA3336-9EFD-4AA0-A2D1-216F69CFA8AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738582"
+          },
+          "hash": "c8792dc182325cb8d9b839e5498a114ed380bde6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74006$3D7D4B4E-F8B3-4E0B-A78B-9DC05397B737",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73946",
+              "numeric-id": 73946
+            }
+          },
+          "hash": "8c9d64a8b5ce5213ca505051af378eae35dec2e0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74006$8E8A4873-C74C-4C9A-ABBD-042BED094FD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74006$0DBDC003-F75D-4E92-8295-09B0CA48146A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74006$DA0D2EF9-5346-4E43-93A5-43A6731260E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q74006$F28FDD03-6CE6-4361-9E5E-05497105ED32",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0380-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f0777a3baecbea86d2cdd7a39e2cd90f2f37118c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74006$85A0D46B-BCC2-4651-A2D5-A6AFEB661BF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116474581"
+          },
+          "hash": "197a41f8913cafbc41a2b918b8f54dc0b7f748ee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74006$A860148D-6D01-45EB-9F02-B251F41DA755",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008517951667"
+          },
+          "hash": "4a53b8e4e24838403534d1d57dad09624f26db42",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74006$302D9975-11AE-4918-8976-FDDAB57D234E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Korrhagos Arms.svg"
+          },
+          "hash": "5b643a2a2dc8f9b2b73df49eda12a9ed48389df5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "father of Stratonice, wife of Antigonus I"
+    }
+  },
+  "id": "Q74006",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Korrhagos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Корраг"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Корраг"
+    }
+  },
+  "lastrevid": 17486798,
+  "modified": "2025-09-16T18:54:13Z",
+  "ns": 860,
+  "pageid": 88837,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74006",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74006"
+    }
+  },
+  "title": "Item:Q74006",
+  "type": "item"
+}

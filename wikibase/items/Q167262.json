@@ -1,0 +1,873 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manuel I of Trebizond //"
+      },
+      {
+        "language": "en",
+        "value": "Manuel I of Trebizond"
+      },
+      {
+        "language": "en",
+        "value": "Manuel I Megas /Komnenos/"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q46167$311F9347-8747-414B-ADD6-17919D7C9902",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "280446"
+          },
+          "hash": "2ff7b0f7950a8bddd8b2849cd9cf3f8b74508816",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q46167$9DEB2857-5F33-4933-A01F-5DC0CCE14179",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00302850"
+          },
+          "hash": "01f0537da33da98e500263df3c9b8b618f093dc2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q46167$94ABC727-7453-4B9F-8508-0E70D437A0CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46175",
+              "numeric-id": 46175
+            }
+          },
+          "hash": "56d973808e2f15cabfb8a6f0a5fc258329ab638b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$02EFEEA4-6C8D-4C42-B5A6-72A2DC49B5F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43290",
+              "numeric-id": 43290
+            }
+          },
+          "hash": "e7206843dfed185935984c0e3a132ab1b877fb92",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$4E31DAB9-8A58-49D3-B686-69A968553E3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43362",
+              "numeric-id": 43362
+            }
+          },
+          "hash": "6f6d69a5af52873145d129e9238470522b4c6ef5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$72E3814F-68F3-4AAD-8344-FA4A1BE0C049",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50059",
+              "numeric-id": 50059
+            }
+          },
+          "hash": "6e24a09d598b915eeec50f11c2c4213de8416542",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$3C2F3676-EC54-4A7A-AFD5-5E92B6B0C2A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46179",
+              "numeric-id": 46179
+            }
+          },
+          "hash": "bf06a824f992765de8af2e4bd8ad5d6743af40e2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$6F54A0E7-122B-434D-B055-27DFCDC49E6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46183",
+              "numeric-id": 46183
+            }
+          },
+          "hash": "a126f1ffe649eb0bd60517af129a36167431b1b9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$5D207DAB-ECB3-4B58-8118-207718D9C3E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167287",
+              "numeric-id": 167287
+            }
+          },
+          "hash": "11c9e0ae0b01781099309c8ea6425c98f9e66a46",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$FA76E4A6-9B62-4BDD-9EA8-C368444582AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167288",
+              "numeric-id": 167288
+            }
+          },
+          "hash": "ddd64a2835976ce78b6e06dc250ab110a086baf1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$E653BA41-E73C-4478-A1F0-6D3854B855BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167289",
+              "numeric-id": 167289
+            }
+          },
+          "hash": "e0fb7df16f7669126b9f020d458e2cc2cedf231d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$34AA7A0F-B10B-443F-9387-258B4B848264",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167290",
+              "numeric-id": 167290
+            }
+          },
+          "hash": "8ab8c37dabce76ffe721ab1a453f912a2907ab50",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$42073C05-32FF-45CD-9C97-13D42500A54D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167293",
+              "numeric-id": 167293
+            }
+          },
+          "hash": "a4f36ee65f48ee6ebe877b335e46bba87e4545b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46167$AB86871D-F62A-4CB5-B29C-3E8CD507D23E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$DE4FC334-3339-418E-A66A-6D48C99ADD2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q46167$50FD3BC1-3469-4225-B0B1-864F51AAF413",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Manuel_I_of_Trebizond_(1)"
+          },
+          "hash": "34e8dedd721c71c45a0d064a68e68b8aff83092c",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q46167$2055EDB3-5EF5-4756-8048-5FB9E86C50A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46171",
+              "numeric-id": 46171
+            }
+          },
+          "hash": "3085bd24686f0aab70c4e337c8cef52fa7753a82",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$2A8F4100-A1F5-4D25-882C-7C2CAD2DDE15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50050",
+              "numeric-id": 50050
+            }
+          },
+          "hash": "726c0a51eef9439e6472ea0552cb1ebe613a2103",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$85742ECD-E8BA-4EDD-B1C5-BE5BDCC6E5F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50054",
+              "numeric-id": 50054
+            }
+          },
+          "hash": "8e3dd80fd61c571ad3f72aadef8ce30b80956885",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$C35C94C2-8D5C-4C3A-B611-A1BDB22C1911",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167286",
+              "numeric-id": 167286
+            }
+          },
+          "hash": "eb6cc4809a9ebe1237614555238da65fddd73966",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$41D3F784-F699-4454-9AA9-11B560CC5F02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167291",
+              "numeric-id": 167291
+            }
+          },
+          "hash": "4258c268314334343e44af847348d2ff38b790da",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$DEC9920B-883D-42B9-B413-9D7B35F1A47B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167255",
+              "numeric-id": 167255
+            }
+          },
+          "hash": "3e6b3bef3ae4107f53c7cf58946bc2bb10072893",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q46167$40742DD8-1A4E-4397-888E-4922E0E43793",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21911.htm#i219107"
+          },
+          "hash": "eaee61554259ec5e874be3b55e0a805c3655fda7",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46167$83219A3C-4C9B-4D14-B046-55C6A92E6557",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50033",
+              "numeric-id": 50033
+            }
+          },
+          "hash": "2c2887b5140603c33ad4509222ad22dddfa2f5b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46167$A163C288-8ABE-4445-8E88-0F642C111004",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50038",
+              "numeric-id": 50038
+            }
+          },
+          "hash": "f639511f56d18663259299fb7be9d33deb80d316",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46167$D9344C71-8A9B-44DE-9251-746832E70958",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167261",
+              "numeric-id": 167261
+            }
+          },
+          "hash": "24aba34195f2e09923193c57f36388dfde4fc3c1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46167$F5393317-F698-4886-A87F-5178D4CB7CAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46167$ECE6014A-7D14-47DF-AF18-898C7C0A5E82",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1218-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f76eb57d4ae1ae46e0a269cfc82f18dd28aa5c19",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46167$181CF8DF-0382-4495-A317-29D759167F7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1263-03-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eb229bdc66e5dc696e57e777f09ae201f03236fd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46167$3B192E25-AAAC-49F6-B362-90E48DDABE91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q366036"
+          },
+          "hash": "561de8654bf812959f05ac7713685558909f39fc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q46167$EAEC622A-86B1-4008-8DF8-A8F7D9954791",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003827561325"
+          },
+          "hash": "97dbfd554d2ca56f291f3853193ccc1fe234a91f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46167$4788858D-A3BC-48A1-A384-523FEF606ADD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manuel I of Trebizond Arms.svg"
+          },
+          "hash": "ec232ac2424c02dec637ff3373e9e15e88478ba1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q46167$A8C0F528-DBC0-4B2B-A3D3-A7F166D3B9AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/7aec8aed-f88d-44d6-93a0-619f5ba150ae"
+          },
+          "hash": "7dce3f92cb3d142b141063e2b6c78e83cddf01b7",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "император на Трапезунд"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador de Trebisonda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Trapezunt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur de Trébizonde (1237-1263)."
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Emperador de Trebisonda"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "trapezunti császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Trebizond (1238-63)"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore trapezuntino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "全ローマ人の皇帝並びにアウトクラトール"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit keizerrijk Trebizonde (1218-1263)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Trabzon İmparatoru"
+    }
+  },
+  "id": "Q46167",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مانويل الأول من طرابزون"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Manuel (Trabzon imperatoru)"
+    },
+    "be": {
+      "language": "be",
+      "value": "Мануіл I Вялікі Камнін"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Мануіл I Мэгас Комнін"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мануил I Велики Комним"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Manuel I Trapezuntski"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Manuel I de Trebisonda"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Manuel I. Trapezuntský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Manuel I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Μανουήλ Α΄ Μέγας Κομνηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manuel I of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Manuelo la 1-a de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manuel I de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Manuel Ier de Trébizonde"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Manuel I de Trebisonda"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Manuel I. Trapezuntski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Manuél trapezunti császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Manuel I dari Trebizond"
+    },
+    "it": {
+      "language": "it",
+      "value": "Manuele I di Trebisonda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マヌエル1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მანუელ I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마누엘 1세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Manuel I"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Manuilas I Megas Komninas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Manuel I Megas Komnenos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Manuel I Megas Komnenos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Manuel I Wielki Komnen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Manuel I da Trebizonda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Manuel I da Trebizonda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мануил I Великий Комнин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Manuel I of Trebizond"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Манојло I Велики Комнин"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Манојло I Велики Комнин"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Manojlo I Veliki Komnin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Manuel I Megas Komnenos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Trabzonlu I. Manuel Komnenos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мануїл I Великий Комнін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "曼努埃尔一世"
+    }
+  },
+  "lastrevid": 17451016,
+  "modified": "2025-09-16T10:08:26Z",
+  "ns": 860,
+  "pageid": 62305,
+  "sitelinks": {},
+  "title": "Item:Q46167",
+  "type": "item"
+}

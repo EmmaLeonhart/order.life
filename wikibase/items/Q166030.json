@@ -1,0 +1,686 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleopatra of Macedon"
+      },
+      {
+        "language": "en",
+        "value": "Person Q166030"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135225$1BECD4C2-BE81-4B8B-BD8C-F4298DCD5844",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736413"
+          },
+          "hash": "0e7d2ef8c6b655b19bc740255b20bcfa9503cc3d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135225$EDB01BDF-AC2B-4680-9BBF-E0D01F27DF56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135287",
+              "numeric-id": 135287
+            }
+          },
+          "hash": "a57e17bf9034bb6a7b3d2a2e82c300882a99a0d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135225$2BE98528-6B35-4572-ACB4-D546D1501E9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135288",
+              "numeric-id": 135288
+            }
+          },
+          "hash": "79f5199a9ed59312b2d8183e4bf58ca40c42a1d9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135225$544403A2-4FA3-4DE0-A7FA-CF42F1B27F36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166082",
+              "numeric-id": 166082
+            }
+          },
+          "hash": "c728a21aaf7d49c19daf8ed601e9dc6ee06e60e7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135225$AF1D6ABC-EAD5-4240-8A6A-7A619657B8A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166083",
+              "numeric-id": 166083
+            }
+          },
+          "hash": "04c3f3497f4aba6e5b8f27f094c4cf97d0dbf129",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135225$20FB233F-1122-461E-BEE3-2A4532F5926B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135225$3DA09D4B-6343-4D56-8E90-870947734699",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135225$634404C6-31F7-4169-A729-EBA0F8C56301",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135275",
+              "numeric-id": 135275
+            }
+          },
+          "hash": "a38bfb8b0806440d3e0293be3a5a5ea651a932d6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135225$52131E60-9304-432C-B162-8FD8D93EE0B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166081",
+              "numeric-id": 166081
+            }
+          },
+          "hash": "dd4f240983d109d4e5b2212fad50491fc591c868",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135225$5332AC30-1EB0-40F0-8539-88073ED05FAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165352",
+              "numeric-id": 165352
+            }
+          },
+          "hash": "8e65f7dcaef5222a6ddb0e0373742017fadaee06",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135225$3E1E11A0-B5FB-43D0-8850-0E61148F21FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166084",
+              "numeric-id": 166084
+            }
+          },
+          "hash": "58e9547d66a584687638bb5e46e58cc970cc28c5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135225$2ADAF17F-FA5E-4C7D-A1F3-821E8234FB71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135177",
+              "numeric-id": 135177
+            }
+          },
+          "hash": "8dcd866b095925e30d6e6cb4722d2198fff22515",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135225$F8527E8C-A4D8-423F-90C2-8655BFFB34ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165964",
+              "numeric-id": 165964
+            }
+          },
+          "hash": "7c44908728773d79aa4e4624c690149fcb702aad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135225$93501E06-8D7E-4CD3-9370-0A27243F24C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135218",
+              "numeric-id": 135218
+            }
+          },
+          "hash": "905559826de1a95e93cafcae60c348162de8a58e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135225$D155DEB2-796F-4435-9B98-991C73039CF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135225$4D919FD2-2696-4367-B5F5-121D71629039",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135225$A3531C75-BFB8-4D85-92B2-B3D03E6A60C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0308-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2973849ef08476f4b7d3670b40b166269f17dba5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135225$20C08632-A062-4585-9C3F-AC07BB6CB1CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q230258"
+          },
+          "hash": "326c789f92be69ae5b30ee351aa191065c3119be",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135225$FA0B99C9-DD18-4937-84BA-6D8879940F87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645896976"
+          },
+          "hash": "ebf092e40fb3ae11d445911aedbdd4e560f74729",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135225$55795F9A-C71B-48F2-B5A7-0F4F4D19CAA5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleopatra of Macedon Arms.svg"
+          },
+          "hash": "ad0870a43021e4a4444ebfd41119e1ebe1ed66c7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "řecko-makedonská princezna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schwester Alexanders des Großen, spielte eine Rolle während der Diadochenkriege"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασίλισσα της Ηπείρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th-century BC Macedonian princess and queen regent of Epirus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "edzino de reĝo de Epiro"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Makedonian kuninkaan Filippos II:n ja Olympiaan tytär"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine consort d'Épire, sœur d'Alexandre le Grand"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "યુપીરસની રાણી"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכה מוקדונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "makedón hercegnő és épeiroszi régenskirályné, Nagy Sándor húga"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Էպիրուսի թագուհի"
+    },
+    "it": {
+      "language": "it",
+      "value": "sorella di Alessandro Magno"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "кралица на Македонија и Епир"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Macedonië (357v Chr-308v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Epiru"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "princesa macedônia e rainha regente do Epiro do século IV a.C."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "македонская царевна, регент Древнеэпирского царства"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "MÖ 4. yüzyıl Makedo prenses ve Epirus naip kraliçesi"
+    }
+  },
+  "id": "Q135225",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كليوباترا المقدونية"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Cleopatra de Macedonia"
+    },
+    "be": {
+      "language": "be",
+      "value": "Клеапатра"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Клеопатра Македонска"
+    },
+    "br": {
+      "language": "br",
+      "value": "Kleopatra Makedonia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cleòpatra de Macedònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kleopatra Makedonská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleopatra von Makedonien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλεοπάτρα της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleopatra of Macedon"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kleopatro de Makedonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cleopatra de Macedonia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کلئوپاترای مقدونی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kleopatra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléopâtre de Macédoine"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cléópátra na Macadóine"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κλεοπάτρα"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "મેસેડોનની ક્લીઓપેટ્રા"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלאופטרה, מלכת מוקדון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Makedóniai Kleopátra"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կլեոպատրա Մակեդոնացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kleopatra dari Makedonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cleopatra di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレオパトラ (ピリッポス2世の娘)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cleopatra (Philippi II filia)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Клеопатра Македонска"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "क्लिओपात्रा"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kleopatra av Makedonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cleopatra van Macedonië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kleopatra z Macedonii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cleópatra da Macedónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cleópatra da Macedônia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеопатра"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kleopatra od Makedonije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kleopatra e Maqedonisë"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kleopatra av Makedonien"
+    },
+    "th": {
+      "language": "th",
+      "value": "คลีโอพัตรา แห่งมาซิโดเนีย"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kleopatra (II. Filip'in kızı)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеопатра"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "قلوپطرہ مقدونی"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cleopatra của Macedonia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬其頓的克麗奧佩脫拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "马其顿的克丽奥佩脱拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "马其顿的克丽奥佩脱拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馬其頓的克麗奧佩脫拉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "馬其頓的克麗奧佩脫拉"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "马其顿的克丽奥佩脱拉"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "馬其頓的克麗奧佩脫拉"
+    }
+  },
+  "lastrevid": 17551194,
+  "modified": "2025-09-17T10:19:43Z",
+  "ns": 860,
+  "pageid": 163610,
+  "sitelinks": {},
+  "title": "Item:Q135225",
+  "type": "item"
+}

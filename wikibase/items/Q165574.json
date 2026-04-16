@@ -1,0 +1,612 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Πτολεμαῖος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolemy XIII Theos Philopator"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136433$E1AF1518-7264-49EA-85F0-E0780815FE8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "153516"
+          },
+          "hash": "29b56e9281f0c44501663b301ef175b1f8ee0784",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q136433$07E030A9-4050-490B-8B16-1BA9689AEFE4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567217"
+          },
+          "hash": "2d13ad88d00383f93492e009a81b43679ac97bbb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136433$66E7759E-9917-46CE-ACAE-58B96B1E87B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136433$072F1440-C4DD-4698-A221-75142B40334F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136433$EE21DDB7-70B8-48E1-8E4D-E372AEAD6B43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy_XIII_Theos_Philopator_(1)"
+          },
+          "hash": "0f0e681ecf75ca5f7aefbb3538c5d95d9bebcec8",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136433$1108C2D4-932F-43C2-94CD-6F6D0863071C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70410",
+              "numeric-id": 70410
+            }
+          },
+          "hash": "16a716e8f3b47a4504ce26096b1cf36c261b5811",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136433$07328388-0D7B-42CD-A716-8B300B82110F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78612",
+              "numeric-id": 78612
+            }
+          },
+          "hash": "3d81f9d00f5d6196cdfd9026ddd2f6402fb3883c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136433$8E6430D7-5012-46AC-8E13-A3308ABB4747",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78609",
+              "numeric-id": 78609
+            }
+          },
+          "hash": "22126569fdef1f8df6ff8337dc18bd4672cb51a9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136433$FA8B3927-5DD6-4F92-9529-D7D92CD5D045",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136433$3CE94B63-8CD8-4E6A-8596-29C9AB01342F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0062-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d16294140504fb55429fb1e4cc35b45deeadf816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136433$619D0048-BA2F-4A3A-985C-7C93585057AA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0047-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "46b4c7d4558c54c8566cc0dbc44b5abad4bf7ee2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136433$BA0D4A47-82B7-4A6C-94A7-9076972F8538",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q39938"
+          },
+          "hash": "6be6e8e68270aa50af6db117070f7a9ffb725cd1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q136433$643B1F95-339A-4B21-AB71-2AB386F6B801",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645882894"
+          },
+          "hash": "066e419a5a8e17842991cf1fd0bbf02facca8519",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136433$E821CF25-32C9-4624-9DF7-C36D28A766D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy XIII Theos Philopator Arms.svg"
+          },
+          "hash": "1e932358952cfc5e56d1db465b1c8e4c75fc70cc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك مقدوني"
+    },
+    "az": {
+      "language": "az",
+      "value": "Misir fironu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "faraó egipci"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "egyptský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "jüngerer Bruder und Gatte von Kleopatra VII."
+    },
+    "en": {
+      "language": "en",
+      "value": "Pharaoh of Egypt from 51 to 47 BC"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "pli juna frato kaj edzo de Kleopatro, faraono de Egiptio de 51 ĝis 47 a.K."
+    },
+    "es": {
+      "language": "es",
+      "value": "faraón egipcio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Égypte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano egizio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス朝末期のファラオ、クレオパトラ7世の弟"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "faragħun Eġizzjan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning van Egypte (62v Chr-47v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "władca Egiptu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Царь Египта"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "mlajši brat in mož Kleopatre VII.; faraon Egipta od 51 do 47 pr. n. št."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "farao"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цар Єгипту"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃及國王"
+    }
+  },
+  "id": "Q136433",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ptolemy XIII Theos Philopator"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بطليموس الثالث عشر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بطليموس التلتاشر"
+    },
+    "az": {
+      "language": "az",
+      "value": "XIII Ptolemey Teos Filopator"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пталамей XIII"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Птолемей XIII"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemeu XIII Filopàtor"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ptolemaios XIII. Theós Filopátór"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ptolemi XIII Theos Philopator"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ptolemaios 13. af Ægypten"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios XIII."
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος ΙΓ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemy XIII Theos Philopator"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ptolemeo la 13-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolomeo XIII"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ptolemaios XIII"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ptolomeo XIII.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بطلمیوس سیزدهم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ptolemaios XIII"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée XIII"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tolamaes XIII Theos Philopator"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πτολεμαῖος Θεός Φιλοπάτωρ"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמי השלושה עשר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XIII. Ptolemaiosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պտղոմեոս XIII Թեոս Ֆիլոպատոր"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Պտղոմէոս ԺԳ.Թէոս Ֆիլոպատոր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ptolemaios XIII Theos Philopator"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo XIII"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス13世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პტოლემე XIII"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프톨레마이오스 13세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ptolemaeus XIII"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ptolemėjas XIII"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Ptolemaiosy XIII"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Tolomew XIII"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Ptolemaios 13-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ptolemaios XIII av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemaeus XIII Theos Philopator"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ptolemaios XIII av Egypt"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz XIII"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemeu XIII"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ptolemeu XIII"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей XIII Теос Филопатор"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ptolemej XIII Teos Filopator"
+    },
+    "si": {
+      "language": "si",
+      "value": "ටොලමි XIII තියොස් ෆිලොපේටර්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj XIII."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Птолемеј XIII Теос Филопатор"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ptolemaios XIII Filopator Filadelfos"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பதிமூன்றாம் தாலமி"
+    },
+    "th": {
+      "language": "th",
+      "value": "ปโตเลมีที่ 13"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "XIII. Ptolemaios"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей XIII"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بطلیموس دوازدہم تھیئوس فلاپاٹر"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ptolemaios XIII Theos Philopator"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "托勒密十三世"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Ptolemy 13k"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密十三世"
+    }
+  },
+  "lastrevid": 17553097,
+  "modified": "2025-09-17T10:47:05Z",
+  "ns": 860,
+  "pageid": 164818,
+  "sitelinks": {},
+  "title": "Item:Q136433",
+  "type": "item"
+}

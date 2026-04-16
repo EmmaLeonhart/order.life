@@ -1,0 +1,544 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Λεωνίδας"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Leonidas II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q137125$F9D82852-DB57-4CBE-B8A1-D803ED1E9455",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "695210"
+          },
+          "hash": "5b36f7e1630687d1c38af9674f193a3eefa8d30e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q137125$0EC5B6F9-A72C-4F83-827A-CC9A9AF34F9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137640",
+              "numeric-id": 137640
+            }
+          },
+          "hash": "80beaa91b6579ae66af0c8469e27417d001d84b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137125$E075B48A-F5BE-4224-9E17-2AE003678E2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137641",
+              "numeric-id": 137641
+            }
+          },
+          "hash": "4aa6102e5be40af7f84c5b2f3ed57e8cac175e05",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137125$B5679E23-2C17-4704-94A5-127871B00D73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137642",
+              "numeric-id": 137642
+            }
+          },
+          "hash": "3f3f9a84843b4141b2155a549d7573d50e05577d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137125$17E70144-62E1-4000-B0B1-FFD3E7446A91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167130",
+              "numeric-id": 167130
+            }
+          },
+          "hash": "57ffc48a35e18b2e82e3eae69eaf93e4a9d55858",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137125$8349BD9F-69BD-4263-8B4E-D0332D65E85D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167131",
+              "numeric-id": 167131
+            }
+          },
+          "hash": "0e95c9193a30fa47bf6d1ab039dce271b4732a7e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q137125$9F22570F-5838-42E4-BEDD-AC6B3F1249D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137125$86355FF2-B7B2-4B46-964B-F8666EB04917",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q137125$E6F0A93A-883B-438D-B127-B0F69D3EF857",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137639",
+              "numeric-id": 137639
+            }
+          },
+          "hash": "38e779cb68e779be2516b47fe417842f704bdb4b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137125$59374DFA-7067-4FEC-ACD5-25BF42641D99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167129",
+              "numeric-id": 167129
+            }
+          },
+          "hash": "ac39aa1e08ceeddc39f6abd9a08e570226e961ad",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137125$D443E2F8-0602-49C1-8A9B-F82FA7FC6457",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136722",
+              "numeric-id": 136722
+            }
+          },
+          "hash": "20fc3c2f92c4a8f7e26bba7ee50b37b425704e4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137125$3259FBA0-D61B-476F-84F0-2A19DF35F3B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167102",
+              "numeric-id": 167102
+            }
+          },
+          "hash": "7de4ad7fdadc9c08da0964ccfaf44ccf4a898769",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137125$17AD6972-A976-4C8F-B4B8-70E4A7818509",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137125$3134279F-1BCE-41C7-8027-4B375D591C37",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0315-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f9506da2ce133d2478df6f68ff2bc12b4897586",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q137125$DCF7C6D2-91D0-4595-AE2E-D69A8CC5C5BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0235-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa27668db7d58fa986f5046c252e8d6f1d3ab78f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137125$27C1E1A5-2835-491A-9054-BAFF78440C10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q173795"
+          },
+          "hash": "b0c8dcd1e5ac09d474fd2abf2f063fae6fa44ed3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q137125$4D269468-CC7F-449D-9A41-45407FE16B3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000020703908669"
+          },
+          "hash": "789ebb068c7aad4908d0b52cbee317a9b82ef587",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137125$B6E54495-5C79-4DA4-9C29-77CEBB505B2C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Leonidas II Arms.svg"
+          },
+          "hash": "9046f28bb3d081a4057304813d226652d9d44060",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Sparta"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Sparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ספרטה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Sparta (-235v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Царь Спарты"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цар Спарти"
+    }
+  },
+  "id": "Q137125",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ليونيداس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ليونيداس التانى"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Leònides II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Leónidás II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Leonidas II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Λεωνίδας Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Leonidas II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Leónidas II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Léonidas II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Leónidas II"
+    },
+    "he": {
+      "language": "he",
+      "value": "לאונידס השני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Leónidasz spártai király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Leonidas II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Leonida II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "レオニダス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლეონიდას II"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "레오니다스 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Leonidas II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Leonidas II van Sparta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Leónidas II de Esparta"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Leônidas II de Esparta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Леонид II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Leonida II"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Leónidas II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Leonidas II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Леонида II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Leonidas II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Leonidas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Леонід II"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Leonid II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "列奥尼达二世"
+    }
+  },
+  "lastrevid": 17554225,
+  "modified": "2025-09-17T11:03:10Z",
+  "ns": 860,
+  "pageid": 165510,
+  "sitelinks": {},
+  "title": "Item:Q137125",
+  "type": "item"
+}

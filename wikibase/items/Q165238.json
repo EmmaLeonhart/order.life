@@ -1,0 +1,432 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Σπιταμένης"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Spitamenes"
+      },
+      {
+        "language": "en",
+        "value": "اسپنتمان"
+      },
+      {
+        "language": "en",
+        "value": "Σπιταμένης"
+      },
+      {
+        "language": "en",
+        "value": "Spitamenes, satrap of Bactria"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q73934$B0E59FE0-FA93-42D6-91D8-E7FA955CD01C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737920"
+          },
+          "hash": "9243d1540bc0b93329cbc571f3e19c508e2a58d2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73934$5C89C1D7-700F-484F-99B2-81E551831C07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73851",
+              "numeric-id": 73851
+            }
+          },
+          "hash": "3624857a1bacc62532141f31bcd65a8a599a4576",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73934$3C3C32B5-E573-497C-A09C-8116F99484F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73934$D4133AC7-924E-4204-A178-1597F30E5C16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73934$51A65E22-45E3-4001-83BF-A8D2D0204453",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135774",
+              "numeric-id": 135774
+            }
+          },
+          "hash": "405162f955b33ae229ca2c7f10b10a1b6bded3c1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73934$6D4022F0-AC27-4FFC-8700-B191C761686F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73934$84482646-E154-4821-B9B0-A4F097376981",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0370-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c04b6b7e532ba8b88118a5512db8a4850bd34f8c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73934$4B7E490C-581C-46AD-8CA7-6B4D917AA0DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0328-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b09dcffa28411e7ccf0187f1ea07081788cbc20d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73934$89C264EE-655C-4F70-9BC6-423BC4AD1869",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q529850"
+          },
+          "hash": "644b2356141ba2406f44daba043d84189ba2ccbf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73934$B418817E-212C-4287-8AAD-83590799F034",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006019981001"
+          },
+          "hash": "9c356cc4eb428e537deb7eb0f5f9d73368a859b2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73934$364E375B-91E5-48B4-84AB-F940C082D981",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Spitamenes Arms.svg"
+          },
+          "hash": "4cc013e006ae7fed0fbaa22f9d43fea96b67fc46",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "militar de la Sogdiana"
+    },
+    "de": {
+      "language": "de",
+      "value": "Feldherr in Baktrien und Sogdien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sogdian warlord"
+    },
+    "es": {
+      "language": "es",
+      "value": "Señor de la guerra sogdiano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سردار سغدی ایران باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général de l'Empire perse (370-328 av. J.-C.)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Condottiero sogdiano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "generaal uit Achaemenidrijk (-328v Chr)"
+    }
+  },
+  "id": "Q73934",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Спітамен"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Спитамен"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Espitàmenes"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Spitamenés"
+    },
+    "de": {
+      "language": "de",
+      "value": "Spitamenes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σπιταμένης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Spitamenes"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Spitamenes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Spitamenes"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Spitamenes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Espitamenes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسپنتمان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Spitaménès"
+    },
+    "he": {
+      "language": "he",
+      "value": "ספיטמנס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szpitamenész"
+    },
+    "it": {
+      "language": "it",
+      "value": "Spitamene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スピタメネス"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Спитамен"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스피타메네스"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Спитамен"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Spitamenes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Spitamenes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Espitamenes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Espitamenes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Спитамен"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Spitamen"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Spitamenes"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Спитамен"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Спитаман"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Спітамен"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Spitamen"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "斯比塔馬尼"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯皮塔米尼斯"
+    }
+  },
+  "lastrevid": 17486742,
+  "modified": "2025-09-16T18:53:26Z",
+  "ns": 860,
+  "pageid": 88765,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73934",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73934"
+    }
+  },
+  "title": "Item:Q73934",
+  "type": "item"
+}

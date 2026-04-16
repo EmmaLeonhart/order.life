@@ -1,0 +1,380 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Ἀγησίλαος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Agesilaus I"
+      },
+      {
+        "language": "en",
+        "value": "Ἀγησίλαος"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135019$3F3D2466-DABD-48A3-BD82-B5FDC0DE15AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135039",
+              "numeric-id": 135039
+            }
+          },
+          "hash": "e723952cc8eae8cc091de22eb8c7b390a9c12031",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135019$AB069468-38B6-41B7-A0F6-E048C9D82A3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135019$D6515EBE-8999-47AF-8711-F23DD93376E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135019$AA1EEE71-98BF-4B35-AC61-E222FB52B81B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135002",
+              "numeric-id": 135002
+            }
+          },
+          "hash": "72a024b74b68849ca846a41524265e18338b958a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135019$81D63BE3-E401-46E1-A46F-65A1BB268CF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135019$611227CE-1325-45A1-B8FA-83D5E4C7320A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0899-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1abb1ffd507a9a175a607c96d17ef9ef1db3bfa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135019$700DCC04-0203-4B7E-8D37-D1A19A79267A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0790-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9aaec0bf320321fe0f458c354e5336d6dc6eb29",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135019$44C84383-B328-4E61-8F6C-911B8A4A44D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q393054"
+          },
+          "hash": "03794fffc96b69253d1bc1a61c97fe770b76c78b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135019$2FE817F8-56AC-42AD-A224-51090D58482C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010660682238"
+          },
+          "hash": "898a183082ed8c6e637395e55bbccf142edf3f5f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135019$1A204A06-5F69-436F-B20F-A20032865EAC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agesilaus I Arms.svg"
+          },
+          "hash": "90746a6b4e7f4f6f0e184a7d70745b4ca9eb44b7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "král Sparty z konce 9. století př. n. l."
+    },
+    "de": {
+      "language": "de",
+      "value": "König der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of the Agiad line at Sparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ספרטה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi Sparta kralı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "король Спарти 820-790 рр. до н.е"
+    }
+  },
+  "id": "Q135019",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أكسليوس أول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Агесилай I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Agesilau I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Agésilaos I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Agesilaos I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγησίλαος Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agesilaus I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agesilao I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agésilas Ier"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀγησίλαος"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Agesilaos I."
+    },
+    "he": {
+      "language": "he",
+      "value": "אגסילאוס הראשון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Agészilaosz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Agesilao I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アゲシラオス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აგესილაე I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agesilaüs I van Sparta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Agesilau I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Agesilau I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агесилай I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Agesilaj I"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Agésilaos I."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Agesilaios I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Agesilaos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агесілай I"
+    }
+  },
+  "lastrevid": 17550824,
+  "modified": "2025-09-17T10:14:27Z",
+  "ns": 860,
+  "pageid": 163404,
+  "sitelinks": {},
+  "title": "Item:Q135019",
+  "type": "item"
+}
